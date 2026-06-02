@@ -181,3 +181,13 @@ export function wikidataUrl(qid) {
 export function statsUrl(qid) {
   return /^Q\d+$/.test(qid) ? url(`q/${qid}`) : null;
 }
+
+export async function loadQidStats(qid) {
+  const path = `q/${qid}.json`;
+  if (cache.has(path)) return cache.get(path);
+  const res = await fetch(url(`data/${path}`));
+  if (!res.ok) throw new Error(`Not found: ${path}`);
+  const data = await res.json();
+  cache.set(path, data);
+  return data;
+}

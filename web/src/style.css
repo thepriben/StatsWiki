@@ -259,6 +259,11 @@ td.num {
   border-bottom: 1px dotted #999;
 }
 
+.compact .qid {
+  display: inline-block;
+  margin-left: 6px;
+}
+
 .qid:hover {
   color: #1a56db;
   border-bottom-color: #1a56db;
@@ -280,6 +285,146 @@ td.num {
 
 .qid-page .link {
   color: #1a56db;
+}
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 14px;
+  font-size: 0.88rem;
+  color: #666;
+}
+
+.breadcrumb a {
+  color: #1a56db;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.crumb-current {
+  color: #1a1a1a;
+  font-weight: 500;
+}
+
+.crumb-sep {
+  color: #bbb;
+}
+
+.qid-head {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.qid-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  flex-shrink: 0;
+}
+
+.qid-head h1 {
+  margin: 0 0 6px;
+  font-size: 1.4rem;
+}
+
+.qid-meta {
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+}
+
+.qid-meta .sep {
+  margin: 0 6px;
+  color: #bbb;
+}
+
+.qid-desc {
+  margin: 0 0 8px;
+  color: #555;
+  font-size: 0.92rem;
+}
+
+.qid-total {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.chart-toolbar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.chart-toolbar button {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.88rem;
+  color: #1a1a1a;
+}
+
+.chart-toolbar button.active {
+  background: #1a1a1a;
+  color: #fff;
+  border-color: #1a1a1a;
+}
+
+.chart-wrap {
+  margin-bottom: 12px;
+}
+
+.chart {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.chart .axis {
+  stroke: #ddd;
+  stroke-width: 1;
+}
+
+.chart .area {
+  fill: rgba(26, 86, 219, 0.08);
+}
+
+.chart .line {
+  stroke: #1a56db;
+  stroke-width: 2;
+}
+
+.chart .dot {
+  fill: #1a56db;
+}
+
+.chart-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: #888;
+  margin-top: 4px;
+}
+
+.peak {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0 0 12px;
+}
+
+.hint {
+  font-size: 0.85rem;
+  color: #888;
+  margin: 0;
 }
 
 .site-footer {

@@ -1,5 +1,6 @@
 <script setup>
 import { computed, onMounted, ref, watch } from 'vue';
+import QidPage from './QidPage.vue';
 import RankingTable from './RankingTable.vue';
 import {
   MONTHS,
@@ -56,9 +57,9 @@ async function fetchData() {
   }
 
   if (route.value.kind === 'qid') {
-    loading.value = false;
     data.value = null;
     error.value = '';
+    loading.value = false;
     return;
   }
 
@@ -86,11 +87,6 @@ function goDate() {
   go(path);
 }
 
-function onLinkClick(e, path) {
-  e.preventDefault();
-  go(path);
-}
-
 const selYear = ref('');
 const selMonth = ref('');
 const selDay = ref('');
@@ -107,6 +103,32 @@ const years = computed(() => {
 const daysInMonth = computed(() => {
   if (!selYear.value || !selMonth.value) return 31;
   return new Date(Number(selYear.value), Number(selMonth.value), 0).getDate();
+});
+
+const breadcrumb = computed(() => {
+  const r = route.value;
+  const crumbs = [{ label: 'Home', path: '' }];
+  if (r.kind === 'alltime') return [...crumbs, { label: 'All time', path: null }];
+  if (r.kind === 'year') return [...crumbs, { label: String(r.year), path: null }];
+  if (r.kind === 'month') {
+    return [...crumbs, { label: String(r.year), path: String(r.year) }, { label: MONTHS[r.month - 1], path: null }];
+  }
+  if (r.kind === 'day') {
+    return [
+      ...crumbs,
+      { label: String(r.year), path: String(r.year) },
+      { label: MONTHS[r.month - 1], path: `${r.year}/${pad(r.month)}` },
+      { label: String(r.day), path: null },
+    ];
+  }
+  if (r.kind === 'qid') return [...crumbs, { label: r.qid, path: null }];
+  return crumbs;
+});
+
+const tagline = computed(() => {
+  const base = 'English Wikipedia · pageview rankings since July 2015';
+  if (manifest.value?.end) return `${base} · data through ${manifest.value.end}`;
+  return base;
 });
 
 const heading = computed(() => data.value?.period || 'StatsWiki');
@@ -137,7 +159,7 @@ watch(route, fetchData);
     <header>
       <div class="header-top">
         <a href="#" class="brand" @click.prevent="go('')">StatsWiki</a>
-        <span class="tagline">English Wikipedia · pageview rankings since July 2015</span>
+        <span class="tagline">{{ tagline }}</span>
       </div>
       <nav class="toolbar" aria-label="Browse by date">
         <a href="#" class="nav-link" @click.prevent="go('')">Home</a>
@@ -187,21 +209,21 @@ watch(route, fetchData);
               >Full page →</a>
             </header>
             <p v-if="section.error" class="empty">{{ section.error }}</p>
-            <RankingTable v-else :lines="section.lines" compact />
+            <RankingTable v-else :lines="section.lines" compact @open-qid="go" />
           </article>
         </div>
       </section>
 
-      <section v-else-if="route.kind === 'qid'" class="qid-page">
-        <h1>{{ route.qid }}</h1>
-        <p class="status">
-          Article view over time — coming soon.
-          <span class="hint">Plot daily / monthly / yearly pageviews for this Wikidata item, then compare several QIDs on a date range.</span>
-        </p>
-        <p><a :href="`https://www.wikidata.org/wiki/${route.qid}`" class="link">Open on Wikidata ↗</a></p>
-      </section>
+      <QidPage v-else-if="route.kind === 'qid'" :qid="route.qid" />
 
       <template v-else>
+        <nav v-if="breadcrumb.length > 1" class="breadcrumb" aria-label="Breadcrumb">
+          <template v-for="(crumb, i) in breadcrumb" :key="i">
+            <a v-if="crumb.path !== null" href="#" @click.prevent="go(crumb.path)">{{ crumb.label }}</a>
+            <span v-else class="crumb-current">{{ crumb.label }}</span>
+            <span v-if="i < breadcrumb.length - 1" class="crumb-sep">/</span>
+          </template>
+        </nav>
         <h1>{{ heading }}</h1>
         <nav v-if="subnav.length" class="subnav">
           <a

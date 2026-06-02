@@ -26,14 +26,14 @@ function openQid(e, qid) {
         <td>{{ line.rank }}</td>
         <td>
           <a :href="wikiUrl(line.title)" class="link">{{ line.label || titleText(line) }}</a>
+          <a
+            v-if="wikidataUrl(line.qid)"
+            class="qid"
+            :href="statsUrl(line.qid) || wikidataUrl(line.qid)"
+            @click="openQid($event, line.qid)"
+          >{{ line.qid }}</a>
           <template v-if="!compact">
             <span v-if="line.description" class="desc">{{ line.description }}</span>
-            <a
-              v-if="wikidataUrl(line.qid)"
-              class="qid"
-              :href="statsUrl(line.qid) || wikidataUrl(line.qid)"
-              @click="openQid($event, line.qid)"
-            >{{ line.qid }}</a>
             <img v-if="line.image" class="thumb" :src="line.image" :alt="line.label" loading="lazy" decoding="async" />
           </template>
         </td>

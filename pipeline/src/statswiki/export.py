@@ -115,6 +115,8 @@ def export_recent() -> None:
     export_period("year", y.year)
     export_period("alltime")
     export_manifest()
+    from statswiki.qid_export import export_qid_stats
+    export_qid_stats()
 
 
 def export_all(year: int | None = None) -> None:
@@ -140,7 +142,9 @@ def export_all(year: int | None = None) -> None:
                     export_period("day", y, m, d)
     export_period("alltime")
     export_manifest()
-    print("Export done")
+    from statswiki.qid_export import export_qid_stats
+    n = export_qid_stats()
+    print(f"Export done — {n} QID series")
 
 
 def main():
