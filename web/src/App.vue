@@ -125,11 +125,7 @@ const breadcrumb = computed(() => {
   return crumbs;
 });
 
-const tagline = computed(() => {
-  const base = 'English Wikipedia · pageview rankings since July 2015';
-  if (manifest.value?.end) return `${base} · data through ${manifest.value.end}`;
-  return base;
-});
+const tagline = 'English Wikipedia · pageview rankings since July 2015';
 
 const heading = computed(() => data.value?.period || 'StatsWiki');
 const lines = computed(() => data.value?.lines || []);
