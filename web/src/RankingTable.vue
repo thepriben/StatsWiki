@@ -1,10 +1,19 @@
 <script setup>
-import { fmtViews, titleText, wikiUrl, wikidataUrl } from './lib.js';
+import { fmtViews, statsUrl, titleText, wikiUrl, wikidataUrl } from './lib.js';
 
 defineProps({
   lines: { type: Array, required: true },
   compact: { type: Boolean, default: false },
 });
+
+const emit = defineEmits(['open-qid']);
+
+function openQid(e, qid) {
+  const path = statsUrl(qid);
+  if (!path) return;
+  e.preventDefault();
+  emit('open-qid', `q/${qid}`);
+}
 </script>
 
 <template>
@@ -16,10 +25,15 @@ defineProps({
       <tr v-for="line in lines" :key="line.title">
         <td>{{ line.rank }}</td>
         <td>
-          <a :href="wikiUrl(line.title)">{{ line.label || titleText(line) }}</a>
+          <a :href="wikiUrl(line.title)" class="link">{{ line.label || titleText(line) }}</a>
           <template v-if="!compact">
             <span v-if="line.description" class="desc">{{ line.description }}</span>
-            <a v-if="wikidataUrl(line.qid)" class="qid" :href="wikidataUrl(line.qid)">{{ line.qid }}</a>
+            <a
+              v-if="wikidataUrl(line.qid)"
+              class="qid"
+              :href="statsUrl(line.qid) || wikidataUrl(line.qid)"
+              @click="openQid($event, line.qid)"
+            >{{ line.qid }}</a>
             <img v-if="line.image" class="thumb" :src="line.image" :alt="line.label" loading="lazy" decoding="async" />
           </template>
         </td>

@@ -4,13 +4,18 @@
 
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, sans-serif;
-  background: #f0f0f0;
-  color: #222;
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  background: #e8e8e8;
+  color: #1a1a1a;
 }
 
-a {
-  color: #0645ad;
+a.link {
+  color: #1a56db;
+  text-decoration: none;
+}
+
+a.link:hover {
+  text-decoration: underline;
 }
 
 .page {
@@ -20,11 +25,12 @@ a {
 }
 
 header {
-  background: #363636;
-  color: #fff;
-  padding: 16px;
-  border-radius: 12px;
-  margin-bottom: 20px;
+  background: #fff;
+  color: #1a1a1a;
+  padding: 16px 20px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
 }
 
 .header-top {
@@ -35,53 +41,83 @@ header {
 }
 
 .brand {
-  color: #fff;
-  font-size: 1.5rem;
+  color: #1a1a1a;
+  font-size: 1.4rem;
   font-weight: 700;
   text-decoration: none;
 }
 
 .tagline {
-  font-size: 0.9rem;
-  opacity: 0.85;
+  font-size: 0.88rem;
+  color: #555;
 }
 
 .toolbar {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  align-items: center;
-  margin-top: 12px;
+  gap: 10px;
+  align-items: flex-end;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid #e0e0e0;
 }
 
-.toolbar a {
-  color: #adff2f;
+.nav-link {
+  color: #1a1a1a;
+  text-decoration: none;
+  font-size: 0.9rem;
+  padding: 6px 0;
+  border-bottom: 2px solid transparent;
 }
 
-.toolbar select,
-.toolbar button {
-  padding: 4px 8px;
+.nav-link:hover {
+  border-bottom-color: #1a1a1a;
+}
+
+.picker {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.picker select {
+  padding: 6px 8px;
   border-radius: 4px;
-  border: 1px solid #666;
-  background: #444;
-  color: #fff;
+  border: 1px solid #bbb;
+  background: #fff;
+  color: #1a1a1a;
+  font-size: 0.9rem;
+  min-width: 7rem;
 }
 
-.toolbar button {
+.btn-go {
+  padding: 7px 14px;
+  border-radius: 4px;
+  border: 1px solid #1a1a1a;
+  background: #1a1a1a;
+  color: #fff;
   cursor: pointer;
-  color: #adff2f;
+  font-size: 0.9rem;
+}
+
+.btn-go:hover {
+  background: #333;
 }
 
 main {
   background: #fff;
   padding: 20px;
-  border-radius: 12px;
+  border-radius: 8px;
   min-height: 200px;
+  border: 1px solid #ccc;
 }
 
 h1 {
   margin: 0 0 16px;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
 .home h1 {
@@ -95,7 +131,7 @@ h1 {
 }
 
 .home-block {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #e5e5e5;
   padding-top: 20px;
 }
 
@@ -115,18 +151,25 @@ h1 {
 
 .home-block h2 {
   margin: 0;
-  font-size: 1.15rem;
+  font-size: 1.1rem;
+  font-weight: 600;
 }
 
 .home-period {
   margin: 4px 0 0;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   color: #666;
 }
 
 .more {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
+  color: #1a56db;
+  text-decoration: none;
   white-space: nowrap;
+}
+
+.more:hover {
+  text-decoration: underline;
 }
 
 .status,
@@ -136,20 +179,34 @@ h1 {
   padding: 16px;
 }
 
+.status .hint {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.85rem;
+  color: #888;
+}
+
 .subnav {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 6px;
   margin-bottom: 16px;
-  padding: 8px;
-  background: #48466e;
-  border-radius: 8px;
+  padding: 10px;
+  background: #f3f3f3;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
 }
 
 .subnav a {
-  color: #fff;
+  color: #1a1a1a;
   text-decoration: none;
-  padding: 2px 6px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.88rem;
+}
+
+.subnav a:hover {
+  background: #ddd;
 }
 
 table {
@@ -169,8 +226,16 @@ table.compact th {
 th,
 td {
   padding: 8px 10px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #e8e8e8;
   text-align: left;
+}
+
+th {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #666;
+  font-weight: 600;
 }
 
 th.num,
@@ -189,7 +254,14 @@ td.num {
 .qid {
   margin-left: 8px;
   font-size: 0.75rem;
-  color: #888;
+  color: #555;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+}
+
+.qid:hover {
+  color: #1a56db;
+  border-bottom-color: #1a56db;
 }
 
 .thumb {
@@ -197,12 +269,17 @@ td.num {
   max-height: 28px;
   vertical-align: middle;
   margin-left: 8px;
+  border-radius: 2px;
 }
 
 .error {
   color: #666;
   text-align: center;
   padding: 32px;
+}
+
+.qid-page .link {
+  color: #1a56db;
 }
 
 @media (max-width: 600px) {
@@ -212,5 +289,9 @@ td.num {
 
   table {
     font-size: 0.9rem;
+  }
+
+  .picker select {
+    min-width: 5rem;
   }
 }
