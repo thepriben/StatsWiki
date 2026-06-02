@@ -1,5 +1,5 @@
 <script setup>
-import { fmtViews, statsUrl, titleText, wikiUrl, wikidataUrl } from './lib.js';
+import { commonsFileUrl, fmtViews, statsUrl, titleText, wikiUrl, wikidataUrl } from './lib.js';
 
 defineProps({
   lines: { type: Array, required: true },
@@ -34,7 +34,24 @@ function openQid(e, qid) {
           >{{ line.qid }}</a>
           <template v-if="!compact">
             <span v-if="line.description" class="desc">{{ line.description }}</span>
-            <img v-if="line.image" class="thumb" :src="line.image" :alt="line.label" loading="lazy" decoding="async" />
+            <a
+              v-if="line.image && commonsFileUrl(line.image)"
+              :href="commonsFileUrl(line.image)"
+              class="thumb-link"
+              target="_blank"
+              rel="noopener noreferrer"
+              :title="`Image on Wikimedia Commons`"
+            >
+              <img class="thumb" :src="line.image" :alt="line.label" loading="lazy" decoding="async" />
+            </a>
+            <img
+              v-else-if="line.image"
+              class="thumb"
+              :src="line.image"
+              :alt="line.label"
+              loading="lazy"
+              decoding="async"
+            />
           </template>
         </td>
         <td class="num">{{ fmtViews(line.views) }}</td>

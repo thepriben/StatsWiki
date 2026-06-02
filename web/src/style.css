@@ -357,12 +357,25 @@ td.num {
   border-bottom-color: #1a56db;
 }
 
+.thumb-link {
+  display: inline-block;
+  margin-left: 8px;
+  vertical-align: middle;
+  border-radius: 2px;
+  line-height: 0;
+}
+
+.thumb-link:hover .thumb {
+  outline: 2px solid #111;
+  outline-offset: 1px;
+}
+
 .thumb {
   max-width: 28px;
   max-height: 28px;
   vertical-align: middle;
-  margin-left: 8px;
   border-radius: 2px;
+  display: block;
 }
 
 .error {
@@ -409,13 +422,24 @@ td.num {
   margin-bottom: 20px;
 }
 
+.qid-image-link {
+  flex-shrink: 0;
+  border-radius: 4px;
+  line-height: 0;
+}
+
+.qid-image-link:hover .qid-image {
+  outline: 2px solid #111;
+  outline-offset: 2px;
+}
+
 .qid-image {
   width: 64px;
   height: 64px;
   object-fit: cover;
   border-radius: 4px;
   border: 1px solid #e0e0e0;
-  flex-shrink: 0;
+  display: block;
 }
 
 .qid-head h1 {

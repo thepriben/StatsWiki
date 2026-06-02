@@ -1,7 +1,7 @@
 <script setup>
 import { computed, ref, watch } from 'vue';
 import LineChart from './LineChart.vue';
-import { fmtViews, loadQidStats, wikidataUrl, wikiUrl } from './lib.js';
+import { commonsFileUrl, fmtViews, loadQidStats, wikidataUrl, wikiUrl } from './lib.js';
 
 const props = defineProps({
   qid: { type: String, required: true },
@@ -44,7 +44,22 @@ const peak = computed(() => {
     <p v-else-if="error" class="error">{{ error }}</p>
     <template v-else-if="stats">
       <div class="qid-head">
-        <img v-if="stats.image" :src="stats.image" :alt="stats.label" class="qid-image" />
+        <a
+          v-if="stats.image && commonsFileUrl(stats.image)"
+          :href="commonsFileUrl(stats.image)"
+          class="qid-image-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Image on Wikimedia Commons"
+        >
+          <img :src="stats.image" :alt="stats.label" class="qid-image" />
+        </a>
+        <img
+          v-else-if="stats.image"
+          :src="stats.image"
+          :alt="stats.label"
+          class="qid-image"
+        />
         <div>
           <h1>{{ stats.label }}</h1>
           <p class="qid-meta">
@@ -69,7 +84,6 @@ const peak = computed(() => {
         <strong>{{ peak.period }}</strong> — {{ fmtViews(peak.views) }} views
       </p>
 
-      <p class="hint">Multi-QID comparison charts — coming next.</p>
     </template>
   </section>
 </template>

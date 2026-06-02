@@ -47,9 +47,7 @@ Browse via **Year / Month / Day** dropdowns in the header (no date in the page t
 
 Click a **Wikidata QID** in any table → `/StatsWiki/q/Q22686` with monthly / yearly view charts, total views, peak period.
 
-*Coming next:* compare several QIDs on a date range (“wiki wars”).
-
-Each row: rank, Wikipedia link, QID, description, thumbnail, view count.
+Each row: rank, Wikipedia link, QID, description, thumbnail (links to Wikimedia Commons), view count.
 
 ---
 

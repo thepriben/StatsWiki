@@ -184,6 +184,26 @@ export function statsUrl(qid) {
   return /^Q\d+$/.test(qid) ? url(`q/${qid}`) : null;
 }
 
+/** Wikimedia Commons file page for a Special:FilePath or Commons thumb URL. */
+export function commonsFileUrl(imageUrl) {
+  if (!imageUrl) return null;
+  try {
+    const u = new URL(imageUrl);
+    if (u.hostname === 'commons.wikimedia.org' && u.pathname.includes('/Special:FilePath/')) {
+      const name = decodeURIComponent(u.pathname.split('/Special:FilePath/')[1] || '').split('?')[0];
+      if (name) return `https://commons.wikimedia.org/wiki/File:${name.replace(/ /g, '_')}`;
+    }
+    if (u.hostname.endsWith('wikimedia.org') && u.pathname.includes('/commons/')) {
+      const last = u.pathname.split('/').pop() || '';
+      const base = last.replace(/^\d+px-/, '');
+      if (base) return `https://commons.wikimedia.org/wiki/File:${base.replace(/ /g, '_')}`;
+    }
+  } catch {
+    return null;
+  }
+  return null;
+}
+
 export async function loadQidStats(qid) {
   const path = `q/${qid}.json`;
   if (cache.has(path)) return cache.get(path);
