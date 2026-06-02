@@ -78,7 +78,7 @@ def ingest_range(start: date, end: date) -> int:
     n = 0
     day = start
     while day <= end:
-        status = ingest_day(day)
+        status = ingest_day_with_retry(day)
         if status == "ingested":
             n += 1
             print(f"{day}: ingested")
