@@ -4,8 +4,16 @@
   "title": "Elizabeth_Smart",
   "description": "American activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Smart_Speaks_About_Overcoming_Trauma.jpg?width=64",
-  "total": 2581450,
+  "total": 2702827,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 77674
+    },
+    {
+      "period": "2019-08",
+      "views": 43703
+    },
     {
       "period": "2020-02",
       "views": 51887
@@ -56,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 121377
+    },
     {
       "period": "2020",
       "views": 132325

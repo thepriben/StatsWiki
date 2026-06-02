@@ -4,7 +4,7 @@
   "title": "Vietnam",
   "description": "country in Southeast Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%ADo_Saig%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_29.JPG?width=64",
-  "total": 6538214,
+  "total": 7426268,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 18749
+    },
+    {
+      "period": "2019-01",
+      "views": 74735
+    },
+    {
+      "period": "2019-02",
+      "views": 202368
+    },
+    {
+      "period": "2019-03",
+      "views": 110903
+    },
+    {
+      "period": "2019-04",
+      "views": 78090
+    },
+    {
+      "period": "2019-05",
+      "views": 43207
+    },
+    {
+      "period": "2019-06",
+      "views": 68617
+    },
+    {
+      "period": "2019-07",
+      "views": 33445
+    },
+    {
+      "period": "2019-08",
+      "views": 43548
+    },
+    {
+      "period": "2019-09",
+      "views": 29001
+    },
+    {
+      "period": "2019-10",
+      "views": 87911
+    },
+    {
+      "period": "2019-11",
+      "views": 76604
+    },
+    {
+      "period": "2019-12",
+      "views": 39625
     },
     {
       "period": "2020-02",
@@ -259,6 +307,10 @@
     {
       "period": "2015",
       "views": 291744
+    },
+    {
+      "period": "2019",
+      "views": 888054
     },
     {
       "period": "2020",

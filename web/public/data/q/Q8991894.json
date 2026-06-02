@@ -4,8 +4,52 @@
   "title": "Giannis_Antetokounmpo",
   "description": "Greek basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giannis_Antetokounmpo_%2824845003687%29_%28cropped%29.jpg?width=64",
-  "total": 8193125,
+  "total": 11412326,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 72610
+    },
+    {
+      "period": "2019-02",
+      "views": 462759
+    },
+    {
+      "period": "2019-03",
+      "views": 191592
+    },
+    {
+      "period": "2019-04",
+      "views": 398646
+    },
+    {
+      "period": "2019-05",
+      "views": 1073912
+    },
+    {
+      "period": "2019-06",
+      "views": 356780
+    },
+    {
+      "period": "2019-07",
+      "views": 240521
+    },
+    {
+      "period": "2019-09",
+      "views": 33662
+    },
+    {
+      "period": "2019-10",
+      "views": 26137
+    },
+    {
+      "period": "2019-11",
+      "views": 65485
+    },
+    {
+      "period": "2019-12",
+      "views": 297097
+    },
     {
       "period": "2020-01",
       "views": 114655
@@ -256,6 +300,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 3219201
+    },
     {
       "period": "2020",
       "views": 1533429

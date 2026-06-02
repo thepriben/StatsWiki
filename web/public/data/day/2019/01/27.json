@@ -1,0 +1,455 @@
+{
+  "period": "27 January 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Ted_Bundy",
+      "label": "Ted Bundy",
+      "description": "American serial killer (1946–1989)",
+      "views": 1190560,
+      "qid": "Q192218",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Novak_Djokovic",
+      "label": "Novak Djokovic",
+      "description": "Serbian tennis player",
+      "views": 500228,
+      "qid": "Q5812",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Rafael_Nadal",
+      "label": "Rafael Nadal",
+      "description": "Spanish tennis player (born 1986)",
+      "views": 301026,
+      "qid": "Q10132",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Nadal_en_2024_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Kamala_Harris",
+      "label": "Kamala Harris",
+      "description": "Vice President of the United States from 2021 to 2025",
+      "views": 260497,
+      "qid": "Q10853588",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamala_Harris_Vice_Presidential_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 259265,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Royal_Rumble_(2019)",
+      "label": "Royal Rumble (2019)",
+      "description": "",
+      "views": 251420,
+      "qid": "Q_en_Royal_Rumble_(2019)",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Fyre_Festival",
+      "label": "Fyre Festival",
+      "description": "",
+      "views": 245099,
+      "qid": "Q_en_Fyre_Festival",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Roger_Stone",
+      "label": "Roger Stone",
+      "description": "",
+      "views": 215999,
+      "qid": "Q_en_Roger_Stone",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Louis_Tomlinson",
+      "label": "Louis Tomlinson",
+      "description": "English singer and songwriter",
+      "views": 215064,
+      "qid": "Q3624971",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Tomlinson_November_2014.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Naomi_Osaka",
+      "label": "Naomi Osaka",
+      "description": "Japanese tennis player",
+      "views": 204271,
+      "qid": "Q17466583",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Osaka_2017_Wimbledon.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Billy_McFarland_(entrepreneur)",
+      "label": "Billy McFarland (entrepreneur)",
+      "description": "",
+      "views": 189086,
+      "qid": "Q_en_Billy_McFarland_(entrepreneur)",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Roger_Federer",
+      "label": "Roger Federer",
+      "description": "Swiss tennis player (born 1981)",
+      "views": 178888,
+      "qid": "Q1426",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Federer_WM16_%2837%29_%2828136155830%29.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "List_of_Grand_Slam_men's_singles_champions",
+      "label": "list of Grand Slam men's singles champions",
+      "description": "Wikimedia list article",
+      "views": 173086,
+      "qid": "Q1426439",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Andrew_Cunanan",
+      "label": "Andrew Cunanan",
+      "description": "",
+      "views": 160053,
+      "qid": "Q_en_Andrew_Cunanan",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "James_McAvoy",
+      "label": "James McAvoy",
+      "description": "",
+      "views": 150439,
+      "qid": "Q_en_James_McAvoy",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 131472,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Polar_(film)",
+      "label": "Polar (film)",
+      "description": "",
+      "views": 120425,
+      "qid": "Q_en_Polar_(film)",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Glass_(2019_film)",
+      "label": "Glass (2019 film)",
+      "description": "",
+      "views": 115439,
+      "qid": "Q_en_Glass_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Neil_Armstrong",
+      "label": "Neil Armstrong",
+      "description": "",
+      "views": 108426,
+      "qid": "Q_en_Neil_Armstrong",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Manikarnika:_The_Queen_of_Jhansi",
+      "label": "Manikarnika: The Queen of Jhansi",
+      "description": "",
+      "views": 107878,
+      "qid": "Q_en_Manikarnika:_The_Queen_of_Jhansi",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "NXT_TakeOver:_Phoenix",
+      "label": "NXT TakeOver: Phoenix",
+      "description": "",
+      "views": 106492,
+      "qid": "Q_en_NXT_TakeOver:_Phoenix",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Gianni_Versace",
+      "label": "Gianni Versace",
+      "description": "",
+      "views": 104517,
+      "qid": "Q_en_Gianni_Versace",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Bradley_Cooper",
+      "label": "Bradley Cooper",
+      "description": "American actor (born 1975)",
+      "views": 95518,
+      "qid": "Q205707",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradley_Cooper.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 94398,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "2019_Pro_Bowl",
+      "label": "2019 Pro Bowl",
+      "description": "",
+      "views": 92202,
+      "qid": "Q_en_2019_Pro_Bowl",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Roma_(2018_film)",
+      "label": "Roma (2018 film)",
+      "description": "",
+      "views": 89189,
+      "qid": "Q_en_Roma_(2018_film)",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Rani_of_Jhansi",
+      "label": "Rani of Jhansi",
+      "description": "",
+      "views": 88609,
+      "qid": "Q_en_Rani_of_Jhansi",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Kayden_Boche",
+      "label": "Q6380501",
+      "description": "model, actor, film director, cinematographer, music producer and songwriter",
+      "views": 85586,
+      "qid": "Q6380501",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Various",
+      "label": "Various",
+      "description": "",
+      "views": 85113,
+      "qid": "Q_en_Various",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Queen_(band)",
+      "label": "Queen",
+      "description": "British musical group; rock band",
+      "views": 84957,
+      "qid": "Q15862",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Ryan_Bader",
+      "label": "Ryan Bader",
+      "description": "",
+      "views": 83122,
+      "qid": "Q_en_Ryan_Bader",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Lady_Gaga",
+      "label": "Lady Gaga",
+      "description": "American singer, songwriter, and actress (born 1986)",
+      "views": 81150,
+      "qid": "Q19848",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Gaga_at_Oscars_2016.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "Aquaman_(film)",
+      "label": "Aquaman (film)",
+      "description": "",
+      "views": 77896,
+      "qid": "Q_en_Aquaman_(film)",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Tom_Brady",
+      "label": "Tom Brady",
+      "description": "American football player (born 1977)",
+      "views": 75503,
+      "qid": "Q313381",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Brady_2021.png?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Sex_Education_(TV_series)",
+      "label": "Sex Education",
+      "description": "2019 British television series",
+      "views": 75253,
+      "qid": "Q55632932",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sex_Education_Ad_in_Bucharest.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "A_Star_Is_Born_(2018_film)",
+      "label": "A Star Is Born (2018 film)",
+      "description": "",
+      "views": 74949,
+      "qid": "Q_en_A_Star_Is_Born_(2018_film)",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Fedor_Emelianenko",
+      "label": "Fedor Emelianenko",
+      "description": "",
+      "views": 73611,
+      "qid": "Q_en_Fedor_Emelianenko",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Uri:_The_Surgical_Strike",
+      "label": "Uri: The Surgical Strike",
+      "description": "",
+      "views": 71609,
+      "qid": "Q_en_Uri:_The_Surgical_Strike",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Bellator_MMA_in_2019",
+      "label": "Bellator MMA in 2019",
+      "description": "",
+      "views": 70640,
+      "qid": "Q_en_Bellator_MMA_in_2019",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Anne,_Queen_of_Great_Britain",
+      "label": "Anne, Queen of Great Britain",
+      "description": "",
+      "views": 69927,
+      "qid": "Q_en_Anne,_Queen_of_Great_Britain",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Pro_Bowl",
+      "label": "Pro Bowl",
+      "description": "",
+      "views": 67354,
+      "qid": "Q_en_Pro_Bowl",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Bohemian_Rhapsody_(film)",
+      "label": "Bohemian Rhapsody (film)",
+      "description": "",
+      "views": 66384,
+      "qid": "Q_en_Bohemian_Rhapsody_(film)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Jeffrey_Dahmer",
+      "label": "Jeffrey Dahmer",
+      "description": "American serial killer (1960–1994)",
+      "views": 66334,
+      "qid": "Q298364",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JeffreyDahmer1978.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Australian_Open",
+      "label": "Australian Open",
+      "description": "",
+      "views": 65110,
+      "qid": "Q_en_Australian_Open",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Putrefaction",
+      "label": "Putrefaction",
+      "description": "",
+      "views": 64376,
+      "qid": "Q_en_Putrefaction",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Emiliano_Sala",
+      "label": "Emiliano Sala",
+      "description": "",
+      "views": 63863,
+      "qid": "Q_en_Emiliano_Sala",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Kingdom_(South_Korean_TV_series)",
+      "label": "Kingdom (South Korean TV series)",
+      "description": "",
+      "views": 63783,
+      "qid": "Q_en_Kingdom_(South_Korean_TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Jason_Momoa",
+      "label": "Jason Momoa",
+      "description": "American actor (born 1979)",
+      "views": 62971,
+      "qid": "Q315271",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Grand_Slam_(tennis)",
+      "label": "Grand Slam (tennis)",
+      "description": "",
+      "views": 62822,
+      "qid": "Q_en_Grand_Slam_(tennis)",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Nancy_Pelosi",
+      "label": "Nancy Pelosi",
+      "description": "American politician (born 1940)",
+      "views": 59725,
+      "qid": "Q170581",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=64"
+    }
+  ]
+}

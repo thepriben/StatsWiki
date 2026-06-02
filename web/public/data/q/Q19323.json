@@ -4,11 +4,19 @@
   "title": "FIFA_Women's_World_Cup",
   "description": "football competitions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_logo_without_slogan.svg?width=64",
-  "total": 4888378,
+  "total": 7004573,
   "monthly": [
     {
       "period": "2015-07",
       "views": 1013930
+    },
+    {
+      "period": "2019-06",
+      "views": 1318742
+    },
+    {
+      "period": "2019-07",
+      "views": 797453
     },
     {
       "period": "2021-11",
@@ -67,6 +75,10 @@
     {
       "period": "2015",
       "views": 1013930
+    },
+    {
+      "period": "2019",
+      "views": 2116195
     },
     {
       "period": "2021",

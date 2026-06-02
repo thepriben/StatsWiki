@@ -4,8 +4,12 @@
   "title": "Zara_Larsson",
   "description": "Swedish singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zara_Larsson_By_Daniel_%C3%85hs_%28cropped%29.jpg?width=64",
-  "total": 2805293,
+  "total": 2815493,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 10200
+    },
     {
       "period": "2023-11",
       "views": 32631
@@ -44,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 10200
+    },
     {
       "period": "2023",
       "views": 32631

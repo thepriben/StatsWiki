@@ -4,8 +4,12 @@
   "title": "Amy_Coney_Barrett",
   "description": "American lawyer and jurist (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Coney_Barrett_official_portrait.jpg?width=64",
-  "total": 10793148,
+  "total": 10807239,
   "monthly": [
+    {
+      "period": "2019-04",
+      "views": 14091
+    },
     {
       "period": "2020-09",
       "views": 5262713
@@ -112,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 14091
+    },
     {
       "period": "2020",
       "views": 9688228

@@ -4,8 +4,16 @@
   "title": "Marvel_Cinematic_Universe:_Phase_Four",
   "description": "group of superhero films and television series",
   "image": "",
-  "total": 17431615,
+  "total": 17604240,
   "monthly": [
+    {
+      "period": "2019-11",
+      "views": 73127
+    },
+    {
+      "period": "2019-12",
+      "views": 99498
+    },
     {
       "period": "2020-01",
       "views": 135824
@@ -164,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 172625
+    },
     {
       "period": "2020",
       "views": 1147666

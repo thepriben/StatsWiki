@@ -4,7 +4,7 @@
   "title": "Game_of_Thrones_(season_6)",
   "description": "sixth season of the fantasy drama television series Game of Thrones",
   "image": "",
-  "total": 919058,
+  "total": 1660438,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,24 @@
     {
       "period": "2015-12",
       "views": 359814
+    },
+    {
+      "period": "2019-04",
+      "views": 429041
+    },
+    {
+      "period": "2019-05",
+      "views": 312339
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 919058
+    },
+    {
+      "period": "2019",
+      "views": 741380
     }
   ]
 }

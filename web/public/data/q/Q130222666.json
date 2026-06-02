@@ -4,8 +4,56 @@
   "title": "Opinion_polling_for_the_next_United_Kingdom_general_election",
   "description": "summary of the United Kingdom polls",
   "image": "",
-  "total": 14509746,
+  "total": 17417260,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 9877
+    },
+    {
+      "period": "2019-02",
+      "views": 23488
+    },
+    {
+      "period": "2019-03",
+      "views": 19158
+    },
+    {
+      "period": "2019-04",
+      "views": 115422
+    },
+    {
+      "period": "2019-05",
+      "views": 236019
+    },
+    {
+      "period": "2019-06",
+      "views": 276636
+    },
+    {
+      "period": "2019-07",
+      "views": 224254
+    },
+    {
+      "period": "2019-08",
+      "views": 325288
+    },
+    {
+      "period": "2019-09",
+      "views": 633174
+    },
+    {
+      "period": "2019-10",
+      "views": 542963
+    },
+    {
+      "period": "2019-11",
+      "views": 300879
+    },
+    {
+      "period": "2019-12",
+      "views": 200356
+    },
     {
       "period": "2020-01",
       "views": 47101
@@ -228,6 +276,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 2907514
+    },
     {
       "period": "2020",
       "views": 98889

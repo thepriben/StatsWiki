@@ -4,7 +4,7 @@
   "title": "Legends_of_Tomorrow",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DC%27s_Legends_of_Tomorrow_%28production_logo%29.svg?width=64",
-  "total": 1208095,
+  "total": 1274633,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,18 @@
     {
       "period": "2015-12",
       "views": 468120
+    },
+    {
+      "period": "2019-04",
+      "views": 10291
+    },
+    {
+      "period": "2019-05",
+      "views": 35309
+    },
+    {
+      "period": "2019-12",
+      "views": 20938
     },
     {
       "period": "2020-01",
@@ -75,6 +87,10 @@
     {
       "period": "2015",
       "views": 1014901
+    },
+    {
+      "period": "2019",
+      "views": 66538
     },
     {
       "period": "2020",

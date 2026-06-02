@@ -1,0 +1,505 @@
+{
+  "period": "2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Avengers:_Endgame",
+      "label": "Avengers: Endgame",
+      "description": "2019 film by Anthony and Joe Russo",
+      "views": 39725406,
+      "qid": "Q23781155",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avengers_Endgame_Logo_Black.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 35856881,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 35208316,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Ted_Bundy",
+      "label": "Ted Bundy",
+      "description": "American serial killer (1946–1989)",
+      "views": 25349315,
+      "qid": "Q192218",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 24647186,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "List_of_highest-grossing_films",
+      "label": "list of highest-grossing films",
+      "description": "Wikimedia list article",
+      "views": 22726545,
+      "qid": "Q392108",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Chernobyl_disaster",
+      "label": "Chernobyl disaster",
+      "description": "1986 nuclear accident in the Soviet Union",
+      "views": 22343348,
+      "qid": "Q486",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA_02790015_%285613115146%29.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Joker_(2019_film)",
+      "label": "Joker",
+      "description": "2019 musical film directed by Todd Phillips",
+      "views": 20747929,
+      "qid": "Q42759035",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_%282019%29_logotype.png?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "List_of_Marvel_Cinematic_Universe_films",
+      "label": "list of Marvel Cinematic Universe films",
+      "description": "Wikimedia list article",
+      "views": 19908928,
+      "qid": "Q16148930",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Billie_Eilish",
+      "label": "Billie Eilish",
+      "description": "American singer-songwriter (born 2001)",
+      "views": 18720199,
+      "qid": "Q29564107",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Simple_Mail_Transfer_Protocol",
+      "label": "Simple Mail Transfer Protocol",
+      "description": "Internet protocol used for relaying e-mails",
+      "views": 17965695,
+      "qid": "Q160453",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SMTP-transfer-model.svg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 16231929,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Keanu_Reeves",
+      "label": "Keanu Reeves",
+      "description": "Canadian actor and musician (born 1964)",
+      "views": 15398632,
+      "qid": "Q43416",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 14684349,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Jeffrey_Epstein",
+      "label": "Jeffrey Epstein",
+      "description": "American financier and sex offender (1953–2019)",
+      "views": 13894246,
+      "qid": "Q2904131",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 13879480,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "List_of_Bollywood_films_of_2019",
+      "label": "list of Bollywood films of 2019",
+      "description": "Wikimedia list article",
+      "views": 13603337,
+      "qid": "Q48731762",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Louis_Tomlinson",
+      "label": "Louis Tomlinson",
+      "description": "English singer and songwriter",
+      "views": 13401237,
+      "qid": "Q3624971",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Tomlinson_November_2014.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "Game_of_Thrones",
+      "label": "Game of Thrones",
+      "description": "American fantasy drama television series (2011–2019)",
+      "views": 13378863,
+      "qid": "Q23572",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Game_of_Thrones_2011_logo.svg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "United_States",
+      "label": "United States",
+      "description": "country located primarily in North America",
+      "views": 13269357,
+      "qid": "Q30",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Captain_Marvel_(film)",
+      "label": "Captain Marvel",
+      "description": "2019 film directed by Anna Boden and Ryan Fleck",
+      "views": 12993352,
+      "qid": "Q23781129",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Marvel_Logo_Black.svg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 12446425,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "Once_Upon_a_Time_in_Hollywood",
+      "label": "Once Upon a Time in Hollywood",
+      "description": "2019 film directed by Quentin Tarantino",
+      "views": 12343354,
+      "qid": "Q47300912",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Once_Upon_a_Time_in_Hollywood_logo.svg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Game_of_Thrones_(season_8)",
+      "label": "Game of Thrones, season 8",
+      "description": "eighth season of the fantasy drama television series Game of Thrones",
+      "views": 12155628,
+      "qid": "Q30887543",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Spider-Man:_Far_From_Home",
+      "label": "Spider-Man: Far From Home",
+      "description": "2019 film directed by Jon Watts",
+      "views": 11310505,
+      "qid": "Q27985819",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-man-far-from-home.svg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Star_Wars:_The_Rise_of_Skywalker",
+      "label": "Star Wars: Episode IX – The Rise of Skywalker",
+      "description": "2019 film directed by J. J. Abrams",
+      "views": 11111958,
+      "qid": "Q20977110",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Rise_of_Skywalker.png?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "The_Mandalorian",
+      "label": "The Mandalorian",
+      "description": "American space opera streaming television series from 2019",
+      "views": 11046943,
+      "qid": "Q56876444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86.png?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "2019_in_film",
+      "label": "2019 in film",
+      "description": "overview of the events of 2019 in film",
+      "views": 10651946,
+      "qid": "Q18741023",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "India",
+      "label": "India",
+      "description": "country in South Asia",
+      "views": 10414003,
+      "qid": "Q668",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India-locator-map-blank.svg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Jason_Momoa",
+      "label": "Jason Momoa",
+      "description": "American actor (born 1979)",
+      "views": 10359575,
+      "qid": "Q315271",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 10331781,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Kayden_Boche",
+      "label": "Q6380501",
+      "description": "model, actor, film director, cinematographer, music producer and songwriter",
+      "views": 10319526,
+      "qid": "Q6380501",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "TikTok",
+      "label": "TikTok",
+      "description": "video-focused social media platform",
+      "views": 10306259,
+      "qid": "Q48938223",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiktok_logo_text.svg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 10264675,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 9657902,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "F5_Networks",
+      "label": "F5, Inc.",
+      "description": "Multi-cloud cybersecurity and application delivery company",
+      "views": 9641658,
+      "qid": "Q3029296",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F5_Tower_-_July_2017.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Nipsey_Hussle",
+      "label": "Nipsey Hussle",
+      "description": "American rapper (1985–2019)",
+      "views": 9604443,
+      "qid": "Q2073970",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Dwayne_Johnson",
+      "label": "Dwayne Johnson",
+      "description": "American actor and professional wrestler (born 1972)",
+      "views": 9594456,
+      "qid": "Q10738",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dwayne_Johnson-1809_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Elton_John",
+      "label": "Elton John",
+      "description": "British singer, songwriter and musician (born 1947)",
+      "views": 9469453,
+      "qid": "Q2808",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elton_John_2023.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Us_(2019_film)",
+      "label": "Us",
+      "description": "2019 film directed by Jordan Peele",
+      "views": 9443453,
+      "qid": "Q56000996",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Us_2019_film_logo.svg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Lady_Gaga",
+      "label": "Lady Gaga",
+      "description": "American singer, songwriter, and actress (born 1986)",
+      "views": 9210404,
+      "qid": "Q19848",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Gaga_at_Oscars_2016.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Joaquin_Phoenix",
+      "label": "Joaquin Phoenix",
+      "description": "American actor",
+      "views": 9181442,
+      "qid": "Q185140",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joaquin_Phoenix_in_2018.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Scarlett_Johansson",
+      "label": "Scarlett Johansson",
+      "description": "American actress (born 1984)",
+      "views": 9133954,
+      "qid": "Q34436",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Queen_(band)",
+      "label": "Queen",
+      "description": "British musical group; rock band",
+      "views": 9127841,
+      "qid": "Q15862",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Alexandria_Ocasio-Cortez",
+      "label": "Alexandria Ocasio-Cortez",
+      "description": "American politician (born 1989)",
+      "views": 9073466,
+      "qid": "Q55223040",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandria_Ocasio-Cortez_Official_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Marvel_Cinematic_Universe",
+      "label": "Marvel Cinematic Universe",
+      "description": "media franchise and shared universe",
+      "views": 8993858,
+      "qid": "Q642878",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvel_Cinematic_Universe_logo.png?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Bradley_Cooper",
+      "label": "Bradley Cooper",
+      "description": "American actor (born 1975)",
+      "views": 8683027,
+      "qid": "Q205707",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradley_Cooper.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Rami_Malek",
+      "label": "Rami Malek",
+      "description": "American actor (born 1981)",
+      "views": 8660743,
+      "qid": "Q375590",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rami_Malek_in_2015_%282%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 8584604,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "The_Irishman_(2019_film)",
+      "label": "The Irishman (2019 film)",
+      "description": "",
+      "views": 8536317,
+      "qid": "Q_en_The_Irishman_(2019_film)",
+      "image": ""
+    }
+  ],
+  "nav": [
+    {
+      "label": "January",
+      "path": "2019/01"
+    },
+    {
+      "label": "February",
+      "path": "2019/02"
+    },
+    {
+      "label": "March",
+      "path": "2019/03"
+    },
+    {
+      "label": "April",
+      "path": "2019/04"
+    },
+    {
+      "label": "May",
+      "path": "2019/05"
+    },
+    {
+      "label": "June",
+      "path": "2019/06"
+    },
+    {
+      "label": "July",
+      "path": "2019/07"
+    },
+    {
+      "label": "August",
+      "path": "2019/08"
+    },
+    {
+      "label": "September",
+      "path": "2019/09"
+    },
+    {
+      "label": "October",
+      "path": "2019/10"
+    },
+    {
+      "label": "November",
+      "path": "2019/11"
+    },
+    {
+      "label": "December",
+      "path": "2019/12"
+    }
+  ]
+}

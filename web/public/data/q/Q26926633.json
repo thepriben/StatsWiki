@@ -4,8 +4,12 @@
   "title": "Noah_Schnapp",
   "description": "American actor (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Noah_Schnapp_-_NBFF_2025.jpg?width=64",
-  "total": 5785105,
+  "total": 6442370,
   "monthly": [
+    {
+      "period": "2019-07",
+      "views": 657265
+    },
     {
       "period": "2020-08",
       "views": 12304
@@ -80,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 657265
+    },
     {
       "period": "2020",
       "views": 73919

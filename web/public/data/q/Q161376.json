@@ -4,11 +4,15 @@
   "title": "Miss_Universe",
   "description": "Annual international beauty pageant competition (1952–)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_miss_universe_logo.jpg?width=64",
-  "total": 2582896,
+  "total": 2817881,
   "monthly": [
     {
       "period": "2015-12",
       "views": 820338
+    },
+    {
+      "period": "2019-12",
+      "views": 234985
     },
     {
       "period": "2021-05",
@@ -43,6 +47,10 @@
     {
       "period": "2015",
       "views": 820338
+    },
+    {
+      "period": "2019",
+      "views": 234985
     },
     {
       "period": "2021",

@@ -4,7 +4,7 @@
   "title": "Bill_Clinton",
   "description": "President of the United States from 1993 to 2001 (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Clinton.jpg?width=64",
-  "total": 22224994,
+  "total": 24375233,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 362494
+    },
+    {
+      "period": "2019-01",
+      "views": 222042
+    },
+    {
+      "period": "2019-02",
+      "views": 187799
+    },
+    {
+      "period": "2019-03",
+      "views": 153748
+    },
+    {
+      "period": "2019-04",
+      "views": 48433
+    },
+    {
+      "period": "2019-05",
+      "views": 70602
+    },
+    {
+      "period": "2019-06",
+      "views": 11232
+    },
+    {
+      "period": "2019-07",
+      "views": 92124
+    },
+    {
+      "period": "2019-08",
+      "views": 195550
+    },
+    {
+      "period": "2019-09",
+      "views": 115024
+    },
+    {
+      "period": "2019-10",
+      "views": 305363
+    },
+    {
+      "period": "2019-11",
+      "views": 292739
+    },
+    {
+      "period": "2019-12",
+      "views": 455583
     },
     {
       "period": "2020-01",
@@ -331,6 +379,10 @@
     {
       "period": "2015",
       "views": 2139678
+    },
+    {
+      "period": "2019",
+      "views": 2150239
     },
     {
       "period": "2020",

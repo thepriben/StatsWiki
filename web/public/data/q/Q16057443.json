@@ -4,8 +4,20 @@
   "title": "2023_Cricket_World_Cup",
   "description": "13th edition of the premier international cricket competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India_vs_Afghanistan_on_11th_October_2023.jpg?width=64",
-  "total": 36405419,
+  "total": 37424632,
   "monthly": [
+    {
+      "period": "2019-05",
+      "views": 28749
+    },
+    {
+      "period": "2019-06",
+      "views": 283268
+    },
+    {
+      "period": "2019-07",
+      "views": 707196
+    },
     {
       "period": "2021-10",
       "views": 13672
@@ -104,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 1019213
+    },
     {
       "period": "2021",
       "views": 252900

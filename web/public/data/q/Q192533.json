@@ -4,8 +4,12 @@
   "title": "Mark_Carney",
   "description": "24th prime minister of Canada since 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg?width=64",
-  "total": 7950741,
+  "total": 7960407,
   "monthly": [
+    {
+      "period": "2019-12",
+      "views": 9666
+    },
     {
       "period": "2020-08",
       "views": 9634
@@ -72,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 9666
+    },
     {
       "period": "2020",
       "views": 9634

@@ -4,11 +4,31 @@
   "title": "FIFA_Club_World_Cup",
   "description": "association football tournament for clubs",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_Club_World_Cup_logo.svg?width=64",
-  "total": 5898952,
+  "total": 6462321,
   "monthly": [
     {
       "period": "2015-12",
       "views": 104886
+    },
+    {
+      "period": "2019-06",
+      "views": 56314
+    },
+    {
+      "period": "2019-08",
+      "views": 9123
+    },
+    {
+      "period": "2019-10",
+      "views": 11980
+    },
+    {
+      "period": "2019-11",
+      "views": 32771
+    },
+    {
+      "period": "2019-12",
+      "views": 453181
     },
     {
       "period": "2021-02",
@@ -123,6 +143,10 @@
     {
       "period": "2015",
       "views": 104886
+    },
+    {
+      "period": "2019",
+      "views": 563369
     },
     {
       "period": "2021",

@@ -4,8 +4,28 @@
   "title": "You_(TV_series)",
   "description": "2018 American psychological thriller television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/You-Logo.png?width=64",
-  "total": 9526879,
+  "total": 14200087,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 2505617
+    },
+    {
+      "period": "2019-02",
+      "views": 617066
+    },
+    {
+      "period": "2019-03",
+      "views": 295885
+    },
+    {
+      "period": "2019-11",
+      "views": 66994
+    },
+    {
+      "period": "2019-12",
+      "views": 1187646
+    },
     {
       "period": "2020-01",
       "views": 2045048
@@ -96,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 4673208
+    },
     {
       "period": "2020",
       "views": 2799612

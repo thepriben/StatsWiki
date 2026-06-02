@@ -4,8 +4,36 @@
   "title": "Emmanuel_Macron",
   "description": "president of France and Co-Prince of Andorra since 2017",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel_Macron_2025_%28cropped%29.jpg?width=64",
-  "total": 9329634,
+  "total": 9840839,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 44074
+    },
+    {
+      "period": "2019-04",
+      "views": 75038
+    },
+    {
+      "period": "2019-06",
+      "views": 34574
+    },
+    {
+      "period": "2019-07",
+      "views": 12973
+    },
+    {
+      "period": "2019-08",
+      "views": 269632
+    },
+    {
+      "period": "2019-09",
+      "views": 9040
+    },
+    {
+      "period": "2019-12",
+      "views": 65874
+    },
     {
       "period": "2020-03",
       "views": 31535
@@ -236,6 +264,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 511205
+    },
     {
       "period": "2020",
       "views": 748961

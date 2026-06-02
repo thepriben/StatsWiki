@@ -1,0 +1,577 @@
+{
+  "period": "September 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 7099925,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "List_of_Queen_of_the_South_episodes",
+      "label": "List of Queen of the South episodes",
+      "description": "",
+      "views": 5102343,
+      "qid": "Q_en_List_of_Queen_of_the_South_episodes",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "It_Chapter_Two",
+      "label": "It Chapter Two",
+      "description": "",
+      "views": 3423620,
+      "qid": "Q_en_It_Chapter_Two",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 2990904,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Greta_Thunberg",
+      "label": "Greta Thunberg",
+      "description": "Swedish climate protection activist (born 2003)",
+      "views": 2883709,
+      "qid": "Q56434717",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greta_Thunberg_4.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Saaho",
+      "label": "Saaho",
+      "description": "",
+      "views": 2800680,
+      "qid": "Q_en_Saaho",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Joker_(2019_film)",
+      "label": "Joker",
+      "description": "2019 musical film directed by Todd Phillips",
+      "views": 2727249,
+      "qid": "Q42759035",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_%282019%29_logotype.png?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "September_11_attacks",
+      "label": "September 11 attacks",
+      "description": "2001 attacks in the United States",
+      "views": 2351690,
+      "qid": "Q10806",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_face_south_tower_after_plane_strike_9-11.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Algorithms_for_calculating_variance",
+      "label": "Algorithms for calculating variance",
+      "description": "",
+      "views": 2215763,
+      "qid": "Q_en_Algorithms_for_calculating_variance",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Antonio_Brown",
+      "label": "Antonio Brown",
+      "description": "",
+      "views": 2030521,
+      "qid": "Q_en_Antonio_Brown",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Chandrayaan-2",
+      "label": "Chandrayaan-2",
+      "description": "",
+      "views": 1923983,
+      "qid": "Q_en_Chandrayaan-2",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Hustlers_(2019_film)",
+      "label": "Hustlers (2019 film)",
+      "description": "",
+      "views": 1849410,
+      "qid": "Q_en_Hustlers_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Ad_Astra_(film)",
+      "label": "Ad Astra (film)",
+      "description": "",
+      "views": 1672434,
+      "qid": "Q_en_Ad_Astra_(film)",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Storm_Area_51,_They_Can't_Stop_All_of_Us",
+      "label": "Storm Area 51, They Can't Stop All of Us",
+      "description": "",
+      "views": 1670739,
+      "qid": "Q_en_Storm_Area_51,_They_Can't_Stop_All_of_Us",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Line_shaft",
+      "label": "Line shaft",
+      "description": "",
+      "views": 1524402,
+      "qid": "Q_en_Line_shaft",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Eli_Cohen",
+      "label": "Eli Cohen",
+      "description": "",
+      "views": 1523296,
+      "qid": "Q_en_Eli_Cohen",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Ric_Ocasek",
+      "label": "Ric Ocasek",
+      "description": "",
+      "views": 1500716,
+      "qid": "Q_en_Ric_Ocasek",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "The_Bahamas",
+      "label": "The Bahamas",
+      "description": "",
+      "views": 1485718,
+      "qid": "Q_en_The_Bahamas",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Unbelievable_(miniseries)",
+      "label": "Unbelievable (miniseries)",
+      "description": "",
+      "views": 1472918,
+      "qid": "Q_en_Unbelievable_(miniseries)",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Billie_Eilish",
+      "label": "Billie Eilish",
+      "description": "American singer-songwriter (born 2001)",
+      "views": 1428671,
+      "qid": "Q29564107",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Mindhunter_(TV_series)",
+      "label": "Mindhunter (TV series)",
+      "description": "",
+      "views": 1421111,
+      "qid": "Q_en_Mindhunter_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "6ix9ine",
+      "label": "6ix9ine",
+      "description": "American rapper from New York (born 1996)",
+      "views": 1417018,
+      "qid": "Q44479972",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/6ix9ine_%28Daniel_Hernadez%29.jpg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "2019_FIBA_Basketball_World_Cup",
+      "label": "2019 FIBA Basketball World Cup",
+      "description": "",
+      "views": 1408847,
+      "qid": "Q_en_2019_FIBA_Basketball_World_Cup",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Solar_System",
+      "label": "Solar System",
+      "description": "the Sun, its planets and their moons",
+      "views": 1405715,
+      "qid": "Q544",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_System_true_color.jpg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 1373860,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "List_of_Bollywood_films_of_2019",
+      "label": "list of Bollywood films of 2019",
+      "description": "Wikimedia list article",
+      "views": 1275209,
+      "qid": "Q48731762",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "It_(2017_film)",
+      "label": "It (2017 film)",
+      "description": "",
+      "views": 1268693,
+      "qid": "Q_en_It_(2017_film)",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "John_Bercow",
+      "label": "John Bercow",
+      "description": "",
+      "views": 1240218,
+      "qid": "Q_en_John_Bercow",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Peaky_Blinders_(TV_series)",
+      "label": "Peaky Blinders",
+      "description": "British period drama television series (2013–2022)",
+      "views": 1210649,
+      "qid": "Q14944179",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peaky_Blinders_Logo.png?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Bianca_Andreescu",
+      "label": "Bianca Andreescu",
+      "description": "",
+      "views": 1187658,
+      "qid": "Q_en_Bianca_Andreescu",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Rafael_Nadal",
+      "label": "Rafael Nadal",
+      "description": "Spanish tennis player (born 1986)",
+      "views": 1172411,
+      "qid": "Q10132",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Nadal_en_2024_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Once_Upon_a_Time_in_Hollywood",
+      "label": "Once Upon a Time in Hollywood",
+      "description": "2019 film directed by Quentin Tarantino",
+      "views": 1170546,
+      "qid": "Q47300912",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Once_Upon_a_Time_in_Hollywood_logo.svg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "United_States",
+      "label": "United States",
+      "description": "country located primarily in North America",
+      "views": 1164173,
+      "qid": "Q30",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Hurricane_Dorian",
+      "label": "Hurricane Dorian",
+      "description": "",
+      "views": 1152100,
+      "qid": "Q_en_Hurricane_Dorian",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Moving_average",
+      "label": "Moving average",
+      "description": "",
+      "views": 1151305,
+      "qid": "Q_en_Moving_average",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Wayne_Williams",
+      "label": "Wayne Williams",
+      "description": "",
+      "views": 1150104,
+      "qid": "Q_en_Wayne_Williams",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Joaquin_Phoenix",
+      "label": "Joaquin Phoenix",
+      "description": "American actor",
+      "views": 1136699,
+      "qid": "Q185140",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joaquin_Phoenix_in_2018.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Eddie_Money",
+      "label": "Eddie Money",
+      "description": "",
+      "views": 1105716,
+      "qid": "Q_en_Eddie_Money",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 1098038,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Elton_John",
+      "label": "Elton John",
+      "description": "British singer, songwriter and musician (born 1947)",
+      "views": 1070304,
+      "qid": "Q2808",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elton_John_2023.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Sylvester_Stallone",
+      "label": "Sylvester Stallone",
+      "description": "American actor and filmmaker (born 1946)",
+      "views": 1066466,
+      "qid": "Q40026",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvester_Stallone_Cannes_2019.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Clash_of_Champions_(2019)",
+      "label": "Clash of Champions (2019)",
+      "description": "",
+      "views": 1033258,
+      "qid": "Q_en_Clash_of_Champions_(2019)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Carnival_Row",
+      "label": "Carnival Row",
+      "description": "",
+      "views": 1033180,
+      "qid": "Q_en_Carnival_Row",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Judy_Garland",
+      "label": "Judy Garland",
+      "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
+      "views": 1032886,
+      "qid": "Q11637",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Judy_Garland_The_Harvey_Girls_MGM_Publicity_still.jpeg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Charles_Manson",
+      "label": "Charles Manson",
+      "description": "American criminal and cult leader (1934–2017)",
+      "views": 1023663,
+      "qid": "Q485508",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MansonB33920_8-14-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Apple_Network_Server",
+      "label": "Apple Network Server",
+      "description": "Apple Network Servers provide a technical service for Apple and Apple device end users. The server profile is public domain corporate group policy",
+      "views": 1014463,
+      "qid": "Q119827",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AppleMuzeumPolska.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Clint_Eastwood",
+      "label": "Clint Eastwood",
+      "description": "American actor and film director (born 1930)",
+      "views": 1011796,
+      "qid": "Q43203",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clint_Eastwood_at_2010_New_York_Film_Festival.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 1010641,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "2019_Rugby_World_Cup",
+      "label": "2019 Rugby World Cup",
+      "description": "",
+      "views": 1006074,
+      "qid": "Q_en_2019_Rugby_World_Cup",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Oswald_Mosley",
+      "label": "Oswald Mosley",
+      "description": "",
+      "views": 995194,
+      "qid": "Q_en_Oswald_Mosley",
+      "image": ""
+    }
+  ],
+  "nav": [
+    {
+      "label": "01",
+      "path": "2019/09/01"
+    },
+    {
+      "label": "02",
+      "path": "2019/09/02"
+    },
+    {
+      "label": "03",
+      "path": "2019/09/03"
+    },
+    {
+      "label": "04",
+      "path": "2019/09/04"
+    },
+    {
+      "label": "05",
+      "path": "2019/09/05"
+    },
+    {
+      "label": "06",
+      "path": "2019/09/06"
+    },
+    {
+      "label": "07",
+      "path": "2019/09/07"
+    },
+    {
+      "label": "08",
+      "path": "2019/09/08"
+    },
+    {
+      "label": "09",
+      "path": "2019/09/09"
+    },
+    {
+      "label": "10",
+      "path": "2019/09/10"
+    },
+    {
+      "label": "11",
+      "path": "2019/09/11"
+    },
+    {
+      "label": "12",
+      "path": "2019/09/12"
+    },
+    {
+      "label": "13",
+      "path": "2019/09/13"
+    },
+    {
+      "label": "14",
+      "path": "2019/09/14"
+    },
+    {
+      "label": "15",
+      "path": "2019/09/15"
+    },
+    {
+      "label": "16",
+      "path": "2019/09/16"
+    },
+    {
+      "label": "17",
+      "path": "2019/09/17"
+    },
+    {
+      "label": "18",
+      "path": "2019/09/18"
+    },
+    {
+      "label": "19",
+      "path": "2019/09/19"
+    },
+    {
+      "label": "20",
+      "path": "2019/09/20"
+    },
+    {
+      "label": "21",
+      "path": "2019/09/21"
+    },
+    {
+      "label": "22",
+      "path": "2019/09/22"
+    },
+    {
+      "label": "23",
+      "path": "2019/09/23"
+    },
+    {
+      "label": "24",
+      "path": "2019/09/24"
+    },
+    {
+      "label": "25",
+      "path": "2019/09/25"
+    },
+    {
+      "label": "26",
+      "path": "2019/09/26"
+    },
+    {
+      "label": "27",
+      "path": "2019/09/27"
+    },
+    {
+      "label": "28",
+      "path": "2019/09/28"
+    },
+    {
+      "label": "29",
+      "path": "2019/09/29"
+    },
+    {
+      "label": "30",
+      "path": "2019/09/30"
+    }
+  ]
+}

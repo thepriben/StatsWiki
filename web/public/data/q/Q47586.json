@@ -4,8 +4,20 @@
   "title": "United_States_Electoral_College",
   "description": "institution that officially elects the President and Vice President of the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_electoral_college_casting_vote_for_Harrison_-_DPLA_-_c4d90aa3c45b2c8142c6c52235bf2645_%28cropped%29.jpg?width=64",
-  "total": 13327013,
+  "total": 13432594,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 80986
+    },
+    {
+      "period": "2019-11",
+      "views": 9309
+    },
+    {
+      "period": "2019-12",
+      "views": 15286
+    },
     {
       "period": "2020-02",
       "views": 106592
@@ -72,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 105581
+    },
     {
       "period": "2020",
       "views": 11213940

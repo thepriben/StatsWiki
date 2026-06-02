@@ -4,7 +4,7 @@
   "title": "Roman_Empire",
   "description": "period of ancient Rome following the Republic",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Inscription_Theatre_Leptis_Magna_Libya.JPG?width=64",
-  "total": 8832865,
+  "total": 9067070,
   "monthly": [
     {
       "period": "2015-09",
@@ -17,6 +17,34 @@
     {
       "period": "2015-11",
       "views": 9009
+    },
+    {
+      "period": "2019-01",
+      "views": 20406
+    },
+    {
+      "period": "2019-03",
+      "views": 28546
+    },
+    {
+      "period": "2019-04",
+      "views": 132827
+    },
+    {
+      "period": "2019-06",
+      "views": 9798
+    },
+    {
+      "period": "2019-08",
+      "views": 18636
+    },
+    {
+      "period": "2019-10",
+      "views": 10265
+    },
+    {
+      "period": "2019-11",
+      "views": 13727
     },
     {
       "period": "2020-01",
@@ -271,6 +299,10 @@
     {
       "period": "2015",
       "views": 264341
+    },
+    {
+      "period": "2019",
+      "views": 234205
     },
     {
       "period": "2020",

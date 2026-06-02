@@ -4,7 +4,7 @@
   "title": "Roman_Reigns",
   "description": "American professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Reigns_RR25_%281%29_%28headshot%29.jpg?width=64",
-  "total": 8458510,
+  "total": 9385010,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,38 @@
     {
       "period": "2015-12",
       "views": 701285
+    },
+    {
+      "period": "2019-01",
+      "views": 132895
+    },
+    {
+      "period": "2019-02",
+      "views": 203391
+    },
+    {
+      "period": "2019-03",
+      "views": 47849
+    },
+    {
+      "period": "2019-04",
+      "views": 170699
+    },
+    {
+      "period": "2019-05",
+      "views": 28758
+    },
+    {
+      "period": "2019-07",
+      "views": 64518
+    },
+    {
+      "period": "2019-08",
+      "views": 234237
+    },
+    {
+      "period": "2019-10",
+      "views": 44153
     },
     {
       "period": "2020-01",
@@ -311,6 +343,10 @@
     {
       "period": "2015",
       "views": 1400149
+    },
+    {
+      "period": "2019",
+      "views": 926500
     },
     {
       "period": "2020",

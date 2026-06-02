@@ -4,7 +4,7 @@
   "title": "Jane_the_Virgin",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_the_Virgin_logo.svg?width=64",
-  "total": 972709,
+  "total": 1466699,
   "monthly": [
     {
       "period": "2015-08",
@@ -21,12 +21,44 @@
     {
       "period": "2015-12",
       "views": 227236
+    },
+    {
+      "period": "2019-01",
+      "views": 12254
+    },
+    {
+      "period": "2019-03",
+      "views": 28735
+    },
+    {
+      "period": "2019-04",
+      "views": 115026
+    },
+    {
+      "period": "2019-05",
+      "views": 53730
+    },
+    {
+      "period": "2019-06",
+      "views": 31857
+    },
+    {
+      "period": "2019-07",
+      "views": 52543
+    },
+    {
+      "period": "2019-08",
+      "views": 199845
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 972709
+    },
+    {
+      "period": "2019",
+      "views": 493990
     }
   ]
 }

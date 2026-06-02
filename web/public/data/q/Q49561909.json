@@ -4,8 +4,20 @@
   "title": "Sydney_Sweeney",
   "description": "American actress (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_04_%28Cropped%29.jpg?width=64",
-  "total": 31817071,
+  "total": 32058696,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 73449
+    },
+    {
+      "period": "2019-07",
+      "views": 71640
+    },
+    {
+      "period": "2019-08",
+      "views": 96536
+    },
     {
       "period": "2020-07",
       "views": 15864
@@ -240,6 +252,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 241625
+    },
     {
       "period": "2020",
       "views": 15864

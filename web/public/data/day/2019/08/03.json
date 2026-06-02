@@ -1,0 +1,455 @@
+{
+  "period": "3 August 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 522755,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Hobbs_&_Shaw",
+      "label": "Hobbs & Shaw",
+      "description": "",
+      "views": 209074,
+      "qid": "Q_en_Hobbs_&_Shaw",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Descendants_3",
+      "label": "Descendants 3",
+      "description": "",
+      "views": 184546,
+      "qid": "Q_en_Descendants_3",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "UFC_on_ESPN:_Covington_vs._Lawler",
+      "label": "UFC on ESPN: Covington vs. Lawler",
+      "description": "",
+      "views": 145051,
+      "qid": "Q_en_UFC_on_ESPN:_Covington_vs._Lawler",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Once_Upon_a_Time_in_Hollywood",
+      "label": "Once Upon a Time in Hollywood",
+      "description": "2019 film directed by Quentin Tarantino",
+      "views": 138284,
+      "qid": "Q47300912",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Once_Upon_a_Time_in_Hollywood_logo.svg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "The_Boys_(2019_TV_series)",
+      "label": "The Boys",
+      "description": "American television series",
+      "views": 123849,
+      "qid": "Q48796994",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Boys_TV_series_logo.svg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Grigori_Perelman",
+      "label": "Grigori Perelman",
+      "description": "",
+      "views": 116369,
+      "qid": "Q_en_Grigori_Perelman",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Article_35A_of_the_Constitution_of_India",
+      "label": "Article 35A of the Constitution of India",
+      "description": "",
+      "views": 114092,
+      "qid": "Q_en_Article_35A_of_the_Constitution_of_India",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "The_Lion_King_(2019_film)",
+      "label": "The Lion King",
+      "description": "2019 film directed by Jon Favreau",
+      "views": 97425,
+      "qid": "Q27044293",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion-king.png?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Cameron_Boyce",
+      "label": "Cameron Boyce",
+      "description": "American actor (1999–2019)",
+      "views": 96925,
+      "qid": "Q553704",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameron_Boyce_in_october_2017.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 94087,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Tulsi_Gabbard",
+      "label": "Tulsi Gabbard",
+      "description": "American politician (born 1981)",
+      "views": 91093,
+      "qid": "Q32620",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Director_Tulsi_Gabbard_Official_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Avengers:_Endgame",
+      "label": "Avengers: Endgame",
+      "description": "2019 film by Anthony and Joe Russo",
+      "views": 89514,
+      "qid": "Q23781155",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avengers_Endgame_Logo_Black.svg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Dwayne_Johnson",
+      "label": "Dwayne Johnson",
+      "description": "American actor and professional wrestler (born 1972)",
+      "views": 79690,
+      "qid": "Q10738",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dwayne_Johnson-1809_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "The_Red_Sea_Diving_Resort",
+      "label": "The Red Sea Diving Resort",
+      "description": "",
+      "views": 77955,
+      "qid": "Q_en_The_Red_Sea_Diving_Resort",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Joe_Longthorne",
+      "label": "Joe Longthorne",
+      "description": "",
+      "views": 76317,
+      "qid": "Q_en_Joe_Longthorne",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Colby_Covington",
+      "label": "Colby Covington",
+      "description": "",
+      "views": 73939,
+      "qid": "Q_en_Colby_Covington",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Sharon_Tate",
+      "label": "Sharon Tate",
+      "description": "American actress and model (1943–1969)",
+      "views": 73386,
+      "qid": "Q228699",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "Maitland_Ward",
+      "label": "Maitland Ward",
+      "description": "",
+      "views": 71831,
+      "qid": "Q_en_Maitland_Ward",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Vanessa_Kirby",
+      "label": "Vanessa Kirby",
+      "description": "British actress (born 1987)",
+      "views": 69383,
+      "qid": "Q6159535",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanessa_Kirby_at_the_2024_Toronto_International_Film_Festival_08_%28Cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Tina_Turner",
+      "label": "Tina Turner",
+      "description": "American-born Swiss singer and songwriter (1939–2023)",
+      "views": 69267,
+      "qid": "Q131814",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tina_Turner_50th_Anniversary_Tour.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Courtney_Kennedy_Hill",
+      "label": "Courtney Kennedy Hill",
+      "description": "",
+      "views": 67331,
+      "qid": "Q_en_Courtney_Kennedy_Hill",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 66300,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Rick_Rescorla",
+      "label": "Rick Rescorla",
+      "description": "",
+      "views": 64193,
+      "qid": "Q_en_Rick_Rescorla",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "List_of_mass_shootings_in_the_United_States_in_2019",
+      "label": "List of mass shootings in the United States in 2019",
+      "description": "",
+      "views": 62977,
+      "qid": "Q_en_List_of_mass_shootings_in_the_United_States_in_2019",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "List_of_Marvel_Cinematic_Universe_films",
+      "label": "list of Marvel Cinematic Universe films",
+      "description": "Wikimedia list article",
+      "views": 62280,
+      "qid": "Q16148930",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Tate_murders",
+      "label": "Tate murders",
+      "description": "",
+      "views": 61880,
+      "qid": "Q_en_Tate_murders",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Quentin_Tarantino",
+      "label": "Quentin Tarantino",
+      "description": "American filmmaker and actor (born 1963)",
+      "views": 60968,
+      "qid": "Q3772",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quentin_Tarantino_by_Gage_Skidmore.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Ramon_Magsaysay_Award",
+      "label": "Ramon Magsaysay Award",
+      "description": "",
+      "views": 60206,
+      "qid": "Q_en_Ramon_Magsaysay_Award",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "2019_El_Paso_shooting",
+      "label": "2019 El Paso shooting",
+      "description": "",
+      "views": 58508,
+      "qid": "Q_en_2019_El_Paso_shooting",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Harry_Maguire",
+      "label": "Harry Maguire",
+      "description": "",
+      "views": 57242,
+      "qid": "Q_en_Harry_Maguire",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Robert_F._Kennedy",
+      "label": "Robert F. Kennedy",
+      "description": "American politician and lawyer (1925–1968)",
+      "views": 56530,
+      "qid": "Q25310",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_F._Kennedy.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "El_Paso,_Texas",
+      "label": "El Paso, Texas",
+      "description": "",
+      "views": 54854,
+      "qid": "Q_en_El_Paso,_Texas",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Dove_Cameron",
+      "label": "Dove Cameron",
+      "description": "",
+      "views": 54537,
+      "qid": "Q_en_Dove_Cameron",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Charles_Manson",
+      "label": "Charles Manson",
+      "description": "American criminal and cult leader (1934–2017)",
+      "views": 53577,
+      "qid": "Q485508",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MansonB33920_8-14-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "List_of_highest-grossing_films",
+      "label": "list of highest-grossing films",
+      "description": "Wikimedia list article",
+      "views": 53157,
+      "qid": "Q392108",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "The_Boys_(comics)",
+      "label": "The Boys (comics)",
+      "description": "",
+      "views": 50954,
+      "qid": "Q_en_The_Boys_(comics)",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Marianne_Williamson",
+      "label": "Marianne Williamson",
+      "description": "",
+      "views": 50535,
+      "qid": "Q_en_Marianne_Williamson",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "1996_California_Proposition_218",
+      "label": "1996 California Proposition 218",
+      "description": "",
+      "views": 49838,
+      "qid": "Q_en_1996_California_Proposition_218",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Lali_Espósito",
+      "label": "Lali Espósito",
+      "description": "",
+      "views": 49359,
+      "qid": "Q_en_Lali_Espósito",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "The_Fast_and_the_Furious",
+      "label": "Fast & Furious",
+      "description": "American action film franchise",
+      "views": 49355,
+      "qid": "Q1576873",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tfatf-logo.svg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Ethel_Kennedy",
+      "label": "Ethel Kennedy",
+      "description": "",
+      "views": 49105,
+      "qid": "Q_en_Ethel_Kennedy",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 48958,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Robbie_Lawler",
+      "label": "Robbie Lawler",
+      "description": "",
+      "views": 48537,
+      "qid": "Q_en_Robbie_Lawler",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Spider-Man:_Far_From_Home",
+      "label": "Spider-Man: Far From Home",
+      "description": "2019 film directed by Jon Watts",
+      "views": 47954,
+      "qid": "Q27985819",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-man-far-from-home.svg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "List_of_Bollywood_films_of_2019",
+      "label": "list of Bollywood films of 2019",
+      "description": "Wikimedia list article",
+      "views": 46974,
+      "qid": "Q48731762",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Area_51",
+      "label": "Area 51",
+      "description": "",
+      "views": 46916,
+      "qid": "Q_en_Area_51",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Money_Heist",
+      "label": "Money Heist",
+      "description": "Spanish television crime series",
+      "views": 46560,
+      "qid": "Q29647346",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Casadepapelwordmark.svg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Boris_Johnson",
+      "label": "Boris Johnson",
+      "description": "Prime Minister of the United Kingdom from 2019 to 2022",
+      "views": 46481,
+      "qid": "Q180589",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris_Johnson_official_portrait_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Manson_Family",
+      "label": "Manson Family",
+      "description": "",
+      "views": 46418,
+      "qid": "Q_en_Manson_Family",
+      "image": ""
+    }
+  ]
+}

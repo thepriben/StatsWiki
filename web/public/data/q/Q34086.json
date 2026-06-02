@@ -4,7 +4,7 @@
   "title": "Justin_Bieber",
   "description": "Canadian singer and songwriter (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justin_Bieber_in_2015.jpg?width=64",
-  "total": 28675487,
+  "total": 33525817,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 901176
+    },
+    {
+      "period": "2019-01",
+      "views": 430363
+    },
+    {
+      "period": "2019-02",
+      "views": 444597
+    },
+    {
+      "period": "2019-03",
+      "views": 499756
+    },
+    {
+      "period": "2019-04",
+      "views": 394404
+    },
+    {
+      "period": "2019-05",
+      "views": 399657
+    },
+    {
+      "period": "2019-06",
+      "views": 350625
+    },
+    {
+      "period": "2019-07",
+      "views": 338805
+    },
+    {
+      "period": "2019-08",
+      "views": 298498
+    },
+    {
+      "period": "2019-09",
+      "views": 391743
+    },
+    {
+      "period": "2019-10",
+      "views": 666802
+    },
+    {
+      "period": "2019-11",
+      "views": 336801
+    },
+    {
+      "period": "2019-12",
+      "views": 298279
     },
     {
       "period": "2020-01",
@@ -339,6 +387,10 @@
     {
       "period": "2015",
       "views": 3908010
+    },
+    {
+      "period": "2019",
+      "views": 4850330
     },
     {
       "period": "2020",

@@ -1,0 +1,455 @@
+{
+  "period": "17 October 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 651106,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Elijah_Cummings",
+      "label": "Elijah Cummings",
+      "description": "",
+      "views": 649626,
+      "qid": "Q_en_Elijah_Cummings",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "List_of_most_popular_websites",
+      "label": "List of most popular websites",
+      "description": "",
+      "views": 519990,
+      "qid": "Q_en_List_of_most_popular_websites",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Joker_(2019_film)",
+      "label": "Joker",
+      "description": "2019 musical film directed by Todd Phillips",
+      "views": 237916,
+      "qid": "Q42759035",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_%282019%29_logotype.png?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Ron_Ely",
+      "label": "Ron Ely",
+      "description": "",
+      "views": 151395,
+      "qid": "Q_en_Ron_Ely",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Kepler's_Supernova",
+      "label": "SN 1604",
+      "description": "supernova visible from Earth in the 17th century",
+      "views": 140760,
+      "qid": "Q320670",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keplers_supernova.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "The_Who",
+      "label": "The Who",
+      "description": "",
+      "views": 140290,
+      "qid": "Q_en_The_Who",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Who's_Next",
+      "label": "Who's Next",
+      "description": "",
+      "views": 136812,
+      "qid": "Q_en_Who's_Next",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Karva_Chauth",
+      "label": "Karva Chauth",
+      "description": "",
+      "views": 113689,
+      "qid": "Q_en_Karva_Chauth",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Maya_Rockeymoore_Cummings",
+      "label": "Maya Rockeymoore Cummings",
+      "description": "",
+      "views": 112968,
+      "qid": "Q_en_Maya_Rockeymoore_Cummings",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Nábrók",
+      "label": "Nábrók",
+      "description": "",
+      "views": 112771,
+      "qid": "Q_en_Nábrók",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 112526,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Joaquin_Phoenix",
+      "label": "Joaquin Phoenix",
+      "description": "American actor",
+      "views": 107164,
+      "qid": "Q185140",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joaquin_Phoenix_in_2018.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Battle_of_Neville's_Cross",
+      "label": "Battle of Neville's Cross",
+      "description": "",
+      "views": 105811,
+      "qid": "Q_en_Battle_of_Neville's_Cross",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Brooklyn",
+      "label": "Brooklyn",
+      "description": "borough of New York City, New York, United States",
+      "views": 101351,
+      "qid": "Q18419",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bedstuybrownstone1.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "ShowBiz_Pizza_Place",
+      "label": "ShowBiz Pizza Place",
+      "description": "",
+      "views": 86483,
+      "qid": "Q_en_ShowBiz_Pizza_Place",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Patrick_Day",
+      "label": "Patrick Day",
+      "description": "",
+      "views": 86292,
+      "qid": "Q_en_Patrick_Day",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "List_of_presidents_of_the_Indian_National_Congress",
+      "label": "List of presidents of the Indian National Congress",
+      "description": "",
+      "views": 83971,
+      "qid": "Q_en_List_of_presidents_of_the_Indian_National_Congress",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Paul_Shaffer",
+      "label": "Paul Shaffer",
+      "description": "",
+      "views": 83963,
+      "qid": "Q_en_Paul_Shaffer",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "War_(2019_film)",
+      "label": "War (2019 film)",
+      "description": "",
+      "views": 82277,
+      "qid": "Q_en_War_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "RuPaul",
+      "label": "RuPaul",
+      "description": "",
+      "views": 82260,
+      "qid": "Q_en_RuPaul",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Sulli",
+      "label": "Sulli",
+      "description": "",
+      "views": 80308,
+      "qid": "Q_en_Sulli",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Maleficent:_Mistress_of_Evil",
+      "label": "Maleficent: Mistress of Evil",
+      "description": "",
+      "views": 71887,
+      "qid": "Q_en_Maleficent:_Mistress_of_Evil",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Daksha",
+      "label": "Daksha",
+      "description": "",
+      "views": 70997,
+      "qid": "Q_en_Daksha",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Jennifer_Aniston",
+      "label": "Jennifer Aniston",
+      "description": "American actress (born 1969)",
+      "views": 70331,
+      "qid": "Q32522",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JenniferAnistonHWoFFeb2012.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Apple_Network_Server",
+      "label": "Apple Network Server",
+      "description": "Apple Network Servers provide a technical service for Apple and Apple device end users. The server profile is public domain corporate group policy",
+      "views": 70248,
+      "qid": "Q119827",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AppleMuzeumPolska.jpg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "The_Masked_Singer_(American_season_2)",
+      "label": "The Masked Singer (American season 2)",
+      "description": "",
+      "views": 68953,
+      "qid": "Q_en_The_Masked_Singer_(American_season_2)",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Coca-Cola",
+      "label": "Coca-Cola",
+      "description": "carbonated brown-colored soft drink",
+      "views": 67612,
+      "qid": "Q2813",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_%28Germany%29.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Bella_Hadid",
+      "label": "Bella Hadid",
+      "description": "",
+      "views": 64445,
+      "qid": "Q_en_Bella_Hadid",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Megyn_Kelly",
+      "label": "Megyn Kelly",
+      "description": "American journalist",
+      "views": 63981,
+      "qid": "Q293260",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MegynKelly.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "SuperM",
+      "label": "SuperM",
+      "description": "",
+      "views": 63805,
+      "qid": "Q_en_SuperM",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Leah_Bracknell",
+      "label": "Leah Bracknell",
+      "description": "",
+      "views": 60014,
+      "qid": "Q_en_Leah_Bracknell",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Paul_Dano",
+      "label": "Paul Dano",
+      "description": "",
+      "views": 59513,
+      "qid": "Q_en_Paul_Dano",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Abhijit_Banerjee",
+      "label": "Abhijit Banerjee",
+      "description": "",
+      "views": 58333,
+      "qid": "Q_en_Abhijit_Banerjee",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Strawberry",
+      "label": "Strawberry",
+      "description": "",
+      "views": 58012,
+      "qid": "Q_en_Strawberry",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Pyttipanna",
+      "label": "Pyttipanna",
+      "description": "",
+      "views": 57767,
+      "qid": "Q_en_Pyttipanna",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "List_of_Bollywood_films_of_2019",
+      "label": "list of Bollywood films of 2019",
+      "description": "Wikimedia list article",
+      "views": 55752,
+      "qid": "Q48731762",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Zombieland:_Double_Tap",
+      "label": "Zombieland: Double Tap",
+      "description": "",
+      "views": 55430,
+      "qid": "Q_en_Zombieland:_Double_Tap",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Billy_Porter_(entertainer)",
+      "label": "Billy Porter (entertainer)",
+      "description": "",
+      "views": 55057,
+      "qid": "Q_en_Billy_Porter_(entertainer)",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Charlotte_Church",
+      "label": "Charlotte Church",
+      "description": "",
+      "views": 53970,
+      "qid": "Q_en_Charlotte_Church",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Adrienne_Bailon",
+      "label": "Adrienne Bailon",
+      "description": "",
+      "views": 53505,
+      "qid": "Q_en_Adrienne_Bailon",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Fractured_(2019_film)",
+      "label": "Fractured (2019 film)",
+      "description": "",
+      "views": 52315,
+      "qid": "Q_en_Fractured_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Manitou_and_Pike's_Peak_Railway",
+      "label": "Manitou and Pike's Peak Railway",
+      "description": "",
+      "views": 51872,
+      "qid": "Q_en_Manitou_and_Pike's_Peak_Railway",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Paul_Rudd",
+      "label": "Paul Rudd",
+      "description": "American actor",
+      "views": 51570,
+      "qid": "Q276525",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Rudd_and_Kate_Mara_at_the_2024_Toronto_International_Film_Festival_8_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Scarlett_Johansson",
+      "label": "Scarlett Johansson",
+      "description": "American actress (born 1984)",
+      "views": 51232,
+      "qid": "Q34436",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "El_Camino:_A_Breaking_Bad_Movie",
+      "label": "El Camino: A Breaking Bad Movie",
+      "description": "",
+      "views": 51219,
+      "qid": "Q_en_El_Camino:_A_Breaking_Bad_Movie",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Physarum_polycephalum",
+      "label": "Physarum polycephalum",
+      "description": "",
+      "views": 50919,
+      "qid": "Q_en_Physarum_polycephalum",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Seal_(musician)",
+      "label": "Seal (musician)",
+      "description": "",
+      "views": 50838,
+      "qid": "Q_en_Seal_(musician)",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "American_Horror_Story:_1984",
+      "label": "American Horror Story: 1984",
+      "description": "",
+      "views": 50772,
+      "qid": "Q_en_American_Horror_Story:_1984",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "The_Masked_Singer_(American_TV_series)",
+      "label": "The Masked Singer (American TV series)",
+      "description": "",
+      "views": 50486,
+      "qid": "Q_en_The_Masked_Singer_(American_TV_series)",
+      "image": ""
+    }
+  ]
+}

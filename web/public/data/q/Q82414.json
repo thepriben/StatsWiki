@@ -4,11 +4,15 @@
   "title": "Winter_Olympic_Games",
   "description": "major international multi-sport event",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Athlete%27s_oath_at_1924_Winter_Olympics.jpg?width=64",
-  "total": 2929206,
+  "total": 2939645,
   "monthly": [
     {
       "period": "2015-07",
       "views": 15930
+    },
+    {
+      "period": "2019-01",
+      "views": 10439
     },
     {
       "period": "2021-07",
@@ -47,6 +51,10 @@
     {
       "period": "2015",
       "views": 15930
+    },
+    {
+      "period": "2019",
+      "views": 10439
     },
     {
       "period": "2021",

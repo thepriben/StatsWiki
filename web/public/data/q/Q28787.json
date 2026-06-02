@@ -4,7 +4,7 @@
   "title": "Star_Wars_Rebels",
   "description": "American 3D CGI animated television series from 2014–2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Star_Wars_Rebels_schwarz.svg?width=64",
-  "total": 1661687,
+  "total": 1684235,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,10 @@
     {
       "period": "2015-12",
       "views": 574727
+    },
+    {
+      "period": "2019-12",
+      "views": 22548
     },
     {
       "period": "2020-05",
@@ -59,6 +63,10 @@
     {
       "period": "2015",
       "views": 1365370
+    },
+    {
+      "period": "2019",
+      "views": 22548
     },
     {
       "period": "2020",

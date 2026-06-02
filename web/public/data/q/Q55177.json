@@ -4,8 +4,12 @@
   "title": "Sunita_Williams",
   "description": "American astronaut and USN officer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunita_Williams_in_2018.jpg?width=64",
-  "total": 4148066,
+  "total": 4163179,
   "monthly": [
+    {
+      "period": "2019-09",
+      "views": 15113
+    },
     {
       "period": "2023-08",
       "views": 33957
@@ -68,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 15113
+    },
     {
       "period": "2023",
       "views": 33957

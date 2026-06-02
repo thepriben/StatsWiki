@@ -4,8 +4,48 @@
   "title": "The_Handmaid's_Tale_(TV_series)",
   "description": "American web television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Handmaid%27s_Tale_intertitle.png?width=64",
-  "total": 12638075,
+  "total": 19045799,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 340364
+    },
+    {
+      "period": "2019-02",
+      "views": 385879
+    },
+    {
+      "period": "2019-03",
+      "views": 288151
+    },
+    {
+      "period": "2019-04",
+      "views": 295857
+    },
+    {
+      "period": "2019-05",
+      "views": 508048
+    },
+    {
+      "period": "2019-06",
+      "views": 1433370
+    },
+    {
+      "period": "2019-07",
+      "views": 1096641
+    },
+    {
+      "period": "2019-08",
+      "views": 1274846
+    },
+    {
+      "period": "2019-09",
+      "views": 499578
+    },
+    {
+      "period": "2019-10",
+      "views": 284990
+    },
     {
       "period": "2020-01",
       "views": 10977
@@ -172,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 6407724
+    },
     {
       "period": "2020",
       "views": 2494457

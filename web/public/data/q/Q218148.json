@@ -4,7 +4,7 @@
   "title": "Zodiac_Killer",
   "description": "serial killer in California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zodiac-Killer.jpg?width=64",
-  "total": 10503862,
+  "total": 13365322,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,6 +17,54 @@
     {
       "period": "2015-11",
       "views": 45608
+    },
+    {
+      "period": "2019-01",
+      "views": 264879
+    },
+    {
+      "period": "2019-02",
+      "views": 438069
+    },
+    {
+      "period": "2019-03",
+      "views": 297805
+    },
+    {
+      "period": "2019-04",
+      "views": 163544
+    },
+    {
+      "period": "2019-05",
+      "views": 333922
+    },
+    {
+      "period": "2019-06",
+      "views": 186283
+    },
+    {
+      "period": "2019-07",
+      "views": 135970
+    },
+    {
+      "period": "2019-08",
+      "views": 235236
+    },
+    {
+      "period": "2019-09",
+      "views": 131196
+    },
+    {
+      "period": "2019-10",
+      "views": 185497
+    },
+    {
+      "period": "2019-11",
+      "views": 107647
+    },
+    {
+      "period": "2019-12",
+      "views": 381412
     },
     {
       "period": "2020-01",
@@ -235,6 +283,10 @@
     {
       "period": "2015",
       "views": 290346
+    },
+    {
+      "period": "2019",
+      "views": 2861460
     },
     {
       "period": "2020",

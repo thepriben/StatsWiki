@@ -4,8 +4,12 @@
   "title": "JavaScript",
   "description": "high-level programming language",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JavaScript_code.png?width=64",
-  "total": 15360517,
+  "total": 15372727,
   "monthly": [
+    {
+      "period": "2019-09",
+      "views": 12210
+    },
     {
       "period": "2020-10",
       "views": 568632
@@ -120,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 12210
+    },
     {
       "period": "2020",
       "views": 1967633

@@ -4,7 +4,7 @@
   "title": "Black_hole",
   "description": "astronomical object so massive, that anything falling into it, including light, cannot escape its gravity",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_hole_-_Messier_87_crop_max_res.jpg?width=64",
-  "total": 5063688,
+  "total": 6645160,
   "monthly": [
     {
       "period": "2015-08",
@@ -21,6 +21,30 @@
     {
       "period": "2015-11",
       "views": 952340
+    },
+    {
+      "period": "2019-04",
+      "views": 1455101
+    },
+    {
+      "period": "2019-05",
+      "views": 42277
+    },
+    {
+      "period": "2019-07",
+      "views": 10818
+    },
+    {
+      "period": "2019-09",
+      "views": 34098
+    },
+    {
+      "period": "2019-10",
+      "views": 10991
+    },
+    {
+      "period": "2019-11",
+      "views": 28187
     },
     {
       "period": "2020-01",
@@ -139,6 +163,10 @@
     {
       "period": "2015",
       "views": 2730095
+    },
+    {
+      "period": "2019",
+      "views": 1581472
     },
     {
       "period": "2020",

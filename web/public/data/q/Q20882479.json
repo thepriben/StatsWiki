@@ -4,8 +4,32 @@
   "title": "Anya_Taylor-Joy",
   "description": "actress (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg?width=64",
-  "total": 31978544,
+  "total": 32479673,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 298789
+    },
+    {
+      "period": "2019-04",
+      "views": 31435
+    },
+    {
+      "period": "2019-08",
+      "views": 10935
+    },
+    {
+      "period": "2019-09",
+      "views": 77879
+    },
+    {
+      "period": "2019-10",
+      "views": 34998
+    },
+    {
+      "period": "2019-11",
+      "views": 47093
+    },
     {
       "period": "2020-01",
       "views": 35452
@@ -296,6 +320,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 501129
+    },
     {
       "period": "2020",
       "views": 7191807

@@ -4,8 +4,32 @@
   "title": "The_Mandalorian",
   "description": "American space opera streaming television series from 2019",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86.png?width=64",
-  "total": 20207520,
+  "total": 31254463,
   "monthly": [
+    {
+      "period": "2019-04",
+      "views": 137095
+    },
+    {
+      "period": "2019-08",
+      "views": 514910
+    },
+    {
+      "period": "2019-09",
+      "views": 18143
+    },
+    {
+      "period": "2019-10",
+      "views": 329890
+    },
+    {
+      "period": "2019-11",
+      "views": 4698175
+    },
+    {
+      "period": "2019-12",
+      "views": 5348730
+    },
     {
       "period": "2020-01",
       "views": 1600417
@@ -160,6 +184,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 11046943
+    },
     {
       "period": "2020",
       "views": 12335549

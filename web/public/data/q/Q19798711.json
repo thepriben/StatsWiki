@@ -4,7 +4,7 @@
   "title": "Into_the_Badlands_(TV_series)",
   "description": "American wuxia television series, 2015–2019",
   "image": "",
-  "total": 1039675,
+  "total": 1469590,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,28 @@
     {
       "period": "2015-12",
       "views": 557698
+    },
+    {
+      "period": "2019-03",
+      "views": 204088
+    },
+    {
+      "period": "2019-04",
+      "views": 190584
+    },
+    {
+      "period": "2019-05",
+      "views": 35243
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1039675
+    },
+    {
+      "period": "2019",
+      "views": 429915
     }
   ]
 }

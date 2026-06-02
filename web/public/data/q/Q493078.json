@@ -4,11 +4,51 @@
   "title": "The_World's_Billionaires",
   "description": "annual ranking by net worth by Forbes magazine",
   "image": "",
-  "total": 15966364,
+  "total": 17614437,
   "monthly": [
     {
       "period": "2015-12",
       "views": 14197
+    },
+    {
+      "period": "2019-01",
+      "views": 467263
+    },
+    {
+      "period": "2019-02",
+      "views": 336881
+    },
+    {
+      "period": "2019-03",
+      "views": 318222
+    },
+    {
+      "period": "2019-04",
+      "views": 180190
+    },
+    {
+      "period": "2019-07",
+      "views": 57092
+    },
+    {
+      "period": "2019-08",
+      "views": 39316
+    },
+    {
+      "period": "2019-09",
+      "views": 72603
+    },
+    {
+      "period": "2019-10",
+      "views": 60763
+    },
+    {
+      "period": "2019-11",
+      "views": 85174
+    },
+    {
+      "period": "2019-12",
+      "views": 30569
     },
     {
       "period": "2020-01",
@@ -251,6 +291,10 @@
     {
       "period": "2015",
       "views": 14197
+    },
+    {
+      "period": "2019",
+      "views": 1648073
     },
     {
       "period": "2020",

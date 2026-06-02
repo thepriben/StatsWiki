@@ -4,8 +4,16 @@
   "title": "ICC_Champions_Trophy",
   "description": "One-Day International (ODI) cricket tournament organised by the International Cricket Council (ICC)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ian_Bell_batting_2013_%281%29.jpg?width=64",
-  "total": 5692587,
+  "total": 5924360,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 11839
+    },
+    {
+      "period": "2019-07",
+      "views": 219934
+    },
     {
       "period": "2021-11",
       "views": 193348
@@ -64,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 231773
+    },
     {
       "period": "2021",
       "views": 193348

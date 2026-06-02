@@ -4,8 +4,28 @@
   "title": "Matt_Gaetz",
   "description": "United States Representative from Florida from 2017 to 2024 (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt_Gaetz_117th_Congress_portrait_%28crop%29.jpg?width=64",
-  "total": 8878694,
+  "total": 9554092,
   "monthly": [
+    {
+      "period": "2019-02",
+      "views": 259317
+    },
+    {
+      "period": "2019-03",
+      "views": 12262
+    },
+    {
+      "period": "2019-07",
+      "views": 22852
+    },
+    {
+      "period": "2019-10",
+      "views": 148137
+    },
+    {
+      "period": "2019-12",
+      "views": 232830
+    },
     {
       "period": "2020-02",
       "views": 23532
@@ -152,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 675398
+    },
     {
       "period": "2020",
       "views": 561422

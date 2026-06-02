@@ -4,8 +4,12 @@
   "title": "Utrecht",
   "description": "municipality in the Netherlands and capital city of the province of Utrecht",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neude_met_Domtoren.JPG?width=64",
-  "total": 7109284,
+  "total": 7154684,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 45400
+    },
     {
       "period": "2024-12",
       "views": 65785
@@ -56,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 45400
+    },
     {
       "period": "2024",
       "views": 65785

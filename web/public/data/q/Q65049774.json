@@ -4,8 +4,12 @@
   "title": "Chandrayaan-3",
   "description": "India's third lunar exploration mission",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandrayaan-3_Integrated_Module_in_clean-room_01.webp?width=64",
-  "total": 6224159,
+  "total": 6265012,
   "monthly": [
+    {
+      "period": "2019-09",
+      "views": 40853
+    },
     {
       "period": "2023-07",
       "views": 1628815
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 40853
+    },
     {
       "period": "2023",
       "views": 6184440

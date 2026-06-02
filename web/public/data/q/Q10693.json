@@ -4,7 +4,7 @@
   "title": "Periodic_table",
   "description": "table systematically placing elements based on atomic number and recurrent properties",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Periodic_table_%2832-col%2C_enwiki%29%2C_black_and_white.png?width=64",
-  "total": 34367463,
+  "total": 41868230,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 351550
+    },
+    {
+      "period": "2019-01",
+      "views": 524621
+    },
+    {
+      "period": "2019-02",
+      "views": 511381
+    },
+    {
+      "period": "2019-03",
+      "views": 494976
+    },
+    {
+      "period": "2019-04",
+      "views": 468835
+    },
+    {
+      "period": "2019-05",
+      "views": 547548
+    },
+    {
+      "period": "2019-06",
+      "views": 448924
+    },
+    {
+      "period": "2019-07",
+      "views": 374030
+    },
+    {
+      "period": "2019-08",
+      "views": 474986
+    },
+    {
+      "period": "2019-09",
+      "views": 751814
+    },
+    {
+      "period": "2019-10",
+      "views": 778443
+    },
+    {
+      "period": "2019-11",
+      "views": 1092606
+    },
+    {
+      "period": "2019-12",
+      "views": 1032603
     },
     {
       "period": "2020-01",
@@ -343,6 +391,10 @@
     {
       "period": "2015",
       "views": 2206595
+    },
+    {
+      "period": "2019",
+      "views": 7500767
     },
     {
       "period": "2020",

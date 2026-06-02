@@ -4,7 +4,7 @@
   "title": "Ballers",
   "description": "American television series",
   "image": "",
-  "total": 793145,
+  "total": 861338,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,24 @@
     {
       "period": "2015-09",
       "views": 84891
+    },
+    {
+      "period": "2019-08",
+      "views": 27156
+    },
+    {
+      "period": "2019-10",
+      "views": 41037
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 793145
+    },
+    {
+      "period": "2019",
+      "views": 68193
     }
   ]
 }

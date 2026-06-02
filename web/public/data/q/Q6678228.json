@@ -4,7 +4,7 @@
   "title": "List_of_The_Big_Bang_Theory_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1932717,
+  "total": 2794904,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,12 +25,36 @@
     {
       "period": "2015-12",
       "views": 601068
+    },
+    {
+      "period": "2019-01",
+      "views": 86241
+    },
+    {
+      "period": "2019-02",
+      "views": 80591
+    },
+    {
+      "period": "2019-03",
+      "views": 105376
+    },
+    {
+      "period": "2019-04",
+      "views": 130534
+    },
+    {
+      "period": "2019-05",
+      "views": 459445
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1932717
+    },
+    {
+      "period": "2019",
+      "views": 862187
     }
   ]
 }

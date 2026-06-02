@@ -4,8 +4,12 @@
   "title": "Google_Classroom",
   "description": "blended learning platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Classroom_Logo.svg?width=64",
-  "total": 17457991,
+  "total": 17497871,
   "monthly": [
+    {
+      "period": "2019-10",
+      "views": 39880
+    },
     {
       "period": "2020-03",
       "views": 539741
@@ -176,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 39880
+    },
     {
       "period": "2020",
       "views": 4826030

@@ -1,0 +1,455 @@
+{
+  "period": "24 January 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Ted_Bundy",
+      "label": "Ted Bundy",
+      "description": "American serial killer (1946–1989)",
+      "views": 383869,
+      "qid": "Q192218",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Louis_Tomlinson",
+      "label": "Louis Tomlinson",
+      "description": "English singer and songwriter",
+      "views": 343008,
+      "qid": "Q3624971",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Tomlinson_November_2014.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Fyre_Festival",
+      "label": "Fyre Festival",
+      "description": "",
+      "views": 295207,
+      "qid": "Q_en_Fyre_Festival",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Emiliano_Sala",
+      "label": "Emiliano Sala",
+      "description": "",
+      "views": 226019,
+      "qid": "Q_en_Emiliano_Sala",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Billy_McFarland_(entrepreneur)",
+      "label": "Billy McFarland (entrepreneur)",
+      "description": "",
+      "views": 182471,
+      "qid": "Q_en_Billy_McFarland_(entrepreneur)",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Murder_of_James_Bulger",
+      "label": "Murder of James Bulger",
+      "description": "",
+      "views": 165211,
+      "qid": "Q_en_Murder_of_James_Bulger",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Kamala_Harris",
+      "label": "Kamala Harris",
+      "description": "Vice President of the United States from 2021 to 2025",
+      "views": 163271,
+      "qid": "Q10853588",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamala_Harris_Vice_Presidential_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Juan_Guaidó",
+      "label": "Juan Guaidó",
+      "description": "",
+      "views": 152266,
+      "qid": "Q_en_Juan_Guaidó",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Aloysius_Pang",
+      "label": "Aloysius Pang",
+      "description": "",
+      "views": 143514,
+      "qid": "Q_en_Aloysius_Pang",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 132651,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Naomi_Osaka",
+      "label": "Naomi Osaka",
+      "description": "Japanese tennis player",
+      "views": 130462,
+      "qid": "Q17466583",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Osaka_2017_Wimbledon.jpg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 123681,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Rafael_Nadal",
+      "label": "Rafael Nadal",
+      "description": "Spanish tennis player (born 1986)",
+      "views": 121114,
+      "qid": "Q10132",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Nadal_en_2024_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Andrew_Cunanan",
+      "label": "Andrew Cunanan",
+      "description": "",
+      "views": 113175,
+      "qid": "Q_en_Andrew_Cunanan",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Nicolás_Maduro",
+      "label": "Nicolás Maduro",
+      "description": "President of Venezuela 2013 to 2026",
+      "views": 107449,
+      "qid": "Q58132",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%A1s_Maduro_in_2023_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Venezuela",
+      "label": "Venezuela",
+      "description": "country in South America",
+      "views": 106152,
+      "qid": "Q717",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Embalse_la_Vueltosa_2022.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Kenneth_C._Griffin",
+      "label": "Kenneth C. Griffin",
+      "description": "",
+      "views": 104470,
+      "qid": "Q_en_Kenneth_C._Griffin",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 102503,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Glass_(2019_film)",
+      "label": "Glass (2019 film)",
+      "description": "",
+      "views": 98689,
+      "qid": "Q_en_Glass_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Petra_Kvitová",
+      "label": "Petra Kvitová",
+      "description": "",
+      "views": 96334,
+      "qid": "Q_en_Petra_Kvitová",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "The_Masked_Singer_(U.S._TV_series)",
+      "label": "The Masked Singer (U.S. TV series)",
+      "description": "",
+      "views": 94465,
+      "qid": "Q_en_The_Masked_Singer_(U.S._TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Nancy_Pelosi",
+      "label": "Nancy Pelosi",
+      "description": "American politician (born 1940)",
+      "views": 92899,
+      "qid": "Q170581",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "Ricki_Lake",
+      "label": "Ricki Lake",
+      "description": "",
+      "views": 91598,
+      "qid": "Q_en_Ricki_Lake",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Gonzalo_Higuaín",
+      "label": "Gonzalo Higuaín",
+      "description": "",
+      "views": 89667,
+      "qid": "Q_en_Gonzalo_Higuaín",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Government_shutdowns_in_the_United_States",
+      "label": "government shutdowns in the United States",
+      "description": "cessation of \"non-essential\" government services in the United States due to a funding lapse",
+      "views": 86997,
+      "qid": "Q5589429",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Republic_Day_(India)",
+      "label": "Republic Day (India)",
+      "description": "",
+      "views": 78487,
+      "qid": "Q_en_Republic_Day_(India)",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Gianni_Versace",
+      "label": "Gianni Versace",
+      "description": "",
+      "views": 77475,
+      "qid": "Q_en_Gianni_Versace",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Alexandria_Ocasio-Cortez",
+      "label": "Alexandria Ocasio-Cortez",
+      "description": "American politician (born 1989)",
+      "views": 77341,
+      "qid": "Q55223040",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandria_Ocasio-Cortez_Official_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Priyanka_Gandhi",
+      "label": "Priyanka Gandhi",
+      "description": "",
+      "views": 76558,
+      "qid": "Q_en_Priyanka_Gandhi",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Roma_(2018_film)",
+      "label": "Roma (2018 film)",
+      "description": "",
+      "views": 76121,
+      "qid": "Q_en_Roma_(2018_film)",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Taco_Liberty_Bell",
+      "label": "Taco Liberty Bell",
+      "description": "",
+      "views": 72655,
+      "qid": "Q_en_Taco_Liberty_Bell",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "2019_Venezuelan_presidential_crisis",
+      "label": "2019 Venezuelan presidential crisis",
+      "description": "",
+      "views": 70918,
+      "qid": "Q_en_2019_Venezuelan_presidential_crisis",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Margaret_Cho",
+      "label": "Margaret Cho",
+      "description": "",
+      "views": 70456,
+      "qid": "Q_en_Margaret_Cho",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Kayden_Boche",
+      "label": "Q6380501",
+      "description": "model, actor, film director, cinematographer, music producer and songwriter",
+      "views": 69978,
+      "qid": "Q6380501",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "What_Would_Brian_Boitano_Do?",
+      "label": "What Would Brian Boitano Do?",
+      "description": "",
+      "views": 68187,
+      "qid": "Q_en_What_Would_Brian_Boitano_Do?",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Megabat",
+      "label": "Megabat",
+      "description": "",
+      "views": 68026,
+      "qid": "Q_en_Megabat",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Danielle_Collins",
+      "label": "Danielle Collins",
+      "description": "",
+      "views": 66812,
+      "qid": "Q_en_Danielle_Collins",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "2019_AFC_Asian_Cup",
+      "label": "2019 AFC Asian Cup",
+      "description": "",
+      "views": 66302,
+      "qid": "Q_en_2019_AFC_Asian_Cup",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Frenkie_de_Jong",
+      "label": "Frenkie de Jong",
+      "description": "",
+      "views": 65493,
+      "qid": "Q_en_Frenkie_de_Jong",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "You_(TV_series)",
+      "label": "You",
+      "description": "2018 American psychological thriller television series",
+      "views": 65114,
+      "qid": "Q39082126",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/You-Logo.png?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Elizabeth_Holmes",
+      "label": "Elizabeth Holmes",
+      "description": "American biotechnology entrepreneur convicted of fraud",
+      "views": 64120,
+      "qid": "Q17503525",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Holmes_2014_cropped.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Daniel_Radcliffe",
+      "label": "Daniel Radcliffe",
+      "description": "British actor and film producer (born 1989)",
+      "views": 63958,
+      "qid": "Q38119",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Radcliffe_in_July_2015.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Sherri_Shepherd",
+      "label": "Sherri Shepherd",
+      "description": "",
+      "views": 63573,
+      "qid": "Q_en_Sherri_Shepherd",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Sex_Education_(TV_series)",
+      "label": "Sex Education",
+      "description": "2019 British television series",
+      "views": 63106,
+      "qid": "Q55632932",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sex_Education_Ad_in_Bucharest.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "The_Punisher_(season_2)",
+      "label": "The Punisher (season 2)",
+      "description": "",
+      "views": 61911,
+      "qid": "Q_en_The_Punisher_(season_2)",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Tom_Brady",
+      "label": "Tom Brady",
+      "description": "American football player (born 1977)",
+      "views": 61711,
+      "qid": "Q313381",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Brady_2021.png?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Operation_Pamphlet",
+      "label": "Operation Pamphlet",
+      "description": "",
+      "views": 61393,
+      "qid": "Q_en_Operation_Pamphlet",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Amanda_Knox",
+      "label": "Amanda Knox",
+      "description": "American woman exonerated of a murder conviction in Italy",
+      "views": 60361,
+      "qid": "Q4739665",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amanda_Knox.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Stefanos_Tsitsipas",
+      "label": "Stefanos Tsitsipas",
+      "description": "",
+      "views": 59587,
+      "qid": "Q_en_Stefanos_Tsitsipas",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Gladys_Knight",
+      "label": "Gladys Knight",
+      "description": "",
+      "views": 58040,
+      "qid": "Q_en_Gladys_Knight",
+      "image": ""
+    }
+  ]
+}

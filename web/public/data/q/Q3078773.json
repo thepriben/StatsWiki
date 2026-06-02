@@ -4,8 +4,20 @@
   "title": "Debbie_Rowe",
   "description": "former wife of Michael Jackson",
   "image": "",
-  "total": 2121636,
+  "total": 2601275,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 10970
+    },
+    {
+      "period": "2019-03",
+      "views": 458234
+    },
+    {
+      "period": "2019-06",
+      "views": 10435
+    },
     {
       "period": "2020-07",
       "views": 44784
@@ -92,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 479639
+    },
     {
       "period": "2020",
       "views": 44784

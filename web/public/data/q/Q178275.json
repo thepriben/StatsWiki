@@ -4,8 +4,20 @@
   "title": "Spanish_flu",
   "description": "1918–1920 global influenza pandemic caused by the H1N1 influenza A virus",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg?width=64",
-  "total": 23745449,
+  "total": 23795813,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 11731
+    },
+    {
+      "period": "2019-05",
+      "views": 25448
+    },
+    {
+      "period": "2019-12",
+      "views": 13185
+    },
     {
       "period": "2020-01",
       "views": 518004
@@ -128,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 50364
+    },
     {
       "period": "2020",
       "views": 19720874

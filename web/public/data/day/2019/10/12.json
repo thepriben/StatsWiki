@@ -1,0 +1,455 @@
+{
+  "period": "12 October 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 948856,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "IPv4",
+      "label": "IPv4",
+      "description": "",
+      "views": 805216,
+      "qid": "Q_en_IPv4",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Robert_Forster",
+      "label": "Robert Forster",
+      "description": "",
+      "views": 445813,
+      "qid": "Q_en_Robert_Forster",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Joker_(2019_film)",
+      "label": "Joker",
+      "description": "2019 musical film directed by Todd Phillips",
+      "views": 436561,
+      "qid": "Q42759035",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_%282019%29_logotype.png?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "List_of_most_popular_websites",
+      "label": "List of most popular websites",
+      "description": "",
+      "views": 355719,
+      "qid": "Q_en_List_of_most_popular_websites",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Kamini_Roy",
+      "label": "Kamini Roy",
+      "description": "",
+      "views": 336220,
+      "qid": "Q_en_Kamini_Roy",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "El_Camino:_A_Breaking_Bad_Movie",
+      "label": "El Camino: A Breaking Bad Movie",
+      "description": "",
+      "views": 319575,
+      "qid": "Q_en_El_Camino:_A_Breaking_Bad_Movie",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Eliud_Kipchoge",
+      "label": "Eliud Kipchoge",
+      "description": "",
+      "views": 273811,
+      "qid": "Q_en_Eliud_Kipchoge",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Joaquin_Phoenix",
+      "label": "Joaquin Phoenix",
+      "description": "American actor",
+      "views": 226754,
+      "qid": "Q185140",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joaquin_Phoenix_in_2018.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Shepard_Smith",
+      "label": "Shepard Smith",
+      "description": "",
+      "views": 180039,
+      "qid": "Q_en_Shepard_Smith",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "War_(2019_film)",
+      "label": "War (2019 film)",
+      "description": "",
+      "views": 126885,
+      "qid": "Q_en_War_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "The_Who",
+      "label": "The Who",
+      "description": "",
+      "views": 114616,
+      "qid": "Q_en_The_Who",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Who's_Next",
+      "label": "Who's Next",
+      "description": "",
+      "views": 110100,
+      "qid": "Q_en_Who's_Next",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Fractured_(2019_film)",
+      "label": "Fractured (2019 film)",
+      "description": "",
+      "views": 109881,
+      "qid": "Q_en_Fractured_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Gemini_Man_(film)",
+      "label": "Gemini Man (film)",
+      "description": "",
+      "views": 101212,
+      "qid": "Q_en_Gemini_Man_(film)",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Kepler's_Supernova",
+      "label": "SN 1604",
+      "description": "supernova visible from Earth in the 17th century",
+      "views": 99742,
+      "qid": "Q320670",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keplers_supernova.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 98493,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 97945,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "Heath_Ledger",
+      "label": "Heath Ledger",
+      "description": "Australian actor (1979–2008)",
+      "views": 91259,
+      "qid": "Q40572",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heath_Ledger.jpg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Anna_Chennault",
+      "label": "Anna Chennault",
+      "description": "",
+      "views": 89639,
+      "qid": "Q_en_Anna_Chennault",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Brooklyn",
+      "label": "Brooklyn",
+      "description": "borough of New York City, New York, United States",
+      "views": 86874,
+      "qid": "Q18419",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bedstuybrownstone1.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "John_Goodman",
+      "label": "John Goodman",
+      "description": "",
+      "views": 82993,
+      "qid": "Q_en_John_Goodman",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "River_Phoenix",
+      "label": "River Phoenix",
+      "description": "American actor and musician (1970–1993)",
+      "views": 77910,
+      "qid": "Q106514",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RIVERP1989.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "The_Addams_Family_(2019_film)",
+      "label": "The Addams Family (2019 film)",
+      "description": "",
+      "views": 76758,
+      "qid": "Q_en_The_Addams_Family_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "UEFA_Euro_2020_qualifying",
+      "label": "UEFA Euro 2020 qualifying",
+      "description": "",
+      "views": 74662,
+      "qid": "Q_en_UEFA_Euro_2020_qualifying",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Breaking_Bad",
+      "label": "Breaking Bad",
+      "description": "American crime drama television series (2008–2013)",
+      "views": 74603,
+      "qid": "Q1079",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breaking_Bad_logo.svg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Joker_(comics)",
+      "label": "The Joker",
+      "description": "fictional character throughout the DC Universe",
+      "views": 74343,
+      "qid": "Q217533",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "David_James_(footballer,_born_1970)",
+      "label": "David James (footballer, born 1970)",
+      "description": "",
+      "views": 73000,
+      "qid": "Q_en_David_James_(footballer,_born_1970)",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Batla_House_encounter_case",
+      "label": "Batla House encounter case",
+      "description": "",
+      "views": 71285,
+      "qid": "Q_en_Batla_House_encounter_case",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Richard_Jewell",
+      "label": "Richard Jewell",
+      "description": "American police officer (1962–2007)",
+      "views": 65974,
+      "qid": "Q2149888",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Apple_Network_Server",
+      "label": "Apple Network Server",
+      "description": "Apple Network Servers provide a technical service for Apple and Apple device end users. The server profile is public domain corporate group policy",
+      "views": 65964,
+      "qid": "Q119827",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AppleMuzeumPolska.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "List_of_Bollywood_films_of_2019",
+      "label": "list of Bollywood films of 2019",
+      "description": "Wikimedia list article",
+      "views": 65389,
+      "qid": "Q48731762",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Will_Bayley",
+      "label": "Will Bayley",
+      "description": "",
+      "views": 64914,
+      "qid": "Q_en_Will_Bayley",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Michelle_Visage",
+      "label": "Michelle Visage",
+      "description": "",
+      "views": 63787,
+      "qid": "Q_en_Michelle_Visage",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Judy_Garland",
+      "label": "Judy Garland",
+      "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
+      "views": 62825,
+      "qid": "Q11637",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Judy_Garland_The_Harvey_Girls_MGM_Publicity_still.jpeg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Marathon_world_record_progression",
+      "label": "Marathon world record progression",
+      "description": "",
+      "views": 62728,
+      "qid": "Q_en_Marathon_world_record_progression",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Jesse_Plemons",
+      "label": "Jesse Plemons",
+      "description": "American actor (born 1988)",
+      "views": 61114,
+      "qid": "Q1138674",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jesse_Plemons_%2820769593584%29.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Red_River_Showdown",
+      "label": "Red River Showdown",
+      "description": "",
+      "views": 60612,
+      "qid": "Q_en_Red_River_Showdown",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "123Movies",
+      "label": "123Movies",
+      "description": "online illlegal movie streaming site network",
+      "views": 55383,
+      "qid": "Q60773936",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/123Movies_logo.png?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Udit_Narayan",
+      "label": "Udit Narayan",
+      "description": "",
+      "views": 55248,
+      "qid": "Q_en_Udit_Narayan",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Coca-Cola",
+      "label": "Coca-Cola",
+      "description": "carbonated brown-colored soft drink",
+      "views": 54995,
+      "qid": "Q2813",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_%28Germany%29.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Crown_Jewel_(2019)",
+      "label": "Crown Jewel (2019)",
+      "description": "",
+      "views": 54866,
+      "qid": "Q_en_Crown_Jewel_(2019)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Mark_Ronson",
+      "label": "Mark Ronson",
+      "description": "",
+      "views": 53154,
+      "qid": "Q_en_Mark_Ronson",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Kurds",
+      "label": "Kurds",
+      "description": "",
+      "views": 53110,
+      "qid": "Q_en_Kurds",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "2019_Rugby_World_Cup",
+      "label": "2019 Rugby World Cup",
+      "description": "",
+      "views": 51167,
+      "qid": "Q_en_2019_Rugby_World_Cup",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "The_Sky_Is_Pink",
+      "label": "The Sky Is Pink",
+      "description": "",
+      "views": 50954,
+      "qid": "Q_en_The_Sky_Is_Pink",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Jane_Fonda",
+      "label": "Jane Fonda",
+      "description": "American actress and activist",
+      "views": 50925,
+      "qid": "Q41142",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2019.12.06_Fire_Drill_Fridays%2C_Washington%2C_DC_USA_340_60024_%2849180015037%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "List_of_Breaking_Bad_and_Better_Call_Saul_characters",
+      "label": "List of Breaking Bad and Better Call Saul characters",
+      "description": "",
+      "views": 50856,
+      "qid": "Q_en_List_of_Breaking_Bad_and_Better_Call_Saul_characters",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Emma_Thynn,_Viscountess_Weymouth",
+      "label": "Emma Thynn, Viscountess Weymouth",
+      "description": "",
+      "views": 50754,
+      "qid": "Q_en_Emma_Thynn,_Viscountess_Weymouth",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 50119,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    }
+  ]
+}

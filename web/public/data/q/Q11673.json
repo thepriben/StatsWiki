@@ -4,8 +4,20 @@
   "title": "Andrew_Cuomo",
   "description": "Governor of New York from 2011 to 2021",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Cuomo_by_Pat_Arnow_cropped.jpeg?width=64",
-  "total": 12927897,
+  "total": 13030296,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 14542
+    },
+    {
+      "period": "2019-08",
+      "views": 74640
+    },
+    {
+      "period": "2019-12",
+      "views": 13217
+    },
     {
       "period": "2020-03",
       "views": 2990370
@@ -112,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 102399
+    },
     {
       "period": "2020",
       "views": 7205105

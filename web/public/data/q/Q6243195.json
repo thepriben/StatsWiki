@@ -4,8 +4,16 @@
   "title": "John_Kiriakou",
   "description": "US whistleblower and counter-terrorism consultant",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Kiriakou_cropped.jpg?width=64",
-  "total": 1873293,
+  "total": 1905140,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 19488
+    },
+    {
+      "period": "2019-10",
+      "views": 12359
+    },
     {
       "period": "2025-06",
       "views": 12557
@@ -40,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 31847
+    },
     {
       "period": "2025",
       "views": 269466

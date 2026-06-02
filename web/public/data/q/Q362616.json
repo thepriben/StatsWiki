@@ -4,8 +4,20 @@
   "title": "Jon_Bernthal",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Bernthal_%2853983124020%29.jpg?width=64",
-  "total": 4561502,
+  "total": 5092533,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 321469
+    },
+    {
+      "period": "2019-02",
+      "views": 199406
+    },
+    {
+      "period": "2019-06",
+      "views": 10156
+    },
     {
       "period": "2020-02",
       "views": 27748
@@ -176,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 531031
+    },
     {
       "period": "2020",
       "views": 42464

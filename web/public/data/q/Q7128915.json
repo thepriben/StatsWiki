@@ -4,8 +4,12 @@
   "title": "Pam_Bondi",
   "description": "American attorney and politician (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pam_Bondi_official_portrait.jpg?width=64",
-  "total": 11292073,
+  "total": 11305400,
   "monthly": [
+    {
+      "period": "2019-11",
+      "views": 13327
+    },
     {
       "period": "2020-01",
       "views": 189689
@@ -96,6 +100,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 13327
+    },
     {
       "period": "2020",
       "views": 295476

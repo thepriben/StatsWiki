@@ -4,8 +4,28 @@
   "title": "1917_(2019_film)",
   "description": "2019 film by Sam Mendes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1917logo.svg?width=64",
-  "total": 8317129,
+  "total": 9550685,
   "monthly": [
+    {
+      "period": "2019-08",
+      "views": 152841
+    },
+    {
+      "period": "2019-09",
+      "views": 11034
+    },
+    {
+      "period": "2019-10",
+      "views": 130485
+    },
+    {
+      "period": "2019-11",
+      "views": 152859
+    },
+    {
+      "period": "2019-12",
+      "views": 786337
+    },
     {
       "period": "2020-01",
       "views": 3633873
@@ -96,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 1233556
+    },
     {
       "period": "2020",
       "views": 8022555

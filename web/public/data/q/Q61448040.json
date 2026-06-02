@@ -4,8 +4,40 @@
   "title": "Parasite_(2019_film)",
   "description": "2019 film directed by Bong Joon-ho",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parasite_Logo.jpg?width=64",
-  "total": 17932721,
+  "total": 21431633,
   "monthly": [
+    {
+      "period": "2019-05",
+      "views": 126166
+    },
+    {
+      "period": "2019-06",
+      "views": 76974
+    },
+    {
+      "period": "2019-07",
+      "views": 32666
+    },
+    {
+      "period": "2019-08",
+      "views": 377074
+    },
+    {
+      "period": "2019-09",
+      "views": 270459
+    },
+    {
+      "period": "2019-10",
+      "views": 657281
+    },
+    {
+      "period": "2019-11",
+      "views": 996373
+    },
+    {
+      "period": "2019-12",
+      "views": 961919
+    },
     {
       "period": "2020-01",
       "views": 2510481
@@ -148,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 3498912
+    },
     {
       "period": "2020",
       "views": 16016108

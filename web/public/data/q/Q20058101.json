@@ -4,7 +4,7 @@
   "title": "List_of_Gotham_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1857900,
+  "total": 2118743,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,32 @@
     {
       "period": "2015-12",
       "views": 499445
+    },
+    {
+      "period": "2019-01",
+      "views": 40184
+    },
+    {
+      "period": "2019-02",
+      "views": 60215
+    },
+    {
+      "period": "2019-03",
+      "views": 62457
+    },
+    {
+      "period": "2019-04",
+      "views": 97987
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1857900
+    },
+    {
+      "period": "2019",
+      "views": 260843
     }
   ]
 }

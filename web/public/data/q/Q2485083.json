@@ -4,8 +4,48 @@
   "title": "Suicide_methods",
   "description": "means by which a person completes suicide",
   "image": "",
-  "total": 8371309,
+  "total": 10678349,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 85194
+    },
+    {
+      "period": "2019-04",
+      "views": 45515
+    },
+    {
+      "period": "2019-05",
+      "views": 107117
+    },
+    {
+      "period": "2019-06",
+      "views": 244548
+    },
+    {
+      "period": "2019-07",
+      "views": 218381
+    },
+    {
+      "period": "2019-08",
+      "views": 278080
+    },
+    {
+      "period": "2019-09",
+      "views": 301637
+    },
+    {
+      "period": "2019-10",
+      "views": 375255
+    },
+    {
+      "period": "2019-11",
+      "views": 352857
+    },
+    {
+      "period": "2019-12",
+      "views": 298456
+    },
     {
       "period": "2020-01",
       "views": 233815
@@ -180,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 2307040
+    },
     {
       "period": "2020",
       "views": 4139753

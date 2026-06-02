@@ -4,7 +4,7 @@
   "title": "Supernatural_(U.S._TV_series)",
   "description": "American dark fantasy television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Supernatural_2005_logo.svg?width=64",
-  "total": 2064864,
+  "total": 2387806,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,36 @@
     {
       "period": "2015-12",
       "views": 308645
+    },
+    {
+      "period": "2019-01",
+      "views": 21934
+    },
+    {
+      "period": "2019-02",
+      "views": 57021
+    },
+    {
+      "period": "2019-03",
+      "views": 134563
+    },
+    {
+      "period": "2019-04",
+      "views": 99799
+    },
+    {
+      "period": "2019-05",
+      "views": 9625
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2064864
+    },
+    {
+      "period": "2019",
+      "views": 322942
     }
   ]
 }

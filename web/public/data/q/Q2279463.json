@@ -4,8 +4,12 @@
   "title": "Spencer_Pratt",
   "description": "American television personality",
   "image": "",
-  "total": 2187185,
+  "total": 2200461,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 13276
+    },
     {
       "period": "2022-09",
       "views": 32628
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 13276
+    },
     {
       "period": "2022",
       "views": 32628

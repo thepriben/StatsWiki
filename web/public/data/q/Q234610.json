@@ -4,8 +4,12 @@
   "title": "Anne_Heche",
   "description": "American actress (1969–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Heche_July_14%2C_2014_%28cropped%29.jpg?width=64",
-  "total": 13187287,
+  "total": 13213789,
   "monthly": [
+    {
+      "period": "2019-04",
+      "views": 26502
+    },
     {
       "period": "2020-01",
       "views": 13810
@@ -168,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 26502
+    },
     {
       "period": "2020",
       "views": 626800

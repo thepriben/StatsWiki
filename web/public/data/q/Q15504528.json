@@ -4,7 +4,7 @@
   "title": "List_of_Orange_Is_the_New_Black_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1300304,
+  "total": 1651181,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,24 @@
     {
       "period": "2015-09",
       "views": 119007
+    },
+    {
+      "period": "2019-07",
+      "views": 214777
+    },
+    {
+      "period": "2019-08",
+      "views": 136100
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1300304
+    },
+    {
+      "period": "2019",
+      "views": 350877
     }
   ]
 }

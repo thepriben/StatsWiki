@@ -4,11 +4,19 @@
   "title": "2023_FIFA_Women's_World_Cup",
   "description": "9th FIFA Women's World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-07-07_Fussball%2C_Frauen%2C_L%C3%A4nderspiel%2C_Deutschland_-_Sambia_1DX_6938_by_Stepro.jpg?width=64",
-  "total": 6504753,
+  "total": 6757289,
   "monthly": [
     {
       "period": "2015-07",
       "views": 20248
+    },
+    {
+      "period": "2019-06",
+      "views": 105407
+    },
+    {
+      "period": "2019-07",
+      "views": 147129
     },
     {
       "period": "2020-06",
@@ -71,6 +79,10 @@
     {
       "period": "2015",
       "views": 20248
+    },
+    {
+      "period": "2019",
+      "views": 252536
     },
     {
       "period": "2020",

@@ -4,7 +4,7 @@
   "title": "United_States",
   "description": "country located primarily in North America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64",
-  "total": 103793326,
+  "total": 117062683,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 1155485
+    },
+    {
+      "period": "2019-01",
+      "views": 1109372
+    },
+    {
+      "period": "2019-02",
+      "views": 991615
+    },
+    {
+      "period": "2019-03",
+      "views": 1047140
+    },
+    {
+      "period": "2019-04",
+      "views": 1049257
+    },
+    {
+      "period": "2019-05",
+      "views": 1125713
+    },
+    {
+      "period": "2019-06",
+      "views": 1030253
+    },
+    {
+      "period": "2019-07",
+      "views": 1066120
+    },
+    {
+      "period": "2019-08",
+      "views": 1126005
+    },
+    {
+      "period": "2019-09",
+      "views": 1164173
+    },
+    {
+      "period": "2019-10",
+      "views": 1186683
+    },
+    {
+      "period": "2019-11",
+      "views": 1175087
+    },
+    {
+      "period": "2019-12",
+      "views": 1197939
     },
     {
       "period": "2020-01",
@@ -343,6 +391,10 @@
     {
       "period": "2015",
       "views": 7374896
+    },
+    {
+      "period": "2019",
+      "views": 13269357
     },
     {
       "period": "2020",

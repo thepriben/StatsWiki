@@ -4,8 +4,56 @@
   "title": "XXXTentacion",
   "description": "American rapper (1998–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxxtentacion_%28cropped%29.jpg?width=64",
-  "total": 84746997,
+  "total": 91857785,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 805603
+    },
+    {
+      "period": "2019-02",
+      "views": 503715
+    },
+    {
+      "period": "2019-03",
+      "views": 488872
+    },
+    {
+      "period": "2019-04",
+      "views": 620681
+    },
+    {
+      "period": "2019-05",
+      "views": 657015
+    },
+    {
+      "period": "2019-06",
+      "views": 681458
+    },
+    {
+      "period": "2019-07",
+      "views": 474923
+    },
+    {
+      "period": "2019-08",
+      "views": 411950
+    },
+    {
+      "period": "2019-09",
+      "views": 524699
+    },
+    {
+      "period": "2019-10",
+      "views": 578335
+    },
+    {
+      "period": "2019-11",
+      "views": 569447
+    },
+    {
+      "period": "2019-12",
+      "views": 794090
+    },
     {
       "period": "2020-01",
       "views": 579335
@@ -316,6 +364,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 7110788
+    },
     {
       "period": "2020",
       "views": 6041712

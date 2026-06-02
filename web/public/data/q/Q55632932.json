@@ -4,8 +4,24 @@
   "title": "Sex_Education_(TV_series)",
   "description": "2019 British television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sex_Education_Ad_in_Bucharest.jpg?width=64",
-  "total": 9485016,
+  "total": 12257198,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 1590904
+    },
+    {
+      "period": "2019-02",
+      "views": 794843
+    },
+    {
+      "period": "2019-03",
+      "views": 349922
+    },
+    {
+      "period": "2019-04",
+      "views": 36513
+    },
     {
       "period": "2020-01",
       "views": 1590979
@@ -112,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 2772182
+    },
     {
       "period": "2020",
       "views": 3383479

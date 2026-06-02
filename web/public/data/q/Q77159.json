@@ -4,17 +4,25 @@
   "title": "Dustin_Brown_(tennis)",
   "description": "German tennis player (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brown_WM13-003_%289476321765%29.jpg?width=64",
-  "total": 823249,
+  "total": 846069,
   "monthly": [
     {
       "period": "2015-07",
       "views": 823249
+    },
+    {
+      "period": "2019-06",
+      "views": 22820
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 823249
+    },
+    {
+      "period": "2019",
+      "views": 22820
     }
   ]
 }

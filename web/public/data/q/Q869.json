@@ -4,7 +4,7 @@
   "title": "Thailand",
   "description": "country in Southeast Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_the_Emerald_of_buddha_or_Wat_Phra_Kaew_%28cropped%29.jpg?width=64",
-  "total": 6079851,
+  "total": 7126981,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,46 @@
     {
       "period": "2015-12",
       "views": 20550
+    },
+    {
+      "period": "2019-01",
+      "views": 234449
+    },
+    {
+      "period": "2019-02",
+      "views": 180133
+    },
+    {
+      "period": "2019-03",
+      "views": 205284
+    },
+    {
+      "period": "2019-04",
+      "views": 27739
+    },
+    {
+      "period": "2019-05",
+      "views": 76378
+    },
+    {
+      "period": "2019-06",
+      "views": 69886
+    },
+    {
+      "period": "2019-08",
+      "views": 53490
+    },
+    {
+      "period": "2019-09",
+      "views": 42775
+    },
+    {
+      "period": "2019-10",
+      "views": 106730
+    },
+    {
+      "period": "2019-11",
+      "views": 50266
     },
     {
       "period": "2020-01",
@@ -231,6 +271,10 @@
     {
       "period": "2015",
       "views": 261165
+    },
+    {
+      "period": "2019",
+      "views": 1047130
     },
     {
       "period": "2020",

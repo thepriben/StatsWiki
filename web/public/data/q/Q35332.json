@@ -4,7 +4,7 @@
   "title": "Brad_Pitt",
   "description": "American actor and filmmaker (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad_Pitt_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 37469396,
+  "total": 43335165,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 433652
+    },
+    {
+      "period": "2019-01",
+      "views": 409451
+    },
+    {
+      "period": "2019-02",
+      "views": 336273
+    },
+    {
+      "period": "2019-03",
+      "views": 341140
+    },
+    {
+      "period": "2019-04",
+      "views": 328178
+    },
+    {
+      "period": "2019-05",
+      "views": 428700
+    },
+    {
+      "period": "2019-06",
+      "views": 394840
+    },
+    {
+      "period": "2019-07",
+      "views": 550861
+    },
+    {
+      "period": "2019-08",
+      "views": 763347
+    },
+    {
+      "period": "2019-09",
+      "views": 778551
+    },
+    {
+      "period": "2019-10",
+      "views": 541974
+    },
+    {
+      "period": "2019-11",
+      "views": 454235
+    },
+    {
+      "period": "2019-12",
+      "views": 538219
     },
     {
       "period": "2020-01",
@@ -343,6 +391,10 @@
     {
       "period": "2015",
       "views": 2349295
+    },
+    {
+      "period": "2019",
+      "views": 5865769
     },
     {
       "period": "2020",

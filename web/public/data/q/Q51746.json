@@ -4,7 +4,7 @@
   "title": "Luke_Skywalker",
   "description": "fictional character from Star Wars",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luke_Skywalker_-_Welcome_Banner_%28Cropped%29.jpg?width=64",
-  "total": 928026,
+  "total": 1083084,
   "monthly": [
     {
       "period": "2015-10",
@@ -19,6 +19,10 @@
       "views": 795543
     },
     {
+      "period": "2019-12",
+      "views": 155058
+    },
+    {
       "period": "2020-12",
       "views": 81304
     }
@@ -27,6 +31,10 @@
     {
       "period": "2015",
       "views": 846722
+    },
+    {
+      "period": "2019",
+      "views": 155058
     },
     {
       "period": "2020",

@@ -1,0 +1,455 @@
+{
+  "period": "27 September 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 294870,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Greta_Thunberg",
+      "label": "Greta Thunberg",
+      "description": "Swedish climate protection activist (born 2003)",
+      "views": 265032,
+      "qid": "Q56434717",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greta_Thunberg_4.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 209743,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Apple_Network_Server",
+      "label": "Apple Network Server",
+      "description": "Apple Network Servers provide a technical service for Apple and Apple device end users. The server profile is public domain corporate group policy",
+      "views": 158415,
+      "qid": "Q119827",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AppleMuzeumPolska.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Joker_(2019_film)",
+      "label": "Joker",
+      "description": "2019 musical film directed by Todd Phillips",
+      "views": 122242,
+      "qid": "Q42759035",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_%282019%29_logotype.png?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Lawrence_Bittaker_and_Roy_Norris",
+      "label": "Lawrence Bittaker and Roy Norris",
+      "description": "",
+      "views": 117194,
+      "qid": "Q_en_Lawrence_Bittaker_and_Roy_Norris",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 106937,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "6ix9ine",
+      "label": "6ix9ine",
+      "description": "American rapper from New York (born 1996)",
+      "views": 103573,
+      "qid": "Q44479972",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/6ix9ine_%28Daniel_Hernadez%29.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "List_of_largest_Internet_companies",
+      "label": "List of largest Internet companies",
+      "description": "",
+      "views": 101615,
+      "qid": "Q_en_List_of_largest_Internet_companies",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Sundar_Pichai",
+      "label": "Sundar Pichai",
+      "description": "Indian-American business executive, CEO of Google LLC & Alphabet Inc.",
+      "views": 100571,
+      "qid": "Q3503829",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sundar_Pichai_-_2023_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Eartha_Kitt",
+      "label": "Eartha Kitt",
+      "description": "",
+      "views": 99404,
+      "qid": "Q_en_Eartha_Kitt",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Judy_Garland",
+      "label": "Judy Garland",
+      "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
+      "views": 97264,
+      "qid": "Q11637",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Judy_Garland_The_Harvey_Girls_MGM_Publicity_still.jpeg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Aaron_Rodgers",
+      "label": "Aaron Rodgers",
+      "description": "American football player (born 1983)",
+      "views": 94409,
+      "qid": "Q302581",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Rodgers_Packers_OCT2021_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Félix_Hernández",
+      "label": "Félix Hernández",
+      "description": "",
+      "views": 89225,
+      "qid": "Q_en_Félix_Hernández",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Shakira",
+      "label": "Shakira",
+      "description": "Colombian singer, songwriter and actress",
+      "views": 78981,
+      "qid": "Q34424",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2901.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "DaBaby",
+      "label": "DaBaby",
+      "description": "",
+      "views": 76969,
+      "qid": "Q_en_DaBaby",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "123Movies",
+      "label": "123Movies",
+      "description": "online illlegal movie streaming site network",
+      "views": 74996,
+      "qid": "Q60773936",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/123Movies_logo.png?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "Hunter_Biden",
+      "label": "Hunter Biden",
+      "description": "American businessman and lobbyist (born 1970)",
+      "views": 74922,
+      "qid": "Q5944264",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hunter_Biden_September_30%2C_2014.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "Impeachment_of_Bill_Clinton",
+      "label": "Impeachment of Bill Clinton",
+      "description": "",
+      "views": 73420,
+      "qid": "Q_en_Impeachment_of_Bill_Clinton",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Impeachment_in_the_United_States",
+      "label": "Impeachment in the United States",
+      "description": "",
+      "views": 70577,
+      "qid": "Q_en_Impeachment_in_the_United_States",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Jennifer_Lopez",
+      "label": "Jennifer Lopez",
+      "description": "American singer and actress (born 1969)",
+      "views": 64503,
+      "qid": "Q40715",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Genie_(feral_child)",
+      "label": "Genie (feral child)",
+      "description": "",
+      "views": 63890,
+      "qid": "Q_en_Genie_(feral_child)",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "The_Irishman_(2019_film)",
+      "label": "The Irishman (2019 film)",
+      "description": "",
+      "views": 61055,
+      "qid": "Q_en_The_Irishman_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Ad_Astra_(film)",
+      "label": "Ad Astra (film)",
+      "description": "",
+      "views": 60363,
+      "qid": "Q_en_Ad_Astra_(film)",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Symphony_No._9_(Beethoven)",
+      "label": "Symphony No. 9 (Beethoven)",
+      "description": "",
+      "views": 59891,
+      "qid": "Q_en_Symphony_No._9_(Beethoven)",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Murder_of_Sylvia_Likens",
+      "label": "Murder of Sylvia Likens",
+      "description": "",
+      "views": 59749,
+      "qid": "Q_en_Murder_of_Sylvia_Likens",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "The_Politician_(TV_series)",
+      "label": "The Politician (TV series)",
+      "description": "",
+      "views": 59733,
+      "qid": "Q_en_The_Politician_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Jacques_Chirac",
+      "label": "Jacques Chirac",
+      "description": "",
+      "views": 58619,
+      "qid": "Q_en_Jacques_Chirac",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Housefull_4",
+      "label": "Housefull 4",
+      "description": "",
+      "views": 58522,
+      "qid": "Q_en_Housefull_4",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Nancy_Pelosi",
+      "label": "Nancy Pelosi",
+      "description": "American politician (born 1940)",
+      "views": 57991,
+      "qid": "Q170581",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 54741,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Coca-Cola",
+      "label": "Coca-Cola",
+      "description": "carbonated brown-colored soft drink",
+      "views": 54632,
+      "qid": "Q2813",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_%28Germany%29.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "American_Horror_Story:_1984",
+      "label": "American Horror Story: 1984",
+      "description": "",
+      "views": 51860,
+      "qid": "Q_en_American_Horror_Story:_1984",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "List_of_Bollywood_films_of_2019",
+      "label": "list of Bollywood films of 2019",
+      "description": "Wikimedia list article",
+      "views": 50978,
+      "qid": "Q48731762",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Larry_Page",
+      "label": "Larry Page",
+      "description": "",
+      "views": 50677,
+      "qid": "Q_en_Larry_Page",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Impeachment",
+      "label": "Impeachment",
+      "description": "",
+      "views": 47972,
+      "qid": "Q_en_Impeachment",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Helen_Mirren",
+      "label": "Helen Mirren",
+      "description": "",
+      "views": 47704,
+      "qid": "Q_en_Helen_Mirren",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Adam_Schiff",
+      "label": "Adam Schiff",
+      "description": "",
+      "views": 47078,
+      "qid": "Q_en_Adam_Schiff",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Unbelievable_(miniseries)",
+      "label": "Unbelievable (miniseries)",
+      "description": "",
+      "views": 47065,
+      "qid": "Q_en_Unbelievable_(miniseries)",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "American_Horror_Story",
+      "label": "American Horror Story",
+      "description": "American anthology horror television series",
+      "views": 46582,
+      "qid": "Q53922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Horror_Story.svg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Jesus_Is_King",
+      "label": "Jesus Is King",
+      "description": "",
+      "views": 46020,
+      "qid": "Q_en_Jesus_Is_King",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Mount_Mazama",
+      "label": "Mount Mazama",
+      "description": "",
+      "views": 46005,
+      "qid": "Q_en_Mount_Mazama",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "2008_Mumbai_attacks",
+      "label": "2008 Mumbai attacks",
+      "description": "",
+      "views": 45892,
+      "qid": "Q_en_2008_Mumbai_attacks",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 45678,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "List_of_common_misconceptions",
+      "label": "List of common misconceptions",
+      "description": "",
+      "views": 45583,
+      "qid": "Q_en_List_of_common_misconceptions",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Kepler's_Supernova",
+      "label": "SN 1604",
+      "description": "supernova visible from Earth in the 17th century",
+      "views": 45382,
+      "qid": "Q320670",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keplers_supernova.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Hustlers_(2019_film)",
+      "label": "Hustlers (2019 film)",
+      "description": "",
+      "views": 45362,
+      "qid": "Q_en_Hustlers_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Strawberry",
+      "label": "Strawberry",
+      "description": "",
+      "views": 45234,
+      "qid": "Q_en_Strawberry",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Jimmy_Graham",
+      "label": "Jimmy Graham",
+      "description": "",
+      "views": 44891,
+      "qid": "Q_en_Jimmy_Graham",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Asperger_syndrome",
+      "label": "Asperger syndrome",
+      "description": "neurodevelopmental disorder; type of autism",
+      "views": 44305,
+      "qid": "Q161790",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Riboflavin_penicillinamide.jpg?width=64"
+    }
+  ]
+}

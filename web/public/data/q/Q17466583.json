@@ -4,8 +4,40 @@
   "title": "Naomi_Osaka",
   "description": "Japanese tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Osaka_2017_Wimbledon.jpg?width=64",
-  "total": 9732292,
+  "total": 11815189,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 1200382
+    },
+    {
+      "period": "2019-02",
+      "views": 20161
+    },
+    {
+      "period": "2019-05",
+      "views": 74645
+    },
+    {
+      "period": "2019-06",
+      "views": 37369
+    },
+    {
+      "period": "2019-07",
+      "views": 63293
+    },
+    {
+      "period": "2019-08",
+      "views": 125978
+    },
+    {
+      "period": "2019-09",
+      "views": 523878
+    },
+    {
+      "period": "2019-10",
+      "views": 37191
+    },
     {
       "period": "2020-01",
       "views": 89161
@@ -156,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 2082897
+    },
     {
       "period": "2020",
       "views": 1707226

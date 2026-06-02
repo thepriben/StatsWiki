@@ -4,8 +4,16 @@
   "title": "Strait_of_Hormuz",
   "description": "strait between the Gulf of Oman and the Persian Gulf",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%AA%D8%A7%D8%A8%D8%B4_%D8%A2%D9%81%D8%AA%D8%A7%D8%A8_%D8%A7%D8%B2_%D8%A8%DB%8C%D9%86_%D8%A7%D8%A8%D8%B1%D9%87%D8%A7_-_panoramio.jpg?width=64",
-  "total": 3990815,
+  "total": 4111813,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 58435
+    },
+    {
+      "period": "2019-07",
+      "views": 62563
+    },
     {
       "period": "2020-01",
       "views": 24986
@@ -36,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 120998
+    },
     {
       "period": "2020",
       "views": 24986

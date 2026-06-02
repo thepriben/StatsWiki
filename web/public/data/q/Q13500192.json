@@ -4,8 +4,12 @@
   "title": "Christina_Koch",
   "description": "American astronaut",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jsc2023e0016435_alt.jpg?width=64",
-  "total": 2009113,
+  "total": 2040925,
   "monthly": [
+    {
+      "period": "2019-10",
+      "views": 31812
+    },
     {
       "period": "2020-02",
       "views": 96563
@@ -28,6 +32,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 31812
+    },
     {
       "period": "2020",
       "views": 108017

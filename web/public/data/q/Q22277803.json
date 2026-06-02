@@ -4,8 +4,40 @@
   "title": "Florence_Pugh",
   "description": "British actress (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Florence_Pugh_at_the_2024_Toronto_International_Film_Festival_13_%28cropped_2_%E2%80%93_color_adjusted%29.jpg?width=64",
-  "total": 21334476,
+  "total": 22499424,
   "monthly": [
+    {
+      "period": "2019-02",
+      "views": 54828
+    },
+    {
+      "period": "2019-03",
+      "views": 52546
+    },
+    {
+      "period": "2019-05",
+      "views": 19199
+    },
+    {
+      "period": "2019-06",
+      "views": 84882
+    },
+    {
+      "period": "2019-07",
+      "views": 359131
+    },
+    {
+      "period": "2019-08",
+      "views": 62178
+    },
+    {
+      "period": "2019-09",
+      "views": 10524
+    },
+    {
+      "period": "2019-12",
+      "views": 521660
+    },
     {
       "period": "2020-01",
       "views": 951923
@@ -288,6 +320,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 1164948
+    },
     {
       "period": "2020",
       "views": 2216964

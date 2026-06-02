@@ -4,8 +4,44 @@
   "title": "123Movies",
   "description": "online illlegal movie streaming site network",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/123Movies_logo.png?width=64",
-  "total": 13624880,
+  "total": 18001047,
   "monthly": [
+    {
+      "period": "2019-02",
+      "views": 301687
+    },
+    {
+      "period": "2019-03",
+      "views": 176321
+    },
+    {
+      "period": "2019-04",
+      "views": 86049
+    },
+    {
+      "period": "2019-05",
+      "views": 123818
+    },
+    {
+      "period": "2019-07",
+      "views": 18965
+    },
+    {
+      "period": "2019-09",
+      "views": 752779
+    },
+    {
+      "period": "2019-10",
+      "views": 1518975
+    },
+    {
+      "period": "2019-11",
+      "views": 942374
+    },
+    {
+      "period": "2019-12",
+      "views": 455199
+    },
     {
       "period": "2020-01",
       "views": 771835
@@ -164,6 +200,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 4376167
+    },
     {
       "period": "2020",
       "views": 6988558

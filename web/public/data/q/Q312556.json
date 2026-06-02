@@ -4,7 +4,7 @@
   "title": "Jeff_Bezos",
   "description": "American business magnate (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg?width=64",
-  "total": 37337555,
+  "total": 44503330,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,54 @@
     {
       "period": "2015-12",
       "views": 26720
+    },
+    {
+      "period": "2019-01",
+      "views": 1431935
+    },
+    {
+      "period": "2019-02",
+      "views": 595984
+    },
+    {
+      "period": "2019-03",
+      "views": 455072
+    },
+    {
+      "period": "2019-04",
+      "views": 720278
+    },
+    {
+      "period": "2019-05",
+      "views": 514179
+    },
+    {
+      "period": "2019-06",
+      "views": 404293
+    },
+    {
+      "period": "2019-07",
+      "views": 480131
+    },
+    {
+      "period": "2019-08",
+      "views": 479868
+    },
+    {
+      "period": "2019-09",
+      "views": 474253
+    },
+    {
+      "period": "2019-10",
+      "views": 575932
+    },
+    {
+      "period": "2019-11",
+      "views": 531633
+    },
+    {
+      "period": "2019-12",
+      "views": 502217
     },
     {
       "period": "2020-01",
@@ -331,6 +379,10 @@
     {
       "period": "2015",
       "views": 128461
+    },
+    {
+      "period": "2019",
+      "views": 7165775
     },
     {
       "period": "2020",

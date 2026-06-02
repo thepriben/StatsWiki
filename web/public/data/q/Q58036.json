@@ -4,8 +4,12 @@
   "title": "Ilse_Koch",
   "description": "German war criminal, wife of camp commandant Karl-Otto Koch (1906–1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilse_Koch.png?width=64",
-  "total": 3476787,
+  "total": 3562724,
   "monthly": [
+    {
+      "period": "2019-02",
+      "views": 85937
+    },
     {
       "period": "2020-03",
       "views": 11849
@@ -28,6 +32,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 85937
+    },
     {
       "period": "2020",
       "views": 11849

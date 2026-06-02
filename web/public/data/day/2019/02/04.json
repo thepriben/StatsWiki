@@ -1,0 +1,455 @@
+{
+  "period": "4 February 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Tom_Brady",
+      "label": "Tom Brady",
+      "description": "American football player (born 1977)",
+      "views": 1508110,
+      "qid": "Q313381",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Brady_2021.png?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "21_Savage",
+      "label": "21 Savage",
+      "description": "",
+      "views": 1459632,
+      "qid": "Q_en_21_Savage",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Julian_Edelman",
+      "label": "Julian Edelman",
+      "description": "",
+      "views": 1138242,
+      "qid": "Q_en_Julian_Edelman",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Adam_Levine",
+      "label": "Adam Levine",
+      "description": "American singer (born 1979)",
+      "views": 978817,
+      "qid": "Q219631",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AdamLevine2011.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "List_of_Super_Bowl_champions",
+      "label": "list of Super Bowl champions",
+      "description": "Wikimedia list article",
+      "views": 672570,
+      "qid": "Q909800",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Antenna_effect",
+      "label": "Antenna effect",
+      "description": "",
+      "views": 661190,
+      "qid": "Q_en_Antenna_effect",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Super_Bowl_LIII",
+      "label": "Super Bowl LIII",
+      "description": "",
+      "views": 611814,
+      "qid": "Q_en_Super_Bowl_LIII",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "New_England_Patriots",
+      "label": "New England Patriots",
+      "description": "",
+      "views": 475620,
+      "qid": "Q_en_New_England_Patriots",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Rob_Gronkowski",
+      "label": "Rob Gronkowski",
+      "description": "American football player (born 1989)",
+      "views": 472547,
+      "qid": "Q1334384",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/190326-D-SW162-1977_%2846564316465%29.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Robert_Kraft",
+      "label": "Robert Kraft",
+      "description": "",
+      "views": 430644,
+      "qid": "Q_en_Robert_Kraft",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Bill_Belichick",
+      "label": "Bill Belichick",
+      "description": "American football coach (born 1952)",
+      "views": 406062,
+      "qid": "Q720027",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo_of_the_Day-_4-20_%2834163554775%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Behati_Prinsloo",
+      "label": "Behati Prinsloo",
+      "description": "",
+      "views": 401676,
+      "qid": "Q_en_Behati_Prinsloo",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Maroon_5",
+      "label": "Maroon 5",
+      "description": "",
+      "views": 389507,
+      "qid": "Q_en_Maroon_5",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Kristoff_St._John",
+      "label": "Kristoff St. John",
+      "description": "",
+      "views": 385919,
+      "qid": "Q_en_Kristoff_St._John",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "List_of_Super_Bowl_halftime_shows",
+      "label": "list of Super Bowl halftime shows",
+      "description": "Wikimedia list article",
+      "views": 362549,
+      "qid": "Q11161626",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Jared_Goff",
+      "label": "Jared Goff",
+      "description": "",
+      "views": 356358,
+      "qid": "Q_en_Jared_Goff",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Gisele_Bündchen",
+      "label": "Gisele Bündchen",
+      "description": "",
+      "views": 324050,
+      "qid": "Q_en_Gisele_Bündchen",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Louis_Tomlinson",
+      "label": "Louis Tomlinson",
+      "description": "English singer and songwriter",
+      "views": 317288,
+      "qid": "Q3624971",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Tomlinson_November_2014.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "Super_Bowl",
+      "label": "Super Bowl",
+      "description": "National Football League championship game",
+      "views": 295517,
+      "qid": "Q32096",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_Bowl_XLV_marquee_at_Cowboys_Stadium.jpg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Ted_Bundy",
+      "label": "Ted Bundy",
+      "description": "American serial killer (1946–1989)",
+      "views": 279574,
+      "qid": "Q192218",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Travis_Scott",
+      "label": "Travis Scott",
+      "description": "American rapper, singer and record producer (born 1991)",
+      "views": 254221,
+      "qid": "Q13605596",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Los_Angeles_Rams",
+      "label": "Los Angeles Rams",
+      "description": "",
+      "views": 249157,
+      "qid": "Q_en_Los_Angeles_Rams",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Super_Bowl_VII",
+      "label": "Super Bowl VII",
+      "description": "",
+      "views": 234356,
+      "qid": "Q_en_Super_Bowl_VII",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Sean_McVay",
+      "label": "Sean McVay",
+      "description": "",
+      "views": 226387,
+      "qid": "Q_en_Sean_McVay",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Big_Boi",
+      "label": "Big Boi",
+      "description": "",
+      "views": 224334,
+      "qid": "Q_en_Big_Boi",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Super_Bowl_LIII_halftime_show",
+      "label": "Super Bowl LIII halftime show",
+      "description": "",
+      "views": 215031,
+      "qid": "Q_en_Super_Bowl_LIII_halftime_show",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Emiliano_Sala",
+      "label": "Emiliano Sala",
+      "description": "",
+      "views": 210211,
+      "qid": "Q_en_Emiliano_Sala",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Bridget_Moynahan",
+      "label": "Bridget Moynahan",
+      "description": "",
+      "views": 191991,
+      "qid": "Q_en_Bridget_Moynahan",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Patrick_Chung",
+      "label": "Patrick Chung",
+      "description": "",
+      "views": 176007,
+      "qid": "Q_en_Patrick_Chung",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Andy_Warhol",
+      "label": "Andy Warhol",
+      "description": "",
+      "views": 172183,
+      "qid": "Q_en_Andy_Warhol",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Super_Bowl_LII",
+      "label": "Super Bowl LII",
+      "description": "",
+      "views": 167437,
+      "qid": "Q_en_Super_Bowl_LII",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Super_Bowl_LI",
+      "label": "Super Bowl LI",
+      "description": "",
+      "views": 148438,
+      "qid": "Q_en_Super_Bowl_LI",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Super_Bowl_Most_Valuable_Player_Award",
+      "label": "Super Bowl Most Valuable Player Award",
+      "description": "",
+      "views": 146572,
+      "qid": "Q_en_Super_Bowl_Most_Valuable_Player_Award",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Tony_Romo",
+      "label": "Tony Romo",
+      "description": "",
+      "views": 142260,
+      "qid": "Q_en_Tony_Romo",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Super_Bowl_XLIX",
+      "label": "Super Bowl XLIX",
+      "description": "",
+      "views": 125967,
+      "qid": "Q_en_Super_Bowl_XLIX",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Super_Bowl_XXXVI",
+      "label": "Super Bowl XXXVI",
+      "description": "",
+      "views": 124324,
+      "qid": "Q_en_Super_Bowl_XXXVI",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 123010,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Mercedes-Benz_Stadium",
+      "label": "Mercedes-Benz Stadium",
+      "description": "",
+      "views": 117836,
+      "qid": "Q_en_Mercedes-Benz_Stadium",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 115624,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 115332,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Colin_Kaepernick",
+      "label": "Colin Kaepernick",
+      "description": "",
+      "views": 113129,
+      "qid": "Q_en_Colin_Kaepernick",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Gladys_Knight",
+      "label": "Gladys Knight",
+      "description": "",
+      "views": 112975,
+      "qid": "Q_en_Gladys_Knight",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Fyre_Festival",
+      "label": "Fyre Festival",
+      "description": "",
+      "views": 110366,
+      "qid": "Q_en_Fyre_Festival",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Chinese_New_Year",
+      "label": "Chinese New Year",
+      "description": "",
+      "views": 106892,
+      "qid": "Q_en_Chinese_New_Year",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Sony_Michel",
+      "label": "Sony Michel",
+      "description": "",
+      "views": 103562,
+      "qid": "Q_en_Sony_Michel",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "List_of_Super_Bowl_records",
+      "label": "List of Super Bowl records",
+      "description": "",
+      "views": 98659,
+      "qid": "Q_en_List_of_Super_Bowl_records",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Concussions_in_American_football",
+      "label": "Concussions in American football",
+      "description": "",
+      "views": 96561,
+      "qid": "Q_en_Concussions_in_American_football",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Super_Bowl_50",
+      "label": "Super Bowl 50",
+      "description": "",
+      "views": 95022,
+      "qid": "Q_en_Super_Bowl_50",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Gwen_Stefani",
+      "label": "Gwen Stefani",
+      "description": "American singer",
+      "views": 94621,
+      "qid": "Q483379",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gwen_Stefani%2C_Bloomingdales_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Mary_Kay_Bergman",
+      "label": "Mary Kay Bergman",
+      "description": "",
+      "views": 91379,
+      "qid": "Q_en_Mary_Kay_Bergman",
+      "image": ""
+    }
+  ]
+}

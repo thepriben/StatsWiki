@@ -4,8 +4,16 @@
   "title": "Sushant_Singh_Rajput",
   "description": "Indian actor (1986-2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushant_sr_Manish_M_B%27day_bash.jpg?width=64",
-  "total": 17837925,
+  "total": 17911263,
   "monthly": [
+    {
+      "period": "2019-09",
+      "views": 63023
+    },
+    {
+      "period": "2019-11",
+      "views": 10315
+    },
     {
       "period": "2020-01",
       "views": 10150
@@ -88,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 73338
+    },
     {
       "period": "2020",
       "views": 17143756

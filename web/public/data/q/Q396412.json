@@ -4,8 +4,24 @@
   "title": "Indian_Premier_League",
   "description": "professional cricket league in India",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Premier_League.jpg?width=64",
-  "total": 57489164,
+  "total": 58621856,
   "monthly": [
+    {
+      "period": "2019-03",
+      "views": 292322
+    },
+    {
+      "period": "2019-04",
+      "views": 423637
+    },
+    {
+      "period": "2019-05",
+      "views": 374108
+    },
+    {
+      "period": "2019-12",
+      "views": 42625
+    },
     {
       "period": "2020-03",
       "views": 9520
@@ -172,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 1132692
+    },
     {
       "period": "2020",
       "views": 1798860

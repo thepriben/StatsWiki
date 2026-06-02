@@ -4,8 +4,12 @@
   "title": "Callum_Turner",
   "description": "English actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Callum_Turner-68473.jpg?width=64",
-  "total": 4111114,
+  "total": 4130403,
   "monthly": [
+    {
+      "period": "2019-10",
+      "views": 19289
+    },
     {
       "period": "2021-01",
       "views": 11519
@@ -124,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 19289
+    },
     {
       "period": "2021",
       "views": 68235

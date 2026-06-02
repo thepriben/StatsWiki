@@ -4,8 +4,24 @@
   "title": "XXXX_(album)",
   "description": "2009 album by You Say Party",
   "image": "",
-  "total": 9534130,
+  "total": 9716984,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 9480
+    },
+    {
+      "period": "2019-08",
+      "views": 66321
+    },
+    {
+      "period": "2019-10",
+      "views": 58974
+    },
+    {
+      "period": "2019-12",
+      "views": 48079
+    },
     {
       "period": "2021-05",
       "views": 59436
@@ -160,6 +176,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 182854
+    },
     {
       "period": "2021",
       "views": 2918941

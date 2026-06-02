@@ -4,8 +4,28 @@
   "title": "Jalen_Hurts",
   "description": "American football player (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jalen_Hurts_11-14-22_%28cropped%29.jpg?width=64",
-  "total": 7403582,
+  "total": 7927602,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 57664
+    },
+    {
+      "period": "2019-09",
+      "views": 217150
+    },
+    {
+      "period": "2019-10",
+      "views": 65904
+    },
+    {
+      "period": "2019-11",
+      "views": 46343
+    },
+    {
+      "period": "2019-12",
+      "views": 136959
+    },
     {
       "period": "2020-04",
       "views": 122586
@@ -140,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 524020
+    },
     {
       "period": "2020",
       "views": 443577

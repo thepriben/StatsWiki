@@ -4,8 +4,12 @@
   "title": "Eternals_(film)",
   "description": "2021 film by Chloé Zhao",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eternals_logo.png?width=64",
-  "total": 16380374,
+  "total": 16395116,
   "monthly": [
+    {
+      "period": "2019-07",
+      "views": 14742
+    },
     {
       "period": "2020-08",
       "views": 12989
@@ -132,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 14742
+    },
     {
       "period": "2020",
       "views": 71372

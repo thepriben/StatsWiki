@@ -4,8 +4,12 @@
   "title": "Sambhaji",
   "description": "Second Maratha king of the Maratha Empire, also a writer, philosopher and successor of Shivaji (1657-1689)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambhaji_painting_late_17th_century.png?width=64",
-  "total": 5244524,
+  "total": 5254713,
   "monthly": [
+    {
+      "period": "2019-05",
+      "views": 10189
+    },
     {
       "period": "2020-01",
       "views": 11914
@@ -68,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 10189
+    },
     {
       "period": "2020",
       "views": 79800

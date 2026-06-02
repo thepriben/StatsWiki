@@ -4,7 +4,7 @@
   "title": "List_of_Suits_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 3302772,
+  "total": 3340738,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,28 @@
     {
       "period": "2015-12",
       "views": 276485
+    },
+    {
+      "period": "2019-07",
+      "views": 9228
+    },
+    {
+      "period": "2019-08",
+      "views": 10068
+    },
+    {
+      "period": "2019-09",
+      "views": 18670
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 3302772
+    },
+    {
+      "period": "2019",
+      "views": 37966
     }
   ]
 }

@@ -4,8 +4,12 @@
   "title": "Anna_Sorokin",
   "description": "Russian-born German fraudster (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AnnaDelvey-byPhilipRomano.jpg?width=64",
-  "total": 15783790,
+  "total": 15795774,
   "monthly": [
+    {
+      "period": "2019-12",
+      "views": 11984
+    },
     {
       "period": "2021-02",
       "views": 34206
@@ -104,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 11984
+    },
     {
       "period": "2021",
       "views": 91072

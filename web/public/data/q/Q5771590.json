@@ -4,8 +4,28 @@
   "title": "2022_FIFA_World_Cup_qualification",
   "description": "qualification for the 2022 FIFA World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_world_cup_qualification.PNG?width=64",
-  "total": 9292555,
+  "total": 9666380,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 46880
+    },
+    {
+      "period": "2019-07",
+      "views": 32039
+    },
+    {
+      "period": "2019-09",
+      "views": 159037
+    },
+    {
+      "period": "2019-10",
+      "views": 67421
+    },
+    {
+      "period": "2019-11",
+      "views": 68448
+    },
     {
       "period": "2020-10",
       "views": 41726
@@ -92,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 373825
+    },
     {
       "period": "2020",
       "views": 188048

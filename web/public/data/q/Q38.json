@@ -4,7 +4,7 @@
   "title": "Italy",
   "description": "country in southern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseo_2020.jpg?width=64",
-  "total": 16579025,
+  "total": 18624356,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 130472
+    },
+    {
+      "period": "2019-01",
+      "views": 142757
+    },
+    {
+      "period": "2019-02",
+      "views": 162522
+    },
+    {
+      "period": "2019-03",
+      "views": 182401
+    },
+    {
+      "period": "2019-04",
+      "views": 212718
+    },
+    {
+      "period": "2019-05",
+      "views": 156453
+    },
+    {
+      "period": "2019-06",
+      "views": 173670
+    },
+    {
+      "period": "2019-07",
+      "views": 103362
+    },
+    {
+      "period": "2019-08",
+      "views": 205906
+    },
+    {
+      "period": "2019-09",
+      "views": 217619
+    },
+    {
+      "period": "2019-10",
+      "views": 231147
+    },
+    {
+      "period": "2019-11",
+      "views": 187308
+    },
+    {
+      "period": "2019-12",
+      "views": 69468
     },
     {
       "period": "2020-01",
@@ -299,6 +347,10 @@
     {
       "period": "2015",
       "views": 1561741
+    },
+    {
+      "period": "2019",
+      "views": 2045331
     },
     {
       "period": "2020",

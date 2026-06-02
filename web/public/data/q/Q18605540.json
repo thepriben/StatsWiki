@@ -4,7 +4,7 @@
   "title": "Jessica_Jones_(TV_series)",
   "description": "2015 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JJONES.jpg?width=64",
-  "total": 4995497,
+  "total": 5345372,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,28 @@
     {
       "period": "2015-12",
       "views": 1892673
+    },
+    {
+      "period": "2019-02",
+      "views": 22978
+    },
+    {
+      "period": "2019-06",
+      "views": 307619
+    },
+    {
+      "period": "2019-07",
+      "views": 19278
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 4995497
+    },
+    {
+      "period": "2019",
+      "views": 349875
     }
   ]
 }

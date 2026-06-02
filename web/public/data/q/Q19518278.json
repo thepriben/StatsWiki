@@ -4,8 +4,12 @@
   "title": "Diogo_Jota",
   "description": "Portuguese association football player (1996-2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diogo_Jota_2025_Cropped.jpg?width=64",
-  "total": 6741586,
+  "total": 6750526,
   "monthly": [
+    {
+      "period": "2019-04",
+      "views": 8940
+    },
     {
       "period": "2020-09",
       "views": 372724
@@ -92,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 8940
+    },
     {
       "period": "2020",
       "views": 732972

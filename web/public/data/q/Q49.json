@@ -4,8 +4,12 @@
   "title": "North_America",
   "description": "continent in the Americas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_America_satellite_orthographic.jpg?width=64",
-  "total": 8922754,
+  "total": 8941895,
   "monthly": [
+    {
+      "period": "2019-05",
+      "views": 19141
+    },
     {
       "period": "2020-01",
       "views": 34797
@@ -220,6 +224,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 19141
+    },
     {
       "period": "2020",
       "views": 505527

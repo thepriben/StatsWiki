@@ -4,7 +4,7 @@
   "title": "September_11_attacks",
   "description": "2001 attacks in the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_face_south_tower_after_plane_strike_9-11.jpg?width=64",
-  "total": 42616980,
+  "total": 49077358,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 301680
+    },
+    {
+      "period": "2019-01",
+      "views": 343221
+    },
+    {
+      "period": "2019-02",
+      "views": 353608
+    },
+    {
+      "period": "2019-03",
+      "views": 396312
+    },
+    {
+      "period": "2019-04",
+      "views": 395738
+    },
+    {
+      "period": "2019-05",
+      "views": 417297
+    },
+    {
+      "period": "2019-06",
+      "views": 336478
+    },
+    {
+      "period": "2019-07",
+      "views": 325089
+    },
+    {
+      "period": "2019-08",
+      "views": 377008
+    },
+    {
+      "period": "2019-09",
+      "views": 2351690
+    },
+    {
+      "period": "2019-10",
+      "views": 427751
+    },
+    {
+      "period": "2019-11",
+      "views": 383919
+    },
+    {
+      "period": "2019-12",
+      "views": 352267
     },
     {
       "period": "2020-01",
@@ -343,6 +391,10 @@
     {
       "period": "2015",
       "views": 4145667
+    },
+    {
+      "period": "2019",
+      "views": 6460378
     },
     {
       "period": "2020",

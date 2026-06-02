@@ -1,10 +1,10 @@
 {
   "qid": "Q38370",
   "label": "Henry VIII of England",
-  "title": "Henry_VIII_of_England",
+  "title": "Henry_VIII",
   "description": "King of England from 1509 to 1547 (1491–1547)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg?width=64",
-  "total": 25691576,
+  "total": 30607187,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 368883
+    },
+    {
+      "period": "2019-01",
+      "views": 468236
+    },
+    {
+      "period": "2019-02",
+      "views": 352950
+    },
+    {
+      "period": "2019-03",
+      "views": 388013
+    },
+    {
+      "period": "2019-04",
+      "views": 316225
+    },
+    {
+      "period": "2019-05",
+      "views": 546801
+    },
+    {
+      "period": "2019-06",
+      "views": 490588
+    },
+    {
+      "period": "2019-07",
+      "views": 354055
+    },
+    {
+      "period": "2019-08",
+      "views": 334615
+    },
+    {
+      "period": "2019-09",
+      "views": 346516
+    },
+    {
+      "period": "2019-10",
+      "views": 363062
+    },
+    {
+      "period": "2019-11",
+      "views": 585610
+    },
+    {
+      "period": "2019-12",
+      "views": 368940
     },
     {
       "period": "2020-01",
@@ -343,6 +391,10 @@
     {
       "period": "2015",
       "views": 2279114
+    },
+    {
+      "period": "2019",
+      "views": 4915611
     },
     {
       "period": "2020",

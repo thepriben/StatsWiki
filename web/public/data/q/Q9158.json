@@ -4,8 +4,12 @@
   "title": "Email",
   "description": "electronic changing digital messages between a network",
   "image": "",
-  "total": 6152168,
+  "total": 6203216,
   "monthly": [
+    {
+      "period": "2019-05",
+      "views": 51048
+    },
     {
       "period": "2022-08",
       "views": 76269
@@ -104,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 51048
+    },
     {
       "period": "2022",
       "views": 694491

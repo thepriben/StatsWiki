@@ -4,8 +4,16 @@
   "title": "Julia_Garner",
   "description": "American actress and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julia_Garner_Berlinale_2020_%28cropped%29_2.jpg?width=64",
-  "total": 9107788,
+  "total": 9212403,
   "monthly": [
+    {
+      "period": "2019-09",
+      "views": 92473
+    },
+    {
+      "period": "2019-12",
+      "views": 12142
+    },
     {
       "period": "2020-03",
       "views": 282503
@@ -136,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 104615
+    },
     {
       "period": "2020",
       "views": 2279354

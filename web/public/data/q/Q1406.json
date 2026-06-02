@@ -4,7 +4,7 @@
   "title": "Microsoft_Windows",
   "description": "family of computer operating systems developed by Microsoft",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Windows_logo_and_wordmark_-_2012%E2%80%932015.svg?width=64",
-  "total": 22886496,
+  "total": 22897363,
   "monthly": [
     {
       "period": "2015-07",
@@ -13,6 +13,10 @@
     {
       "period": "2015-09",
       "views": 10132
+    },
+    {
+      "period": "2019-05",
+      "views": 10867
     },
     {
       "period": "2020-10",
@@ -163,6 +167,10 @@
     {
       "period": "2015",
       "views": 44444
+    },
+    {
+      "period": "2019",
+      "views": 10867
     },
     {
       "period": "2020",

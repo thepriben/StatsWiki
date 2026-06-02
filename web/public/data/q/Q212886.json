@@ -4,7 +4,7 @@
   "title": "Stephen_Colbert",
   "description": "American comedian and writer (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Colbert_June_2023.jpg?width=64",
-  "total": 2685266,
+  "total": 3064422,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,26 @@
     {
       "period": "2015-11",
       "views": 9298
+    },
+    {
+      "period": "2019-02",
+      "views": 21506
+    },
+    {
+      "period": "2019-08",
+      "views": 242919
+    },
+    {
+      "period": "2019-09",
+      "views": 49618
+    },
+    {
+      "period": "2019-10",
+      "views": 33645
+    },
+    {
+      "period": "2019-11",
+      "views": 31468
     },
     {
       "period": "2020-01",
@@ -123,6 +143,10 @@
     {
       "period": "2015",
       "views": 852504
+    },
+    {
+      "period": "2019",
+      "views": 379156
     },
     {
       "period": "2020",

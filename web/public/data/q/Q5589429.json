@@ -4,8 +4,16 @@
   "title": "Government_shutdowns_in_the_United_States",
   "description": "cessation of \"non-essential\" government services in the United States due to a funding lapse",
   "image": "",
-  "total": 4938793,
+  "total": 7163996,
   "monthly": [
+    {
+      "period": "2019-01",
+      "views": 2167276
+    },
+    {
+      "period": "2019-02",
+      "views": 57927
+    },
     {
       "period": "2021-09",
       "views": 52184
@@ -48,6 +56,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 2225203
+    },
     {
       "period": "2021",
       "views": 52184

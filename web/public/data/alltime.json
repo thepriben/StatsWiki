@@ -3,28 +3,28 @@
   "lines": [
     {
       "rank": 1,
-      "title": "United_States_Senate",
-      "label": "United States Senate",
-      "description": "upper house of the United States Congress",
-      "views": 296499648,
-      "qid": "Q66096",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Senate_Floor.jpg?width=64"
-    },
-    {
-      "rank": 2,
       "title": "Deaths_in_2025",
       "label": "lists of deaths by year",
       "description": "deaths of notable people, organised by year",
-      "views": 275991253,
+      "views": 311354177,
       "qid": "Q8803453",
       "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "United_States_Senate",
+      "label": "United States Senate",
+      "description": "upper house of the United States Congress",
+      "views": 297050469,
+      "qid": "Q66096",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Senate_Floor.jpg?width=64"
     },
     {
       "rank": 3,
       "title": "Cleopatra",
       "label": "Cleopatra",
       "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
-      "views": 229474944,
+      "views": 229816598,
       "qid": "Q635",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
     },
@@ -33,7 +33,7 @@
       "title": "YouTube",
       "label": "YouTube",
       "description": "American video-sharing platform owned by Alphabet Inc.",
-      "views": 194471063,
+      "views": 206917488,
       "qid": "Q866",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
     },
@@ -42,7 +42,7 @@
       "title": "Donald_Trump",
       "label": "Donald Trump",
       "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
-      "views": 157354536,
+      "views": 171234016,
       "qid": "Q22686",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
     },
@@ -51,12 +51,39 @@
       "title": "Elon_Musk",
       "label": "Elon Musk",
       "description": "businessman and entrepreneur (born 1971)",
-      "views": 127525295,
+      "views": 137183197,
       "qid": "Q317521",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
     },
     {
       "rank": 7,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 136610066,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 131320117,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 123347665,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 10,
       "title": "ChatGPT",
       "label": "ChatGPT",
       "description": "artificial intelligence chatbot developed by OpenAI",
@@ -65,7 +92,7 @@
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT_5.2_Thinking_Wikipedia_historia_PDF_screenshot.png?width=64"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "title": ".xxx",
       "label": ".xxx",
       "description": "sponsored top-level Internet domain intended for pornographic websites",
@@ -74,47 +101,20 @@
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dotxxx.png?width=64"
     },
     {
-      "rank": 9,
-      "title": "Elizabeth_II",
-      "label": "Elizabeth II",
-      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
-      "views": 116635768,
-      "qid": "Q9682",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
-    },
-    {
-      "rank": 10,
-      "title": "Bible",
-      "label": "Bible",
-      "description": "collection of sacred books in Judaism and Christianity",
-      "views": 107115736,
-      "qid": "Q1845",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "title": "United_States",
       "label": "United States",
       "description": "country located primarily in North America",
-      "views": 103793326,
+      "views": 117062683,
       "qid": "Q30",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
-    },
-    {
-      "rank": 12,
-      "title": "Wikipedia",
-      "label": "Wikipedia",
-      "description": "free multilingual online encyclopedia",
-      "views": 100753185,
-      "qid": "Q52",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
     },
     {
       "rank": 13,
       "title": "Cristiano_Ronaldo",
       "label": "Cristiano Ronaldo",
       "description": "Portuguese association football player (born 1985)",
-      "views": 99445547,
+      "views": 109710222,
       "qid": "Q11571",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
     },
@@ -123,7 +123,7 @@
       "title": "Facebook",
       "label": "Facebook",
       "description": "American online social media and social networking service",
-      "views": 94764448,
+      "views": 103201759,
       "qid": "Q355",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Facebook_%282%29.PNG?width=64"
     },
@@ -132,12 +132,30 @@
       "title": "Joe_Biden",
       "label": "Joe Biden",
       "description": "46th President of the United States (2021–2025)",
-      "views": 89389987,
+      "views": 93352871,
       "qid": "Q6279",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_presidential_portrait.jpg?width=64"
     },
     {
       "rank": 16,
+      "title": "XXXTentacion",
+      "label": "XXXTentacion",
+      "description": "American rapper (1998–2018)",
+      "views": 91857785,
+      "qid": "Q28561969",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxxtentacion_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Instagram",
+      "label": "Instagram",
+      "description": "photo and video sharing social network owned by Meta Platforms",
+      "views": 89724001,
+      "qid": "Q209330",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Instagram_screenshot.png?width=64"
+    },
+    {
+      "rank": 18,
       "title": "2019–20_coronavirus_pandemic",
       "label": "COVID-19 pandemic",
       "description": "pandemic caused by SARS-CoV-2 (2019–2023)",
@@ -146,310 +164,292 @@
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?width=64"
     },
     {
-      "rank": 17,
-      "title": "Instagram",
-      "label": "Instagram",
-      "description": "photo and video sharing social network owned by Meta Platforms",
-      "views": 86093487,
-      "qid": "Q209330",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Instagram_screenshot.png?width=64"
-    },
-    {
-      "rank": 18,
-      "title": "XXXTentacion",
-      "label": "XXXTentacion",
-      "description": "American rapper (1998–2018)",
-      "views": 84746997,
-      "qid": "Q28561969",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxxtentacion_%28cropped%29.jpg?width=64"
-    },
-    {
       "rank": 19,
-      "title": "XXX_(film_series)",
-      "label": "xXx",
-      "description": "film series by Rich Wilkes",
-      "views": 79019346,
-      "qid": "Q25136249",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
-    },
-    {
-      "rank": 20,
       "title": "Lionel_Messi",
       "label": "Lionel Messi",
       "description": "Argentine association football player (born 1987)",
-      "views": 77914391,
+      "views": 85691126,
       "qid": "Q615",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg?width=64"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "India",
       "label": "India",
       "description": "country in South Asia",
-      "views": 74769253,
+      "views": 85183256,
       "qid": "Q668",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India-locator-map-blank.svg?width=64"
     },
     {
-      "rank": 22,
-      "title": "Taylor_Swift",
-      "label": "Taylor Swift",
-      "description": "American singer-songwriter (born 1989)",
-      "views": 72833555,
-      "qid": "Q26876",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?width=64"
-    },
-    {
-      "rank": 23,
+      "rank": 21,
       "title": "Google",
       "label": "Google",
       "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
-      "views": 72337852,
+      "views": 80922456,
       "qid": "Q95",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
     },
     {
+      "rank": 22,
+      "title": "List_of_Marvel_Cinematic_Universe_films",
+      "label": "list of Marvel Cinematic Universe films",
+      "description": "Wikimedia list article",
+      "views": 80402029,
+      "qid": "Q16148930",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Taylor_Swift",
+      "label": "Taylor Swift",
+      "description": "American singer-songwriter (born 1989)",
+      "views": 79663550,
+      "qid": "Q26876",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?width=64"
+    },
+    {
       "rank": 24,
+      "title": "XXX_(film_series)",
+      "label": "xXx",
+      "description": "film series by Rich Wilkes",
+      "views": 79223545,
+      "qid": "Q25136249",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    },
+    {
+      "rank": 25,
       "title": "Jeffrey_Dahmer",
       "label": "Jeffrey Dahmer",
       "description": "American serial killer (1960–1994)",
-      "views": 72325877,
+      "views": 77129175,
       "qid": "Q298364",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JeffreyDahmer1978.jpg?width=64"
     },
     {
-      "rank": 25,
-      "title": "XXX:_Return_of_Xander_Cage",
-      "label": "xXx Return of Xander Cage",
-      "description": "2017 film directed by D. J. Caruso",
-      "views": 71867286,
-      "qid": "Q22075020",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXx_REACTIVADO_Conferencia_de_Prensa.jpg?width=64"
-    },
-    {
       "rank": 26,
-      "title": "Charles_III",
-      "label": "Charles III",
-      "description": "King of the United Kingdom since 2022 (born 1948)",
-      "views": 70036677,
-      "qid": "Q43274",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64"
-    },
-    {
-      "rank": 27,
-      "title": "Sex",
-      "label": "sex",
-      "description": "biological system that determines an individual's sexually reproductive functions",
-      "views": 69022576,
-      "qid": "Q290",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cromosomas_X-Y_y_gametos.jpg?width=64"
-    },
-    {
-      "rank": 28,
-      "title": "Pornhub",
-      "label": "Pornhub",
-      "description": "pornographic video sharing website owned by Aylo",
-      "views": 67984349,
-      "qid": "Q936394",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pornhub-logo.svg?width=64"
-    },
-    {
-      "rank": 29,
-      "title": "XXX_(2002_film)",
-      "label": "xXx",
-      "description": "2002 film directed by Rob Cohen",
-      "views": 67040857,
-      "qid": "Q283799",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
-    },
-    {
-      "rank": 30,
-      "title": "Ansel_Adams",
-      "label": "Ansel Adams",
-      "description": "American photographer and environmentalist (1902–1984)",
-      "views": 66917626,
-      "qid": "Q60809",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ansel_Adams_and_camera.jpg?width=64"
-    },
-    {
-      "rank": 31,
       "title": "XXXX",
       "label": "XXXX",
       "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
-      "views": 66657265,
+      "views": 76989046,
       "qid": "Q8042634",
       "image": ""
     },
     {
-      "rank": 32,
+      "rank": 27,
+      "title": "Charles_III",
+      "label": "Charles III",
+      "description": "King of the United Kingdom since 2022 (born 1948)",
+      "views": 76790982,
+      "qid": "Q43274",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Sex",
+      "label": "sex",
+      "description": "biological system that determines an individual's sexually reproductive functions",
+      "views": 74424419,
+      "qid": "Q290",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cromosomas_X-Y_y_gametos.jpg?width=64"
+    },
+    {
+      "rank": 29,
       "title": "Kamala_Harris",
       "label": "Kamala Harris",
       "description": "Vice President of the United States from 2021 to 2025",
-      "views": 66014051,
+      "views": 73489886,
       "qid": "Q10853588",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamala_Harris_Vice_Presidential_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Pornhub",
+      "label": "Pornhub",
+      "description": "pornographic video sharing website owned by Aylo",
+      "views": 72219522,
+      "qid": "Q936394",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pornhub-logo.svg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "XXX:_Return_of_Xander_Cage",
+      "label": "xXx Return of Xander Cage",
+      "description": "2017 film directed by D. J. Caruso",
+      "views": 71930090,
+      "qid": "Q22075020",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXx_REACTIVADO_Conferencia_de_Prensa.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Jeffrey_Epstein",
+      "label": "Jeffrey Epstein",
+      "description": "American financier and sex offender (1953–2019)",
+      "views": 71758010,
+      "qid": "Q2904131",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64"
     },
     {
       "rank": 33,
       "title": "World_War_II",
       "label": "World War II",
       "description": "1939–1945 global conflict",
-      "views": 63763269,
+      "views": 71645778,
       "qid": "Q362",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Infobox_collage_for_WWII.PNG?width=64"
     },
     {
       "rank": 34,
-      "title": "List_of_Marvel_Cinematic_Universe_films",
-      "label": "list of Marvel Cinematic Universe films",
+      "title": "List_of_highest-grossing_films",
+      "label": "list of highest-grossing films",
       "description": "Wikimedia list article",
-      "views": 60493101,
-      "qid": "Q16148930",
+      "views": 67655579,
+      "qid": "Q392108",
       "image": ""
     },
     {
       "rank": 35,
-      "title": "Microsoft_Office",
-      "label": "Microsoft Office",
-      "description": "series of office programmes developed by Microsoft",
-      "views": 60158496,
-      "qid": "Q11255",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+      "title": "XXX_(2002_film)",
+      "label": "xXx",
+      "description": "2002 film directed by Rob Cohen",
+      "views": 67477245,
+      "qid": "Q283799",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
     },
     {
       "rank": 36,
+      "title": "Ansel_Adams",
+      "label": "Ansel Adams",
+      "description": "American photographer and environmentalist (1902–1984)",
+      "views": 66928187,
+      "qid": "Q60809",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ansel_Adams_and_camera.jpg?width=64"
+    },
+    {
+      "rank": 37,
       "title": "United_Kingdom",
       "label": "United Kingdom",
       "description": "island country in north-west Europe",
-      "views": 58289020,
+      "views": 66509881,
       "qid": "Q145",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg?width=64"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "title": "Michael_Jackson",
       "label": "Michael Jackson",
       "description": "American singer, songwriter, record producer, and dancer (1958–2009)",
-      "views": 57867337,
+      "views": 66166498,
       "qid": "Q2831",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?width=64"
     },
     {
-      "rank": 38,
-      "title": "Jeffrey_Epstein",
-      "label": "Jeffrey Epstein",
-      "description": "American financier and sex offender (1953–2019)",
-      "views": 57863764,
-      "qid": "Q2904131",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64"
-    },
-    {
       "rank": 39,
-      "title": "Indian_Premier_League",
-      "label": "Indian Premier League",
-      "description": "professional cricket league in India",
-      "views": 57489164,
-      "qid": "Q396412",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Premier_League.jpg?width=64"
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 65841569,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
     },
     {
       "rank": 40,
+      "title": "Keanu_Reeves",
+      "label": "Keanu Reeves",
+      "description": "Canadian actor and musician (born 1964)",
+      "views": 65071480,
+      "qid": "Q43416",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
       "title": "Barack_Obama",
       "label": "Barack Obama",
       "description": "president of the United States from 2009 to 2017 (born 1961)",
-      "views": 57209580,
+      "views": 64986752,
       "qid": "Q76",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Barack_Obama.jpg?width=64"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "Michael_Jordan",
       "label": "Michael Jordan",
       "description": "American basketball player and businessman (born 1963)",
-      "views": 56944936,
+      "views": 62821308,
       "qid": "Q41421",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jordan.jpg?width=64"
     },
     {
-      "rank": 42,
-      "title": "List_of_highest-grossing_Indian_films",
-      "label": "list of highest-grossing Indian films worldwide",
-      "description": "Wikimedia list article",
-      "views": 56887644,
-      "qid": "Q6622409",
-      "image": ""
-    },
-    {
       "rank": 43,
-      "title": "Kobe_Bryant",
-      "label": "Kobe Bryant",
-      "description": "American basketball player (1978–2020)",
-      "views": 56246685,
-      "qid": "Q25369",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kobe_Bryant_2015.jpg?width=64"
-    },
-    {
-      "rank": 44,
-      "title": "Elvis_Presley",
-      "label": "Elvis Presley",
-      "description": "American singer and actor (1935–1977)",
-      "views": 56087625,
-      "qid": "Q303",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elvis_Presley_1973_RCA_Records_and_Tapes_publicity_2_-_cropped.png?width=64"
-    },
-    {
-      "rank": 45,
       "title": "Adolf_Hitler",
       "label": "Adolf Hitler",
       "description": "dictator of Germany from 1933 to 1945, main instigator of World War II (1889–1945)",
-      "views": 55252273,
+      "views": 62697512,
       "qid": "Q352",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Hitler_cropped_restored_3x4.jpg?width=64"
     },
     {
+      "rank": 44,
+      "title": "List_of_highest-grossing_Indian_films",
+      "label": "list of highest-grossing Indian films worldwide",
+      "description": "Wikimedia list article",
+      "views": 62517308,
+      "qid": "Q6622409",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Elvis_Presley",
+      "label": "Elvis Presley",
+      "description": "American singer and actor (1935–1977)",
+      "views": 61929657,
+      "qid": "Q303",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elvis_Presley_1973_RCA_Records_and_Tapes_publicity_2_-_cropped.png?width=64"
+    },
+    {
       "rank": 46,
-      "title": "Vladimir_Putin",
-      "label": "Vladimir Putin",
-      "description": "2nd and 4th President of Russia (2000-2008, 2012-present), 7th and 11th Prime Minister of Russia (1999-2000, 2008-2012), Director of the Federal Security Service (1998-1999) and Deputy Mayor of Saint Petersburg (1994-1996)",
-      "views": 53501518,
-      "qid": "Q7747",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vladimir_Putin_official_photo_08.jpg?width=64"
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 61361802,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
     },
     {
       "rank": 47,
+      "title": "Billie_Eilish",
+      "label": "Billie Eilish",
+      "description": "American singer-songwriter (born 2001)",
+      "views": 60426587,
+      "qid": "Q29564107",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 48,
       "title": "Tom_Cruise",
       "label": "Tom Cruise",
       "description": "American actor and producer (born 1962)",
-      "views": 53373358,
+      "views": 59494968,
       "qid": "Q37079",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?width=64"
     },
     {
-      "rank": 48,
-      "title": "2022_FIFA_World_Cup",
-      "label": "2022 FIFA World Cup",
-      "description": "22nd FIFA World Cup",
-      "views": 53328186,
-      "qid": "Q284163",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_FIFA_World_Cup_Qatar_%28Wordmark%29.svg?width=64"
-    },
-    {
       "rank": 49,
-      "title": "2020_United_States_presidential_election",
-      "label": "2020 United States presidential election",
-      "description": "59th quadrennial U.S. presidential election",
-      "views": 52113450,
-      "qid": "Q22923830",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_and_Donald_Trump.jpg?width=64"
+      "title": "Dwayne_Johnson",
+      "label": "Dwayne Johnson",
+      "description": "American actor and professional wrestler (born 1972)",
+      "views": 59270371,
+      "qid": "Q10738",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dwayne_Johnson-1809_%28cropped%29.jpg?width=64"
     },
     {
       "rank": 50,
-      "title": "Premier_League",
-      "label": "Premier League",
-      "description": "English men's association top football league",
-      "views": 52084567,
-      "qid": "Q9448",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_Kompany_holds_up_the_Premier_League_trophy_2012.jpg?width=64"
+      "title": "Indian_Premier_League",
+      "label": "Indian Premier League",
+      "description": "professional cricket league in India",
+      "views": 58621856,
+      "qid": "Q396412",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Premier_League.jpg?width=64"
     }
   ]
 }

@@ -4,8 +4,12 @@
   "title": "Shohei_Ohtani",
   "description": "Japanese professional baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shohei_Otani_2024-01-02.jpg?width=64",
-  "total": 10966832,
+  "total": 10976447,
   "monthly": [
+    {
+      "period": "2019-06",
+      "views": 9615
+    },
     {
       "period": "2021-04",
       "views": 108133
@@ -176,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 9615
+    },
     {
       "period": "2021",
       "views": 1237190

@@ -4,7 +4,7 @@
   "title": "Dubai",
   "description": "most populous city in the United Arab Emirates and the capital of the Emirate of Dubai",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_Skyline_mit_Burj_Khalifa_%28cropped%29.jpg?width=64",
-  "total": 3665903,
+  "total": 3851204,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,26 @@
     {
       "period": "2015-12",
       "views": 350991
+    },
+    {
+      "period": "2019-02",
+      "views": 9178
+    },
+    {
+      "period": "2019-03",
+      "views": 21777
+    },
+    {
+      "period": "2019-07",
+      "views": 25079
+    },
+    {
+      "period": "2019-09",
+      "views": 28688
+    },
+    {
+      "period": "2019-12",
+      "views": 100579
     },
     {
       "period": "2020-01",
@@ -167,6 +187,10 @@
     {
       "period": "2015",
       "views": 2027518
+    },
+    {
+      "period": "2019",
+      "views": 185301
     },
     {
       "period": "2020",

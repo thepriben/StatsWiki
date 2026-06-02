@@ -4,8 +4,20 @@
   "title": "Top_Gun",
   "description": "1986 film directed by Tony Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Top_Gun_film_logo.png?width=64",
-  "total": 7512787,
+  "total": 7975702,
   "monthly": [
+    {
+      "period": "2019-07",
+      "views": 339277
+    },
+    {
+      "period": "2019-08",
+      "views": 21195
+    },
+    {
+      "period": "2019-12",
+      "views": 102443
+    },
     {
       "period": "2020-03",
       "views": 25626
@@ -116,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2019",
+      "views": 462915
+    },
     {
       "period": "2020",
       "views": 164564

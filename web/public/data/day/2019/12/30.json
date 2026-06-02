@@ -1,0 +1,455 @@
+{
+  "period": "30 December 2019",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "NSA_ANT_catalog",
+      "label": "NSA ANT catalog",
+      "description": "",
+      "views": 1124420,
+      "qid": "Q_en_NSA_ANT_catalog",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "The_Witcher_(TV_series)",
+      "label": "The Witcher",
+      "description": "2019 fantasy drama television series",
+      "views": 332676,
+      "qid": "Q47500433",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Witcher.png?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Christine_Keeler",
+      "label": "Christine Keeler",
+      "description": "",
+      "views": 289274,
+      "qid": "Q_en_Christine_Keeler",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Star_Wars:_The_Rise_of_Skywalker",
+      "label": "Star Wars: Episode IX – The Rise of Skywalker",
+      "description": "2019 film directed by J. J. Abrams",
+      "views": 240679,
+      "qid": "Q20977110",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Rise_of_Skywalker.png?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "You_(season_2)",
+      "label": "You (season 2)",
+      "description": "",
+      "views": 201348,
+      "qid": "Q_en_You_(season_2)",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Harpejji",
+      "label": "Harpejji",
+      "description": "",
+      "views": 196843,
+      "qid": "Q_en_Harpejji",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "The_Mandalorian",
+      "label": "The Mandalorian",
+      "description": "American space opera streaming television series from 2019",
+      "views": 189390,
+      "qid": "Q56876444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86.png?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "You_(TV_series)",
+      "label": "You",
+      "description": "2018 American psychological thriller television series",
+      "views": 172491,
+      "qid": "Q39082126",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/You-Logo.png?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Marshawn_Lynch",
+      "label": "Marshawn Lynch",
+      "description": "",
+      "views": 154125,
+      "qid": "Q_en_Marshawn_Lynch",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Luka_Magnotta",
+      "label": "Luka Magnotta",
+      "description": "",
+      "views": 146167,
+      "qid": "Q_en_Luka_Magnotta",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "John_Lewis_(civil_rights_leader)",
+      "label": "John Lewis (civil rights leader)",
+      "description": "",
+      "views": 129942,
+      "qid": "Q_en_John_Lewis_(civil_rights_leader)",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "The_Witcher",
+      "label": "The Witcher",
+      "description": "",
+      "views": 124752,
+      "qid": "Q_en_The_Witcher",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Deaths_in_2019",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 123360,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Anya_Chalotra",
+      "label": "Anya Chalotra",
+      "description": "",
+      "views": 119369,
+      "qid": "Q_en_Anya_Chalotra",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Jimmy_Garoppolo",
+      "label": "Jimmy Garoppolo",
+      "description": "",
+      "views": 112583,
+      "qid": "Q_en_Jimmy_Garoppolo",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Cats_(2019_film)",
+      "label": "Cats (2019 film)",
+      "description": "",
+      "views": 112161,
+      "qid": "Q_en_Cats_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Henry_Cavill",
+      "label": "Henry Cavill",
+      "description": "English actor (born 1983)",
+      "views": 107278,
+      "qid": "Q295498",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Cavill_%2848417913146%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "John_Profumo",
+      "label": "John Profumo",
+      "description": "",
+      "views": 103433,
+      "qid": "Q_en_John_Profumo",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Penn_Badgley",
+      "label": "Penn Badgley",
+      "description": "",
+      "views": 101872,
+      "qid": "Q_en_Penn_Badgley",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Stephen_Ward",
+      "label": "Stephen Ward",
+      "description": "",
+      "views": 99098,
+      "qid": "Q_en_Stephen_Ward",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Victoria_Pedretti",
+      "label": "Victoria Pedretti",
+      "description": "",
+      "views": 95378,
+      "qid": "Q_en_Victoria_Pedretti",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "White_Settlement,_Texas",
+      "label": "White Settlement, Texas",
+      "description": "",
+      "views": 94178,
+      "qid": "Q_en_White_Settlement,_Texas",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Mandy_Rice-Davies",
+      "label": "Mandy Rice-Davies",
+      "description": "",
+      "views": 92797,
+      "qid": "Q_en_Mandy_Rice-Davies",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Profumo_affair",
+      "label": "Profumo affair",
+      "description": "",
+      "views": 92448,
+      "qid": "Q_en_Profumo_affair",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Adam_Driver",
+      "label": "Adam Driver",
+      "description": "American actor (born 1983)",
+      "views": 91276,
+      "qid": "Q4678990",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Driver.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Good_Newwz",
+      "label": "Good Newwz",
+      "description": "",
+      "views": 90789,
+      "qid": "Q_en_Good_Newwz",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Jimmy_Hoffa",
+      "label": "Jimmy Hoffa",
+      "description": "American labor union leader (1913 – disappeared 1975)",
+      "views": 87356,
+      "qid": "Q317638",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_R._Hoffa_NYWTS.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Little_Women_(2019_film)",
+      "label": "Little Women (2019 film)",
+      "description": "",
+      "views": 85202,
+      "qid": "Q_en_Little_Women_(2019_film)",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Neil_Innes",
+      "label": "Neil Innes",
+      "description": "",
+      "views": 82907,
+      "qid": "Q_en_Neil_Innes",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "List_of_Star_Wars_films",
+      "label": "List of Star Wars films",
+      "description": "",
+      "views": 80881,
+      "qid": "Q_en_List_of_Star_Wars_films",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Uncut_Gems",
+      "label": "Uncut Gems",
+      "description": "",
+      "views": 75413,
+      "qid": "Q_en_Uncut_Gems",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Jason_Garrett",
+      "label": "Jason Garrett",
+      "description": "",
+      "views": 74913,
+      "qid": "Q_en_Jason_Garrett",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Knives_Out_(film)",
+      "label": "Knives Out (film)",
+      "description": "",
+      "views": 74185,
+      "qid": "Q_en_Knives_Out_(film)",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Star_Wars:_The_Last_Jedi",
+      "label": "Star Wars: The Last Jedi",
+      "description": "",
+      "views": 71974,
+      "qid": "Q_en_Star_Wars:_The_Last_Jedi",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Dabangg_3",
+      "label": "Dabangg 3",
+      "description": "",
+      "views": 71481,
+      "qid": "Q_en_Dabangg_3",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 71332,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "The_Irishman",
+      "label": "The Irishman",
+      "description": "",
+      "views": 70167,
+      "qid": "Q_en_The_Irishman",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Kushal_Punjabi",
+      "label": "Kushal Punjabi",
+      "description": "",
+      "views": 69504,
+      "qid": "Q_en_Kushal_Punjabi",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Princess_Margaret,_Countess_of_Snowdon",
+      "label": "Princess Margaret, Countess of Snowdon",
+      "description": "British princess (1930–2002)",
+      "views": 68802,
+      "qid": "Q153815",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Little_Women",
+      "label": "Little Women",
+      "description": "",
+      "views": 67466,
+      "qid": "Q_en_Little_Women",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Operation_Sea-Spray",
+      "label": "Operation Sea-Spray",
+      "description": "",
+      "views": 65491,
+      "qid": "Q_en_Operation_Sea-Spray",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Once_Upon_a_Time_in_Hollywood",
+      "label": "Once Upon a Time in Hollywood",
+      "description": "2019 film directed by Quentin Tarantino",
+      "views": 63729,
+      "qid": "Q47300912",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Once_Upon_a_Time_in_Hollywood_logo.svg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Kevin_Hart",
+      "label": "Kevin Hart",
+      "description": "",
+      "views": 63700,
+      "qid": "Q_en_Kevin_Hart",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Star_Wars",
+      "label": "Star Wars",
+      "description": "epic space opera multimedia franchise created by George Lucas",
+      "views": 63544,
+      "qid": "Q462",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_characters_at_Madame_Tussaud.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Brian_Bosworth",
+      "label": "Brian Bosworth",
+      "description": "",
+      "views": 63209,
+      "qid": "Q_en_Brian_Bosworth",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Ken_Miles",
+      "label": "Ken Miles",
+      "description": "British racing driver (1918–1966)",
+      "views": 62938,
+      "qid": "Q949196",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolphin_Mk_2_with_ken_MIles.tif?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Frank_Sheeran",
+      "label": "Frank Sheeran",
+      "description": "",
+      "views": 61377,
+      "qid": "Q_en_Frank_Sheeran",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "2018–19_NFL_playoffs",
+      "label": "2018–19 NFL playoffs",
+      "description": "",
+      "views": 61054,
+      "qid": "Q_en_2018–19_NFL_playoffs",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Pope_Benedict_XVI",
+      "label": "Benedict XVI",
+      "description": "265 th pope of the Catholic Church (2005–2013)",
+      "views": 60002,
+      "qid": "Q2494",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Papst_Benedikt_XVI_in_Berlin_2011.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "David_Moyes",
+      "label": "David Moyes",
+      "description": "",
+      "views": 59573,
+      "qid": "Q_en_David_Moyes",
+      "image": ""
+    }
+  ]
+}
