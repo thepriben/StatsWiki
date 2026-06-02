@@ -73,6 +73,21 @@ def ingest_day_with_retry(day: date) -> str:
     return ingest_day(day)
 
 
+def ingest_range(start: date, end: date) -> int:
+    """Ingest each day in [start, end]. Returns count of newly ingested days."""
+    n = 0
+    day = start
+    while day <= end:
+        status = ingest_day(day)
+        if status == "ingested":
+            n += 1
+            print(f"{day}: ingested")
+        elif status == "failed":
+            print(f"{day}: failed")
+        day += timedelta(days=1)
+    return n
+
+
 def main():
     import argparse
     p = argparse.ArgumentParser()
