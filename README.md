@@ -250,6 +250,33 @@ pip install -e .
 
 All ingest operations are **idempotent**: re-running skips days already present in Parquet.
 
+### Day → month → year (consolidation)
+
+There is **one source of truth**: daily rows in `data/pageviews/` Parquet.
+
+```
+Wikimedia API          Parquet (long)              Export JSON
+─────────────          ──────────────              ─────────────
+1 call / day    →      date, article, views  →    top 50 / period
+                       rank
+                              │
+                              ├─ sum(days in month)  → month/YYYY/MM.json
+                              ├─ sum(days in year)   → year/YYYY.json
+                              └─ sum(all days)       → alltime.json
+```
+
+Month and year are **never fetched separately** — they are aggregated from the same daily data. Re-exporting a year after new days arrive automatically refreshes all periods.
+
+### Redirects and Wikidata
+
+At export time, views are **merged by Wikidata QID** before ranking:
+
+1. Each pageview title is mapped to a QID (catalog + Wikipedia redirect follow + manual overrides)
+2. Titles sharing the same QID (e.g. old pandemic name → current article) have their views summed
+3. One row per item in the top 50, with label / description / image from Wikidata
+
+Enrichment (`wikidata.py`) runs on top-traffic titles and stores `resolved_title` (canonical Wikipedia page after redirects).
+
 ### Wikidata enrichment
 
 Module `mapping.py` + `wikidata.py` — batched (50 titles / request):

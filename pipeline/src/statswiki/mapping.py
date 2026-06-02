@@ -30,19 +30,29 @@ def resolve_qid(article: str, meta: dict) -> str:
     qid = row.get("qid")
     if qid and is_real_qid(qid):
         return qid
+    # Redirect source enriched with resolved_title → use canonical QID
+    resolved = normalize_title(row.get("resolved_title") or "")
+    if resolved:
+        canon = meta.get(resolved, {})
+        cqid = canon.get("qid")
+        if cqid and is_real_qid(cqid):
+            return cqid
     if qid and qid.startswith("Q_en_"):
         return qid
     return shadow_qid(title)
 
 
 def meta_lookup(articles) -> dict[str, dict]:
-    """Index catalog rows by article title and by QID."""
+    """Index catalog rows by article title, resolved title, and QID."""
     if articles.is_empty():
         return {}
     lookup = {}
     for row in articles.iter_rows(named=True):
         title = normalize_title(row["article"])
         lookup[title] = row
+        resolved = normalize_title(row.get("resolved_title") or "")
+        if resolved and resolved not in lookup:
+            lookup[resolved] = row
         qid = row.get("qid")
         if qid and is_real_qid(qid) and qid not in lookup:
             lookup[qid] = row
