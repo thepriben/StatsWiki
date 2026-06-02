@@ -4,8 +4,12 @@
   "title": "JD_Vance",
   "description": "vice president of the United States since 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg?width=64",
-  "total": 37604876,
+  "total": 37629067,
   "monthly": [
+    {
+      "period": "2017-06",
+      "views": 24191
+    },
     {
       "period": "2020-10",
       "views": 54587
@@ -156,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 24191
+    },
     {
       "period": "2020",
       "views": 704706

@@ -4,8 +4,16 @@
   "title": "List_of_stand-up_comedians",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 16890604,
+  "total": 18947265,
   "monthly": [
+    {
+      "period": "2017-02",
+      "views": 28243
+    },
+    {
+      "period": "2017-12",
+      "views": 2028418
+    },
     {
       "period": "2018-01",
       "views": 2288491
@@ -44,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 2056661
+    },
     {
       "period": "2018",
       "views": 16890604

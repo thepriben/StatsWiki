@@ -4,8 +4,16 @@
   "title": "Simple_Mail_Transfer_Protocol",
   "description": "Internet protocol used for relaying e-mails",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SMTP-transfer-model.svg?width=64",
-  "total": 17965695,
+  "total": 18721322,
   "monthly": [
+    {
+      "period": "2017-05",
+      "views": 718864
+    },
+    {
+      "period": "2017-10",
+      "views": 36763
+    },
     {
       "period": "2019-10",
       "views": 4679313
@@ -16,6 +24,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 755627
+    },
     {
       "period": "2019",
       "views": 17965695

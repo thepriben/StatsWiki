@@ -4,8 +4,12 @@
   "title": "Bible",
   "description": "collection of sacred books in Judaism and Christianity",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64",
-  "total": 123347665,
+  "total": 123369382,
   "monthly": [
+    {
+      "period": "2017-08",
+      "views": 21717
+    },
     {
       "period": "2019-03",
       "views": 1635871
@@ -188,6 +192,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 21717
+    },
     {
       "period": "2019",
       "views": 16231929

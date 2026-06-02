@@ -4,7 +4,7 @@
   "title": "HTTP_cookie",
   "description": "small piece of data sent from a website and stored on the user's computer by the user's web browser",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internetcookie.png?width=64",
-  "total": 26486485,
+  "total": 27034910,
   "monthly": [
     {
       "period": "2016-03",
@@ -17,6 +17,30 @@
     {
       "period": "2016-09",
       "views": 131656
+    },
+    {
+      "period": "2017-02",
+      "views": 10100
+    },
+    {
+      "period": "2017-08",
+      "views": 95617
+    },
+    {
+      "period": "2017-09",
+      "views": 82500
+    },
+    {
+      "period": "2017-10",
+      "views": 37902
+    },
+    {
+      "period": "2017-11",
+      "views": 27310
+    },
+    {
+      "period": "2017-12",
+      "views": 294996
     },
     {
       "period": "2018-01",
@@ -427,6 +451,10 @@
     {
       "period": "2016",
       "views": 234233
+    },
+    {
+      "period": "2017",
+      "views": 548425
     },
     {
       "period": "2018",

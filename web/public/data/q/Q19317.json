@@ -4,7 +4,7 @@
   "title": "FIFA_World_Cup",
   "description": "international association football competition contested by the senior men's national teams",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_World_Cup_Trophy_at_National_Football_Museum%2C_Manchester_02.jpg?width=64",
-  "total": 42133053,
+  "total": 43029670,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,46 @@
     {
       "period": "2016-09",
       "views": 9194
+    },
+    {
+      "period": "2017-01",
+      "views": 16275
+    },
+    {
+      "period": "2017-03",
+      "views": 64704
+    },
+    {
+      "period": "2017-04",
+      "views": 22689
+    },
+    {
+      "period": "2017-06",
+      "views": 215123
+    },
+    {
+      "period": "2017-07",
+      "views": 37122
+    },
+    {
+      "period": "2017-08",
+      "views": 9068
+    },
+    {
+      "period": "2017-09",
+      "views": 77444
+    },
+    {
+      "period": "2017-10",
+      "views": 213017
+    },
+    {
+      "period": "2017-11",
+      "views": 177677
+    },
+    {
+      "period": "2017-12",
+      "views": 63498
     },
     {
       "period": "2018-02",
@@ -379,6 +419,10 @@
     {
       "period": "2016",
       "views": 1105587
+    },
+    {
+      "period": "2017",
+      "views": 896617
     },
     {
       "period": "2018",

@@ -4,8 +4,28 @@
   "title": "Black_Panther_(film)",
   "description": "2018 film directed by Ryan Coogler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Panther_Logo_Black.svg?width=64",
-  "total": 26387981,
+  "total": 27705606,
   "monthly": [
+    {
+      "period": "2017-06",
+      "views": 338389
+    },
+    {
+      "period": "2017-07",
+      "views": 171912
+    },
+    {
+      "period": "2017-10",
+      "views": 219505
+    },
+    {
+      "period": "2017-11",
+      "views": 282366
+    },
+    {
+      "period": "2017-12",
+      "views": 305453
+    },
     {
       "period": "2018-01",
       "views": 1005539
@@ -192,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 1317625
+    },
     {
       "period": "2018",
       "views": 19211322

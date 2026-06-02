@@ -4,8 +4,24 @@
   "title": "Deadpool_2",
   "description": "2018 film directed by David Leitch",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Movie_advertisement_on_bus_in_Brisbane%2C_Australia.jpg?width=64",
-  "total": 12720004,
+  "total": 12999929,
   "monthly": [
+    {
+      "period": "2017-07",
+      "views": 14437
+    },
+    {
+      "period": "2017-08",
+      "views": 114569
+    },
+    {
+      "period": "2017-11",
+      "views": 131423
+    },
+    {
+      "period": "2017-12",
+      "views": 19496
+    },
     {
       "period": "2018-01",
       "views": 34572
@@ -140,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 279925
+    },
     {
       "period": "2018",
       "views": 10383598

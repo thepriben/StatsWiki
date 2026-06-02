@@ -4,7 +4,7 @@
   "title": "French_Open",
   "description": "tennis tournament held in Paris",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Court_Philippe_Chatrier_2023_cropped.jpg?width=64",
-  "total": 5358520,
+  "total": 5732322,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,22 @@
     {
       "period": "2016-06",
       "views": 121495
+    },
+    {
+      "period": "2017-01",
+      "views": 31957
+    },
+    {
+      "period": "2017-05",
+      "views": 39011
+    },
+    {
+      "period": "2017-06",
+      "views": 256923
+    },
+    {
+      "period": "2017-07",
+      "views": 45911
     },
     {
       "period": "2018-01",
@@ -171,6 +187,10 @@
     {
       "period": "2016",
       "views": 225677
+    },
+    {
+      "period": "2017",
+      "views": 373802
     },
     {
       "period": "2018",

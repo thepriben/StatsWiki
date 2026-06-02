@@ -4,8 +4,16 @@
   "title": "List_of_British_stand-up_comedians",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 16839569,
+  "total": 18891320,
   "monthly": [
+    {
+      "period": "2017-02",
+      "views": 27913
+    },
+    {
+      "period": "2017-12",
+      "views": 2023838
+    },
     {
       "period": "2018-01",
       "views": 2282889
@@ -44,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 2051751
+    },
     {
       "period": "2018",
       "views": 16839569

@@ -4,8 +4,28 @@
   "title": "Ozark_(TV_series)",
   "description": "American crime drama television series (2017–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ozark_TV_series_logo.svg?width=64",
-  "total": 16823275,
+  "total": 19583199,
   "monthly": [
+    {
+      "period": "2017-05",
+      "views": 9816
+    },
+    {
+      "period": "2017-07",
+      "views": 946473
+    },
+    {
+      "period": "2017-08",
+      "views": 1233265
+    },
+    {
+      "period": "2017-09",
+      "views": 510670
+    },
+    {
+      "period": "2017-10",
+      "views": 59700
+    },
     {
       "period": "2018-07",
       "views": 11116
@@ -140,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 2759924
+    },
     {
       "period": "2018",
       "views": 2342225

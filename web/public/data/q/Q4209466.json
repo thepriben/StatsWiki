@@ -4,7 +4,7 @@
   "title": "Okto",
   "description": "former television channel in Singapore",
   "image": "",
-  "total": 13426125,
+  "total": 14069309,
   "monthly": [
     {
       "period": "2016-07",
@@ -17,12 +17,28 @@
     {
       "period": "2016-09",
       "views": 3758951
+    },
+    {
+      "period": "2017-01",
+      "views": 38441
+    },
+    {
+      "period": "2017-02",
+      "views": 397036
+    },
+    {
+      "period": "2017-03",
+      "views": 207707
     }
   ],
   "yearly": [
     {
       "period": "2016",
       "views": 13426125
+    },
+    {
+      "period": "2017",
+      "views": 643184
     }
   ]
 }

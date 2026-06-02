@@ -4,8 +4,12 @@
   "title": "Nemesio_Oseguera_Cervantes",
   "description": "Mexican drug lord (1966–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Mencho_San_Francisco.jpeg?width=64",
-  "total": 2662116,
+  "total": 2824779,
   "monthly": [
+    {
+      "period": "2017-12",
+      "views": 162663
+    },
     {
       "period": "2020-07",
       "views": 85864
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 162663
+    },
     {
       "period": "2020",
       "views": 85864

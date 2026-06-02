@@ -1,10 +1,10 @@
 {
   "qid": "Q13580495",
   "label": "BTS",
-  "title": "BTS",
+  "title": "BTS_(band)",
   "description": "South Korean musical group; boy band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg?width=64",
-  "total": 46338685,
+  "total": 52532900,
   "monthly": [
     {
       "period": "2016-05",
@@ -25,6 +25,54 @@
     {
       "period": "2016-12",
       "views": 340065
+    },
+    {
+      "period": "2017-01",
+      "views": 233114
+    },
+    {
+      "period": "2017-02",
+      "views": 399162
+    },
+    {
+      "period": "2017-03",
+      "views": 411013
+    },
+    {
+      "period": "2017-04",
+      "views": 384387
+    },
+    {
+      "period": "2017-05",
+      "views": 1083929
+    },
+    {
+      "period": "2017-06",
+      "views": 425860
+    },
+    {
+      "period": "2017-07",
+      "views": 412723
+    },
+    {
+      "period": "2017-08",
+      "views": 371662
+    },
+    {
+      "period": "2017-09",
+      "views": 493389
+    },
+    {
+      "period": "2017-10",
+      "views": 460878
+    },
+    {
+      "period": "2017-11",
+      "views": 790716
+    },
+    {
+      "period": "2017-12",
+      "views": 727382
     },
     {
       "period": "2018-01",
@@ -375,6 +423,10 @@
     {
       "period": "2016",
       "views": 1021200
+    },
+    {
+      "period": "2017",
+      "views": 6194215
     },
     {
       "period": "2018",

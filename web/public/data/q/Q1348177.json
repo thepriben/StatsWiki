@@ -4,8 +4,12 @@
   "title": "Klute",
   "description": "1971 film by Alan J. Pakula",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Klute-Jane-Fonda-Donald-Sutherland-The_Los_Angeles_Times_Thu_Jun_24_1971_%28cropped%29.jpg?width=64",
-  "total": 78441,
+  "total": 96696,
   "monthly": [
+    {
+      "period": "2017-03",
+      "views": 18255
+    },
     {
       "period": "2021-08",
       "views": 13863
@@ -24,6 +28,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 18255
+    },
     {
       "period": "2021",
       "views": 13863

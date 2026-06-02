@@ -4,8 +4,12 @@
   "title": "Wikimedia_Foundation",
   "description": "American charitable organization",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikimedia_Foundation_logo_-_vertical.svg?width=64",
-  "total": 16241827,
+  "total": 16268358,
   "monthly": [
+    {
+      "period": "2017-05",
+      "views": 26531
+    },
     {
       "period": "2019-07",
       "views": 129579
@@ -200,6 +204,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 26531
+    },
     {
       "period": "2019",
       "views": 129579

@@ -4,8 +4,16 @@
   "title": "Venom_(2018_film)",
   "description": "2018 American film directed by Ruben Fleischer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Venom_2018_logo.png?width=64",
-  "total": 14035763,
+  "total": 14092502,
   "monthly": [
+    {
+      "period": "2017-11",
+      "views": 9650
+    },
+    {
+      "period": "2017-12",
+      "views": 47089
+    },
     {
       "period": "2018-01",
       "views": 127371
@@ -168,6 +176,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 56739
+    },
     {
       "period": "2018",
       "views": 9331918

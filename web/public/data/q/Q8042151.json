@@ -4,7 +4,7 @@
   "title": "Proyecto_40",
   "description": "television network",
   "image": "",
-  "total": 37014656,
+  "total": 38500528,
   "monthly": [
     {
       "period": "2016-07",
@@ -29,12 +29,32 @@
     {
       "period": "2016-12",
       "views": 3591225
+    },
+    {
+      "period": "2017-01",
+      "views": 408702
+    },
+    {
+      "period": "2017-02",
+      "views": 626735
+    },
+    {
+      "period": "2017-03",
+      "views": 411207
+    },
+    {
+      "period": "2017-04",
+      "views": 39228
     }
   ],
   "yearly": [
     {
       "period": "2016",
       "views": 37014656
+    },
+    {
+      "period": "2017",
+      "views": 1485872
     }
   ]
 }

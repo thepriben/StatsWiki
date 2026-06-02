@@ -4,8 +4,16 @@
   "title": "List_of_most-followed_Instagram_accounts",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 16223116,
+  "total": 16583329,
   "monthly": [
+    {
+      "period": "2017-11",
+      "views": 235166
+    },
+    {
+      "period": "2017-12",
+      "views": 125047
+    },
     {
       "period": "2018-01",
       "views": 51669
@@ -308,6 +316,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 360213
+    },
     {
       "period": "2018",
       "views": 3743568

@@ -4,7 +4,7 @@
   "title": "Uber_(company)",
   "description": "peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Self_driving_Uber_prototype_in_San_Francisco.jpg?width=64",
-  "total": 3710341,
+  "total": 4317971,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,46 @@
     {
       "period": "2016-12",
       "views": 54083
+    },
+    {
+      "period": "2017-01",
+      "views": 46939
+    },
+    {
+      "period": "2017-02",
+      "views": 106980
+    },
+    {
+      "period": "2017-03",
+      "views": 148392
+    },
+    {
+      "period": "2017-04",
+      "views": 30272
+    },
+    {
+      "period": "2017-05",
+      "views": 11592
+    },
+    {
+      "period": "2017-06",
+      "views": 123800
+    },
+    {
+      "period": "2017-08",
+      "views": 35115
+    },
+    {
+      "period": "2017-09",
+      "views": 72922
+    },
+    {
+      "period": "2017-11",
+      "views": 22607
+    },
+    {
+      "period": "2017-12",
+      "views": 9011
     }
   ],
   "yearly": [
@@ -87,6 +127,10 @@
     {
       "period": "2016",
       "views": 2028415
+    },
+    {
+      "period": "2017",
+      "views": 607630
     }
   ]
 }

@@ -1,0 +1,455 @@
+{
+  "period": "6 February 2017",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Tom_Brady",
+      "label": "Tom Brady",
+      "description": "American football player (born 1977)",
+      "views": 2421675,
+      "qid": "Q313381",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Brady_2021.png?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Lady_Gaga",
+      "label": "Lady Gaga",
+      "description": "American singer, songwriter, and actress (born 1986)",
+      "views": 2127925,
+      "qid": "Q19848",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Gaga_at_Oscars_2016.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "List_of_Super_Bowl_champions",
+      "label": "list of Super Bowl champions",
+      "description": "Wikimedia list article",
+      "views": 728580,
+      "qid": "Q909800",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "404.php",
+      "label": "HTTP 404",
+      "description": "HTTP error response code",
+      "views": 686428,
+      "qid": "Q404",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/404_not_found.svg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "New_England_Patriots",
+      "label": "New England Patriots",
+      "description": "",
+      "views": 646042,
+      "qid": "Q_en_New_England_Patriots",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Super_Bowl_LI",
+      "label": "Super Bowl LI",
+      "description": "",
+      "views": 621045,
+      "qid": "Q_en_Super_Bowl_LI",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Gisele_Bündchen",
+      "label": "Gisele Bündchen",
+      "description": "",
+      "views": 502468,
+      "qid": "Q_en_Gisele_Bündchen",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Matt_Ryan_(American_football)",
+      "label": "Matt Ryan (American football)",
+      "description": "",
+      "views": 440668,
+      "qid": "Q_en_Matt_Ryan_(American_football)",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Super_Bowl",
+      "label": "Super Bowl",
+      "description": "National Football League championship game",
+      "views": 420896,
+      "qid": "Q32096",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_Bowl_XLV_marquee_at_Cowboys_Stadium.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Atlanta_Falcons",
+      "label": "Atlanta Falcons",
+      "description": "",
+      "views": 372370,
+      "qid": "Q_en_Atlanta_Falcons",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "List_of_Super_Bowl_halftime_shows",
+      "label": "list of Super Bowl halftime shows",
+      "description": "Wikimedia list article",
+      "views": 367812,
+      "qid": "Q11161626",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Robert_Kraft",
+      "label": "Robert Kraft",
+      "description": "",
+      "views": 311753,
+      "qid": "Q_en_Robert_Kraft",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Julian_Edelman",
+      "label": "Julian Edelman",
+      "description": "",
+      "views": 311641,
+      "qid": "Q_en_Julian_Edelman",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Baton_(law_enforcement)",
+      "label": "Baton (law enforcement)",
+      "description": "",
+      "views": 309561,
+      "qid": "Q_en_Baton_(law_enforcement)",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Arthur_Blank",
+      "label": "Arthur Blank",
+      "description": "",
+      "views": 307710,
+      "qid": "Q_en_Arthur_Blank",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Bridget_Moynahan",
+      "label": "Bridget Moynahan",
+      "description": "",
+      "views": 287491,
+      "qid": "Q_en_Bridget_Moynahan",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Bill_Belichick",
+      "label": "Bill Belichick",
+      "description": "American football coach (born 1952)",
+      "views": 261436,
+      "qid": "Q720027",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo_of_the_Day-_4-20_%2834163554775%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "The_Handmaid's_Tale",
+      "label": "The Handmaid's Tale",
+      "description": "1985 novel by Margaret Atwood",
+      "views": 250397,
+      "qid": "Q1541914",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Super_Bowl_XLIX",
+      "label": "Super Bowl XLIX",
+      "description": "",
+      "views": 249719,
+      "qid": "Q_en_Super_Bowl_XLIX",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Super_Bowl_50",
+      "label": "Super Bowl 50",
+      "description": "",
+      "views": 224454,
+      "qid": "Q_en_Super_Bowl_50",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Julio_Jones",
+      "label": "Julio Jones",
+      "description": "",
+      "views": 209278,
+      "qid": "Q_en_Julio_Jones",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Who_Shot_Mr._Burns?",
+      "label": "Who Shot Mr. Burns?",
+      "description": "",
+      "views": 206483,
+      "qid": "Q_en_Who_Shot_Mr._Burns?",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Severiano_de_Heredia",
+      "label": "Severiano de Heredia",
+      "description": "",
+      "views": 197375,
+      "qid": "Q_en_Severiano_de_Heredia",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Matthew_Ryan",
+      "label": "Matthew Ryan",
+      "description": "",
+      "views": 194458,
+      "qid": "Q_en_Matthew_Ryan",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Deflategate",
+      "label": "Deflategate",
+      "description": "",
+      "views": 187501,
+      "qid": "Q_en_Deflategate",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 174799,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Aaron_Hernandez",
+      "label": "Aaron Hernandez",
+      "description": "American convicted murderer and football player (1989-2017)",
+      "views": 167067,
+      "qid": "Q302091",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Hernandez.JPG?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "George_H._W._Bush",
+      "label": "George H. W. Bush",
+      "description": "president of the United States from 1989 to 1993 (1924-2018)",
+      "views": 152597,
+      "qid": "Q23505",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Kristen_Stewart",
+      "label": "Kristen Stewart",
+      "description": "American actress",
+      "views": 150644,
+      "qid": "Q126599",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristen_Stewart_at_WWD_Style_Awards_2026.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 150110,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+      "label": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "description": "",
+      "views": 149972,
+      "qid": "Q_en_Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Howie_Long",
+      "label": "Howie Long",
+      "description": "",
+      "views": 148333,
+      "qid": "Q_en_Howie_Long",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Queen_Victoria",
+      "label": "Victoria of the United Kingdom",
+      "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+      "views": 144616,
+      "qid": "Q9439",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Dan_Quinn_(American_football)",
+      "label": "Dan Quinn (American football)",
+      "description": "",
+      "views": 142392,
+      "qid": "Q_en_Dan_Quinn_(American_football)",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Terry_Bradshaw",
+      "label": "Terry Bradshaw",
+      "description": "",
+      "views": 137904,
+      "qid": "Q_en_Terry_Bradshaw",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Ethan_Couch",
+      "label": "Ethan Couch",
+      "description": "American convicted of manslaughter",
+      "views": 135273,
+      "qid": "Q16199966",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "24:_Legacy",
+      "label": "24: Legacy",
+      "description": "",
+      "views": 134855,
+      "qid": "Q_en_24:_Legacy",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "NRG_Stadium",
+      "label": "NRG Stadium",
+      "description": "",
+      "views": 134853,
+      "qid": "Q_en_NRG_Stadium",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Super_Bowl_XXXVIII",
+      "label": "Super Bowl XXXVIII",
+      "description": "",
+      "views": 134298,
+      "qid": "Q_en_Super_Bowl_XXXVIII",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Super_Bowl_XXXVI",
+      "label": "Super Bowl XXXVI",
+      "description": "",
+      "views": 132777,
+      "qid": "Q_en_Super_Bowl_XXXVI",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Peyton_Manning",
+      "label": "Peyton Manning",
+      "description": "American football player (born 1976)",
+      "views": 131516,
+      "qid": "Q7539",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peyton_Manning_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Chris_Long",
+      "label": "Chris Long",
+      "description": "",
+      "views": 130568,
+      "qid": "Q_en_Chris_Long",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Danny_Amendola",
+      "label": "Danny Amendola",
+      "description": "",
+      "views": 129922,
+      "qid": "Q_en_Danny_Amendola",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 127843,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Steve_Bannon",
+      "label": "Steve Bannon",
+      "description": "",
+      "views": 126874,
+      "qid": "Q_en_Steve_Bannon",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Legion_(TV_series)",
+      "label": "Legion (TV series)",
+      "description": "",
+      "views": 126542,
+      "qid": "Q_en_Legion_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Stranger_Things_(TV_series)",
+      "label": "Stranger Things",
+      "description": "American science fiction horror television series",
+      "views": 122741,
+      "qid": "Q19798734",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stranger_Things_logo.svg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "XXX",
+      "label": "XXX",
+      "description": "Wikimedia disambiguation page",
+      "views": 122313,
+      "qid": "Q2149",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Rob_Gronkowski",
+      "label": "Rob Gronkowski",
+      "description": "American football player (born 1989)",
+      "views": 119966,
+      "qid": "Q1334384",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/190326-D-SW162-1977_%2846564316465%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Super_Bowl_XXXIX",
+      "label": "Super Bowl XXXIX",
+      "description": "",
+      "views": 117496,
+      "qid": "Q_en_Super_Bowl_XXXIX",
+      "image": ""
+    }
+  ]
+}

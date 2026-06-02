@@ -4,7 +4,7 @@
   "title": "Greece",
   "description": "country in Southeast Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Acropolis_and_Mount_Hymettus_from_Philopappos_Hill_on_July_18%2C_2019.jpg?width=64",
-  "total": 1513545,
+  "total": 1554963,
   "monthly": [
     {
       "period": "2015-07",
@@ -45,6 +45,22 @@
     {
       "period": "2016-11",
       "views": 24634
+    },
+    {
+      "period": "2017-04",
+      "views": 12467
+    },
+    {
+      "period": "2017-07",
+      "views": 8993
+    },
+    {
+      "period": "2017-10",
+      "views": 10845
+    },
+    {
+      "period": "2017-12",
+      "views": 9113
     },
     {
       "period": "2018-06",
@@ -159,6 +175,10 @@
     {
       "period": "2016",
       "views": 69167
+    },
+    {
+      "period": "2017",
+      "views": 41418
     },
     {
       "period": "2018",

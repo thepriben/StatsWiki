@@ -4,7 +4,7 @@
   "title": "Netflix",
   "description": "American subscription video on-demand over-the-top streaming service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_headquarters.jpg?width=64",
-  "total": 45389212,
+  "total": 46870749,
   "monthly": [
     {
       "period": "2015-07",
@@ -69,6 +69,54 @@
     {
       "period": "2016-12",
       "views": 59832
+    },
+    {
+      "period": "2017-01",
+      "views": 59381
+    },
+    {
+      "period": "2017-02",
+      "views": 10893
+    },
+    {
+      "period": "2017-03",
+      "views": 133284
+    },
+    {
+      "period": "2017-04",
+      "views": 287225
+    },
+    {
+      "period": "2017-05",
+      "views": 137869
+    },
+    {
+      "period": "2017-06",
+      "views": 29253
+    },
+    {
+      "period": "2017-07",
+      "views": 48235
+    },
+    {
+      "period": "2017-08",
+      "views": 184665
+    },
+    {
+      "period": "2017-09",
+      "views": 57051
+    },
+    {
+      "period": "2017-10",
+      "views": 135485
+    },
+    {
+      "period": "2017-11",
+      "views": 171266
+    },
+    {
+      "period": "2017-12",
+      "views": 226930
     },
     {
       "period": "2018-01",
@@ -475,6 +523,10 @@
     {
       "period": "2016",
       "views": 1661137
+    },
+    {
+      "period": "2017",
+      "views": 1481537
     },
     {
       "period": "2018",

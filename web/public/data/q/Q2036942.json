@@ -4,7 +4,7 @@
   "title": "Ted_Cruz",
   "description": "American politician (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Cruz_senatorial_portrait.jpg?width=64",
-  "total": 12817708,
+  "total": 12886149,
   "monthly": [
     {
       "period": "2015-07",
@@ -57,6 +57,18 @@
     {
       "period": "2016-11",
       "views": 103420
+    },
+    {
+      "period": "2017-01",
+      "views": 18973
+    },
+    {
+      "period": "2017-09",
+      "views": 40834
+    },
+    {
+      "period": "2017-10",
+      "views": 8634
     },
     {
       "period": "2018-03",
@@ -215,6 +227,10 @@
     {
       "period": "2016",
       "views": 6399234
+    },
+    {
+      "period": "2017",
+      "views": 68441
     },
     {
       "period": "2018",

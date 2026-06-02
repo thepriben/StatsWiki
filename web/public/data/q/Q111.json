@@ -4,7 +4,7 @@
   "title": "Mars",
   "description": "fourth planet from the Solar System, tellurian and orange-red due to iron oxide",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?width=64",
-  "total": 1804780,
+  "total": 1854954,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,18 @@
     {
       "period": "2016-12",
       "views": 19219
+    },
+    {
+      "period": "2017-02",
+      "views": 22114
+    },
+    {
+      "period": "2017-07",
+      "views": 19298
+    },
+    {
+      "period": "2017-09",
+      "views": 8762
     },
     {
       "period": "2018-02",
@@ -143,6 +155,10 @@
     {
       "period": "2016",
       "views": 155831
+    },
+    {
+      "period": "2017",
+      "views": 50174
     },
     {
       "period": "2018",

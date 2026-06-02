@@ -4,8 +4,24 @@
   "title": "Michael_Hutchence",
   "description": "Australian singer (1960–1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael-hutchence-INXS-1986.jpg?width=64",
-  "total": 1356490,
+  "total": 1512480,
   "monthly": [
+    {
+      "period": "2017-05",
+      "views": 28347
+    },
+    {
+      "period": "2017-09",
+      "views": 18354
+    },
+    {
+      "period": "2017-10",
+      "views": 81424
+    },
+    {
+      "period": "2017-11",
+      "views": 27865
+    },
     {
       "period": "2018-11",
       "views": 10216
@@ -104,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 155990
+    },
     {
       "period": "2018",
       "views": 10216

@@ -4,7 +4,7 @@
   "title": "Academy_Awards",
   "description": "annual awards for cinematic achievements",
   "image": "",
-  "total": 12256186,
+  "total": 13499952,
   "monthly": [
     {
       "period": "2016-01",
@@ -21,6 +21,26 @@
     {
       "period": "2016-12",
       "views": 10659
+    },
+    {
+      "period": "2017-01",
+      "views": 261136
+    },
+    {
+      "period": "2017-02",
+      "views": 783987
+    },
+    {
+      "period": "2017-03",
+      "views": 178707
+    },
+    {
+      "period": "2017-05",
+      "views": 10650
+    },
+    {
+      "period": "2017-12",
+      "views": 9286
     },
     {
       "period": "2018-01",
@@ -207,6 +227,10 @@
     {
       "period": "2016",
       "views": 1364906
+    },
+    {
+      "period": "2017",
+      "views": 1243766
     },
     {
       "period": "2018",

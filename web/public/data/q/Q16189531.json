@@ -4,8 +4,20 @@
   "title": "Tom_Steyer",
   "description": "American businessman, politician, and environmentalist (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SteyerHeadshot.jpeg?width=64",
-  "total": 3614084,
+  "total": 4625605,
   "monthly": [
+    {
+      "period": "2017-10",
+      "views": 396372
+    },
+    {
+      "period": "2017-11",
+      "views": 604850
+    },
+    {
+      "period": "2017-12",
+      "views": 10299
+    },
     {
       "period": "2018-01",
       "views": 31496
@@ -80,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 1011521
+    },
     {
       "period": "2018",
       "views": 165195

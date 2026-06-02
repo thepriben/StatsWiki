@@ -4,7 +4,7 @@
   "title": "Pakistan_Super_League",
   "description": "professional Twenty20 cricket league in Pakistan, contested between six franchises comprising cricketers from Pakistan and around the world",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PSL.svg?width=64",
-  "total": 7165725,
+  "total": 7209772,
   "monthly": [
     {
       "period": "2015-09",
@@ -17,6 +17,14 @@
     {
       "period": "2016-02",
       "views": 290153
+    },
+    {
+      "period": "2017-02",
+      "views": 27633
+    },
+    {
+      "period": "2017-03",
+      "views": 16414
     },
     {
       "period": "2018-02",
@@ -107,6 +115,10 @@
     {
       "period": "2016",
       "views": 290153
+    },
+    {
+      "period": "2017",
+      "views": 44047
     },
     {
       "period": "2018",

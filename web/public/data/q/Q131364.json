@@ -4,7 +4,7 @@
   "title": "New_York_Knicks",
   "description": "National Basketball Association team in New York City",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madison_Square_Garden_%284432377106%29.jpg?width=64",
-  "total": 1073425,
+  "total": 1127589,
   "monthly": [
     {
       "period": "2016-06",
@@ -13,6 +13,14 @@
     {
       "period": "2016-07",
       "views": 20610
+    },
+    {
+      "period": "2017-02",
+      "views": 42851
+    },
+    {
+      "period": "2017-06",
+      "views": 11313
     },
     {
       "period": "2019-02",
@@ -83,6 +91,10 @@
     {
       "period": "2016",
       "views": 46161
+    },
+    {
+      "period": "2017",
+      "views": 54164
     },
     {
       "period": "2019",

@@ -4,11 +4,23 @@
   "title": "Harvey_Weinstein",
   "description": "American film producer and sex offender (born 1952)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvey_Weinstein_C%C3%A9sars_2014_%28cropped%29_%28centered%29.jpg?width=64",
-  "total": 12557741,
+  "total": 20580034,
   "monthly": [
     {
       "period": "2015-10",
       "views": 11527
+    },
+    {
+      "period": "2017-10",
+      "views": 6907049
+    },
+    {
+      "period": "2017-11",
+      "views": 645463
+    },
+    {
+      "period": "2017-12",
+      "views": 469781
     },
     {
       "period": "2018-01",
@@ -359,6 +371,10 @@
     {
       "period": "2015",
       "views": 11527
+    },
+    {
+      "period": "2017",
+      "views": 8022293
     },
     {
       "period": "2018",

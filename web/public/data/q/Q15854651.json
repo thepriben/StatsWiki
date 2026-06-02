@@ -4,7 +4,7 @@
   "title": "2016_in_film",
   "description": "overview of the events of 2016 in film",
   "image": "",
-  "total": 12785910,
+  "total": 14626709,
   "monthly": [
     {
       "period": "2015-11",
@@ -61,6 +61,22 @@
     {
       "period": "2016-12",
       "views": 1059801
+    },
+    {
+      "period": "2017-01",
+      "views": 905421
+    },
+    {
+      "period": "2017-02",
+      "views": 433922
+    },
+    {
+      "period": "2017-03",
+      "views": 376383
+    },
+    {
+      "period": "2017-04",
+      "views": 125073
     }
   ],
   "yearly": [
@@ -71,6 +87,10 @@
     {
       "period": "2016",
       "views": 12243912
+    },
+    {
+      "period": "2017",
+      "views": 1840799
     }
   ]
 }

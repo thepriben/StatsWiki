@@ -4,8 +4,16 @@
   "title": "Charlotte_of_Mecklenburg-Strelitz",
   "description": "Queen consort of Great Britain and Ireland from 1761 to 1818",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte_gainsborough.jpg?width=64",
-  "total": 9278564,
+  "total": 9402235,
   "monthly": [
+    {
+      "period": "2017-11",
+      "views": 90802
+    },
+    {
+      "period": "2017-12",
+      "views": 32869
+    },
     {
       "period": "2018-05",
       "views": 543019
@@ -92,6 +100,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 123671
+    },
     {
       "period": "2018",
       "views": 543019

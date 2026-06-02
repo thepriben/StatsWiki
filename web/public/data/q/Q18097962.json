@@ -4,7 +4,7 @@
   "title": "Pete_Davidson",
   "description": "American comedian and actor (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pete_Davidson_portrait_%28cropped%29.png?width=64",
-  "total": 28360852,
+  "total": 28624144,
   "monthly": [
     {
       "period": "2015-09",
@@ -29,6 +29,30 @@
     {
       "period": "2016-11",
       "views": 13380
+    },
+    {
+      "period": "2017-02",
+      "views": 49327
+    },
+    {
+      "period": "2017-03",
+      "views": 45806
+    },
+    {
+      "period": "2017-05",
+      "views": 70855
+    },
+    {
+      "period": "2017-10",
+      "views": 32768
+    },
+    {
+      "period": "2017-11",
+      "views": 44195
+    },
+    {
+      "period": "2017-12",
+      "views": 20341
     },
     {
       "period": "2018-02",
@@ -375,6 +399,10 @@
     {
       "period": "2016",
       "views": 303119
+    },
+    {
+      "period": "2017",
+      "views": 263292
     },
     {
       "period": "2018",

@@ -4,8 +4,16 @@
   "title": "Chief_executive_officer",
   "description": "highest-ranking corporate officer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Fortune_500_CEOs_in_2015_%28cropped_to_remove_non-CEO%29.jpg?width=64",
-  "total": 26980943,
+  "total": 27001376,
   "monthly": [
+    {
+      "period": "2017-03",
+      "views": 9337
+    },
+    {
+      "period": "2017-04",
+      "views": 11096
+    },
     {
       "period": "2020-10",
       "views": 796754
@@ -112,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 20433
+    },
     {
       "period": "2020",
       "views": 2815437

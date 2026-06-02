@@ -4,7 +4,7 @@
   "title": "Coca-Cola",
   "description": "carbonated brown-colored soft drink",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_%28Germany%29.jpg?width=64",
-  "total": 13928926,
+  "total": 14004260,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,18 @@
     {
       "period": "2016-09",
       "views": 8744
+    },
+    {
+      "period": "2017-01",
+      "views": 49251
+    },
+    {
+      "period": "2017-03",
+      "views": 12293
+    },
+    {
+      "period": "2017-05",
+      "views": 13790
     },
     {
       "period": "2018-04",
@@ -203,6 +215,10 @@
     {
       "period": "2016",
       "views": 217994
+    },
+    {
+      "period": "2017",
+      "views": 75334
     },
     {
       "period": "2018",

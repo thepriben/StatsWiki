@@ -1,10 +1,10 @@
 {
   "qid": "Q483020",
   "label": "Paris Saint-Germain FC",
-  "title": "Paris_Saint-Germain_F.C.",
+  "title": "Paris_Saint-Germain_FC",
   "description": "association football club in Paris, France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiev-PSG_%285%29.jpg?width=64",
-  "total": 13966441,
+  "total": 15268634,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,38 @@
     {
       "period": "2016-11",
       "views": 9932
+    },
+    {
+      "period": "2017-02",
+      "views": 95328
+    },
+    {
+      "period": "2017-03",
+      "views": 44902
+    },
+    {
+      "period": "2017-07",
+      "views": 113012
+    },
+    {
+      "period": "2017-08",
+      "views": 796616
+    },
+    {
+      "period": "2017-09",
+      "views": 212469
+    },
+    {
+      "period": "2017-10",
+      "views": 9531
+    },
+    {
+      "period": "2017-11",
+      "views": 21365
+    },
+    {
+      "period": "2017-12",
+      "views": 8970
     },
     {
       "period": "2018-01",
@@ -375,6 +407,10 @@
     {
       "period": "2016",
       "views": 250952
+    },
+    {
+      "period": "2017",
+      "views": 1302193
     },
     {
       "period": "2018",

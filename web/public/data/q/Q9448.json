@@ -4,7 +4,7 @@
   "title": "Premier_League",
   "description": "English men's association top football league",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_Kompany_holds_up_the_Premier_League_trophy_2012.jpg?width=64",
-  "total": 61224980,
+  "total": 63626462,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,54 @@
     {
       "period": "2016-12",
       "views": 194364
+    },
+    {
+      "period": "2017-01",
+      "views": 174943
+    },
+    {
+      "period": "2017-02",
+      "views": 188926
+    },
+    {
+      "period": "2017-03",
+      "views": 107206
+    },
+    {
+      "period": "2017-04",
+      "views": 291827
+    },
+    {
+      "period": "2017-05",
+      "views": 548648
+    },
+    {
+      "period": "2017-06",
+      "views": 19421
+    },
+    {
+      "period": "2017-07",
+      "views": 82744
+    },
+    {
+      "period": "2017-08",
+      "views": 419370
+    },
+    {
+      "period": "2017-09",
+      "views": 144787
+    },
+    {
+      "period": "2017-10",
+      "views": 93890
+    },
+    {
+      "period": "2017-11",
+      "views": 103065
+    },
+    {
+      "period": "2017-12",
+      "views": 226655
     },
     {
       "period": "2018-01",
@@ -495,6 +543,10 @@
     {
       "period": "2016",
       "views": 2904788
+    },
+    {
+      "period": "2017",
+      "views": 2401482
     },
     {
       "period": "2018",

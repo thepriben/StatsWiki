@@ -4,8 +4,12 @@
   "title": "A_Quiet_Place_(film)",
   "description": "2018 film directed by John Krasinski",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Quiet_Place_series_logo.svg?width=64",
-  "total": 14593246,
+  "total": 14786430,
   "monthly": [
+    {
+      "period": "2017-11",
+      "views": 193184
+    },
     {
       "period": "2018-02",
       "views": 280430
@@ -120,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 193184
+    },
     {
       "period": "2018",
       "views": 10826778

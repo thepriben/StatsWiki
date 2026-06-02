@@ -4,8 +4,52 @@
   "title": "13_Reasons_Why",
   "description": "2017 American teen drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/13_Reasons_Why.png?width=64",
-  "total": 10537111,
+  "total": 25143016,
   "monthly": [
+    {
+      "period": "2017-01",
+      "views": 17427
+    },
+    {
+      "period": "2017-03",
+      "views": 122096
+    },
+    {
+      "period": "2017-04",
+      "views": 8312990
+    },
+    {
+      "period": "2017-05",
+      "views": 2870483
+    },
+    {
+      "period": "2017-06",
+      "views": 969257
+    },
+    {
+      "period": "2017-07",
+      "views": 601896
+    },
+    {
+      "period": "2017-08",
+      "views": 468103
+    },
+    {
+      "period": "2017-09",
+      "views": 340760
+    },
+    {
+      "period": "2017-10",
+      "views": 362067
+    },
+    {
+      "period": "2017-11",
+      "views": 261030
+    },
+    {
+      "period": "2017-12",
+      "views": 279796
+    },
     {
       "period": "2018-01",
       "views": 344366
@@ -100,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 14605905
+    },
     {
       "period": "2018",
       "views": 6415959

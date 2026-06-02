@@ -4,8 +4,24 @@
   "title": "Taika_Waititi",
   "description": "New Zealand filmmaker, actor, and comedian (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taika_Waititi_photo_by_pouria_afkhami_%28cropped%29.jpg?width=64",
-  "total": 13157161,
+  "total": 14067603,
   "monthly": [
+    {
+      "period": "2017-04",
+      "views": 67771
+    },
+    {
+      "period": "2017-07",
+      "views": 37416
+    },
+    {
+      "period": "2017-10",
+      "views": 210681
+    },
+    {
+      "period": "2017-11",
+      "views": 594574
+    },
     {
       "period": "2018-01",
       "views": 42957
@@ -308,6 +324,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 910442
+    },
     {
       "period": "2018",
       "views": 312815

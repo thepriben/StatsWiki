@@ -4,8 +4,20 @@
   "title": "Achraf_Hakimi",
   "description": "Moroccan association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Achraf_Hakimi_%28cropped2%29.jpg?width=64",
-  "total": 3024891,
+  "total": 3100689,
   "monthly": [
+    {
+      "period": "2017-10",
+      "views": 43872
+    },
+    {
+      "period": "2017-11",
+      "views": 12769
+    },
+    {
+      "period": "2017-12",
+      "views": 19157
+    },
     {
       "period": "2018-06",
       "views": 37575
@@ -128,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 75798
+    },
     {
       "period": "2018",
       "views": 37575

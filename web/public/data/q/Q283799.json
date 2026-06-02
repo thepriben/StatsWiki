@@ -4,7 +4,7 @@
   "title": "XXX_(2002_film)",
   "description": "2002 film directed by Rob Cohen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64",
-  "total": 72346955,
+  "total": 77410382,
   "monthly": [
     {
       "period": "2015-12",
@@ -41,6 +41,54 @@
     {
       "period": "2016-12",
       "views": 245660
+    },
+    {
+      "period": "2017-01",
+      "views": 957974
+    },
+    {
+      "period": "2017-02",
+      "views": 868203
+    },
+    {
+      "period": "2017-03",
+      "views": 803557
+    },
+    {
+      "period": "2017-04",
+      "views": 525567
+    },
+    {
+      "period": "2017-05",
+      "views": 270287
+    },
+    {
+      "period": "2017-06",
+      "views": 342987
+    },
+    {
+      "period": "2017-07",
+      "views": 273317
+    },
+    {
+      "period": "2017-08",
+      "views": 46343
+    },
+    {
+      "period": "2017-09",
+      "views": 8496
+    },
+    {
+      "period": "2017-10",
+      "views": 304722
+    },
+    {
+      "period": "2017-11",
+      "views": 393200
+    },
+    {
+      "period": "2017-12",
+      "views": 268774
     },
     {
       "period": "2018-01",
@@ -387,6 +435,10 @@
     {
       "period": "2016",
       "views": 1479968
+    },
+    {
+      "period": "2017",
+      "views": 5063427
     },
     {
       "period": "2018",

@@ -4,7 +4,7 @@
   "title": "Skyfall",
   "description": "2012 film by Sam Mendes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_skyfall.svg?width=64",
-  "total": 2307939,
+  "total": 2396404,
   "monthly": [
     {
       "period": "2015-07",
@@ -57,6 +57,26 @@
     {
       "period": "2016-12",
       "views": 13541
+    },
+    {
+      "period": "2017-01",
+      "views": 16055
+    },
+    {
+      "period": "2017-03",
+      "views": 11550
+    },
+    {
+      "period": "2017-06",
+      "views": 20423
+    },
+    {
+      "period": "2017-07",
+      "views": 13208
+    },
+    {
+      "period": "2017-12",
+      "views": 27229
     },
     {
       "period": "2018-08",
@@ -139,6 +159,10 @@
     {
       "period": "2016",
       "views": 183227
+    },
+    {
+      "period": "2017",
+      "views": 88465
     },
     {
       "period": "2018",

@@ -4,8 +4,16 @@
   "title": "Scooter_Braun",
   "description": "American talent manager and businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scott_%28Scooter%29_Braun_2022.jpg?width=64",
-  "total": 2191054,
+  "total": 2315553,
   "monthly": [
+    {
+      "period": "2017-05",
+      "views": 24118
+    },
+    {
+      "period": "2017-06",
+      "views": 100381
+    },
     {
       "period": "2018-02",
       "views": 24265
@@ -140,6 +148,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 124499
+    },
     {
       "period": "2018",
       "views": 24265

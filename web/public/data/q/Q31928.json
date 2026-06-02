@@ -4,8 +4,16 @@
   "title": "Fuck",
   "description": "profane English-language word",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FUCK_DONALD_TRUMP.jpg?width=64",
-  "total": 17712318,
+  "total": 17805284,
   "monthly": [
+    {
+      "period": "2017-02",
+      "views": 21584
+    },
+    {
+      "period": "2017-09",
+      "views": 71382
+    },
     {
       "period": "2025-06",
       "views": 1799751
@@ -32,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 92966
+    },
     {
       "period": "2025",
       "views": 17712318

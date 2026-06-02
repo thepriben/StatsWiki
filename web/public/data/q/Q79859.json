@@ -4,7 +4,7 @@
   "title": "2014_FIFA_World_Cup",
   "description": "20th FIFA World Cup, held in Brazil",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alemanha-campea20140713_0007.jpg?width=64",
-  "total": 10789886,
+  "total": 11368179,
   "monthly": [
     {
       "period": "2015-07",
@@ -37,6 +37,34 @@
     {
       "period": "2016-08",
       "views": 42693
+    },
+    {
+      "period": "2017-03",
+      "views": 10015
+    },
+    {
+      "period": "2017-06",
+      "views": 153365
+    },
+    {
+      "period": "2017-07",
+      "views": 24827
+    },
+    {
+      "period": "2017-09",
+      "views": 50329
+    },
+    {
+      "period": "2017-10",
+      "views": 143660
+    },
+    {
+      "period": "2017-11",
+      "views": 124933
+    },
+    {
+      "period": "2017-12",
+      "views": 71164
     },
     {
       "period": "2018-03",
@@ -127,6 +155,10 @@
     {
       "period": "2016",
       "views": 1042690
+    },
+    {
+      "period": "2017",
+      "views": 578293
     },
     {
       "period": "2018",

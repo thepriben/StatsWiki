@@ -4,7 +4,7 @@
   "title": "The_Beatles",
   "description": "English pop rock band (1960–1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beatles_Trenter_1963.jpg?width=64",
-  "total": 41259509,
+  "total": 45847884,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,54 @@
     {
       "period": "2016-12",
       "views": 367875
+    },
+    {
+      "period": "2017-01",
+      "views": 389202
+    },
+    {
+      "period": "2017-02",
+      "views": 351620
+    },
+    {
+      "period": "2017-03",
+      "views": 390326
+    },
+    {
+      "period": "2017-04",
+      "views": 359198
+    },
+    {
+      "period": "2017-05",
+      "views": 429378
+    },
+    {
+      "period": "2017-06",
+      "views": 421905
+    },
+    {
+      "period": "2017-07",
+      "views": 429283
+    },
+    {
+      "period": "2017-08",
+      "views": 318098
+    },
+    {
+      "period": "2017-09",
+      "views": 330002
+    },
+    {
+      "period": "2017-10",
+      "views": 363354
+    },
+    {
+      "period": "2017-11",
+      "views": 412792
+    },
+    {
+      "period": "2017-12",
+      "views": 393217
     },
     {
       "period": "2018-01",
@@ -495,6 +543,10 @@
     {
       "period": "2016",
       "views": 4231865
+    },
+    {
+      "period": "2017",
+      "views": 4588375
     },
     {
       "period": "2018",

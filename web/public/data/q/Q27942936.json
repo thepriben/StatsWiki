@@ -4,8 +4,24 @@
   "title": "The_Greatest_Showman",
   "description": "2017 film directed by Michael Gracey",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Greatest_Showman_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%26_Keala_Settle_%2825375350117%29.jpg?width=64",
-  "total": 11391222,
+  "total": 12865815,
   "monthly": [
+    {
+      "period": "2017-06",
+      "views": 78380
+    },
+    {
+      "period": "2017-07",
+      "views": 9798
+    },
+    {
+      "period": "2017-11",
+      "views": 162411
+    },
+    {
+      "period": "2017-12",
+      "views": 1224004
+    },
     {
       "period": "2018-01",
       "views": 1802317
@@ -176,6 +192,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 1474593
+    },
     {
       "period": "2018",
       "views": 9362986

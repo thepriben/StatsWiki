@@ -4,7 +4,7 @@
   "title": "IPTV",
   "description": "system through which television services are delivered using the Internet protocol suite",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IPTVnet.png?width=64",
-  "total": 6118152,
+  "total": 8789648,
   "monthly": [
     {
       "period": "2015-10",
@@ -49,6 +49,34 @@
     {
       "period": "2016-12",
       "views": 1499156
+    },
+    {
+      "period": "2017-01",
+      "views": 582140
+    },
+    {
+      "period": "2017-02",
+      "views": 56304
+    },
+    {
+      "period": "2017-03",
+      "views": 117467
+    },
+    {
+      "period": "2017-04",
+      "views": 271752
+    },
+    {
+      "period": "2017-05",
+      "views": 594432
+    },
+    {
+      "period": "2017-06",
+      "views": 571279
+    },
+    {
+      "period": "2017-07",
+      "views": 478122
     }
   ],
   "yearly": [
@@ -59,6 +87,10 @@
     {
       "period": "2016",
       "views": 5161450
+    },
+    {
+      "period": "2017",
+      "views": 2671496
     }
   ]
 }

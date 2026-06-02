@@ -4,7 +4,7 @@
   "title": "Pluto",
   "description": "dwarf planet in the Solar System",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Global_LORRI_mosaic_of_Pluto_in_true_colour.jpg?width=64",
-  "total": 3135464,
+  "total": 3182278,
   "monthly": [
     {
       "period": "2015-07",
@@ -53,6 +53,18 @@
     {
       "period": "2016-12",
       "views": 53831
+    },
+    {
+      "period": "2017-02",
+      "views": 23449
+    },
+    {
+      "period": "2017-03",
+      "views": 12451
+    },
+    {
+      "period": "2017-05",
+      "views": 10914
     },
     {
       "period": "2018-05",
@@ -139,6 +151,10 @@
     {
       "period": "2016",
       "views": 251955
+    },
+    {
+      "period": "2017",
+      "views": 46814
     },
     {
       "period": "2018",

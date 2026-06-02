@@ -4,8 +4,16 @@
   "title": "Jon_Ossoff",
   "description": "American politician and filmmaker (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Ossoff_Senate_Portrait_2021.jpg?width=64",
-  "total": 3647034,
+  "total": 4195844,
   "monthly": [
+    {
+      "period": "2017-04",
+      "views": 312437
+    },
+    {
+      "period": "2017-06",
+      "views": 236373
+    },
     {
       "period": "2019-09",
       "views": 16877
@@ -80,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 548810
+    },
     {
       "period": "2019",
       "views": 16877

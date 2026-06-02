@@ -4,8 +4,12 @@
   "title": "Stephen_Graham",
   "description": "English actor (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Graham.jpg?width=64",
-  "total": 5236933,
+  "total": 5258875,
   "monthly": [
+    {
+      "period": "2017-05",
+      "views": 21942
+    },
     {
       "period": "2019-04",
       "views": 60762
@@ -124,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 21942
+    },
     {
       "period": "2019",
       "views": 587886

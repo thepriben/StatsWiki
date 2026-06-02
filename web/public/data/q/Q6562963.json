@@ -4,8 +4,16 @@
   "title": "List_of_Australian_stand-up_comedians",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 16848152,
+  "total": 18900813,
   "monthly": [
+    {
+      "period": "2017-02",
+      "views": 27953
+    },
+    {
+      "period": "2017-12",
+      "views": 2024708
+    },
     {
       "period": "2018-01",
       "views": 2283970
@@ -44,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 2052661
+    },
     {
       "period": "2018",
       "views": 16848152

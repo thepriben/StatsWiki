@@ -4,8 +4,12 @@
   "title": "List_of_most-subscribed_YouTube_channels",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 12661498,
+  "total": 12707181,
   "monthly": [
+    {
+      "period": "2017-12",
+      "views": 45683
+    },
     {
       "period": "2018-01",
       "views": 31729
@@ -284,6 +288,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 45683
+    },
     {
       "period": "2018",
       "views": 1544090

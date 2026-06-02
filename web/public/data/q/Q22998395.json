@@ -4,8 +4,12 @@
   "title": "Aquaman_(film)",
   "description": "2018 film directed by James Wan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg?width=64",
-  "total": 12862848,
+  "total": 13051670,
   "monthly": [
+    {
+      "period": "2017-11",
+      "views": 188822
+    },
     {
       "period": "2018-06",
       "views": 41510
@@ -140,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 188822
+    },
     {
       "period": "2018",
       "views": 4602568

@@ -4,7 +4,7 @@
   "title": "Fantastic_Beasts_and_Where_to_Find_Them_(film)",
   "description": "2016 film directed by David Yates",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fantastic_Beasts_%26_Where_to_Find_Them_Cast_%28Cropped%29.jpg?width=64",
-  "total": 12569826,
+  "total": 17170126,
   "monthly": [
     {
       "period": "2015-11",
@@ -49,6 +49,54 @@
     {
       "period": "2016-12",
       "views": 1476874
+    },
+    {
+      "period": "2017-01",
+      "views": 872284
+    },
+    {
+      "period": "2017-02",
+      "views": 538256
+    },
+    {
+      "period": "2017-03",
+      "views": 756736
+    },
+    {
+      "period": "2017-04",
+      "views": 699385
+    },
+    {
+      "period": "2017-05",
+      "views": 345441
+    },
+    {
+      "period": "2017-06",
+      "views": 222191
+    },
+    {
+      "period": "2017-07",
+      "views": 166362
+    },
+    {
+      "period": "2017-08",
+      "views": 269591
+    },
+    {
+      "period": "2017-09",
+      "views": 275944
+    },
+    {
+      "period": "2017-10",
+      "views": 134353
+    },
+    {
+      "period": "2017-11",
+      "views": 147453
+    },
+    {
+      "period": "2017-12",
+      "views": 172304
     },
     {
       "period": "2018-01",
@@ -211,6 +259,10 @@
     {
       "period": "2016",
       "views": 6271019
+    },
+    {
+      "period": "2017",
+      "views": 4600300
     },
     {
       "period": "2018",

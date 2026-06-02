@@ -4,8 +4,12 @@
   "title": "MacOS",
   "description": "operating system for Apple computers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2010-01-21_MacBook_Pro_Mac_OS_X_Snow_Leopard_with_Earth_background.jpg?width=64",
-  "total": 14294564,
+  "total": 14349541,
   "monthly": [
+    {
+      "period": "2017-09",
+      "views": 54977
+    },
     {
       "period": "2020-06",
       "views": 27394
@@ -148,6 +152,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 54977
+    },
     {
       "period": "2020",
       "views": 2038516

@@ -4,7 +4,7 @@
   "title": "Dilwale_(2015_film)",
   "description": "2015 film directed by Rohit Shetty",
   "image": "",
-  "total": 7144817,
+  "total": 7173764,
   "monthly": [
     {
       "period": "2015-07",
@@ -53,6 +53,14 @@
     {
       "period": "2016-07",
       "views": 13530
+    },
+    {
+      "period": "2017-04",
+      "views": 14097
+    },
+    {
+      "period": "2017-10",
+      "views": 14850
     }
   ],
   "yearly": [
@@ -63,6 +71,10 @@
     {
       "period": "2016",
       "views": 2169901
+    },
+    {
+      "period": "2017",
+      "views": 28947
     }
   ]
 }

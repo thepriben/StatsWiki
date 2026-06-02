@@ -4,7 +4,7 @@
   "title": "Wikipedia",
   "description": "free multilingual online encyclopedia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64",
-  "total": 150686311,
+  "total": 157757749,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,54 @@
     {
       "period": "2016-12",
       "views": 677620
+    },
+    {
+      "period": "2017-01",
+      "views": 710346
+    },
+    {
+      "period": "2017-02",
+      "views": 623342
+    },
+    {
+      "period": "2017-03",
+      "views": 703221
+    },
+    {
+      "period": "2017-04",
+      "views": 582546
+    },
+    {
+      "period": "2017-05",
+      "views": 631540
+    },
+    {
+      "period": "2017-06",
+      "views": 530703
+    },
+    {
+      "period": "2017-07",
+      "views": 537227
+    },
+    {
+      "period": "2017-08",
+      "views": 533846
+    },
+    {
+      "period": "2017-09",
+      "views": 518862
+    },
+    {
+      "period": "2017-10",
+      "views": 574873
+    },
+    {
+      "period": "2017-11",
+      "views": 576257
+    },
+    {
+      "period": "2017-12",
+      "views": 548675
     },
     {
       "period": "2018-01",
@@ -495,6 +543,10 @@
     {
       "period": "2016",
       "views": 8104811
+    },
+    {
+      "period": "2017",
+      "views": 7071438
     },
     {
       "period": "2018",

@@ -4,7 +4,7 @@
   "title": "Bed_size",
   "description": "dimensions of a mattress and the names by which standard sizes are called",
   "image": "",
-  "total": 777219,
+  "total": 870122,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,30 @@
     {
       "period": "2016-08",
       "views": 8612
+    },
+    {
+      "period": "2017-03",
+      "views": 26264
+    },
+    {
+      "period": "2017-04",
+      "views": 9162
+    },
+    {
+      "period": "2017-05",
+      "views": 20771
+    },
+    {
+      "period": "2017-07",
+      "views": 8694
+    },
+    {
+      "period": "2017-08",
+      "views": 8884
+    },
+    {
+      "period": "2017-09",
+      "views": 19128
     }
   ],
   "yearly": [
@@ -35,6 +59,10 @@
     {
       "period": "2016",
       "views": 8612
+    },
+    {
+      "period": "2017",
+      "views": 92903
     }
   ]
 }

@@ -4,8 +4,12 @@
   "title": "Gaza_Strip",
   "description": "self-governing Palestinian territory next to Egypt and Israel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Forced_Displacement_of_Gaza_Strip_Residents_During_the_Gaza-Israel_War_23-25.jpg?width=64",
-  "total": 12661632,
+  "total": 12710425,
   "monthly": [
+    {
+      "period": "2017-12",
+      "views": 48793
+    },
     {
       "period": "2018-05",
       "views": 194135
@@ -112,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 48793
+    },
     {
       "period": "2018",
       "views": 206175

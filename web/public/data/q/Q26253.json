@@ -4,8 +4,16 @@
   "title": "Madeira",
   "description": "Autonomous Region of Portugal in the archipelago of Madeira",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madeira_71.jpg?width=64",
-  "total": 8333178,
+  "total": 8353394,
   "monthly": [
+    {
+      "period": "2017-03",
+      "views": 9367
+    },
+    {
+      "period": "2017-11",
+      "views": 10849
+    },
     {
       "period": "2018-06",
       "views": 10869
@@ -68,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 20216
+    },
     {
       "period": "2018",
       "views": 10869

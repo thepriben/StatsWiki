@@ -4,7 +4,7 @@
   "title": "2020_Summer_Olympics",
   "description": "games of the XXXII Olympiad, in Tokyo, Japan, held in 2021",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2020_Summer_Olympics_text_logo.svg?width=64",
-  "total": 20379553,
+  "total": 20513574,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,18 @@
     {
       "period": "2016-09",
       "views": 9003
+    },
+    {
+      "period": "2017-07",
+      "views": 29699
+    },
+    {
+      "period": "2017-08",
+      "views": 76370
+    },
+    {
+      "period": "2017-09",
+      "views": 27952
     },
     {
       "period": "2018-02",
@@ -171,6 +183,10 @@
     {
       "period": "2016",
       "views": 2031914
+    },
+    {
+      "period": "2017",
+      "views": 134021
     },
     {
       "period": "2018",

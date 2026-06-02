@@ -4,8 +4,16 @@
   "title": "List_of_Canadian_stand-up_comedians",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 16841657,
+  "total": 18893354,
   "monthly": [
+    {
+      "period": "2017-02",
+      "views": 27947
+    },
+    {
+      "period": "2017-12",
+      "views": 2023750
+    },
     {
       "period": "2018-01",
       "views": 2283032
@@ -44,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 2051697
+    },
     {
       "period": "2018",
       "views": 16841657

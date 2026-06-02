@@ -4,8 +4,12 @@
   "title": "Markwayne_Mullin",
   "description": "American politician (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DHS_Secretary_Markwayne_Mullin_Official_Portrait_%2855166865268%29.jpg?width=64",
-  "total": 3379451,
+  "total": 3392298,
   "monthly": [
+    {
+      "period": "2017-04",
+      "views": 12847
+    },
     {
       "period": "2020-05",
       "views": 11317
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 12847
+    },
     {
       "period": "2020",
       "views": 11317

@@ -4,7 +4,7 @@
   "title": "San_Antonio_Spurs",
   "description": "American professional basketball team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SPURSStadium.jpg?width=64",
-  "total": 554914,
+  "total": 620435,
   "monthly": [
     {
       "period": "2016-05",
@@ -25,6 +25,14 @@
     {
       "period": "2016-12",
       "views": 13199
+    },
+    {
+      "period": "2017-05",
+      "views": 54935
+    },
+    {
+      "period": "2017-06",
+      "views": 10586
     },
     {
       "period": "2018-06",
@@ -87,6 +95,10 @@
     {
       "period": "2016",
       "views": 81793
+    },
+    {
+      "period": "2017",
+      "views": 65521
     },
     {
       "period": "2018",

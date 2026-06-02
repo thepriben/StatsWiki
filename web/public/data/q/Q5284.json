@@ -4,7 +4,7 @@
   "title": "Bill_Gates",
   "description": "American businessman, investor, and philanthropist (born 1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg?width=64",
-  "total": 34023372,
+  "total": 39958602,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,54 @@
     {
       "period": "2016-12",
       "views": 448267
+    },
+    {
+      "period": "2017-01",
+      "views": 595572
+    },
+    {
+      "period": "2017-02",
+      "views": 553254
+    },
+    {
+      "period": "2017-03",
+      "views": 571354
+    },
+    {
+      "period": "2017-04",
+      "views": 463359
+    },
+    {
+      "period": "2017-05",
+      "views": 524464
+    },
+    {
+      "period": "2017-06",
+      "views": 432008
+    },
+    {
+      "period": "2017-07",
+      "views": 490293
+    },
+    {
+      "period": "2017-08",
+      "views": 447643
+    },
+    {
+      "period": "2017-09",
+      "views": 477803
+    },
+    {
+      "period": "2017-10",
+      "views": 473100
+    },
+    {
+      "period": "2017-11",
+      "views": 496329
+    },
+    {
+      "period": "2017-12",
+      "views": 410051
     },
     {
       "period": "2018-01",
@@ -447,6 +495,10 @@
     {
       "period": "2016",
       "views": 5669655
+    },
+    {
+      "period": "2017",
+      "views": 5935230
     },
     {
       "period": "2018",

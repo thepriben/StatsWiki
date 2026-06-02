@@ -4,7 +4,7 @@
   "title": "Suits_(TV_series)",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 7606803,
+  "total": 11386347,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,54 @@
     {
       "period": "2016-12",
       "views": 151411
+    },
+    {
+      "period": "2017-01",
+      "views": 472115
+    },
+    {
+      "period": "2017-02",
+      "views": 468130
+    },
+    {
+      "period": "2017-03",
+      "views": 492417
+    },
+    {
+      "period": "2017-04",
+      "views": 265283
+    },
+    {
+      "period": "2017-05",
+      "views": 106700
+    },
+    {
+      "period": "2017-06",
+      "views": 197922
+    },
+    {
+      "period": "2017-07",
+      "views": 443225
+    },
+    {
+      "period": "2017-08",
+      "views": 420734
+    },
+    {
+      "period": "2017-09",
+      "views": 447289
+    },
+    {
+      "period": "2017-10",
+      "views": 253630
+    },
+    {
+      "period": "2017-11",
+      "views": 199096
+    },
+    {
+      "period": "2017-12",
+      "views": 13003
     }
   ],
   "yearly": [
@@ -87,6 +135,10 @@
     {
       "period": "2016",
       "views": 5046661
+    },
+    {
+      "period": "2017",
+      "views": 3779544
     }
   ]
 }

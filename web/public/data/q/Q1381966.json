@@ -4,8 +4,12 @@
   "title": "Flipkart",
   "description": "Indian electronic commerce company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flipkart_logo_%282026%29.svg?width=64",
-  "total": 13589211,
+  "total": 13639836,
   "monthly": [
+    {
+      "period": "2017-09",
+      "views": 50625
+    },
     {
       "period": "2018-05",
       "views": 166022
@@ -136,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2017",
+      "views": 50625
+    },
     {
       "period": "2018",
       "views": 209820

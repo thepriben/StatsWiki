@@ -4,7 +4,7 @@
   "title": "Thanksgiving",
   "description": "holiday in various countries",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_First_Thanksgiving_cph.3g04961FXD.jpg?width=64",
-  "total": 13715285,
+  "total": 15415660,
   "monthly": [
     {
       "period": "2015-10",
@@ -29,6 +29,18 @@
     {
       "period": "2016-12",
       "views": 23655
+    },
+    {
+      "period": "2017-10",
+      "views": 109412
+    },
+    {
+      "period": "2017-11",
+      "views": 1582239
+    },
+    {
+      "period": "2017-12",
+      "views": 8724
     },
     {
       "period": "2018-10",
@@ -123,6 +135,10 @@
     {
       "period": "2016",
       "views": 2186385
+    },
+    {
+      "period": "2017",
+      "views": 1700375
     },
     {
       "period": "2018",

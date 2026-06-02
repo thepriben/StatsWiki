@@ -2,9 +2,9 @@
   "qid": "Q2904131",
   "label": "Jeffrey Epstein",
   "title": "Jeffrey_Epstein",
-  "description": "American financier and sex offender (1953–2019)",
+  "description": "American sex offender and financier (1953–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64",
-  "total": 72390316,
+  "total": 72402138,
   "monthly": [
     {
       "period": "2016-05",
@@ -21,6 +21,10 @@
     {
       "period": "2016-11",
       "views": 212720
+    },
+    {
+      "period": "2017-03",
+      "views": 11822
     },
     {
       "period": "2018-06",
@@ -371,6 +375,10 @@
     {
       "period": "2016",
       "views": 417544
+    },
+    {
+      "period": "2017",
+      "views": 11822
     },
     {
       "period": "2018",
