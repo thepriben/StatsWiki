@@ -176,23 +176,17 @@ All ingest is **idempotent** — existing days are skipped.
 
 ### Export JSON (`web/public/data/`)
 
-```json
-{
-  "period": "May 2026",
-  "lines": [
-    {
-      "rank": 1,
-      "title": "Donald_Trump",
-      "label": "Donald Trump",
-      "description": "…",
-      "views": 10777561,
-      "qid": "Q22686",
-      "image": "https://commons.wikimedia.org/…"
-    }
-  ],
-  "nav": [{ "label": "01", "path": "2026/05/01" }]
-}
-```
+Each file has `period`, `lines` (array of ranked articles), and optionally `nav` (sub-links on year/month views).
+
+| Field | Description |
+|-------|-------------|
+| `rank` | 1–50 |
+| `title` | Wikipedia title (`Article_Name`) |
+| `label` | Display name from Wikidata |
+| `description` | Short Wikidata description |
+| `views` | View count for the period |
+| `qid` | Wikidata ID (e.g. `Q12345`) |
+| `image` | Commons thumbnail URL |
 
 `manifest.json` — `start`, `end`, `updated`, `language`.
 
