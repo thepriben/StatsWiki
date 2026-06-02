@@ -96,34 +96,45 @@ def tweet_yesterday(n: int = 5) -> bool:
 
 def main():
     import argparse
+    import sys
+
     p = argparse.ArgumentParser(description="Tweet yesterday's top N articles")
     p.add_argument("--top", type=int, default=5)
+    p.add_argument("--date", help="YYYY-MM-DD (default: yesterday)")
     p.add_argument("--dry-run", action="store_true", help="Print tweet without posting")
+    p.add_argument("--force", action="store_true", help="Post even if already tweeted")
+    p.add_argument("--strict", action="store_true", help="Exit 1 if tweet was not posted")
     args = p.parse_args()
 
-    day = date.today() - timedelta(days=1)
+    day = date.fromisoformat(args.date) if args.date else date.today() - timedelta(days=1)
     path = _day_json(day)
     if not path.exists():
         print(f"No data for {day}")
-        return
+        sys.exit(1 if args.strict else 0)
 
     payload = json.loads(path.read_text())
-    text = build_tweet(day, payload.get("lines") or [], n=args.top)
+    lines = payload.get("lines") or []
+    if not lines:
+        print(f"Empty ranking for {day}")
+        sys.exit(1 if args.strict else 0)
+
+    text = build_tweet(day, lines, n=args.top)
     if args.dry_run:
         print(text)
         return
 
-    if _already_tweeted(day):
+    if not args.force and _already_tweeted(day):
         print(f"Already tweeted {day}")
-        return
+        sys.exit(0 if not args.strict else 1)
 
     if not TWITTER_ENABLED:
         print("Twitter credentials not configured")
         print(text)
-        return
+        sys.exit(1 if args.strict else 0)
 
     post_tweet(text)
     _mark_tweeted(day)
+    print(text)
 
 
 if __name__ == "__main__":
