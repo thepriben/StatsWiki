@@ -1,0 +1,52 @@
+{
+  "qid": "Q315796",
+  "label": "Santa Claus",
+  "title": "Santa_Claus",
+  "description": "legendary figure said to deliver gifts to people on Christmas Eve",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jolly-old-saint-nick.gif?width=64",
+  "total": 2300302,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 144787
+    },
+    {
+      "period": "2015-12",
+      "views": 1022411
+    },
+    {
+      "period": "2024-11",
+      "views": 31790
+    },
+    {
+      "period": "2024-12",
+      "views": 621552
+    },
+    {
+      "period": "2025-12",
+      "views": 470936
+    },
+    {
+      "period": "2026-05",
+      "views": 8826
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1167198
+    },
+    {
+      "period": "2024",
+      "views": 653342
+    },
+    {
+      "period": "2025",
+      "views": 470936
+    },
+    {
+      "period": "2026",
+      "views": 8826
+    }
+  ]
+}

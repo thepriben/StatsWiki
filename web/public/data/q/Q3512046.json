@@ -1,0 +1,64 @@
+{
+  "qid": "Q3512046",
+  "label": "Jurassic World",
+  "title": "Jurassic_World",
+  "description": "2015 film directed by Colin Trevorrow",
+  "image": "",
+  "total": 6000757,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 2331660
+    },
+    {
+      "period": "2015-08",
+      "views": 825595
+    },
+    {
+      "period": "2015-09",
+      "views": 542301
+    },
+    {
+      "period": "2015-10",
+      "views": 672770
+    },
+    {
+      "period": "2015-11",
+      "views": 509355
+    },
+    {
+      "period": "2015-12",
+      "views": 529051
+    },
+    {
+      "period": "2025-02",
+      "views": 43689
+    },
+    {
+      "period": "2025-06",
+      "views": 95516
+    },
+    {
+      "period": "2025-07",
+      "views": 419859
+    },
+    {
+      "period": "2025-08",
+      "views": 21628
+    },
+    {
+      "period": "2025-11",
+      "views": 9333
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 5410732
+    },
+    {
+      "period": "2025",
+      "views": 590025
+    }
+  ]
+}

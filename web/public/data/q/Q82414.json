@@ -1,0 +1,44 @@
+{
+  "qid": "Q82414",
+  "label": "Winter Olympic Games",
+  "title": "Winter_Olympic_Games",
+  "description": "major international multi-sport event",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Athlete%27s_oath_at_1924_Winter_Olympics.jpg?width=64",
+  "total": 1942343,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 15930
+    },
+    {
+      "period": "2024-07",
+      "views": 189219
+    },
+    {
+      "period": "2024-08",
+      "views": 283938
+    },
+    {
+      "period": "2026-01",
+      "views": 39584
+    },
+    {
+      "period": "2026-02",
+      "views": 1413672
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 15930
+    },
+    {
+      "period": "2024",
+      "views": 473157
+    },
+    {
+      "period": "2026",
+      "views": 1453256
+    }
+  ]
+}

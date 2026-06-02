@@ -1,0 +1,36 @@
+{
+  "qid": "Q135984044",
+  "label": "DTF St. Louis",
+  "title": "DTF_St._Louis",
+  "description": "American television series",
+  "image": "",
+  "total": 1512695,
+  "monthly": [
+    {
+      "period": "2026-01",
+      "views": 36395
+    },
+    {
+      "period": "2026-02",
+      "views": 39388
+    },
+    {
+      "period": "2026-03",
+      "views": 843096
+    },
+    {
+      "period": "2026-04",
+      "views": 567939
+    },
+    {
+      "period": "2026-05",
+      "views": 25877
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2026",
+      "views": 1512695
+    }
+  ]
+}

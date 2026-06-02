@@ -1,0 +1,84 @@
+{
+  "qid": "Q36669",
+  "label": "daylight saving time",
+  "title": "Daylight_saving_time",
+  "description": "seasonal adjustment of clocks",
+  "image": "",
+  "total": 3671111,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 47371
+    },
+    {
+      "period": "2015-10",
+      "views": 583121
+    },
+    {
+      "period": "2015-11",
+      "views": 312995
+    },
+    {
+      "period": "2024-03",
+      "views": 450724
+    },
+    {
+      "period": "2024-04",
+      "views": 13666
+    },
+    {
+      "period": "2024-10",
+      "views": 264246
+    },
+    {
+      "period": "2024-11",
+      "views": 236785
+    },
+    {
+      "period": "2024-12",
+      "views": 42796
+    },
+    {
+      "period": "2025-03",
+      "views": 572040
+    },
+    {
+      "period": "2025-04",
+      "views": 20614
+    },
+    {
+      "period": "2025-09",
+      "views": 29663
+    },
+    {
+      "period": "2025-10",
+      "views": 358995
+    },
+    {
+      "period": "2025-11",
+      "views": 339727
+    },
+    {
+      "period": "2026-03",
+      "views": 398368
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 943487
+    },
+    {
+      "period": "2024",
+      "views": 1008217
+    },
+    {
+      "period": "2025",
+      "views": 1321039
+    },
+    {
+      "period": "2026",
+      "views": 398368
+    }
+  ]
+}

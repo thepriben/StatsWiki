@@ -1,0 +1,36 @@
+{
+  "qid": "Q104161310",
+  "label": "The Acolyte",
+  "title": "The_Acolyte_(TV_series)",
+  "description": "2024 American television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Acolyte_logo.png?width=64",
+  "total": 4281874,
+  "monthly": [
+    {
+      "period": "2024-03",
+      "views": 561716
+    },
+    {
+      "period": "2024-05",
+      "views": 234567
+    },
+    {
+      "period": "2024-06",
+      "views": 2072554
+    },
+    {
+      "period": "2024-07",
+      "views": 1198196
+    },
+    {
+      "period": "2024-08",
+      "views": 214841
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 4281874
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "qid": "Q3046048",
+  "label": "NBC Sports",
+  "title": "NBC_Sports",
+  "description": "sports division of the NBC television network",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_Sports_2023.svg?width=64",
+  "total": 3737577,
+  "monthly": [
+    {
+      "period": "2025-11",
+      "views": 510085
+    },
+    {
+      "period": "2025-12",
+      "views": 585665
+    },
+    {
+      "period": "2026-01",
+      "views": 654942
+    },
+    {
+      "period": "2026-02",
+      "views": 713934
+    },
+    {
+      "period": "2026-03",
+      "views": 648011
+    },
+    {
+      "period": "2026-04",
+      "views": 624940
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 1095750
+    },
+    {
+      "period": "2026",
+      "views": 2641827
+    }
+  ]
+}

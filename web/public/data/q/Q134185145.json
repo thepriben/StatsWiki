@@ -1,0 +1,36 @@
+{
+  "qid": "Q134185145",
+  "label": "deaths in 2026",
+  "title": "Deaths_in_2026",
+  "description": "Wikimedia list article",
+  "image": "",
+  "total": 19658881,
+  "monthly": [
+    {
+      "period": "2026-01",
+      "views": 3888225
+    },
+    {
+      "period": "2026-02",
+      "views": 3663738
+    },
+    {
+      "period": "2026-03",
+      "views": 4216699
+    },
+    {
+      "period": "2026-04",
+      "views": 3850433
+    },
+    {
+      "period": "2026-05",
+      "views": 4039786
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2026",
+      "views": 19658881
+    }
+  ]
+}

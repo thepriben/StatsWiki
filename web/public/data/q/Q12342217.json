@@ -1,0 +1,36 @@
+{
+  "qid": "Q12342217",
+  "label": "UEFA Euro 2016 qualifying",
+  "title": "UEFA_Euro_2016_qualifying",
+  "description": "international football competition",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Jacobs_Park%2C_Basel_%28_Switzerland_vs_England_%29_09.jpg?width=64",
+  "total": 1988702,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 20878
+    },
+    {
+      "period": "2015-09",
+      "views": 689286
+    },
+    {
+      "period": "2015-10",
+      "views": 1081586
+    },
+    {
+      "period": "2015-11",
+      "views": 179287
+    },
+    {
+      "period": "2015-12",
+      "views": 17665
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1988702
+    }
+  ]
+}

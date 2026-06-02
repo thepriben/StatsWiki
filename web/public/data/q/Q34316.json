@@ -1,0 +1,108 @@
+{
+  "qid": "Q34316",
+  "label": "Doctor Who",
+  "title": "Doctor_Who",
+  "description": "British science fiction television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Doctor_Who_logo_1963-1967path.svg?width=64",
+  "total": 4923779,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 411827
+    },
+    {
+      "period": "2015-08",
+      "views": 444229
+    },
+    {
+      "period": "2015-09",
+      "views": 556491
+    },
+    {
+      "period": "2015-10",
+      "views": 436045
+    },
+    {
+      "period": "2015-11",
+      "views": 500611
+    },
+    {
+      "period": "2015-12",
+      "views": 513042
+    },
+    {
+      "period": "2024-01",
+      "views": 188665
+    },
+    {
+      "period": "2024-03",
+      "views": 27928
+    },
+    {
+      "period": "2024-05",
+      "views": 462845
+    },
+    {
+      "period": "2024-06",
+      "views": 409420
+    },
+    {
+      "period": "2024-11",
+      "views": 13009
+    },
+    {
+      "period": "2024-12",
+      "views": 76820
+    },
+    {
+      "period": "2025-01",
+      "views": 11040
+    },
+    {
+      "period": "2025-02",
+      "views": 31962
+    },
+    {
+      "period": "2025-04",
+      "views": 248560
+    },
+    {
+      "period": "2025-05",
+      "views": 303011
+    },
+    {
+      "period": "2025-06",
+      "views": 244595
+    },
+    {
+      "period": "2025-10",
+      "views": 17783
+    },
+    {
+      "period": "2025-11",
+      "views": 16007
+    },
+    {
+      "period": "2026-03",
+      "views": 9889
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 2862245
+    },
+    {
+      "period": "2024",
+      "views": 1178687
+    },
+    {
+      "period": "2025",
+      "views": 872958
+    },
+    {
+      "period": "2026",
+      "views": 9889
+    }
+  ]
+}

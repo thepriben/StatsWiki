@@ -1,0 +1,84 @@
+{
+  "qid": "Q19020",
+  "label": "Academy Awards",
+  "title": "Academy_Awards",
+  "description": "annual awards for cinematic achievements",
+  "image": "",
+  "total": 4423742,
+  "monthly": [
+    {
+      "period": "2024-01",
+      "views": 442506
+    },
+    {
+      "period": "2024-02",
+      "views": 344063
+    },
+    {
+      "period": "2024-03",
+      "views": 861911
+    },
+    {
+      "period": "2024-07",
+      "views": 12819
+    },
+    {
+      "period": "2024-09",
+      "views": 21375
+    },
+    {
+      "period": "2024-12",
+      "views": 9736
+    },
+    {
+      "period": "2025-01",
+      "views": 358710
+    },
+    {
+      "period": "2025-02",
+      "views": 396156
+    },
+    {
+      "period": "2025-03",
+      "views": 669815
+    },
+    {
+      "period": "2025-11",
+      "views": 27689
+    },
+    {
+      "period": "2025-12",
+      "views": 17526
+    },
+    {
+      "period": "2026-01",
+      "views": 362909
+    },
+    {
+      "period": "2026-02",
+      "views": 145755
+    },
+    {
+      "period": "2026-03",
+      "views": 735104
+    },
+    {
+      "period": "2026-04",
+      "views": 17668
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 1692410
+    },
+    {
+      "period": "2025",
+      "views": 1469896
+    },
+    {
+      "period": "2026",
+      "views": 1261436
+    }
+  ]
+}

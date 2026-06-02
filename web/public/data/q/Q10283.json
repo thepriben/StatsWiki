@@ -1,0 +1,44 @@
+{
+  "qid": "Q10283",
+  "label": "Kumbh Mela",
+  "title": "Kumbh_Mela",
+  "description": "Hindu pilgrimage and festival celebrated in India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumbh_Mela2001.JPG?width=64",
+  "total": 2994753,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 16697
+    },
+    {
+      "period": "2024-12",
+      "views": 21529
+    },
+    {
+      "period": "2025-01",
+      "views": 2192174
+    },
+    {
+      "period": "2025-02",
+      "views": 753895
+    },
+    {
+      "period": "2025-03",
+      "views": 10458
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 16697
+    },
+    {
+      "period": "2024",
+      "views": 21529
+    },
+    {
+      "period": "2025",
+      "views": 2956527
+    }
+  ]
+}

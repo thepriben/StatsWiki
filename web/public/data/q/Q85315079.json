@@ -1,0 +1,40 @@
+{
+  "qid": "Q85315079",
+  "label": "98th Academy Awards",
+  "title": "98th_Academy_Awards",
+  "description": "US film awards ceremony for films from 2025",
+  "image": "",
+  "total": 4231235,
+  "monthly": [
+    {
+      "period": "2025-03",
+      "views": 31610
+    },
+    {
+      "period": "2026-01",
+      "views": 709388
+    },
+    {
+      "period": "2026-02",
+      "views": 563627
+    },
+    {
+      "period": "2026-03",
+      "views": 2849452
+    },
+    {
+      "period": "2026-04",
+      "views": 77158
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 31610
+    },
+    {
+      "period": "2026",
+      "views": 4199625
+    }
+  ]
+}

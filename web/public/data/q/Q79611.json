@@ -1,0 +1,40 @@
+{
+  "qid": "Q79611",
+  "label": "Android version history",
+  "title": "Android_version_history",
+  "description": "history of the mobile operating system Android by Google",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Android_Gingerbread_%282.3%29.jpg?width=64",
+  "total": 2064291,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 251014
+    },
+    {
+      "period": "2015-08",
+      "views": 327652
+    },
+    {
+      "period": "2015-09",
+      "views": 398839
+    },
+    {
+      "period": "2015-10",
+      "views": 371267
+    },
+    {
+      "period": "2015-11",
+      "views": 354172
+    },
+    {
+      "period": "2015-12",
+      "views": 361347
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 2064291
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "qid": "Q65",
+  "label": "Los Angeles",
+  "title": "Los_Angeles",
+  "description": "seat of Los Angeles County, and largest city in California, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Angeles_with_Mount_Baldy.jpg?width=64",
+  "total": 2665983,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 322401
+    },
+    {
+      "period": "2015-08",
+      "views": 322190
+    },
+    {
+      "period": "2015-09",
+      "views": 319793
+    },
+    {
+      "period": "2015-10",
+      "views": 248910
+    },
+    {
+      "period": "2015-11",
+      "views": 212284
+    },
+    {
+      "period": "2015-12",
+      "views": 157779
+    },
+    {
+      "period": "2024-01",
+      "views": 50525
+    },
+    {
+      "period": "2024-02",
+      "views": 52942
+    },
+    {
+      "period": "2024-03",
+      "views": 21289
+    },
+    {
+      "period": "2024-04",
+      "views": 131752
+    },
+    {
+      "period": "2024-05",
+      "views": 28603
+    },
+    {
+      "period": "2024-08",
+      "views": 62226
+    },
+    {
+      "period": "2024-09",
+      "views": 35780
+    },
+    {
+      "period": "2024-10",
+      "views": 19470
+    },
+    {
+      "period": "2024-11",
+      "views": 10032
+    },
+    {
+      "period": "2025-01",
+      "views": 427106
+    },
+    {
+      "period": "2025-03",
+      "views": 81532
+    },
+    {
+      "period": "2025-06",
+      "views": 119238
+    },
+    {
+      "period": "2026-04",
+      "views": 17559
+    },
+    {
+      "period": "2026-05",
+      "views": 24572
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1583357
+    },
+    {
+      "period": "2024",
+      "views": 412619
+    },
+    {
+      "period": "2025",
+      "views": 627876
+    },
+    {
+      "period": "2026",
+      "views": 42131
+    }
+  ]
+}

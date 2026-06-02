@@ -1,0 +1,84 @@
+{
+  "qid": "Q396412",
+  "label": "Indian Premier League",
+  "title": "Indian_Premier_League",
+  "description": "professional cricket league in India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Premier_League.jpg?width=64",
+  "total": 25428605,
+  "monthly": [
+    {
+      "period": "2024-02",
+      "views": 82624
+    },
+    {
+      "period": "2024-03",
+      "views": 6100148
+    },
+    {
+      "period": "2024-04",
+      "views": 12477981
+    },
+    {
+      "period": "2024-05",
+      "views": 2892845
+    },
+    {
+      "period": "2024-11",
+      "views": 83401
+    },
+    {
+      "period": "2025-03",
+      "views": 837729
+    },
+    {
+      "period": "2025-04",
+      "views": 881361
+    },
+    {
+      "period": "2025-05",
+      "views": 557712
+    },
+    {
+      "period": "2025-06",
+      "views": 502389
+    },
+    {
+      "period": "2025-11",
+      "views": 12913
+    },
+    {
+      "period": "2025-12",
+      "views": 22492
+    },
+    {
+      "period": "2026-02",
+      "views": 9383
+    },
+    {
+      "period": "2026-03",
+      "views": 205699
+    },
+    {
+      "period": "2026-04",
+      "views": 374517
+    },
+    {
+      "period": "2026-05",
+      "views": 387411
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 21636999
+    },
+    {
+      "period": "2025",
+      "views": 2814596
+    },
+    {
+      "period": "2026",
+      "views": 977010
+    }
+  ]
+}

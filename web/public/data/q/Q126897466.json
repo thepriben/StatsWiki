@@ -1,0 +1,48 @@
+{
+  "qid": "Q126897466",
+  "label": "Royal Rumble (2025)",
+  "title": "Royal_Rumble_(2025)",
+  "description": "WWE's 2025 Royal Rumble pay-per-view",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DIY_RR25.jpg?width=64",
+  "total": 3647827,
+  "monthly": [
+    {
+      "period": "2024-12",
+      "views": 124895
+    },
+    {
+      "period": "2025-01",
+      "views": 1336494
+    },
+    {
+      "period": "2025-02",
+      "views": 2128348
+    },
+    {
+      "period": "2025-03",
+      "views": 15858
+    },
+    {
+      "period": "2026-01",
+      "views": 27616
+    },
+    {
+      "period": "2026-02",
+      "views": 14616
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 124895
+    },
+    {
+      "period": "2025",
+      "views": 3480700
+    },
+    {
+      "period": "2026",
+      "views": 42232
+    }
+  ]
+}

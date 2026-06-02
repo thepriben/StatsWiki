@@ -1,0 +1,40 @@
+{
+  "qid": "Q42253",
+  "label": "URL",
+  "title": "Uniform_resource_locator",
+  "description": "web address to a particular file or page",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uniform_Resource_Locator.svg?width=64",
+  "total": 3593197,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 716059
+    },
+    {
+      "period": "2015-08",
+      "views": 378341
+    },
+    {
+      "period": "2015-09",
+      "views": 95684
+    },
+    {
+      "period": "2015-10",
+      "views": 588914
+    },
+    {
+      "period": "2015-11",
+      "views": 1130734
+    },
+    {
+      "period": "2015-12",
+      "views": 683465
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 3593197
+    }
+  ]
+}

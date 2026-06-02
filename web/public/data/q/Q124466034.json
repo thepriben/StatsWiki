@@ -1,0 +1,32 @@
+{
+  "qid": "Q124466034",
+  "label": "Department Q",
+  "title": "Dept._Q",
+  "description": "British television series",
+  "image": "",
+  "total": 2792511,
+  "monthly": [
+    {
+      "period": "2025-06",
+      "views": 1539057
+    },
+    {
+      "period": "2025-07",
+      "views": 675132
+    },
+    {
+      "period": "2025-08",
+      "views": 471330
+    },
+    {
+      "period": "2025-09",
+      "views": 106992
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 2792511
+    }
+  ]
+}

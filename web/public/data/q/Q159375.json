@@ -1,0 +1,48 @@
+{
+  "qid": "Q159375",
+  "label": "standard deviation",
+  "title": "Standard_deviation",
+  "description": "dispersion of the values ​​of a random variable around its expected value",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Standard_deviation_diagram.svg?width=64",
+  "total": 1321697,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 125606
+    },
+    {
+      "period": "2015-08",
+      "views": 165385
+    },
+    {
+      "period": "2015-09",
+      "views": 313351
+    },
+    {
+      "period": "2015-10",
+      "views": 291833
+    },
+    {
+      "period": "2015-11",
+      "views": 228444
+    },
+    {
+      "period": "2015-12",
+      "views": 148199
+    },
+    {
+      "period": "2025-12",
+      "views": 48879
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1272818
+    },
+    {
+      "period": "2025",
+      "views": 48879
+    }
+  ]
+}

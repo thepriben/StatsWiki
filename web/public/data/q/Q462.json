@@ -1,0 +1,104 @@
+{
+  "qid": "Q462",
+  "label": "Star Wars",
+  "title": "Star_Wars",
+  "description": "epic space opera multimedia franchise created by George Lucas",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_characters_at_Madame_Tussaud.jpg?width=64",
+  "total": 13043793,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 529737
+    },
+    {
+      "period": "2015-08",
+      "views": 596852
+    },
+    {
+      "period": "2015-09",
+      "views": 579681
+    },
+    {
+      "period": "2015-10",
+      "views": 1026635
+    },
+    {
+      "period": "2015-11",
+      "views": 1422512
+    },
+    {
+      "period": "2015-12",
+      "views": 7408313
+    },
+    {
+      "period": "2024-01",
+      "views": 46722
+    },
+    {
+      "period": "2024-03",
+      "views": 22036
+    },
+    {
+      "period": "2024-04",
+      "views": 42601
+    },
+    {
+      "period": "2024-05",
+      "views": 168811
+    },
+    {
+      "period": "2024-06",
+      "views": 100617
+    },
+    {
+      "period": "2024-07",
+      "views": 9115
+    },
+    {
+      "period": "2024-08",
+      "views": 35710
+    },
+    {
+      "period": "2024-09",
+      "views": 33380
+    },
+    {
+      "period": "2024-12",
+      "views": 10275
+    },
+    {
+      "period": "2025-04",
+      "views": 150033
+    },
+    {
+      "period": "2025-05",
+      "views": 396294
+    },
+    {
+      "period": "2025-06",
+      "views": 97458
+    },
+    {
+      "period": "2026-05",
+      "views": 367011
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 11563730
+    },
+    {
+      "period": "2024",
+      "views": 469267
+    },
+    {
+      "period": "2025",
+      "views": 643785
+    },
+    {
+      "period": "2026",
+      "views": 367011
+    }
+  ]
+}

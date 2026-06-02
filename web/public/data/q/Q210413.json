@@ -1,0 +1,48 @@
+{
+  "qid": "Q210413",
+  "label": "Sukhoi Su-24",
+  "title": "Sukhoi_Su-24",
+  "description": "attack aircraft family by Sukhoi",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukhoi_Su-24_inflight_Mishin-3.jpg?width=64",
+  "total": 1106123,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 16226
+    },
+    {
+      "period": "2015-10",
+      "views": 76017
+    },
+    {
+      "period": "2015-11",
+      "views": 819660
+    },
+    {
+      "period": "2015-12",
+      "views": 51389
+    },
+    {
+      "period": "2025-06",
+      "views": 9849
+    },
+    {
+      "period": "2026-03",
+      "views": 132982
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 963292
+    },
+    {
+      "period": "2025",
+      "views": 9849
+    },
+    {
+      "period": "2026",
+      "views": 132982
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "qid": "Q125495342",
+  "label": "A Working Man",
+  "title": "A_Working_Man",
+  "description": "2025 film directed by David Ayer",
+  "image": "",
+  "total": 3181785,
+  "monthly": [
+    {
+      "period": "2025-01",
+      "views": 35579
+    },
+    {
+      "period": "2025-03",
+      "views": 888307
+    },
+    {
+      "period": "2025-04",
+      "views": 1459894
+    },
+    {
+      "period": "2025-05",
+      "views": 621805
+    },
+    {
+      "period": "2025-06",
+      "views": 141658
+    },
+    {
+      "period": "2025-09",
+      "views": 34542
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 3181785
+    }
+  ]
+}

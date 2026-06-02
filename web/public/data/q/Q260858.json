@@ -1,0 +1,64 @@
+{
+  "qid": "Q260858",
+  "label": "UEFA European Championship",
+  "title": "UEFA_European_Championship",
+  "description": "European championship for national association football teams",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coupe_Henri_Delaunay_2017.jpg?width=64",
+  "total": 5254222,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 9841
+    },
+    {
+      "period": "2024-03",
+      "views": 102990
+    },
+    {
+      "period": "2024-05",
+      "views": 272022
+    },
+    {
+      "period": "2024-06",
+      "views": 2503815
+    },
+    {
+      "period": "2024-07",
+      "views": 2228212
+    },
+    {
+      "period": "2025-06",
+      "views": 93756
+    },
+    {
+      "period": "2025-07",
+      "views": 20933
+    },
+    {
+      "period": "2026-04",
+      "views": 11616
+    },
+    {
+      "period": "2026-05",
+      "views": 11037
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9841
+    },
+    {
+      "period": "2024",
+      "views": 5107039
+    },
+    {
+      "period": "2025",
+      "views": 114689
+    },
+    {
+      "period": "2026",
+      "views": 22653
+    }
+  ]
+}

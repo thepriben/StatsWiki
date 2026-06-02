@@ -1,0 +1,80 @@
+{
+  "qid": "Q114246242",
+  "label": "F1",
+  "title": "F1_(film)",
+  "description": "2025 film directed by Joseph Kosinski",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F1_2025_Logo.png?width=64",
+  "total": 8054258,
+  "monthly": [
+    {
+      "period": "2024-07",
+      "views": 168533
+    },
+    {
+      "period": "2025-02",
+      "views": 24062
+    },
+    {
+      "period": "2025-03",
+      "views": 98940
+    },
+    {
+      "period": "2025-05",
+      "views": 263669
+    },
+    {
+      "period": "2025-06",
+      "views": 1742174
+    },
+    {
+      "period": "2025-07",
+      "views": 2413860
+    },
+    {
+      "period": "2025-08",
+      "views": 1141849
+    },
+    {
+      "period": "2025-09",
+      "views": 566733
+    },
+    {
+      "period": "2025-10",
+      "views": 241565
+    },
+    {
+      "period": "2025-11",
+      "views": 11129
+    },
+    {
+      "period": "2025-12",
+      "views": 519507
+    },
+    {
+      "period": "2026-01",
+      "views": 453635
+    },
+    {
+      "period": "2026-02",
+      "views": 151432
+    },
+    {
+      "period": "2026-03",
+      "views": 257170
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 168533
+    },
+    {
+      "period": "2025",
+      "views": 7023488
+    },
+    {
+      "period": "2026",
+      "views": 862237
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "qid": "Q109297342",
+  "label": "Opinion polling for the 45th Canadian federal election",
+  "title": "Opinion_polling_for_the_2025_Canadian_federal_election",
+  "description": "",
+  "image": "",
+  "total": 3352692,
+  "monthly": [
+    {
+      "period": "2024-12",
+      "views": 9143
+    },
+    {
+      "period": "2025-01",
+      "views": 164727
+    },
+    {
+      "period": "2025-02",
+      "views": 493185
+    },
+    {
+      "period": "2025-03",
+      "views": 1147875
+    },
+    {
+      "period": "2025-04",
+      "views": 1537762
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 9143
+    },
+    {
+      "period": "2025",
+      "views": 3343549
+    }
+  ]
+}

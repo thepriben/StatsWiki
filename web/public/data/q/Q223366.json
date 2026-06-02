@@ -1,0 +1,84 @@
+{
+  "qid": "Q223366",
+  "label": "FIFA Club World Cup",
+  "title": "FIFA_Club_World_Cup",
+  "description": "association football tournament for clubs",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_Club_World_Cup_logo.svg?width=64",
+  "total": 3879632,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 104886
+    },
+    {
+      "period": "2024-02",
+      "views": 25549
+    },
+    {
+      "period": "2024-03",
+      "views": 14166
+    },
+    {
+      "period": "2024-04",
+      "views": 13323
+    },
+    {
+      "period": "2024-06",
+      "views": 42607
+    },
+    {
+      "period": "2024-07",
+      "views": 10834
+    },
+    {
+      "period": "2024-10",
+      "views": 34976
+    },
+    {
+      "period": "2024-12",
+      "views": 196919
+    },
+    {
+      "period": "2025-03",
+      "views": 23420
+    },
+    {
+      "period": "2025-04",
+      "views": 47509
+    },
+    {
+      "period": "2025-05",
+      "views": 469395
+    },
+    {
+      "period": "2025-06",
+      "views": 1955905
+    },
+    {
+      "period": "2025-07",
+      "views": 917021
+    },
+    {
+      "period": "2026-05",
+      "views": 23122
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 104886
+    },
+    {
+      "period": "2024",
+      "views": 338374
+    },
+    {
+      "period": "2025",
+      "views": 3413250
+    },
+    {
+      "period": "2026",
+      "views": 23122
+    }
+  ]
+}

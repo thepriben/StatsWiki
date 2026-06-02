@@ -1,0 +1,36 @@
+{
+  "qid": "Q14001",
+  "label": "malware",
+  "title": "Malware",
+  "description": "software that is intentionally hostile, intrusive, or damaging to a computer or network",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CIH.png?width=64",
+  "total": 5858393,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 4337325
+    },
+    {
+      "period": "2015-08",
+      "views": 1428396
+    },
+    {
+      "period": "2015-09",
+      "views": 43578
+    },
+    {
+      "period": "2015-10",
+      "views": 16026
+    },
+    {
+      "period": "2015-12",
+      "views": 33068
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 5858393
+    }
+  ]
+}

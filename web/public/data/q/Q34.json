@@ -1,0 +1,84 @@
+{
+  "qid": "Q34",
+  "label": "Sweden",
+  "title": "Sweden",
+  "description": "country in Northern Europe",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweden_-_Location_Map_%282013%29_-_SWE_-_UNOCHA.svg?width=64",
+  "total": 1646329,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 178907
+    },
+    {
+      "period": "2015-08",
+      "views": 247589
+    },
+    {
+      "period": "2015-09",
+      "views": 316362
+    },
+    {
+      "period": "2015-10",
+      "views": 252879
+    },
+    {
+      "period": "2015-11",
+      "views": 229987
+    },
+    {
+      "period": "2015-12",
+      "views": 116232
+    },
+    {
+      "period": "2024-01",
+      "views": 47231
+    },
+    {
+      "period": "2024-02",
+      "views": 49805
+    },
+    {
+      "period": "2024-03",
+      "views": 94600
+    },
+    {
+      "period": "2024-05",
+      "views": 10654
+    },
+    {
+      "period": "2024-08",
+      "views": 16443
+    },
+    {
+      "period": "2024-10",
+      "views": 20157
+    },
+    {
+      "period": "2025-02",
+      "views": 46399
+    },
+    {
+      "period": "2025-05",
+      "views": 10135
+    },
+    {
+      "period": "2025-09",
+      "views": 8949
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1341956
+    },
+    {
+      "period": "2024",
+      "views": 238890
+    },
+    {
+      "period": "2025",
+      "views": 65483
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "qid": "Q65047096",
+  "label": "Industry",
+  "title": "Industry_(TV_series)",
+  "description": "British television drama series",
+  "image": "",
+  "total": 3149566,
+  "monthly": [
+    {
+      "period": "2024-08",
+      "views": 327451
+    },
+    {
+      "period": "2024-09",
+      "views": 422191
+    },
+    {
+      "period": "2024-10",
+      "views": 374167
+    },
+    {
+      "period": "2025-11",
+      "views": 9391
+    },
+    {
+      "period": "2026-01",
+      "views": 801790
+    },
+    {
+      "period": "2026-02",
+      "views": 765768
+    },
+    {
+      "period": "2026-03",
+      "views": 448808
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 1123809
+    },
+    {
+      "period": "2025",
+      "views": 9391
+    },
+    {
+      "period": "2026",
+      "views": 2016366
+    }
+  ]
+}

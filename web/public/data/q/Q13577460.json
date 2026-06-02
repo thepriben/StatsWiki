@@ -1,0 +1,60 @@
+{
+  "qid": "Q13577460",
+  "label": "TNT Sports",
+  "title": "TNT_Sports_(United_Kingdom)",
+  "description": "group of sports television channels",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_%282023%29.svg?width=64",
+  "total": 2857691,
+  "monthly": [
+    {
+      "period": "2025-08",
+      "views": 31685
+    },
+    {
+      "period": "2025-09",
+      "views": 497913
+    },
+    {
+      "period": "2025-10",
+      "views": 403203
+    },
+    {
+      "period": "2025-11",
+      "views": 309077
+    },
+    {
+      "period": "2025-12",
+      "views": 351701
+    },
+    {
+      "period": "2026-01",
+      "views": 301959
+    },
+    {
+      "period": "2026-02",
+      "views": 221336
+    },
+    {
+      "period": "2026-03",
+      "views": 236837
+    },
+    {
+      "period": "2026-04",
+      "views": 146392
+    },
+    {
+      "period": "2026-05",
+      "views": 357588
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 1593579
+    },
+    {
+      "period": "2026",
+      "views": 1264112
+    }
+  ]
+}

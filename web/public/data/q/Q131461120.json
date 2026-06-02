@@ -1,0 +1,44 @@
+{
+  "qid": "Q131461120",
+  "label": "The Madison",
+  "title": "The_Madison_(TV_series)",
+  "description": "Upcoming television series",
+  "image": "",
+  "total": 2450762,
+  "monthly": [
+    {
+      "period": "2025-04",
+      "views": 36656
+    },
+    {
+      "period": "2026-01",
+      "views": 115353
+    },
+    {
+      "period": "2026-02",
+      "views": 19666
+    },
+    {
+      "period": "2026-03",
+      "views": 1438808
+    },
+    {
+      "period": "2026-04",
+      "views": 620807
+    },
+    {
+      "period": "2026-05",
+      "views": 219472
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 36656
+    },
+    {
+      "period": "2026",
+      "views": 2414106
+    }
+  ]
+}

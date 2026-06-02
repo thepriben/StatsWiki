@@ -1,0 +1,76 @@
+{
+  "qid": "Q123185887",
+  "label": "Anora",
+  "title": "Anora",
+  "description": "2024 film directed by Sean Baker",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anora_logo.svg?width=64",
+  "total": 9080459,
+  "monthly": [
+    {
+      "period": "2024-12",
+      "views": 609233
+    },
+    {
+      "period": "2025-01",
+      "views": 1012575
+    },
+    {
+      "period": "2025-02",
+      "views": 985089
+    },
+    {
+      "period": "2025-03",
+      "views": 5337886
+    },
+    {
+      "period": "2025-04",
+      "views": 503844
+    },
+    {
+      "period": "2025-05",
+      "views": 213953
+    },
+    {
+      "period": "2025-06",
+      "views": 89679
+    },
+    {
+      "period": "2025-07",
+      "views": 91594
+    },
+    {
+      "period": "2025-08",
+      "views": 67044
+    },
+    {
+      "period": "2025-11",
+      "views": 9503
+    },
+    {
+      "period": "2026-01",
+      "views": 12793
+    },
+    {
+      "period": "2026-03",
+      "views": 115776
+    },
+    {
+      "period": "2026-04",
+      "views": 31490
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 609233
+    },
+    {
+      "period": "2025",
+      "views": 8311167
+    },
+    {
+      "period": "2026",
+      "views": 160059
+    }
+  ]
+}

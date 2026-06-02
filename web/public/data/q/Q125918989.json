@@ -1,0 +1,40 @@
+{
+  "qid": "Q125918989",
+  "label": "Housefull 5",
+  "title": "Housefull_5",
+  "description": "2025 film directed by Tarun Mansukhani",
+  "image": "",
+  "total": 3582523,
+  "monthly": [
+    {
+      "period": "2025-04",
+      "views": 27455
+    },
+    {
+      "period": "2025-05",
+      "views": 383801
+    },
+    {
+      "period": "2025-06",
+      "views": 2271528
+    },
+    {
+      "period": "2025-07",
+      "views": 508168
+    },
+    {
+      "period": "2025-08",
+      "views": 379588
+    },
+    {
+      "period": "2025-10",
+      "views": 11983
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 3582523
+    }
+  ]
+}

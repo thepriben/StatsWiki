@@ -1,0 +1,40 @@
+{
+  "qid": "Q586025",
+  "label": "Attack on Titan",
+  "title": "Attack_on_Titan",
+  "description": "Japanese manga series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Attack_on_Titan_logo.svg?width=64",
+  "total": 2352555,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 491529
+    },
+    {
+      "period": "2015-08",
+      "views": 641727
+    },
+    {
+      "period": "2015-09",
+      "views": 426776
+    },
+    {
+      "period": "2015-10",
+      "views": 351986
+    },
+    {
+      "period": "2015-11",
+      "views": 231946
+    },
+    {
+      "period": "2015-12",
+      "views": 208591
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 2352555
+    }
+  ]
+}

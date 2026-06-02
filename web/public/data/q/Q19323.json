@@ -1,0 +1,44 @@
+{
+  "qid": "Q19323",
+  "label": "FIFA Women's World Cup",
+  "title": "FIFA_Women's_World_Cup",
+  "description": "football competitions",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_logo_without_slogan.svg?width=64",
+  "total": 1238299,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 1013930
+    },
+    {
+      "period": "2024-06",
+      "views": 14334
+    },
+    {
+      "period": "2024-07",
+      "views": 10958
+    },
+    {
+      "period": "2024-08",
+      "views": 18743
+    },
+    {
+      "period": "2025-07",
+      "views": 180334
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1013930
+    },
+    {
+      "period": "2024",
+      "views": 44035
+    },
+    {
+      "period": "2025",
+      "views": 180334
+    }
+  ]
+}

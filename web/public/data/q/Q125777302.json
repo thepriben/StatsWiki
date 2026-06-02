@@ -1,0 +1,68 @@
+{
+  "qid": "Q125777302",
+  "label": "WrestleMania 41",
+  "title": "WrestleMania_41",
+  "description": "2025 WWE pay-per-view and livestreaming event",
+  "image": "",
+  "total": 6311754,
+  "monthly": [
+    {
+      "period": "2024-05",
+      "views": 11264
+    },
+    {
+      "period": "2024-07",
+      "views": 14226
+    },
+    {
+      "period": "2025-01",
+      "views": 12577
+    },
+    {
+      "period": "2025-02",
+      "views": 451936
+    },
+    {
+      "period": "2025-03",
+      "views": 1282608
+    },
+    {
+      "period": "2025-04",
+      "views": 4280660
+    },
+    {
+      "period": "2025-05",
+      "views": 95256
+    },
+    {
+      "period": "2025-06",
+      "views": 11572
+    },
+    {
+      "period": "2025-08",
+      "views": 22683
+    },
+    {
+      "period": "2026-03",
+      "views": 10927
+    },
+    {
+      "period": "2026-04",
+      "views": 118045
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 25490
+    },
+    {
+      "period": "2025",
+      "views": 6157292
+    },
+    {
+      "period": "2026",
+      "views": 128972
+    }
+  ]
+}

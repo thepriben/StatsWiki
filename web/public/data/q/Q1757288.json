@@ -1,0 +1,68 @@
+{
+  "qid": "Q1757288",
+  "label": "Mad Max: Fury Road",
+  "title": "Mad_Max:_Fury_Road",
+  "description": "2015 film directed by George Miller",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mad_Max_Fury_Road_logo.png?width=64",
+  "total": 5896320,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 857422
+    },
+    {
+      "period": "2015-08",
+      "views": 780122
+    },
+    {
+      "period": "2015-09",
+      "views": 935751
+    },
+    {
+      "period": "2015-10",
+      "views": 480445
+    },
+    {
+      "period": "2015-11",
+      "views": 287404
+    },
+    {
+      "period": "2015-12",
+      "views": 433132
+    },
+    {
+      "period": "2024-03",
+      "views": 55182
+    },
+    {
+      "period": "2024-05",
+      "views": 1106078
+    },
+    {
+      "period": "2024-06",
+      "views": 568916
+    },
+    {
+      "period": "2024-07",
+      "views": 263387
+    },
+    {
+      "period": "2024-08",
+      "views": 118677
+    },
+    {
+      "period": "2024-09",
+      "views": 9804
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 3774276
+    },
+    {
+      "period": "2024",
+      "views": 2122044
+    }
+  ]
+}

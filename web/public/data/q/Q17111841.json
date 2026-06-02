@@ -1,0 +1,56 @@
+{
+  "qid": "Q17111841",
+  "label": "list of Rick and Morty episodes",
+  "title": "List_of_Rick_and_Morty_episodes",
+  "description": "Wikimedia list article",
+  "image": "",
+  "total": 1756751,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 119872
+    },
+    {
+      "period": "2015-08",
+      "views": 474544
+    },
+    {
+      "period": "2015-09",
+      "views": 641141
+    },
+    {
+      "period": "2015-10",
+      "views": 408146
+    },
+    {
+      "period": "2025-05",
+      "views": 43846
+    },
+    {
+      "period": "2025-06",
+      "views": 10055
+    },
+    {
+      "period": "2025-07",
+      "views": 25161
+    },
+    {
+      "period": "2026-05",
+      "views": 33986
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1643703
+    },
+    {
+      "period": "2025",
+      "views": 79062
+    },
+    {
+      "period": "2026",
+      "views": 33986
+    }
+  ]
+}

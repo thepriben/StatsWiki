@@ -1,0 +1,56 @@
+{
+  "qid": "Q130269576",
+  "label": "Happy Gilmore 2",
+  "title": "Happy_Gilmore_2",
+  "description": "2025 film directed by Kyle Newacheck",
+  "image": "",
+  "total": 3289206,
+  "monthly": [
+    {
+      "period": "2024-12",
+      "views": 148879
+    },
+    {
+      "period": "2025-01",
+      "views": 57388
+    },
+    {
+      "period": "2025-03",
+      "views": 72584
+    },
+    {
+      "period": "2025-06",
+      "views": 139948
+    },
+    {
+      "period": "2025-07",
+      "views": 1900547
+    },
+    {
+      "period": "2025-08",
+      "views": 946205
+    },
+    {
+      "period": "2025-09",
+      "views": 10497
+    },
+    {
+      "period": "2026-02",
+      "views": 13158
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 148879
+    },
+    {
+      "period": "2025",
+      "views": 3127169
+    },
+    {
+      "period": "2026",
+      "views": 13158
+    }
+  ]
+}

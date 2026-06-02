@@ -1,0 +1,40 @@
+{
+  "qid": "Q28787",
+  "label": "Star Wars Rebels",
+  "title": "Star_Wars_Rebels",
+  "description": "American 3D CGI animated television series from 2014–2018",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Star_Wars_Rebels_schwarz.svg?width=64",
+  "total": 1365370,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 93049
+    },
+    {
+      "period": "2015-08",
+      "views": 9753
+    },
+    {
+      "period": "2015-09",
+      "views": 19090
+    },
+    {
+      "period": "2015-10",
+      "views": 338049
+    },
+    {
+      "period": "2015-11",
+      "views": 330702
+    },
+    {
+      "period": "2015-12",
+      "views": 574727
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1365370
+    }
+  ]
+}

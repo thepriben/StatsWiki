@@ -1,0 +1,80 @@
+{
+  "qid": "Q113127312",
+  "label": "Fallout",
+  "title": "Fallout_(American_TV_series)",
+  "description": "American television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fallout_television_series_logo.svg?width=64",
+  "total": 9844769,
+  "monthly": [
+    {
+      "period": "2024-04",
+      "views": 4662561
+    },
+    {
+      "period": "2024-05",
+      "views": 1344793
+    },
+    {
+      "period": "2024-06",
+      "views": 467199
+    },
+    {
+      "period": "2024-07",
+      "views": 170033
+    },
+    {
+      "period": "2024-08",
+      "views": 83573
+    },
+    {
+      "period": "2024-09",
+      "views": 23096
+    },
+    {
+      "period": "2024-12",
+      "views": 14489
+    },
+    {
+      "period": "2025-05",
+      "views": 23277
+    },
+    {
+      "period": "2025-08",
+      "views": 62168
+    },
+    {
+      "period": "2025-11",
+      "views": 43772
+    },
+    {
+      "period": "2025-12",
+      "views": 885972
+    },
+    {
+      "period": "2026-01",
+      "views": 1266263
+    },
+    {
+      "period": "2026-02",
+      "views": 785605
+    },
+    {
+      "period": "2026-03",
+      "views": 11968
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 6765744
+    },
+    {
+      "period": "2025",
+      "views": 1015189
+    },
+    {
+      "period": "2026",
+      "views": 2063836
+    }
+  ]
+}

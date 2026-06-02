@@ -1,0 +1,40 @@
+{
+  "qid": "Q5102879",
+  "label": "One-Punch Man",
+  "title": "One-Punch_Man",
+  "description": "media franchise",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/One_Punch_Man_logo.svg?width=64",
+  "total": 3011001,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 22957
+    },
+    {
+      "period": "2015-10",
+      "views": 354766
+    },
+    {
+      "period": "2015-11",
+      "views": 1251253
+    },
+    {
+      "period": "2015-12",
+      "views": 1361692
+    },
+    {
+      "period": "2025-10",
+      "views": 20333
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 2990668
+    },
+    {
+      "period": "2025",
+      "views": 20333
+    }
+  ]
+}

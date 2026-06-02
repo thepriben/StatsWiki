@@ -1,0 +1,44 @@
+{
+  "qid": "Q131693665",
+  "label": "Royal Rumble (2026)",
+  "title": "Royal_Rumble_(2026)",
+  "description": "WWE pay-per-view and livestreaming event",
+  "image": "",
+  "total": 3302026,
+  "monthly": [
+    {
+      "period": "2025-02",
+      "views": 14261
+    },
+    {
+      "period": "2025-11",
+      "views": 10823
+    },
+    {
+      "period": "2025-12",
+      "views": 85400
+    },
+    {
+      "period": "2026-01",
+      "views": 2434215
+    },
+    {
+      "period": "2026-02",
+      "views": 744726
+    },
+    {
+      "period": "2026-03",
+      "views": 12601
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 110484
+    },
+    {
+      "period": "2026",
+      "views": 3191542
+    }
+  ]
+}

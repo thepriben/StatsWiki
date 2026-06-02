@@ -1,0 +1,72 @@
+{
+  "qid": "Q91540",
+  "label": "Back to the Future",
+  "title": "Back_to_the_Future",
+  "description": "1985 film directed by Robert Zemeckis",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Back_to_the_Future_film_series_logo.png?width=64",
+  "total": 1457631,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 130854
+    },
+    {
+      "period": "2015-08",
+      "views": 106937
+    },
+    {
+      "period": "2015-09",
+      "views": 50034
+    },
+    {
+      "period": "2015-10",
+      "views": 938736
+    },
+    {
+      "period": "2015-11",
+      "views": 49532
+    },
+    {
+      "period": "2015-12",
+      "views": 12298
+    },
+    {
+      "period": "2025-07",
+      "views": 24523
+    },
+    {
+      "period": "2025-10",
+      "views": 8937
+    },
+    {
+      "period": "2025-11",
+      "views": 101226
+    },
+    {
+      "period": "2025-12",
+      "views": 12956
+    },
+    {
+      "period": "2026-01",
+      "views": 11648
+    },
+    {
+      "period": "2026-03",
+      "views": 9950
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1288391
+    },
+    {
+      "period": "2025",
+      "views": 147642
+    },
+    {
+      "period": "2026",
+      "views": 21598
+    }
+  ]
+}

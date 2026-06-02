@@ -1,0 +1,28 @@
+{
+  "qid": "Q42051",
+  "label": "Star Wars: Episode III – Revenge of the Sith",
+  "title": "Star_Wars_Episode_III:_Revenge_of_the_Sith",
+  "description": "2005 American epic space opera film directed by George Lucas",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Revengeofthesith-logo.svg?width=64",
+  "total": 1478573,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 79591
+    },
+    {
+      "period": "2015-11",
+      "views": 137379
+    },
+    {
+      "period": "2015-12",
+      "views": 1261603
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1478573
+    }
+  ]
+}

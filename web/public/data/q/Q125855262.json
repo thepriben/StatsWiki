@@ -1,0 +1,60 @@
+{
+  "qid": "Q125855262",
+  "label": "WrestleMania 42",
+  "title": "WrestleMania_42",
+  "description": "2026 WWE pay-per-view and livestreaming event",
+  "image": "",
+  "total": 5242827,
+  "monthly": [
+    {
+      "period": "2025-02",
+      "views": 12864
+    },
+    {
+      "period": "2025-04",
+      "views": 58729
+    },
+    {
+      "period": "2025-05",
+      "views": 23563
+    },
+    {
+      "period": "2025-06",
+      "views": 16137
+    },
+    {
+      "period": "2025-09",
+      "views": 22428
+    },
+    {
+      "period": "2026-01",
+      "views": 29424
+    },
+    {
+      "period": "2026-02",
+      "views": 362911
+    },
+    {
+      "period": "2026-03",
+      "views": 1136766
+    },
+    {
+      "period": "2026-04",
+      "views": 3463708
+    },
+    {
+      "period": "2026-05",
+      "views": 116297
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 133721
+    },
+    {
+      "period": "2026",
+      "views": 5109106
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "qid": "Q35127",
+  "label": "website",
+  "title": "Website",
+  "description": "set of related web pages served from a single web domain",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Activite3.2.1_Pr%C3%A9parer_un_document_Web_%C3%A0_l%E2%80%99accessibilit%C3%A9.png?width=64",
+  "total": 3275991,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 1214162
+    },
+    {
+      "period": "2015-08",
+      "views": 1092861
+    },
+    {
+      "period": "2015-09",
+      "views": 264487
+    },
+    {
+      "period": "2024-06",
+      "views": 342716
+    },
+    {
+      "period": "2024-12",
+      "views": 43462
+    },
+    {
+      "period": "2025-01",
+      "views": 22152
+    },
+    {
+      "period": "2025-11",
+      "views": 202526
+    },
+    {
+      "period": "2026-02",
+      "views": 93625
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 2571510
+    },
+    {
+      "period": "2024",
+      "views": 386178
+    },
+    {
+      "period": "2025",
+      "views": 224678
+    },
+    {
+      "period": "2026",
+      "views": 93625
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "qid": "Q135193382",
+  "label": "3I/ATLAS",
+  "title": "3I/ATLAS",
+  "description": "interstellar comet passing through the Solar System, discovered in July 2025",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/3I-ATLAS_noirlab2525b_crop.png?width=64",
+  "total": 3660673,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "views": 314928
+    },
+    {
+      "period": "2025-08",
+      "views": 625891
+    },
+    {
+      "period": "2025-09",
+      "views": 529423
+    },
+    {
+      "period": "2025-10",
+      "views": 1143741
+    },
+    {
+      "period": "2025-11",
+      "views": 881673
+    },
+    {
+      "period": "2025-12",
+      "views": 165017
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 3660673
+    }
+  ]
+}

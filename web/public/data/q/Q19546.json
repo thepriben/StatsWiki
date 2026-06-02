@@ -1,0 +1,52 @@
+{
+  "qid": "Q19546",
+  "label": "Pope",
+  "title": "Pope",
+  "description": "leader of the worldwide Catholic Church",
+  "image": "",
+  "total": 3422444,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 390625
+    },
+    {
+      "period": "2015-11",
+      "views": 34874
+    },
+    {
+      "period": "2025-02",
+      "views": 246436
+    },
+    {
+      "period": "2025-03",
+      "views": 57145
+    },
+    {
+      "period": "2025-04",
+      "views": 1198077
+    },
+    {
+      "period": "2025-05",
+      "views": 1440705
+    },
+    {
+      "period": "2026-04",
+      "views": 54582
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 425499
+    },
+    {
+      "period": "2025",
+      "views": 2942363
+    },
+    {
+      "period": "2026",
+      "views": 54582
+    }
+  ]
+}

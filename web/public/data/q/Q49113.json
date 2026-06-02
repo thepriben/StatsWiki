@@ -1,0 +1,88 @@
+{
+  "qid": "Q49113",
+  "label": "Ivy League",
+  "title": "Ivy_League",
+  "description": "athletic conference of 8 American universities",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivy_league_simple_logo.png?width=64",
+  "total": 1378327,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 17294
+    },
+    {
+      "period": "2015-08",
+      "views": 189003
+    },
+    {
+      "period": "2015-09",
+      "views": 219462
+    },
+    {
+      "period": "2015-10",
+      "views": 278670
+    },
+    {
+      "period": "2015-11",
+      "views": 234560
+    },
+    {
+      "period": "2015-12",
+      "views": 96321
+    },
+    {
+      "period": "2024-04",
+      "views": 52617
+    },
+    {
+      "period": "2024-05",
+      "views": 90143
+    },
+    {
+      "period": "2024-07",
+      "views": 11542
+    },
+    {
+      "period": "2024-08",
+      "views": 29514
+    },
+    {
+      "period": "2024-12",
+      "views": 31280
+    },
+    {
+      "period": "2025-01",
+      "views": 15621
+    },
+    {
+      "period": "2025-04",
+      "views": 29540
+    },
+    {
+      "period": "2025-05",
+      "views": 17757
+    },
+    {
+      "period": "2025-11",
+      "views": 23880
+    },
+    {
+      "period": "2025-12",
+      "views": 41123
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1035310
+    },
+    {
+      "period": "2024",
+      "views": 215096
+    },
+    {
+      "period": "2025",
+      "views": 127921
+    }
+  ]
+}

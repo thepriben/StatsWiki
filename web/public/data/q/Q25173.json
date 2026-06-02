@@ -1,0 +1,40 @@
+{
+  "qid": "Q25173",
+  "label": "Titanic",
+  "title": "RMS_Titanic",
+  "description": "British transatlantic passenger liner, launched and foundered in 1912",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RMS_Titanic_3.jpg?width=64",
+  "total": 2246179,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 334498
+    },
+    {
+      "period": "2015-08",
+      "views": 344770
+    },
+    {
+      "period": "2015-09",
+      "views": 470769
+    },
+    {
+      "period": "2015-10",
+      "views": 381259
+    },
+    {
+      "period": "2015-11",
+      "views": 369523
+    },
+    {
+      "period": "2015-12",
+      "views": 345360
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 2246179
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "qid": "Q101112656",
+  "label": "The Brutalist",
+  "title": "The_Brutalist",
+  "description": "2024 film directed by Brady Corbet",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Brutalist_logo1.png?width=64",
+  "total": 7763878,
+  "monthly": [
+    {
+      "period": "2024-09",
+      "views": 133455
+    },
+    {
+      "period": "2024-10",
+      "views": 58016
+    },
+    {
+      "period": "2024-12",
+      "views": 561398
+    },
+    {
+      "period": "2025-01",
+      "views": 2527635
+    },
+    {
+      "period": "2025-02",
+      "views": 1646587
+    },
+    {
+      "period": "2025-03",
+      "views": 2003047
+    },
+    {
+      "period": "2025-04",
+      "views": 210552
+    },
+    {
+      "period": "2025-05",
+      "views": 374152
+    },
+    {
+      "period": "2025-06",
+      "views": 193778
+    },
+    {
+      "period": "2025-07",
+      "views": 20182
+    },
+    {
+      "period": "2025-08",
+      "views": 11172
+    },
+    {
+      "period": "2025-09",
+      "views": 9604
+    },
+    {
+      "period": "2026-03",
+      "views": 14300
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 752869
+    },
+    {
+      "period": "2025",
+      "views": 6996709
+    },
+    {
+      "period": "2026",
+      "views": 14300
+    }
+  ]
+}

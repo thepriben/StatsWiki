@@ -1,0 +1,40 @@
+{
+  "qid": "Q19863968",
+  "label": "Legends of Tomorrow",
+  "title": "Legends_of_Tomorrow",
+  "description": "American television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DC%27s_Legends_of_Tomorrow_%28production_logo%29.svg?width=64",
+  "total": 1014901,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 21350
+    },
+    {
+      "period": "2015-08",
+      "views": 17675
+    },
+    {
+      "period": "2015-09",
+      "views": 9672
+    },
+    {
+      "period": "2015-10",
+      "views": 250900
+    },
+    {
+      "period": "2015-11",
+      "views": 247184
+    },
+    {
+      "period": "2015-12",
+      "views": 468120
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1014901
+    }
+  ]
+}

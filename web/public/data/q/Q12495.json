@@ -1,0 +1,96 @@
+{
+  "qid": "Q12495",
+  "label": "Burj Khalifa",
+  "title": "Burj_Khalifa",
+  "description": "skyscraper in Dubai, United Arab Emirates",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_skyline_2015_%28crop%29.jpg?width=64",
+  "total": 1392887,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 31663
+    },
+    {
+      "period": "2015-08",
+      "views": 187463
+    },
+    {
+      "period": "2015-09",
+      "views": 224936
+    },
+    {
+      "period": "2015-10",
+      "views": 134568
+    },
+    {
+      "period": "2015-11",
+      "views": 204983
+    },
+    {
+      "period": "2015-12",
+      "views": 150117
+    },
+    {
+      "period": "2024-01",
+      "views": 87768
+    },
+    {
+      "period": "2024-02",
+      "views": 22179
+    },
+    {
+      "period": "2024-04",
+      "views": 62256
+    },
+    {
+      "period": "2024-08",
+      "views": 9133
+    },
+    {
+      "period": "2024-12",
+      "views": 16274
+    },
+    {
+      "period": "2025-01",
+      "views": 53622
+    },
+    {
+      "period": "2025-05",
+      "views": 8362
+    },
+    {
+      "period": "2025-08",
+      "views": 33715
+    },
+    {
+      "period": "2026-01",
+      "views": 89206
+    },
+    {
+      "period": "2026-02",
+      "views": 14773
+    },
+    {
+      "period": "2026-03",
+      "views": 61869
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 933730
+    },
+    {
+      "period": "2024",
+      "views": 197610
+    },
+    {
+      "period": "2025",
+      "views": 95699
+    },
+    {
+      "period": "2026",
+      "views": 165848
+    }
+  ]
+}

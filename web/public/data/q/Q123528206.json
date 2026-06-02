@@ -1,0 +1,40 @@
+{
+  "qid": "Q123528206",
+  "label": "Singham Again",
+  "title": "Singham_Again",
+  "description": "2024 Film",
+  "image": "",
+  "total": 4101650,
+  "monthly": [
+    {
+      "period": "2024-02",
+      "views": 11917
+    },
+    {
+      "period": "2024-10",
+      "views": 612368
+    },
+    {
+      "period": "2024-11",
+      "views": 2642752
+    },
+    {
+      "period": "2024-12",
+      "views": 633983
+    },
+    {
+      "period": "2025-01",
+      "views": 200630
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 3901020
+    },
+    {
+      "period": "2025",
+      "views": 200630
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "qid": "Q844",
+  "label": "James Bond",
+  "title": "James_Bond",
+  "description": "series of books about a British spy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snap_from_Wax_Museum_at_Innovative_Film_city_Bangalore_144323.jpg?width=64",
+  "total": 2105727,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 81650
+    },
+    {
+      "period": "2015-08",
+      "views": 208462
+    },
+    {
+      "period": "2015-09",
+      "views": 206726
+    },
+    {
+      "period": "2015-10",
+      "views": 362987
+    },
+    {
+      "period": "2015-11",
+      "views": 827412
+    },
+    {
+      "period": "2015-12",
+      "views": 298540
+    },
+    {
+      "period": "2024-07",
+      "views": 26115
+    },
+    {
+      "period": "2025-02",
+      "views": 21710
+    },
+    {
+      "period": "2025-03",
+      "views": 16563
+    },
+    {
+      "period": "2025-06",
+      "views": 8741
+    },
+    {
+      "period": "2026-01",
+      "views": 10391
+    },
+    {
+      "period": "2026-03",
+      "views": 11658
+    },
+    {
+      "period": "2026-05",
+      "views": 24772
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1985777
+    },
+    {
+      "period": "2024",
+      "views": 26115
+    },
+    {
+      "period": "2025",
+      "views": 47014
+    },
+    {
+      "period": "2026",
+      "views": 46821
+    }
+  ]
+}

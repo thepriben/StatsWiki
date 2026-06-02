@@ -1,0 +1,44 @@
+{
+  "qid": "Q18168774",
+  "label": "Windows 10",
+  "title": "Windows_10",
+  "description": "personal computer operating system by Microsoft that was released in 2015",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Windows10abstract_new.png?width=64",
+  "total": 1310700,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 678866
+    },
+    {
+      "period": "2015-08",
+      "views": 504032
+    },
+    {
+      "period": "2015-09",
+      "views": 50051
+    },
+    {
+      "period": "2015-10",
+      "views": 9519
+    },
+    {
+      "period": "2015-11",
+      "views": 19894
+    },
+    {
+      "period": "2025-10",
+      "views": 48338
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1262362
+    },
+    {
+      "period": "2025",
+      "views": 48338
+    }
+  ]
+}

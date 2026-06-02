@@ -1,0 +1,44 @@
+{
+  "qid": "Q223992",
+  "label": "Wes Craven",
+  "title": "Wes_Craven",
+  "description": "American filmmaker (1939–2015)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wes_Craven_2010.jpg?width=64",
+  "total": 1153769,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 635204
+    },
+    {
+      "period": "2015-09",
+      "views": 342800
+    },
+    {
+      "period": "2015-10",
+      "views": 94531
+    },
+    {
+      "period": "2015-11",
+      "views": 61534
+    },
+    {
+      "period": "2025-10",
+      "views": 9309
+    },
+    {
+      "period": "2025-11",
+      "views": 10391
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1134069
+    },
+    {
+      "period": "2025",
+      "views": 19700
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "qid": "Q16913682",
+  "label": "Jane the Virgin",
+  "title": "Jane_the_Virgin",
+  "description": "American television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_the_Virgin_logo.svg?width=64",
+  "total": 972709,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 9108
+    },
+    {
+      "period": "2015-10",
+      "views": 317183
+    },
+    {
+      "period": "2015-11",
+      "views": 419182
+    },
+    {
+      "period": "2015-12",
+      "views": 227236
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 972709
+    }
+  ]
+}

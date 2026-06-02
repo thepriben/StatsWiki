@@ -1,0 +1,48 @@
+{
+  "qid": "Q2271377",
+  "label": "Jessica Jones",
+  "title": "Jessica_Jones",
+  "description": "fictional character in Marvel Comics",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica_Jones_-_24801301121.jpg?width=64",
+  "total": 6422556,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 66128
+    },
+    {
+      "period": "2015-08",
+      "views": 12494
+    },
+    {
+      "period": "2015-09",
+      "views": 471467
+    },
+    {
+      "period": "2015-10",
+      "views": 604575
+    },
+    {
+      "period": "2015-11",
+      "views": 3274562
+    },
+    {
+      "period": "2015-12",
+      "views": 1961089
+    },
+    {
+      "period": "2026-04",
+      "views": 32241
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 6390315
+    },
+    {
+      "period": "2026",
+      "views": 32241
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "qid": "Q16640",
+  "label": "Rugby World Cup",
+  "title": "Rugby_World_Cup",
+  "description": "international rugby union competition",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rugby_World_Cup_Trophy.JPG?width=64",
+  "total": 1123475,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 426121
+    },
+    {
+      "period": "2015-10",
+      "views": 607541
+    },
+    {
+      "period": "2015-11",
+      "views": 80698
+    },
+    {
+      "period": "2025-12",
+      "views": 9115
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1114360
+    },
+    {
+      "period": "2025",
+      "views": 9115
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "qid": "Q130284179",
+  "label": "Sentimental Value",
+  "title": "Sentimental_Value",
+  "description": "2025 film directed by Joachim Trier",
+  "image": "",
+  "total": 1880079,
+  "monthly": [
+    {
+      "period": "2025-05",
+      "views": 55544
+    },
+    {
+      "period": "2025-11",
+      "views": 26383
+    },
+    {
+      "period": "2025-12",
+      "views": 338363
+    },
+    {
+      "period": "2026-01",
+      "views": 686297
+    },
+    {
+      "period": "2026-02",
+      "views": 276121
+    },
+    {
+      "period": "2026-03",
+      "views": 497371
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 420290
+    },
+    {
+      "period": "2026",
+      "views": 1459789
+    }
+  ]
+}

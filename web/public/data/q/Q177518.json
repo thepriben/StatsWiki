@@ -1,0 +1,28 @@
+{
+  "qid": "Q177518",
+  "label": "IPTV",
+  "title": "IPTV",
+  "description": "system through which television services are delivered using the Internet protocol suite",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IPTVnet.png?width=64",
+  "total": 956702,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 555789
+    },
+    {
+      "period": "2015-11",
+      "views": 232959
+    },
+    {
+      "period": "2015-12",
+      "views": 167954
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 956702
+    }
+  ]
+}

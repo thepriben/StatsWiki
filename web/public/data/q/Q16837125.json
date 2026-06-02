@@ -1,0 +1,36 @@
+{
+  "qid": "Q16837125",
+  "label": "Bajirao Mastani",
+  "title": "Bajirao_Mastani_(film)",
+  "description": "2015 film directed by Sanjay Leela Bhansali",
+  "image": "",
+  "total": 3168547,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 207496
+    },
+    {
+      "period": "2015-09",
+      "views": 9505
+    },
+    {
+      "period": "2015-10",
+      "views": 174672
+    },
+    {
+      "period": "2015-11",
+      "views": 568045
+    },
+    {
+      "period": "2015-12",
+      "views": 2208829
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 3168547
+    }
+  ]
+}

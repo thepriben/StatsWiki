@@ -1,0 +1,40 @@
+{
+  "qid": "Q18844729",
+  "label": "Mr. Robot",
+  "title": "Mr._Robot_(TV_series)",
+  "description": "American drama–thriller television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MR_Robot.svg?width=64",
+  "total": 4666388,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 1183636
+    },
+    {
+      "period": "2015-08",
+      "views": 1245875
+    },
+    {
+      "period": "2015-09",
+      "views": 1040714
+    },
+    {
+      "period": "2015-10",
+      "views": 425077
+    },
+    {
+      "period": "2015-11",
+      "views": 374337
+    },
+    {
+      "period": "2015-12",
+      "views": 396749
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 4666388
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "qid": "Q907311",
+  "label": "Netflix",
+  "title": "Netflix",
+  "description": "American subscription video on-demand over-the-top streaming service",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_headquarters.jpg?width=64",
+  "total": 8265441,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 214722
+    },
+    {
+      "period": "2015-08",
+      "views": 290790
+    },
+    {
+      "period": "2015-09",
+      "views": 307875
+    },
+    {
+      "period": "2015-10",
+      "views": 294128
+    },
+    {
+      "period": "2015-11",
+      "views": 287769
+    },
+    {
+      "period": "2015-12",
+      "views": 266517
+    },
+    {
+      "period": "2024-01",
+      "views": 518029
+    },
+    {
+      "period": "2024-02",
+      "views": 401179
+    },
+    {
+      "period": "2024-03",
+      "views": 446027
+    },
+    {
+      "period": "2024-04",
+      "views": 362458
+    },
+    {
+      "period": "2024-05",
+      "views": 402029
+    },
+    {
+      "period": "2024-06",
+      "views": 234404
+    },
+    {
+      "period": "2024-07",
+      "views": 170432
+    },
+    {
+      "period": "2024-08",
+      "views": 147356
+    },
+    {
+      "period": "2024-09",
+      "views": 269806
+    },
+    {
+      "period": "2024-10",
+      "views": 315193
+    },
+    {
+      "period": "2024-11",
+      "views": 345847
+    },
+    {
+      "period": "2024-12",
+      "views": 424745
+    },
+    {
+      "period": "2025-01",
+      "views": 673799
+    },
+    {
+      "period": "2025-02",
+      "views": 323198
+    },
+    {
+      "period": "2025-03",
+      "views": 237572
+    },
+    {
+      "period": "2025-04",
+      "views": 80596
+    },
+    {
+      "period": "2025-06",
+      "views": 51393
+    },
+    {
+      "period": "2025-07",
+      "views": 119964
+    },
+    {
+      "period": "2025-08",
+      "views": 174075
+    },
+    {
+      "period": "2025-09",
+      "views": 94547
+    },
+    {
+      "period": "2025-10",
+      "views": 86280
+    },
+    {
+      "period": "2025-11",
+      "views": 56710
+    },
+    {
+      "period": "2025-12",
+      "views": 485325
+    },
+    {
+      "period": "2026-01",
+      "views": 144276
+    },
+    {
+      "period": "2026-02",
+      "views": 12386
+    },
+    {
+      "period": "2026-03",
+      "views": 16578
+    },
+    {
+      "period": "2026-04",
+      "views": 9436
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1661801
+    },
+    {
+      "period": "2024",
+      "views": 4037505
+    },
+    {
+      "period": "2025",
+      "views": 2383459
+    },
+    {
+      "period": "2026",
+      "views": 182676
+    }
+  ]
+}

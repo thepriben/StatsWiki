@@ -1,0 +1,48 @@
+{
+  "qid": "Q4387047",
+  "label": "Wikipedia:Featured content",
+  "title": "Portal:Featured_content",
+  "description": "portal covering featured content on Wikipedia",
+  "image": "",
+  "total": 1187189,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 363400
+    },
+    {
+      "period": "2015-08",
+      "views": 333687
+    },
+    {
+      "period": "2015-09",
+      "views": 190889
+    },
+    {
+      "period": "2015-10",
+      "views": 166579
+    },
+    {
+      "period": "2015-11",
+      "views": 92362
+    },
+    {
+      "period": "2015-12",
+      "views": 9655
+    },
+    {
+      "period": "2025-09",
+      "views": 30617
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 1156572
+    },
+    {
+      "period": "2025",
+      "views": 30617
+    }
+  ]
+}
