@@ -101,7 +101,7 @@ cd web && npm ci && npm run dev
 | Workflow | Trigger | Role |
 |----------|---------|------|
 | **Deploy Pages** | Push or manual | Build Vue → publish |
-| **Daily update** | 08:00 & 14:00 UTC or manual | Yesterday → tweet top 5 → commit → deploy |
+| **Daily update** | 08:00 & 14:00 UTC or manual | Yesterday → commit → deploy |
 | **Backfill** | Manual (pick year) | One year of history |
 | **Backfill sequence** | Manual | 2025 → 2016 in one job |
 
@@ -119,35 +119,12 @@ Wikimedia publishes **top/day** pageviews roughly **24 hours after UTC midnight*
 
 | Run | UTC | Purpose |
 |-----|-----|---------|
-| Primary | **08:00** | Fetch yesterday, enrich, export, tweet |
+| Primary | **08:00** | Fetch yesterday, enrich, export |
 | Retry | **14:00** | Same pipeline if morning data was not ready |
 
 **If data is not available yet:** the fetch retries up to 3× per attempt (with backoff), then the job exits without commit or deploy. The 14:00 run tries again automatically.
 
 **If yesterday is already in the database** (e.g. after a successful morning run), the fetch is skipped but enrich/export still run — useful if Wikidata mapping changed.
-
-### Twitter (@StatsWiki)
-
-Each successful daily run posts **yesterday's top 5** to [@StatsWiki](https://x.com/StatsWiki) with a link to the day page.
-
-Add these **repository secrets** (Settings → Secrets and variables → Actions):
-
-| Secret | Description |
-|--------|-------------|
-| `TWITTER_API_KEY` | API key (Consumer Key) |
-| `TWITTER_API_SECRET` | API secret (Consumer Secret) |
-| `TWITTER_ACCESS_TOKEN` | Access token for @StatsWiki |
-| `TWITTER_ACCESS_TOKEN_SECRET` | Access token secret |
-
-Create an app at [developer.x.com](https://developer.x.com/) with **Read and write** permissions. Without secrets, the tweet step is skipped silently.
-
-Duplicate tweets are prevented via `data/tweet_log.json` (committed with the daily update).
-
-Local preview:
-
-```bash
-sw-tweet --dry-run
-```
 
 ---
 
