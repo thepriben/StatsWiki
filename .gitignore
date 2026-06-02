@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+pipeline/.venv/
+*.egg-info/
+
+# Frontend
+web/node_modules/
+web/dist/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Pipeline logs
+backfill.log
+
+# Legacy
+*.db

@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #f0f0f0;
+  color: #222;
+}
+
+a {
+  color: #0645ad;
+}
+
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+header {
+  background: #363636;
+  color: #fff;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.brand {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.tagline {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.toolbar a {
+  color: #adff2f;
+}
+
+.toolbar select,
+.toolbar button {
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid #666;
+  background: #444;
+  color: #fff;
+}
+
+.toolbar button {
+  cursor: pointer;
+  color: #adff2f;
+}
+
+main {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  min-height: 200px;
+}
+
+h1 {
+  margin: 0 0 16px;
+  font-size: 1.6rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.subnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+  padding: 8px;
+  background: #48466e;
+  border-radius: 8px;
+}
+
+.subnav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 2px 6px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+th.num,
+td.num {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.desc {
+  display: block;
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 2px;
+}
+
+.qid {
+  margin-left: 8px;
+  font-size: 0.75rem;
+  color: #888;
+}
+
+.thumb {
+  max-width: 28px;
+  max-height: 28px;
+  vertical-align: middle;
+  margin-left: 8px;
+}
+
+.error {
+  color: #666;
+  text-align: center;
+  padding: 32px;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: #666;
+}
+
+@media (max-width: 600px) {
+  .page {
+    padding: 8px;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+}
