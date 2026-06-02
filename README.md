@@ -319,8 +319,9 @@ See [Deployment](#deployment-github-pages) above for the deploy flow.
 Once the site is deployed, load history from July 2015:
 
 1. Actions → **Backfill** → Run workflow
-2. Pick one year at a time: 2015 → current year (2015 starts July 1)
-3. Each run ingests pageviews, enriches top 1000 articles with Wikidata, exports JSON, commits, and pushes (~5–10 min/year)
+2. **Start with the current year** (e.g. 2026) so the homepage (yesterday / this month / this year) has data right away
+3. Then backfill earlier years: 2025 → 2015 (2015 starts July 1)
+4. Each run ingests pageviews day by day, enriches top 1000 with Wikidata, exports JSON, commits, and pushes (~5–10 min/year)
 
 The push after each backfill triggers **Deploy Pages** automatically.
 
