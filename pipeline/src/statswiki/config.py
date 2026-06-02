@@ -8,6 +8,7 @@ PAGEVIEWS = DATA / "pageviews"
 ARTICLES = DATA / "articles.parquet"
 MANIFEST = DATA / "manifest.json"
 TWEET_LOG = DATA / "tweet_log.json"
+BSKY_LOG = DATA / "bsky_log.json"
 JSON_OUT = ROOT / "web" / "public" / "data"
 
 START = date(2015, 7, 1)
@@ -30,6 +31,8 @@ TWITTER_ENABLED = all(
         "TWITTER_ACCESS_TOKEN_SECRET",
     )
 )
+
+BSKY_ENABLED = all(os.environ.get(k) for k in ("BSKY_HANDLE", "BSKY_APP_PASSWORD"))
 
 MONTHS = [
     "January", "February", "March", "April", "May", "June",

@@ -17,6 +17,7 @@ sw-backfill = "statswiki.backfill:main"
 sw-enrich = "statswiki.wikidata:main"
 sw-export-qids = "statswiki.qid_export:main"
 sw-tweet = "statswiki.tweet:main"
+sw-bsky = "statswiki.bsky:main"
 
 [build-system]
 requires = ["setuptools>=68"]

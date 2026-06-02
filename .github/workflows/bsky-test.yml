@@ -1,10 +1,10 @@
-name: Tweet test
+name: Bluesky test
 
 on:
   workflow_dispatch:
     inputs:
       date:
-        description: "Day to tweet (YYYY-MM-DD). Default: yesterday"
+        description: "Day to post (YYYY-MM-DD). Default: yesterday"
         required: false
         type: string
 
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  tweet:
+  post:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,24 +23,22 @@ jobs:
 
       - run: pip install -e ./pipeline
 
-      - name: Tweet top 5 (@StatsWiki)
+      - name: Post top 5 to Bluesky
         env:
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
         run: |
           ARGS="--top 5 --strict --force"
           if [ -n "${{ inputs.date }}" ]; then
             ARGS="$ARGS --date ${{ inputs.date }}"
           fi
-          sw-tweet $ARGS
+          sw-bsky $ARGS
 
-      - name: Commit tweet log
+      - name: Commit post log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/tweet_log.json
-          git diff --staged --quiet || git commit -m "Tweet log update"
+          git add data/bsky_log.json
+          git diff --staged --quiet || git commit -m "Bluesky post log update"
           git pull --rebase origin main
           git push || true
