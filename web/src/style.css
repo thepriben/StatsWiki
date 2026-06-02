@@ -282,6 +282,22 @@ td.num {
   color: #1a56db;
 }
 
+.site-footer {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.repo-link {
+  color: #555;
+  text-decoration: none;
+}
+
+.repo-link:hover {
+  color: #1a56db;
+  text-decoration: underline;
+}
+
 @media (max-width: 600px) {
   .page {
     padding: 8px;

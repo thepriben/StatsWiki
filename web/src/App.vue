@@ -10,6 +10,7 @@ import {
   navigate,
   pad,
   parseIsoDate,
+  REPO_URL,
   yesterday,
 } from './lib.js';
 
@@ -215,5 +216,9 @@ watch(route, fetchData);
         <RankingTable v-else-if="lines.length" :lines="lines" @open-qid="go" />
       </template>
     </main>
+
+    <footer class="site-footer">
+      <a :href="REPO_URL" class="repo-link" target="_blank" rel="noopener noreferrer">GitHub repository</a>
+    </footer>
   </div>
 </template>

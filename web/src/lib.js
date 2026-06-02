@@ -1,6 +1,8 @@
 const BASE = import.meta.env.BASE_URL;
 const cache = new Map();
 
+export const REPO_URL = 'https://github.com/thepriben/StatsWiki';
+
 export const MONTHS = [
   'January', 'February', 'March', 'April', 'May', 'June',
   'July', 'August', 'September', 'October', 'November', 'December',
