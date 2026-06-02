@@ -6,6 +6,7 @@ dependencies = [
     "polars>=1.0",
     "pyarrow>=15.0",
     "requests>=2.31",
+    "tweepy>=4.14",
 ]
 
 [project.scripts]
@@ -15,6 +16,7 @@ sw-daily = "statswiki.daily:main"
 sw-backfill = "statswiki.backfill:main"
 sw-enrich = "statswiki.wikidata:main"
 sw-export-qids = "statswiki.qid_export:main"
+sw-tweet = "statswiki.tweet:main"
 
 [build-system]
 requires = ["setuptools>=68"]
