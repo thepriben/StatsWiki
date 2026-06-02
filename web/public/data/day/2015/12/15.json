@@ -1,0 +1,455 @@
+{
+  "period": "15 December 2015",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Star_Wars:_The_Force_Awakens",
+      "label": "Star Wars: Episode VII – The Force Awakens",
+      "description": "2015 film directed by J. J. Abrams",
+      "views": 480663,
+      "qid": "Q6074",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Force_Awakens.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Adele",
+      "label": "Adele",
+      "description": "English singer-songwriter (born 1988)",
+      "views": 344045,
+      "qid": "Q23215",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adele_2016.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Star_Wars",
+      "label": "Star Wars",
+      "description": "epic space opera multimedia franchise created by George Lucas",
+      "views": 264845,
+      "qid": "Q462",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_characters_at_Madame_Tussaud.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Web_scraping",
+      "label": "web scraping",
+      "description": "data scraping used for extracting data from websites",
+      "views": 244780,
+      "qid": "Q665452",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scrapp.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Java_(programming_language)",
+      "label": "Java",
+      "description": "object-oriented programming language",
+      "views": 143111,
+      "qid": "Q251",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_%28Java_mascot%29_waving.svg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Umberto_Eco",
+      "label": "Umberto Eco",
+      "description": "",
+      "views": 136804,
+      "qid": "Q_en_Umberto_Eco",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Acrania",
+      "label": "Acrania",
+      "description": "",
+      "views": 124340,
+      "qid": "Q_en_Acrania",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Roman_Reigns",
+      "label": "Roman Reigns",
+      "description": "American professional wrestler",
+      "views": 122307,
+      "qid": "Q275971",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Reigns_RR25_%281%29_%28headshot%29.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Merry_Pranksters",
+      "label": "Merry Pranksters",
+      "description": "",
+      "views": 118716,
+      "qid": "Q_en_Merry_Pranksters",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Conor_McGregor",
+      "label": "Conor McGregor",
+      "description": "Irish boxer and mixed martial arts fighter",
+      "views": 117714,
+      "qid": "Q5162259",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Conor_McGregor%2C_UFC_189_World_Tour_London_%282%29.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Timothy_Peake",
+      "label": "Timothy Peake",
+      "description": "",
+      "views": 114444,
+      "qid": "Q_en_Timothy_Peake",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 112946,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "History_of_writing",
+      "label": "History of writing",
+      "description": "",
+      "views": 112128,
+      "qid": "Q_en_History_of_writing",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "B._K._S._Iyengar",
+      "label": "B. K. S. Iyengar",
+      "description": "Indian yoga teacher and scholar (1918–2014)",
+      "views": 105984,
+      "qid": "Q557185",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BKS_Iyengar.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Childhood's_End",
+      "label": "Childhood's End",
+      "description": "",
+      "views": 99991,
+      "qid": "Q_en_Childhood's_End",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Deaths_in_2015",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 92026,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Riyad_Mahrez",
+      "label": "Riyad Mahrez",
+      "description": "",
+      "views": 89547,
+      "qid": "Q_en_Riyad_Mahrez",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Fantastic_Beasts_and_Where_to_Find_Them",
+      "label": "Fantastic Beasts and Where to Find Them",
+      "description": "",
+      "views": 84407,
+      "qid": "Q_en_Fantastic_Beasts_and_Where_to_Find_Them",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Remy_Ma",
+      "label": "Remy Ma",
+      "description": "",
+      "views": 81465,
+      "qid": "Q_en_Remy_Ma",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Star_Trek_Beyond",
+      "label": "Star Trek Beyond",
+      "description": "",
+      "views": 80695,
+      "qid": "Q_en_Star_Trek_Beyond",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Star_Wars_(film)",
+      "label": "Star Wars: Episode IV – A New Hope",
+      "description": "1977 film directed by George Lucas",
+      "views": 78767,
+      "qid": "Q17738",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_Logo.svg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Joy_(film)",
+      "label": "Joy",
+      "description": "Wikimedia disambiguation page",
+      "views": 78179,
+      "qid": "Q240850",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Odell_Beckham_Jr.",
+      "label": "Odell Beckham Jr.",
+      "description": "American football player (born 1992)",
+      "views": 73973,
+      "qid": "Q16212482",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odell_Beckham_Jr._%2851402744025%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "TLC:_Tables,_Ladders_and_Chairs_(2015)",
+      "label": "TLC: Tables, Ladders and Chairs (2015)",
+      "description": "2015 WWE pay-per-view and WWE Network event",
+      "views": 73858,
+      "qid": "Q19118417",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Carrie_Fisher",
+      "label": "Carrie Fisher",
+      "description": "American actress, writer and screenwriter (1956–2016)",
+      "views": 72322,
+      "qid": "Q108941",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrie_Fisher_2013-a_straightened.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "The_Revenant_(2015_film)",
+      "label": "The Revenant",
+      "description": "2015 film directed by Alejandro González Iñárritu",
+      "views": 70247,
+      "qid": "Q18002795",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Revenant.svg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Jamie_Vardy",
+      "label": "Jamie Vardy",
+      "description": "English association football player (born 1987)",
+      "views": 69346,
+      "qid": "Q6147586",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Vardy_2018.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Horatio_Gates",
+      "label": "Horatio Gates",
+      "description": "",
+      "views": 68892,
+      "qid": "Q_en_Horatio_Gates",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Fargo_(TV_series)",
+      "label": "Fargo",
+      "description": "American crime drama television series",
+      "views": 68798,
+      "qid": "Q15931555",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fargo_%28TV_logo%29.svg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "The_Expanse_(TV_series)",
+      "label": "The Expanse (TV series)",
+      "description": "",
+      "views": 68678,
+      "qid": "Q_en_The_Expanse_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Joy_Mangano",
+      "label": "Joy Mangano",
+      "description": "American inventor",
+      "views": 68389,
+      "qid": "Q6297195",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Fantastic_Beasts_and_Where_to_Find_Them_(film)",
+      "label": "Fantastic Beasts and Where to Find Them (film)",
+      "description": "",
+      "views": 67786,
+      "qid": "Q_en_Fantastic_Beasts_and_Where_to_Find_Them_(film)",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Mark_Hamill",
+      "label": "Mark Hamill",
+      "description": "American actor (born 1951)",
+      "views": 66108,
+      "qid": "Q210447",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_Hamill_by_Gage_Skidmore_5.jpg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Ted_Cruz",
+      "label": "Ted Cruz",
+      "description": "American politician (born 1970)",
+      "views": 64394,
+      "qid": "Q2036942",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Cruz_senatorial_portrait.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Helen_Sharman",
+      "label": "Helen Sharman",
+      "description": "",
+      "views": 62961,
+      "qid": "Q_en_Helen_Sharman",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Pete_Rose",
+      "label": "Pete Rose",
+      "description": "",
+      "views": 62570,
+      "qid": "Q_en_Pete_Rose",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Independence_Day:_Resurgence",
+      "label": "Independence Day: Resurgence",
+      "description": "",
+      "views": 62083,
+      "qid": "Q_en_Independence_Day:_Resurgence",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Barack_Obama",
+      "label": "Barack Obama",
+      "description": "president of the United States from 2009 to 2017 (born 1961)",
+      "views": 61973,
+      "qid": "Q76",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Barack_Obama.jpg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Damage_Control_(comics)",
+      "label": "Damage Control (comics)",
+      "description": "",
+      "views": 61360,
+      "qid": "Q_en_Damage_Control_(comics)",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Leicester_City_F.C.",
+      "label": "Leicester City F.C.",
+      "description": "",
+      "views": 61307,
+      "qid": "Q_en_Leicester_City_F.C.",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Jessica_Jones",
+      "label": "Jessica Jones",
+      "description": "fictional character in Marvel Comics",
+      "views": 60052,
+      "qid": "Q2271377",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica_Jones_-_24801301121.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Jessica_Jones_(TV_series)",
+      "label": "Jessica Jones",
+      "description": "2015 American television series",
+      "views": 59606,
+      "qid": "Q18605540",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JJONES.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Fargo_(season_2)",
+      "label": "Fargo, season 2",
+      "description": "second season of the American television series",
+      "views": 58658,
+      "qid": "Q21096926",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Supergirl_(U.S._TV_series)",
+      "label": "Supergirl",
+      "description": "2015 American superhero TV series",
+      "views": 55746,
+      "qid": "Q18844732",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Supergirl_%28Arrowverse_television_series%29_logo.svg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Lockheed_Martin_F-22_Raptor",
+      "label": "Lockheed Martin F-22 Raptor",
+      "description": "",
+      "views": 55050,
+      "qid": "Q_en_Lockheed_Martin_F-22_Raptor",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Dilwale_(2015_film)",
+      "label": "Dilwale",
+      "description": "2015 film directed by Rohit Shetty",
+      "views": 54897,
+      "qid": "Q19264035",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Harrison_Ford",
+      "label": "Harrison Ford",
+      "description": "American actor (born 1942)",
+      "views": 53497,
+      "qid": "Q81328",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison_Ford_-_Televerse_2025-03.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "The_Ridiculous_6",
+      "label": "The Ridiculous 6",
+      "description": "2015 film by Frank Coraci",
+      "views": 53015,
+      "qid": "Q19866927",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "J._J._Abrams",
+      "label": "J. J. Abrams",
+      "description": "American filmmaker (1966-)",
+      "views": 53010,
+      "qid": "Q188137",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/J._J._Abrams_%2823175170706%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Vince_McMahon",
+      "label": "Vince McMahon",
+      "description": "",
+      "views": 52910,
+      "qid": "Q_en_Vince_McMahon",
+      "image": ""
+    }
+  ]
+}
