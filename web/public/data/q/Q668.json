@@ -4,7 +4,7 @@
   "title": "India",
   "description": "country in South Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India-locator-map-blank.svg?width=64",
-  "total": 95441189,
+  "total": 106481280,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 860770
+    },
+    {
+      "period": "2016-01",
+      "views": 1026089
+    },
+    {
+      "period": "2016-02",
+      "views": 883867
+    },
+    {
+      "period": "2016-03",
+      "views": 843909
+    },
+    {
+      "period": "2016-04",
+      "views": 835752
+    },
+    {
+      "period": "2016-05",
+      "views": 893286
+    },
+    {
+      "period": "2016-06",
+      "views": 789082
+    },
+    {
+      "period": "2016-07",
+      "views": 872356
+    },
+    {
+      "period": "2016-08",
+      "views": 935785
+    },
+    {
+      "period": "2016-09",
+      "views": 885449
+    },
+    {
+      "period": "2016-10",
+      "views": 1026093
+    },
+    {
+      "period": "2016-11",
+      "views": 1058021
+    },
+    {
+      "period": "2016-12",
+      "views": 990402
     },
     {
       "period": "2018-01",
@@ -439,6 +487,10 @@
     {
       "period": "2015",
       "views": 5788039
+    },
+    {
+      "period": "2016",
+      "views": 11040091
     },
     {
       "period": "2018",

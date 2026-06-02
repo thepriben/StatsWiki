@@ -1,0 +1,455 @@
+{
+  "period": "25 March 2016",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Batman_v_Superman:_Dawn_of_Justice",
+      "label": "Batman v Superman: Dawn of Justice",
+      "description": "2016 film directed by Zack Snyder",
+      "views": 940615,
+      "qid": "Q14772351",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "Garry_Shandling",
+      "label": "Garry Shandling",
+      "description": "",
+      "views": 641884,
+      "qid": "Q_en_Garry_Shandling",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Good_Friday",
+      "label": "Good Friday",
+      "description": "",
+      "views": 448630,
+      "qid": "Q_en_Good_Friday",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Johan_Cruyff",
+      "label": "Johan Cruyff",
+      "description": "",
+      "views": 223580,
+      "qid": "Q_en_Johan_Cruyff",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Sia_Furler",
+      "label": "Sia",
+      "description": "Australian singer and songwriter (born 1975)",
+      "views": 222858,
+      "qid": "Q181484",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sia_performing_photograph_by_Kris_Krug.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 204252,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 196815,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Easter",
+      "label": "Easter",
+      "description": "",
+      "views": 147813,
+      "qid": "Q_en_Easter",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Gal_Gadot",
+      "label": "Gal Gadot",
+      "description": "Israeli actress, and model; Miss Israel 2004 (born 1985)",
+      "views": 125361,
+      "qid": "Q185654",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gal_Gadot_for_Revlon_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Jishnu",
+      "label": "Jishnu",
+      "description": "",
+      "views": 124133,
+      "qid": "Q_en_Jishnu",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Java_(programming_language)",
+      "label": "Java",
+      "description": "object-oriented programming language",
+      "views": 120499,
+      "qid": "Q251",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_%28Java_mascot%29_waving.svg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Deaths_in_2016",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 110035,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Pez",
+      "label": "Pez",
+      "description": "",
+      "views": 108588,
+      "qid": "Q_en_Pez",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Henry_Cavill",
+      "label": "Henry Cavill",
+      "description": "English actor (born 1983)",
+      "views": 104607,
+      "qid": "Q295498",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Cavill_%2848417913146%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Ben_Affleck",
+      "label": "Ben Affleck",
+      "description": "American film actor, director and screenwriter (born 1972)",
+      "views": 101506,
+      "qid": "Q483118",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Affleck_by_Gage_Skidmore_3.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Wonder_Woman",
+      "label": "Wonder Woman",
+      "description": "",
+      "views": 99569,
+      "qid": "Q_en_Wonder_Woman",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Linda_Doucett",
+      "label": "Linda Doucett",
+      "description": "",
+      "views": 93222,
+      "qid": "Q_en_Linda_Doucett",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Doomsday_(comics)",
+      "label": "Doomsday (comics)",
+      "description": "",
+      "views": 92077,
+      "qid": "Q_en_Doomsday_(comics)",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Justice_League",
+      "label": "Justice League",
+      "description": "",
+      "views": 85414,
+      "qid": "Q_en_Justice_League",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Deadpool_(film)",
+      "label": "Deadpool",
+      "description": "2016 film directed by Tim Miller",
+      "views": 81783,
+      "qid": "Q19347291",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deadpool%2C_Georgia_Viaduct%2C_Vancouver%2C_April_6_2015_-_3.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Melania_Trump",
+      "label": "Melania Trump",
+      "description": "First Lady of the United States (2017–2021; since 2025)",
+      "views": 79313,
+      "qid": "Q432473",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%28much_further_cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "The_Catch_(TV_series)",
+      "label": "The Catch (TV series)",
+      "description": "",
+      "views": 74798,
+      "qid": "Q_en_The_Catch_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Ruth_Graves_Wakefield",
+      "label": "Ruth Graves Wakefield",
+      "description": "",
+      "views": 74190,
+      "qid": "Q_en_Ruth_Graves_Wakefield",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Cyborg_(comics)",
+      "label": "Cyborg (comics)",
+      "description": "",
+      "views": 73014,
+      "qid": "Q_en_Cyborg_(comics)",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Man_of_Steel_(film)",
+      "label": "Man of Steel (film)",
+      "description": "",
+      "views": 70960,
+      "qid": "Q_en_Man_of_Steel_(film)",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "WrestleMania_32",
+      "label": "WrestleMania 32",
+      "description": "",
+      "views": 70900,
+      "qid": "Q_en_WrestleMania_32",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "2016_ICC_World_Twenty20",
+      "label": "2016 ICC World Twenty20",
+      "description": "",
+      "views": 70453,
+      "qid": "Q_en_2016_ICC_World_Twenty20",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Descendants_of_the_Sun",
+      "label": "Descendants of the Sun",
+      "description": "",
+      "views": 68657,
+      "qid": "Q_en_Descendants_of_the_Sun",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Zayn_Malik",
+      "label": "Zayn Malik",
+      "description": "English singer",
+      "views": 67532,
+      "qid": "Q3626950",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zayn_Wiki_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Katharine_McPhee",
+      "label": "Katharine McPhee",
+      "description": "",
+      "views": 66883,
+      "qid": "Q_en_Katharine_McPhee",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Scaphism",
+      "label": "Scaphism",
+      "description": "",
+      "views": 66684,
+      "qid": "Q_en_Scaphism",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Amy_Adams",
+      "label": "Amy Adams",
+      "description": "",
+      "views": 64786,
+      "qid": "Q_en_Amy_Adams",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Maundy_Thursday",
+      "label": "Maundy Thursday",
+      "description": "",
+      "views": 61890,
+      "qid": "Q_en_Maundy_Thursday",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Barack_Obama",
+      "label": "Barack Obama",
+      "description": "president of the United States from 2009 to 2017 (born 1961)",
+      "views": 61704,
+      "qid": "Q76",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Barack_Obama.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "10_Cloverfield_Lane",
+      "label": "10 Cloverfield Lane",
+      "description": "",
+      "views": 61431,
+      "qid": "Q_en_10_Cloverfield_Lane",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Freeze-dried_ice_cream",
+      "label": "Freeze-dried ice cream",
+      "description": "",
+      "views": 60806,
+      "qid": "Q_en_Freeze-dried_ice_cream",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Star_Wars:_The_Force_Awakens",
+      "label": "Star Wars: Episode VII – The Force Awakens",
+      "description": "2015 film directed by J. J. Abrams",
+      "views": 60143,
+      "qid": "Q6074",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Force_Awakens.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Punisher",
+      "label": "Punisher",
+      "description": "",
+      "views": 59326,
+      "qid": "Q_en_Punisher",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Radovan_Karadžić",
+      "label": "Radovan Karadžić",
+      "description": "",
+      "views": 59029,
+      "qid": "Q_en_Radovan_Karadžić",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "List_of_Bollywood_films_of_2016",
+      "label": "list of Bollywood films of 2016",
+      "description": "Wikimedia list article",
+      "views": 58951,
+      "qid": "Q19882412",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Daredevil_(TV_series)",
+      "label": "Daredevil",
+      "description": "2015–2018 American television series",
+      "views": 58013,
+      "qid": "Q16977365",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daredevil_Logo.svg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Daredevil_(season_2)",
+      "label": "Daredevil (season 2)",
+      "description": "",
+      "views": 57511,
+      "qid": "Q_en_Daredevil_(season_2)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Elektra_(comics)",
+      "label": "Elektra (comics)",
+      "description": "",
+      "views": 56621,
+      "qid": "Q_en_Elektra_(comics)",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Islamic_State_of_Iraq_and_the_Levant",
+      "label": "Islamic State",
+      "description": "Salafi jihadist militant Sunni Islamist group",
+      "views": 56318,
+      "qid": "Q2429253",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISIL_Caliphate_Seal.svg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Heidi_Cruz",
+      "label": "Heidi Cruz",
+      "description": "",
+      "views": 55138,
+      "qid": "Q_en_Heidi_Cruz",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Aquaman",
+      "label": "Aquaman",
+      "description": "",
+      "views": 53712,
+      "qid": "Q_en_Aquaman",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Ted_Cruz",
+      "label": "Ted Cruz",
+      "description": "American politician (born 1970)",
+      "views": 52536,
+      "qid": "Q2036942",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Cruz_senatorial_portrait.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "The_Death_of_Superman",
+      "label": "The Death of Superman",
+      "description": "",
+      "views": 52445,
+      "qid": "Q_en_The_Death_of_Superman",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Zack_Snyder",
+      "label": "Zack Snyder",
+      "description": "",
+      "views": 52323,
+      "qid": "Q_en_Zack_Snyder",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "The_Larry_Sanders_Show",
+      "label": "The Larry Sanders Show",
+      "description": "",
+      "views": 51997,
+      "qid": "Q_en_The_Larry_Sanders_Show",
+      "image": ""
+    }
+  ]
+}

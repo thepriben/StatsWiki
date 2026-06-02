@@ -4,7 +4,7 @@
   "title": "Trainwreck_(film)",
   "description": "2015 film directed by Judd Apatow",
   "image": "",
-  "total": 1768714,
+  "total": 1933455,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,24 @@
     {
       "period": "2015-12",
       "views": 172282
+    },
+    {
+      "period": "2016-01",
+      "views": 102892
+    },
+    {
+      "period": "2016-04",
+      "views": 61849
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1768714
+    },
+    {
+      "period": "2016",
+      "views": 164741
     }
   ]
 }

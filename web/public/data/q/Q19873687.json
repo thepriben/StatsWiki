@@ -4,8 +4,12 @@
   "title": "Belle_Gibson",
   "description": "Australian blogger, app publisher and alternative health advocate who falsely claimed donations to charity and to have terminal brain cancer",
   "image": "",
-  "total": 6716525,
+  "total": 6728594,
   "monthly": [
+    {
+      "period": "2016-05",
+      "views": 12069
+    },
     {
       "period": "2021-06",
       "views": 41799
@@ -52,6 +56,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 12069
+    },
     {
       "period": "2021",
       "views": 55423

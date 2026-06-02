@@ -4,7 +4,7 @@
   "title": "South_Park",
   "description": "American animated sitcom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/South_park_sign.svg?width=64",
-  "total": 3838731,
+  "total": 4284157,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,26 @@
     {
       "period": "2015-12",
       "views": 114905
+    },
+    {
+      "period": "2016-07",
+      "views": 9745
+    },
+    {
+      "period": "2016-09",
+      "views": 193069
+    },
+    {
+      "period": "2016-10",
+      "views": 108940
+    },
+    {
+      "period": "2016-11",
+      "views": 93790
+    },
+    {
+      "period": "2016-12",
+      "views": 39882
     },
     {
       "period": "2018-08",
@@ -159,6 +179,10 @@
     {
       "period": "2015",
       "views": 1079250
+    },
+    {
+      "period": "2016",
+      "views": 445426
     },
     {
       "period": "2018",

@@ -4,7 +4,7 @@
   "title": "Uniform_resource_locator",
   "description": "web address to a particular file or page",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uniform_Resource_Locator.svg?width=64",
-  "total": 3593197,
+  "total": 7210581,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,64 @@
     {
       "period": "2015-12",
       "views": 683465
+    },
+    {
+      "period": "2016-01",
+      "views": 18687
+    },
+    {
+      "period": "2016-02",
+      "views": 685022
+    },
+    {
+      "period": "2016-03",
+      "views": 474819
+    },
+    {
+      "period": "2016-04",
+      "views": 517960
+    },
+    {
+      "period": "2016-05",
+      "views": 213789
+    },
+    {
+      "period": "2016-06",
+      "views": 62116
+    },
+    {
+      "period": "2016-07",
+      "views": 35192
+    },
+    {
+      "period": "2016-08",
+      "views": 40000
+    },
+    {
+      "period": "2016-09",
+      "views": 687933
+    },
+    {
+      "period": "2016-10",
+      "views": 112163
+    },
+    {
+      "period": "2016-11",
+      "views": 359538
+    },
+    {
+      "period": "2016-12",
+      "views": 410165
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 3593197
+    },
+    {
+      "period": "2016",
+      "views": 3617384
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Martian_(film)",
   "description": "2015 film directed by Ridley Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Der_Marsianer_%E2%80%93_Rettet_Mark_Watney.svg?width=64",
-  "total": 5013491,
+  "total": 8402508,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,6 +25,54 @@
     {
       "period": "2015-12",
       "views": 700030
+    },
+    {
+      "period": "2016-01",
+      "views": 1284042
+    },
+    {
+      "period": "2016-02",
+      "views": 718036
+    },
+    {
+      "period": "2016-03",
+      "views": 409102
+    },
+    {
+      "period": "2016-04",
+      "views": 110096
+    },
+    {
+      "period": "2016-05",
+      "views": 30146
+    },
+    {
+      "period": "2016-06",
+      "views": 351836
+    },
+    {
+      "period": "2016-07",
+      "views": 132865
+    },
+    {
+      "period": "2016-08",
+      "views": 199821
+    },
+    {
+      "period": "2016-09",
+      "views": 61595
+    },
+    {
+      "period": "2016-10",
+      "views": 58152
+    },
+    {
+      "period": "2016-11",
+      "views": 9789
+    },
+    {
+      "period": "2016-12",
+      "views": 23537
     },
     {
       "period": "2018-01",
@@ -151,6 +199,10 @@
     {
       "period": "2015",
       "views": 4193368
+    },
+    {
+      "period": "2016",
+      "views": 3389017
     },
     {
       "period": "2018",

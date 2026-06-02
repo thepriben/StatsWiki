@@ -4,7 +4,7 @@
   "title": "Candis_Cayne",
   "description": "American actress and performance artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Candis_Cayne_2009.jpg?width=64",
-  "total": 989746,
+  "total": 1062690,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,28 @@
     {
       "period": "2015-09",
       "views": 232174
+    },
+    {
+      "period": "2016-02",
+      "views": 10495
+    },
+    {
+      "period": "2016-03",
+      "views": 37534
+    },
+    {
+      "period": "2016-04",
+      "views": 24915
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 989746
+    },
+    {
+      "period": "2016",
+      "views": 72944
     }
   ]
 }

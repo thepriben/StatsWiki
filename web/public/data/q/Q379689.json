@@ -4,7 +4,7 @@
   "title": "Generation_X",
   "description": "cohort succeeding the Baby Boomers, born from 1965 to 1980",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_B_145_Bild-F079012-0030%2C_Berlin%2C_Michael_Jackson-Konzert%2C_Wartende.jpg?width=64",
-  "total": 11122661,
+  "total": 14084775,
   "monthly": [
     {
       "period": "2015-10",
@@ -13,6 +13,54 @@
     {
       "period": "2015-12",
       "views": 46849
+    },
+    {
+      "period": "2016-01",
+      "views": 11610
+    },
+    {
+      "period": "2016-02",
+      "views": 111040
+    },
+    {
+      "period": "2016-03",
+      "views": 135833
+    },
+    {
+      "period": "2016-04",
+      "views": 71385
+    },
+    {
+      "period": "2016-05",
+      "views": 244979
+    },
+    {
+      "period": "2016-06",
+      "views": 28783
+    },
+    {
+      "period": "2016-07",
+      "views": 124686
+    },
+    {
+      "period": "2016-08",
+      "views": 226189
+    },
+    {
+      "period": "2016-09",
+      "views": 638709
+    },
+    {
+      "period": "2016-10",
+      "views": 467686
+    },
+    {
+      "period": "2016-11",
+      "views": 509290
+    },
+    {
+      "period": "2016-12",
+      "views": 391924
     },
     {
       "period": "2018-01",
@@ -271,6 +319,10 @@
     {
       "period": "2015",
       "views": 88091
+    },
+    {
+      "period": "2016",
+      "views": 2962114
     },
     {
       "period": "2018",

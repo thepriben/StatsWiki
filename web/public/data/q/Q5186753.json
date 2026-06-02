@@ -4,8 +4,12 @@
   "title": "Critical_race_theory",
   "description": "conceptual framework regarding society, race, and culture",
   "image": "",
-  "total": 11856770,
+  "total": 11971419,
   "monthly": [
+    {
+      "period": "2016-10",
+      "views": 114649
+    },
     {
       "period": "2020-09",
       "views": 630485
@@ -120,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 114649
+    },
     {
       "period": "2020",
       "views": 814594

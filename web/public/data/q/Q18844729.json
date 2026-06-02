@@ -4,7 +4,7 @@
   "title": "Mr._Robot_(TV_series)",
   "description": "American drama–thriller television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MR_Robot.svg?width=64",
-  "total": 4666388,
+  "total": 11161079,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,64 @@
     {
       "period": "2015-12",
       "views": 396749
+    },
+    {
+      "period": "2016-01",
+      "views": 960604
+    },
+    {
+      "period": "2016-02",
+      "views": 363709
+    },
+    {
+      "period": "2016-03",
+      "views": 309342
+    },
+    {
+      "period": "2016-04",
+      "views": 56552
+    },
+    {
+      "period": "2016-05",
+      "views": 131269
+    },
+    {
+      "period": "2016-06",
+      "views": 339548
+    },
+    {
+      "period": "2016-07",
+      "views": 1378362
+    },
+    {
+      "period": "2016-08",
+      "views": 1078498
+    },
+    {
+      "period": "2016-09",
+      "views": 1138585
+    },
+    {
+      "period": "2016-10",
+      "views": 480354
+    },
+    {
+      "period": "2016-11",
+      "views": 189593
+    },
+    {
+      "period": "2016-12",
+      "views": 68275
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 4666388
+    },
+    {
+      "period": "2016",
+      "views": 6494691
     }
   ]
 }

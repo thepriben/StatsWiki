@@ -4,8 +4,20 @@
   "title": "David_Harbour",
   "description": "American actor (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Harbour_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 8268805,
+  "total": 8900572,
   "monthly": [
+    {
+      "period": "2016-07",
+      "views": 218984
+    },
+    {
+      "period": "2016-08",
+      "views": 341516
+    },
+    {
+      "period": "2016-09",
+      "views": 71267
+    },
     {
       "period": "2018-01",
       "views": 61657
@@ -176,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 631767
+    },
     {
       "period": "2018",
       "views": 261727

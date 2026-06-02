@@ -4,7 +4,7 @@
   "title": "John_Lennon",
   "description": "British musician (1940–1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Lennon_portrait.jpg?width=64",
-  "total": 31651612,
+  "total": 34046833,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 567252
+    },
+    {
+      "period": "2016-01",
+      "views": 257246
+    },
+    {
+      "period": "2016-02",
+      "views": 198700
+    },
+    {
+      "period": "2016-03",
+      "views": 141717
+    },
+    {
+      "period": "2016-04",
+      "views": 202216
+    },
+    {
+      "period": "2016-05",
+      "views": 132575
+    },
+    {
+      "period": "2016-06",
+      "views": 70905
+    },
+    {
+      "period": "2016-07",
+      "views": 18943
+    },
+    {
+      "period": "2016-08",
+      "views": 66270
+    },
+    {
+      "period": "2016-09",
+      "views": 233074
+    },
+    {
+      "period": "2016-10",
+      "views": 379729
+    },
+    {
+      "period": "2016-11",
+      "views": 241592
+    },
+    {
+      "period": "2016-12",
+      "views": 452254
     },
     {
       "period": "2018-01",
@@ -439,6 +487,10 @@
     {
       "period": "2015",
       "views": 1958494
+    },
+    {
+      "period": "2016",
+      "views": 2395221
     },
     {
       "period": "2018",

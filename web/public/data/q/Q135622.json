@@ -4,11 +4,31 @@
   "title": "Google_Translate",
   "description": "multilingual neural machine translation service from Google",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot_of_Google_Translate.png?width=64",
-  "total": 36481938,
+  "total": 38041943,
   "monthly": [
     {
       "period": "2015-12",
       "views": 124749
+    },
+    {
+      "period": "2016-08",
+      "views": 17792
+    },
+    {
+      "period": "2016-09",
+      "views": 182169
+    },
+    {
+      "period": "2016-10",
+      "views": 653008
+    },
+    {
+      "period": "2016-11",
+      "views": 465990
+    },
+    {
+      "period": "2016-12",
+      "views": 241046
     },
     {
       "period": "2018-07",
@@ -267,6 +287,10 @@
     {
       "period": "2015",
       "views": 124749
+    },
+    {
+      "period": "2016",
+      "views": 1560005
     },
     {
       "period": "2018",

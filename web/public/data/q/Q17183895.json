@@ -4,7 +4,7 @@
   "title": "The_Walk_(2015_film)",
   "description": "2015 film by Robert Zemeckis",
   "image": "",
-  "total": 1461248,
+  "total": 1731920,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,28 @@
     {
       "period": "2015-12",
       "views": 165557
+    },
+    {
+      "period": "2016-01",
+      "views": 222831
+    },
+    {
+      "period": "2016-06",
+      "views": 25988
+    },
+    {
+      "period": "2016-09",
+      "views": 21853
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1461248
+    },
+    {
+      "period": "2016",
+      "views": 270672
     }
   ]
 }

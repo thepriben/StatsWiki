@@ -4,7 +4,7 @@
   "title": "Selena",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Selena_Quintanilla_pintura.jpg?width=64",
-  "total": 10605501,
+  "total": 11959167,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 25254
+    },
+    {
+      "period": "2016-01",
+      "views": 56016
+    },
+    {
+      "period": "2016-02",
+      "views": 32480
+    },
+    {
+      "period": "2016-03",
+      "views": 123689
+    },
+    {
+      "period": "2016-04",
+      "views": 365166
+    },
+    {
+      "period": "2016-05",
+      "views": 38225
+    },
+    {
+      "period": "2016-06",
+      "views": 125490
+    },
+    {
+      "period": "2016-07",
+      "views": 85963
+    },
+    {
+      "period": "2016-08",
+      "views": 109933
+    },
+    {
+      "period": "2016-09",
+      "views": 122459
+    },
+    {
+      "period": "2016-10",
+      "views": 177849
+    },
+    {
+      "period": "2016-11",
+      "views": 93394
+    },
+    {
+      "period": "2016-12",
+      "views": 23002
     },
     {
       "period": "2018-01",
@@ -331,6 +379,10 @@
     {
       "period": "2015",
       "views": 212533
+    },
+    {
+      "period": "2016",
+      "views": 1353666
     },
     {
       "period": "2018",

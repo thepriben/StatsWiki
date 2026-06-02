@@ -1,10 +1,10 @@
 {
   "qid": "Q7207",
   "label": "Elizabeth I of England",
-  "title": "Elizabeth_I",
+  "title": "Elizabeth_I_of_England",
   "description": "Queen of England and Ireland from 1558 to 1603",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darnley_stage_3.jpg?width=64",
-  "total": 26058186,
+  "total": 31249777,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 303443
+    },
+    {
+      "period": "2016-01",
+      "views": 420026
+    },
+    {
+      "period": "2016-02",
+      "views": 384483
+    },
+    {
+      "period": "2016-03",
+      "views": 306544
+    },
+    {
+      "period": "2016-04",
+      "views": 450505
+    },
+    {
+      "period": "2016-05",
+      "views": 417622
+    },
+    {
+      "period": "2016-06",
+      "views": 385526
+    },
+    {
+      "period": "2016-07",
+      "views": 274892
+    },
+    {
+      "period": "2016-08",
+      "views": 889342
+    },
+    {
+      "period": "2016-09",
+      "views": 383958
+    },
+    {
+      "period": "2016-10",
+      "views": 359832
+    },
+    {
+      "period": "2016-11",
+      "views": 514362
+    },
+    {
+      "period": "2016-12",
+      "views": 404499
     },
     {
       "period": "2018-01",
@@ -427,6 +475,10 @@
     {
       "period": "2015",
       "views": 1551054
+    },
+    {
+      "period": "2016",
+      "views": 5191591
     },
     {
       "period": "2018",

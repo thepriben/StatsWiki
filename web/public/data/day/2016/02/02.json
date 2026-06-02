@@ -1,0 +1,455 @@
+{
+  "period": "2 February 2016",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 1126257,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Iowa_caucuses",
+      "label": "Iowa caucuses",
+      "description": "",
+      "views": 951840,
+      "qid": "Q_en_Iowa_caucuses",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Ted_Cruz",
+      "label": "Ted Cruz",
+      "description": "American politician (born 1970)",
+      "views": 595533,
+      "qid": "Q2036942",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Cruz_senatorial_portrait.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Web_scraping",
+      "label": "web scraping",
+      "description": "data scraping used for extracting data from websites",
+      "views": 542334,
+      "qid": "Q665452",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scrapp.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Question_mark",
+      "label": "Question mark",
+      "description": "",
+      "views": 522905,
+      "qid": "Q_en_Question_mark",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Groundhog_Day",
+      "label": "Groundhog Day",
+      "description": "",
+      "views": 497576,
+      "qid": "Q_en_Groundhog_Day",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Bernie_Sanders",
+      "label": "Bernie Sanders",
+      "description": "United States Senator from Vermont",
+      "views": 364027,
+      "qid": "Q359442",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernie_Sanders_2023.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Marco_Rubio",
+      "label": "Marco Rubio",
+      "description": "72nd United States Secretary of State since 2025",
+      "views": 302688,
+      "qid": "Q324546",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Secretary_Marco_Rubio.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Zika_virus",
+      "label": "Zika virus",
+      "description": "",
+      "views": 294273,
+      "qid": "Q_en_Zika_virus",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Maratha",
+      "label": "Maratha",
+      "description": "",
+      "views": 288318,
+      "qid": "Q_en_Maratha",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 227349,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "New_York-style_pizza",
+      "label": "New York-style pizza",
+      "description": "",
+      "views": 215498,
+      "qid": "Q_en_New_York-style_pizza",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Caucus",
+      "label": "Caucus",
+      "description": "",
+      "views": 183339,
+      "qid": "Q_en_Caucus",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Soupy_Sales",
+      "label": "Soupy Sales",
+      "description": "",
+      "views": 168490,
+      "qid": "Q_en_Soupy_Sales",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Democratic_Party_presidential_primaries,_2016",
+      "label": "Democratic Party presidential primaries, 2016",
+      "description": "",
+      "views": 150672,
+      "qid": "Q_en_Democratic_Party_presidential_primaries,_2016",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "United_States_presidential_primary",
+      "label": "United States presidential primary",
+      "description": "",
+      "views": 146469,
+      "qid": "Q_en_United_States_presidential_primary",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Salvatore",
+      "label": "Salvatore",
+      "description": "",
+      "views": 143146,
+      "qid": "Q_en_Salvatore",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "United_States_presidential_election,_2016",
+      "label": "2016 United States presidential election",
+      "description": "58th quadrennial U.S. presidential election",
+      "views": 140374,
+      "qid": "Q699872",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Grease:_Live",
+      "label": "Grease: Live",
+      "description": "",
+      "views": 139114,
+      "qid": "Q_en_Grease:_Live",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Lockheed_SR-71_Blackbird",
+      "label": "Lockheed SR-71 Blackbird",
+      "description": "",
+      "views": 138765,
+      "qid": "Q_en_Lockheed_SR-71_Blackbird",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Frederick_Douglass",
+      "label": "Frederick Douglass",
+      "description": "",
+      "views": 131102,
+      "qid": "Q_en_Frederick_Douglass",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Republican_Party_presidential_primaries,_2016",
+      "label": "Republican Party presidential primaries, 2016",
+      "description": "",
+      "views": 125171,
+      "qid": "Q_en_Republican_Party_presidential_primaries,_2016",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Punxsutawney_Phil",
+      "label": "Punxsutawney Phil",
+      "description": "",
+      "views": 121029,
+      "qid": "Q_en_Punxsutawney_Phil",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "New_Hampshire_primary",
+      "label": "New Hampshire primary",
+      "description": "",
+      "views": 119850,
+      "qid": "Q_en_New_Hampshire_primary",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Burning_of_Washington",
+      "label": "Burning of Washington",
+      "description": "",
+      "views": 115536,
+      "qid": "Q_en_Burning_of_Washington",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Goiânia_accident",
+      "label": "Goiânia accident",
+      "description": "",
+      "views": 111016,
+      "qid": "Q_en_Goiânia_accident",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Alphabet_Inc.",
+      "label": "Alphabet Inc.",
+      "description": "",
+      "views": 110507,
+      "qid": "Q_en_Alphabet_Inc.",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Melania_Trump",
+      "label": "Melania Trump",
+      "description": "First Lady of the United States (2017–2021; since 2025)",
+      "views": 98504,
+      "qid": "Q432473",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%28much_further_cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Lucifer_(TV_series)",
+      "label": "Lucifer",
+      "description": "American television series (2016–2021)",
+      "views": 97815,
+      "qid": "Q19520525",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucifer_%28DC_Entertainment%29_logo.svg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Deaths_in_2016",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 97393,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "O._J._Simpson",
+      "label": "O. J. Simpson",
+      "description": "American football player and actor (1947–2024)",
+      "views": 97120,
+      "qid": "Q44473",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Hillary_Clinton",
+      "label": "Hillary Clinton",
+      "description": "American politician and diplomat (born 1947)",
+      "views": 94925,
+      "qid": "Q6294",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "June_and_Jennifer_Gibbons",
+      "label": "June and Jennifer Gibbons",
+      "description": "",
+      "views": 92395,
+      "qid": "Q_en_June_and_Jennifer_Gibbons",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Ronald_Reagan",
+      "label": "Ronald Reagan",
+      "description": "president of the United States from 1981 to 1989 and actor (1911-2004)",
+      "views": 89923,
+      "qid": "Q9960",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ronald_Reagan_1981_presidential_portrait.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Heidi_Cruz",
+      "label": "Heidi Cruz",
+      "description": "",
+      "views": 89654,
+      "qid": "Q_en_Heidi_Cruz",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Human",
+      "label": "Human",
+      "description": "",
+      "views": 80673,
+      "qid": "Q_en_Human",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Roosh_V",
+      "label": "Roosh V",
+      "description": "",
+      "views": 79913,
+      "qid": "Q_en_Roosh_V",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Java_(programming_language)",
+      "label": "Java",
+      "description": "object-oriented programming language",
+      "views": 77834,
+      "qid": "Q251",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_%28Java_mascot%29_waving.svg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Cam_Newton",
+      "label": "Cam Newton",
+      "description": "American football player (born 1989)",
+      "views": 76626,
+      "qid": "Q591678",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cam_Newton_-_Carolina_Panthers.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "American_Crime_Story",
+      "label": "American Crime Story",
+      "description": "",
+      "views": 75345,
+      "qid": "Q_en_American_Crime_Story",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Super_Bowl_50",
+      "label": "Super Bowl 50",
+      "description": "",
+      "views": 73403,
+      "qid": "Q_en_Super_Bowl_50",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Ivanka_Trump",
+      "label": "Ivanka Trump",
+      "description": "American businesswoman, socialite and political advisior (born 1981)",
+      "views": 72163,
+      "qid": "Q239411",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivanka_Trump_official_portrait_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "The_Revenant_(2015_film)",
+      "label": "The Revenant",
+      "description": "2015 film directed by Alejandro González Iñárritu",
+      "views": 70521,
+      "qid": "Q18002795",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Revenant.svg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Star_Wars:_The_Force_Awakens",
+      "label": "Star Wars: Episode VII – The Force Awakens",
+      "description": "2015 film directed by J. J. Abrams",
+      "views": 70263,
+      "qid": "Q6074",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Force_Awakens.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Iowa",
+      "label": "Iowa",
+      "description": "",
+      "views": 70177,
+      "qid": "Q_en_Iowa",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Fine_Brothers",
+      "label": "Fine Brothers",
+      "description": "",
+      "views": 69497,
+      "qid": "Q_en_Fine_Brothers",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "United_States_presidential_election_in_Iowa,_2016",
+      "label": "United States presidential election in Iowa, 2016",
+      "description": "",
+      "views": 66675,
+      "qid": "Q_en_United_States_presidential_election_in_Iowa,_2016",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "The_X-Files",
+      "label": "The X-Files",
+      "description": "",
+      "views": 65927,
+      "qid": "Q_en_The_X-Files",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Aaron_Tveit",
+      "label": "Aaron Tveit",
+      "description": "",
+      "views": 65615,
+      "qid": "Q_en_Aaron_Tveit",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "The_X-Files_(TV_season_10)",
+      "label": "The X-Files (TV season 10)",
+      "description": "",
+      "views": 64805,
+      "qid": "Q_en_The_X-Files_(TV_season_10)",
+      "image": ""
+    }
+  ]
+}

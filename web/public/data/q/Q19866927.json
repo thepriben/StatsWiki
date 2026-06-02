@@ -4,17 +4,25 @@
   "title": "The_Ridiculous_6",
   "description": "2015 film by Frank Coraci",
   "image": "",
-  "total": 910021,
+  "total": 1062546,
   "monthly": [
     {
       "period": "2015-12",
       "views": 910021
+    },
+    {
+      "period": "2016-01",
+      "views": 152525
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 910021
+    },
+    {
+      "period": "2016",
+      "views": 152525
     }
   ]
 }

@@ -4,8 +4,32 @@
   "title": "Cillian_Murphy",
   "description": "Irish actor (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CillianMurphy-TIFF2025-01-Cropped_%28cropped%29.png?width=64",
-  "total": 26058045,
+  "total": 26608279,
   "monthly": [
+    {
+      "period": "2016-05",
+      "views": 238116
+    },
+    {
+      "period": "2016-06",
+      "views": 176683
+    },
+    {
+      "period": "2016-07",
+      "views": 9179
+    },
+    {
+      "period": "2016-08",
+      "views": 56728
+    },
+    {
+      "period": "2016-09",
+      "views": 42444
+    },
+    {
+      "period": "2016-12",
+      "views": 27084
+    },
     {
       "period": "2018-01",
       "views": 627534
@@ -364,6 +388,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 550234
+    },
     {
       "period": "2018",
       "views": 935484

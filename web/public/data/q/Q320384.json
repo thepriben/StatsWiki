@@ -4,7 +4,7 @@
   "title": "Beetlejuice",
   "description": "1988 film directed by Tim Burton",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beetlejuice_at_Universal_Studios_Hollywood.JPG?width=64",
-  "total": 7027414,
+  "total": 7049266,
   "monthly": [
     {
       "period": "2015-08",
@@ -17,6 +17,14 @@
     {
       "period": "2015-11",
       "views": 17723
+    },
+    {
+      "period": "2016-10",
+      "views": 12638
+    },
+    {
+      "period": "2016-11",
+      "views": 9214
     },
     {
       "period": "2018-03",
@@ -179,6 +187,10 @@
     {
       "period": "2015",
       "views": 72071
+    },
+    {
+      "period": "2016",
+      "views": 21852
     },
     {
       "period": "2018",

@@ -4,8 +4,28 @@
   "title": "BTS",
   "description": "South Korean musical group; boy band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg?width=64",
-  "total": 45308083,
+  "total": 46329283,
   "monthly": [
+    {
+      "period": "2016-05",
+      "views": 93654
+    },
+    {
+      "period": "2016-06",
+      "views": 46281
+    },
+    {
+      "period": "2016-10",
+      "views": 270949
+    },
+    {
+      "period": "2016-11",
+      "views": 270251
+    },
+    {
+      "period": "2016-12",
+      "views": 340065
+    },
     {
       "period": "2018-01",
       "views": 663268
@@ -348,6 +368,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 1021200
+    },
     {
       "period": "2018",
       "views": 14340925

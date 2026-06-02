@@ -4,8 +4,12 @@
   "title": "Wuthering_Heights",
   "description": "1847 novel by Emily Brontë",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg?width=64",
-  "total": 6433350,
+  "total": 6451279,
   "monthly": [
+    {
+      "period": "2016-09",
+      "views": 17929
+    },
     {
       "period": "2018-07",
       "views": 14645
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 17929
+    },
     {
       "period": "2018",
       "views": 14645

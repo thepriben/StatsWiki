@@ -4,7 +4,7 @@
   "title": "List_of_highest-grossing_Bollywood_films",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 3570860,
+  "total": 4323225,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,28 @@
     {
       "period": "2015-12",
       "views": 600884
+    },
+    {
+      "period": "2016-01",
+      "views": 233958
+    },
+    {
+      "period": "2016-07",
+      "views": 435211
+    },
+    {
+      "period": "2016-08",
+      "views": 83196
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 3570860
+    },
+    {
+      "period": "2016",
+      "views": 752365
     }
   ]
 }

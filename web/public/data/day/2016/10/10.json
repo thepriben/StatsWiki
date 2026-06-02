@@ -1,0 +1,455 @@
+{
+  "period": "10 October 2016",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 483248,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Billy_Bush",
+      "label": "Billy Bush",
+      "description": "",
+      "views": 448933,
+      "qid": "Q_en_Billy_Bush",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "No_Mercy_(2016)",
+      "label": "No Mercy (2016)",
+      "description": "",
+      "views": 344541,
+      "qid": "Q_en_No_Mercy_(2016)",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Hillary_Clinton",
+      "label": "Hillary Clinton",
+      "description": "American politician and diplomat (born 1947)",
+      "views": 331364,
+      "qid": "Q6294",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "404.php",
+      "label": "HTTP 404",
+      "description": "HTTP error response code",
+      "views": 319878,
+      "qid": "Q404",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/404_not_found.svg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "AMGTV",
+      "label": "Allen Media Group",
+      "description": "American media company",
+      "views": 291787,
+      "qid": "Q5380468",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Media_Group_Logo_2022.svg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Anderson_Cooper",
+      "label": "Anderson Cooper",
+      "description": "",
+      "views": 280660,
+      "qid": "Q_en_Anderson_Cooper",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Proyecto_40",
+      "label": "adn Noticias",
+      "description": "television network",
+      "views": 255666,
+      "qid": "Q8042151",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Bill_Clinton",
+      "label": "Bill Clinton",
+      "description": "President of the United States from 1993 to 2001 (born 1946)",
+      "views": 202600,
+      "qid": "Q1124",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Clinton.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Westworld_(TV_series)",
+      "label": "Westworld",
+      "description": "2016 American science fiction television series",
+      "views": 193934,
+      "qid": "Q17572811",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Westworld_Logo.svg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 190697,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Lali_Espósito",
+      "label": "Lali Espósito",
+      "description": "Argentine singer and actress",
+      "views": 184687,
+      "qid": "Q466762",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lali_en_DDM_01.png?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Legal_realism",
+      "label": "Legal realism",
+      "description": "",
+      "views": 181468,
+      "qid": "Q_en_Legal_realism",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Bill_Clinton_sexual_misconduct_allegations",
+      "label": "Bill Clinton sexual misconduct allegations",
+      "description": "",
+      "views": 174766,
+      "qid": "Q_en_Bill_Clinton_sexual_misconduct_allegations",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Melania_Trump",
+      "label": "Melania Trump",
+      "description": "First Lady of the United States (2017–2021; since 2025)",
+      "views": 154249,
+      "qid": "Q432473",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%28much_further_cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Ivanka_Trump",
+      "label": "Ivanka Trump",
+      "description": "American businesswoman, socialite and political advisior (born 1981)",
+      "views": 153154,
+      "qid": "Q239411",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivanka_Trump_official_portrait_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Divorce_in_Islam",
+      "label": "Divorce in Islam",
+      "description": "",
+      "views": 135843,
+      "qid": "Q_en_Divorce_in_Islam",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Impeachment_of_Bill_Clinton",
+      "label": "Impeachment of Bill Clinton",
+      "description": "",
+      "views": 135300,
+      "qid": "Q_en_Impeachment_of_Bill_Clinton",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Paula_Jones",
+      "label": "Paula Jones",
+      "description": "",
+      "views": 121153,
+      "qid": "Q_en_Paula_Jones",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Columbus_Day",
+      "label": "Columbus Day",
+      "description": "",
+      "views": 118864,
+      "qid": "Q_en_Columbus_Day",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Christopher_Columbus",
+      "label": "Christopher Columbus",
+      "description": "Italian navigator, explorer, and colonist (1451–1506)",
+      "views": 118140,
+      "qid": "Q7322",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Monica_Lewinsky",
+      "label": "Monica Lewinsky",
+      "description": "",
+      "views": 113913,
+      "qid": "Q_en_Monica_Lewinsky",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Peter_Brock",
+      "label": "Peter Brock",
+      "description": "",
+      "views": 112980,
+      "qid": "Q_en_Peter_Brock",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Luke_Cage",
+      "label": "Luke Cage",
+      "description": "fictional character in Marvel Comics",
+      "views": 110938,
+      "qid": "Q2267760",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luke_Cage_cosplay.jpg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Night_parrot",
+      "label": "Night parrot",
+      "description": "",
+      "views": 110286,
+      "qid": "Q_en_Night_parrot",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Juanita_Broaddrick",
+      "label": "Juanita Broaddrick",
+      "description": "",
+      "views": 110198,
+      "qid": "Q_en_Juanita_Broaddrick",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Tiffany_Trump",
+      "label": "Tiffany Trump",
+      "description": "American socialite, research assistant and reality television personality (born 1993)",
+      "views": 108540,
+      "qid": "Q12071552",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiffany_Trump_RNC_July_2016.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Martha_Raddatz",
+      "label": "Martha Raddatz",
+      "description": "",
+      "views": 106057,
+      "qid": "Q_en_Martha_Raddatz",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Queen_Victoria",
+      "label": "Victoria of the United Kingdom",
+      "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+      "views": 103742,
+      "qid": "Q9439",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "United_States_presidential_election,_2016",
+      "label": "2016 United States presidential election",
+      "description": "58th quadrennial U.S. presidential election",
+      "views": 102313,
+      "qid": "Q699872",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Ivana_Trump",
+      "label": "Ivana Trump",
+      "description": "Czech-American businesswoman (1949–2022)",
+      "views": 97475,
+      "qid": "Q242351",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivana_Trump_cropped_retouched.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Carried_interest",
+      "label": "Carried interest",
+      "description": "",
+      "views": 90547,
+      "qid": "Q_en_Carried_interest",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Westworld",
+      "label": "Westworld",
+      "description": "",
+      "views": 89887,
+      "qid": "Q_en_Westworld",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Deaths_in_2016",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 87732,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Jonathan_Bush",
+      "label": "Jonathan Bush",
+      "description": "",
+      "views": 85815,
+      "qid": "Q_en_Jonathan_Bush",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "List_of_municipalities_in_Rhode_Island",
+      "label": "List of municipalities in Rhode Island",
+      "description": "",
+      "views": 83419,
+      "qid": "Q_en_List_of_municipalities_in_Rhode_Island",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Marla_Maples",
+      "label": "Marla Maples",
+      "description": "American actress and TV personality (born 1963)",
+      "views": 82109,
+      "qid": "Q2597050",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marla_Maples_%282014%29.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "2012_Benghazi_attack",
+      "label": "2012 Benghazi attack",
+      "description": "attack against two United States government facilities in Benghazi, Libya.",
+      "views": 78885,
+      "qid": "Q199416",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambassador_christopher_stevens.jpg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Red_hair",
+      "label": "Red hair",
+      "description": "",
+      "views": 78037,
+      "qid": "Q_en_Red_hair",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Kellyanne_Conway",
+      "label": "Kellyanne Conway",
+      "description": "",
+      "views": 77542,
+      "qid": "Q_en_Kellyanne_Conway",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Luke_Cage_(TV_series)",
+      "label": "Luke Cage (TV series)",
+      "description": "",
+      "views": 77108,
+      "qid": "Q_en_Luke_Cage_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Thanksgiving_(Canada)",
+      "label": "Thanksgiving (Canada)",
+      "description": "",
+      "views": 75329,
+      "qid": "Q_en_Thanksgiving_(Canada)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Donald_Trump_Jr.",
+      "label": "Donald Trump Jr.",
+      "description": "American businessman and reality television personality (born 1977)",
+      "views": 74754,
+      "qid": "Q3713655",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald_Trump%2C_Jr._%2853808883476%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "James_O._Richardson",
+      "label": "James O. Richardson",
+      "description": "",
+      "views": 74517,
+      "qid": "Q_en_James_O._Richardson",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Siege_of_Jadotville",
+      "label": "Siege of Jadotville",
+      "description": "",
+      "views": 73934,
+      "qid": "Q_en_Siege_of_Jadotville",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "La7",
+      "label": "La7",
+      "description": "",
+      "views": 73726,
+      "qid": "Q_en_La7",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Hillary_Clinton_email_controversy",
+      "label": "Hillary Clinton email controversy",
+      "description": "",
+      "views": 72899,
+      "qid": "Q_en_Hillary_Clinton_email_controversy",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Hurricane_Matthew",
+      "label": "Hurricane Matthew",
+      "description": "",
+      "views": 71936,
+      "qid": "Q_en_Hurricane_Matthew",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Chelsea_Clinton",
+      "label": "Chelsea Clinton",
+      "description": "",
+      "views": 70334,
+      "qid": "Q_en_Chelsea_Clinton",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Pablo_Escobar",
+      "label": "Pablo Escobar",
+      "description": "Colombian drug lord (1949–1993)",
+      "views": 70262,
+      "qid": "Q187447",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo_Escobar_Mug.jpg?width=64"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "The_Walking_Dead_(season_6)",
   "description": "season of television series",
   "image": "",
-  "total": 4345511,
+  "total": 10654272,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,12 +25,60 @@
     {
       "period": "2015-12",
       "views": 886106
+    },
+    {
+      "period": "2016-01",
+      "views": 670673
+    },
+    {
+      "period": "2016-02",
+      "views": 1391204
+    },
+    {
+      "period": "2016-03",
+      "views": 1765228
+    },
+    {
+      "period": "2016-04",
+      "views": 1099741
+    },
+    {
+      "period": "2016-05",
+      "views": 224083
+    },
+    {
+      "period": "2016-07",
+      "views": 10188
+    },
+    {
+      "period": "2016-08",
+      "views": 31414
+    },
+    {
+      "period": "2016-09",
+      "views": 242779
+    },
+    {
+      "period": "2016-10",
+      "views": 619052
+    },
+    {
+      "period": "2016-11",
+      "views": 241207
+    },
+    {
+      "period": "2016-12",
+      "views": 13192
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 4345511
+    },
+    {
+      "period": "2016",
+      "views": 6308761
     }
   ]
 }

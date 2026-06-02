@@ -4,8 +4,16 @@
   "title": "Asia_Cup",
   "description": "cricket tournament",
   "image": "",
-  "total": 12224640,
+  "total": 12567553,
   "monthly": [
+    {
+      "period": "2016-02",
+      "views": 107977
+    },
+    {
+      "period": "2016-03",
+      "views": 234936
+    },
     {
       "period": "2018-09",
       "views": 783148
@@ -76,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 342913
+    },
     {
       "period": "2018",
       "views": 795484

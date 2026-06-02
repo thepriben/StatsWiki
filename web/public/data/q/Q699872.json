@@ -1,10 +1,10 @@
 {
   "qid": "Q699872",
   "label": "2016 United States presidential election",
-  "title": "United_States_presidential_election,_2016",
+  "title": "2016_United_States_presidential_election",
   "description": "58th quadrennial U.S. presidential election",
   "image": "",
-  "total": 36904535,
+  "total": 58037628,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 621254
+    },
+    {
+      "period": "2016-01",
+      "views": 947854
+    },
+    {
+      "period": "2016-02",
+      "views": 1406286
+    },
+    {
+      "period": "2016-03",
+      "views": 1461989
+    },
+    {
+      "period": "2016-04",
+      "views": 665059
+    },
+    {
+      "period": "2016-05",
+      "views": 913451
+    },
+    {
+      "period": "2016-06",
+      "views": 675329
+    },
+    {
+      "period": "2016-07",
+      "views": 1055926
+    },
+    {
+      "period": "2016-08",
+      "views": 733478
+    },
+    {
+      "period": "2016-09",
+      "views": 941200
+    },
+    {
+      "period": "2016-10",
+      "views": 1643648
+    },
+    {
+      "period": "2016-11",
+      "views": 8973744
+    },
+    {
+      "period": "2016-12",
+      "views": 1715129
     },
     {
       "period": "2018-01",
@@ -291,6 +339,10 @@
     {
       "period": "2015",
       "views": 3554510
+    },
+    {
+      "period": "2016",
+      "views": 21133093
     },
     {
       "period": "2018",

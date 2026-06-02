@@ -4,8 +4,12 @@
   "title": "Windows_10_version_history",
   "description": "history of minor versions of the Windows 10 operating system",
   "image": "",
-  "total": 19166979,
+  "total": 19188029,
   "monthly": [
+    {
+      "period": "2016-08",
+      "views": 21050
+    },
     {
       "period": "2018-10",
       "views": 9859
@@ -348,6 +352,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 21050
+    },
     {
       "period": "2018",
       "views": 9859

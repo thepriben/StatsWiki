@@ -4,7 +4,7 @@
   "title": "Fantastic_Four_(2015_film)",
   "description": "2015 film directed by Josh Trank",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Angeles_with_Mount_Baldy.jpg?width=64",
-  "total": 4024658,
+  "total": 4448931,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,22 @@
     {
       "period": "2015-12",
       "views": 160487
+    },
+    {
+      "period": "2016-01",
+      "views": 74165
+    },
+    {
+      "period": "2016-02",
+      "views": 12628
+    },
+    {
+      "period": "2016-05",
+      "views": 265696
+    },
+    {
+      "period": "2016-06",
+      "views": 71784
     },
     {
       "period": "2018-02",
@@ -63,6 +79,10 @@
     {
       "period": "2015",
       "views": 3638345
+    },
+    {
+      "period": "2016",
+      "views": 424273
     },
     {
       "period": "2018",

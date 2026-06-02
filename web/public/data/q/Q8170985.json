@@ -4,17 +4,25 @@
   "title": "'Tis_the_Season",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 1226907,
+  "total": 3544051,
   "monthly": [
     {
       "period": "2015-12",
       "views": 1226907
+    },
+    {
+      "period": "2016-12",
+      "views": 2317144
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1226907
+    },
+    {
+      "period": "2016",
+      "views": 2317144
     }
   ]
 }

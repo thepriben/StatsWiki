@@ -4,8 +4,12 @@
   "title": "Ali_Larter",
   "description": "American actress and model (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ali_Larter_at_WonderCon_2010_1_crop.jpg?width=64",
-  "total": 4325595,
+  "total": 4334678,
   "monthly": [
+    {
+      "period": "2016-09",
+      "views": 9083
+    },
     {
       "period": "2020-12",
       "views": 44211
@@ -60,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 9083
+    },
     {
       "period": "2020",
       "views": 44211

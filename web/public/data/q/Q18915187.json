@@ -4,7 +4,7 @@
   "title": "SummerSlam_(2015)",
   "description": "WWE's 2015 SummerSlam pay-per-view",
   "image": "",
-  "total": 2476601,
+  "total": 2492942,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,20 @@
     {
       "period": "2015-09",
       "views": 62160
+    },
+    {
+      "period": "2016-08",
+      "views": 16341
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2476601
+    },
+    {
+      "period": "2016",
+      "views": 16341
     }
   ]
 }

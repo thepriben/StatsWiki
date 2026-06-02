@@ -4,8 +4,40 @@
   "title": "Ezra_Miller",
   "description": "American actor (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justice_League_Japan_Premiere_Red_Carpet-_Ezra_Miller_%2839215775482%29_%28cropped_2%29.jpg?width=64",
-  "total": 9721131,
+  "total": 11082131,
   "monthly": [
+    {
+      "period": "2016-01",
+      "views": 23147
+    },
+    {
+      "period": "2016-03",
+      "views": 223176
+    },
+    {
+      "period": "2016-04",
+      "views": 75938
+    },
+    {
+      "period": "2016-06",
+      "views": 34651
+    },
+    {
+      "period": "2016-07",
+      "views": 155439
+    },
+    {
+      "period": "2016-08",
+      "views": 177478
+    },
+    {
+      "period": "2016-11",
+      "views": 408324
+    },
+    {
+      "period": "2016-12",
+      "views": 262847
+    },
     {
       "period": "2018-03",
       "views": 41783
@@ -180,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 1361000
+    },
     {
       "period": "2018",
       "views": 856152

@@ -4,7 +4,7 @@
   "title": "Star_Wars:_The_Force_Awakens",
   "description": "2015 film directed by J. J. Abrams",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Force_Awakens.jpg?width=64",
-  "total": 20926779,
+  "total": 34514416,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 13399741
+    },
+    {
+      "period": "2016-01",
+      "views": 5707424
+    },
+    {
+      "period": "2016-02",
+      "views": 1597667
+    },
+    {
+      "period": "2016-03",
+      "views": 978844
+    },
+    {
+      "period": "2016-04",
+      "views": 1264063
+    },
+    {
+      "period": "2016-05",
+      "views": 692807
+    },
+    {
+      "period": "2016-06",
+      "views": 356992
+    },
+    {
+      "period": "2016-07",
+      "views": 406808
+    },
+    {
+      "period": "2016-08",
+      "views": 368878
+    },
+    {
+      "period": "2016-09",
+      "views": 429395
+    },
+    {
+      "period": "2016-10",
+      "views": 317708
+    },
+    {
+      "period": "2016-11",
+      "views": 340733
+    },
+    {
+      "period": "2016-12",
+      "views": 1126318
     },
     {
       "period": "2018-01",
@@ -103,6 +151,10 @@
     {
       "period": "2015",
       "views": 18452598
+    },
+    {
+      "period": "2016",
+      "views": 13587637
     },
     {
       "period": "2018",

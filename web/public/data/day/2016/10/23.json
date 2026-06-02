@@ -1,0 +1,455 @@
+{
+  "period": "23 October 2016",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "AMGTV",
+      "label": "Allen Media Group",
+      "description": "American media company",
+      "views": 361802,
+      "qid": "Q5380468",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Media_Group_Logo_2022.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Chicago_Cubs",
+      "label": "Chicago Cubs",
+      "description": "",
+      "views": 329342,
+      "qid": "Q_en_Chicago_Cubs",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Proyecto_40",
+      "label": "adn Noticias",
+      "description": "television network",
+      "views": 316645,
+      "qid": "Q8042151",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Jessica_Drake",
+      "label": "Jessica Drake",
+      "description": "",
+      "views": 282030,
+      "qid": "Q_en_Jessica_Drake",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Curse_of_the_Billy_Goat",
+      "label": "Curse of the Billy Goat",
+      "description": "",
+      "views": 265511,
+      "qid": "Q_en_Curse_of_the_Billy_Goat",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "404.php",
+      "label": "HTTP 404",
+      "description": "HTTP error response code",
+      "views": 249091,
+      "qid": "Q404",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/404_not_found.svg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Simeon_Saxe-Coburg-Gotha",
+      "label": "Simeon Saxe-Coburg-Gotha",
+      "description": "",
+      "views": 188625,
+      "qid": "Q_en_Simeon_Saxe-Coburg-Gotha",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 170293,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Lali_Espósito",
+      "label": "Lali Espósito",
+      "description": "Argentine singer and actress",
+      "views": 160478,
+      "qid": "Q466762",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lali_en_DDM_01.png?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 149127,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Cleveland_Indians",
+      "label": "Cleveland Indians",
+      "description": "",
+      "views": 147356,
+      "qid": "Q_en_Cleveland_Indians",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "List_of_Black_Mirror_episodes",
+      "label": "list of Black Mirror episodes",
+      "description": "Wikimedia list article",
+      "views": 141593,
+      "qid": "Q13582368",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Theo_Epstein",
+      "label": "Theo Epstein",
+      "description": "",
+      "views": 141296,
+      "qid": "Q_en_Theo_Epstein",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Joe_Maddon",
+      "label": "Joe Maddon",
+      "description": "",
+      "views": 123521,
+      "qid": "Q_en_Joe_Maddon",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Steve_Bartman_incident",
+      "label": "Steve Bartman incident",
+      "description": "",
+      "views": 116413,
+      "qid": "Q_en_Steve_Bartman_incident",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Black_Mirror_(TV_series)",
+      "label": "Black Mirror (TV series)",
+      "description": "",
+      "views": 115506,
+      "qid": "Q_en_Black_Mirror_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Rationing_in_the_United_Kingdom",
+      "label": "Rationing in the United Kingdom",
+      "description": "",
+      "views": 112050,
+      "qid": "Q_en_Rationing_in_the_United_Kingdom",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "La7",
+      "label": "La7",
+      "description": "",
+      "views": 111334,
+      "qid": "Q_en_La7",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "The_Walking_Dead_(season_7)",
+      "label": "The Walking Dead (season 7)",
+      "description": "",
+      "views": 109469,
+      "qid": "Q_en_The_Walking_Dead_(season_7)",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Death_of_JonBenét_Ramsey",
+      "label": "Death of JonBenét Ramsey",
+      "description": "",
+      "views": 98226,
+      "qid": "Q_en_Death_of_JonBenét_Ramsey",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Pink_(2016_film)",
+      "label": "Pink (2016 film)",
+      "description": "",
+      "views": 94894,
+      "qid": "Q_en_Pink_(2016_film)",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Westworld_(TV_series)",
+      "label": "Westworld",
+      "description": "2016 American science fiction television series",
+      "views": 89902,
+      "qid": "Q17572811",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Westworld_Logo.svg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "Dulce_María",
+      "label": "Dulce María",
+      "description": "Mexican actress",
+      "views": 87180,
+      "qid": "Q237387",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dulce_Maria_Teleton_4.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Lady_Gaga",
+      "label": "Lady Gaga",
+      "description": "American singer, songwriter, and actress (born 1986)",
+      "views": 85920,
+      "qid": "Q19848",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Gaga_at_Oscars_2016.jpg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Virat_Kohli",
+      "label": "Virat Kohli",
+      "description": "Indian cricket player",
+      "views": 85700,
+      "qid": "Q213854",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat_Kohli_in_PMO_New_Delhi.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Deaths_in_2016",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 82037,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Hillary_Clinton",
+      "label": "Hillary Clinton",
+      "description": "American politician and diplomat (born 1947)",
+      "views": 76071,
+      "qid": "Q6294",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "The_Walking_Dead_(TV_series)",
+      "label": "The Walking Dead",
+      "description": "American post-apocalyptic horror drama zombie television series",
+      "views": 74976,
+      "qid": "Q232737",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Walking_Dead_%28Fernsehserie%29_logo.svg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Tom_Hanks",
+      "label": "Tom Hanks",
+      "description": "American actor and film producer (born 1956)",
+      "views": 72036,
+      "qid": "Q2263",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Hanks_at_the_Elvis_Premiere_2022.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Kyle_Hendricks",
+      "label": "Kyle Hendricks",
+      "description": "",
+      "views": 70622,
+      "qid": "Q_en_Kyle_Hendricks",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Black_Mirror",
+      "label": "Black Mirror",
+      "description": "science fiction British TV series",
+      "views": 68763,
+      "qid": "Q558112",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Mirror_%28British_TV_series%29_logo.svg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Pablo_Escobar",
+      "label": "Pablo Escobar",
+      "description": "Colombian drug lord (1949–1993)",
+      "views": 67809,
+      "qid": "Q187447",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo_Escobar_Mug.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "2016_World_Series",
+      "label": "2016 World Series",
+      "description": "",
+      "views": 65678,
+      "qid": "Q_en_2016_World_Series",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Class_(2016_TV_series)",
+      "label": "Class (2016 TV series)",
+      "description": "",
+      "views": 63059,
+      "qid": "Q_en_Class_(2016_TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Logan_(film)",
+      "label": "Logan (film)",
+      "description": "",
+      "views": 62972,
+      "qid": "Q_en_Logan_(film)",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Mahendra_Singh_Dhoni",
+      "label": "Mahendra Singh Dhoni",
+      "description": "",
+      "views": 62933,
+      "qid": "Q_en_Mahendra_Singh_Dhoni",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Phil_Collins",
+      "label": "Phil Collins",
+      "description": "English drummer, singer, and songwriter (born 1951)",
+      "views": 62866,
+      "qid": "Q144622",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phil_Collins_-_Royal_Albert_Hall_-_Wednesday_7th_June_2017_PhilCollinsRAH070617-3_%2835215802836%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Doctor_Strange_(film)",
+      "label": "Doctor Strange (film)",
+      "description": "",
+      "views": 61200,
+      "qid": "Q_en_Doctor_Strange_(film)",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Thomas_S._Ricketts",
+      "label": "Thomas S. Ricketts",
+      "description": "",
+      "views": 60724,
+      "qid": "Q_en_Thomas_S._Ricketts",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Time_Warner",
+      "label": "Time Warner",
+      "description": "",
+      "views": 60098,
+      "qid": "Q_en_Time_Warner",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Earth",
+      "label": "Earth",
+      "description": "third planet from the Sun in the Solar System",
+      "views": 59714,
+      "qid": "Q2",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Blue_Marble_%285052124705%29.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Ae_Dil_Hai_Mushkil",
+      "label": "Ae Dil Hai Mushkil",
+      "description": "",
+      "views": 58484,
+      "qid": "Q_en_Ae_Dil_Hai_Mushkil",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Halloween",
+      "label": "Halloween",
+      "description": "celebration observed in many countries on 31 October",
+      "views": 55675,
+      "qid": "Q251868",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack-o%27-Lantern_2003-10-31.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "List_of_World_Series_champions",
+      "label": "ira fue veisvolchampions",
+      "description": "Wikimedia list article",
+      "views": 55375,
+      "qid": "Q862958",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "List_of_Bollywood_films_of_2016",
+      "label": "list of Bollywood films of 2016",
+      "description": "Wikimedia list article",
+      "views": 54875,
+      "qid": "Q19882412",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "United_States_presidential_election,_2016",
+      "label": "2016 United States presidential election",
+      "description": "58th quadrennial U.S. presidential election",
+      "views": 54513,
+      "qid": "Q699872",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "American_Horror_Story:_Roanoke",
+      "label": "American Horror Story: Roanoke",
+      "description": "",
+      "views": 52419,
+      "qid": "Q_en_American_Horror_Story:_Roanoke",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Hell_in_a_Cell_(2016)",
+      "label": "Hell in a Cell (2016)",
+      "description": "",
+      "views": 49733,
+      "qid": "Q_en_Hell_in_a_Cell_(2016)",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Kabaddi_World_Cup",
+      "label": "Kabaddi World Cup",
+      "description": "",
+      "views": 49634,
+      "qid": "Q_en_Kabaddi_World_Cup",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Jack_Reacher_(film)",
+      "label": "Jack Reacher (film)",
+      "description": "",
+      "views": 48736,
+      "qid": "Q_en_Jack_Reacher_(film)",
+      "image": ""
+    }
+  ]
+}

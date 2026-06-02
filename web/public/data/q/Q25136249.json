@@ -1,11 +1,19 @@
 {
   "qid": "Q25136249",
   "label": "xXx",
-  "title": "XXX_(film_series)",
+  "title": "XXX_(franchise)",
   "description": "film series by Rich Wilkes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64",
-  "total": 90346336,
+  "total": 90423920,
   "monthly": [
+    {
+      "period": "2016-11",
+      "views": 38598
+    },
+    {
+      "period": "2016-12",
+      "views": 38986
+    },
     {
       "period": "2018-01",
       "views": 1674232
@@ -328,6 +336,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 77584
+    },
     {
       "period": "2018",
       "views": 11122791

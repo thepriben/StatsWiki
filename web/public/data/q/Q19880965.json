@@ -4,7 +4,7 @@
   "title": "Big_Brother_17_(U.S.)",
   "description": "season of the US television series",
   "image": "",
-  "total": 2288185,
+  "total": 2323898,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,24 @@
     {
       "period": "2015-09",
       "views": 708117
+    },
+    {
+      "period": "2016-06",
+      "views": 16435
+    },
+    {
+      "period": "2016-07",
+      "views": 19278
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2288185
+    },
+    {
+      "period": "2016",
+      "views": 35713
     }
   ]
 }

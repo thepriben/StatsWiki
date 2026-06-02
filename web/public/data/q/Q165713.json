@@ -4,7 +4,7 @@
   "title": "Star_Wars_Episode_I:_The_Phantom_Menace",
   "description": "1999 film directed by George Lucas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star-wars-episode-i---the-phantom-menace.png?width=64",
-  "total": 1902902,
+  "total": 2413638,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,20 @@
     {
       "period": "2015-12",
       "views": 1507107
+    },
+    {
+      "period": "2016-01",
+      "views": 510736
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1902902
+    },
+    {
+      "period": "2016",
+      "views": 510736
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Tom_Brady",
   "description": "American football player (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Brady_2021.png?width=64",
-  "total": 53692374,
+  "total": 58003060,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,50 @@
     {
       "period": "2015-12",
       "views": 459854
+    },
+    {
+      "period": "2016-01",
+      "views": 1172075
+    },
+    {
+      "period": "2016-02",
+      "views": 547352
+    },
+    {
+      "period": "2016-03",
+      "views": 103872
+    },
+    {
+      "period": "2016-04",
+      "views": 80014
+    },
+    {
+      "period": "2016-06",
+      "views": 20879
+    },
+    {
+      "period": "2016-07",
+      "views": 18525
+    },
+    {
+      "period": "2016-08",
+      "views": 202102
+    },
+    {
+      "period": "2016-09",
+      "views": 551824
+    },
+    {
+      "period": "2016-10",
+      "views": 539263
+    },
+    {
+      "period": "2016-11",
+      "views": 485974
+    },
+    {
+      "period": "2016-12",
+      "views": 588806
     },
     {
       "period": "2018-01",
@@ -423,6 +467,10 @@
     {
       "period": "2015",
       "views": 2925328
+    },
+    {
+      "period": "2016",
+      "views": 4310686
     },
     {
       "period": "2018",

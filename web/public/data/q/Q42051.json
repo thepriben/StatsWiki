@@ -4,7 +4,7 @@
   "title": "Star_Wars_Episode_III:_Revenge_of_the_Sith",
   "description": "2005 American epic space opera film directed by George Lucas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Revengeofthesith-logo.svg?width=64",
-  "total": 1478573,
+  "total": 1938433,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,20 @@
     {
       "period": "2015-12",
       "views": 1261603
+    },
+    {
+      "period": "2016-01",
+      "views": 459860
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1478573
+    },
+    {
+      "period": "2016",
+      "views": 459860
     }
   ]
 }

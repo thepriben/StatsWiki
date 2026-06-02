@@ -4,7 +4,7 @@
   "title": "2015–16_UEFA_Europa_League",
   "description": "45th season of Europe's secondary club football tournament organised by UEFA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basel%2C_St.-Jakob-Park-_pic16.jpg?width=64",
-  "total": 1208561,
+  "total": 1497480,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,32 @@
     {
       "period": "2015-12",
       "views": 199431
+    },
+    {
+      "period": "2016-02",
+      "views": 122980
+    },
+    {
+      "period": "2016-03",
+      "views": 51934
+    },
+    {
+      "period": "2016-04",
+      "views": 24197
+    },
+    {
+      "period": "2016-05",
+      "views": 89808
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1208561
+    },
+    {
+      "period": "2016",
+      "views": 288919
     }
   ]
 }

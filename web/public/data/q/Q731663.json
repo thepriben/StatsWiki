@@ -4,8 +4,16 @@
   "title": "Planet_of_the_Apes",
   "description": "American science fiction media franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Planet_of_the_Apes_%28logo%29.svg?width=64",
-  "total": 4456653,
+  "total": 4542916,
   "monthly": [
+    {
+      "period": "2016-08",
+      "views": 10755
+    },
+    {
+      "period": "2016-12",
+      "views": 75508
+    },
     {
       "period": "2018-04",
       "views": 26327
@@ -76,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 86263
+    },
     {
       "period": "2018",
       "views": 26327

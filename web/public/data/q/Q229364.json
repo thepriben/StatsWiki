@@ -4,8 +4,20 @@
   "title": "Naya_Rivera",
   "description": "American actress and singer (1987–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naya_Rivera_at_2012_ALMA_Awards_headshot.jpg?width=64",
-  "total": 10038985,
+  "total": 10120135,
   "monthly": [
+    {
+      "period": "2016-08",
+      "views": 37207
+    },
+    {
+      "period": "2016-09",
+      "views": 29326
+    },
+    {
+      "period": "2016-11",
+      "views": 14617
+    },
     {
       "period": "2018-01",
       "views": 56600
@@ -124,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 81150
+    },
     {
       "period": "2018",
       "views": 100839

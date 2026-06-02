@@ -4,8 +4,32 @@
   "title": "Ruth_Bader_Ginsburg",
   "description": "American lawyer and jurist (1933–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruth_Bader_Ginsburg_official_SCOTUS_portrait_%28cropped%29.jpg?width=64",
-  "total": 14147722,
+  "total": 15089216,
   "monthly": [
+    {
+      "period": "2016-01",
+      "views": 17294
+    },
+    {
+      "period": "2016-02",
+      "views": 436307
+    },
+    {
+      "period": "2016-03",
+      "views": 32711
+    },
+    {
+      "period": "2016-07",
+      "views": 150682
+    },
+    {
+      "period": "2016-10",
+      "views": 83755
+    },
+    {
+      "period": "2016-11",
+      "views": 220745
+    },
     {
       "period": "2018-01",
       "views": 306653
@@ -216,6 +240,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 941494
+    },
     {
       "period": "2018",
       "views": 4561396

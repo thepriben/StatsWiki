@@ -4,7 +4,7 @@
   "title": "Once_Upon_a_Time_(season_5)",
   "description": "season of television series",
   "image": "",
-  "total": 964627,
+  "total": 1559293,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,12 +25,36 @@
     {
       "period": "2015-12",
       "views": 137741
+    },
+    {
+      "period": "2016-01",
+      "views": 10891
+    },
+    {
+      "period": "2016-03",
+      "views": 199856
+    },
+    {
+      "period": "2016-04",
+      "views": 125032
+    },
+    {
+      "period": "2016-05",
+      "views": 247788
+    },
+    {
+      "period": "2016-09",
+      "views": 11099
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 964627
+    },
+    {
+      "period": "2016",
+      "views": 594666
     }
   ]
 }

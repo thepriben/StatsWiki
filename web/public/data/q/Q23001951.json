@@ -4,8 +4,16 @@
   "title": "Riverdale_(2017_TV_series)",
   "description": "American teen drama television series (2017–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Riverdale_%28CW_Network_television_series%29_logo.svg?width=64",
-  "total": 17807547,
+  "total": 17915670,
   "monthly": [
+    {
+      "period": "2016-11",
+      "views": 60604
+    },
+    {
+      "period": "2016-12",
+      "views": 47519
+    },
     {
       "period": "2018-01",
       "views": 859047
@@ -204,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 108123
+    },
     {
       "period": "2018",
       "views": 7724543

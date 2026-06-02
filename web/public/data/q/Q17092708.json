@@ -4,7 +4,7 @@
   "title": "Republican_Party_presidential_candidates,_2016",
   "description": "selection of Republican US presidential candidate",
   "image": "",
-  "total": 986388,
+  "total": 2372538,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,40 @@
     {
       "period": "2015-12",
       "views": 163125
+    },
+    {
+      "period": "2016-01",
+      "views": 208360
+    },
+    {
+      "period": "2016-02",
+      "views": 665308
+    },
+    {
+      "period": "2016-03",
+      "views": 375200
+    },
+    {
+      "period": "2016-04",
+      "views": 9995
+    },
+    {
+      "period": "2016-05",
+      "views": 75791
+    },
+    {
+      "period": "2016-11",
+      "views": 51496
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 986388
+    },
+    {
+      "period": "2016",
+      "views": 1386150
     }
   ]
 }

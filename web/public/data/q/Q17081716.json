@@ -4,7 +4,7 @@
   "title": "Singh_Is_Bliing",
   "description": "2015 film directed by Prabhu Deva",
   "image": "",
-  "total": 917104,
+  "total": 945826,
   "monthly": [
     {
       "period": "2015-09",
@@ -17,12 +17,24 @@
     {
       "period": "2015-12",
       "views": 20217
+    },
+    {
+      "period": "2016-01",
+      "views": 18734
+    },
+    {
+      "period": "2016-02",
+      "views": 9988
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 917104
+    },
+    {
+      "period": "2016",
+      "views": 28722
     }
   ]
 }

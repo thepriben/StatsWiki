@@ -4,7 +4,7 @@
   "title": "Deadpool_(film)",
   "description": "2016 film directed by Tim Miller",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deadpool%2C_Georgia_Viaduct%2C_Vancouver%2C_April_6_2015_-_3.jpg?width=64",
-  "total": 6529133,
+  "total": 22736704,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,54 @@
     {
       "period": "2015-12",
       "views": 507987
+    },
+    {
+      "period": "2016-01",
+      "views": 1203064
+    },
+    {
+      "period": "2016-02",
+      "views": 6821549
+    },
+    {
+      "period": "2016-03",
+      "views": 1964203
+    },
+    {
+      "period": "2016-04",
+      "views": 1177110
+    },
+    {
+      "period": "2016-05",
+      "views": 1543713
+    },
+    {
+      "period": "2016-06",
+      "views": 770653
+    },
+    {
+      "period": "2016-07",
+      "views": 514586
+    },
+    {
+      "period": "2016-08",
+      "views": 422167
+    },
+    {
+      "period": "2016-09",
+      "views": 378850
+    },
+    {
+      "period": "2016-10",
+      "views": 536607
+    },
+    {
+      "period": "2016-11",
+      "views": 406481
+    },
+    {
+      "period": "2016-12",
+      "views": 468588
     },
     {
       "period": "2018-02",
@@ -147,6 +195,10 @@
     {
       "period": "2015",
       "views": 1598661
+    },
+    {
+      "period": "2016",
+      "views": 16207571
     },
     {
       "period": "2018",

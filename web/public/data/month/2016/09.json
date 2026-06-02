@@ -1,0 +1,577 @@
+{
+  "period": "September 2016",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "404.php",
+      "label": "HTTP 404",
+      "description": "HTTP error response code",
+      "views": 10271941,
+      "qid": "Q404",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/404_not_found.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "AMGTV",
+      "label": "Allen Media Group",
+      "description": "American media company",
+      "views": 8088899,
+      "qid": "Q5380468",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Media_Group_Logo_2022.svg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Proyecto_40",
+      "label": "adn Noticias",
+      "description": "television network",
+      "views": 7070964,
+      "qid": "Q8042151",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 6479428,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Lali_Espósito",
+      "label": "Lali Espósito",
+      "description": "Argentine singer and actress",
+      "views": 5904486,
+      "qid": "Q466762",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lali_en_DDM_01.png?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Pablo_Escobar",
+      "label": "Pablo Escobar",
+      "description": "Colombian drug lord (1949–1993)",
+      "views": 5826858,
+      "qid": "Q187447",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo_Escobar_Mug.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Okto",
+      "label": "Okto",
+      "description": "former television channel in Singapore",
+      "views": 3758951,
+      "qid": "Q4209466",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Stranger_Things_(TV_series)",
+      "label": "Stranger Things",
+      "description": "American science fiction horror television series",
+      "views": 2789508,
+      "qid": "Q19798734",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stranger_Things_logo.svg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 2765416,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Deaths_in_2016",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 2646002,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Murder_of_JonBenét_Ramsey",
+      "label": "Murder of JonBenét Ramsey",
+      "description": "",
+      "views": 2385573,
+      "qid": "Q_en_Murder_of_JonBenét_Ramsey",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Earth",
+      "label": "Earth",
+      "description": "third planet from the Sun in the Solar System",
+      "views": 1974099,
+      "qid": "Q2",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Blue_Marble_%285052124705%29.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Narcos",
+      "label": "Narcos",
+      "description": "American crime drama television series",
+      "views": 1941153,
+      "qid": "Q20642206",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Narcoslogo.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Killing_of_Harambe",
+      "label": "Killing of Harambe",
+      "description": "",
+      "views": 1898540,
+      "qid": "Q_en_Killing_of_Harambe",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "September_11_attacks",
+      "label": "September 11 attacks",
+      "description": "2001 attacks in the United States",
+      "views": 1749702,
+      "qid": "Q10806",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_face_south_tower_after_plane_strike_9-11.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "José_Fernández_(pitcher)",
+      "label": "José Fernández (pitcher)",
+      "description": "",
+      "views": 1733529,
+      "qid": "Q_en_José_Fernández_(pitcher)",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Mother_Teresa",
+      "label": "Mother Teresa",
+      "description": "Albanian-Indian Catholic nun and missionary (1910–1997)",
+      "views": 1694328,
+      "qid": "Q30547",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MotherTeresa_090.jpg?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "Angelina_Jolie",
+      "label": "Angelina Jolie",
+      "description": "American actress, humanitarian and filmmaker (born 1975)",
+      "views": 1692122,
+      "qid": "Q13909",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angelina_Jolie-643531_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "La7",
+      "label": "La7",
+      "description": "",
+      "views": 1668607,
+      "qid": "Q_en_La7",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Edward_Snowden",
+      "label": "Edward Snowden",
+      "description": "American whistleblower and former NSA contractor (born 1983)",
+      "views": 1604409,
+      "qid": "Q13424289",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Libreplanet_2016_-_Edward_Snowden_Keynote.png?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "List_of_Bollywood_films_of_2016",
+      "label": "list of Bollywood films of 2016",
+      "description": "Wikimedia list article",
+      "views": 1585969,
+      "qid": "Q19882412",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 1576335,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Hillary_Clinton",
+      "label": "Hillary Clinton",
+      "description": "American politician and diplomat (born 1947)",
+      "views": 1568896,
+      "qid": "Q6294",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Queen_Victoria",
+      "label": "Victoria of the United Kingdom",
+      "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+      "views": 1526356,
+      "qid": "Q9439",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Roanoke_Colony",
+      "label": "Roanoke Colony",
+      "description": "",
+      "views": 1501184,
+      "qid": "Q_en_Roanoke_Colony",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Sebastián_Marroquín",
+      "label": "Juan Pablo Escobar Henao",
+      "description": "Peace Ambassador, Colombian architect, author, and the son of Colombian drug lord Pablo Escobar",
+      "views": 1481448,
+      "qid": "Q16217604",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan_Pablo_Escobar.png?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Suicide_Squad_(film)",
+      "label": "Suicide squad",
+      "description": "Wikimedia disambiguation page",
+      "views": 1282785,
+      "qid": "Q7635408",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Brad_Pitt",
+      "label": "Brad Pitt",
+      "description": "American actor and filmmaker (born 1963)",
+      "views": 1282032,
+      "qid": "Q35332",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad_Pitt_2019_by_Glenn_Francis.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Ann_Coulter",
+      "label": "Ann Coulter",
+      "description": "",
+      "views": 1277841,
+      "qid": "Q_en_Ann_Coulter",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Alexis_Arquette",
+      "label": "Alexis Arquette",
+      "description": "",
+      "views": 1277355,
+      "qid": "Q_en_Alexis_Arquette",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Chesley_Sullenberger",
+      "label": "Chesley Sullenberger",
+      "description": "",
+      "views": 1254228,
+      "qid": "Q_en_Chesley_Sullenberger",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Phentermine",
+      "label": "Phentermine",
+      "description": "",
+      "views": 1246262,
+      "qid": "Q_en_Phentermine",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Sully_(film)",
+      "label": "Sully (film)",
+      "description": "",
+      "views": 1228347,
+      "qid": "Q_en_Sully_(film)",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "UFC_203",
+      "label": "UFC 203",
+      "description": "",
+      "views": 1176618,
+      "qid": "Q_en_UFC_203",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "United_States",
+      "label": "United States",
+      "description": "country located primarily in North America",
+      "views": 1171759,
+      "qid": "Q30",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Mr._Robot_(TV_series)",
+      "label": "Mr. Robot",
+      "description": "American drama–thriller television series",
+      "views": 1138585,
+      "qid": "Q18844729",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MR_Robot.svg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Moon_Lovers:_Scarlet_Heart_Ryeo",
+      "label": "Moon Lovers: Scarlet Heart Ryeo",
+      "description": "",
+      "views": 1100536,
+      "qid": "Q_en_Moon_Lovers:_Scarlet_Heart_Ryeo",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Pink_(2016_film)",
+      "label": "Pink (2016 film)",
+      "description": "",
+      "views": 1099292,
+      "qid": "Q_en_Pink_(2016_film)",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "American_Horror_Story",
+      "label": "American Horror Story",
+      "description": "American anthology horror television series",
+      "views": 1066441,
+      "qid": "Q53922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Horror_Story.svg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Cali_Cartel",
+      "label": "Cali Cartel",
+      "description": "",
+      "views": 1066237,
+      "qid": "Q_en_Cali_Cartel",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Train_to_Busan",
+      "label": "Train to Busan",
+      "description": "",
+      "views": 1060289,
+      "qid": "Q_en_Train_to_Busan",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "American_Horror_Story:_Roanoke",
+      "label": "American Horror Story: Roanoke",
+      "description": "",
+      "views": 1039433,
+      "qid": "Q_en_American_Horror_Story:_Roanoke",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "List_of_Steven_Universe_episodes",
+      "label": "list of Steven Universe Episodes",
+      "description": "Wikimedia list article",
+      "views": 1029214,
+      "qid": "Q17103295",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Facebook",
+      "label": "Facebook",
+      "description": "American online social media and social networking service",
+      "views": 1027234,
+      "qid": "Q355",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Facebook_%282%29.PNG?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Steve_Jobs",
+      "label": "Steve Jobs",
+      "description": "American entrepreneur; co-founder of Apple Inc. (1955-2011)",
+      "views": 1021110,
+      "qid": "Q19837",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Jobs_Headshot_2010-CROP2.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "IPTV",
+      "label": "IPTV",
+      "description": "system through which television services are delivered using the Internet protocol suite",
+      "views": 1020116,
+      "qid": "Q177518",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IPTVnet.png?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Blac_Chyna",
+      "label": "Blac Chyna",
+      "description": "",
+      "views": 1018955,
+      "qid": "Q_en_Blac_Chyna",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Jennifer_Aniston",
+      "label": "Jennifer Aniston",
+      "description": "American actress (born 1969)",
+      "views": 1007645,
+      "qid": "Q32522",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JenniferAnistonHWoFFeb2012.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Rob_Lowe",
+      "label": "Rob Lowe",
+      "description": "",
+      "views": 1003443,
+      "qid": "Q_en_Rob_Lowe",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Barack_Obama",
+      "label": "Barack Obama",
+      "description": "president of the United States from 2009 to 2017 (born 1961)",
+      "views": 1002024,
+      "qid": "Q76",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Barack_Obama.jpg?width=64"
+    }
+  ],
+  "nav": [
+    {
+      "label": "01",
+      "path": "2016/09/01"
+    },
+    {
+      "label": "02",
+      "path": "2016/09/02"
+    },
+    {
+      "label": "03",
+      "path": "2016/09/03"
+    },
+    {
+      "label": "04",
+      "path": "2016/09/04"
+    },
+    {
+      "label": "05",
+      "path": "2016/09/05"
+    },
+    {
+      "label": "06",
+      "path": "2016/09/06"
+    },
+    {
+      "label": "07",
+      "path": "2016/09/07"
+    },
+    {
+      "label": "08",
+      "path": "2016/09/08"
+    },
+    {
+      "label": "09",
+      "path": "2016/09/09"
+    },
+    {
+      "label": "10",
+      "path": "2016/09/10"
+    },
+    {
+      "label": "11",
+      "path": "2016/09/11"
+    },
+    {
+      "label": "12",
+      "path": "2016/09/12"
+    },
+    {
+      "label": "13",
+      "path": "2016/09/13"
+    },
+    {
+      "label": "14",
+      "path": "2016/09/14"
+    },
+    {
+      "label": "15",
+      "path": "2016/09/15"
+    },
+    {
+      "label": "16",
+      "path": "2016/09/16"
+    },
+    {
+      "label": "17",
+      "path": "2016/09/17"
+    },
+    {
+      "label": "18",
+      "path": "2016/09/18"
+    },
+    {
+      "label": "19",
+      "path": "2016/09/19"
+    },
+    {
+      "label": "20",
+      "path": "2016/09/20"
+    },
+    {
+      "label": "21",
+      "path": "2016/09/21"
+    },
+    {
+      "label": "22",
+      "path": "2016/09/22"
+    },
+    {
+      "label": "23",
+      "path": "2016/09/23"
+    },
+    {
+      "label": "24",
+      "path": "2016/09/24"
+    },
+    {
+      "label": "25",
+      "path": "2016/09/25"
+    },
+    {
+      "label": "26",
+      "path": "2016/09/26"
+    },
+    {
+      "label": "27",
+      "path": "2016/09/27"
+    },
+    {
+      "label": "28",
+      "path": "2016/09/28"
+    },
+    {
+      "label": "29",
+      "path": "2016/09/29"
+    },
+    {
+      "label": "30",
+      "path": "2016/09/30"
+    }
+  ]
+}

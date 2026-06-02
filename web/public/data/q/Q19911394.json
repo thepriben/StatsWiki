@@ -4,7 +4,7 @@
   "title": "Limitless_(TV_series)",
   "description": "2015 TV series",
   "image": "",
-  "total": 1601485,
+  "total": 3498893,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,40 @@
     {
       "period": "2015-12",
       "views": 375768
+    },
+    {
+      "period": "2016-01",
+      "views": 443801
+    },
+    {
+      "period": "2016-02",
+      "views": 392038
+    },
+    {
+      "period": "2016-03",
+      "views": 405558
+    },
+    {
+      "period": "2016-04",
+      "views": 468532
+    },
+    {
+      "period": "2016-05",
+      "views": 29099
+    },
+    {
+      "period": "2016-07",
+      "views": 158380
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1601485
+    },
+    {
+      "period": "2016",
+      "views": 1897408
     }
   ]
 }

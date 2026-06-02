@@ -4,8 +4,12 @@
   "title": "Schitt's_Creek",
   "description": "Canadian television sitcom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Schitt%27s_Creek_logo.svg?width=64",
-  "total": 14654535,
+  "total": 14676452,
   "monthly": [
+    {
+      "period": "2016-03",
+      "views": 21917
+    },
     {
       "period": "2018-01",
       "views": 10127
@@ -152,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 21917
+    },
     {
       "period": "2018",
       "views": 10127

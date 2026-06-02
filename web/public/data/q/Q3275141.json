@@ -4,7 +4,7 @@
   "title": "Mad_Max",
   "description": "science fiction movie saga and media franchise",
   "image": "",
-  "total": 2800720,
+  "total": 2990006,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,6 +17,26 @@
     {
       "period": "2015-09",
       "views": 328384
+    },
+    {
+      "period": "2016-01",
+      "views": 133154
+    },
+    {
+      "period": "2016-03",
+      "views": 22607
+    },
+    {
+      "period": "2016-05",
+      "views": 10267
+    },
+    {
+      "period": "2016-08",
+      "views": 11225
+    },
+    {
+      "period": "2016-09",
+      "views": 12033
     },
     {
       "period": "2020-01",
@@ -63,6 +83,10 @@
     {
       "period": "2015",
       "views": 811868
+    },
+    {
+      "period": "2016",
+      "views": 189286
     },
     {
       "period": "2020",

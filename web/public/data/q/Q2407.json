@@ -4,8 +4,12 @@
   "title": "C++",
   "description": "general-purpose programming language",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hello_World_C%2B%2B.png?width=64",
-  "total": 11584809,
+  "total": 11602404,
   "monthly": [
+    {
+      "period": "2016-05",
+      "views": 17595
+    },
     {
       "period": "2020-10",
       "views": 230064
@@ -124,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 17595
+    },
     {
       "period": "2020",
       "views": 879899

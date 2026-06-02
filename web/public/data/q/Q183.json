@@ -4,7 +4,7 @@
   "title": "Germany",
   "description": "country in Central Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_Berlin_%2832881394137%29.jpg?width=64",
-  "total": 44806376,
+  "total": 50485358,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 448488
+    },
+    {
+      "period": "2016-01",
+      "views": 510920
+    },
+    {
+      "period": "2016-02",
+      "views": 455017
+    },
+    {
+      "period": "2016-03",
+      "views": 476836
+    },
+    {
+      "period": "2016-04",
+      "views": 464523
+    },
+    {
+      "period": "2016-05",
+      "views": 508621
+    },
+    {
+      "period": "2016-06",
+      "views": 491205
+    },
+    {
+      "period": "2016-07",
+      "views": 500899
+    },
+    {
+      "period": "2016-08",
+      "views": 444176
+    },
+    {
+      "period": "2016-09",
+      "views": 435732
+    },
+    {
+      "period": "2016-10",
+      "views": 445047
+    },
+    {
+      "period": "2016-11",
+      "views": 487433
+    },
+    {
+      "period": "2016-12",
+      "views": 458573
     },
     {
       "period": "2018-01",
@@ -439,6 +487,10 @@
     {
       "period": "2015",
       "views": 3034251
+    },
+    {
+      "period": "2016",
+      "views": 5678982
     },
     {
       "period": "2018",

@@ -4,8 +4,12 @@
   "title": "XXX:_State_of_the_Union",
   "description": "2005 film by Lee Tamahori",
   "image": "",
-  "total": 14590372,
+  "total": 14613126,
   "monthly": [
+    {
+      "period": "2016-07",
+      "views": 22754
+    },
     {
       "period": "2018-01",
       "views": 46733
@@ -232,6 +236,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 22754
+    },
     {
       "period": "2018",
       "views": 1110573

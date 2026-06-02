@@ -4,8 +4,12 @@
   "title": "Israeli–Palestinian_conflict",
   "description": "ongoing military and political conflict in the Levant",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/West_Bank_%26_Gaza_Map_2007_%28Settlements%29.png?width=64",
-  "total": 10397380,
+  "total": 10456047,
   "monthly": [
+    {
+      "period": "2016-12",
+      "views": 58667
+    },
     {
       "period": "2018-05",
       "views": 104894
@@ -128,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 58667
+    },
     {
       "period": "2018",
       "views": 104894

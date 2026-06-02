@@ -4,7 +4,7 @@
   "title": "DJ_Yella",
   "description": "American hip hop musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DJ_Yella.jpg?width=64",
-  "total": 1017500,
+  "total": 1211694,
   "monthly": [
     {
       "period": "2015-08",
@@ -13,12 +13,24 @@
     {
       "period": "2015-09",
       "views": 240563
+    },
+    {
+      "period": "2016-01",
+      "views": 78366
+    },
+    {
+      "period": "2016-07",
+      "views": 115828
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1017500
+    },
+    {
+      "period": "2016",
+      "views": 194194
     }
   ]
 }

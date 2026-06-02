@@ -4,8 +4,16 @@
   "title": "Dennis_Rader",
   "description": "American serial killer (born 1945)",
   "image": "",
-  "total": 9738331,
+  "total": 9782662,
   "monthly": [
+    {
+      "period": "2016-01",
+      "views": 18633
+    },
+    {
+      "period": "2016-08",
+      "views": 25698
+    },
     {
       "period": "2018-01",
       "views": 23986
@@ -260,6 +268,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 44331
+    },
     {
       "period": "2018",
       "views": 224645

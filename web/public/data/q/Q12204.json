@@ -4,7 +4,7 @@
   "title": "Tuberculosis",
   "description": "infectious disease caused by the bacterium Mycobacterium tuberculosis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TB_Culture.jpg?width=64",
-  "total": 2312235,
+  "total": 5151141,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 104356
+    },
+    {
+      "period": "2016-01",
+      "views": 164539
+    },
+    {
+      "period": "2016-02",
+      "views": 194595
+    },
+    {
+      "period": "2016-03",
+      "views": 207461
+    },
+    {
+      "period": "2016-04",
+      "views": 150173
+    },
+    {
+      "period": "2016-05",
+      "views": 305056
+    },
+    {
+      "period": "2016-06",
+      "views": 145197
+    },
+    {
+      "period": "2016-07",
+      "views": 287661
+    },
+    {
+      "period": "2016-08",
+      "views": 272661
+    },
+    {
+      "period": "2016-09",
+      "views": 343729
+    },
+    {
+      "period": "2016-10",
+      "views": 312720
+    },
+    {
+      "period": "2016-11",
+      "views": 284126
+    },
+    {
+      "period": "2016-12",
+      "views": 170988
     },
     {
       "period": "2018-01",
@@ -131,6 +179,10 @@
     {
       "period": "2015",
       "views": 844831
+    },
+    {
+      "period": "2016",
+      "views": 2838906
     },
     {
       "period": "2018",

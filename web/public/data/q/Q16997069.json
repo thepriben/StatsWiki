@@ -4,7 +4,7 @@
   "title": "The_Divergent_Series:_Insurgent",
   "description": "2015 film directed by Robert Schwentke",
   "image": "",
-  "total": 1208586,
+  "total": 1771381,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,12 +21,44 @@
     {
       "period": "2015-12",
       "views": 144561
+    },
+    {
+      "period": "2016-01",
+      "views": 48351
+    },
+    {
+      "period": "2016-02",
+      "views": 12620
+    },
+    {
+      "period": "2016-03",
+      "views": 316127
+    },
+    {
+      "period": "2016-04",
+      "views": 55904
+    },
+    {
+      "period": "2016-06",
+      "views": 9942
+    },
+    {
+      "period": "2016-07",
+      "views": 109548
+    },
+    {
+      "period": "2016-10",
+      "views": 10303
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1208586
+    },
+    {
+      "period": "2016",
+      "views": 562795
     }
   ]
 }

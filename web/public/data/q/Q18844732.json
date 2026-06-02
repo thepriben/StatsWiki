@@ -4,7 +4,7 @@
   "title": "Supergirl_(U.S._TV_series)",
   "description": "2015 American superhero TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Supergirl_%28Arrowverse_television_series%29_logo.svg?width=64",
-  "total": 2284082,
+  "total": 3621294,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,24 @@
     {
       "period": "2015-12",
       "views": 696862
+    },
+    {
+      "period": "2016-01",
+      "views": 675725
+    },
+    {
+      "period": "2016-02",
+      "views": 661487
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2284082
+    },
+    {
+      "period": "2016",
+      "views": 1337212
     }
   ]
 }

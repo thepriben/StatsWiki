@@ -4,8 +4,16 @@
   "title": "List_of_S&P_500_companies",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 6797599,
+  "total": 6876664,
   "monthly": [
+    {
+      "period": "2016-02",
+      "views": 67482
+    },
+    {
+      "period": "2016-04",
+      "views": 11583
+    },
     {
       "period": "2018-01",
       "views": 344830
@@ -108,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 79065
+    },
     {
       "period": "2018",
       "views": 378674

@@ -4,8 +4,28 @@
   "title": "Exo_(band)",
   "description": "South Korean boy band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exo_monster_160618_suwon.png?width=64",
-  "total": 24847346,
+  "total": 25022976,
   "monthly": [
+    {
+      "period": "2016-06",
+      "views": 96381
+    },
+    {
+      "period": "2016-08",
+      "views": 9049
+    },
+    {
+      "period": "2016-09",
+      "views": 9910
+    },
+    {
+      "period": "2016-11",
+      "views": 22353
+    },
+    {
+      "period": "2016-12",
+      "views": 37937
+    },
     {
       "period": "2018-01",
       "views": 772038
@@ -84,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 175630
+    },
     {
       "period": "2018",
       "views": 24401649

@@ -4,8 +4,12 @@
   "title": "Chief_Minister_of_Tamil_Nadu",
   "description": "head of government of the Indian state of Tamil Nadu",
   "image": "",
-  "total": 1841040,
+  "total": 1867715,
   "monthly": [
+    {
+      "period": "2016-12",
+      "views": 26675
+    },
     {
       "period": "2026-01",
       "views": 33727
@@ -20,6 +24,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 26675
+    },
     {
       "period": "2026",
       "views": 1841040

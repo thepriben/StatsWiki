@@ -4,7 +4,7 @@
   "title": "Dancing_with_the_Stars_(U.S._season_21)",
   "description": "season of television series",
   "image": "",
-  "total": 1834867,
+  "total": 1860954,
   "monthly": [
     {
       "period": "2015-08",
@@ -21,12 +21,20 @@
     {
       "period": "2015-11",
       "views": 678063
+    },
+    {
+      "period": "2016-03",
+      "views": 26087
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1834867
+    },
+    {
+      "period": "2016",
+      "views": 26087
     }
   ]
 }

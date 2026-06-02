@@ -4,7 +4,7 @@
   "title": "Rogue_One:_A_Star_Wars_Story",
   "description": "2016 film directed by Gareth Edwards",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_Rogue_One_Logo.svg?width=64",
-  "total": 1574248,
+  "total": 15376373,
   "monthly": [
     {
       "period": "2015-08",
@@ -20,13 +20,173 @@
     },
     {
       "period": "2015-12",
-      "views": 1399949
+      "views": 1460032
+    },
+    {
+      "period": "2016-01",
+      "views": 627856
+    },
+    {
+      "period": "2016-02",
+      "views": 46227
+    },
+    {
+      "period": "2016-03",
+      "views": 11091
+    },
+    {
+      "period": "2016-04",
+      "views": 1413111
+    },
+    {
+      "period": "2016-05",
+      "views": 187818
+    },
+    {
+      "period": "2016-06",
+      "views": 132093
+    },
+    {
+      "period": "2016-07",
+      "views": 296958
+    },
+    {
+      "period": "2016-08",
+      "views": 704215
+    },
+    {
+      "period": "2016-09",
+      "views": 333116
+    },
+    {
+      "period": "2016-10",
+      "views": 621212
+    },
+    {
+      "period": "2016-11",
+      "views": 962452
+    },
+    {
+      "period": "2016-12",
+      "views": 6153148
+    },
+    {
+      "period": "2018-01",
+      "views": 223364
+    },
+    {
+      "period": "2018-05",
+      "views": 79719
+    },
+    {
+      "period": "2018-06",
+      "views": 41225
+    },
+    {
+      "period": "2019-01",
+      "views": 42700
+    },
+    {
+      "period": "2019-02",
+      "views": 26059
+    },
+    {
+      "period": "2019-05",
+      "views": 63783
+    },
+    {
+      "period": "2019-06",
+      "views": 11391
+    },
+    {
+      "period": "2019-09",
+      "views": 11217
+    },
+    {
+      "period": "2019-11",
+      "views": 30785
+    },
+    {
+      "period": "2019-12",
+      "views": 485559
+    },
+    {
+      "period": "2020-01",
+      "views": 79983
+    },
+    {
+      "period": "2020-05",
+      "views": 28648
+    },
+    {
+      "period": "2020-06",
+      "views": 24361
+    },
+    {
+      "period": "2020-12",
+      "views": 22663
+    },
+    {
+      "period": "2022-05",
+      "views": 10650
+    },
+    {
+      "period": "2022-08",
+      "views": 10843
+    },
+    {
+      "period": "2022-09",
+      "views": 144962
+    },
+    {
+      "period": "2022-10",
+      "views": 11698
+    },
+    {
+      "period": "2022-11",
+      "views": 42039
+    },
+    {
+      "period": "2025-04",
+      "views": 73106
+    },
+    {
+      "period": "2025-05",
+      "views": 644299
+    },
+    {
+      "period": "2025-06",
+      "views": 143691
     }
   ],
   "yearly": [
     {
       "period": "2015",
-      "views": 1574248
+      "views": 1634331
+    },
+    {
+      "period": "2016",
+      "views": 11489297
+    },
+    {
+      "period": "2018",
+      "views": 344308
+    },
+    {
+      "period": "2019",
+      "views": 671494
+    },
+    {
+      "period": "2020",
+      "views": 155655
+    },
+    {
+      "period": "2022",
+      "views": 220192
+    },
+    {
+      "period": "2025",
+      "views": 861096
     }
   ]
 }

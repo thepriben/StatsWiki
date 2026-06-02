@@ -4,7 +4,7 @@
   "title": "Crimson_Peak",
   "description": "2015 film by Guillermo del Toro",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo1_Crimson_Peak.png?width=64",
-  "total": 2136011,
+  "total": 2376973,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,6 +21,26 @@
     {
       "period": "2015-12",
       "views": 116809
+    },
+    {
+      "period": "2016-01",
+      "views": 10542
+    },
+    {
+      "period": "2016-02",
+      "views": 108923
+    },
+    {
+      "period": "2016-03",
+      "views": 22565
+    },
+    {
+      "period": "2016-07",
+      "views": 59231
+    },
+    {
+      "period": "2016-09",
+      "views": 39701
     },
     {
       "period": "2018-01",
@@ -51,6 +71,10 @@
     {
       "period": "2015",
       "views": 1936227
+    },
+    {
+      "period": "2016",
+      "views": 240962
     },
     {
       "period": "2018",

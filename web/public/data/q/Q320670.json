@@ -4,11 +4,15 @@
   "title": "Kepler's_Supernova",
   "description": "supernova visible from Earth in the 17th century",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keplers_supernova.jpg?width=64",
-  "total": 29884974,
+  "total": 29901973,
   "monthly": [
     {
       "period": "2015-10",
       "views": 13015
+    },
+    {
+      "period": "2016-10",
+      "views": 16999
     },
     {
       "period": "2018-10",
@@ -211,6 +215,10 @@
     {
       "period": "2015",
       "views": 13015
+    },
+    {
+      "period": "2016",
+      "views": 16999
     },
     {
       "period": "2018",

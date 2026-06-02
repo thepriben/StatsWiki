@@ -4,7 +4,7 @@
   "title": "Mad_Max:_Fury_Road",
   "description": "2015 film directed by George Miller",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mad_Max_Fury_Road_logo.png?width=64",
-  "total": 6457559,
+  "total": 9631681,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,42 @@
     {
       "period": "2015-12",
       "views": 433132
+    },
+    {
+      "period": "2016-01",
+      "views": 969361
+    },
+    {
+      "period": "2016-02",
+      "views": 575013
+    },
+    {
+      "period": "2016-03",
+      "views": 786371
+    },
+    {
+      "period": "2016-04",
+      "views": 310373
+    },
+    {
+      "period": "2016-05",
+      "views": 181814
+    },
+    {
+      "period": "2016-06",
+      "views": 64887
+    },
+    {
+      "period": "2016-07",
+      "views": 112223
+    },
+    {
+      "period": "2016-08",
+      "views": 143988
+    },
+    {
+      "period": "2016-09",
+      "views": 30092
     },
     {
       "period": "2018-01",
@@ -155,6 +191,10 @@
     {
       "period": "2015",
       "views": 3774276
+    },
+    {
+      "period": "2016",
+      "views": 3174122
     },
     {
       "period": "2018",

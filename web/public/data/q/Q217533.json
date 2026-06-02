@@ -4,7 +4,7 @@
   "title": "Joker_(comics)",
   "description": "fictional character throughout the DC Universe",
   "image": "",
-  "total": 975309,
+  "total": 2055584,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,40 @@
     {
       "period": "2015-11",
       "views": 29445
+    },
+    {
+      "period": "2016-01",
+      "views": 52421
+    },
+    {
+      "period": "2016-03",
+      "views": 94098
+    },
+    {
+      "period": "2016-04",
+      "views": 143716
+    },
+    {
+      "period": "2016-07",
+      "views": 120496
+    },
+    {
+      "period": "2016-08",
+      "views": 620520
+    },
+    {
+      "period": "2016-09",
+      "views": 49024
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 975309
+    },
+    {
+      "period": "2016",
+      "views": 1080275
     }
   ]
 }

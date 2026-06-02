@@ -4,7 +4,7 @@
   "title": "List_of_Castle_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 782852,
+  "total": 1847228,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,40 @@
     {
       "period": "2015-12",
       "views": 44728
+    },
+    {
+      "period": "2016-01",
+      "views": 67073
+    },
+    {
+      "period": "2016-02",
+      "views": 211529
+    },
+    {
+      "period": "2016-03",
+      "views": 269148
+    },
+    {
+      "period": "2016-04",
+      "views": 188125
+    },
+    {
+      "period": "2016-05",
+      "views": 317952
+    },
+    {
+      "period": "2016-06",
+      "views": 10549
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 782852
+    },
+    {
+      "period": "2016",
+      "views": 1064376
     }
   ]
 }

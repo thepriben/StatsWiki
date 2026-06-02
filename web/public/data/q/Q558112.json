@@ -4,8 +4,20 @@
   "title": "Black_Mirror",
   "description": "science fiction British TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Mirror_%28British_TV_series%29_logo.svg?width=64",
-  "total": 12714418,
+  "total": 15898618,
   "monthly": [
+    {
+      "period": "2016-10",
+      "views": 811676
+    },
+    {
+      "period": "2016-11",
+      "views": 1400591
+    },
+    {
+      "period": "2016-12",
+      "views": 971933
+    },
     {
       "period": "2018-01",
       "views": 2329831
@@ -120,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 3184200
+    },
     {
       "period": "2018",
       "views": 6334479

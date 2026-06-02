@@ -4,7 +4,7 @@
   "title": "The_Vampire_Diaries_(season_7)",
   "description": "season of television series",
   "image": "",
-  "total": 876858,
+  "total": 2211879,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,40 @@
     {
       "period": "2015-12",
       "views": 232133
+    },
+    {
+      "period": "2016-01",
+      "views": 157971
+    },
+    {
+      "period": "2016-02",
+      "views": 277676
+    },
+    {
+      "period": "2016-03",
+      "views": 291759
+    },
+    {
+      "period": "2016-04",
+      "views": 320320
+    },
+    {
+      "period": "2016-05",
+      "views": 274116
+    },
+    {
+      "period": "2016-10",
+      "views": 13179
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 876858
+    },
+    {
+      "period": "2016",
+      "views": 1335021
     }
   ]
 }

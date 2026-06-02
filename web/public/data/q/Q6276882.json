@@ -4,8 +4,16 @@
   "title": "Jordan_Peterson",
   "description": "Canadian clinical psychologist, author, and political commentator and manosphere activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Peterson_by_Gage_Skidmore.jpg?width=64",
-  "total": 14915592,
+  "total": 14941577,
   "monthly": [
+    {
+      "period": "2016-10",
+      "views": 14714
+    },
+    {
+      "period": "2016-11",
+      "views": 11271
+    },
     {
       "period": "2018-01",
       "views": 380497
@@ -324,6 +332,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 25985
+    },
     {
       "period": "2018",
       "views": 4141161

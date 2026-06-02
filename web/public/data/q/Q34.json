@@ -4,7 +4,7 @@
   "title": "Sweden",
   "description": "country in Northern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweden_-_Location_Map_%282013%29_-_SWE_-_UNOCHA.svg?width=64",
-  "total": 9913029,
+  "total": 11036071,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 116232
+    },
+    {
+      "period": "2016-01",
+      "views": 45951
+    },
+    {
+      "period": "2016-02",
+      "views": 89962
+    },
+    {
+      "period": "2016-03",
+      "views": 106696
+    },
+    {
+      "period": "2016-04",
+      "views": 165664
+    },
+    {
+      "period": "2016-05",
+      "views": 203286
+    },
+    {
+      "period": "2016-06",
+      "views": 236903
+    },
+    {
+      "period": "2016-07",
+      "views": 83163
+    },
+    {
+      "period": "2016-08",
+      "views": 44127
+    },
+    {
+      "period": "2016-09",
+      "views": 26917
+    },
+    {
+      "period": "2016-10",
+      "views": 9277
+    },
+    {
+      "period": "2016-11",
+      "views": 30624
+    },
+    {
+      "period": "2016-12",
+      "views": 80472
     },
     {
       "period": "2018-01",
@@ -319,6 +367,10 @@
     {
       "period": "2015",
       "views": 1341956
+    },
+    {
+      "period": "2016",
+      "views": 1123042
     },
     {
       "period": "2018",

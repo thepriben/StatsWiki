@@ -4,7 +4,7 @@
   "title": "Rooting_(Android_OS)",
   "description": "modification of Android devices to obtain root access",
   "image": "",
-  "total": 1401141,
+  "total": 3973013,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,64 @@
     {
       "period": "2015-12",
       "views": 9364
+    },
+    {
+      "period": "2016-01",
+      "views": 82484
+    },
+    {
+      "period": "2016-02",
+      "views": 197193
+    },
+    {
+      "period": "2016-03",
+      "views": 233953
+    },
+    {
+      "period": "2016-04",
+      "views": 76398
+    },
+    {
+      "period": "2016-05",
+      "views": 17631
+    },
+    {
+      "period": "2016-06",
+      "views": 85028
+    },
+    {
+      "period": "2016-07",
+      "views": 249785
+    },
+    {
+      "period": "2016-08",
+      "views": 313901
+    },
+    {
+      "period": "2016-09",
+      "views": 332710
+    },
+    {
+      "period": "2016-10",
+      "views": 472334
+    },
+    {
+      "period": "2016-11",
+      "views": 279818
+    },
+    {
+      "period": "2016-12",
+      "views": 230637
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1401141
+    },
+    {
+      "period": "2016",
+      "views": 2571872
     }
   ]
 }

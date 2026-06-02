@@ -4,7 +4,7 @@
   "title": "Batman",
   "description": "fictional character in DC Comics",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg?width=64",
-  "total": 3370931,
+  "total": 6183215,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 196834
+    },
+    {
+      "period": "2016-01",
+      "views": 161747
+    },
+    {
+      "period": "2016-02",
+      "views": 283320
+    },
+    {
+      "period": "2016-03",
+      "views": 539049
+    },
+    {
+      "period": "2016-04",
+      "views": 451997
+    },
+    {
+      "period": "2016-05",
+      "views": 301532
+    },
+    {
+      "period": "2016-06",
+      "views": 37193
+    },
+    {
+      "period": "2016-07",
+      "views": 155835
+    },
+    {
+      "period": "2016-08",
+      "views": 365685
+    },
+    {
+      "period": "2016-09",
+      "views": 176939
+    },
+    {
+      "period": "2016-10",
+      "views": 238003
+    },
+    {
+      "period": "2016-11",
+      "views": 72869
+    },
+    {
+      "period": "2016-12",
+      "views": 28115
     },
     {
       "period": "2018-01",
@@ -123,6 +171,10 @@
     {
       "period": "2015",
       "views": 2035760
+    },
+    {
+      "period": "2016",
+      "views": 2812284
     },
     {
       "period": "2018",

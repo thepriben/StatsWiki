@@ -1,0 +1,40 @@
+{
+  "qid": "Q8042151",
+  "label": "adn Noticias",
+  "title": "Proyecto_40",
+  "description": "television network",
+  "image": "",
+  "total": 37014656,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 3050746
+    },
+    {
+      "period": "2016-08",
+      "views": 6365151
+    },
+    {
+      "period": "2016-09",
+      "views": 7070964
+    },
+    {
+      "period": "2016-10",
+      "views": 7879744
+    },
+    {
+      "period": "2016-11",
+      "views": 9056826
+    },
+    {
+      "period": "2016-12",
+      "views": 3591225
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 37014656
+    }
+  ]
+}

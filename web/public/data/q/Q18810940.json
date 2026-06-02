@@ -4,8 +4,12 @@
   "title": "Camila_Cabello",
   "description": "Cuban-Mexican-American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Camila_Cabello_Sundance_2024_Cropped.jpg?width=64",
-  "total": 13128115,
+  "total": 13375941,
   "monthly": [
+    {
+      "period": "2016-12",
+      "views": 247826
+    },
     {
       "period": "2018-01",
       "views": 1071627
@@ -216,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 247826
+    },
     {
       "period": "2018",
       "views": 4755635

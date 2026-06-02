@@ -4,7 +4,7 @@
   "title": "Labor_Day",
   "description": "public holiday in the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Labor_Day_New_York_1882.jpg?width=64",
-  "total": 5900433,
+  "total": 6528224,
   "monthly": [
     {
       "period": "2015-08",
@@ -13,6 +13,18 @@
     {
       "period": "2015-09",
       "views": 702980
+    },
+    {
+      "period": "2016-05",
+      "views": 10862
+    },
+    {
+      "period": "2016-08",
+      "views": 127527
+    },
+    {
+      "period": "2016-09",
+      "views": 489402
     },
     {
       "period": "2018-04",
@@ -143,6 +155,10 @@
     {
       "period": "2015",
       "views": 808488
+    },
+    {
+      "period": "2016",
+      "views": 627791
     },
     {
       "period": "2018",

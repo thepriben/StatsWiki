@@ -4,8 +4,12 @@
   "title": "UEFA_Euro_2024",
   "description": "17th European association football championship",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Euro_2024_logo.svg?width=64",
-  "total": 18223198,
+  "total": 18233860,
   "monthly": [
+    {
+      "period": "2016-07",
+      "views": 10662
+    },
     {
       "period": "2018-07",
       "views": 14435
@@ -120,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 10662
+    },
     {
       "period": "2018",
       "views": 59357

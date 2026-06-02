@@ -4,8 +4,12 @@
   "title": "Dune_(novel)",
   "description": "1965 science fiction novel by Frank Herbert",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dune_Frank_Herbert_logo.svg?width=64",
-  "total": 10656943,
+  "total": 10665733,
   "monthly": [
+    {
+      "period": "2016-07",
+      "views": 8790
+    },
     {
       "period": "2019-01",
       "views": 10802
@@ -112,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2016",
+      "views": 8790
+    },
     {
       "period": "2019",
       "views": 63110
