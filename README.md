@@ -225,7 +225,7 @@ This repo tracks **English Wikipedia only**. To run StatsWiki for French, German
 
 → **[ADAPT.md](ADAPT.md)** — step-by-step fork guide (config, Pages URL, Wikidata language, backfill).
 
-Multi-language in a **single** site is not implemented yet; one fork per language is the intended model for now.
+Multi-language in a **single** site is not implemented. One fork per language is the intended model. **Pull requests to this repo are not accepted** — fork under MIT and maintain your own copy.
 
 ---
 

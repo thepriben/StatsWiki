@@ -145,7 +145,7 @@ def shadow_qid(title: str) -> str:
     return f"Q_{LANG}_{normalize_title(title)}"
 ```
 
-Pull requests to make `LANG` drive all of the above in upstream StatsWiki are welcome.
+If you adapt the code for another language, keep your changes in **your fork** — pull requests to [thepriben/StatsWiki](https://github.com/thepriben/StatsWiki) are **not accepted**.
 
 ---
 
@@ -210,8 +210,9 @@ cd web && npm ci && npm run dev
 
 ---
 
-## 10. Getting help
+## 10. Upstream policy
 
-- Upstream: [thepriben/StatsWiki](https://github.com/thepriben/StatsWiki)
-- Wikimedia API docs: [Analytics API](https://doc.wikimedia.org/generated-data-platform/aqs/analytics-api/), [Wikidata API](https://www.wikidata.org/wiki/Wikidata:Data_access)
-- Issues and PRs welcome on the upstream repo for shared improvements (language-aware enrichment, i18n, etc.)
+- **Fork:** MIT license — copy, modify, deploy your own instance freely.
+- **Pull requests:** not accepted on the upstream repo. Maintain your changes in your fork.
+- **Issues:** use your own tracker; upstream is not actively seeking contributions.
+- **API docs:** [Analytics API](https://doc.wikimedia.org/generated-data-platform/aqs/analytics-api/), [Wikidata API](https://www.wikidata.org/wiki/Wikidata:Data_access)
