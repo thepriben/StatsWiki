@@ -4,8 +4,32 @@
   "title": "Jacob_Elordi",
   "description": "Australian actor (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JacobElordi-TIFF2025-01_%28cropped_2%29.png?width=64",
-  "total": 9297372,
+  "total": 10722702,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 13212
+    },
+    {
+      "period": "2023-08",
+      "views": 21619
+    },
+    {
+      "period": "2023-09",
+      "views": 96413
+    },
+    {
+      "period": "2023-10",
+      "views": 77129
+    },
+    {
+      "period": "2023-11",
+      "views": 466482
+    },
+    {
+      "period": "2023-12",
+      "views": 750475
+    },
     {
       "period": "2024-01",
       "views": 1977527
@@ -76,6 +100,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1425330
+    },
     {
       "period": "2024",
       "views": 2664731

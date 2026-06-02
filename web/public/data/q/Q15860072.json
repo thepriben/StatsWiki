@@ -4,8 +4,56 @@
   "title": "Russo-Ukrainian_War",
   "description": "armed conflict between Russia and Ukraine since 2014",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_Russian_invasion_of_Ukraine.svg?width=64",
-  "total": 8254204,
+  "total": 13833790,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 620348
+    },
+    {
+      "period": "2023-02",
+      "views": 534141
+    },
+    {
+      "period": "2023-03",
+      "views": 515712
+    },
+    {
+      "period": "2023-04",
+      "views": 406160
+    },
+    {
+      "period": "2023-05",
+      "views": 407664
+    },
+    {
+      "period": "2023-06",
+      "views": 575916
+    },
+    {
+      "period": "2023-07",
+      "views": 438645
+    },
+    {
+      "period": "2023-08",
+      "views": 454080
+    },
+    {
+      "period": "2023-09",
+      "views": 451214
+    },
+    {
+      "period": "2023-10",
+      "views": 456716
+    },
+    {
+      "period": "2023-11",
+      "views": 362392
+    },
+    {
+      "period": "2023-12",
+      "views": 356598
+    },
     {
       "period": "2024-01",
       "views": 343763
@@ -96,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 5579586
+    },
     {
       "period": "2024",
       "views": 4634125

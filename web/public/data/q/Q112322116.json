@@ -4,8 +4,20 @@
   "title": "Captain_America:_Brave_New_World",
   "description": "2025 film by Julius Onah",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_America_Brave_New_World_Logo.svg?width=64",
-  "total": 9254213,
+  "total": 9444243,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 48323
+    },
+    {
+      "period": "2023-07",
+      "views": 63423
+    },
+    {
+      "period": "2023-11",
+      "views": 78284
+    },
     {
       "period": "2024-02",
       "views": 47553
@@ -76,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 190030
+    },
     {
       "period": "2024",
       "views": 815792

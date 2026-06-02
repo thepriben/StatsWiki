@@ -4,7 +4,7 @@
   "title": "Manchester_City_F.C.",
   "description": "association football club in Manchester, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg?width=64",
-  "total": 6416894,
+  "total": 14154165,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,54 @@
     {
       "period": "2015-12",
       "views": 66464
+    },
+    {
+      "period": "2023-01",
+      "views": 585684
+    },
+    {
+      "period": "2023-02",
+      "views": 609995
+    },
+    {
+      "period": "2023-03",
+      "views": 469257
+    },
+    {
+      "period": "2023-04",
+      "views": 711086
+    },
+    {
+      "period": "2023-05",
+      "views": 1197480
+    },
+    {
+      "period": "2023-06",
+      "views": 1139069
+    },
+    {
+      "period": "2023-07",
+      "views": 415025
+    },
+    {
+      "period": "2023-08",
+      "views": 757641
+    },
+    {
+      "period": "2023-09",
+      "views": 611924
+    },
+    {
+      "period": "2023-10",
+      "views": 376007
+    },
+    {
+      "period": "2023-11",
+      "views": 271569
+    },
+    {
+      "period": "2023-12",
+      "views": 592534
     },
     {
       "period": "2024-01",
@@ -143,6 +191,10 @@
     {
       "period": "2015",
       "views": 788914
+    },
+    {
+      "period": "2023",
+      "views": 7737271
     },
     {
       "period": "2024",

@@ -4,8 +4,40 @@
   "title": "The_White_Lotus",
   "description": "2021 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The-white-lotus-s2-1888x300.png?width=64",
-  "total": 10288059,
+  "total": 14607437,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 2129540
+    },
+    {
+      "period": "2023-02",
+      "views": 858068
+    },
+    {
+      "period": "2023-03",
+      "views": 630840
+    },
+    {
+      "period": "2023-04",
+      "views": 421255
+    },
+    {
+      "period": "2023-05",
+      "views": 81158
+    },
+    {
+      "period": "2023-06",
+      "views": 83555
+    },
+    {
+      "period": "2023-07",
+      "views": 104788
+    },
+    {
+      "period": "2023-11",
+      "views": 10174
+    },
     {
       "period": "2024-01",
       "views": 350092
@@ -100,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 4319378
+    },
     {
       "period": "2024",
       "views": 1514489

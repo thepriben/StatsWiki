@@ -4,8 +4,28 @@
   "title": "Caitlin_Clark",
   "description": "American basketball player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caitlin_Clark_Big_Ten_tournament_%28cropped%29.jpg?width=64",
-  "total": 7011656,
+  "total": 8285572,
   "monthly": [
+    {
+      "period": "2023-02",
+      "views": 11127
+    },
+    {
+      "period": "2023-03",
+      "views": 222519
+    },
+    {
+      "period": "2023-04",
+      "views": 989844
+    },
+    {
+      "period": "2023-11",
+      "views": 30261
+    },
+    {
+      "period": "2023-12",
+      "views": 20165
+    },
     {
       "period": "2024-01",
       "views": 133081
@@ -100,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1273916
+    },
     {
       "period": "2024",
       "views": 5376657

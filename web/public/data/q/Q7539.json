@@ -4,7 +4,7 @@
   "title": "Peyton_Manning",
   "description": "American football player (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peyton_Manning_%28cropped%29.jpg?width=64",
-  "total": 4352852,
+  "total": 5008240,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,30 @@
     {
       "period": "2015-12",
       "views": 367002
+    },
+    {
+      "period": "2023-01",
+      "views": 161829
+    },
+    {
+      "period": "2023-02",
+      "views": 178894
+    },
+    {
+      "period": "2023-09",
+      "views": 74902
+    },
+    {
+      "period": "2023-10",
+      "views": 53810
+    },
+    {
+      "period": "2023-11",
+      "views": 105404
+    },
+    {
+      "period": "2023-12",
+      "views": 80549
     },
     {
       "period": "2024-01",
@@ -111,6 +135,10 @@
     {
       "period": "2015",
       "views": 2313713
+    },
+    {
+      "period": "2023",
+      "views": 655388
     },
     {
       "period": "2024",

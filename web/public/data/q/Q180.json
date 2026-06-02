@@ -4,8 +4,56 @@
   "title": "Wikimedia_Foundation",
   "description": "American charitable organization",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikimedia_Foundation_logo_-_vertical.svg?width=64",
-  "total": 5754498,
+  "total": 10968025,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 363695
+    },
+    {
+      "period": "2023-02",
+      "views": 310490
+    },
+    {
+      "period": "2023-03",
+      "views": 353429
+    },
+    {
+      "period": "2023-04",
+      "views": 395044
+    },
+    {
+      "period": "2023-05",
+      "views": 425025
+    },
+    {
+      "period": "2023-06",
+      "views": 484763
+    },
+    {
+      "period": "2023-07",
+      "views": 506936
+    },
+    {
+      "period": "2023-08",
+      "views": 555801
+    },
+    {
+      "period": "2023-09",
+      "views": 595925
+    },
+    {
+      "period": "2023-10",
+      "views": 443847
+    },
+    {
+      "period": "2023-11",
+      "views": 405977
+    },
+    {
+      "period": "2023-12",
+      "views": 372595
+    },
     {
       "period": "2024-01",
       "views": 467046
@@ -76,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 5213527
+    },
     {
       "period": "2024",
       "views": 4517153

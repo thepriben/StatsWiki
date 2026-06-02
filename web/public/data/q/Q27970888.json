@@ -4,8 +4,16 @@
   "title": "Pizzagate_conspiracy_theory",
   "description": "US-american right-wing conspiracy theory",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizzagate_02aIMG_8514.jpg?width=64",
-  "total": 1993591,
+  "total": 2115736,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 96496
+    },
+    {
+      "period": "2023-12",
+      "views": 25649
+    },
     {
       "period": "2024-01",
       "views": 29693
@@ -60,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 122145
+    },
     {
       "period": "2024",
       "views": 129790

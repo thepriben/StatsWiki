@@ -4,8 +4,12 @@
   "title": "Jermaine_Jackson",
   "description": "American musician and member of the Jackson 5 (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JermaineJackson2007%28cropped%29.jpg?width=64",
-  "total": 2845212,
+  "total": 2858349,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 13137
+    },
     {
       "period": "2024-02",
       "views": 14177
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 13137
+    },
     {
       "period": "2024",
       "views": 147477

@@ -4,8 +4,36 @@
   "title": "Mae_Martin",
   "description": "Canadian comedian and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mae_Martin_at_the_2025_Toronto_International_Film_Festival.jpg?width=64",
-  "total": 3465681,
+  "total": 4170176,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 21229
+    },
+    {
+      "period": "2023-02",
+      "views": 33607
+    },
+    {
+      "period": "2023-03",
+      "views": 152800
+    },
+    {
+      "period": "2023-04",
+      "views": 399959
+    },
+    {
+      "period": "2023-05",
+      "views": 46221
+    },
+    {
+      "period": "2023-06",
+      "views": 34242
+    },
+    {
+      "period": "2023-10",
+      "views": 16437
+    },
     {
       "period": "2025-03",
       "views": 13165
@@ -36,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 704495
+    },
     {
       "period": "2025",
       "views": 3354598

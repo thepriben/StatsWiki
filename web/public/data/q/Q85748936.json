@@ -4,8 +4,16 @@
   "title": "Bridgerton",
   "description": "American television series",
   "image": "",
-  "total": 8319631,
+  "total": 9023906,
   "monthly": [
+    {
+      "period": "2023-05",
+      "views": 647426
+    },
+    {
+      "period": "2023-06",
+      "views": 56849
+    },
     {
       "period": "2024-02",
       "views": 65961
@@ -68,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 704275
+    },
     {
       "period": "2024",
       "views": 4570007

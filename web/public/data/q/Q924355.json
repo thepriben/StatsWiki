@@ -4,8 +4,56 @@
   "title": "XXXX_(beer)",
   "description": "XxxAustralian beer brand",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Castlemaine_Perkins_Brewery.jpg?width=64",
-  "total": 9493084,
+  "total": 29624985,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 641409
+    },
+    {
+      "period": "2023-02",
+      "views": 573770
+    },
+    {
+      "period": "2023-03",
+      "views": 587463
+    },
+    {
+      "period": "2023-04",
+      "views": 1721264
+    },
+    {
+      "period": "2023-05",
+      "views": 1352471
+    },
+    {
+      "period": "2023-06",
+      "views": 1229781
+    },
+    {
+      "period": "2023-07",
+      "views": 1654040
+    },
+    {
+      "period": "2023-08",
+      "views": 2242837
+    },
+    {
+      "period": "2023-09",
+      "views": 2874878
+    },
+    {
+      "period": "2023-10",
+      "views": 3520155
+    },
+    {
+      "period": "2023-11",
+      "views": 3082170
+    },
+    {
+      "period": "2023-12",
+      "views": 651663
+    },
     {
       "period": "2024-01",
       "views": 33435
@@ -92,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 20131901
+    },
     {
       "period": "2024",
       "views": 3104435

@@ -4,8 +4,20 @@
   "title": "Godzilla_x_Kong:_The_New_Empire",
   "description": "2024 film by Adam Wingard",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Godzilla_x_Kong_%E2%80%93_The_New_Empire_logo.png?width=64",
-  "total": 5669137,
+  "total": 6186579,
   "monthly": [
+    {
+      "period": "2023-04",
+      "views": 116928
+    },
+    {
+      "period": "2023-11",
+      "views": 33338
+    },
+    {
+      "period": "2023-12",
+      "views": 367176
+    },
     {
       "period": "2024-01",
       "views": 51024
@@ -40,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 517442
+    },
     {
       "period": "2024",
       "views": 5669137

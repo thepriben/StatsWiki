@@ -1,0 +1,44 @@
+{
+  "qid": "Q107808351",
+  "label": "Blue Beetle",
+  "title": "Blue_Beetle_(film)",
+  "description": "2023 film directed by Ángel Manuel Soto",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Beetle_%28film%29_logo.png?width=64",
+  "total": 5053886,
+  "monthly": [
+    {
+      "period": "2023-04",
+      "views": 223308
+    },
+    {
+      "period": "2023-07",
+      "views": 137208
+    },
+    {
+      "period": "2023-08",
+      "views": 2062031
+    },
+    {
+      "period": "2023-09",
+      "views": 1473005
+    },
+    {
+      "period": "2023-10",
+      "views": 558830
+    },
+    {
+      "period": "2023-11",
+      "views": 518868
+    },
+    {
+      "period": "2023-12",
+      "views": 80636
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 5053886
+    }
+  ]
+}

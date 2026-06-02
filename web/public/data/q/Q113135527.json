@@ -4,8 +4,28 @@
   "title": "Saltburn_(film)",
   "description": "2023 film by Emerald Fennell",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saltburn_%28film%29_wordmark.svg?width=64",
-  "total": 9534684,
+  "total": 15456724,
   "monthly": [
+    {
+      "period": "2023-08",
+      "views": 86022
+    },
+    {
+      "period": "2023-09",
+      "views": 87841
+    },
+    {
+      "period": "2023-10",
+      "views": 68160
+    },
+    {
+      "period": "2023-11",
+      "views": 1527521
+    },
+    {
+      "period": "2023-12",
+      "views": 4152496
+    },
     {
       "period": "2024-01",
       "views": 7187499
@@ -52,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 5922040
+    },
     {
       "period": "2024",
       "views": 9169959

@@ -4,7 +4,7 @@
   "title": "Taylor_Swift",
   "description": "American singer-songwriter (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?width=64",
-  "total": 32039751,
+  "total": 51979835,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 664336
+    },
+    {
+      "period": "2023-01",
+      "views": 754813
+    },
+    {
+      "period": "2023-02",
+      "views": 752570
+    },
+    {
+      "period": "2023-03",
+      "views": 1077263
+    },
+    {
+      "period": "2023-04",
+      "views": 1333960
+    },
+    {
+      "period": "2023-05",
+      "views": 1445837
+    },
+    {
+      "period": "2023-06",
+      "views": 1445715
+    },
+    {
+      "period": "2023-07",
+      "views": 2001105
+    },
+    {
+      "period": "2023-08",
+      "views": 1955233
+    },
+    {
+      "period": "2023-09",
+      "views": 2840895
+    },
+    {
+      "period": "2023-10",
+      "views": 2627048
+    },
+    {
+      "period": "2023-11",
+      "views": 2003233
+    },
+    {
+      "period": "2023-12",
+      "views": 1702412
     },
     {
       "period": "2024-01",
@@ -151,6 +199,10 @@
     {
       "period": "2015",
       "views": 4304620
+    },
+    {
+      "period": "2023",
+      "views": 19940084
     },
     {
       "period": "2024",

@@ -4,8 +4,44 @@
   "title": "The_Bear_(TV_series)",
   "description": "American comedy-drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Bear_Title_Card.jpg?width=64",
-  "total": 8203781,
+  "total": 13020112,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 166785
+    },
+    {
+      "period": "2023-05",
+      "views": 12756
+    },
+    {
+      "period": "2023-06",
+      "views": 702832
+    },
+    {
+      "period": "2023-07",
+      "views": 1415387
+    },
+    {
+      "period": "2023-08",
+      "views": 974559
+    },
+    {
+      "period": "2023-09",
+      "views": 614639
+    },
+    {
+      "period": "2023-10",
+      "views": 295517
+    },
+    {
+      "period": "2023-11",
+      "views": 269129
+    },
+    {
+      "period": "2023-12",
+      "views": 364727
+    },
     {
       "period": "2024-01",
       "views": 1634109
@@ -88,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 4816331
+    },
     {
       "period": "2024",
       "views": 6572224

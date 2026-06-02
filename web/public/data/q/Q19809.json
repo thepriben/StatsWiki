@@ -4,7 +4,7 @@
   "title": "Christmas",
   "description": "holiday originating in Christianity, usually December 25",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adoration_of_the_Shepherds%2C_Murillo_%28Prado_Museum%29.jpg?width=64",
-  "total": 3032140,
+  "total": 4404596,
   "monthly": [
     {
       "period": "2015-11",
@@ -13,6 +13,18 @@
     {
       "period": "2015-12",
       "views": 1416487
+    },
+    {
+      "period": "2023-01",
+      "views": 24082
+    },
+    {
+      "period": "2023-11",
+      "views": 132853
+    },
+    {
+      "period": "2023-12",
+      "views": 1215521
     },
     {
       "period": "2024-01",
@@ -43,6 +55,10 @@
     {
       "period": "2015",
       "views": 1710517
+    },
+    {
+      "period": "2023",
+      "views": 1372456
     },
     {
       "period": "2024",

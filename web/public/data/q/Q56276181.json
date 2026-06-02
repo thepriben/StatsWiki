@@ -1,11 +1,15 @@
 {
   "qid": "Q56276181",
   "label": "Shōgun",
-  "title": "Shōgun_(2024_TV_series)",
+  "title": "Shōgun_(2024_miniseries)",
   "description": "American television series (2024–)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E2%80%9CShogun%E2%80%9D_big_hit_prayer_event_at_Zojoji_1.jpg?width=64",
-  "total": 11029896,
+  "total": 11054893,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 24997
+    },
     {
       "period": "2024-01",
       "views": 14836
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 24997
+    },
     {
       "period": "2024",
       "views": 10246764

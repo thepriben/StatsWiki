@@ -4,8 +4,24 @@
   "title": "Kraven_the_Hunter_(film)",
   "description": "2024 superhero film by J. C. Chandor",
   "image": "",
-  "total": 4788901,
+  "total": 5221931,
   "monthly": [
+    {
+      "period": "2023-04",
+      "views": 37301
+    },
+    {
+      "period": "2023-06",
+      "views": 358359
+    },
+    {
+      "period": "2023-07",
+      "views": 12405
+    },
+    {
+      "period": "2023-11",
+      "views": 24965
+    },
     {
       "period": "2024-02",
       "views": 47781
@@ -44,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 433030
+    },
     {
       "period": "2024",
       "views": 2510573

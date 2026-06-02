@@ -4,8 +4,28 @@
   "title": "Keir_Starmer",
   "description": "Prime Minister of the United Kingdom since 2024",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg?width=64",
-  "total": 12577437,
+  "total": 12752325,
   "monthly": [
+    {
+      "period": "2023-05",
+      "views": 11554
+    },
+    {
+      "period": "2023-07",
+      "views": 11200
+    },
+    {
+      "period": "2023-09",
+      "views": 14052
+    },
+    {
+      "period": "2023-10",
+      "views": 116182
+    },
+    {
+      "period": "2023-11",
+      "views": 21900
+    },
     {
       "period": "2024-01",
       "views": 13627
@@ -112,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 174888
+    },
     {
       "period": "2024",
       "views": 7245156

@@ -4,7 +4,7 @@
   "title": "Frozen_(2013_film)",
   "description": "2013 animated film directed by Chris Buck and Jennifer Lee",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frozen_Logo_Black.svg?width=64",
-  "total": 947155,
+  "total": 971964,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,24 @@
     {
       "period": "2015-12",
       "views": 279158
+    },
+    {
+      "period": "2023-11",
+      "views": 13047
+    },
+    {
+      "period": "2023-12",
+      "views": 11762
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 947155
+    },
+    {
+      "period": "2023",
+      "views": 24809
     }
   ]
 }

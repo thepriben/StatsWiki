@@ -4,8 +4,12 @@
   "title": "Challengers_(film)",
   "description": "2024 film by Luca Guadagnino",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Challengers_logo.png?width=64",
-  "total": 4647557,
+  "total": 4924952,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 277395
+    },
     {
       "period": "2024-01",
       "views": 12703
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 277395
+    },
     {
       "period": "2024",
       "views": 4366856

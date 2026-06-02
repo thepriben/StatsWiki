@@ -4,8 +4,20 @@
   "title": "Squid_Game",
   "description": "2021 South Korean television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Squid_Game_2021_vector_logo_english.svg?width=64",
-  "total": 7316565,
+  "total": 8006012,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 46396
+    },
+    {
+      "period": "2023-11",
+      "views": 349075
+    },
+    {
+      "period": "2023-12",
+      "views": 293976
+    },
     {
       "period": "2024-02",
       "views": 22383
@@ -60,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 689447
+    },
     {
       "period": "2024",
       "views": 1917884

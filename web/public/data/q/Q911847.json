@@ -4,17 +4,29 @@
   "title": "2015_FIFA_Women's_World_Cup",
   "description": "2015 edition of the FIFA Women's World Cup",
   "image": "",
-  "total": 813288,
+  "total": 921254,
   "monthly": [
     {
       "period": "2015-07",
       "views": 813288
+    },
+    {
+      "period": "2023-07",
+      "views": 24580
+    },
+    {
+      "period": "2023-08",
+      "views": 83386
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 813288
+    },
+    {
+      "period": "2023",
+      "views": 107966
     }
   ]
 }

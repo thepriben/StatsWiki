@@ -4,8 +4,36 @@
   "title": "Shai_Gilgeous-Alexander",
   "description": "Canadian basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shai_Gilgeous-Alexander_2_%28cropped%29.jpg?width=64",
-  "total": 4885539,
+  "total": 5143161,
   "monthly": [
+    {
+      "period": "2023-02",
+      "views": 37777
+    },
+    {
+      "period": "2023-04",
+      "views": 81810
+    },
+    {
+      "period": "2023-05",
+      "views": 22235
+    },
+    {
+      "period": "2023-08",
+      "views": 10925
+    },
+    {
+      "period": "2023-09",
+      "views": 75583
+    },
+    {
+      "period": "2023-11",
+      "views": 15246
+    },
+    {
+      "period": "2023-12",
+      "views": 14046
+    },
     {
       "period": "2024-01",
       "views": 69753
@@ -92,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 257622
+    },
     {
       "period": "2024",
       "views": 636406

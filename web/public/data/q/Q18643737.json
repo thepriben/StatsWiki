@@ -1,0 +1,96 @@
+{
+  "qid": "Q18643737",
+  "label": "YouTube Premium",
+  "title": "YouTube_Premium",
+  "description": "paid streaming subscription service",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_Premium_logo.svg?width=64",
+  "total": 5703469,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 698352
+    },
+    {
+      "period": "2023-02",
+      "views": 596229
+    },
+    {
+      "period": "2023-03",
+      "views": 939310
+    },
+    {
+      "period": "2023-04",
+      "views": 674085
+    },
+    {
+      "period": "2023-05",
+      "views": 607769
+    },
+    {
+      "period": "2023-06",
+      "views": 480363
+    },
+    {
+      "period": "2023-07",
+      "views": 351055
+    },
+    {
+      "period": "2023-08",
+      "views": 411337
+    },
+    {
+      "period": "2023-09",
+      "views": 20957
+    },
+    {
+      "period": "2024-04",
+      "views": 43859
+    },
+    {
+      "period": "2024-05",
+      "views": 238943
+    },
+    {
+      "period": "2024-06",
+      "views": 81422
+    },
+    {
+      "period": "2024-07",
+      "views": 173622
+    },
+    {
+      "period": "2024-08",
+      "views": 146830
+    },
+    {
+      "period": "2024-09",
+      "views": 161755
+    },
+    {
+      "period": "2024-10",
+      "views": 57574
+    },
+    {
+      "period": "2024-11",
+      "views": 9931
+    },
+    {
+      "period": "2025-01",
+      "views": 10076
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 4779457
+    },
+    {
+      "period": "2024",
+      "views": 913936
+    },
+    {
+      "period": "2025",
+      "views": 10076
+    }
+  ]
+}

@@ -4,8 +4,12 @@
   "title": "Kantara:_Chapter_1",
   "description": "upcoming Indian Kannada-language action movie",
   "image": "",
-  "total": 7867749,
+  "total": 7898427,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 30678
+    },
     {
       "period": "2025-09",
       "views": 156084
@@ -24,6 +28,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 30678
+    },
     {
       "period": "2025",
       "views": 7867749

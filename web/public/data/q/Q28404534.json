@@ -1,0 +1,76 @@
+{
+  "qid": "Q28404534",
+  "label": "YouTube Music",
+  "title": "YouTube_Music",
+  "description": "music streaming website",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot_of_YouTube_Music_web_player_%28December_2023%29.png?width=64",
+  "total": 5264738,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 714112
+    },
+    {
+      "period": "2023-02",
+      "views": 619800
+    },
+    {
+      "period": "2023-03",
+      "views": 967180
+    },
+    {
+      "period": "2023-04",
+      "views": 714051
+    },
+    {
+      "period": "2023-05",
+      "views": 639495
+    },
+    {
+      "period": "2023-06",
+      "views": 511795
+    },
+    {
+      "period": "2023-07",
+      "views": 389431
+    },
+    {
+      "period": "2023-08",
+      "views": 443207
+    },
+    {
+      "period": "2023-09",
+      "views": 32510
+    },
+    {
+      "period": "2024-04",
+      "views": 11811
+    },
+    {
+      "period": "2024-05",
+      "views": 180402
+    },
+    {
+      "period": "2024-06",
+      "views": 10494
+    },
+    {
+      "period": "2024-09",
+      "views": 21109
+    },
+    {
+      "period": "2024-12",
+      "views": 9341
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 5031581
+    },
+    {
+      "period": "2024",
+      "views": 233157
+    }
+  ]
+}

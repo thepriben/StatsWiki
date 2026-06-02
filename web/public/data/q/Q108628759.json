@@ -4,8 +4,28 @@
   "title": "Joker:_Folie_à_Deux",
   "description": "2024 film directed by Todd Phillips",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_Folie_%C3%A0_Deux_Black_Logo.png?width=64",
-  "total": 7091943,
+  "total": 7317268,
   "monthly": [
+    {
+      "period": "2023-02",
+      "views": 76277
+    },
+    {
+      "period": "2023-03",
+      "views": 59216
+    },
+    {
+      "period": "2023-04",
+      "views": 65065
+    },
+    {
+      "period": "2023-10",
+      "views": 10729
+    },
+    {
+      "period": "2023-12",
+      "views": 14038
+    },
     {
       "period": "2024-01",
       "views": 11906
@@ -48,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 225325
+    },
     {
       "period": "2024",
       "views": 6956067

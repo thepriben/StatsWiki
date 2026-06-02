@@ -4,8 +4,36 @@
   "title": "1923_(TV_series)",
   "description": "American Western drama television series",
   "image": "",
-  "total": 4177785,
+  "total": 6667976,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 927078
+    },
+    {
+      "period": "2023-02",
+      "views": 849826
+    },
+    {
+      "period": "2023-03",
+      "views": 530675
+    },
+    {
+      "period": "2023-04",
+      "views": 106787
+    },
+    {
+      "period": "2023-06",
+      "views": 26281
+    },
+    {
+      "period": "2023-07",
+      "views": 33924
+    },
+    {
+      "period": "2023-08",
+      "views": 15620
+    },
     {
       "period": "2024-01",
       "views": 35321
@@ -68,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 2490191
+    },
     {
       "period": "2024",
       "views": 446358

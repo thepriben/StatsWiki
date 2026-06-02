@@ -4,7 +4,7 @@
   "title": "2015_Rugby_World_Cup",
   "description": "8th Rugby World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/England_vs_Australia_2015_RWC_%282%29.jpg?width=64",
-  "total": 2363456,
+  "total": 2460171,
   "monthly": [
     {
       "period": "2015-08",
@@ -21,12 +21,24 @@
     {
       "period": "2015-11",
       "views": 87472
+    },
+    {
+      "period": "2023-09",
+      "views": 26895
+    },
+    {
+      "period": "2023-10",
+      "views": 69820
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2363456
+    },
+    {
+      "period": "2023",
+      "views": 96715
     }
   ]
 }

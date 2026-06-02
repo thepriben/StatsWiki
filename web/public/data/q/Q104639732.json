@@ -4,8 +4,12 @@
   "title": "Kash_Patel",
   "description": "Director of the Federal Bureau of Investigation",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kash_Patel%2C_official_FBI_portrait.jpg?width=64",
-  "total": 10483654,
+  "total": 10496494,
   "monthly": [
+    {
+      "period": "2023-12",
+      "views": 12840
+    },
     {
       "period": "2024-08",
       "views": 20558
@@ -88,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 12840
+    },
     {
       "period": "2024",
       "views": 1906570

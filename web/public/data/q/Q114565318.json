@@ -4,8 +4,36 @@
   "title": "Eurovision_Song_Contest_2024",
   "description": "68th edition of the Eurovision Song Contest",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurovision_2024_stage_%28stage_left%29.jpg?width=64",
-  "total": 5081947,
+  "total": 5633924,
   "monthly": [
+    {
+      "period": "2023-05",
+      "views": 176630
+    },
+    {
+      "period": "2023-07",
+      "views": 25613
+    },
+    {
+      "period": "2023-08",
+      "views": 11035
+    },
+    {
+      "period": "2023-09",
+      "views": 115496
+    },
+    {
+      "period": "2023-10",
+      "views": 10199
+    },
+    {
+      "period": "2023-11",
+      "views": 24203
+    },
+    {
+      "period": "2023-12",
+      "views": 188801
+    },
     {
       "period": "2024-01",
       "views": 338176
@@ -40,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 551977
+    },
     {
       "period": "2024",
       "views": 4783899

@@ -4,8 +4,56 @@
   "title": "Charles_III",
   "description": "King of the United Kingdom since 2022 (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64",
-  "total": 16805957,
+  "total": 26679581,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 912920
+    },
+    {
+      "period": "2023-02",
+      "views": 545330
+    },
+    {
+      "period": "2023-03",
+      "views": 694279
+    },
+    {
+      "period": "2023-04",
+      "views": 783590
+    },
+    {
+      "period": "2023-05",
+      "views": 2680388
+    },
+    {
+      "period": "2023-06",
+      "views": 602835
+    },
+    {
+      "period": "2023-07",
+      "views": 481687
+    },
+    {
+      "period": "2023-08",
+      "views": 468159
+    },
+    {
+      "period": "2023-09",
+      "views": 532713
+    },
+    {
+      "period": "2023-10",
+      "views": 422793
+    },
+    {
+      "period": "2023-11",
+      "views": 734857
+    },
+    {
+      "period": "2023-12",
+      "views": 1014073
+    },
     {
       "period": "2024-01",
       "views": 910046
@@ -124,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 9873624
+    },
     {
       "period": "2024",
       "views": 7446610

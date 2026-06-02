@@ -1,0 +1,64 @@
+{
+  "qid": "Q100704907",
+  "label": "Tiger 3",
+  "title": "Tiger_3",
+  "description": "2023 film directed by Maneesh Sharma",
+  "image": "",
+  "total": 6856819,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 10437
+    },
+    {
+      "period": "2023-08",
+      "views": 24040
+    },
+    {
+      "period": "2023-09",
+      "views": 522365
+    },
+    {
+      "period": "2023-10",
+      "views": 442394
+    },
+    {
+      "period": "2023-11",
+      "views": 3907778
+    },
+    {
+      "period": "2023-12",
+      "views": 1115924
+    },
+    {
+      "period": "2024-01",
+      "views": 781507
+    },
+    {
+      "period": "2024-02",
+      "views": 10300
+    },
+    {
+      "period": "2024-03",
+      "views": 12417
+    },
+    {
+      "period": "2025-08",
+      "views": 29657
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 6022938
+    },
+    {
+      "period": "2024",
+      "views": 804224
+    },
+    {
+      "period": "2025",
+      "views": 29657
+    }
+  ]
+}

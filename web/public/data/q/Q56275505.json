@@ -4,8 +4,48 @@
   "title": "Euphoria_(American_TV_series)",
   "description": "2019 American teen drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euphoria_promotional_logo.svg?width=64",
-  "total": 7090128,
+  "total": 8037978,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 51536
+    },
+    {
+      "period": "2023-02",
+      "views": 63875
+    },
+    {
+      "period": "2023-03",
+      "views": 135882
+    },
+    {
+      "period": "2023-04",
+      "views": 10109
+    },
+    {
+      "period": "2023-05",
+      "views": 114228
+    },
+    {
+      "period": "2023-06",
+      "views": 214446
+    },
+    {
+      "period": "2023-07",
+      "views": 76386
+    },
+    {
+      "period": "2023-08",
+      "views": 239529
+    },
+    {
+      "period": "2023-11",
+      "views": 26280
+    },
+    {
+      "period": "2023-12",
+      "views": 15579
+    },
     {
       "period": "2024-01",
       "views": 253911
@@ -88,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 947850
+    },
     {
       "period": "2024",
       "views": 1270638

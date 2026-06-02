@@ -4,8 +4,28 @@
   "title": "Poor_Things_(film)",
   "description": "2023 film directed by Yorgos Lanthimos",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PoorTh.png?width=64",
-  "total": 9609978,
+  "total": 11283363,
   "monthly": [
+    {
+      "period": "2023-05",
+      "views": 45611
+    },
+    {
+      "period": "2023-06",
+      "views": 55395
+    },
+    {
+      "period": "2023-09",
+      "views": 292906
+    },
+    {
+      "period": "2023-11",
+      "views": 70603
+    },
+    {
+      "period": "2023-12",
+      "views": 1208870
+    },
     {
       "period": "2024-01",
       "views": 2779695
@@ -48,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1673385
+    },
     {
       "period": "2024",
       "views": 9573023

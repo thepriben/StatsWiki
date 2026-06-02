@@ -4,8 +4,16 @@
   "title": "Curt_Cignetti",
   "description": "American football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026-0119_NCG_postgame_Curt_Cignetti_presser.jpeg?width=64",
-  "total": 3961785,
+  "total": 4057984,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 31865
+    },
+    {
+      "period": "2023-12",
+      "views": 64334
+    },
     {
       "period": "2024-09",
       "views": 21918
@@ -44,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 96199
+    },
     {
       "period": "2024",
       "views": 579018

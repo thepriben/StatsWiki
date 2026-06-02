@@ -4,8 +4,16 @@
   "title": "Madame_Web_(film)",
   "description": "2024 film directed by S. J. Clarkson",
   "image": "",
-  "total": 6511528,
+  "total": 7226065,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 686335
+    },
+    {
+      "period": "2023-12",
+      "views": 28202
+    },
     {
       "period": "2024-01",
       "views": 375305
@@ -56,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 714537
+    },
     {
       "period": "2024",
       "views": 6480129

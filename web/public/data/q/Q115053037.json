@@ -4,8 +4,28 @@
   "title": "Godzilla_Minus_One",
   "description": "2023 film directed by Takashi Yamazaki",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yamazaki_Takashi_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348355535%29.jpg?width=64",
-  "total": 4659248,
+  "total": 7402589,
   "monthly": [
+    {
+      "period": "2023-07",
+      "views": 40502
+    },
+    {
+      "period": "2023-09",
+      "views": 90743
+    },
+    {
+      "period": "2023-10",
+      "views": 12058
+    },
+    {
+      "period": "2023-11",
+      "views": 514258
+    },
+    {
+      "period": "2023-12",
+      "views": 2085780
+    },
     {
       "period": "2024-01",
       "views": 1197921
@@ -52,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 2743341
+    },
     {
       "period": "2024",
       "views": 4602153

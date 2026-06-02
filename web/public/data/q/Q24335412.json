@@ -4,8 +4,40 @@
   "title": "Taylor_Sheridan",
   "description": "American screenwriter and director",
   "image": "",
-  "total": 5925643,
+  "total": 6730949,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 497594
+    },
+    {
+      "period": "2023-02",
+      "views": 186622
+    },
+    {
+      "period": "2023-04",
+      "views": 11403
+    },
+    {
+      "period": "2023-05",
+      "views": 14890
+    },
+    {
+      "period": "2023-06",
+      "views": 29397
+    },
+    {
+      "period": "2023-07",
+      "views": 15178
+    },
+    {
+      "period": "2023-09",
+      "views": 36511
+    },
+    {
+      "period": "2023-12",
+      "views": 13711
+    },
     {
       "period": "2024-01",
       "views": 123278
@@ -80,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 805306
+    },
     {
       "period": "2024",
       "views": 1953349

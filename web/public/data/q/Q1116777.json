@@ -4,8 +4,28 @@
   "title": "Von_Erich_family",
   "description": "professional wrestling family of the United States (their real family name is Adkisson)",
   "image": "",
-  "total": 5437263,
+  "total": 7981597,
   "monthly": [
+    {
+      "period": "2023-07",
+      "views": 205178
+    },
+    {
+      "period": "2023-09",
+      "views": 26086
+    },
+    {
+      "period": "2023-10",
+      "views": 653067
+    },
+    {
+      "period": "2023-11",
+      "views": 283414
+    },
+    {
+      "period": "2023-12",
+      "views": 1376589
+    },
     {
       "period": "2024-01",
       "views": 991155
@@ -76,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 2544334
+    },
     {
       "period": "2024",
       "views": 5151407

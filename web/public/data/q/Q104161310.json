@@ -4,8 +4,12 @@
   "title": "The_Acolyte_(TV_series)",
   "description": "2024 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_The_Acolyte_logo.png?width=64",
-  "total": 4281874,
+  "total": 4325273,
   "monthly": [
+    {
+      "period": "2023-04",
+      "views": 43399
+    },
     {
       "period": "2024-03",
       "views": 561716
@@ -28,6 +32,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 43399
+    },
     {
       "period": "2024",
       "views": 4281874

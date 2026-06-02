@@ -4,8 +4,12 @@
   "title": "Kung_Fu_Panda_4",
   "description": "2024 film by Mike Mitchell",
   "image": "",
-  "total": 3877875,
+  "total": 4013736,
   "monthly": [
+    {
+      "period": "2023-12",
+      "views": 135861
+    },
     {
       "period": "2024-02",
       "views": 193634
@@ -28,6 +32,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 135861
+    },
     {
       "period": "2024",
       "views": 3877875

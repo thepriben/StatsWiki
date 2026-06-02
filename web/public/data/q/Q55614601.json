@@ -4,8 +4,32 @@
   "title": "Invincible_(TV_series)",
   "description": "animated superhero television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Invincible_title_card.jpg?width=64",
-  "total": 4683680,
+  "total": 6096513,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 12185
+    },
+    {
+      "period": "2023-07",
+      "views": 133724
+    },
+    {
+      "period": "2023-08",
+      "views": 20196
+    },
+    {
+      "period": "2023-10",
+      "views": 22856
+    },
+    {
+      "period": "2023-11",
+      "views": 912477
+    },
+    {
+      "period": "2023-12",
+      "views": 311395
+    },
     {
       "period": "2024-03",
       "views": 393396
@@ -56,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1412833
+    },
     {
       "period": "2024",
       "views": 968868

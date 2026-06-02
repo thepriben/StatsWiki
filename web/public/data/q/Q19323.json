@@ -4,11 +4,27 @@
   "title": "FIFA_Women's_World_Cup",
   "description": "football competitions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_logo_without_slogan.svg?width=64",
-  "total": 1238299,
+  "total": 4318647,
   "monthly": [
     {
       "period": "2015-07",
       "views": 1013930
+    },
+    {
+      "period": "2023-02",
+      "views": 23047
+    },
+    {
+      "period": "2023-06",
+      "views": 9745
+    },
+    {
+      "period": "2023-07",
+      "views": 1102556
+    },
+    {
+      "period": "2023-08",
+      "views": 1945000
     },
     {
       "period": "2024-06",
@@ -31,6 +47,10 @@
     {
       "period": "2015",
       "views": 1013930
+    },
+    {
+      "period": "2023",
+      "views": 3080348
     },
     {
       "period": "2024",

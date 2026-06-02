@@ -4,8 +4,20 @@
   "title": "The_Zone_of_Interest_(film)",
   "description": "2023 historical drama film by Jonathan Glazer",
   "image": "",
-  "total": 4122124,
+  "total": 4351651,
   "monthly": [
+    {
+      "period": "2023-05",
+      "views": 37871
+    },
+    {
+      "period": "2023-10",
+      "views": 40986
+    },
+    {
+      "period": "2023-12",
+      "views": 150670
+    },
     {
       "period": "2024-01",
       "views": 819097
@@ -32,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 229527
+    },
     {
       "period": "2024",
       "views": 4069275

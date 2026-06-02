@@ -4,8 +4,12 @@
   "title": "Hermann_Göring",
   "description": "German Nazi politician, military leader, and convicted war criminal (1893–1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg?width=64",
-  "total": 5056768,
+  "total": 5068215,
   "monthly": [
+    {
+      "period": "2023-09",
+      "views": 11447
+    },
     {
       "period": "2024-03",
       "views": 14547
@@ -72,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 11447
+    },
     {
       "period": "2024",
       "views": 146077

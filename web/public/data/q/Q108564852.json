@@ -4,8 +4,16 @@
   "title": "Killing_of_Gabby_Petito",
   "description": "2021 homicide case in Utah and Wyoming",
   "image": "",
-  "total": 2715375,
+  "total": 2777750,
   "monthly": [
+    {
+      "period": "2023-02",
+      "views": 13431
+    },
+    {
+      "period": "2023-05",
+      "views": 48944
+    },
     {
       "period": "2024-02",
       "views": 9646
@@ -32,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 62375
+    },
     {
       "period": "2024",
       "views": 9646

@@ -1,0 +1,76 @@
+{
+  "qid": "Q89474225",
+  "label": "The Marvels",
+  "title": "The_Marvels",
+  "description": "2023 film directed by Nia DaCosta",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Marvels_Logo.svg?width=64",
+  "total": 6234276,
+  "monthly": [
+    {
+      "period": "2023-02",
+      "views": 97428
+    },
+    {
+      "period": "2023-04",
+      "views": 214607
+    },
+    {
+      "period": "2023-07",
+      "views": 181088
+    },
+    {
+      "period": "2023-08",
+      "views": 20236
+    },
+    {
+      "period": "2023-10",
+      "views": 349058
+    },
+    {
+      "period": "2023-11",
+      "views": 3094296
+    },
+    {
+      "period": "2023-12",
+      "views": 765192
+    },
+    {
+      "period": "2024-01",
+      "views": 592845
+    },
+    {
+      "period": "2024-02",
+      "views": 725676
+    },
+    {
+      "period": "2024-03",
+      "views": 119346
+    },
+    {
+      "period": "2024-07",
+      "views": 40578
+    },
+    {
+      "period": "2025-01",
+      "views": 14000
+    },
+    {
+      "period": "2025-06",
+      "views": 19926
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 4721905
+    },
+    {
+      "period": "2024",
+      "views": 1478445
+    },
+    {
+      "period": "2025",
+      "views": 33926
+    }
+  ]
+}

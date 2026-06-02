@@ -4,8 +4,56 @@
   "title": "MrBeast6000",
   "description": "American YouTuber, media personality and businessman (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MrBeast_2023_%28cropped%29.jpg?width=64",
-  "total": 15318700,
+  "total": 19880279,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 426602
+    },
+    {
+      "period": "2023-02",
+      "views": 336114
+    },
+    {
+      "period": "2023-03",
+      "views": 295544
+    },
+    {
+      "period": "2023-04",
+      "views": 577714
+    },
+    {
+      "period": "2023-05",
+      "views": 299728
+    },
+    {
+      "period": "2023-06",
+      "views": 358841
+    },
+    {
+      "period": "2023-07",
+      "views": 395346
+    },
+    {
+      "period": "2023-08",
+      "views": 427819
+    },
+    {
+      "period": "2023-09",
+      "views": 333390
+    },
+    {
+      "period": "2023-10",
+      "views": 312862
+    },
+    {
+      "period": "2023-11",
+      "views": 420183
+    },
+    {
+      "period": "2023-12",
+      "views": 377436
+    },
     {
       "period": "2024-01",
       "views": 502002
@@ -124,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 4561579
+    },
     {
       "period": "2024",
       "views": 4621849

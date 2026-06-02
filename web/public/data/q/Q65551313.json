@@ -4,8 +4,16 @@
   "title": "Solo_Leveling",
   "description": "South Korean web novel series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solo_Leveling_English_logo.svg?width=64",
-  "total": 4482608,
+  "total": 4518572,
   "monthly": [
+    {
+      "period": "2023-03",
+      "views": 25760
+    },
+    {
+      "period": "2023-07",
+      "views": 10204
+    },
     {
       "period": "2024-01",
       "views": 909013
@@ -52,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 35964
+    },
     {
       "period": "2024",
       "views": 2243815

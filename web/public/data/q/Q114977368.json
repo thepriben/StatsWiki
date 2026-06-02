@@ -4,8 +4,48 @@
   "title": "The_Eras_Tour",
   "description": "2023–2024 concert tour by Taylor Swift",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Swift_Eras_08092023-581_%281%29.jpg?width=64",
-  "total": 5420002,
+  "total": 11180862,
   "monthly": [
+    {
+      "period": "2023-03",
+      "views": 611713
+    },
+    {
+      "period": "2023-04",
+      "views": 557642
+    },
+    {
+      "period": "2023-05",
+      "views": 716687
+    },
+    {
+      "period": "2023-06",
+      "views": 717809
+    },
+    {
+      "period": "2023-07",
+      "views": 772521
+    },
+    {
+      "period": "2023-08",
+      "views": 849118
+    },
+    {
+      "period": "2023-09",
+      "views": 278216
+    },
+    {
+      "period": "2023-10",
+      "views": 493950
+    },
+    {
+      "period": "2023-11",
+      "views": 605910
+    },
+    {
+      "period": "2023-12",
+      "views": 157294
+    },
     {
       "period": "2024-01",
       "views": 97239
@@ -68,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 5760860
+    },
     {
       "period": "2024",
       "views": 5130208

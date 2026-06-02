@@ -4,8 +4,44 @@
   "title": "Jannik_Sinner",
   "description": "Italian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg?width=64",
-  "total": 16045593,
+  "total": 17111430,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 116666
+    },
+    {
+      "period": "2023-03",
+      "views": 11838
+    },
+    {
+      "period": "2023-04",
+      "views": 86034
+    },
+    {
+      "period": "2023-06",
+      "views": 15986
+    },
+    {
+      "period": "2023-07",
+      "views": 404122
+    },
+    {
+      "period": "2023-08",
+      "views": 73501
+    },
+    {
+      "period": "2023-09",
+      "views": 105020
+    },
+    {
+      "period": "2023-10",
+      "views": 22791
+    },
+    {
+      "period": "2023-11",
+      "views": 229879
+    },
     {
       "period": "2024-01",
       "views": 1988661
@@ -108,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1065837
+    },
     {
       "period": "2024",
       "views": 5139805

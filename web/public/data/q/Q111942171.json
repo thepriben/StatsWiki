@@ -4,8 +4,24 @@
   "title": "Shrinking_(TV_series)",
   "description": "comedy-drama television series created by Bill Lawrence, Jason Segel and Brett Goldstein",
   "image": "",
-  "total": 2607302,
+  "total": 3428467,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 130580
+    },
+    {
+      "period": "2023-02",
+      "views": 287816
+    },
+    {
+      "period": "2023-03",
+      "views": 367525
+    },
+    {
+      "period": "2023-04",
+      "views": 35244
+    },
     {
       "period": "2024-10",
       "views": 211374
@@ -48,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 821165
+    },
     {
       "period": "2024",
       "views": 778220

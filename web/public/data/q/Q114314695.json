@@ -4,8 +4,16 @@
   "title": "Kingdom_of_the_Planet_of_the_Apes",
   "description": "2024 film directed by Wes Ball",
   "image": "",
-  "total": 6855014,
+  "total": 7252113,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 385828
+    },
+    {
+      "period": "2023-12",
+      "views": 11271
+    },
     {
       "period": "2024-02",
       "views": 239696
@@ -40,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 397099
+    },
     {
       "period": "2024",
       "views": 6855014

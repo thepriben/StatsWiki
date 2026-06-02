@@ -1,0 +1,80 @@
+{
+  "qid": "Q324670",
+  "label": "Omegle",
+  "title": "Omegle",
+  "description": "free online chat website",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Omegle.svg?width=64",
+  "total": 10357213,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 734618
+    },
+    {
+      "period": "2023-02",
+      "views": 753560
+    },
+    {
+      "period": "2023-03",
+      "views": 1081324
+    },
+    {
+      "period": "2023-04",
+      "views": 991376
+    },
+    {
+      "period": "2023-05",
+      "views": 1513626
+    },
+    {
+      "period": "2023-06",
+      "views": 1391796
+    },
+    {
+      "period": "2023-07",
+      "views": 1393172
+    },
+    {
+      "period": "2023-08",
+      "views": 682809
+    },
+    {
+      "period": "2023-09",
+      "views": 204379
+    },
+    {
+      "period": "2023-10",
+      "views": 665866
+    },
+    {
+      "period": "2023-11",
+      "views": 763518
+    },
+    {
+      "period": "2023-12",
+      "views": 93932
+    },
+    {
+      "period": "2024-02",
+      "views": 10906
+    },
+    {
+      "period": "2024-03",
+      "views": 21475
+    },
+    {
+      "period": "2024-04",
+      "views": 54856
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 10269976
+    },
+    {
+      "period": "2024",
+      "views": 87237
+    }
+  ]
+}

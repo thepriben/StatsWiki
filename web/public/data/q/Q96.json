@@ -4,7 +4,7 @@
   "title": "Mexico",
   "description": "country in North America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/States_of_Mexico.svg?width=64",
-  "total": 6919235,
+  "total": 9027403,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 154228
+    },
+    {
+      "period": "2023-01",
+      "views": 238285
+    },
+    {
+      "period": "2023-02",
+      "views": 178895
+    },
+    {
+      "period": "2023-03",
+      "views": 265061
+    },
+    {
+      "period": "2023-04",
+      "views": 197927
+    },
+    {
+      "period": "2023-05",
+      "views": 206182
+    },
+    {
+      "period": "2023-06",
+      "views": 178782
+    },
+    {
+      "period": "2023-07",
+      "views": 135852
+    },
+    {
+      "period": "2023-08",
+      "views": 151233
+    },
+    {
+      "period": "2023-09",
+      "views": 301377
+    },
+    {
+      "period": "2023-10",
+      "views": 148314
+    },
+    {
+      "period": "2023-11",
+      "views": 85648
+    },
+    {
+      "period": "2023-12",
+      "views": 20612
     },
     {
       "period": "2024-01",
@@ -151,6 +199,10 @@
     {
       "period": "2015",
       "views": 1525775
+    },
+    {
+      "period": "2023",
+      "views": 2108168
     },
     {
       "period": "2024",

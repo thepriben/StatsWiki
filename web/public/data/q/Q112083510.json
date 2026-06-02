@@ -4,8 +4,12 @@
   "title": "Pushpa_2:_The_Rule",
   "description": "2024 Indian Movie directed by Sukumar",
   "image": "",
-  "total": 14996774,
+  "total": 15025799,
   "monthly": [
+    {
+      "period": "2023-09",
+      "views": 29025
+    },
     {
       "period": "2024-04",
       "views": 89059
@@ -68,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 29025
+    },
     {
       "period": "2024",
       "views": 10916437

@@ -4,8 +4,24 @@
   "title": "The_Summer_I_Turned_Pretty_(TV_series)",
   "description": "American drama television series",
   "image": "",
-  "total": 4171892,
+  "total": 5908805,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 53141
+    },
+    {
+      "period": "2023-07",
+      "views": 761114
+    },
+    {
+      "period": "2023-08",
+      "views": 826624
+    },
+    {
+      "period": "2023-09",
+      "views": 96034
+    },
     {
       "period": "2025-04",
       "views": 54252
@@ -32,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1736913
+    },
     {
       "period": "2025",
       "views": 4171892

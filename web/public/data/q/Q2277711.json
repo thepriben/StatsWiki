@@ -4,7 +4,7 @@
   "title": "Paige_(wrestler)",
   "description": "British professional wrestler and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saraya_Bevis_2014-04-05_%28cropped%29.jpg?width=64",
-  "total": 851738,
+  "total": 881541,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,24 @@
     {
       "period": "2015-12",
       "views": 38926
+    },
+    {
+      "period": "2023-01",
+      "views": 11382
+    },
+    {
+      "period": "2023-03",
+      "views": 18421
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 851738
+    },
+    {
+      "period": "2023",
+      "views": 29803
     }
   ]
 }

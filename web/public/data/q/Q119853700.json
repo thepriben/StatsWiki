@@ -4,8 +4,16 @@
   "title": "Natalia_Grace",
   "description": "Ukrainian-born American",
   "image": "",
-  "total": 8935757,
+  "total": 9350326,
   "monthly": [
+    {
+      "period": "2023-10",
+      "views": 205341
+    },
+    {
+      "period": "2023-12",
+      "views": 209228
+    },
     {
       "period": "2024-01",
       "views": 1007683
@@ -60,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 414569
+    },
     {
       "period": "2024",
       "views": 1141733

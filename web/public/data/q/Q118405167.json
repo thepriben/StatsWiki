@@ -4,8 +4,12 @@
   "title": "Anyone_but_You",
   "description": "2023 film directed by Will Gluck",
   "image": "",
-  "total": 4201917,
+  "total": 4716478,
   "monthly": [
+    {
+      "period": "2023-12",
+      "views": 514561
+    },
     {
       "period": "2024-01",
       "views": 1165973
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 514561
+    },
     {
       "period": "2024",
       "views": 4171901

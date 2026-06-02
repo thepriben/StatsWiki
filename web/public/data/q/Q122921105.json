@@ -4,8 +4,20 @@
   "title": "12th_Fail",
   "description": "Indian film (2023) by Vidhu Vinod Chopra",
   "image": "",
-  "total": 4056905,
+  "total": 5575754,
   "monthly": [
+    {
+      "period": "2023-10",
+      "views": 204491
+    },
+    {
+      "period": "2023-11",
+      "views": 755430
+    },
+    {
+      "period": "2023-12",
+      "views": 558928
+    },
     {
       "period": "2024-01",
       "views": 3158597
@@ -24,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1518849
+    },
     {
       "period": "2024",
       "views": 4056905

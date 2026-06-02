@@ -4,8 +4,12 @@
   "title": "Twisters_(film)",
   "description": "2024 film directed by Lee Isaac Chung",
   "image": "",
-  "total": 6164284,
+  "total": 6175775,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 11491
+    },
     {
       "period": "2024-02",
       "views": 228154
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 11491
+    },
     {
       "period": "2024",
       "views": 5922539

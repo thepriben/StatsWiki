@@ -4,8 +4,44 @@
   "title": "House_of_the_Dragon",
   "description": "American fantasy drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/House_of_the_dragon_logo.png?width=64",
-  "total": 10152402,
+  "total": 11192879,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 489931
+    },
+    {
+      "period": "2023-02",
+      "views": 178837
+    },
+    {
+      "period": "2023-03",
+      "views": 39590
+    },
+    {
+      "period": "2023-04",
+      "views": 29720
+    },
+    {
+      "period": "2023-07",
+      "views": 10187
+    },
+    {
+      "period": "2023-08",
+      "views": 51479
+    },
+    {
+      "period": "2023-09",
+      "views": 49502
+    },
+    {
+      "period": "2023-11",
+      "views": 21556
+    },
+    {
+      "period": "2023-12",
+      "views": 169675
+    },
     {
       "period": "2024-01",
       "views": 190187
@@ -84,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1040477
+    },
     {
       "period": "2024",
       "views": 9419845

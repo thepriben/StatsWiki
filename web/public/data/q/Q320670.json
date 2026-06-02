@@ -4,11 +4,59 @@
   "title": "Kepler's_Supernova",
   "description": "supernova visible from Earth in the 17th century",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keplers_supernova.jpg?width=64",
-  "total": 8268369,
+  "total": 13613314,
   "monthly": [
     {
       "period": "2015-10",
       "views": 13015
+    },
+    {
+      "period": "2023-01",
+      "views": 104922
+    },
+    {
+      "period": "2023-02",
+      "views": 188173
+    },
+    {
+      "period": "2023-03",
+      "views": 549821
+    },
+    {
+      "period": "2023-04",
+      "views": 598087
+    },
+    {
+      "period": "2023-05",
+      "views": 841963
+    },
+    {
+      "period": "2023-06",
+      "views": 735002
+    },
+    {
+      "period": "2023-07",
+      "views": 485467
+    },
+    {
+      "period": "2023-08",
+      "views": 594578
+    },
+    {
+      "period": "2023-09",
+      "views": 661925
+    },
+    {
+      "period": "2023-10",
+      "views": 409318
+    },
+    {
+      "period": "2023-11",
+      "views": 106291
+    },
+    {
+      "period": "2023-12",
+      "views": 69398
     },
     {
       "period": "2024-01",
@@ -55,6 +103,10 @@
     {
       "period": "2015",
       "views": 13015
+    },
+    {
+      "period": "2023",
+      "views": 5344945
     },
     {
       "period": "2024",

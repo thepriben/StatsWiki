@@ -4,7 +4,7 @@
   "title": "Anushka_Shetty",
   "description": "Indian actress (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anushka_at_the_trailer_launch_of_Baahubali_%28cropped%29.jpg?width=64",
-  "total": 931146,
+  "total": 1012205,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,24 @@
     {
       "period": "2015-12",
       "views": 10725
+    },
+    {
+      "period": "2023-10",
+      "views": 67996
+    },
+    {
+      "period": "2023-11",
+      "views": 13063
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 931146
+    },
+    {
+      "period": "2023",
+      "views": 81059
     }
   ]
 }

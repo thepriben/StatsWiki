@@ -4,8 +4,12 @@
   "title": "Benny_Blanco",
   "description": "American record producer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benny_Bowtie_2018.jpg?width=64",
-  "total": 6996507,
+  "total": 7477053,
   "monthly": [
+    {
+      "period": "2023-12",
+      "views": 480546
+    },
     {
       "period": "2024-01",
       "views": 765624
@@ -108,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 480546
+    },
     {
       "period": "2024",
       "views": 3020847

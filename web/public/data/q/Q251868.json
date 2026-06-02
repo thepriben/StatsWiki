@@ -4,7 +4,7 @@
   "title": "Halloween",
   "description": "celebration observed in many countries on 31 October",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack-o%27-Lantern_2003-10-31.jpg?width=64",
-  "total": 6181648,
+  "total": 8014575,
   "monthly": [
     {
       "period": "2015-08",
@@ -21,6 +21,22 @@
     {
       "period": "2015-11",
       "views": 770573
+    },
+    {
+      "period": "2023-02",
+      "views": 11073
+    },
+    {
+      "period": "2023-09",
+      "views": 54962
+    },
+    {
+      "period": "2023-10",
+      "views": 1400925
+    },
+    {
+      "period": "2023-11",
+      "views": 365967
     },
     {
       "period": "2024-09",
@@ -47,6 +63,10 @@
     {
       "period": "2015",
       "views": 3556000
+    },
+    {
+      "period": "2023",
+      "views": 1832927
     },
     {
       "period": "2024",

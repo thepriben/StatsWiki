@@ -4,8 +4,24 @@
   "title": "Project_2025",
   "description": "Heritage Foundation policy plans for 2025 presidential administration",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Project_2025_logo.svg?width=64",
-  "total": 20562590,
+  "total": 20986187,
   "monthly": [
+    {
+      "period": "2023-09",
+      "views": 20551
+    },
+    {
+      "period": "2023-10",
+      "views": 62181
+    },
+    {
+      "period": "2023-11",
+      "views": 280201
+    },
+    {
+      "period": "2023-12",
+      "views": 60664
+    },
     {
       "period": "2024-01",
       "views": 210019
@@ -100,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 423597
+    },
     {
       "period": "2024",
       "views": 18401024

@@ -4,8 +4,12 @@
   "title": "Eric_Swalwell",
   "description": "American lawyer and politician (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric_Swalwell_114th_official_photo.jpg?width=64",
-  "total": 2096568,
+  "total": 2123595,
   "monthly": [
+    {
+      "period": "2023-07",
+      "views": 27027
+    },
     {
       "period": "2024-07",
       "views": 10455
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 27027
+    },
     {
       "period": "2024",
       "views": 10455

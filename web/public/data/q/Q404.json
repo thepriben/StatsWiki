@@ -4,7 +4,7 @@
   "title": "HTTP_404",
   "description": "HTTP error response code",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/404_not_found.svg?width=64",
-  "total": 5353406,
+  "total": 7715954,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 254994
+    },
+    {
+      "period": "2023-01",
+      "views": 185026
+    },
+    {
+      "period": "2023-02",
+      "views": 196921
+    },
+    {
+      "period": "2023-03",
+      "views": 229886
+    },
+    {
+      "period": "2023-04",
+      "views": 203674
+    },
+    {
+      "period": "2023-05",
+      "views": 140934
+    },
+    {
+      "period": "2023-06",
+      "views": 240010
+    },
+    {
+      "period": "2023-07",
+      "views": 196769
+    },
+    {
+      "period": "2023-08",
+      "views": 88879
+    },
+    {
+      "period": "2023-09",
+      "views": 257436
+    },
+    {
+      "period": "2023-10",
+      "views": 230549
+    },
+    {
+      "period": "2023-11",
+      "views": 232272
+    },
+    {
+      "period": "2023-12",
+      "views": 160192
     },
     {
       "period": "2024-01",
@@ -135,6 +183,10 @@
     {
       "period": "2015",
       "views": 1375031
+    },
+    {
+      "period": "2023",
+      "views": 2362548
     },
     {
       "period": "2024",

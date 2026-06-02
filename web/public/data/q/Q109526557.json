@@ -4,8 +4,28 @@
   "title": "One_Piece_(2023_TV_series)",
   "description": "2023 television series",
   "image": "",
-  "total": 1645008,
+  "total": 4627300,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 49953
+    },
+    {
+      "period": "2023-07",
+      "views": 14280
+    },
+    {
+      "period": "2023-08",
+      "views": 262478
+    },
+    {
+      "period": "2023-09",
+      "views": 2389026
+    },
+    {
+      "period": "2023-10",
+      "views": 266555
+    },
     {
       "period": "2025-06",
       "views": 16547
@@ -28,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 2982292
+    },
     {
       "period": "2025",
       "views": 57293

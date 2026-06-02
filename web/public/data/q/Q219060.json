@@ -4,15 +4,83 @@
   "title": "Palestine",
   "description": "state in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palestine_-_20190204-DSC_0007.jpg?width=64",
-  "total": 3338778,
+  "total": 15181107,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 49392
+    },
+    {
+      "period": "2023-04",
+      "views": 78059
+    },
+    {
+      "period": "2023-07",
+      "views": 43863
+    },
+    {
+      "period": "2023-10",
+      "views": 5952499
+    },
+    {
+      "period": "2023-11",
+      "views": 1337398
+    },
+    {
+      "period": "2023-12",
+      "views": 547654
+    },
+    {
+      "period": "2024-01",
+      "views": 473080
+    },
+    {
+      "period": "2024-02",
+      "views": 337020
+    },
+    {
+      "period": "2024-03",
+      "views": 392139
+    },
+    {
+      "period": "2024-04",
+      "views": 481057
+    },
+    {
+      "period": "2024-05",
+      "views": 758224
+    },
+    {
+      "period": "2024-06",
+      "views": 403264
+    },
+    {
+      "period": "2024-07",
+      "views": 98863
+    },
+    {
+      "period": "2024-08",
+      "views": 243080
+    },
+    {
+      "period": "2024-09",
+      "views": 169037
+    },
+    {
+      "period": "2024-10",
+      "views": 446585
+    },
+    {
+      "period": "2024-11",
+      "views": 20626
+    },
     {
       "period": "2025-01",
       "views": 22607
     },
     {
       "period": "2025-02",
-      "views": 114704
+      "views": 125193
     },
     {
       "period": "2025-03",
@@ -65,8 +133,16 @@
   ],
   "yearly": [
     {
+      "period": "2023",
+      "views": 8008865
+    },
+    {
+      "period": "2024",
+      "views": 3822975
+    },
+    {
       "period": "2025",
-      "views": 2868219
+      "views": 2878708
     },
     {
       "period": "2026",

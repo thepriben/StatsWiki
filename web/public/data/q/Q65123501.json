@@ -4,8 +4,20 @@
   "title": "1xBet",
   "description": "cyprus-based online gambling company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1xbetlogo.png?width=64",
-  "total": 10068035,
+  "total": 10122192,
   "monthly": [
+    {
+      "period": "2023-07",
+      "views": 10514
+    },
+    {
+      "period": "2023-08",
+      "views": 32320
+    },
+    {
+      "period": "2023-11",
+      "views": 11323
+    },
     {
       "period": "2024-03",
       "views": 10665
@@ -68,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 54157
+    },
     {
       "period": "2024",
       "views": 10665

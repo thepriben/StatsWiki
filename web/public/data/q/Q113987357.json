@@ -1,0 +1,44 @@
+{
+  "qid": "Q113987357",
+  "label": "Gadar 2",
+  "title": "Gadar_2",
+  "description": "2023 film directed by Anil Sharma",
+  "image": "",
+  "total": 8943482,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 65196
+    },
+    {
+      "period": "2023-07",
+      "views": 232610
+    },
+    {
+      "period": "2023-08",
+      "views": 6007295
+    },
+    {
+      "period": "2023-09",
+      "views": 1940294
+    },
+    {
+      "period": "2023-10",
+      "views": 431018
+    },
+    {
+      "period": "2023-11",
+      "views": 150578
+    },
+    {
+      "period": "2023-12",
+      "views": 116491
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 8943482
+    }
+  ]
+}

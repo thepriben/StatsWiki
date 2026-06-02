@@ -4,7 +4,7 @@
   "title": "Spain",
   "description": "country in southwestern Europe with territories in Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg?width=64",
-  "total": 4689006,
+  "total": 7413087,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 162163
+    },
+    {
+      "period": "2023-01",
+      "views": 243961
+    },
+    {
+      "period": "2023-02",
+      "views": 234527
+    },
+    {
+      "period": "2023-03",
+      "views": 258543
+    },
+    {
+      "period": "2023-04",
+      "views": 294957
+    },
+    {
+      "period": "2023-05",
+      "views": 237146
+    },
+    {
+      "period": "2023-06",
+      "views": 237056
+    },
+    {
+      "period": "2023-07",
+      "views": 308249
+    },
+    {
+      "period": "2023-08",
+      "views": 287005
+    },
+    {
+      "period": "2023-09",
+      "views": 263447
+    },
+    {
+      "period": "2023-10",
+      "views": 119191
+    },
+    {
+      "period": "2023-11",
+      "views": 209470
+    },
+    {
+      "period": "2023-12",
+      "views": 30529
     },
     {
       "period": "2024-01",
@@ -143,6 +191,10 @@
     {
       "period": "2015",
       "views": 1545150
+    },
+    {
+      "period": "2023",
+      "views": 2724081
     },
     {
       "period": "2024",

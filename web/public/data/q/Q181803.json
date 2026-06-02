@@ -4,7 +4,7 @@
   "title": "Return_of_the_Jedi",
   "description": "1983 film directed by Richard Marquand",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Returnofthejedi-logo2.svg?width=64",
-  "total": 1794831,
+  "total": 1820565,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,20 @@
     {
       "period": "2015-12",
       "views": 1505349
+    },
+    {
+      "period": "2023-05",
+      "views": 25734
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1794831
+    },
+    {
+      "period": "2023",
+      "views": 25734
     }
   ]
 }

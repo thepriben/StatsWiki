@@ -4,8 +4,48 @@
   "title": "1337x",
   "description": "website that provides a directory of torrent files and magnet links used for peer-to-peer file sharing",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1337X_logo.svg?width=64",
-  "total": 5545543,
+  "total": 6972322,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 23834
+    },
+    {
+      "period": "2023-02",
+      "views": 10099
+    },
+    {
+      "period": "2023-03",
+      "views": 78207
+    },
+    {
+      "period": "2023-04",
+      "views": 149448
+    },
+    {
+      "period": "2023-05",
+      "views": 206049
+    },
+    {
+      "period": "2023-06",
+      "views": 261111
+    },
+    {
+      "period": "2023-07",
+      "views": 176322
+    },
+    {
+      "period": "2023-08",
+      "views": 265761
+    },
+    {
+      "period": "2023-09",
+      "views": 245819
+    },
+    {
+      "period": "2023-10",
+      "views": 10129
+    },
     {
       "period": "2024-01",
       "views": 261155
@@ -92,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1426779
+    },
     {
       "period": "2024",
       "views": 1379930

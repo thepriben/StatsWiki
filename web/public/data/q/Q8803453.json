@@ -4,7 +4,7 @@
   "title": "Deaths_in_2025",
   "description": "deaths of notable people, organised by year",
   "image": "",
-  "total": 109218082,
+  "total": 153566576,
   "monthly": [
     {
       "period": "2015-07",
@@ -31,8 +31,56 @@
       "views": 2594632
     },
     {
+      "period": "2023-01",
+      "views": 4182250
+    },
+    {
+      "period": "2023-02",
+      "views": 3368236
+    },
+    {
+      "period": "2023-03",
+      "views": 3859889
+    },
+    {
+      "period": "2023-04",
+      "views": 3783173
+    },
+    {
+      "period": "2023-05",
+      "views": 3389751
+    },
+    {
+      "period": "2023-06",
+      "views": 3571301
+    },
+    {
+      "period": "2023-07",
+      "views": 3577845
+    },
+    {
+      "period": "2023-08",
+      "views": 3877542
+    },
+    {
+      "period": "2023-09",
+      "views": 3895360
+    },
+    {
+      "period": "2023-10",
+      "views": 3374846
+    },
+    {
+      "period": "2023-11",
+      "views": 3502068
+    },
+    {
+      "period": "2023-12",
+      "views": 3746348
+    },
+    {
       "period": "2024-01",
-      "views": 4015854
+      "views": 4235739
     },
     {
       "period": "2024-02",
@@ -137,8 +185,12 @@
       "views": 14696373
     },
     {
+      "period": "2023",
+      "views": 44128609
+    },
+    {
       "period": "2024",
-      "views": 45806033
+      "views": 46025918
     },
     {
       "period": "2025",

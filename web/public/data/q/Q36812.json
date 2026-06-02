@@ -4,8 +4,44 @@
   "title": "William,_Prince_of_Wales",
   "description": "heir apparent to the throne of the United Kingdom and 14 Commonwealth Realms",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince_of_Wales_in_Normandy_2024.jpg?width=64",
-  "total": 3937390,
+  "total": 7314243,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 450195
+    },
+    {
+      "period": "2023-02",
+      "views": 23483
+    },
+    {
+      "period": "2023-03",
+      "views": 182733
+    },
+    {
+      "period": "2023-04",
+      "views": 252950
+    },
+    {
+      "period": "2023-05",
+      "views": 1166238
+    },
+    {
+      "period": "2023-06",
+      "views": 83210
+    },
+    {
+      "period": "2023-07",
+      "views": 48504
+    },
+    {
+      "period": "2023-11",
+      "views": 250981
+    },
+    {
+      "period": "2023-12",
+      "views": 918559
+    },
     {
       "period": "2024-01",
       "views": 600334
@@ -112,6 +148,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 3376853
+    },
     {
       "period": "2024",
       "views": 2224020

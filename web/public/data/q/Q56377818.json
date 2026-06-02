@@ -4,8 +4,28 @@
   "title": "2026_FIFA_World_Cup_qualification",
   "description": "international football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026_world_cup_qualification_map.svg?width=64",
-  "total": 10613525,
+  "total": 11978505,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 10971
+    },
+    {
+      "period": "2023-07",
+      "views": 99517
+    },
+    {
+      "period": "2023-09",
+      "views": 201280
+    },
+    {
+      "period": "2023-10",
+      "views": 299841
+    },
+    {
+      "period": "2023-11",
+      "views": 753371
+    },
     {
       "period": "2024-02",
       "views": 63289
@@ -88,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1364980
+    },
     {
       "period": "2024",
       "views": 2032914

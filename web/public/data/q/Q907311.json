@@ -4,7 +4,7 @@
   "title": "Netflix",
   "description": "American subscription video on-demand over-the-top streaming service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_headquarters.jpg?width=64",
-  "total": 8265441,
+  "total": 13693299,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 266517
+    },
+    {
+      "period": "2023-01",
+      "views": 713438
+    },
+    {
+      "period": "2023-02",
+      "views": 512322
+    },
+    {
+      "period": "2023-03",
+      "views": 558935
+    },
+    {
+      "period": "2023-04",
+      "views": 560453
+    },
+    {
+      "period": "2023-05",
+      "views": 527944
+    },
+    {
+      "period": "2023-06",
+      "views": 426077
+    },
+    {
+      "period": "2023-07",
+      "views": 513704
+    },
+    {
+      "period": "2023-08",
+      "views": 476928
+    },
+    {
+      "period": "2023-09",
+      "views": 427381
+    },
+    {
+      "period": "2023-10",
+      "views": 204373
+    },
+    {
+      "period": "2023-11",
+      "views": 148997
+    },
+    {
+      "period": "2023-12",
+      "views": 357306
     },
     {
       "period": "2024-01",
@@ -143,6 +191,10 @@
     {
       "period": "2015",
       "views": 1661801
+    },
+    {
+      "period": "2023",
+      "views": 5427858
     },
     {
       "period": "2024",

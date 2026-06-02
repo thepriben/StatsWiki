@@ -1,0 +1,455 @@
+{
+  "period": "20 March 2023",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "ChatGPT",
+      "label": "ChatGPT",
+      "description": "artificial intelligence chatbot developed by OpenAI",
+      "views": 301553,
+      "qid": "Q115564437",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT_5.2_Thinking_Wikipedia_historia_PDF_screenshot.png?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Bruce_Willis",
+      "label": "Bruce Willis",
+      "description": "American actor (born 1955)",
+      "views": 297230,
+      "qid": "Q2680",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Willis_by_Gage_Skidmore_3.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Lance_Reddick",
+      "label": "Lance Reddick",
+      "description": "American actor (1962–2023)",
+      "views": 267667,
+      "qid": "Q322056",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lance_Reddick_by_Gage_Skidmore.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Emma_Heming_Willis",
+      "label": "Emma Heming Willis",
+      "description": "",
+      "views": 190846,
+      "qid": "Q_en_Emma_Heming_Willis",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Nowruz",
+      "label": "Nowruz",
+      "description": "",
+      "views": 161443,
+      "qid": "Q_en_Nowruz",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 158847,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Shazam!_Fury_of_the_Gods",
+      "label": "Shazam! Fury of the Gods",
+      "description": "",
+      "views": 156991,
+      "qid": "Q_en_Shazam!_Fury_of_the_Gods",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 154808,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "The_Last_of_Us_(TV_series)",
+      "label": "The Last of Us",
+      "description": "2023 American TV series based on the video game The Last of Us",
+      "views": 152124,
+      "qid": "Q87131973",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_of_Us_vertical_logo.svg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Demi_Moore",
+      "label": "Demi Moore",
+      "description": "American actress and producer (born 1962)",
+      "views": 144778,
+      "qid": "Q43044",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Demi_Moore_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Deaths_in_2023",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 138158,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Credit_Suisse",
+      "label": "Credit Suisse",
+      "description": "",
+      "views": 129276,
+      "qid": "Q_en_Credit_Suisse",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "XXX:_Return_of_Xander_Cage",
+      "label": "xXx Return of Xander Cage",
+      "description": "2017 film directed by D. J. Caruso",
+      "views": 122150,
+      "qid": "Q22075020",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXx_REACTIVADO_Conferencia_de_Prensa.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Boston_Strangler",
+      "label": "Boston Strangler",
+      "description": "",
+      "views": 121462,
+      "qid": "Q_en_Boston_Strangler",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Everything_Everywhere_All_at_Once",
+      "label": "Everything Everywhere All at Once",
+      "description": "2022 film by Daniel Kwan and Daniel Scheinert",
+      "views": 119216,
+      "qid": "Q83808444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Everything_everywhere_all_at_once_logo.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Amanda_Bynes",
+      "label": "Amanda Bynes",
+      "description": "",
+      "views": 109679,
+      "qid": "Q_en_Amanda_Bynes",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "World_Baseball_Classic",
+      "label": "World Baseball Classic",
+      "description": "",
+      "views": 104468,
+      "qid": "Q_en_World_Baseball_Classic",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "UBS",
+      "label": "UBS",
+      "description": "",
+      "views": 104165,
+      "qid": "Q_en_UBS",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Swarm_(TV_series)",
+      "label": "Swarm (TV series)",
+      "description": "",
+      "views": 98840,
+      "qid": "Q_en_Swarm_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Rupert_Murdoch",
+      "label": "Rupert Murdoch",
+      "description": "",
+      "views": 93729,
+      "qid": "Q_en_Rupert_Murdoch",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Marie_Antoinette",
+      "label": "Marie Antoinette",
+      "description": "last Queen of France prior to the French Revolution (1755–1793)",
+      "views": 92774,
+      "qid": "Q47365",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "John_Wick:_Chapter_4",
+      "label": "John Wick: Chapter 4",
+      "description": "2023 film directed by Chad Stahelski",
+      "views": 89791,
+      "qid": "Q80322358",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Amritpal_Singh_(activist)",
+      "label": "Amritpal Singh (activist)",
+      "description": "",
+      "views": 88465,
+      "qid": "Q_en_Amritpal_Singh_(activist)",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Shadow_and_Bone_(TV_series)",
+      "label": "Shadow and Bone (TV series)",
+      "description": "",
+      "views": 87600,
+      "qid": "Q_en_Shadow_and_Bone_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "XXX_(film_series)",
+      "label": "xXx",
+      "description": "film series by Rich Wilkes",
+      "views": 86672,
+      "qid": "Q25136249",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Rick_Pitino",
+      "label": "Rick Pitino",
+      "description": "",
+      "views": 83900,
+      "qid": "Q_en_Rick_Pitino",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Mario_Molina",
+      "label": "Mario Molina",
+      "description": "",
+      "views": 83696,
+      "qid": "Q_en_Mario_Molina",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Pedro_Pascal",
+      "label": "Pedro Pascal",
+      "description": "Chilean and American actor (born 1975)",
+      "views": 81759,
+      "qid": "Q14752155",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro_Pascal_by_Gage_Skidmore.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "The_Whale_(2022_film)",
+      "label": "The Whale",
+      "description": "2022 film directed by Darren Aronofsky",
+      "views": 79941,
+      "qid": "Q105883400",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Brendan_Fraser",
+      "label": "Brendan Fraser",
+      "description": "Canadian-American actor (born 1968)",
+      "views": 75677,
+      "qid": "Q193555",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brendan_Fraser_October_2022.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Drew_Timme",
+      "label": "Drew Timme",
+      "description": "",
+      "views": 74802,
+      "qid": "Q_en_Drew_Timme",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Rumer_Willis",
+      "label": "Rumer Willis",
+      "description": "",
+      "views": 74425,
+      "qid": "Q_en_Rumer_Willis",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Malaysia_Airlines_Flight_370",
+      "label": "Malaysia Airlines Flight 370",
+      "description": "passenger aircraft flight that went missing in 2014",
+      "views": 72516,
+      "qid": "Q15908324",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaysia_Airlines_B777-200ER%289M-MRO%29_%283780278171%29.jpg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "2023_World_Baseball_Classic",
+      "label": "2023 World Baseball Classic",
+      "description": "",
+      "views": 71556,
+      "qid": "Q_en_2023_World_Baseball_Classic",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Keanu_Reeves",
+      "label": "Keanu Reeves",
+      "description": "Canadian actor and musician (born 1964)",
+      "views": 68936,
+      "qid": "Q43416",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Kabzaa_(2023_film)",
+      "label": "Kabzaa (2023 film)",
+      "description": "",
+      "views": 68784,
+      "qid": "Q_en_Kabzaa_(2023_film)",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "El_Clásico",
+      "label": "El Clásico",
+      "description": "",
+      "views": 67931,
+      "qid": "Q_en_El_Clásico",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Instagram",
+      "label": "Instagram",
+      "description": "photo and video sharing social network owned by Meta Platforms",
+      "views": 67417,
+      "qid": "Q209330",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Instagram_screenshot.png?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Khalistan_movement",
+      "label": "Khalistan movement",
+      "description": "",
+      "views": 67332,
+      "qid": "Q_en_Khalistan_movement",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Fairleigh_Dickinson_University",
+      "label": "Fairleigh Dickinson University",
+      "description": "",
+      "views": 66630,
+      "qid": "Q_en_Fairleigh_Dickinson_University",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Bella_Ramsey",
+      "label": "Bella Ramsey",
+      "description": "British actor",
+      "views": 66384,
+      "qid": "Q24891605",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bella_Ramsey-3066.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Suits_index",
+      "label": "Suits index",
+      "description": "measure of tax progressiveness",
+      "views": 65345,
+      "qid": "Q1469999",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Cocaine_Bear",
+      "label": "Cocaine Bear",
+      "description": "",
+      "views": 64101,
+      "qid": "Q_en_Cocaine_Bear",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Taylor_Swift",
+      "label": "Taylor Swift",
+      "description": "American singer-songwriter (born 1989)",
+      "views": 63858,
+      "qid": "Q26876",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "XXXTentacion",
+      "label": "XXXTentacion",
+      "description": "American rapper (1998–2018)",
+      "views": 61893,
+      "qid": "Q28561969",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxxtentacion_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Daisy_Jones_&_The_Six",
+      "label": "Daisy Jones & The Six",
+      "description": "",
+      "views": 61570,
+      "qid": "Q_en_Daisy_Jones_&_The_Six",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 60542,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Tu_Jhoothi_Main_Makkaar",
+      "label": "Tu Jhoothi Main Makkaar",
+      "description": "",
+      "views": 58365,
+      "qid": "Q_en_Tu_Jhoothi_Main_Makkaar",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Jerry_Hall",
+      "label": "Jerry Hall",
+      "description": "",
+      "views": 57825,
+      "qid": "Q_en_Jerry_Hall",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Albert_DeSalvo",
+      "label": "Albert DeSalvo",
+      "description": "",
+      "views": 57219,
+      "qid": "Q_en_Albert_DeSalvo",
+      "image": ""
+    }
+  ]
+}

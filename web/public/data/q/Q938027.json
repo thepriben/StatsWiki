@@ -4,8 +4,36 @@
   "title": "Oleksandr_Usyk",
   "description": "Ukrainian boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oleksandr_Usyk_at_TIFF_2025.jpg?width=64",
-  "total": 4609625,
+  "total": 5272155,
   "monthly": [
+    {
+      "period": "2023-03",
+      "views": 90576
+    },
+    {
+      "period": "2023-04",
+      "views": 30673
+    },
+    {
+      "period": "2023-08",
+      "views": 318444
+    },
+    {
+      "period": "2023-09",
+      "views": 31253
+    },
+    {
+      "period": "2023-10",
+      "views": 95920
+    },
+    {
+      "period": "2023-11",
+      "views": 47276
+    },
+    {
+      "period": "2023-12",
+      "views": 48388
+    },
     {
       "period": "2024-03",
       "views": 149567
@@ -76,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 662530
+    },
     {
       "period": "2024",
       "views": 2738508

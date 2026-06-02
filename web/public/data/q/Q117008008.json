@@ -4,8 +4,20 @@
   "title": "2024–25_UEFA_Champions_League",
   "description": "70th season of the UEFA club football tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allianz-Arena_rot_blau_%2814331815345%29.jpg?width=64",
-  "total": 7115961,
+  "total": 7168706,
   "monthly": [
+    {
+      "period": "2023-08",
+      "views": 18117
+    },
+    {
+      "period": "2023-09",
+      "views": 11484
+    },
+    {
+      "period": "2023-12",
+      "views": 23144
+    },
     {
       "period": "2024-03",
       "views": 66372
@@ -92,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 52745
+    },
     {
       "period": "2024",
       "views": 4017911

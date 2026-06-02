@@ -4,8 +4,12 @@
   "title": "Snow_White_(2025_film)",
   "description": "2025 film directed by Marc Webb",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow_White_2025_film_logo.png?width=64",
-  "total": 7398469,
+  "total": 7432887,
   "monthly": [
+    {
+      "period": "2023-10",
+      "views": 34418
+    },
     {
       "period": "2024-08",
       "views": 185491
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 34418
+    },
     {
       "period": "2024",
       "views": 314448

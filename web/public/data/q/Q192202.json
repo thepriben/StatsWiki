@@ -1,0 +1,100 @@
+{
+  "qid": "Q192202",
+  "label": "Cricket World Cup",
+  "title": "Cricket_World_Cup",
+  "description": "international cricket tournament",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_v._Ireland_%285522416435%29.jpg?width=64",
+  "total": 24089875,
+  "monthly": [
+    {
+      "period": "2023-05",
+      "views": 11283
+    },
+    {
+      "period": "2023-06",
+      "views": 65792
+    },
+    {
+      "period": "2023-07",
+      "views": 24051
+    },
+    {
+      "period": "2023-09",
+      "views": 431434
+    },
+    {
+      "period": "2023-10",
+      "views": 8462533
+    },
+    {
+      "period": "2023-11",
+      "views": 12765292
+    },
+    {
+      "period": "2023-12",
+      "views": 38279
+    },
+    {
+      "period": "2024-06",
+      "views": 542407
+    },
+    {
+      "period": "2024-07",
+      "views": 136343
+    },
+    {
+      "period": "2025-02",
+      "views": 170399
+    },
+    {
+      "period": "2025-03",
+      "views": 447723
+    },
+    {
+      "period": "2025-06",
+      "views": 40752
+    },
+    {
+      "period": "2025-09",
+      "views": 84878
+    },
+    {
+      "period": "2025-10",
+      "views": 138815
+    },
+    {
+      "period": "2025-11",
+      "views": 89688
+    },
+    {
+      "period": "2025-12",
+      "views": 9404
+    },
+    {
+      "period": "2026-02",
+      "views": 298404
+    },
+    {
+      "period": "2026-03",
+      "views": 332398
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 21798664
+    },
+    {
+      "period": "2024",
+      "views": 678750
+    },
+    {
+      "period": "2025",
+      "views": 981659
+    },
+    {
+      "period": "2026",
+      "views": 630802
+    }
+  ]
+}

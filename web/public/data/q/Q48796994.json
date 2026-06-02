@@ -4,8 +4,52 @@
   "title": "The_Boys_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Boys_TV_series_logo.svg?width=64",
-  "total": 8631286,
+  "total": 11250742,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 272293
+    },
+    {
+      "period": "2023-02",
+      "views": 214095
+    },
+    {
+      "period": "2023-03",
+      "views": 151517
+    },
+    {
+      "period": "2023-04",
+      "views": 18674
+    },
+    {
+      "period": "2023-06",
+      "views": 146005
+    },
+    {
+      "period": "2023-07",
+      "views": 275180
+    },
+    {
+      "period": "2023-08",
+      "views": 190056
+    },
+    {
+      "period": "2023-09",
+      "views": 154899
+    },
+    {
+      "period": "2023-10",
+      "views": 429797
+    },
+    {
+      "period": "2023-11",
+      "views": 445248
+    },
+    {
+      "period": "2023-12",
+      "views": 321692
+    },
     {
       "period": "2024-01",
       "views": 226447
@@ -72,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 2619456
+    },
     {
       "period": "2024",
       "views": 4919911

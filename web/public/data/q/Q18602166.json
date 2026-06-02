@@ -4,7 +4,7 @@
   "title": "Assassin's_Creed_Syndicate",
   "description": "2015 video game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Assassins-creed-syndicate-logo.png?width=64",
-  "total": 796652,
+  "total": 806914,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,20 @@
     {
       "period": "2015-12",
       "views": 43053
+    },
+    {
+      "period": "2023-11",
+      "views": 10262
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 796652
+    },
+    {
+      "period": "2023",
+      "views": 10262
     }
   ]
 }

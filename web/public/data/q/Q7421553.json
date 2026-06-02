@@ -4,8 +4,16 @@
   "title": "Sara_Arjun",
   "description": "Indian actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara_Arjun_at_the_trailer_launch_of_Dhurandhar_%282025%29_%28cropped%29.jpg?width=64",
-  "total": 4363566,
+  "total": 4414040,
   "monthly": [
+    {
+      "period": "2023-04",
+      "views": 26885
+    },
+    {
+      "period": "2023-05",
+      "views": 23589
+    },
     {
       "period": "2025-07",
       "views": 159661
@@ -40,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 50474
+    },
     {
       "period": "2025",
       "views": 1967652

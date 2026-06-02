@@ -4,8 +4,12 @@
   "title": "2024_Indian_Premier_League",
   "description": "17th edition of the Indian Premier League",
   "image": "",
-  "total": 10318451,
+  "total": 10518597,
   "monthly": [
+    {
+      "period": "2023-12",
+      "views": 200146
+    },
     {
       "period": "2024-01",
       "views": 170293
@@ -36,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 200146
+    },
     {
       "period": "2024",
       "views": 10280737

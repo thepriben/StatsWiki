@@ -4,8 +4,48 @@
   "title": "Telegram_(software)",
   "description": "instant messaging service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Telegram_Android_screenshot_%28v_3.3%2C_English%29.png?width=64",
-  "total": 5917190,
+  "total": 6935597,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 42153
+    },
+    {
+      "period": "2023-03",
+      "views": 30155
+    },
+    {
+      "period": "2023-04",
+      "views": 63450
+    },
+    {
+      "period": "2023-05",
+      "views": 139158
+    },
+    {
+      "period": "2023-06",
+      "views": 108251
+    },
+    {
+      "period": "2023-07",
+      "views": 229635
+    },
+    {
+      "period": "2023-08",
+      "views": 213142
+    },
+    {
+      "period": "2023-09",
+      "views": 20137
+    },
+    {
+      "period": "2023-10",
+      "views": 161375
+    },
+    {
+      "period": "2023-11",
+      "views": 10951
+    },
     {
       "period": "2024-01",
       "views": 11150
@@ -120,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 1018407
+    },
     {
       "period": "2024",
       "views": 2824406

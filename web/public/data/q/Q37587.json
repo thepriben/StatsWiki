@@ -4,8 +4,20 @@
   "title": "Valentine's_Day",
   "description": "holiday observed on February 14 to celebrate love and friendship",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antique_Valentine_1909_01.jpg?width=64",
-  "total": 4442304,
+  "total": 8048852,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 201198
+    },
+    {
+      "period": "2023-02",
+      "views": 3372113
+    },
+    {
+      "period": "2023-03",
+      "views": 33237
+    },
     {
       "period": "2024-01",
       "views": 232662
@@ -28,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 3606548
+    },
     {
       "period": "2024",
       "views": 2343337

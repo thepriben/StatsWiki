@@ -4,8 +4,12 @@
   "title": "WrestleMania_XL",
   "description": "2024 WWE pay-per-view and WWE Network event",
   "image": "",
-  "total": 5768313,
+  "total": 5843203,
   "monthly": [
+    {
+      "period": "2023-04",
+      "views": 74890
+    },
     {
       "period": "2024-01",
       "views": 215382
@@ -44,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 74890
+    },
     {
       "period": "2024",
       "views": 5589813

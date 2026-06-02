@@ -4,8 +4,12 @@
   "title": "List_of_Hindi_films_of_2024",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 6830241,
+  "total": 6895931,
   "monthly": [
+    {
+      "period": "2023-12",
+      "views": 65690
+    },
     {
       "period": "2024-01",
       "views": 586685
@@ -60,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 65690
+    },
     {
       "period": "2024",
       "views": 6709480

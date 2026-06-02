@@ -4,7 +4,7 @@
   "title": "The_Fast_and_the_Furious",
   "description": "American action film franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tfatf-logo.svg?width=64",
-  "total": 1460844,
+  "total": 6719654,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,140 @@
     {
       "period": "2015-12",
       "views": 119419
+    },
+    {
+      "period": "2023-01",
+      "views": 71511
+    },
+    {
+      "period": "2023-02",
+      "views": 378149
+    },
+    {
+      "period": "2023-03",
+      "views": 203244
+    },
+    {
+      "period": "2023-04",
+      "views": 389030
+    },
+    {
+      "period": "2023-05",
+      "views": 1323726
+    },
+    {
+      "period": "2023-06",
+      "views": 754086
+    },
+    {
+      "period": "2023-07",
+      "views": 300129
+    },
+    {
+      "period": "2023-08",
+      "views": 393346
+    },
+    {
+      "period": "2023-09",
+      "views": 141045
+    },
+    {
+      "period": "2023-10",
+      "views": 22156
+    },
+    {
+      "period": "2023-12",
+      "views": 326149
+    },
+    {
+      "period": "2024-01",
+      "views": 271054
+    },
+    {
+      "period": "2024-02",
+      "views": 116264
+    },
+    {
+      "period": "2024-04",
+      "views": 21966
+    },
+    {
+      "period": "2024-06",
+      "views": 11925
+    },
+    {
+      "period": "2024-09",
+      "views": 37952
+    },
+    {
+      "period": "2024-11",
+      "views": 66339
+    },
+    {
+      "period": "2024-12",
+      "views": 9627
+    },
+    {
+      "period": "2025-01",
+      "views": 35963
+    },
+    {
+      "period": "2025-02",
+      "views": 21933
+    },
+    {
+      "period": "2025-04",
+      "views": 29165
+    },
+    {
+      "period": "2025-06",
+      "views": 33676
+    },
+    {
+      "period": "2025-07",
+      "views": 48978
+    },
+    {
+      "period": "2025-08",
+      "views": 127707
+    },
+    {
+      "period": "2025-09",
+      "views": 60955
+    },
+    {
+      "period": "2025-12",
+      "views": 18224
+    },
+    {
+      "period": "2026-01",
+      "views": 26253
+    },
+    {
+      "period": "2026-05",
+      "views": 18258
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1460844
+    },
+    {
+      "period": "2023",
+      "views": 4302571
+    },
+    {
+      "period": "2024",
+      "views": 535127
+    },
+    {
+      "period": "2025",
+      "views": 376601
+    },
+    {
+      "period": "2026",
+      "views": 44511
     }
   ]
 }

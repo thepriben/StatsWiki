@@ -4,8 +4,24 @@
   "title": "Gene_Hackman",
   "description": "American actor and novelist (1930–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gene_Hackman_-_1972.jpg?width=64",
-  "total": 9265394,
+  "total": 9663587,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 41807
+    },
+    {
+      "period": "2023-02",
+      "views": 12017
+    },
+    {
+      "period": "2023-03",
+      "views": 334328
+    },
+    {
+      "period": "2023-08",
+      "views": 10041
+    },
     {
       "period": "2024-01",
       "views": 56676
@@ -60,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 398193
+    },
     {
       "period": "2024",
       "views": 267904

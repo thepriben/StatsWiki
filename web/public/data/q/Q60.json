@@ -4,7 +4,7 @@
   "title": "New_York_City",
   "description": "most populous city in the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NYC_Downtown_Manhattan_Skyline_seen_from_Paulus_Hook_2019-12-20_IMG_7347_FRD_%28cropped%29.jpg?width=64",
-  "total": 15785392,
+  "total": 22274458,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 441943
+    },
+    {
+      "period": "2023-01",
+      "views": 655619
+    },
+    {
+      "period": "2023-02",
+      "views": 527105
+    },
+    {
+      "period": "2023-03",
+      "views": 628518
+    },
+    {
+      "period": "2023-04",
+      "views": 578590
+    },
+    {
+      "period": "2023-05",
+      "views": 517853
+    },
+    {
+      "period": "2023-06",
+      "views": 546435
+    },
+    {
+      "period": "2023-07",
+      "views": 512996
+    },
+    {
+      "period": "2023-08",
+      "views": 549436
+    },
+    {
+      "period": "2023-09",
+      "views": 576029
+    },
+    {
+      "period": "2023-10",
+      "views": 452848
+    },
+    {
+      "period": "2023-11",
+      "views": 476320
+    },
+    {
+      "period": "2023-12",
+      "views": 467317
     },
     {
       "period": "2024-01",
@@ -151,6 +199,10 @@
     {
       "period": "2015",
       "views": 2831806
+    },
+    {
+      "period": "2023",
+      "views": 6489066
     },
     {
       "period": "2024",

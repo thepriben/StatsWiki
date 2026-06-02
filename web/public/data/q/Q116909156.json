@@ -4,8 +4,24 @@
   "title": "The_Night_Agent",
   "description": "American action thriller television series",
   "image": "",
-  "total": 2904935,
+  "total": 5380572,
   "monthly": [
+    {
+      "period": "2023-03",
+      "views": 858305
+    },
+    {
+      "period": "2023-04",
+      "views": 1300264
+    },
+    {
+      "period": "2023-05",
+      "views": 280738
+    },
+    {
+      "period": "2023-12",
+      "views": 36330
+    },
     {
       "period": "2025-01",
       "views": 897051
@@ -32,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 2475637
+    },
     {
       "period": "2025",
       "views": 1663662

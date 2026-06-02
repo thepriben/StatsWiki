@@ -4,8 +4,12 @@
   "title": "Super_Bowl_LX",
   "description": "2026 National Football League championship game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CBP_AMO_flyover_of_Levi%27s_Stadium_%2855078388288%29.jpg?width=64",
-  "total": 3346169,
+  "total": 3374793,
   "monthly": [
+    {
+      "period": "2023-02",
+      "views": 28624
+    },
     {
       "period": "2024-01",
       "views": 17770
@@ -44,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 28624
+    },
     {
       "period": "2024",
       "views": 114053

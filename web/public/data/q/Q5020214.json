@@ -4,8 +4,52 @@
   "title": "2026_FIFA_World_Cup",
   "description": "23rd FIFA World Cup, scheduled to be held in the United States, Mexico and Canada in 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuenta_regresiva_Guadalajara_%28Copa_Mundial_2026%29_I.jpg?width=64",
-  "total": 27611433,
+  "total": 31331664,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 231581
+    },
+    {
+      "period": "2023-02",
+      "views": 22581
+    },
+    {
+      "period": "2023-03",
+      "views": 228204
+    },
+    {
+      "period": "2023-05",
+      "views": 231590
+    },
+    {
+      "period": "2023-06",
+      "views": 312106
+    },
+    {
+      "period": "2023-07",
+      "views": 457252
+    },
+    {
+      "period": "2023-08",
+      "views": 437395
+    },
+    {
+      "period": "2023-09",
+      "views": 376958
+    },
+    {
+      "period": "2023-10",
+      "views": 598427
+    },
+    {
+      "period": "2023-11",
+      "views": 675211
+    },
+    {
+      "period": "2023-12",
+      "views": 148926
+    },
     {
       "period": "2024-01",
       "views": 368293
@@ -124,6 +168,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 3720231
+    },
     {
       "period": "2024",
       "views": 5957496

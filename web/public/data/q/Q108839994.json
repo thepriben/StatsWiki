@@ -4,8 +4,52 @@
   "title": "Oppenheimer_(film)",
   "description": "2023 film directed by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oppenheimer_logo.svg?width=64",
-  "total": 11414669,
+  "total": 38385066,
   "monthly": [
+    {
+      "period": "2023-01",
+      "views": 294932
+    },
+    {
+      "period": "2023-03",
+      "views": 152885
+    },
+    {
+      "period": "2023-04",
+      "views": 404791
+    },
+    {
+      "period": "2023-05",
+      "views": 773211
+    },
+    {
+      "period": "2023-06",
+      "views": 1026001
+    },
+    {
+      "period": "2023-07",
+      "views": 11501051
+    },
+    {
+      "period": "2023-08",
+      "views": 6601759
+    },
+    {
+      "period": "2023-09",
+      "views": 2269042
+    },
+    {
+      "period": "2023-10",
+      "views": 1059492
+    },
+    {
+      "period": "2023-11",
+      "views": 1546968
+    },
+    {
+      "period": "2023-12",
+      "views": 1340265
+    },
     {
       "period": "2024-01",
       "views": 1807160
@@ -116,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 26970397
+    },
     {
       "period": "2024",
       "views": 9125534

@@ -4,7 +4,7 @@
   "title": "Teen_Wolf_(2011_TV_series)",
   "description": "American supernatural teen drama television series (2011-2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Angeles_with_Mount_Baldy.jpg?width=64",
-  "total": 929130,
+  "total": 1008525,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,20 @@
     {
       "period": "2015-09",
       "views": 46429
+    },
+    {
+      "period": "2023-01",
+      "views": 79395
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 929130
+    },
+    {
+      "period": "2023",
+      "views": 79395
     }
   ]
 }

@@ -4,8 +4,20 @@
   "title": "Ruby_Franke",
   "description": "American family vlogger who ran a YouTube channel",
   "image": "",
-  "total": 5379664,
+  "total": 5683056,
   "monthly": [
+    {
+      "period": "2023-09",
+      "views": 9856
+    },
+    {
+      "period": "2023-10",
+      "views": 37812
+    },
+    {
+      "period": "2023-12",
+      "views": 255724
+    },
     {
       "period": "2024-02",
       "views": 441025
@@ -76,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 303392
+    },
     {
       "period": "2024",
       "views": 1440620

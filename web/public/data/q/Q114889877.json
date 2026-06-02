@@ -4,8 +4,16 @@
   "title": "Fighter_(2024_film)",
   "description": "2024 Indian film",
   "image": "",
-  "total": 5404380,
+  "total": 5775820,
   "monthly": [
+    {
+      "period": "2023-08",
+      "views": 17840
+    },
+    {
+      "period": "2023-12",
+      "views": 353600
+    },
     {
       "period": "2024-01",
       "views": 2360909
@@ -36,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 371440
+    },
     {
       "period": "2024",
       "views": 5395612

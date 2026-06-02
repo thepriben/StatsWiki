@@ -4,8 +4,16 @@
   "title": "Ella_Purnell",
   "description": "English-born British actress (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ella_Purnell_at_MEGACON_Orlando_2025.png?width=64",
-  "total": 4333433,
+  "total": 4385692,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 23161
+    },
+    {
+      "period": "2023-12",
+      "views": 29098
+    },
     {
       "period": "2024-03",
       "views": 32244
@@ -68,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 52259
+    },
     {
       "period": "2024",
       "views": 3210152

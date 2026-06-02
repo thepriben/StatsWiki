@@ -4,8 +4,32 @@
   "title": "Lamine_Yamal",
   "description": "Spanish footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamine_Yamal_in_2025_%28cropped2%29.jpg?width=64",
-  "total": 13128817,
+  "total": 13909103,
   "monthly": [
+    {
+      "period": "2023-04",
+      "views": 170120
+    },
+    {
+      "period": "2023-05",
+      "views": 27561
+    },
+    {
+      "period": "2023-08",
+      "views": 260849
+    },
+    {
+      "period": "2023-09",
+      "views": 211058
+    },
+    {
+      "period": "2023-10",
+      "views": 84916
+    },
+    {
+      "period": "2023-11",
+      "views": 25782
+    },
     {
       "period": "2024-02",
       "views": 49917
@@ -116,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 780286
+    },
     {
       "period": "2024",
       "views": 6448191

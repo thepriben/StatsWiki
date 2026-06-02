@@ -4,8 +4,12 @@
   "title": "Sonic_the_Hedgehog_3_(film)",
   "description": "2024 film directed by Jeff Fowler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonic_the_Hedgehog_3_%28film%29_logo.png?width=64",
-  "total": 6618584,
+  "total": 6629639,
   "monthly": [
+    {
+      "period": "2023-11",
+      "views": 11055
+    },
     {
       "period": "2024-02",
       "views": 124632
@@ -60,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 11055
+    },
     {
       "period": "2024",
       "views": 3319724

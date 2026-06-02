@@ -4,8 +4,24 @@
   "title": "Toby_Keith",
   "description": "American country music singer and actor (1961–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toby_Keith_DA-SD-07-31207_%28cropped%29.jpg?width=64",
-  "total": 4353910,
+  "total": 4652415,
   "monthly": [
+    {
+      "period": "2023-06",
+      "views": 21795
+    },
+    {
+      "period": "2023-07",
+      "views": 24075
+    },
+    {
+      "period": "2023-09",
+      "views": 183554
+    },
+    {
+      "period": "2023-10",
+      "views": 69081
+    },
     {
       "period": "2024-02",
       "views": 3207397
@@ -76,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 298505
+    },
     {
       "period": "2024",
       "views": 3929987

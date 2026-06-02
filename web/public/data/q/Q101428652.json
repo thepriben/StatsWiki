@@ -4,8 +4,20 @@
   "title": "Jasmine_Crockett",
   "description": "American attorney and politician (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rep._Jasmine_Crockett_-_118th_Congress.jpg?width=64",
-  "total": 3981585,
+  "total": 4179259,
   "monthly": [
+    {
+      "period": "2023-09",
+      "views": 152000
+    },
+    {
+      "period": "2023-10",
+      "views": 35540
+    },
+    {
+      "period": "2023-12",
+      "views": 10134
+    },
     {
       "period": "2024-01",
       "views": 41095
@@ -92,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 197674
+    },
     {
       "period": "2024",
       "views": 526836

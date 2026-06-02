@@ -4,8 +4,32 @@
   "title": "Salaar:_Part_1_–_Ceasefire",
   "description": "2023 film by Prashanth Neel",
   "image": "",
-  "total": 5283447,
+  "total": 12884553,
   "monthly": [
+    {
+      "period": "2023-07",
+      "views": 57834
+    },
+    {
+      "period": "2023-08",
+      "views": 60925
+    },
+    {
+      "period": "2023-09",
+      "views": 471694
+    },
+    {
+      "period": "2023-10",
+      "views": 66680
+    },
+    {
+      "period": "2023-11",
+      "views": 123283
+    },
+    {
+      "period": "2023-12",
+      "views": 6820690
+    },
     {
       "period": "2024-01",
       "views": 3714646
@@ -52,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 7601106
+    },
     {
       "period": "2024",
       "views": 5283447

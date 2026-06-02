@@ -4,7 +4,7 @@
   "title": "The_Hateful_Eight",
   "description": "2015 film directed by Quentin Tarantino",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hateful_Eight_logo.png?width=64",
-  "total": 2315938,
+  "total": 2349543,
   "monthly": [
     {
       "period": "2015-07",
@@ -27,6 +27,10 @@
       "views": 1595410
     },
     {
+      "period": "2023-06",
+      "views": 33605
+    },
+    {
       "period": "2025-07",
       "views": 19288
     }
@@ -35,6 +39,10 @@
     {
       "period": "2015",
       "views": 2296650
+    },
+    {
+      "period": "2023",
+      "views": 33605
     },
     {
       "period": "2025",

@@ -4,8 +4,24 @@
   "title": "Josh_Allen",
   "description": "American football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Allen.jpg?width=64",
-  "total": 5787022,
+  "total": 6242185,
   "monthly": [
+    {
+      "period": "2023-09",
+      "views": 94802
+    },
+    {
+      "period": "2023-10",
+      "views": 115382
+    },
+    {
+      "period": "2023-11",
+      "views": 136030
+    },
+    {
+      "period": "2023-12",
+      "views": 108949
+    },
     {
       "period": "2024-01",
       "views": 700434
@@ -92,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2023",
+      "views": 455163
+    },
     {
       "period": "2024",
       "views": 1906740
