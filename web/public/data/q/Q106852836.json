@@ -4,7 +4,7 @@
   "title": "Project_Hail_Mary",
   "description": "2021 novel by Andy Weir",
   "image": "",
-  "total": 4262102,
+  "total": 4271322,
   "monthly": [
     {
       "period": "2025-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-05",
       "views": 438077
+    },
+    {
+      "period": "2026-06",
+      "views": 9220
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 3759600
+      "views": 3768820
     }
   ]
 }

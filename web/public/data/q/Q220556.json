@@ -4,7 +4,7 @@
   "title": "Brock_Lesnar",
   "description": "American professional wrestler, mixed martial artist and football player (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brock_Lesnar_At_SummerSlam_2023_%28cropped%29.jpg?width=64",
-  "total": 12916983,
+  "total": 12925645,
   "monthly": [
     {
       "period": "2015-07",
@@ -361,6 +361,10 @@
     {
       "period": "2026-05",
       "views": 32997
+    },
+    {
+      "period": "2026-06",
+      "views": 8662
     }
   ],
   "yearly": [
@@ -406,7 +410,7 @@
     },
     {
       "period": "2026",
-      "views": 487028
+      "views": 495690
     }
   ]
 }

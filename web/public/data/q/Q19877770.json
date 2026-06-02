@@ -4,7 +4,7 @@
   "title": "Timothée_Chalamet",
   "description": "French-American actor (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e_Chalamet-63541_%28cropped%29.jpg?width=64",
-  "total": 49649363,
+  "total": 49662623,
   "monthly": [
     {
       "period": "2018-01",
@@ -397,6 +397,10 @@
     {
       "period": "2026-05",
       "views": 549993
+    },
+    {
+      "period": "2026-06",
+      "views": 13260
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 4168024
+      "views": 4181284
     }
   ]
 }

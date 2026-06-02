@@ -4,7 +4,7 @@
   "title": "George_W._Bush",
   "description": "President of the United States from 2001 to 2009",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George-W-Bush.jpeg?width=64",
-  "total": 38716926,
+  "total": 38726175,
   "monthly": [
     {
       "period": "2015-07",
@@ -465,6 +465,10 @@
     {
       "period": "2026-05",
       "views": 250692
+    },
+    {
+      "period": "2026-06",
+      "views": 9249
     }
   ],
   "yearly": [
@@ -510,7 +514,7 @@
     },
     {
       "period": "2026",
-      "views": 1808797
+      "views": 1818046
     }
   ]
 }

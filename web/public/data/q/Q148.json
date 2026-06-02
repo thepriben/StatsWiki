@@ -4,7 +4,7 @@
   "title": "China",
   "description": "country in East Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Badaling_China_Great-Wall-of-China-01.jpg?width=64",
-  "total": 63258842,
+  "total": 63272085,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 430420
+    },
+    {
+      "period": "2026-06",
+      "views": 13243
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2106997
+      "views": 2120240
     }
   ]
 }

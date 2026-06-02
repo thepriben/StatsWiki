@@ -4,7 +4,7 @@
   "title": "Iron_Lung_(film)",
   "description": "2026 film directed by Mark Fischbach",
   "image": "",
-  "total": 3547447,
+  "total": 3579466,
   "monthly": [
     {
       "period": "2023-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-05",
       "views": 89704
+    },
+    {
+      "period": "2026-06",
+      "views": 32019
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 3151057
+      "views": 3183076
     }
   ]
 }

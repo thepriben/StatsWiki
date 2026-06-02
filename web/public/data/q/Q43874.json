@@ -4,7 +4,7 @@
   "title": "Eddie_Murphy",
   "description": "American actor and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eddie_Murphy_by_David_Shankbone.jpg?width=64",
-  "total": 11569965,
+  "total": 11597462,
   "monthly": [
     {
       "period": "2015-09",
@@ -321,6 +321,10 @@
     {
       "period": "2026-05",
       "views": 24494
+    },
+    {
+      "period": "2026-06",
+      "views": 27497
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 75649
+      "views": 103146
     }
   ]
 }

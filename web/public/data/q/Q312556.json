@@ -4,7 +4,7 @@
   "title": "Jeff_Bezos",
   "description": "American business magnate (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg?width=64",
-  "total": 52160352,
+  "total": 52192392,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-05",
       "views": 1053839
+    },
+    {
+      "period": "2026-06",
+      "views": 32040
     }
   ],
   "yearly": [
@@ -494,7 +498,7 @@
     },
     {
       "period": "2026",
-      "views": 5257752
+      "views": 5289792
     }
   ]
 }

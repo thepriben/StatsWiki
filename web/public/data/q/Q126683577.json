@@ -1,0 +1,48 @@
+{
+  "qid": "Q126683577",
+  "label": "Disclosure Day",
+  "title": "Disclosure_Day",
+  "description": "2026 film directed by Steven Spielberg",
+  "image": "",
+  "total": 2265538,
+  "monthly": [
+    {
+      "period": "2025-12",
+      "views": 840510
+    },
+    {
+      "period": "2026-01",
+      "views": 59612
+    },
+    {
+      "period": "2026-02",
+      "views": 188958
+    },
+    {
+      "period": "2026-03",
+      "views": 266573
+    },
+    {
+      "period": "2026-04",
+      "views": 159740
+    },
+    {
+      "period": "2026-05",
+      "views": 700231
+    },
+    {
+      "period": "2026-06",
+      "views": 49914
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 840510
+    },
+    {
+      "period": "2026",
+      "views": 1425028
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "50_Cent",
   "description": "American rapper (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/50_Cent_in_2018.png?width=64",
-  "total": 7026598,
+  "total": 7035128,
   "monthly": [
     {
       "period": "2015-07",
@@ -309,6 +309,10 @@
     {
       "period": "2026-05",
       "views": 9664
+    },
+    {
+      "period": "2026-06",
+      "views": 8530
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 135118
+      "views": 143648
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "List_of_countries_by_GDP_(nominal)_per_capita",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 10563888,
+  "total": 10572396,
   "monthly": [
     {
       "period": "2016-06",
@@ -241,6 +241,10 @@
     {
       "period": "2026-05",
       "views": 274397
+    },
+    {
+      "period": "2026-06",
+      "views": 8508
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 1729305
+      "views": 1737813
     }
   ]
 }

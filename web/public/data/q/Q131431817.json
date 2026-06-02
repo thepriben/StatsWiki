@@ -4,7 +4,7 @@
   "title": "The_Pitt",
   "description": "2025 medical drama TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pitt_Max_series_logo.svg?width=64",
-  "total": 9257541,
+  "total": 9270983,
   "monthly": [
     {
       "period": "2025-02",
@@ -65,6 +65,10 @@
     {
       "period": "2026-05",
       "views": 571338
+    },
+    {
+      "period": "2026-06",
+      "views": 13442
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 6166132
+      "views": 6179574
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Ottoman_Empire",
   "description": "multiethnic empire with the monarchs from the Ottoman dynasty (1299–1922)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rise_of_Ottoman_empire.png?width=64",
-  "total": 33981849,
+  "total": 33990916,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 239024
+    },
+    {
+      "period": "2026-06",
+      "views": 9067
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 980333
+      "views": 989400
     }
   ]
 }

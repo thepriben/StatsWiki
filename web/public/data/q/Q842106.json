@@ -1,0 +1,60 @@
+{
+  "qid": "Q842106",
+  "label": "A Streetcar Named Desire",
+  "title": "A_Streetcar_Named_Desire",
+  "description": "1947 US play by Tennessee Williams",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midland_Theatre_Co_programme_Streetcar_Named_Desire.jpg?width=64",
+  "total": 219804,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 11162
+    },
+    {
+      "period": "2019-01",
+      "views": 9948
+    },
+    {
+      "period": "2020-05",
+      "views": 144827
+    },
+    {
+      "period": "2020-06",
+      "views": 12369
+    },
+    {
+      "period": "2024-02",
+      "views": 11480
+    },
+    {
+      "period": "2024-11",
+      "views": 12257
+    },
+    {
+      "period": "2026-06",
+      "views": 17761
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11162
+    },
+    {
+      "period": "2019",
+      "views": 9948
+    },
+    {
+      "period": "2020",
+      "views": 157196
+    },
+    {
+      "period": "2024",
+      "views": 23737
+    },
+    {
+      "period": "2026",
+      "views": 17761
+    }
+  ]
+}

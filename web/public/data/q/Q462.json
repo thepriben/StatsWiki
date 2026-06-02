@@ -4,7 +4,7 @@
   "title": "Star_Wars",
   "description": "epic space opera multimedia franchise created by George Lucas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_characters_at_Madame_Tussaud.jpg?width=64",
-  "total": 44335549,
+  "total": 44346023,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-05",
       "views": 367011
+    },
+    {
+      "period": "2026-06",
+      "views": 10474
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 367011
+      "views": 377485
     }
   ]
 }

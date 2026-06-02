@@ -1,0 +1,60 @@
+{
+  "qid": "Q11663",
+  "label": "weather",
+  "title": "Weather",
+  "description": "state of the atmosphere",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikinews_weather.png?width=64",
+  "total": 1041186,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 10197
+    },
+    {
+      "period": "2019-12",
+      "views": 144617
+    },
+    {
+      "period": "2023-08",
+      "views": 10466
+    },
+    {
+      "period": "2026-01",
+      "views": 10170
+    },
+    {
+      "period": "2026-02",
+      "views": 9294
+    },
+    {
+      "period": "2026-03",
+      "views": 94830
+    },
+    {
+      "period": "2026-04",
+      "views": 334257
+    },
+    {
+      "period": "2026-05",
+      "views": 414386
+    },
+    {
+      "period": "2026-06",
+      "views": 12969
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 154814
+    },
+    {
+      "period": "2023",
+      "views": 10466
+    },
+    {
+      "period": "2026",
+      "views": 875906
+    }
+  ]
+}

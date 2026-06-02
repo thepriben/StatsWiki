@@ -4,7 +4,7 @@
   "title": "The_Handmaid's_Tale_(TV_series)",
   "description": "American web television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Handmaid%27s_Tale_intertitle.png?width=64",
-  "total": 26606993,
+  "total": 26619250,
   "monthly": [
     {
       "period": "2018-01",
@@ -257,6 +257,10 @@
     {
       "period": "2026-05",
       "views": 371588
+    },
+    {
+      "period": "2026-06",
+      "views": 12257
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 699766
+      "views": 712023
     }
   ]
 }

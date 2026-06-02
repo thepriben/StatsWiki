@@ -4,7 +4,7 @@
   "title": "Eva_Mendes",
   "description": "American actress and model (born 1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Mendes_2009.jpg?width=64",
-  "total": 9668794,
+  "total": 9679088,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-05",
       "views": 279848
+    },
+    {
+      "period": "2026-06",
+      "views": 10294
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 1343001
+      "views": 1353295
     }
   ]
 }

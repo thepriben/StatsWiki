@@ -4,7 +4,7 @@
   "title": "Project_Hail_Mary_(film)",
   "description": "2026 film directed by Phil Lord and Christopher Miller",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Project_Hail_Mary_%282026%29_Logo.png?width=64",
-  "total": 8058776,
+  "total": 8094942,
   "monthly": [
     {
       "period": "2025-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-05",
       "views": 1601523
+    },
+    {
+      "period": "2026-06",
+      "views": 36166
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 7856422
+      "views": 7892588
     }
   ]
 }

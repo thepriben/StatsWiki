@@ -4,7 +4,7 @@
   "title": "Marshals_(TV_series)",
   "description": "American television series",
   "image": "",
-  "total": 1646456,
+  "total": 1663888,
   "monthly": [
     {
       "period": "2026-01",
@@ -25,12 +25,16 @@
     {
       "period": "2026-05",
       "views": 467308
+    },
+    {
+      "period": "2026-06",
+      "views": 17432
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1646456
+      "views": 1663888
     }
   ]
 }

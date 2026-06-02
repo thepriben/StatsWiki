@@ -1,0 +1,48 @@
+{
+  "qid": "Q64214281",
+  "label": "Pride Month",
+  "title": "Pride_Month",
+  "description": "June commemorative month",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pride_Month_2025%2C_Lyon_01.jpg?width=64",
+  "total": 241381,
+  "monthly": [
+    {
+      "period": "2023-05",
+      "views": 10738
+    },
+    {
+      "period": "2023-06",
+      "views": 99675
+    },
+    {
+      "period": "2024-06",
+      "views": 49755
+    },
+    {
+      "period": "2025-06",
+      "views": 56839
+    },
+    {
+      "period": "2026-06",
+      "views": 24374
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 110413
+    },
+    {
+      "period": "2024",
+      "views": 49755
+    },
+    {
+      "period": "2025",
+      "views": 56839
+    },
+    {
+      "period": "2026",
+      "views": 24374
+    }
+  ]
+}

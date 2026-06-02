@@ -4,7 +4,7 @@
   "title": "WhatsApp",
   "description": "Meta Platforms-owned mobile instant messenger and social media service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WhatsApp.svg?width=64",
-  "total": 57654841,
+  "total": 57664858,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 229419
+    },
+    {
+      "period": "2026-06",
+      "views": 10017
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1396034
+      "views": 1406051
     }
   ]
 }

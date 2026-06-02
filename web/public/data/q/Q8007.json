@@ -4,7 +4,7 @@
   "title": "Franklin_D._Roosevelt",
   "description": "president of the United States from 1933 to 1945 (1882–1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FDR_1944_Color_Portrait.jpg?width=64",
-  "total": 45219689,
+  "total": 45232663,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 399501
+    },
+    {
+      "period": "2026-06",
+      "views": 12974
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1887096
+      "views": 1900070
     }
   ]
 }

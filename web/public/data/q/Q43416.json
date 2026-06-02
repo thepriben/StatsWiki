@@ -4,7 +4,7 @@
   "title": "Keanu_Reeves",
   "description": "Canadian actor and musician (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg?width=64",
-  "total": 76675939,
+  "total": 76695108,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 392982
+    },
+    {
+      "period": "2026-06",
+      "views": 19169
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2101642
+      "views": 2120811
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "UEFA_Champions_League",
   "description": "European association football tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Champions_League_logo_no_text.svg?width=64",
-  "total": 48049730,
+  "total": 48085694,
   "monthly": [
     {
       "period": "2015-07",
@@ -461,6 +461,10 @@
     {
       "period": "2026-05",
       "views": 848422
+    },
+    {
+      "period": "2026-06",
+      "views": 35964
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 2279624
+      "views": 2315588
     }
   ]
 }

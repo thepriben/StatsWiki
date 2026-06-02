@@ -4,7 +4,7 @@
   "title": "Jamie_Lee_Curtis",
   "description": "American actress and author",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Jamie_Lee_Curtis_%28cropped%29.jpg?width=64",
-  "total": 15852370,
+  "total": 15876781,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-05",
       "views": 84651
+    },
+    {
+      "period": "2026-06",
+      "views": 24411
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 481854
+      "views": 506265
     }
   ]
 }

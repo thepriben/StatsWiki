@@ -4,7 +4,7 @@
   "title": "Paris_Saint-Germain_F.C.",
   "description": "association football club in Paris, France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiev-PSG_%285%29.jpg?width=64",
-  "total": 12393411,
+  "total": 13966441,
   "monthly": [
     {
       "period": "2015-07",
@@ -311,12 +311,60 @@
       "views": 10419
     },
     {
+      "period": "2024-10",
+      "views": 9738
+    },
+    {
+      "period": "2025-01",
+      "views": 13283
+    },
+    {
+      "period": "2025-03",
+      "views": 85588
+    },
+    {
+      "period": "2025-04",
+      "views": 111418
+    },
+    {
       "period": "2025-05",
-      "views": 14555
+      "views": 315853
     },
     {
       "period": "2025-06",
-      "views": 19933
+      "views": 289948
+    },
+    {
+      "period": "2025-07",
+      "views": 123922
+    },
+    {
+      "period": "2025-08",
+      "views": 51913
+    },
+    {
+      "period": "2025-09",
+      "views": 19534
+    },
+    {
+      "period": "2025-10",
+      "views": 10881
+    },
+    {
+      "period": "2025-12",
+      "views": 23973
+    },
+    {
+      "period": "2026-04",
+      "views": 102683
+    },
+    {
+      "period": "2026-05",
+      "views": 412894
+    },
+    {
+      "period": "2026-06",
+      "views": 35890
     }
   ],
   "yearly": [
@@ -354,11 +402,15 @@
     },
     {
       "period": "2024",
-      "views": 421008
+      "views": 430746
     },
     {
       "period": "2025",
-      "views": 34488
+      "views": 1046313
+    },
+    {
+      "period": "2026",
+      "views": 551467
     }
   ]
 }

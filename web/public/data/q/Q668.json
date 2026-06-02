@@ -4,7 +4,7 @@
   "title": "India",
   "description": "country in South Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India-locator-map-blank.svg?width=64",
-  "total": 106481280,
+  "total": 106496205,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 490573
+    },
+    {
+      "period": "2026-06",
+      "views": 14925
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2616138
+      "views": 2631063
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Venus_Williams",
   "description": "American tennis player (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_Williams_%2814948553428%29.jpg?width=64",
-  "total": 11475802,
+  "total": 11485200,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-01",
       "views": 68709
+    },
+    {
+      "period": "2026-06",
+      "views": 9398
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 68709
+      "views": 78107
     }
   ]
 }

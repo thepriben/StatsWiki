@@ -1,0 +1,48 @@
+{
+  "qid": "Q1512672",
+  "label": "Catatumbo lightning",
+  "title": "Catatumbo_lightning",
+  "description": "atmospheric phenomenon in Venezuela",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Catatumbo_Lightning_-_Rayo_del_Catatumbo.jpg?width=64",
+  "total": 180243,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 16868
+    },
+    {
+      "period": "2019-12",
+      "views": 90212
+    },
+    {
+      "period": "2020-02",
+      "views": 24177
+    },
+    {
+      "period": "2026-05",
+      "views": 27273
+    },
+    {
+      "period": "2026-06",
+      "views": 21713
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 16868
+    },
+    {
+      "period": "2019",
+      "views": 90212
+    },
+    {
+      "period": "2020",
+      "views": 24177
+    },
+    {
+      "period": "2026",
+      "views": 48986
+    }
+  ]
+}

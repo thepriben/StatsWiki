@@ -4,7 +4,7 @@
   "title": "Tom_Hanks",
   "description": "American actor and film producer (born 1956)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Hanks_at_the_Elvis_Premiere_2022.jpg?width=64",
-  "total": 42821070,
+  "total": 42832786,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 299055
+    },
+    {
+      "period": "2026-06",
+      "views": 11716
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 849531
+      "views": 861247
     }
   ]
 }

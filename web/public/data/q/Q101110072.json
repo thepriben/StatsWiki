@@ -4,7 +4,7 @@
   "title": "2024_United_States_presidential_election",
   "description": "60th quadrennial U.S. presidential election",
   "image": "",
-  "total": 46400462,
+  "total": 46412059,
   "monthly": [
     {
       "period": "2020-11",
@@ -213,6 +213,10 @@
     {
       "period": "2026-05",
       "views": 394728
+    },
+    {
+      "period": "2026-06",
+      "views": 11597
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 2578971
+      "views": 2590568
     }
   ]
 }

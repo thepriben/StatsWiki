@@ -4,7 +4,7 @@
   "title": "Shaquille_O'Neal",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaquille_O%27Neal_October_2017_%28cropped%29.jpg?width=64",
-  "total": 38427803,
+  "total": 38438095,
   "monthly": [
     {
       "period": "2015-07",
@@ -473,6 +473,10 @@
     {
       "period": "2026-05",
       "views": 376605
+    },
+    {
+      "period": "2026-06",
+      "views": 10292
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 766708
+      "views": 777000
     }
   ]
 }

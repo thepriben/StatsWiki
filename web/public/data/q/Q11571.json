@@ -4,7 +4,7 @@
   "title": "Cristiano_Ronaldo",
   "description": "Portuguese association football player (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64",
-  "total": 137436868,
+  "total": 137466914,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 979774
+    },
+    {
+      "period": "2026-06",
+      "views": 30046
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 3750446
+      "views": 3780492
     }
   ]
 }

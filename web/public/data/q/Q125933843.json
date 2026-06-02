@@ -4,7 +4,7 @@
   "title": "Eurovision_Song_Contest_2026",
   "description": "70th edition of the Eurovision Song Contest",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Presenters_kicking_off_the_1st_Semi-Final_of_the_2026_Eurovision_Song_Contest_01.jpg?width=64",
-  "total": 5805427,
+  "total": 5816715,
   "monthly": [
     {
       "period": "2025-05",
@@ -53,6 +53,10 @@
     {
       "period": "2026-05",
       "views": 2670551
+    },
+    {
+      "period": "2026-06",
+      "views": 11288
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 4481075
+      "views": 4492363
     }
   ]
 }

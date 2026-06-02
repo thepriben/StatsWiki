@@ -4,7 +4,7 @@
   "title": "The_Idol_(TV_series)",
   "description": "American drama television series",
   "image": "",
-  "total": 15168260,
+  "total": 15179166,
   "monthly": [
     {
       "period": "2022-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-04",
       "views": 21704
+    },
+    {
+      "period": "2026-06",
+      "views": 10906
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 21704
+      "views": 32610
     }
   ]
 }

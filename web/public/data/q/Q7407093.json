@@ -4,7 +4,7 @@
   "title": "Sam_Altman",
   "description": "American venture capitalist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Altman_speaking_at_TED_%28cropped%29.jpg?width=64",
-  "total": 10737282,
+  "total": 10748991,
   "monthly": [
     {
       "period": "2022-12",
@@ -149,6 +149,10 @@
     {
       "period": "2026-05",
       "views": 273729
+    },
+    {
+      "period": "2026-06",
+      "views": 11709
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 1201949
+      "views": 1213658
     }
   ]
 }

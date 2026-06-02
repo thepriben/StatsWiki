@@ -4,7 +4,7 @@
   "title": "Harrison_Ford",
   "description": "American actor (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison_Ford_-_Televerse_2025-03.jpg?width=64",
-  "total": 31260258,
+  "total": 31269246,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-05",
       "views": 366650
+    },
+    {
+      "period": "2026-06",
+      "views": 8988
     }
   ],
   "yearly": [
@@ -522,7 +526,7 @@
     },
     {
       "period": "2026",
-      "views": 2029285
+      "views": 2038273
     }
   ]
 }

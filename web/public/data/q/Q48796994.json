@@ -4,7 +4,7 @@
   "title": "The_Boys_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Boys_TV_series_logo.svg?width=64",
-  "total": 34107295,
+  "total": 34131663,
   "monthly": [
     {
       "period": "2019-04",
@@ -253,6 +253,10 @@
     {
       "period": "2026-05",
       "views": 1799037
+    },
+    {
+      "period": "2026-06",
+      "views": 24368
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 3360951
+      "views": 3385319
     }
   ]
 }

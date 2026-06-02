@@ -4,7 +4,7 @@
   "title": "David_Beckham",
   "description": "English footballer (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Beckham_2009.jpg?width=64",
-  "total": 25317877,
+  "total": 25326463,
   "monthly": [
     {
       "period": "2015-07",
@@ -429,6 +429,10 @@
     {
       "period": "2026-05",
       "views": 82083
+    },
+    {
+      "period": "2026-06",
+      "views": 8586
     }
   ],
   "yearly": [
@@ -474,7 +478,7 @@
     },
     {
       "period": "2026",
-      "views": 530280
+      "views": 538866
     }
   ]
 }

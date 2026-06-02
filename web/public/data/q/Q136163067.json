@@ -4,7 +4,7 @@
   "title": "Obsession_(2025_film)",
   "description": "2025 film directed by Curry Barker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Obsession_Q%26A_2026_Century_City.jpg?width=64",
-  "total": 4202266,
+  "total": 4519700,
   "monthly": [
     {
       "period": "2025-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-05",
       "views": 4110425
+    },
+    {
+      "period": "2026-06",
+      "views": 317434
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 4191701
+      "views": 4509135
     }
   ]
 }

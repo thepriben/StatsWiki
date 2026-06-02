@@ -4,7 +4,7 @@
   "title": "Chelsea_F.C.",
   "description": "association football club in London, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamford_Bridge_-_West_Stand.jpg?width=64",
-  "total": 33356325,
+  "total": 33368351,
   "monthly": [
     {
       "period": "2015-07",
@@ -473,6 +473,10 @@
     {
       "period": "2026-05",
       "views": 300305
+    },
+    {
+      "period": "2026-06",
+      "views": 12026
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 871340
+      "views": 883366
     }
   ]
 }

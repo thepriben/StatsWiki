@@ -1,0 +1,48 @@
+{
+  "qid": "Q616426",
+  "label": "Tupolev Tu-142",
+  "title": "Tupolev_Tu-142",
+  "description": "Soviet aircraft",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tupolev_Tu-142_Krivchikov_2007.jpg?width=64",
+  "total": 104514,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 28776
+    },
+    {
+      "period": "2020-03",
+      "views": 9923
+    },
+    {
+      "period": "2023-08",
+      "views": 11551
+    },
+    {
+      "period": "2026-05",
+      "views": 39843
+    },
+    {
+      "period": "2026-06",
+      "views": 14421
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 28776
+    },
+    {
+      "period": "2020",
+      "views": 9923
+    },
+    {
+      "period": "2023",
+      "views": 11551
+    },
+    {
+      "period": "2026",
+      "views": 54264
+    }
+  ]
+}

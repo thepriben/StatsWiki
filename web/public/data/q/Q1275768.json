@@ -4,7 +4,7 @@
   "title": "Fred_Rogers",
   "description": "American television personality (1928–2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fred_Rogers%2C_late_1960s.jpg?width=64",
-  "total": 12118263,
+  "total": 12126743,
   "monthly": [
     {
       "period": "2015-08",
@@ -225,6 +225,10 @@
     {
       "period": "2025-12",
       "views": 20006
+    },
+    {
+      "period": "2026-06",
+      "views": 8480
     }
   ],
   "yearly": [
@@ -267,6 +271,10 @@
     {
       "period": "2025",
       "views": 71955
+    },
+    {
+      "period": "2026",
+      "views": 8480
     }
   ]
 }

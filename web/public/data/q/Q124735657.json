@@ -4,7 +4,7 @@
   "title": "The_Bride!",
   "description": "2026 American film directed by Maggie Gyllenhaal",
   "image": "",
-  "total": 1636767,
+  "total": 1645531,
   "monthly": [
     {
       "period": "2025-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-05",
       "views": 161339
+    },
+    {
+      "period": "2026-06",
+      "views": 8764
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1564111
+      "views": 1572875
     }
   ]
 }

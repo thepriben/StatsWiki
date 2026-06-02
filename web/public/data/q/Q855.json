@@ -4,7 +4,7 @@
   "title": "Joseph_Stalin",
   "description": "leader of the Soviet Union from 1924 to 1953",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Stalin_official_portrait.jpg?width=64",
-  "total": 39691147,
+  "total": 39702295,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 336693
+    },
+    {
+      "period": "2026-06",
+      "views": 11148
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1545405
+      "views": 1556553
     }
   ]
 }

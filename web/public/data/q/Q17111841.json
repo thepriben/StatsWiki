@@ -4,7 +4,7 @@
   "title": "List_of_Rick_and_Morty_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 4792483,
+  "total": 4801461,
   "monthly": [
     {
       "period": "2015-07",
@@ -121,6 +121,10 @@
     {
       "period": "2026-05",
       "views": 33986
+    },
+    {
+      "period": "2026-06",
+      "views": 8978
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 33986
+      "views": 42964
     }
   ]
 }

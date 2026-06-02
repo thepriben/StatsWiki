@@ -4,7 +4,7 @@
   "title": "Israel",
   "description": "country in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Satellite_image_of_Israel_in_January_2003.jpg?width=64",
-  "total": 58370163,
+  "total": 58382568,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 351651
+    },
+    {
+      "period": "2026-06",
+      "views": 12405
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2577342
+      "views": 2589747
     }
   ]
 }

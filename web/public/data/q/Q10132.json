@@ -4,7 +4,7 @@
   "title": "Rafael_Nadal",
   "description": "Spanish tennis player (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Nadal_en_2024_%28cropped%29.jpg?width=64",
-  "total": 27308817,
+  "total": 27351850,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-05",
       "views": 132379
+    },
+    {
+      "period": "2026-06",
+      "views": 43033
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 526934
+      "views": 569967
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2026_United_States_elections",
   "description": "",
   "image": "",
-  "total": 2672197,
+  "total": 2683804,
   "monthly": [
     {
       "period": "2024-11",
@@ -65,6 +65,10 @@
     {
       "period": "2026-05",
       "views": 353462
+    },
+    {
+      "period": "2026-06",
+      "views": 11607
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 2182820
+      "views": 2194427
     }
   ]
 }

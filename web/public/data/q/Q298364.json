@@ -4,7 +4,7 @@
   "title": "Jeffrey_Dahmer",
   "description": "American serial killer (1960–1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JeffreyDahmer1978.jpg?width=64",
-  "total": 85677257,
+  "total": 85691243,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 308333
+    },
+    {
+      "period": "2026-06",
+      "views": 13986
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1579633
+      "views": 1593619
     }
   ]
 }

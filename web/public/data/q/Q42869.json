@@ -4,7 +4,7 @@
   "title": "Nicolas_Cage",
   "description": "American actor (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Cage_Deauville_2013_2.jpg?width=64",
-  "total": 30738695,
+  "total": 30774721,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 447717
+    },
+    {
+      "period": "2026-06",
+      "views": 36026
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 753420
+      "views": 789446
     }
   ]
 }

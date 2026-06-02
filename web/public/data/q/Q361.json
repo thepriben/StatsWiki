@@ -4,7 +4,7 @@
   "title": "World_War_I",
   "description": "1914–1918 global conflict",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg?width=64",
-  "total": 70648637,
+  "total": 70664474,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 425707
+    },
+    {
+      "period": "2026-06",
+      "views": 15837
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2293791
+      "views": 2309628
     }
   ]
 }

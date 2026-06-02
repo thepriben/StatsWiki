@@ -4,7 +4,7 @@
   "title": "Madonna",
   "description": "American singer, songwriter, and actress (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg?width=64",
-  "total": 34742728,
+  "total": 34756160,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 429399
+    },
+    {
+      "period": "2026-06",
+      "views": 13432
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1783859
+      "views": 1797291
     }
   ]
 }

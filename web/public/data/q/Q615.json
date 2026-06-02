@@ -4,7 +4,7 @@
   "title": "Lionel_Messi",
   "description": "Argentine association football player (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg?width=64",
-  "total": 106530346,
+  "total": 106555079,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 657651
+    },
+    {
+      "period": "2026-06",
+      "views": 24733
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2402921
+      "views": 2427654
     }
   ]
 }

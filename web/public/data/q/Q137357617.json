@@ -4,7 +4,7 @@
   "title": "The_Testaments_(TV_series)",
   "description": "TV adaptation of the Margaret Atwood novel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Testaments_series_logo.svg?width=64",
-  "total": 1502826,
+  "total": 1521443,
   "monthly": [
     {
       "period": "2026-03",
@@ -17,12 +17,16 @@
     {
       "period": "2026-05",
       "views": 740313
+    },
+    {
+      "period": "2026-06",
+      "views": 18617
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1502826
+      "views": 1521443
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Boys_season_5",
   "description": "season of television series",
   "image": "",
-  "total": 4095523,
+  "total": 4113408,
   "monthly": [
     {
       "period": "2025-02",
@@ -29,6 +29,10 @@
     {
       "period": "2026-05",
       "views": 2287852
+    },
+    {
+      "period": "2026-06",
+      "views": 17885
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 4008423
+      "views": 4026308
     }
   ]
 }

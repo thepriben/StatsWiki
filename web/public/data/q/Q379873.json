@@ -1,0 +1,52 @@
+{
+  "qid": "Q379873",
+  "label": "Who Framed Roger Rabbit",
+  "title": "Who_Framed_Roger_Rabbit",
+  "description": "1988 film directed by Robert Zemeckis",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Who_Framed_Roger_Rabbit_logo.png?width=64",
+  "total": 164606,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 32010
+    },
+    {
+      "period": "2018-01",
+      "views": 67652
+    },
+    {
+      "period": "2021-08",
+      "views": 34163
+    },
+    {
+      "period": "2022-06",
+      "views": 12534
+    },
+    {
+      "period": "2026-06",
+      "views": 18247
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 32010
+    },
+    {
+      "period": "2018",
+      "views": 67652
+    },
+    {
+      "period": "2021",
+      "views": 34163
+    },
+    {
+      "period": "2022",
+      "views": 12534
+    },
+    {
+      "period": "2026",
+      "views": 18247
+    }
+  ]
+}

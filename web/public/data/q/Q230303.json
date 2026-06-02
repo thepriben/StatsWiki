@@ -4,7 +4,7 @@
   "title": "Caroline_Kennedy",
   "description": "American author and diplomat (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Kennedy%2C_U.S._Ambassador_2.jpg?width=64",
-  "total": 5629597,
+  "total": 5638668,
   "monthly": [
     {
       "period": "2015-08",
@@ -197,6 +197,10 @@
     {
       "period": "2026-05",
       "views": 47633
+    },
+    {
+      "period": "2026-06",
+      "views": 9071
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 2518081
+      "views": 2527152
     }
   ]
 }

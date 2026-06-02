@@ -4,7 +4,7 @@
   "title": "The_Madison_(TV_series)",
   "description": "Upcoming television series",
   "image": "",
-  "total": 2450762,
+  "total": 2460124,
   "monthly": [
     {
       "period": "2025-04",
@@ -29,6 +29,10 @@
     {
       "period": "2026-05",
       "views": 219472
+    },
+    {
+      "period": "2026-06",
+      "views": 9362
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 2414106
+      "views": 2423468
     }
   ]
 }

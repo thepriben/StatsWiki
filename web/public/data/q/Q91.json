@@ -4,7 +4,7 @@
   "title": "Abraham_Lincoln",
   "description": "president of the United States from 1861 to 1865 (1809-1865)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_O-77_matte_collodion_print.jpg?width=64",
-  "total": 52335509,
+  "total": 52348291,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 385603
+    },
+    {
+      "period": "2026-06",
+      "views": 12782
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1960466
+      "views": 1973248
     }
   ]
 }

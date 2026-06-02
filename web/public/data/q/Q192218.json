@@ -4,7 +4,7 @@
   "title": "Ted_Bundy",
   "description": "American serial killer (1946–1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64",
-  "total": 63002260,
+  "total": 63011219,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 266178
+    },
+    {
+      "period": "2026-06",
+      "views": 8959
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1502192
+      "views": 1511151
     }
   ]
 }

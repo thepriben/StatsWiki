@@ -4,7 +4,7 @@
   "title": "Limonene",
   "description": "chemical compound",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Limonene.jpg?width=64",
-  "total": 25874004,
+  "total": 25925469,
   "monthly": [
     {
       "period": "2022-02",
@@ -185,6 +185,10 @@
     {
       "period": "2026-05",
       "views": 1853163
+    },
+    {
+      "period": "2026-06",
+      "views": 51465
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 8448271
+      "views": 8499736
     }
   ]
 }

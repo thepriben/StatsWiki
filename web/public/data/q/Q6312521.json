@@ -4,7 +4,7 @@
   "title": "Juneteenth",
   "description": "holiday commemorating the emancipation of enslaved African Americans in Texas on June 19, 1865",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emancipation_Day_celebration_-_1900-06-19.jpg?width=64",
-  "total": 24066976,
+  "total": 24080118,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2025-07",
       "views": 8409
+    },
+    {
+      "period": "2026-06",
+      "views": 13142
     }
   ],
   "yearly": [
@@ -147,6 +151,10 @@
     {
       "period": "2025",
       "views": 2978792
+    },
+    {
+      "period": "2026",
+      "views": 13142
     }
   ]
 }

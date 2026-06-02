@@ -4,7 +4,7 @@
   "title": "2026_Indian_Premier_League",
   "description": "19th edition of the Indian Premier League",
   "image": "",
-  "total": 1701605,
+  "total": 1726256,
   "monthly": [
     {
       "period": "2025-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-05",
       "views": 380756
+    },
+    {
+      "period": "2026-06",
+      "views": 24651
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1638399
+      "views": 1663050
     }
   ]
 }

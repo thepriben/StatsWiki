@@ -4,7 +4,7 @@
   "title": "List_of_United_States_cities_by_population",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 37299966,
+  "total": 37311318,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-05",
       "views": 345327
+    },
+    {
+      "period": "2026-06",
+      "views": 11352
     }
   ],
   "yearly": [
@@ -514,7 +518,7 @@
     },
     {
       "period": "2026",
-      "views": 1526664
+      "views": 1538016
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kelly_Reilly",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelly_Reilly_2013_2.jpg?width=64",
-  "total": 8109897,
+  "total": 8127769,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-05",
       "views": 542548
+    },
+    {
+      "period": "2026-06",
+      "views": 17872
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 1285012
+      "views": 1302884
     }
   ]
 }

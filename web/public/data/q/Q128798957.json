@@ -4,7 +4,7 @@
   "title": "Hoppers_(film)",
   "description": "2026 animated film directed by Daniel Chong",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hoppers_logo.svg?width=64",
-  "total": 2445042,
+  "total": 2454283,
   "monthly": [
     {
       "period": "2025-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-05",
       "views": 253547
+    },
+    {
+      "period": "2026-06",
+      "views": 9241
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 2357394
+      "views": 2366635
     }
   ]
 }

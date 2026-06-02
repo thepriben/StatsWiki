@@ -4,7 +4,7 @@
   "title": "Katherine_Jackson",
   "description": "matriarch of the Jackson musical family",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katherine_Jackson%2C_MJ%2C_others%2C_New_York_Amsterdam_News_1977_12_03_pg40_%28cropped%29.jpg?width=64",
-  "total": 2278514,
+  "total": 2292995,
   "monthly": [
     {
       "period": "2018-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-05",
       "views": 1052925
+    },
+    {
+      "period": "2026-06",
+      "views": 14481
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 1712556
+      "views": 1727037
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "List_of_S&P_500_companies",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 6876664,
+  "total": 6914620,
   "monthly": [
     {
       "period": "2016-02",
@@ -113,6 +113,10 @@
     {
       "period": "2026-05",
       "views": 873307
+    },
+    {
+      "period": "2026-06",
+      "views": 37956
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 3122768
+      "views": 3160724
     }
   ]
 }

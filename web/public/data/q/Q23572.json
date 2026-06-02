@@ -4,7 +4,7 @@
   "title": "Game_of_Thrones",
   "description": "American fantasy drama television series (2011–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Game_of_Thrones_2011_logo.svg?width=64",
-  "total": 65951098,
+  "total": 65959938,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 83323
+    },
+    {
+      "period": "2026-06",
+      "views": 8840
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1525912
+      "views": 1534752
     }
   ]
 }

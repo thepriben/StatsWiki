@@ -4,7 +4,7 @@
   "title": "Angelina_Jolie",
   "description": "American actress, humanitarian and filmmaker (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angelina_Jolie-643531_%28cropped%29.jpg?width=64",
-  "total": 54028356,
+  "total": 54038303,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 204951
+    },
+    {
+      "period": "2026-06",
+      "views": 9947
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1091278
+      "views": 1101225
     }
   ]
 }

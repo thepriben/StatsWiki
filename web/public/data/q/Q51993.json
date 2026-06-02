@@ -1,0 +1,40 @@
+{
+  "qid": "Q51993",
+  "label": "Ebola hemorrhagic fever",
+  "title": "Ebola",
+  "description": "human disease",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/7042_lores-Ebola-Zaire-CDC_Photo.jpg?width=64",
+  "total": 681968,
+  "monthly": [
+    {
+      "period": "2020-06",
+      "views": 35877
+    },
+    {
+      "period": "2021-02",
+      "views": 11186
+    },
+    {
+      "period": "2026-05",
+      "views": 617588
+    },
+    {
+      "period": "2026-06",
+      "views": 17317
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 35877
+    },
+    {
+      "period": "2021",
+      "views": 11186
+    },
+    {
+      "period": "2026",
+      "views": 634905
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Jon_Hamm",
   "description": "American actor (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Hamm_at_PaleyFest_2014.jpg?width=64",
-  "total": 6432582,
+  "total": 6445838,
   "monthly": [
     {
       "period": "2015-07",
@@ -257,6 +257,10 @@
     {
       "period": "2026-05",
       "views": 428830
+    },
+    {
+      "period": "2026-06",
+      "views": 13256
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 1400802
+      "views": 1414058
     }
   ]
 }

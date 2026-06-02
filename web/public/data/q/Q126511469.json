@@ -4,7 +4,7 @@
   "title": "The_Long_Walk_(2025_film)",
   "description": "2025 film directed by Francis Lawrence",
   "image": "",
-  "total": 3870367,
+  "total": 3883835,
   "monthly": [
     {
       "period": "2025-05",
@@ -49,6 +49,10 @@
     {
       "period": "2026-05",
       "views": 88668
+    },
+    {
+      "period": "2026-06",
+      "views": 13468
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 372772
+      "views": 386240
     }
   ]
 }

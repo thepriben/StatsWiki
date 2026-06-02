@@ -4,7 +4,7 @@
   "title": "Sabrina_Carpenter",
   "description": "American singer-songwriter and actress (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sabrina_Carpenter_-_O2_Arena_2025_-_086_%28cropped_2%29.jpg?width=64",
-  "total": 22785211,
+  "total": 22793898,
   "monthly": [
     {
       "period": "2015-11",
@@ -185,6 +185,10 @@
     {
       "period": "2026-05",
       "views": 314790
+    },
+    {
+      "period": "2026-06",
+      "views": 8687
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 2186479
+      "views": 2195166
     }
   ]
 }

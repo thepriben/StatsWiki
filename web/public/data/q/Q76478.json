@@ -4,7 +4,7 @@
   "title": "Kirsten_Dunst",
   "description": "American actress (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirsten_Dunst_Cannes_2016.jpg?width=64",
-  "total": 10583842,
+  "total": 10592456,
   "monthly": [
     {
       "period": "2015-08",
@@ -341,6 +341,10 @@
     {
       "period": "2026-05",
       "views": 49818
+    },
+    {
+      "period": "2026-06",
+      "views": 8614
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 819290
+      "views": 827904
     }
   ]
 }

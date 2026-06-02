@@ -4,7 +4,7 @@
   "title": "Rachel_McAdams",
   "description": "Canadian actress (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel_McAdams_-_Walk_of_Fame.jpg?width=64",
-  "total": 19923414,
+  "total": 19932318,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-05",
       "views": 358736
+    },
+    {
+      "period": "2026-06",
+      "views": 8904
     }
   ],
   "yearly": [
@@ -494,7 +498,7 @@
     },
     {
       "period": "2026",
-      "views": 2017350
+      "views": 2026254
     }
   ]
 }

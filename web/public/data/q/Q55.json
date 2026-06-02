@@ -4,7 +4,7 @@
   "title": "Netherlands",
   "description": "one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean",
   "image": "",
-  "total": 34321389,
+  "total": 34329900,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 106676
+    },
+    {
+      "period": "2026-06",
+      "views": 8511
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 454208
+      "views": 462719
     }
   ]
 }

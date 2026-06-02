@@ -4,7 +4,7 @@
   "title": "Singapore",
   "description": "sovereign island country and city-state in maritime Southeast Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles_Place.jpg?width=64",
-  "total": 53682738,
+  "total": 53693090,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 332510
+    },
+    {
+      "period": "2026-06",
+      "views": 10352
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1665423
+      "views": 1675775
     }
   ]
 }

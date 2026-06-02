@@ -4,7 +4,7 @@
   "title": "Vietnam_War",
   "description": "armed conflict in Vietnam, Laos, and Cambodia between North Vietnam and South Vietnam, from 1955 to 1975",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg?width=64",
-  "total": 47964199,
+  "total": 47974893,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-05",
       "views": 346146
+    },
+    {
+      "period": "2026-06",
+      "views": 10694
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2033321
+      "views": 2044015
     }
   ]
 }
