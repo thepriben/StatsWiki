@@ -37,15 +37,24 @@ def _link_facet(text: str, url: str) -> dict:
     }
 
 
+def _normalize_handle(raw: str) -> str:
+    handle = raw.strip().lstrip("@")
+    if "." not in handle:
+        handle = f"{handle}.bsky.social"
+    return handle
+
+
 def _session() -> tuple[str, str]:
-    handle = os.environ["BSKY_HANDLE"]
-    password = os.environ["BSKY_APP_PASSWORD"]
+    handle = _normalize_handle(os.environ["BSKY_HANDLE"])
+    password = os.environ["BSKY_APP_PASSWORD"].strip()
     r = requests.post(
         f"{BSKY_PDS}/xrpc/com.atproto.server.createSession",
         json={"identifier": handle, "password": password},
         timeout=30,
     )
-    r.raise_for_status()
+    if not r.ok:
+        detail = r.text[:300]
+        raise RuntimeError(f"Bluesky login failed for {handle} ({r.status_code}): {detail}")
     data = r.json()
     return data["accessJwt"], data["did"]
 
