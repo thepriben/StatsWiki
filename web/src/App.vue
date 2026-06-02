@@ -11,6 +11,7 @@ import {
   navigate,
   pad,
   parseIsoDate,
+  BSKY_URL,
   REPO_URL,
   yesterday,
 } from './lib.js';
@@ -154,7 +155,13 @@ watch(route, fetchData);
   <div class="page">
     <header>
       <div class="header-top">
-        <a href="#" class="brand" @click.prevent="go('')">StatsWiki</a>
+        <div class="header-left">
+          <a href="#" class="brand" @click.prevent="go('')">StatsWiki</a>
+          <span class="header-links">
+            <a :href="REPO_URL" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a :href="BSKY_URL" target="_blank" rel="noopener noreferrer">Bluesky</a>
+          </span>
+        </div>
         <span class="tagline">{{ tagline }}</span>
       </div>
       <nav class="toolbar" aria-label="Browse by date">

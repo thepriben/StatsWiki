@@ -40,6 +40,28 @@ header {
   gap: 12px;
 }
 
+.header-left {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.header-links {
+  display: flex;
+  gap: 10px;
+  font-size: 0.85rem;
+}
+
+.header-links a {
+  color: #1a56db;
+  text-decoration: none;
+}
+
+.header-links a:hover {
+  text-decoration: underline;
+}
+
 .brand {
   color: #1a1a1a;
   font-size: 1.4rem;
