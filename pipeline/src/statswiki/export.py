@@ -5,22 +5,9 @@ from pathlib import Path
 import polars as pl
 
 from statswiki.config import JSON_OUT, MANIFEST, MONTHS, START, TOP_N
-from statswiki.filters import REDIRECTS, skip
+from statswiki.filters import skip
+from statswiki.mapping import line_from_row, merge_views_by_qid, meta_lookup
 from statswiki.store import date_range, load_articles, scan_pageviews
-
-REDIRECTS_BY_TITLE = {k.replace(" ", "_"): v for k, v in REDIRECTS.items()}
-REDIRECT_TITLES = set(REDIRECTS_BY_TITLE.keys())
-
-
-def _meta(articles: pl.DataFrame) -> dict[str, dict]:
-    if articles.is_empty():
-        return {}
-    lookup = {}
-    for r in articles.iter_rows(named=True):
-        lookup[r["article"]] = r
-        if r.get("qid"):
-            lookup[r["qid"]] = r
-    return lookup
 
 
 def _aggregate(lf, start: date, end: date) -> pl.DataFrame:
@@ -32,61 +19,18 @@ def _aggregate(lf, start: date, end: date) -> pl.DataFrame:
     )
 
 
-def _apply_redirects(df: pl.DataFrame) -> pl.DataFrame:
-    """Merge views from known redirect titles into canonical articles."""
-    if not REDIRECT_TITLES:
-        return df
-    views = {r["article"]: r["views"] for r in df.iter_rows(named=True)}
-    qid_to_title = {}
-    for r in load_articles().iter_rows(named=True):
-        if r.get("qid"):
-            qid_to_title[r["qid"]] = r["article"]
-
-    extra: dict[str, int] = {}
-    for title, v in list(views.items()):
-        qid = REDIRECTS_BY_TITLE.get(title)
-        if not qid:
-            continue
-        canon = qid_to_title.get(qid)
-        if canon and canon != title:
-            extra[canon] = extra.get(canon, 0) + v
-            views.pop(title, None)
-
-    for title, v in extra.items():
-        views[title] = views.get(title, 0) + v
-
-    return pl.DataFrame(
-        [{"article": k, "views": v} for k, v in views.items()]
-    ).sort("views", descending=True)
-
-
 def _lines(df: pl.DataFrame, meta: dict) -> list[dict]:
-    df = _apply_redirects(df)
+    merged = merge_views_by_qid(df, meta)
     out = []
     seen_qids = set()
-    for row in df.iter_rows(named=True):
+    for row in merged.iter_rows(named=True):
         if skip(row["article"]):
             continue
-        m = meta.get(row["article"], {})
-        qid = m.get("qid") or meta.get(REDIRECTS_BY_TITLE.get(row["article"], ""), {}).get("qid") or f"Q_en_{row['article']}"
-        if REDIRECTS_BY_TITLE.get(row["article"]) and row["article"] in REDIRECT_TITLES:
-            canon_qid = REDIRECTS_BY_TITLE[row["article"]]
-            if canon_qid in seen_qids:
-                continue
-            qid = canon_qid
-            m = meta.get(qid, m)
+        qid = row.get("qid", "")
         if qid in seen_qids:
             continue
         seen_qids.add(qid)
-        out.append({
-            "rank": len(out) + 1,
-            "title": row["article"],
-            "label": m.get("label", row["article"].replace("_", " ")),
-            "description": m.get("description", ""),
-            "views": row["views"],
-            "qid": qid,
-            "image": m.get("image", ""),
-        })
+        out.append(line_from_row(row, meta, len(out) + 1))
         if len(out) >= TOP_N:
             break
     return out
@@ -101,7 +45,7 @@ def export_period(kind: str, year: int = 0, month: int = 0, day: int = 0) -> boo
     lf = scan_pageviews()
     if lf is None:
         return False
-    meta = _meta(load_articles())
+    meta = meta_lookup(load_articles())
     yesterday = date.today() - timedelta(days=1)
 
     if kind == "alltime":

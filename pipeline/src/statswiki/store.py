@@ -50,6 +50,7 @@ def date_range() -> tuple[date | None, date | None]:
 ARTICLE_SCHEMA = {
     "article": pl.String,
     "qid": pl.String,
+    "resolved_title": pl.String,
     "label": pl.String,
     "description": pl.String,
     "image": pl.String,

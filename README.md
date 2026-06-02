@@ -203,8 +203,9 @@ data/articles.parquet
 
 | Column | Type | Description |
 |--------|------|-------------|
-| `article` | string | Wikipedia title |
+| `article` | string | Pageview title (as in Wikimedia API) |
 | `qid` | string | Wikidata QID (e.g. Q22686) |
+| `resolved_title` | string | Canonical Wikipedia title after redirects |
 | `label` | string | Human-readable name |
 | `description` | string | Short Wikidata description |
 | `image` | string | Commons thumbnail URL (64 px) |
@@ -253,18 +254,23 @@ All ingest operations are **idempotent**: re-running skips days already present 
 
 ### Wikidata enrichment
 
-Enrichment runs in **batches of 50** (Wikipedia and Wikidata API limits):
+Module `mapping.py` + `wikidata.py` — batched (50 titles / request):
 
-1. **Resolve QID** — Wikipedia `pageprops` maps article title → QID
-2. **Fetch entity** — Wikidata returns label, description, P18 image
-3. **Store** — upsert into `data/articles.parquet`
+1. **Resolve QID** — Wikipedia `pageprops`, follows **redirects** (e.g. old pandemic titles → current article)
+2. **Fallbacks** — if no item: Wikidata search (`wbsearchentities`) + enwiki sitelink match, then Wikipedia opensearch
+3. **Fetch entity** — label (en → sitelink → any), description (en), image (P18 then P154)
+4. **Store** — upsert into `data/articles.parquet` with `article`, `qid`, `resolved_title`, `label`, `description`, `image`
 
-When no Wikidata item exists, a shadow QID is stored (`Q_en_Article_Title`) and retried later via `--refresh-shadows`.
+Manual overrides in `filters.py` (`REDIRECTS`) cover edge cases (disambiguation, renamed elections).
 
-During daily updates, enrichment prioritizes:
+Shadow QIDs (`Q_en_Article_Title`) are retried via `--refresh-shadows`, prioritizing high-traffic articles.
+
+**Export deduplication:** views are merged by QID before ranking — two redirect titles pointing to the same item count as one entry in the top 50.
+
+During daily updates:
 - New articles from yesterday's pageviews
 - Top articles from yesterday
-- 50 shadow QID retries
+- 100 shadow QID retries
 
 During backfill, the top 1000 articles by total views are enriched after each year.
 

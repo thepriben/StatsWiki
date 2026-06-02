@@ -1,21 +1,19 @@
 <script setup>
 import { computed, onMounted, ref, watch } from 'vue';
+import RankingTable from './RankingTable.vue';
 import {
-  fmtViews,
+  currentYear,
+  loadHomeRankings,
   loadRanking,
-  loadManifest,
   pad,
-  titleText,
   url,
-  wikiUrl,
-  wikidataUrl,
   yesterday,
 } from './lib.js';
 
 const loading = ref(true);
 const error = ref('');
 const data = ref(null);
-const manifest = ref(null);
+const homeSections = ref([]);
 
 const route = ref(parseRoute(window.location.pathname));
 
@@ -36,11 +34,20 @@ function parseRoute(pathname) {
 
 async function fetchData() {
   if (route.value.kind === 'home') {
-    loading.value = false;
-    data.value = null;
+    loading.value = true;
     error.value = '';
+    try {
+      homeSections.value = await loadHomeRankings();
+    } catch {
+      homeSections.value = [];
+      error.value = 'Could not load rankings.';
+    } finally {
+      loading.value = false;
+    }
+    data.value = null;
     return;
   }
+
   loading.value = true;
   error.value = '';
   try {
@@ -66,7 +73,7 @@ const selMonth = ref('');
 const selDay = ref('');
 
 const years = computed(() => {
-  const end = yesterday().year;
+  const end = currentYear();
   return Array.from({ length: end - 2014 }, (_, i) => 2015 + i);
 });
 
@@ -76,9 +83,13 @@ const subnav = computed(() =>
   (data.value?.nav || []).map((item) => ({ label: item.label, href: url(item.path) }))
 );
 
-onMounted(async () => {
-  manifest.value = await loadManifest().catch(() => null);
+const y = yesterday();
+
+onMounted(() => {
   fetchData();
+  window.addEventListener('popstate', () => {
+    route.value = parseRoute(window.location.pathname);
+  });
 });
 
 watch(route, fetchData);
@@ -87,17 +98,17 @@ watch(route, fetchData);
 <template>
   <div class="page">
     <header>
-      <a :href="url()" class="brand">StatsWiki</a>
-      <span class="tagline">
-        English Wikipedia pageviews since July 2015
-        <template v-if="manifest?.end"> · data through {{ manifest.end }}</template>
-      </span>
+      <div class="header-top">
+        <a :href="url()" class="brand">StatsWiki</a>
+        <span class="tagline">English Wikipedia · pageview rankings since July 2015</span>
+      </div>
       <nav class="toolbar">
+        <a :href="url()">Home</a>
         <a :href="url('alltime')">All time</a>
-        <a :href="url(`${yesterday().year}/${pad(yesterday().month)}/${pad(yesterday().day)}`)">Yesterday</a>
+        <a :href="url(`${y.year}/${pad(y.month)}/${pad(y.day)}`)">Yesterday</a>
         <select v-model="selYear">
           <option value="">Year</option>
-          <option v-for="y in years" :key="y" :value="y">{{ y }}</option>
+          <option v-for="year in years" :key="year" :value="year">{{ year }}</option>
         </select>
         <select v-model="selMonth">
           <option value="">Month</option>
@@ -112,14 +123,23 @@ watch(route, fetchData);
     </header>
 
     <main>
-      <section v-if="route.kind === 'home'" class="hero">
-        <h1>Most-viewed Wikipedia articles</h1>
-        <p>Daily, monthly, yearly and all-time rankings.</p>
-        <p>
-          <a :href="url('alltime')">All-time top 50</a>
-          ·
-          <a :href="url(`${yesterday().year}/${pad(yesterday().month)}/${pad(yesterday().day)}`)">Yesterday</a>
-        </p>
+      <section v-if="route.kind === 'home'" class="home">
+        <h1>Top 50 most-read articles</h1>
+        <p v-if="loading" class="status">Loading…</p>
+        <p v-else-if="error" class="error">{{ error }}</p>
+        <div v-else class="home-sections">
+          <article v-for="section in homeSections" :key="section.id" class="home-block">
+            <header class="home-block-head">
+              <div>
+                <h2>{{ section.title }}</h2>
+                <p class="home-period">{{ section.period }}</p>
+              </div>
+              <a v-if="section.lines.length" :href="url(section.morePath)" class="more">Full page →</a>
+            </header>
+            <p v-if="section.error" class="empty">{{ section.error }}</p>
+            <RankingTable v-else :lines="section.lines" compact />
+          </article>
+        </div>
       </section>
 
       <template v-else>
@@ -127,28 +147,10 @@ watch(route, fetchData);
         <nav v-if="subnav.length" class="subnav">
           <a v-for="item in subnav" :key="item.href" :href="item.href">{{ item.label }}</a>
         </nav>
-        <p v-if="loading">Loading…</p>
+        <p v-if="loading" class="status">Loading…</p>
         <p v-else-if="error" class="error">{{ error }}</p>
-        <table v-else-if="lines.length">
-          <thead>
-            <tr><th>#</th><th>Article</th><th class="num">Views</th></tr>
-          </thead>
-          <tbody>
-            <tr v-for="line in lines" :key="line.title">
-              <td>{{ line.rank }}</td>
-              <td>
-                <a :href="wikiUrl(line.title)">{{ line.label || titleText(line) }}</a>
-                <span v-if="line.description" class="desc">{{ line.description }}</span>
-                <a v-if="wikidataUrl(line.qid)" class="qid" :href="wikidataUrl(line.qid)">{{ line.qid }}</a>
-                <img v-if="line.image" class="thumb" :src="line.image" :alt="line.label" loading="lazy" />
-              </td>
-              <td class="num">{{ fmtViews(line.views) }}</td>
-            </tr>
-          </tbody>
-        </table>
+        <RankingTable v-else-if="lines.length" :lines="lines" />
       </template>
     </main>
-
-    <footer><a href="https://twitter.com/StatsWiki">@StatsWiki</a></footer>
   </div>
 </template>
