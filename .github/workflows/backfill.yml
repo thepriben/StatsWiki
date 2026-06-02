@@ -24,12 +24,17 @@ jobs:
     timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - run: pip install -e ./pipeline
+
+      - name: Sync with main
+        run: git pull origin main
 
       - name: Ingest pageviews + Wikidata + export
         run: sw-backfill --year ${{ inputs.year }}
@@ -40,7 +45,21 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/ web/public/data/
           git diff --staged --quiet || git commit -m "Backfill ${{ inputs.year }} with Wikidata"
-          git pull --rebase origin main
+          git fetch origin main
+          if ! git rebase origin/main; then
+            git rebase --abort
+            git merge origin/main --no-edit || true
+            git diff --name-only --diff-filter=U | while read -r f; do
+              case "$f" in
+                data/*) git checkout --ours -- "$f" ;;
+                web/public/data/q/*) git rm -f -- "$f" ;;
+                *) git checkout --ours -- "$f" ;;
+              esac
+            done
+            sw-export-qids
+            git add data/ web/public/data/
+            git diff --staged --quiet || git commit -m "Backfill ${{ inputs.year }} with Wikidata"
+          fi
           git push
 
   deploy:
