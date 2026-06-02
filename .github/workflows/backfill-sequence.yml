@@ -13,12 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  backfill-year:
-    strategy:
-      fail-fast: false
-      max-parallel: 1
-      matrix:
-        year: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
+  backfill-years:
     runs-on: ubuntu-latest
     timeout-minutes: 360
     steps:
@@ -30,19 +25,21 @@ jobs:
 
       - run: pip install -e ./pipeline
 
-      - name: Ingest pageviews + Wikidata + export
-        run: sw-backfill --year ${{ matrix.year }}
-
-      - name: Commit
+      - name: Backfill 2025 → 2016 (one year at a time)
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ web/public/data/
-          git diff --staged --quiet || git commit -m "Backfill ${{ matrix.year }} with Wikidata"
-          git pull --rebase origin main
-          git push
+          for year in 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016; do
+            echo "=== Backfill $year ==="
+            sw-backfill --year "$year"
+            git add data/ web/public/data/
+            git diff --staged --quiet || git commit -m "Backfill $year with Wikidata"
+            git pull --rebase origin main
+            git push
+          done
 
   deploy:
-    needs: backfill-year
-    if: always() && needs.backfill-year.result != 'cancelled'
+    needs: backfill-years
+    if: always() && needs.backfill-years.result != 'cancelled'
     uses: ./.github/workflows/reusable-deploy.yml
