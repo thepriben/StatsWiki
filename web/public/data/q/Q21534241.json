@@ -4,8 +4,52 @@
   "title": "No_Time_to_Die",
   "description": "2021 film directed by Cary Joji Fukunaga",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/No_Time_To_Die_01.svg?width=64",
-  "total": 16338556,
+  "total": 19146867,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 423056
+    },
+    {
+      "period": "2020-02",
+      "views": 588693
+    },
+    {
+      "period": "2020-03",
+      "views": 417388
+    },
+    {
+      "period": "2020-04",
+      "views": 295304
+    },
+    {
+      "period": "2020-05",
+      "views": 36445
+    },
+    {
+      "period": "2020-06",
+      "views": 96259
+    },
+    {
+      "period": "2020-08",
+      "views": 65986
+    },
+    {
+      "period": "2020-09",
+      "views": 503558
+    },
+    {
+      "period": "2020-10",
+      "views": 116428
+    },
+    {
+      "period": "2020-11",
+      "views": 168268
+    },
+    {
+      "period": "2020-12",
+      "views": 96926
+    },
     {
       "period": "2021-01",
       "views": 144690
@@ -216,6 +260,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 2808311
+    },
     {
       "period": "2021",
       "views": 11114583

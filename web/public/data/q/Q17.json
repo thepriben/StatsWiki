@@ -4,7 +4,7 @@
   "title": "Japan",
   "description": "island country in East Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Satellite_image_of_Japan_in_May_2003.jpg?width=64",
-  "total": 35119598,
+  "total": 40036340,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 457675
+    },
+    {
+      "period": "2020-01",
+      "views": 435947
+    },
+    {
+      "period": "2020-02",
+      "views": 356057
+    },
+    {
+      "period": "2020-03",
+      "views": 419801
+    },
+    {
+      "period": "2020-04",
+      "views": 474923
+    },
+    {
+      "period": "2020-05",
+      "views": 480478
+    },
+    {
+      "period": "2020-06",
+      "views": 347482
+    },
+    {
+      "period": "2020-07",
+      "views": 395096
+    },
+    {
+      "period": "2020-08",
+      "views": 382073
+    },
+    {
+      "period": "2020-09",
+      "views": 417631
+    },
+    {
+      "period": "2020-10",
+      "views": 408356
+    },
+    {
+      "period": "2020-11",
+      "views": 390828
+    },
+    {
+      "period": "2020-12",
+      "views": 408070
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 2835506
+    },
+    {
+      "period": "2020",
+      "views": 4916742
     },
     {
       "period": "2021",

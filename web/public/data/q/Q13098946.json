@@ -4,7 +4,7 @@
   "title": "The_100_(TV_series)",
   "description": "2014 American science fiction television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_100_%28CBS_Studios_television_series%29_logo.svg?width=64",
-  "total": 1853230,
+  "total": 4513363,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,48 @@
     {
       "period": "2015-12",
       "views": 310107
+    },
+    {
+      "period": "2020-04",
+      "views": 23448
+    },
+    {
+      "period": "2020-05",
+      "views": 418765
+    },
+    {
+      "period": "2020-06",
+      "views": 410140
+    },
+    {
+      "period": "2020-07",
+      "views": 470326
+    },
+    {
+      "period": "2020-08",
+      "views": 405368
+    },
+    {
+      "period": "2020-09",
+      "views": 434099
+    },
+    {
+      "period": "2020-10",
+      "views": 474009
+    },
+    {
+      "period": "2020-11",
+      "views": 23978
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1853230
+    },
+    {
+      "period": "2020",
+      "views": 2660133
     }
   ]
 }

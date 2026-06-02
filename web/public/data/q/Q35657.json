@@ -4,8 +4,56 @@
   "title": "U.S._state",
   "description": "constituent political entity of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_USA_with_state_names.svg?width=64",
-  "total": 9606035,
+  "total": 14597656,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 220161
+    },
+    {
+      "period": "2020-02",
+      "views": 378071
+    },
+    {
+      "period": "2020-03",
+      "views": 509093
+    },
+    {
+      "period": "2020-04",
+      "views": 617725
+    },
+    {
+      "period": "2020-05",
+      "views": 453406
+    },
+    {
+      "period": "2020-06",
+      "views": 364442
+    },
+    {
+      "period": "2020-07",
+      "views": 376642
+    },
+    {
+      "period": "2020-08",
+      "views": 424056
+    },
+    {
+      "period": "2020-09",
+      "views": 362154
+    },
+    {
+      "period": "2020-10",
+      "views": 433029
+    },
+    {
+      "period": "2020-11",
+      "views": 595662
+    },
+    {
+      "period": "2020-12",
+      "views": 257180
+    },
     {
       "period": "2021-01",
       "views": 715304
@@ -228,6 +276,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 4991621
+    },
     {
       "period": "2021",
       "views": 3707525

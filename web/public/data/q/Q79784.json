@@ -4,7 +4,7 @@
   "title": "Friends",
   "description": "American sitcom (1994–2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Friends_logo.svg?width=64",
-  "total": 6787065,
+  "total": 10176679,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 362178
+    },
+    {
+      "period": "2020-01",
+      "views": 161822
+    },
+    {
+      "period": "2020-02",
+      "views": 168684
+    },
+    {
+      "period": "2020-03",
+      "views": 301450
+    },
+    {
+      "period": "2020-04",
+      "views": 429482
+    },
+    {
+      "period": "2020-05",
+      "views": 425431
+    },
+    {
+      "period": "2020-06",
+      "views": 332979
+    },
+    {
+      "period": "2020-07",
+      "views": 361094
+    },
+    {
+      "period": "2020-08",
+      "views": 309765
+    },
+    {
+      "period": "2020-09",
+      "views": 338760
+    },
+    {
+      "period": "2020-10",
+      "views": 227376
+    },
+    {
+      "period": "2020-11",
+      "views": 140603
+    },
+    {
+      "period": "2020-12",
+      "views": 192168
     },
     {
       "period": "2021-01",
@@ -131,6 +179,10 @@
     {
       "period": "2015",
       "views": 2433318
+    },
+    {
+      "period": "2020",
+      "views": 3389614
     },
     {
       "period": "2021",

@@ -4,8 +4,28 @@
   "title": "F9_(film)",
   "description": "2021 film directed by Justin Lin",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FastAndFurious9.png?width=64",
-  "total": 8017982,
+  "total": 8160402,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 24947
+    },
+    {
+      "period": "2020-02",
+      "views": 20222
+    },
+    {
+      "period": "2020-03",
+      "views": 62954
+    },
+    {
+      "period": "2020-05",
+      "views": 23182
+    },
+    {
+      "period": "2020-10",
+      "views": 11115
+    },
     {
       "period": "2021-02",
       "views": 71539
@@ -84,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 142420
+    },
     {
       "period": "2021",
       "views": 6975309

@@ -1,0 +1,76 @@
+{
+  "qid": "Q84263196",
+  "label": "COVID-19",
+  "title": "Coronavirus_disease_2019",
+  "description": "contagious disease caused by SARS-CoV-2",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/COVID-19-Longontsteking.jpg?width=64",
+  "total": 18480308,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 462809
+    },
+    {
+      "period": "2020-03",
+      "views": 7375889
+    },
+    {
+      "period": "2020-04",
+      "views": 3098097
+    },
+    {
+      "period": "2020-05",
+      "views": 1419215
+    },
+    {
+      "period": "2020-06",
+      "views": 821052
+    },
+    {
+      "period": "2020-07",
+      "views": 858318
+    },
+    {
+      "period": "2020-08",
+      "views": 580868
+    },
+    {
+      "period": "2020-09",
+      "views": 634911
+    },
+    {
+      "period": "2020-10",
+      "views": 655426
+    },
+    {
+      "period": "2020-11",
+      "views": 641659
+    },
+    {
+      "period": "2020-12",
+      "views": 641923
+    },
+    {
+      "period": "2021-01",
+      "views": 623705
+    },
+    {
+      "period": "2021-02",
+      "views": 396512
+    },
+    {
+      "period": "2021-03",
+      "views": 269924
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 17190167
+    },
+    {
+      "period": "2021",
+      "views": 1290141
+    }
+  ]
+}

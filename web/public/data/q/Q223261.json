@@ -4,11 +4,15 @@
   "title": "Final_Destination",
   "description": "American horror film series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Final_Destination_-_film_franchise_logo.svg?width=64",
-  "total": 2862361,
+  "total": 2873359,
   "monthly": [
     {
       "period": "2015-10",
       "views": 12668
+    },
+    {
+      "period": "2020-10",
+      "views": 10998
     },
     {
       "period": "2021-01",
@@ -55,6 +59,10 @@
     {
       "period": "2015",
       "views": 12668
+    },
+    {
+      "period": "2020",
+      "views": 10998
     },
     {
       "period": "2021",

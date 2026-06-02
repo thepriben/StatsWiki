@@ -4,7 +4,7 @@
   "title": "Eminem",
   "description": "American rapper (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eminem_live_at_D.C._2014_%28cropped%29.jpg?width=64",
-  "total": 34329518,
+  "total": 40331164,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 943988
+    },
+    {
+      "period": "2020-01",
+      "views": 834830
+    },
+    {
+      "period": "2020-02",
+      "views": 794719
+    },
+    {
+      "period": "2020-03",
+      "views": 493426
+    },
+    {
+      "period": "2020-04",
+      "views": 445664
+    },
+    {
+      "period": "2020-05",
+      "views": 480939
+    },
+    {
+      "period": "2020-06",
+      "views": 367306
+    },
+    {
+      "period": "2020-07",
+      "views": 410009
+    },
+    {
+      "period": "2020-08",
+      "views": 383406
+    },
+    {
+      "period": "2020-09",
+      "views": 378807
+    },
+    {
+      "period": "2020-10",
+      "views": 438034
+    },
+    {
+      "period": "2020-11",
+      "views": 380540
+    },
+    {
+      "period": "2020-12",
+      "views": 593966
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 4474053
+    },
+    {
+      "period": "2020",
+      "views": 6001646
     },
     {
       "period": "2021",

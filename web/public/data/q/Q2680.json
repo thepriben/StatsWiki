@@ -4,7 +4,7 @@
   "title": "Bruce_Willis",
   "description": "American actor (born 1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Willis_by_Gage_Skidmore_3.jpg?width=64",
-  "total": 28211312,
+  "total": 29095659,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,42 @@
     {
       "period": "2015-12",
       "views": 58336
+    },
+    {
+      "period": "2020-02",
+      "views": 12503
+    },
+    {
+      "period": "2020-03",
+      "views": 31007
+    },
+    {
+      "period": "2020-04",
+      "views": 369911
+    },
+    {
+      "period": "2020-05",
+      "views": 116868
+    },
+    {
+      "period": "2020-07",
+      "views": 9555
+    },
+    {
+      "period": "2020-08",
+      "views": 32383
+    },
+    {
+      "period": "2020-10",
+      "views": 25205
+    },
+    {
+      "period": "2020-11",
+      "views": 40170
+    },
+    {
+      "period": "2020-12",
+      "views": 246745
     },
     {
       "period": "2021-01",
@@ -275,6 +311,10 @@
     {
       "period": "2015",
       "views": 222297
+    },
+    {
+      "period": "2020",
+      "views": 884347
     },
     {
       "period": "2021",

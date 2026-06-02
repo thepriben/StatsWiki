@@ -4,17 +4,29 @@
   "title": "Kylo_Ren",
   "description": "Star Wars character, former Supreme Leader of the First Order and former King of Naboo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-07-13_10-23-47_ILCE-7C_DSC11675_Kiri_%2853056167973%29.jpg?width=64",
-  "total": 1486272,
+  "total": 1715804,
   "monthly": [
     {
       "period": "2015-12",
       "views": 1486272
+    },
+    {
+      "period": "2020-01",
+      "views": 200576
+    },
+    {
+      "period": "2020-05",
+      "views": 28956
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1486272
+    },
+    {
+      "period": "2020",
+      "views": 229532
     }
   ]
 }

@@ -4,8 +4,32 @@
   "title": "Brigitte_Macron",
   "description": "French teacher, spouse of French statesman Emmanuel Macron",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brigitte_Macron_2024_%281%29.jpg?width=64",
-  "total": 6944231,
+  "total": 7380282,
   "monthly": [
+    {
+      "period": "2020-03",
+      "views": 9156
+    },
+    {
+      "period": "2020-08",
+      "views": 12401
+    },
+    {
+      "period": "2020-09",
+      "views": 12153
+    },
+    {
+      "period": "2020-10",
+      "views": 233511
+    },
+    {
+      "period": "2020-11",
+      "views": 65142
+    },
+    {
+      "period": "2020-12",
+      "views": 103688
+    },
     {
       "period": "2021-04",
       "views": 39816
@@ -156,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 436051
+    },
     {
       "period": "2021",
       "views": 154402

@@ -4,8 +4,56 @@
   "title": "Bible",
   "description": "collection of sacred books in Judaism and Christianity",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64",
-  "total": 65126296,
+  "total": 107115736,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 252655
+    },
+    {
+      "period": "2020-02",
+      "views": 1099334
+    },
+    {
+      "period": "2020-03",
+      "views": 2042060
+    },
+    {
+      "period": "2020-04",
+      "views": 3501076
+    },
+    {
+      "period": "2020-05",
+      "views": 5211253
+    },
+    {
+      "period": "2020-06",
+      "views": 4517876
+    },
+    {
+      "period": "2020-07",
+      "views": 4925131
+    },
+    {
+      "period": "2020-08",
+      "views": 4419546
+    },
+    {
+      "period": "2020-09",
+      "views": 3096388
+    },
+    {
+      "period": "2020-10",
+      "views": 4954041
+    },
+    {
+      "period": "2020-11",
+      "views": 4807214
+    },
+    {
+      "period": "2020-12",
+      "views": 3162866
+    },
     {
       "period": "2021-01",
       "views": 4266765
@@ -100,6 +148,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 41989440
+    },
     {
       "period": "2021",
       "views": 44653611

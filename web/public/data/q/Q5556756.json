@@ -4,8 +4,44 @@
   "title": "Ghislaine_Maxwell",
   "description": "British socialite and sex trafficker, daughter of Robert Maxwell, accomplice of Jeffrey Epstein",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine_Maxwell_MDC_mug_shot_%28cropped%29.webp?width=64",
-  "total": 16361123,
+  "total": 22989372,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 148763
+    },
+    {
+      "period": "2020-05",
+      "views": 589371
+    },
+    {
+      "period": "2020-06",
+      "views": 1744414
+    },
+    {
+      "period": "2020-07",
+      "views": 3474176
+    },
+    {
+      "period": "2020-08",
+      "views": 506327
+    },
+    {
+      "period": "2020-09",
+      "views": 10143
+    },
+    {
+      "period": "2020-10",
+      "views": 59593
+    },
+    {
+      "period": "2020-11",
+      "views": 27042
+    },
+    {
+      "period": "2020-12",
+      "views": 68420
+    },
     {
       "period": "2021-01",
       "views": 23525
@@ -188,6 +224,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 6628249
+    },
     {
       "period": "2021",
       "views": 2183124

@@ -4,7 +4,7 @@
   "title": "Saudi_Arabia",
   "description": "country in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arabian_Desert.jpg?width=64",
-  "total": 15557459,
+  "total": 16110008,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,34 @@
     {
       "period": "2015-12",
       "views": 292101
+    },
+    {
+      "period": "2020-01",
+      "views": 201285
+    },
+    {
+      "period": "2020-02",
+      "views": 18619
+    },
+    {
+      "period": "2020-03",
+      "views": 101448
+    },
+    {
+      "period": "2020-04",
+      "views": 127744
+    },
+    {
+      "period": "2020-05",
+      "views": 22422
+    },
+    {
+      "period": "2020-08",
+      "views": 28696
+    },
+    {
+      "period": "2020-09",
+      "views": 52335
     },
     {
       "period": "2021-02",
@@ -283,6 +311,10 @@
     {
       "period": "2015",
       "views": 1777952
+    },
+    {
+      "period": "2020",
+      "views": 552549
     },
     {
       "period": "2021",

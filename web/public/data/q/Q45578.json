@@ -4,8 +4,44 @@
   "title": "2008_United_States_presidential_election",
   "description": "56th quadrennial U.S. presidential election",
   "image": "",
-  "total": 4559197,
+  "total": 9976455,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 45107
+    },
+    {
+      "period": "2020-03",
+      "views": 93386
+    },
+    {
+      "period": "2020-06",
+      "views": 108374
+    },
+    {
+      "period": "2020-07",
+      "views": 30457
+    },
+    {
+      "period": "2020-08",
+      "views": 272629
+    },
+    {
+      "period": "2020-09",
+      "views": 340698
+    },
+    {
+      "period": "2020-10",
+      "views": 892149
+    },
+    {
+      "period": "2020-11",
+      "views": 3396339
+    },
+    {
+      "period": "2020-12",
+      "views": 238119
+    },
     {
       "period": "2021-01",
       "views": 337167
@@ -56,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 5417258
+    },
     {
       "period": "2021",
       "views": 337167

@@ -4,8 +4,12 @@
   "title": "Rule_34",
   "description": "internet meme that states that internet pornography exists concerning every conceivable topic",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nude_Mirai_Suenaga_20101218_2.jpg?width=64",
-  "total": 5602570,
+  "total": 5616309,
   "monthly": [
+    {
+      "period": "2020-10",
+      "views": 13739
+    },
     {
       "period": "2021-01",
       "views": 24013
@@ -132,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 13739
+    },
     {
       "period": "2021",
       "views": 194352

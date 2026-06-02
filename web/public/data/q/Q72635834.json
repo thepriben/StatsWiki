@@ -4,8 +4,32 @@
   "title": "2021_Formula_One_World_Championship",
   "description": "72nd running of the Formula One World Championship",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F1_2021.svg?width=64",
-  "total": 7889303,
+  "total": 8532857,
   "monthly": [
+    {
+      "period": "2020-05",
+      "views": 25708
+    },
+    {
+      "period": "2020-07",
+      "views": 19324
+    },
+    {
+      "period": "2020-09",
+      "views": 89924
+    },
+    {
+      "period": "2020-10",
+      "views": 24865
+    },
+    {
+      "period": "2020-11",
+      "views": 67548
+    },
+    {
+      "period": "2020-12",
+      "views": 416185
+    },
     {
       "period": "2021-01",
       "views": 53759
@@ -92,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 643554
+    },
     {
       "period": "2021",
       "views": 7069224

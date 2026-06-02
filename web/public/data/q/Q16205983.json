@@ -4,7 +4,7 @@
   "title": "Radhe_Maa",
   "description": "Indian Hindu guru",
   "image": "",
-  "total": 829912,
+  "total": 881922,
   "monthly": [
     {
       "period": "2015-08",
@@ -13,12 +13,20 @@
     {
       "period": "2015-09",
       "views": 37362
+    },
+    {
+      "period": "2020-10",
+      "views": 52010
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 829912
+    },
+    {
+      "period": "2020",
+      "views": 52010
     }
   ]
 }

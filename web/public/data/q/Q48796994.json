@@ -4,8 +4,80 @@
   "title": "The_Boys_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Boys_TV_series_logo.svg?width=64",
-  "total": 18668089,
+  "total": 28688748,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 61334
+    },
+    {
+      "period": "2020-03",
+      "views": 29922
+    },
+    {
+      "period": "2020-06",
+      "views": 65988
+    },
+    {
+      "period": "2020-07",
+      "views": 512029
+    },
+    {
+      "period": "2020-08",
+      "views": 613956
+    },
+    {
+      "period": "2020-09",
+      "views": 3076098
+    },
+    {
+      "period": "2020-10",
+      "views": 2498323
+    },
+    {
+      "period": "2020-11",
+      "views": 679965
+    },
+    {
+      "period": "2020-12",
+      "views": 472034
+    },
+    {
+      "period": "2021-01",
+      "views": 461328
+    },
+    {
+      "period": "2021-02",
+      "views": 223188
+    },
+    {
+      "period": "2021-03",
+      "views": 328119
+    },
+    {
+      "period": "2021-04",
+      "views": 236903
+    },
+    {
+      "period": "2021-05",
+      "views": 341332
+    },
+    {
+      "period": "2021-06",
+      "views": 248067
+    },
+    {
+      "period": "2021-07",
+      "views": 92126
+    },
+    {
+      "period": "2021-09",
+      "views": 41403
+    },
+    {
+      "period": "2022-01",
+      "views": 38544
+    },
     {
       "period": "2022-03",
       "views": 122973
@@ -153,8 +225,16 @@
   ],
   "yearly": [
     {
+      "period": "2020",
+      "views": 8009649
+    },
+    {
+      "period": "2021",
+      "views": 1972466
+    },
+    {
       "period": "2022",
-      "views": 7417347
+      "views": 7455891
     },
     {
       "period": "2023",

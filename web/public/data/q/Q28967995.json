@@ -4,8 +4,24 @@
   "title": "Erling_Haaland",
   "description": "Norwegian association football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erling_Haaland_June_2025.jpg?width=64",
-  "total": 22191360,
+  "total": 22726331,
   "monthly": [
+    {
+      "period": "2020-06",
+      "views": 29519
+    },
+    {
+      "period": "2020-09",
+      "views": 91229
+    },
+    {
+      "period": "2020-10",
+      "views": 145640
+    },
+    {
+      "period": "2020-11",
+      "views": 268583
+    },
     {
       "period": "2021-01",
       "views": 71225
@@ -264,6 +280,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 534971
+    },
     {
       "period": "2021",
       "views": 3148905

@@ -4,8 +4,16 @@
   "title": "The_Three-Body_Problem_(novel)",
   "description": "science fiction novel by Liu Cixin",
   "image": "",
-  "total": 5040098,
+  "total": 5215862,
   "monthly": [
+    {
+      "period": "2020-09",
+      "views": 130866
+    },
+    {
+      "period": "2020-12",
+      "views": 44898
+    },
     {
       "period": "2021-04",
       "views": 14298
@@ -56,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 175764
+    },
     {
       "period": "2021",
       "views": 24632

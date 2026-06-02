@@ -4,7 +4,7 @@
   "title": "Elon_Musk",
   "description": "businessman and entrepreneur (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64",
-  "total": 106995568,
+  "total": 127525295,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 801368
+    },
+    {
+      "period": "2020-01",
+      "views": 1161639
+    },
+    {
+      "period": "2020-02",
+      "views": 993314
+    },
+    {
+      "period": "2020-03",
+      "views": 825978
+    },
+    {
+      "period": "2020-04",
+      "views": 877873
+    },
+    {
+      "period": "2020-05",
+      "views": 6184913
+    },
+    {
+      "period": "2020-06",
+      "views": 1897706
+    },
+    {
+      "period": "2020-07",
+      "views": 1766833
+    },
+    {
+      "period": "2020-08",
+      "views": 1945787
+    },
+    {
+      "period": "2020-09",
+      "views": 1174604
+    },
+    {
+      "period": "2020-10",
+      "views": 825428
+    },
+    {
+      "period": "2020-11",
+      "views": 1415860
+    },
+    {
+      "period": "2020-12",
+      "views": 1459792
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 3408974
+    },
+    {
+      "period": "2020",
+      "views": 20529727
     },
     {
       "period": "2021",

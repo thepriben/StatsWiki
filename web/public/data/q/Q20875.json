@@ -4,7 +4,7 @@
   "title": "Edward_VII",
   "description": "King of the United Kingdom from 1901 to 1910",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King-Edward-VII_%28cropped%29.jpg?width=64",
-  "total": 11397826,
+  "total": 13550766,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,6 +17,50 @@
     {
       "period": "2015-09",
       "views": 36935
+    },
+    {
+      "period": "2020-01",
+      "views": 419096
+    },
+    {
+      "period": "2020-02",
+      "views": 68284
+    },
+    {
+      "period": "2020-03",
+      "views": 40974
+    },
+    {
+      "period": "2020-04",
+      "views": 261365
+    },
+    {
+      "period": "2020-05",
+      "views": 156894
+    },
+    {
+      "period": "2020-06",
+      "views": 45074
+    },
+    {
+      "period": "2020-07",
+      "views": 90495
+    },
+    {
+      "period": "2020-08",
+      "views": 72012
+    },
+    {
+      "period": "2020-10",
+      "views": 11998
+    },
+    {
+      "period": "2020-11",
+      "views": 485092
+    },
+    {
+      "period": "2020-12",
+      "views": 501656
     },
     {
       "period": "2021-01",
@@ -239,6 +283,10 @@
     {
       "period": "2015",
       "views": 57206
+    },
+    {
+      "period": "2020",
+      "views": 2152940
     },
     {
       "period": "2021",

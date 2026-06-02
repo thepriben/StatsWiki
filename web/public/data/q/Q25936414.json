@@ -4,8 +4,52 @@
   "title": "Millie_Bobby_Brown",
   "description": "British actress (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Millie_Bobby_Brown_-_MBB_-_4_-_SFM5_-_July_10%2C_2022_at_Stranger_Fan_Meet_5_People_Convention_%28cropped%29.jpg?width=64",
-  "total": 28242895,
+  "total": 31603700,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 103350
+    },
+    {
+      "period": "2020-02",
+      "views": 87317
+    },
+    {
+      "period": "2020-03",
+      "views": 9843
+    },
+    {
+      "period": "2020-04",
+      "views": 37345
+    },
+    {
+      "period": "2020-06",
+      "views": 57029
+    },
+    {
+      "period": "2020-07",
+      "views": 48894
+    },
+    {
+      "period": "2020-08",
+      "views": 172215
+    },
+    {
+      "period": "2020-09",
+      "views": 1426424
+    },
+    {
+      "period": "2020-10",
+      "views": 898343
+    },
+    {
+      "period": "2020-11",
+      "views": 308431
+    },
+    {
+      "period": "2020-12",
+      "views": 211614
+    },
     {
       "period": "2021-01",
       "views": 326670
@@ -260,6 +304,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 3360805
+    },
     {
       "period": "2021",
       "views": 2243671

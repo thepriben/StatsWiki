@@ -4,8 +4,24 @@
   "title": "Les_Wexner",
   "description": "American businessman (1937-present)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leslie_Wexner_receives_woodrow_wilson_award_%28cropped2%29.JPG?width=64",
-  "total": 2043167,
+  "total": 2414200,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 9328
+    },
+    {
+      "period": "2020-05",
+      "views": 114821
+    },
+    {
+      "period": "2020-06",
+      "views": 198621
+    },
+    {
+      "period": "2020-07",
+      "views": 48263
+    },
     {
       "period": "2021-12",
       "views": 11102
@@ -48,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 371033
+    },
     {
       "period": "2021",
       "views": 11102

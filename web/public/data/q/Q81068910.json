@@ -1,11 +1,59 @@
 {
   "qid": "Q81068910",
   "label": "COVID-19 pandemic",
-  "title": "COVID-19_pandemic",
+  "title": "2019–20_coronavirus_pandemic",
   "description": "pandemic caused by SARS-CoV-2 (2019–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?width=64",
-  "total": 14679124,
+  "total": 87724612,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 2725806
+    },
+    {
+      "period": "2020-02",
+      "views": 7448719
+    },
+    {
+      "period": "2020-03",
+      "views": 29686301
+    },
+    {
+      "period": "2020-04",
+      "views": 13835243
+    },
+    {
+      "period": "2020-05",
+      "views": 6369691
+    },
+    {
+      "period": "2020-06",
+      "views": 3669538
+    },
+    {
+      "period": "2020-07",
+      "views": 3198754
+    },
+    {
+      "period": "2020-08",
+      "views": 1395108
+    },
+    {
+      "period": "2020-09",
+      "views": 1337692
+    },
+    {
+      "period": "2020-10",
+      "views": 1220477
+    },
+    {
+      "period": "2020-11",
+      "views": 1046952
+    },
+    {
+      "period": "2020-12",
+      "views": 1111207
+    },
     {
       "period": "2021-01",
       "views": 1216139
@@ -164,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 73045488
+    },
     {
       "period": "2021",
       "views": 9912049

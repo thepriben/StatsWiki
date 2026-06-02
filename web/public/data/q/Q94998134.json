@@ -4,8 +4,36 @@
   "title": "Zack_Snyder's_Justice_League",
   "description": "2021 film by Zack Snyder",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_Zack_Snyder%C2%B4s_Justice_League.png?width=64",
-  "total": 9398119,
+  "total": 10070211,
   "monthly": [
+    {
+      "period": "2020-05",
+      "views": 104711
+    },
+    {
+      "period": "2020-06",
+      "views": 44107
+    },
+    {
+      "period": "2020-07",
+      "views": 28699
+    },
+    {
+      "period": "2020-08",
+      "views": 344793
+    },
+    {
+      "period": "2020-10",
+      "views": 14811
+    },
+    {
+      "period": "2020-11",
+      "views": 47778
+    },
+    {
+      "period": "2020-12",
+      "views": 87193
+    },
     {
       "period": "2021-01",
       "views": 146468
@@ -56,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 672092
+    },
     {
       "period": "2021",
       "views": 9210348

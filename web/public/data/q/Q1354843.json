@@ -4,8 +4,40 @@
   "title": "Machine_Gun_Kelly_(musician)",
   "description": "American musician (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Machine_Gun_Kelly_%28rapper%29_03.jpg?width=64",
-  "total": 8222316,
+  "total": 10885304,
   "monthly": [
+    {
+      "period": "2020-05",
+      "views": 279451
+    },
+    {
+      "period": "2020-06",
+      "views": 226910
+    },
+    {
+      "period": "2020-07",
+      "views": 274943
+    },
+    {
+      "period": "2020-08",
+      "views": 539492
+    },
+    {
+      "period": "2020-09",
+      "views": 540792
+    },
+    {
+      "period": "2020-10",
+      "views": 360755
+    },
+    {
+      "period": "2020-11",
+      "views": 313963
+    },
+    {
+      "period": "2020-12",
+      "views": 126682
+    },
     {
       "period": "2021-01",
       "views": 468735
@@ -156,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 2662988
+    },
     {
       "period": "2021",
       "views": 4271687

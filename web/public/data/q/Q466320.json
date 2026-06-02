@@ -4,8 +4,12 @@
   "title": "Mira_Nair",
   "description": "Indian-American filmmaker (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mira_Nair.jpg?width=64",
-  "total": 4972098,
+  "total": 4984738,
   "monthly": [
+    {
+      "period": "2020-04",
+      "views": 12640
+    },
     {
       "period": "2025-06",
       "views": 1502840
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 12640
+    },
     {
       "period": "2025",
       "views": 4509308

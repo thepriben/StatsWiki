@@ -4,7 +4,7 @@
   "title": "XXX",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 30212682,
+  "total": 33269819,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,42 @@
     {
       "period": "2015-12",
       "views": 722564
+    },
+    {
+      "period": "2020-02",
+      "views": 9426
+    },
+    {
+      "period": "2020-03",
+      "views": 91380
+    },
+    {
+      "period": "2020-05",
+      "views": 10812
+    },
+    {
+      "period": "2020-07",
+      "views": 88398
+    },
+    {
+      "period": "2020-08",
+      "views": 215302
+    },
+    {
+      "period": "2020-09",
+      "views": 828285
+    },
+    {
+      "period": "2020-10",
+      "views": 528308
+    },
+    {
+      "period": "2020-11",
+      "views": 724232
+    },
+    {
+      "period": "2020-12",
+      "views": 560994
     },
     {
       "period": "2021-01",
@@ -271,6 +307,10 @@
     {
       "period": "2015",
       "views": 3225481
+    },
+    {
+      "period": "2020",
+      "views": 3057137
     },
     {
       "period": "2021",

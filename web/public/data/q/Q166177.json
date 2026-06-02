@@ -4,8 +4,32 @@
   "title": "Ballon_d'Or",
   "description": "annual association football award",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FigoBallond%27Or2000_%28cropped%29.jpg?width=64",
-  "total": 8379342,
+  "total": 8628194,
   "monthly": [
+    {
+      "period": "2020-05",
+      "views": 34908
+    },
+    {
+      "period": "2020-06",
+      "views": 9922
+    },
+    {
+      "period": "2020-07",
+      "views": 37835
+    },
+    {
+      "period": "2020-08",
+      "views": 32382
+    },
+    {
+      "period": "2020-11",
+      "views": 23863
+    },
+    {
+      "period": "2020-12",
+      "views": 109942
+    },
     {
       "period": "2021-05",
       "views": 57616
@@ -164,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 248852
+    },
     {
       "period": "2021",
       "views": 2597542

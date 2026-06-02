@@ -4,8 +4,56 @@
   "title": "HTTP_cookie",
   "description": "small piece of data sent from a website and stored on the user's computer by the user's web browser",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internetcookie.png?width=64",
-  "total": 10872690,
+  "total": 14929860,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 238367
+    },
+    {
+      "period": "2020-02",
+      "views": 186267
+    },
+    {
+      "period": "2020-03",
+      "views": 501530
+    },
+    {
+      "period": "2020-04",
+      "views": 309525
+    },
+    {
+      "period": "2020-05",
+      "views": 263749
+    },
+    {
+      "period": "2020-06",
+      "views": 256787
+    },
+    {
+      "period": "2020-07",
+      "views": 312796
+    },
+    {
+      "period": "2020-08",
+      "views": 535435
+    },
+    {
+      "period": "2020-09",
+      "views": 653028
+    },
+    {
+      "period": "2020-10",
+      "views": 440998
+    },
+    {
+      "period": "2020-11",
+      "views": 226999
+    },
+    {
+      "period": "2020-12",
+      "views": 131689
+    },
     {
       "period": "2021-01",
       "views": 446458
@@ -264,6 +312,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 4057170
+    },
     {
       "period": "2021",
       "views": 3229952

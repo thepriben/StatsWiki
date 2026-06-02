@@ -4,7 +4,7 @@
   "title": "The_Pirate_Bay",
   "description": "BitTorrent search engine and magnet link provider",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Capture_d%E2%80%99%C3%A9cran_de_ThePirateBay.org_2020.png?width=64",
-  "total": 28140771,
+  "total": 35284113,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,6 +25,54 @@
     {
       "period": "2015-12",
       "views": 34374
+    },
+    {
+      "period": "2020-01",
+      "views": 264686
+    },
+    {
+      "period": "2020-02",
+      "views": 444662
+    },
+    {
+      "period": "2020-03",
+      "views": 754970
+    },
+    {
+      "period": "2020-04",
+      "views": 722655
+    },
+    {
+      "period": "2020-05",
+      "views": 788428
+    },
+    {
+      "period": "2020-06",
+      "views": 546266
+    },
+    {
+      "period": "2020-07",
+      "views": 501332
+    },
+    {
+      "period": "2020-08",
+      "views": 476778
+    },
+    {
+      "period": "2020-09",
+      "views": 552897
+    },
+    {
+      "period": "2020-10",
+      "views": 570411
+    },
+    {
+      "period": "2020-11",
+      "views": 645760
+    },
+    {
+      "period": "2020-12",
+      "views": 874497
     },
     {
       "period": "2021-01",
@@ -283,6 +331,10 @@
     {
       "period": "2015",
       "views": 214078
+    },
+    {
+      "period": "2020",
+      "views": 7143342
     },
     {
       "period": "2021",

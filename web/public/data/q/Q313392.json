@@ -4,8 +4,16 @@
   "title": "James_Van_Der_Beek",
   "description": "American actor (1977–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JamesVanDerBeekSept2013TIFF.jpg?width=64",
-  "total": 6013607,
+  "total": 6059229,
   "monthly": [
+    {
+      "period": "2020-06",
+      "views": 18385
+    },
+    {
+      "period": "2020-10",
+      "views": 27237
+    },
     {
       "period": "2021-11",
       "views": 15539
@@ -72,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 45622
+    },
     {
       "period": "2021",
       "views": 15539

@@ -4,8 +4,20 @@
   "title": "CEO",
   "description": "highest-ranking corporate officer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Fortune_500_CEOs_in_2015_%28cropped_to_remove_non-CEO%29.jpg?width=64",
-  "total": 24165506,
+  "total": 26980943,
   "monthly": [
+    {
+      "period": "2020-10",
+      "views": 796754
+    },
+    {
+      "period": "2020-11",
+      "views": 979190
+    },
+    {
+      "period": "2020-12",
+      "views": 1039493
+    },
     {
       "period": "2021-01",
       "views": 591434
@@ -100,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 2815437
+    },
     {
       "period": "2021",
       "views": 7717752

@@ -4,8 +4,44 @@
   "title": "2012_United_States_presidential_election",
   "description": "57th quadrennial U.S. presidential election",
   "image": "",
-  "total": 4628738,
+  "total": 10776072,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 116986
+    },
+    {
+      "period": "2020-03",
+      "views": 111080
+    },
+    {
+      "period": "2020-06",
+      "views": 219648
+    },
+    {
+      "period": "2020-07",
+      "views": 142166
+    },
+    {
+      "period": "2020-08",
+      "views": 335335
+    },
+    {
+      "period": "2020-09",
+      "views": 425954
+    },
+    {
+      "period": "2020-10",
+      "views": 995151
+    },
+    {
+      "period": "2020-11",
+      "views": 3533240
+    },
+    {
+      "period": "2020-12",
+      "views": 267774
+    },
     {
       "period": "2021-01",
       "views": 384651
@@ -60,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 6147334
+    },
     {
       "period": "2021",
       "views": 384651

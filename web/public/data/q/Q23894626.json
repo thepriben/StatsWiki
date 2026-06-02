@@ -4,8 +4,16 @@
   "title": "Black_Widow_(2021_film)",
   "description": "2021 film by Cate Shortland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Widow.svg?width=64",
-  "total": 10536674,
+  "total": 10574214,
   "monthly": [
+    {
+      "period": "2020-09",
+      "views": 23516
+    },
+    {
+      "period": "2020-12",
+      "views": 14024
+    },
     {
       "period": "2021-01",
       "views": 45858
@@ -80,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 37540
+    },
     {
       "period": "2021",
       "views": 10066205

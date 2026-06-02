@@ -4,7 +4,7 @@
   "title": "Australia",
   "description": "country in Oceania",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Australia_satellite_plane.jpg?width=64",
-  "total": 35462050,
+  "total": 41572945,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 494534
+    },
+    {
+      "period": "2020-01",
+      "views": 829906
+    },
+    {
+      "period": "2020-02",
+      "views": 415338
+    },
+    {
+      "period": "2020-03",
+      "views": 500012
+    },
+    {
+      "period": "2020-04",
+      "views": 580273
+    },
+    {
+      "period": "2020-05",
+      "views": 553892
+    },
+    {
+      "period": "2020-06",
+      "views": 440081
+    },
+    {
+      "period": "2020-07",
+      "views": 442665
+    },
+    {
+      "period": "2020-08",
+      "views": 405405
+    },
+    {
+      "period": "2020-09",
+      "views": 450200
+    },
+    {
+      "period": "2020-10",
+      "views": 437249
+    },
+    {
+      "period": "2020-11",
+      "views": 578986
+    },
+    {
+      "period": "2020-12",
+      "views": 476888
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 3288263
+    },
+    {
+      "period": "2020",
+      "views": 6110895
     },
     {
       "period": "2021",

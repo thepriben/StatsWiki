@@ -1,0 +1,455 @@
+{
+  "period": "10 June 2020",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "George_Floyd",
+      "label": "George Floyd",
+      "description": "",
+      "views": 354590,
+      "qid": "Q_en_George_Floyd",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "Capitol_Hill_Autonomous_Zone",
+      "label": "Capitol Hill Autonomous Zone",
+      "description": "",
+      "views": 152682,
+      "qid": "Q_en_Capitol_Hill_Autonomous_Zone",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 152497,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Chiranjeevi_Sarja",
+      "label": "Chiranjeevi Sarja",
+      "description": "",
+      "views": 148718,
+      "qid": "Q_en_Chiranjeevi_Sarja",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "COVID-19_pandemic",
+      "label": "COVID-19 pandemic",
+      "description": "pandemic caused by SARS-CoV-2 (2019–2023)",
+      "views": 137296,
+      "qid": "Q81068910",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Renee_Gracie",
+      "label": "Renee Gracie",
+      "description": "",
+      "views": 137128,
+      "qid": "Q_en_Renee_Gracie",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Killing_of_George_Floyd",
+      "label": "Killing of George Floyd",
+      "description": "",
+      "views": 130190,
+      "qid": "Q_en_Killing_of_George_Floyd",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Jeffrey_Epstein",
+      "label": "Jeffrey Epstein",
+      "description": "American financier and sex offender (1953–2019)",
+      "views": 129995,
+      "qid": "Q2904131",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "365_Dni",
+      "label": "365 Dni",
+      "description": "",
+      "views": 119360,
+      "qid": "Q_en_365_Dni",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Antifa_(United_States)",
+      "label": "Antifa movements in the United States",
+      "description": "Left-wing political movement",
+      "views": 117077,
+      "qid": "Q37093861",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Deaths_in_2020",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 109677,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Shooting_of_Breonna_Taylor",
+      "label": "shooting of Breonna Taylor",
+      "description": "shooting during a drug raid in Louisville, Kentucky, United States",
+      "views": 109069,
+      "qid": "Q95721899",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Christopher_Columbus",
+      "label": "Christopher Columbus",
+      "description": "Italian navigator, explorer, and colonist (1451–1506)",
+      "views": 105454,
+      "qid": "Q7322",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Tulsa_race_massacre",
+      "label": "Tulsa race massacre",
+      "description": "",
+      "views": 104819,
+      "qid": "Q_en_Tulsa_race_massacre",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Candace_Owens",
+      "label": "Candace Owens",
+      "description": "American political commentator (born 1989)",
+      "views": 104731,
+      "qid": "Q43302090",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Candace_Owens_%2853805331465%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Gone_with_the_Wind_(film)",
+      "label": "Gone with the Wind (film)",
+      "description": "",
+      "views": 103030,
+      "qid": "Q_en_Gone_with_the_Wind_(film)",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Black_Lives_Matter",
+      "label": "Black Lives Matter",
+      "description": "",
+      "views": 101507,
+      "qid": "Q_en_Black_Lives_Matter",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Meghana_Raj",
+      "label": "Meghana Raj",
+      "description": "",
+      "views": 99896,
+      "qid": "Q_en_Meghana_Raj",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Pizzagate_conspiracy_theory",
+      "label": "Pizzagate",
+      "description": "US-american right-wing conspiracy theory",
+      "views": 96165,
+      "qid": "Q27970888",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizzagate_02aIMG_8514.jpg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Juneteenth",
+      "label": "Juneteenth",
+      "description": "holiday commemorating the emancipation of enslaved African Americans in Texas on June 19, 1865",
+      "views": 95468,
+      "qid": "Q6312521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emancipation_Day_celebration_-_1900-06-19.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Edward_Colston",
+      "label": "Edward Colston",
+      "description": "",
+      "views": 94771,
+      "qid": "Q_en_Edward_Colston",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "1838",
+      "label": "1838",
+      "description": "",
+      "views": 91730,
+      "qid": "Q_en_1838",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Prince_Philip,_Duke_of_Edinburgh",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "description": "consort of Elizabeth II from 1952 to 2021",
+      "views": 90592,
+      "qid": "Q80976",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_of_Edinburgh_33_Allan_Warren.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "13_Reasons_Why",
+      "label": "13 Reasons Why",
+      "description": "",
+      "views": 79190,
+      "qid": "Q_en_13_Reasons_Why",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Robert_Milligan_(merchant)",
+      "label": "Robert Milligan (merchant)",
+      "description": "",
+      "views": 76179,
+      "qid": "Q_en_Robert_Milligan_(merchant)",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Harry_Chapin",
+      "label": "Harry Chapin",
+      "description": "",
+      "views": 75444,
+      "qid": "Q_en_Harry_Chapin",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "J._Anbazhagan",
+      "label": "J. Anbazhagan",
+      "description": "",
+      "views": 74514,
+      "qid": "Q_en_J._Anbazhagan",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Leopold_II_of_Belgium",
+      "label": "Leopold II of Belgium",
+      "description": "",
+      "views": 73258,
+      "qid": "Q_en_Leopold_II_of_Belgium",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "UFC_251",
+      "label": "UFC 251",
+      "description": "",
+      "views": 71170,
+      "qid": "Q_en_UFC_251",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Ghislaine_Maxwell",
+      "label": "Ghislaine Maxwell",
+      "description": "British socialite and sex trafficker, daughter of Robert Maxwell, accomplice of Jeffrey Epstein",
+      "views": 70305,
+      "qid": "Q5556756",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine_Maxwell_MDC_mug_shot_%28cropped%29.webp?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Reggie_Bush",
+      "label": "Reggie Bush",
+      "description": "",
+      "views": 70220,
+      "qid": "Q_en_Reggie_Bush",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Olof_Palme",
+      "label": "Olof Palme",
+      "description": "",
+      "views": 68005,
+      "qid": "Q_en_Olof_Palme",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Pierre_Nkurunziza",
+      "label": "Pierre Nkurunziza",
+      "description": "",
+      "views": 67486,
+      "qid": "Q_en_Pierre_Nkurunziza",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 66889,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "F5_Networks",
+      "label": "F5, Inc.",
+      "description": "Multi-cloud cybersecurity and application delivery company",
+      "views": 66602,
+      "qid": "Q3029296",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F5_Tower_-_July_2017.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "The_Skandia_man",
+      "label": "The Skandia man",
+      "description": "",
+      "views": 66457,
+      "qid": "Q_en_The_Skandia_man",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Cecil_Rhodes",
+      "label": "Cecil Rhodes",
+      "description": "",
+      "views": 63422,
+      "qid": "Q_en_Cecil_Rhodes",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Hattie_McDaniel",
+      "label": "Hattie McDaniel",
+      "description": "",
+      "views": 63189,
+      "qid": "Q_en_Hattie_McDaniel",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 63082,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 61686,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "George_Floyd_protests",
+      "label": "George Floyd protests",
+      "description": "",
+      "views": 61048,
+      "qid": "Q_en_George_Floyd_protests",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Bruce_Lee",
+      "label": "Bruce Lee",
+      "description": "Hong Kong–American martial artist and actor (1940–1973)",
+      "views": 60311,
+      "qid": "Q16397",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Lee_1973_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Chyler_Leigh",
+      "label": "Chyler Leigh",
+      "description": "",
+      "views": 58721,
+      "qid": "Q_en_Chyler_Leigh",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Ku_Klux_Klan",
+      "label": "Ku Klux Klan",
+      "description": "American white supremacist hate group",
+      "views": 57818,
+      "qid": "Q47131",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ku_Klux_Klan_Virginia_1922_Parade.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Bubba_Wallace",
+      "label": "Bubba Wallace",
+      "description": "",
+      "views": 57549,
+      "qid": "Q_en_Bubba_Wallace",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Shooting_of_Daniel_Shaver",
+      "label": "Shooting of Daniel Shaver",
+      "description": "",
+      "views": 54621,
+      "qid": "Q_en_Shooting_of_Daniel_Shaver",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Arjun_Sarja",
+      "label": "Arjun Sarja",
+      "description": "",
+      "views": 54178,
+      "qid": "Q_en_Arjun_Sarja",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Flags_of_the_Confederate_States_of_America",
+      "label": "flags of the Confederate States of America",
+      "description": "flags used in the Confederate States",
+      "views": 54027,
+      "qid": "Q913583",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Michael_Jordan",
+      "label": "Michael Jordan",
+      "description": "American basketball player and businessman (born 1963)",
+      "views": 53813,
+      "qid": "Q41421",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jordan.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "George_Soros",
+      "label": "George Soros",
+      "description": "Hungarian-American investor and philanthropist (born 1930)",
+      "views": 53277,
+      "qid": "Q12908",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Soros_-_May_31%2C_2017.jpg?width=64"
+    }
+  ]
+}

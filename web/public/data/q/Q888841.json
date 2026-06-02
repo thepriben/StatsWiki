@@ -4,7 +4,7 @@
   "title": "Hannibal_(TV_series)",
   "description": "2013–2015 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannibal_%28Chiswick_Productions%29_official_production_logo.svg?width=64",
-  "total": 1270932,
+  "total": 1943182,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,28 @@
     {
       "period": "2015-09",
       "views": 177376
+    },
+    {
+      "period": "2020-06",
+      "views": 380797
+    },
+    {
+      "period": "2020-07",
+      "views": 251583
+    },
+    {
+      "period": "2020-08",
+      "views": 39870
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1270932
+    },
+    {
+      "period": "2020",
+      "views": 672250
     }
   ]
 }

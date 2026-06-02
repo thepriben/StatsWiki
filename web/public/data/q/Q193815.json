@@ -4,7 +4,7 @@
   "title": "Ryan_Gosling",
   "description": "Canadian actor and musician (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg?width=64",
-  "total": 23392925,
+  "total": 24535474,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 261673
+    },
+    {
+      "period": "2020-01",
+      "views": 23189
+    },
+    {
+      "period": "2020-02",
+      "views": 172372
+    },
+    {
+      "period": "2020-03",
+      "views": 60187
+    },
+    {
+      "period": "2020-04",
+      "views": 191762
+    },
+    {
+      "period": "2020-05",
+      "views": 193942
+    },
+    {
+      "period": "2020-06",
+      "views": 33946
+    },
+    {
+      "period": "2020-07",
+      "views": 81209
+    },
+    {
+      "period": "2020-08",
+      "views": 75762
+    },
+    {
+      "period": "2020-09",
+      "views": 28634
+    },
+    {
+      "period": "2020-10",
+      "views": 138521
+    },
+    {
+      "period": "2020-11",
+      "views": 61955
+    },
+    {
+      "period": "2020-12",
+      "views": 81070
     },
     {
       "period": "2021-01",
@@ -291,6 +339,10 @@
     {
       "period": "2015",
       "views": 761594
+    },
+    {
+      "period": "2020",
+      "views": 1142549
     },
     {
       "period": "2021",

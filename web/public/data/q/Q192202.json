@@ -4,8 +4,12 @@
   "title": "Cricket_World_Cup",
   "description": "international cricket tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_v._Ireland_%285522416435%29.jpg?width=64",
-  "total": 24930376,
+  "total": 24940542,
   "monthly": [
+    {
+      "period": "2020-07",
+      "views": 10166
+    },
     {
       "period": "2021-06",
       "views": 18561
@@ -104,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 10166
+    },
     {
       "period": "2021",
       "views": 397630

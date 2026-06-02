@@ -4,7 +4,7 @@
   "title": "Anonymous_(group)",
   "description": "decentralized, internet-based protest movement which organizes cyber attacks and demonstrations for freedom and against various forms of grievance",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_at_Scientology_in_Los_Angeles.jpg?width=64",
-  "total": 1490702,
+  "total": 2621181,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,24 @@
     {
       "period": "2015-12",
       "views": 146705
+    },
+    {
+      "period": "2020-06",
+      "views": 1114057
+    },
+    {
+      "period": "2020-11",
+      "views": 16422
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1490702
+    },
+    {
+      "period": "2020",
+      "views": 1130479
     }
   ]
 }

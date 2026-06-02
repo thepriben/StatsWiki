@@ -4,7 +4,7 @@
   "title": "Interstellar_(film)",
   "description": "2014 film by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Interstellar-logo.jpg?width=64",
-  "total": 18829012,
+  "total": 21250440,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 633233
+    },
+    {
+      "period": "2020-01",
+      "views": 88287
+    },
+    {
+      "period": "2020-02",
+      "views": 90795
+    },
+    {
+      "period": "2020-03",
+      "views": 82934
+    },
+    {
+      "period": "2020-04",
+      "views": 261103
+    },
+    {
+      "period": "2020-05",
+      "views": 219342
+    },
+    {
+      "period": "2020-06",
+      "views": 167102
+    },
+    {
+      "period": "2020-07",
+      "views": 363974
+    },
+    {
+      "period": "2020-08",
+      "views": 351855
+    },
+    {
+      "period": "2020-09",
+      "views": 362878
+    },
+    {
+      "period": "2020-10",
+      "views": 11902
+    },
+    {
+      "period": "2020-11",
+      "views": 98301
+    },
+    {
+      "period": "2020-12",
+      "views": 322955
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 3371183
+    },
+    {
+      "period": "2020",
+      "views": 2421428
     },
     {
       "period": "2021",

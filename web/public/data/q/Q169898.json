@@ -4,11 +4,15 @@
   "title": "Scuderia_Ferrari",
   "description": "Formula One team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GESTIONE_SPORTIVA_FERRARI_%2836309430764%29.jpg?width=64",
-  "total": 982147,
+  "total": 993643,
   "monthly": [
     {
       "period": "2015-12",
       "views": 867532
+    },
+    {
+      "period": "2020-09",
+      "views": 11496
     },
     {
       "period": "2021-12",
@@ -35,6 +39,10 @@
     {
       "period": "2015",
       "views": 867532
+    },
+    {
+      "period": "2020",
+      "views": 11496
     },
     {
       "period": "2021",

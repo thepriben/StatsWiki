@@ -4,8 +4,12 @@
   "title": "Maryland",
   "description": "state of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deep_Creek_Lake_Maryland_Panoramic_View.jpg?width=64",
-  "total": 8575849,
+  "total": 8591194,
   "monthly": [
+    {
+      "period": "2020-11",
+      "views": 15345
+    },
     {
       "period": "2022-07",
       "views": 985050
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 15345
+    },
     {
       "period": "2022",
       "views": 3765114

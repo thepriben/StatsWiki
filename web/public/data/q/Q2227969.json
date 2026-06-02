@@ -4,8 +4,16 @@
   "title": "Savannah_Guthrie",
   "description": "American journalist and attorney (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Savannah_Guthrie_2012_Shankbone.JPG?width=64",
-  "total": 5180343,
+  "total": 5687137,
   "monthly": [
+    {
+      "period": "2020-10",
+      "views": 414258
+    },
+    {
+      "period": "2020-11",
+      "views": 92536
+    },
     {
       "period": "2021-01",
       "views": 14566
@@ -64,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 506794
+    },
     {
       "period": "2021",
       "views": 187968

@@ -4,8 +4,12 @@
   "title": "Don't_Worry_Darling",
   "description": "2022 film directed by Olivia Wilde",
   "image": "",
-  "total": 7843564,
+  "total": 7866012,
   "monthly": [
+    {
+      "period": "2020-12",
+      "views": 22448
+    },
     {
       "period": "2021-01",
       "views": 30200
@@ -108,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 22448
+    },
     {
       "period": "2021",
       "views": 113784

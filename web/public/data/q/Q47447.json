@@ -4,7 +4,7 @@
   "title": "Ed_Sheeran",
   "description": "English singer-songwriter (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ed_Sheeran-6886_%28cropped%29.jpg?width=64",
-  "total": 9861042,
+  "total": 10078376,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,38 @@
     {
       "period": "2015-12",
       "views": 291099
+    },
+    {
+      "period": "2020-01",
+      "views": 11680
+    },
+    {
+      "period": "2020-02",
+      "views": 11066
+    },
+    {
+      "period": "2020-05",
+      "views": 15556
+    },
+    {
+      "period": "2020-06",
+      "views": 22133
+    },
+    {
+      "period": "2020-07",
+      "views": 10653
+    },
+    {
+      "period": "2020-08",
+      "views": 9889
+    },
+    {
+      "period": "2020-09",
+      "views": 96807
+    },
+    {
+      "period": "2020-12",
+      "views": 39550
     },
     {
       "period": "2021-02",
@@ -235,6 +267,10 @@
     {
       "period": "2015",
       "views": 2393612
+    },
+    {
+      "period": "2020",
+      "views": 217334
     },
     {
       "period": "2021",

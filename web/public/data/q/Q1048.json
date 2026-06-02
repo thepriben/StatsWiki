@@ -4,7 +4,7 @@
   "title": "Julius_Caesar",
   "description": "Roman general and dictator",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?width=64",
-  "total": 7257268,
+  "total": 8601091,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 139234
+    },
+    {
+      "period": "2020-01",
+      "views": 41735
+    },
+    {
+      "period": "2020-02",
+      "views": 203872
+    },
+    {
+      "period": "2020-03",
+      "views": 205075
+    },
+    {
+      "period": "2020-04",
+      "views": 206922
+    },
+    {
+      "period": "2020-05",
+      "views": 273656
+    },
+    {
+      "period": "2020-06",
+      "views": 73874
+    },
+    {
+      "period": "2020-07",
+      "views": 31888
+    },
+    {
+      "period": "2020-08",
+      "views": 19029
+    },
+    {
+      "period": "2020-09",
+      "views": 68654
+    },
+    {
+      "period": "2020-10",
+      "views": 108598
+    },
+    {
+      "period": "2020-11",
+      "views": 33227
+    },
+    {
+      "period": "2020-12",
+      "views": 77293
     },
     {
       "period": "2021-01",
@@ -255,6 +303,10 @@
     {
       "period": "2015",
       "views": 666851
+    },
+    {
+      "period": "2020",
+      "views": 1343823
     },
     {
       "period": "2021",

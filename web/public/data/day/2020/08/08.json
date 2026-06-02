@@ -1,0 +1,455 @@
+{
+  "period": "8 August 2020",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 166564,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "The_Umbrella_Academy_(TV_series)",
+      "label": "The Umbrella Academy",
+      "description": "American television series",
+      "views": 165162,
+      "qid": "Q44535025",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Umbrella_Academy_logo.svg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Shakuntala_Devi",
+      "label": "Shakuntala Devi",
+      "description": "",
+      "views": 154704,
+      "qid": "Q_en_Shakuntala_Devi",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "2020_Beirut_explosions",
+      "label": "2020 Beirut explosions",
+      "description": "",
+      "views": 128443,
+      "qid": "Q_en_2020_Beirut_explosions",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Cow_Tools",
+      "label": "Cow Tools",
+      "description": "",
+      "views": 119346,
+      "qid": "Q_en_Cow_Tools",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Andrea_Pirlo",
+      "label": "Andrea Pirlo",
+      "description": "",
+      "views": 117138,
+      "qid": "Q_en_Andrea_Pirlo",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Lebanon",
+      "label": "Lebanon",
+      "description": "",
+      "views": 110489,
+      "qid": "Q_en_Lebanon",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Deaths_in_2020",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 108112,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Rhea_Chakraborty",
+      "label": "Rhea Chakraborty",
+      "description": "",
+      "views": 93228,
+      "qid": "Q_en_Rhea_Chakraborty",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Thistle",
+      "label": "Thistle",
+      "description": "",
+      "views": 82140,
+      "qid": "Q_en_Thistle",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "2019–20_UEFA_Champions_League",
+      "label": "2019–20 UEFA Champions League",
+      "description": "",
+      "views": 80625,
+      "qid": "Q_en_2019–20_UEFA_Champions_League",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Susan_Rice",
+      "label": "Susan Rice",
+      "description": "",
+      "views": 78717,
+      "qid": "Q_en_Susan_Rice",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Justin_Hartley",
+      "label": "Justin Hartley",
+      "description": "",
+      "views": 77885,
+      "qid": "Q_en_Justin_Hartley",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "2020_Stanley_Cup_playoffs",
+      "label": "2020 Stanley Cup playoffs",
+      "description": "",
+      "views": 75944,
+      "qid": "Q_en_2020_Stanley_Cup_playoffs",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Chrishell_Stause",
+      "label": "Chrishell Stause",
+      "description": "",
+      "views": 73749,
+      "qid": "Q_en_Chrishell_Stause",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "UEFA_Champions_League",
+      "label": "UEFA Champions League",
+      "description": "European association football tournament",
+      "views": 72814,
+      "qid": "Q18756",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Champions_League_logo_no_text.svg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Alexander_Hamilton",
+      "label": "Alexander Hamilton",
+      "description": "American Founding Father and statesman (1755/1757–1804)",
+      "views": 64399,
+      "qid": "Q178903",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Arts_Project_-_Alexander_Hamilton_%281792_portrait%29_by_John_Trumbull.jpg?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "2020_World_Snooker_Championship",
+      "label": "2020 World Snooker Championship",
+      "description": "",
+      "views": 64053,
+      "qid": "Q_en_2020_World_Snooker_Championship",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Regensburg_Sausage_Kitchen",
+      "label": "Regensburg Sausage Kitchen",
+      "description": "",
+      "views": 62846,
+      "qid": "Q_en_Regensburg_Sausage_Kitchen",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "The_Umbrella_Academy",
+      "label": "The Umbrella Academy",
+      "description": "",
+      "views": 61246,
+      "qid": "Q_en_The_Umbrella_Academy",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Gretchen_Whitmer",
+      "label": "Gretchen Whitmer",
+      "description": "",
+      "views": 60883,
+      "qid": "Q_en_Gretchen_Whitmer",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Maurizio_Sarri",
+      "label": "Maurizio Sarri",
+      "description": "",
+      "views": 59633,
+      "qid": "Q_en_Maurizio_Sarri",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Parmeet_Sethi",
+      "label": "Parmeet Sethi",
+      "description": "",
+      "views": 58511,
+      "qid": "Q_en_Parmeet_Sethi",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 58422,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Jerry_Falwell_Jr.",
+      "label": "Jerry Falwell Jr.",
+      "description": "",
+      "views": 56988,
+      "qid": "Q_en_Jerry_Falwell_Jr.",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Pizzagate_conspiracy_theory",
+      "label": "Pizzagate",
+      "description": "US-american right-wing conspiracy theory",
+      "views": 55686,
+      "qid": "Q27970888",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pizzagate_02aIMG_8514.jpg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "label": "atomic bombings of Hiroshima and Nagasaki",
+      "description": "1945 use of nuclear weapons against Japan in World War II",
+      "views": 55574,
+      "qid": "Q488",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atomic_bombing_of_Japan.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Jordan_Fisher",
+      "label": "Jordan Fisher",
+      "description": "",
+      "views": 55459,
+      "qid": "Q_en_Jordan_Fisher",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Sushant_Singh_Rajput",
+      "label": "Sushant Singh Rajput",
+      "description": "Indian actor (1986-2020)",
+      "views": 55147,
+      "qid": "Q10296530",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushant_sr_Manish_M_B%27day_bash.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Tabletop_runway",
+      "label": "Tabletop runway",
+      "description": "",
+      "views": 55136,
+      "qid": "Q_en_Tabletop_runway",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Sabrina_Carpenter",
+      "label": "Sabrina Carpenter",
+      "description": "American singer-songwriter and actress (born 1999)",
+      "views": 54053,
+      "qid": "Q7396400",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sabrina_Carpenter_-_O2_Arena_2025_-_086_%28cropped_2%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Ammonium_nitrate",
+      "label": "Ammonium nitrate",
+      "description": "",
+      "views": 53710,
+      "qid": "Q_en_Ammonium_nitrate",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Kashmira_Shah",
+      "label": "Kashmira Shah",
+      "description": "",
+      "views": 52492,
+      "qid": "Q_en_Kashmira_Shah",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Megan_Thee_Stallion",
+      "label": "Megan Thee Stallion",
+      "description": "",
+      "views": 51194,
+      "qid": "Q_en_Megan_Thee_Stallion",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "COVID-19_pandemic",
+      "label": "COVID-19 pandemic",
+      "description": "pandemic caused by SARS-CoV-2 (2019–2023)",
+      "views": 51173,
+      "qid": "Q81068910",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "WAP_(song)",
+      "label": "WAP (song)",
+      "description": "",
+      "views": 51101,
+      "qid": "Q_en_WAP_(song)",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Calicut_International_Airport",
+      "label": "Calicut International Airport",
+      "description": "",
+      "views": 50488,
+      "qid": "Q_en_Calicut_International_Airport",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "COVID-19_pandemic_by_country_and_territory",
+      "label": "COVID-19 pandemic by country and territory",
+      "description": "details regarding the COVID-19 pandemic by country and territory",
+      "views": 50317,
+      "qid": "Q83741704",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Air_India_Express_Flight_1344",
+      "label": "Air India Express Flight 1344",
+      "description": "",
+      "views": 50238,
+      "qid": "Q_en_Air_India_Express_Flight_1344",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 49389,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Aidan_Gallagher",
+      "label": "Aidan Gallagher",
+      "description": "",
+      "views": 48910,
+      "qid": "Q_en_Aidan_Gallagher",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Jeffrey_Epstein",
+      "label": "Jeffrey Epstein",
+      "description": "American financier and sex offender (1953–2019)",
+      "views": 48850,
+      "qid": "Q2904131",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Joe_Biden",
+      "label": "Joe Biden",
+      "description": "46th President of the United States (2021–2025)",
+      "views": 48430,
+      "qid": "Q6279",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_presidential_portrait.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Daisy_Coleman",
+      "label": "Daisy Coleman",
+      "description": "",
+      "views": 48024,
+      "qid": "Q_en_Daisy_Coleman",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Beirut",
+      "label": "Beirut",
+      "description": "",
+      "views": 47917,
+      "qid": "Q_en_Beirut",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Samantha_Lewthwaite",
+      "label": "Samantha Lewthwaite",
+      "description": "",
+      "views": 47214,
+      "qid": "Q_en_Samantha_Lewthwaite",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "UFC_Fight_Night:_Lewis_vs._Oleinik",
+      "label": "UFC Fight Night: Lewis vs. Oleinik",
+      "description": "",
+      "views": 46607,
+      "qid": "Q_en_UFC_Fight_Night:_Lewis_vs._Oleinik",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Rob_Lowe",
+      "label": "Rob Lowe",
+      "description": "",
+      "views": 46263,
+      "qid": "Q_en_Rob_Lowe",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 45497,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Charlie_Chaplin",
+      "label": "Charlie Chaplin",
+      "description": "English comic actor and filmmaker (1889–1977)",
+      "views": 45070,
+      "qid": "Q882",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Chaplin_portrait_Getty_1739411952.jpg?width=64"
+    }
+  ]
+}

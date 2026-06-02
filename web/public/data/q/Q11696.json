@@ -4,7 +4,7 @@
   "title": "President_of_the_United_States",
   "description": "head of state and head of government of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?width=64",
-  "total": 12333653,
+  "total": 17479880,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 82703
+    },
+    {
+      "period": "2020-01",
+      "views": 235611
+    },
+    {
+      "period": "2020-02",
+      "views": 292028
+    },
+    {
+      "period": "2020-03",
+      "views": 337603
+    },
+    {
+      "period": "2020-04",
+      "views": 383113
+    },
+    {
+      "period": "2020-05",
+      "views": 259477
+    },
+    {
+      "period": "2020-06",
+      "views": 349452
+    },
+    {
+      "period": "2020-07",
+      "views": 408320
+    },
+    {
+      "period": "2020-08",
+      "views": 334023
+    },
+    {
+      "period": "2020-09",
+      "views": 300356
+    },
+    {
+      "period": "2020-10",
+      "views": 482897
+    },
+    {
+      "period": "2020-11",
+      "views": 1398682
+    },
+    {
+      "period": "2020-12",
+      "views": 364665
     },
     {
       "period": "2021-01",
@@ -255,6 +303,10 @@
     {
       "period": "2015",
       "views": 521317
+    },
+    {
+      "period": "2020",
+      "views": 5146227
     },
     {
       "period": "2021",

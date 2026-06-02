@@ -4,8 +4,12 @@
   "title": "Marjorie_Taylor_Greene",
   "description": "American politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marjorie_Taylor_Greene_%28cropped%29.jpg?width=64",
-  "total": 8371363,
+  "total": 8457068,
   "monthly": [
+    {
+      "period": "2020-11",
+      "views": 85705
+    },
     {
       "period": "2021-01",
       "views": 1408801
@@ -204,6 +208,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 85705
+    },
     {
       "period": "2021",
       "views": 3263998

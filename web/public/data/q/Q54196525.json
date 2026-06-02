@@ -4,8 +4,12 @@
   "title": "Super_Bowl_LVIII",
   "description": "2024 National Football League championship game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thunderbirds_kick_off_Super_Bowl_LVIII_%288245718%29.jpg?width=64",
-  "total": 5492570,
+  "total": 5517381,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 24811
+    },
     {
       "period": "2021-02",
       "views": 25441
@@ -68,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 24811
+    },
     {
       "period": "2021",
       "views": 25441

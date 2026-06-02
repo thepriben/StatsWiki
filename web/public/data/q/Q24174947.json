@@ -4,8 +4,44 @@
   "title": "JoJo_Siwa",
   "description": "American dancer, singer, actress, and YouTube personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jojo_Siwa_on_the_iHeart_Awards_2024_01.jpg?width=64",
-  "total": 7110278,
+  "total": 8618780,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 112844
+    },
+    {
+      "period": "2020-03",
+      "views": 359480
+    },
+    {
+      "period": "2020-04",
+      "views": 336354
+    },
+    {
+      "period": "2020-05",
+      "views": 410062
+    },
+    {
+      "period": "2020-06",
+      "views": 57738
+    },
+    {
+      "period": "2020-07",
+      "views": 20956
+    },
+    {
+      "period": "2020-08",
+      "views": 166205
+    },
+    {
+      "period": "2020-09",
+      "views": 19788
+    },
+    {
+      "period": "2020-12",
+      "views": 25075
+    },
     {
       "period": "2021-01",
       "views": 819152
@@ -164,6 +200,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 1508502
+    },
     {
       "period": "2021",
       "views": 3021981

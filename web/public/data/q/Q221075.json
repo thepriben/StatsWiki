@@ -4,8 +4,12 @@
   "title": "28_Days_Later",
   "description": "2002 film directed by Danny Boyle",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/28-Days-Later-Logo.svg?width=64",
-  "total": 4133772,
+  "total": 4334920,
   "monthly": [
+    {
+      "period": "2020-03",
+      "views": 201148
+    },
     {
       "period": "2022-11",
       "views": 9841
@@ -80,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 201148
+    },
     {
       "period": "2022",
       "views": 9841

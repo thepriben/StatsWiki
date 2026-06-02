@@ -4,8 +4,40 @@
   "title": "The_Batman_(film)",
   "description": "2022 superhero film by Matt Reeves",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Batman_2022_film_logo.png?width=64",
-  "total": 19880001,
+  "total": 21918167,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 122696
+    },
+    {
+      "period": "2020-02",
+      "views": 377446
+    },
+    {
+      "period": "2020-03",
+      "views": 68227
+    },
+    {
+      "period": "2020-04",
+      "views": 13132
+    },
+    {
+      "period": "2020-05",
+      "views": 23009
+    },
+    {
+      "period": "2020-08",
+      "views": 1099699
+    },
+    {
+      "period": "2020-09",
+      "views": 291757
+    },
+    {
+      "period": "2020-10",
+      "views": 42200
+    },
     {
       "period": "2021-03",
       "views": 269220
@@ -196,6 +228,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 2038166
+    },
     {
       "period": "2021",
       "views": 1580169

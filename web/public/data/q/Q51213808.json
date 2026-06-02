@@ -4,8 +4,56 @@
   "title": "QAnon",
   "description": "American far-right conspiracy theory and movement",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginia_2nd_Amendment_Rally_%282020_Jan%29_-_49416341132.jpg?width=64",
-  "total": 11204792,
+  "total": 27297208,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 49159
+    },
+    {
+      "period": "2020-02",
+      "views": 71863
+    },
+    {
+      "period": "2020-03",
+      "views": 924937
+    },
+    {
+      "period": "2020-04",
+      "views": 1117620
+    },
+    {
+      "period": "2020-05",
+      "views": 911127
+    },
+    {
+      "period": "2020-06",
+      "views": 955413
+    },
+    {
+      "period": "2020-07",
+      "views": 2656040
+    },
+    {
+      "period": "2020-08",
+      "views": 3261825
+    },
+    {
+      "period": "2020-09",
+      "views": 1588557
+    },
+    {
+      "period": "2020-10",
+      "views": 2653940
+    },
+    {
+      "period": "2020-11",
+      "views": 1359221
+    },
+    {
+      "period": "2020-12",
+      "views": 542714
+    },
     {
       "period": "2021-01",
       "views": 4676752
@@ -140,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 16092416
+    },
     {
       "period": "2021",
       "views": 9257808

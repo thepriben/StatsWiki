@@ -4,8 +4,12 @@
   "title": "Jennifer_Coolidge",
   "description": "American actress (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Coolidge_at_the_2024_Toronto_International_Film_Festival_6_%28cropped%29.jpg?width=64",
-  "total": 7403762,
+  "total": 7417070,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 13308
+    },
     {
       "period": "2021-01",
       "views": 12351
@@ -140,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 13308
+    },
     {
       "period": "2021",
       "views": 739343

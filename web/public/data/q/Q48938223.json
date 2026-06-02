@@ -4,8 +4,56 @@
   "title": "TikTok",
   "description": "video-focused social media platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiktok_logo_text.svg?width=64",
-  "total": 23948594,
+  "total": 31432322,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 547711
+    },
+    {
+      "period": "2020-02",
+      "views": 423334
+    },
+    {
+      "period": "2020-03",
+      "views": 605192
+    },
+    {
+      "period": "2020-04",
+      "views": 891934
+    },
+    {
+      "period": "2020-05",
+      "views": 925700
+    },
+    {
+      "period": "2020-06",
+      "views": 748405
+    },
+    {
+      "period": "2020-07",
+      "views": 1071349
+    },
+    {
+      "period": "2020-08",
+      "views": 790972
+    },
+    {
+      "period": "2020-09",
+      "views": 544595
+    },
+    {
+      "period": "2020-10",
+      "views": 295253
+    },
+    {
+      "period": "2020-11",
+      "views": 254539
+    },
+    {
+      "period": "2020-12",
+      "views": 384744
+    },
     {
       "period": "2021-01",
       "views": 500198
@@ -264,6 +312,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 7483728
+    },
     {
       "period": "2021",
       "views": 3361248

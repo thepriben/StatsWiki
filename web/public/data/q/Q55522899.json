@@ -4,8 +4,20 @@
   "title": "Jujutsu_Kaisen",
   "description": "Japanese manga series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jujutsu_Kaisen_%28Japanese%29_logo.svg?width=64",
-  "total": 7715908,
+  "total": 8773077,
   "monthly": [
+    {
+      "period": "2020-10",
+      "views": 198840
+    },
+    {
+      "period": "2020-11",
+      "views": 451837
+    },
+    {
+      "period": "2020-12",
+      "views": 406492
+    },
     {
       "period": "2021-01",
       "views": 558934
@@ -124,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 1057169
+    },
     {
       "period": "2021",
       "views": 2915529

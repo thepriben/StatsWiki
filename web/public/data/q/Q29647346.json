@@ -4,8 +4,52 @@
   "title": "Money_Heist",
   "description": "Spanish television crime series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Casadepapelwordmark.svg?width=64",
-  "total": 7844844,
+  "total": 17141166,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 146997
+    },
+    {
+      "period": "2020-03",
+      "views": 643680
+    },
+    {
+      "period": "2020-04",
+      "views": 4335633
+    },
+    {
+      "period": "2020-05",
+      "views": 1694206
+    },
+    {
+      "period": "2020-06",
+      "views": 745382
+    },
+    {
+      "period": "2020-07",
+      "views": 584996
+    },
+    {
+      "period": "2020-08",
+      "views": 423857
+    },
+    {
+      "period": "2020-09",
+      "views": 338852
+    },
+    {
+      "period": "2020-10",
+      "views": 168049
+    },
+    {
+      "period": "2020-11",
+      "views": 24022
+    },
+    {
+      "period": "2020-12",
+      "views": 190648
+    },
     {
       "period": "2021-01",
       "views": 379633
@@ -84,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 9296322
+    },
     {
       "period": "2021",
       "views": 6873051

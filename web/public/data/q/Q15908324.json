@@ -4,7 +4,7 @@
   "title": "Malaysia_Airlines_Flight_370",
   "description": "passenger aircraft flight that went missing in 2014",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaysia_Airlines_B777-200ER%289M-MRO%29_%283780278171%29.jpg?width=64",
-  "total": 11128980,
+  "total": 11280700,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,22 @@
     {
       "period": "2015-12",
       "views": 12773
+    },
+    {
+      "period": "2020-01",
+      "views": 96341
+    },
+    {
+      "period": "2020-02",
+      "views": 29978
+    },
+    {
+      "period": "2020-03",
+      "views": 15877
+    },
+    {
+      "period": "2020-09",
+      "views": 9524
     },
     {
       "period": "2021-01",
@@ -235,6 +251,10 @@
     {
       "period": "2015",
       "views": 953630
+    },
+    {
+      "period": "2020",
+      "views": 151720
     },
     {
       "period": "2021",

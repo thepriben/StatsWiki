@@ -1,0 +1,100 @@
+{
+  "qid": "Q83741704",
+  "label": "COVID-19 pandemic by country and territory",
+  "title": "COVID-19_pandemic_by_country_and_territory",
+  "description": "details regarding the COVID-19 pandemic by country and territory",
+  "image": "",
+  "total": 24620236,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 4816606
+    },
+    {
+      "period": "2020-04",
+      "views": 5491585
+    },
+    {
+      "period": "2020-05",
+      "views": 1994152
+    },
+    {
+      "period": "2020-06",
+      "views": 958919
+    },
+    {
+      "period": "2020-07",
+      "views": 1171043
+    },
+    {
+      "period": "2020-08",
+      "views": 1276775
+    },
+    {
+      "period": "2020-09",
+      "views": 1173213
+    },
+    {
+      "period": "2020-10",
+      "views": 1128850
+    },
+    {
+      "period": "2020-11",
+      "views": 927732
+    },
+    {
+      "period": "2020-12",
+      "views": 941288
+    },
+    {
+      "period": "2021-01",
+      "views": 978011
+    },
+    {
+      "period": "2021-02",
+      "views": 517230
+    },
+    {
+      "period": "2021-03",
+      "views": 643465
+    },
+    {
+      "period": "2021-04",
+      "views": 569681
+    },
+    {
+      "period": "2021-05",
+      "views": 554557
+    },
+    {
+      "period": "2021-06",
+      "views": 440325
+    },
+    {
+      "period": "2021-07",
+      "views": 414772
+    },
+    {
+      "period": "2021-08",
+      "views": 379973
+    },
+    {
+      "period": "2021-09",
+      "views": 212396
+    },
+    {
+      "period": "2021-10",
+      "views": 29663
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 19880163
+    },
+    {
+      "period": "2021",
+      "views": 4740073
+    }
+  ]
+}

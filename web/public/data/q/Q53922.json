@@ -4,7 +4,7 @@
   "title": "American_Horror_Story",
   "description": "American anthology horror television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Horror_Story.svg?width=64",
-  "total": 11891886,
+  "total": 15105533,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 512768
+    },
+    {
+      "period": "2020-01",
+      "views": 43512
+    },
+    {
+      "period": "2020-02",
+      "views": 43536
+    },
+    {
+      "period": "2020-03",
+      "views": 249407
+    },
+    {
+      "period": "2020-04",
+      "views": 63761
+    },
+    {
+      "period": "2020-05",
+      "views": 344812
+    },
+    {
+      "period": "2020-06",
+      "views": 109846
+    },
+    {
+      "period": "2020-07",
+      "views": 277238
+    },
+    {
+      "period": "2020-08",
+      "views": 317005
+    },
+    {
+      "period": "2020-09",
+      "views": 561350
+    },
+    {
+      "period": "2020-10",
+      "views": 547114
+    },
+    {
+      "period": "2020-11",
+      "views": 524159
+    },
+    {
+      "period": "2020-12",
+      "views": 131907
     },
     {
       "period": "2021-01",
@@ -163,6 +211,10 @@
     {
       "period": "2015",
       "views": 3653330
+    },
+    {
+      "period": "2020",
+      "views": 3213647
     },
     {
       "period": "2021",

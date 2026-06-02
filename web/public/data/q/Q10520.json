@@ -4,7 +4,7 @@
   "title": "David_Beckham",
   "description": "English footballer (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Beckham_2009.jpg?width=64",
-  "total": 19045899,
+  "total": 20204507,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,38 @@
     {
       "period": "2015-12",
       "views": 254964
+    },
+    {
+      "period": "2020-02",
+      "views": 31480
+    },
+    {
+      "period": "2020-03",
+      "views": 228405
+    },
+    {
+      "period": "2020-04",
+      "views": 308024
+    },
+    {
+      "period": "2020-05",
+      "views": 310123
+    },
+    {
+      "period": "2020-07",
+      "views": 199078
+    },
+    {
+      "period": "2020-08",
+      "views": 31605
+    },
+    {
+      "period": "2020-09",
+      "views": 37823
+    },
+    {
+      "period": "2020-11",
+      "views": 12070
     },
     {
       "period": "2021-01",
@@ -275,6 +307,10 @@
     {
       "period": "2015",
       "views": 1845204
+    },
+    {
+      "period": "2020",
+      "views": 1158608
     },
     {
       "period": "2021",

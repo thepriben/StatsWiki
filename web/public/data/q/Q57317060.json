@@ -4,8 +4,28 @@
   "title": "The_Suicide_Squad_(film)",
   "description": "2021 film directed by James Gunn",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suicide_Squad_filming_in_Toronto_13.jpg?width=64",
-  "total": 10081882,
+  "total": 10850839,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 202014
+    },
+    {
+      "period": "2020-03",
+      "views": 26979
+    },
+    {
+      "period": "2020-08",
+      "views": 490517
+    },
+    {
+      "period": "2020-10",
+      "views": 36105
+    },
+    {
+      "period": "2020-12",
+      "views": 13342
+    },
     {
       "period": "2021-01",
       "views": 10156
@@ -100,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 768957
+    },
     {
       "period": "2021",
       "views": 9109585

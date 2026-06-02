@@ -1,0 +1,455 @@
+{
+  "period": "12 December 2020",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Zodiac_Killer",
+      "label": "Zodiac Killer",
+      "description": "serial killer in California",
+      "views": 434897,
+      "qid": "Q218148",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zodiac-Killer.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Cyberpunk_2077",
+      "label": "Cyberpunk 2077",
+      "description": "",
+      "views": 218071,
+      "qid": "Q_en_Cyberpunk_2077",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Kubrat_Pulev",
+      "label": "Kubrat Pulev",
+      "description": "",
+      "views": 217989,
+      "qid": "Q_en_Kubrat_Pulev",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Tom_Lister_Jr.",
+      "label": "Tom Lister Jr.",
+      "description": "",
+      "views": 210622,
+      "qid": "Q_en_Tom_Lister_Jr.",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Charley_Pride",
+      "label": "Charley Pride",
+      "description": "",
+      "views": 185363,
+      "qid": "Q_en_Charley_Pride",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Anthony_Joshua",
+      "label": "Anthony Joshua",
+      "description": "British boxer (born 1989)",
+      "views": 161819,
+      "qid": "Q573463",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Joshua_2017.png?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 132326,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 132024,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "The_Mandalorian",
+      "label": "The Mandalorian",
+      "description": "American space opera streaming television series from 2019",
+      "views": 130650,
+      "qid": "Q56876444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86.png?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Time_Person_of_the_Year",
+      "label": "Time Person of the Year",
+      "description": "",
+      "views": 126922,
+      "qid": "Q_en_Time_Person_of_the_Year",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "The_Queen's_Gambit_(miniseries)",
+      "label": "The Queen's Gambit",
+      "description": "2020 television miniseries",
+      "views": 124430,
+      "qid": "Q85808226",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TheQueensGambitCropped.png?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Princess_Margaret,_Countess_of_Snowdon",
+      "label": "Princess Margaret, Countess of Snowdon",
+      "description": "British princess (1930–2002)",
+      "views": 121971,
+      "qid": "Q153815",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Richard_Jewell",
+      "label": "Richard Jewell",
+      "description": "",
+      "views": 118417,
+      "qid": "Q_en_Richard_Jewell",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 115553,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Selena",
+      "label": "Selena",
+      "description": "American singer",
+      "views": 114109,
+      "qid": "Q23543",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Selena_Quintanilla_pintura.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Shia_LaBeouf",
+      "label": "Shia LaBeouf",
+      "description": "American actor",
+      "views": 113293,
+      "qid": "Q180942",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shia_Labeouf_2014.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Deaths_in_2020",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 112479,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Barbara_Windsor",
+      "label": "Barbara Windsor",
+      "description": "",
+      "views": 111465,
+      "qid": "Q_en_Barbara_Windsor",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Eric_Rudolph",
+      "label": "Eric Rudolph",
+      "description": "",
+      "views": 111344,
+      "qid": "Q_en_Eric_Rudolph",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Evermore_(Taylor_Swift_album)",
+      "label": "Evermore (Taylor Swift album)",
+      "description": "",
+      "views": 109420,
+      "qid": "Q_en_Evermore_(Taylor_Swift_album)",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "FKA_Twigs",
+      "label": "FKA Twigs",
+      "description": "",
+      "views": 101188,
+      "qid": "Q_en_FKA_Twigs",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "The_Prom_(film)",
+      "label": "The Prom (film)",
+      "description": "",
+      "views": 101188,
+      "qid": "Q_en_The_Prom_(film)",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 100915,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Hughie_Fury",
+      "label": "Hughie Fury",
+      "description": "",
+      "views": 93541,
+      "qid": "Q_en_Hughie_Fury",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Army–Navy_Game",
+      "label": "Army–Navy Game",
+      "description": "",
+      "views": 89423,
+      "qid": "Q_en_Army–Navy_Game",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Prince_Philip,_Duke_of_Edinburgh",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "description": "consort of Elizabeth II from 1952 to 2021",
+      "views": 85309,
+      "qid": "Q80976",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_of_Edinburgh_33_Allan_Warren.jpg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Tenet_(film)",
+      "label": "Tenet",
+      "description": "2020 film directed by Christopher Nolan",
+      "views": 81450,
+      "qid": "Q63985561",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenet_logo.svg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Anya_Taylor-Joy",
+      "label": "Anya Taylor-Joy",
+      "description": "actress (born 1996)",
+      "views": 81205,
+      "qid": "Q20882479",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "The_Mandalorian_(season_2)",
+      "label": "The Mandalorian (season 2)",
+      "description": "",
+      "views": 80985,
+      "qid": "Q_en_The_Mandalorian_(season_2)",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 79315,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Diana,_Princess_of_Wales",
+      "label": "Diana, Princess of Wales",
+      "description": "member of the British royal family and Princess of Wales (1961–1997)",
+      "views": 78901,
+      "qid": "Q9685",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Bill_Bailey",
+      "label": "Bill Bailey",
+      "description": "",
+      "views": 78352,
+      "qid": "Q_en_Bill_Bailey",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Charles,_Prince_of_Wales",
+      "label": "Charles III",
+      "description": "King of the United Kingdom since 2022 (born 1948)",
+      "views": 77958,
+      "qid": "Q43274",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Taylor_Swift",
+      "label": "Taylor Swift",
+      "description": "American singer-songwriter (born 1989)",
+      "views": 77681,
+      "qid": "Q26876",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Margaret_Thatcher",
+      "label": "Margaret Thatcher",
+      "description": "British stateswoman and prime minister (1925–2013)",
+      "views": 77310,
+      "qid": "Q7416",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Hanukkah",
+      "label": "Hanukkah",
+      "description": "Jewish holiday",
+      "views": 76736,
+      "qid": "Q130881",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rostov-on-Don%2C_Hanukkah_Jewish_festival%2C_Hanukkah_menorah%2C_Judaism_in_Russia.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "2020_United_States_presidential_election",
+      "label": "2020 United States presidential election",
+      "description": "59th quadrennial U.S. presidential election",
+      "views": 75569,
+      "qid": "Q22923830",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_and_Donald_Trump.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Ava_(2020_film)",
+      "label": "Ava (2020 film)",
+      "description": "",
+      "views": 75413,
+      "qid": "Q_en_Ava_(2020_film)",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Rage_(King_novel)",
+      "label": "Rage (King novel)",
+      "description": "",
+      "views": 75371,
+      "qid": "Q_en_Rage_(King_novel)",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 72380,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Anthony_Joshua_vs._Kubrat_Pulev",
+      "label": "Anthony Joshua vs. Kubrat Pulev",
+      "description": "",
+      "views": 72124,
+      "qid": "Q_en_Anthony_Joshua_vs._Kubrat_Pulev",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Gina_Carano",
+      "label": "Gina Carano",
+      "description": "American actress and former mixed martial artist (born 1982)",
+      "views": 70183,
+      "qid": "Q233017",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gina_Carano_Photo_Op_GalaxyCon_Richmond_2024.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "UFC_256",
+      "label": "UFC 256",
+      "description": "",
+      "views": 68950,
+      "qid": "Q_en_UFC_256",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Sikkim",
+      "label": "Sikkim",
+      "description": "",
+      "views": 67847,
+      "qid": "Q_en_Sikkim",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Tyson_Fury",
+      "label": "Tyson Fury",
+      "description": "British boxer (born 1988)",
+      "views": 64314,
+      "qid": "Q1000592",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyson_Fury_at_Place_Bell%2C_Laval_Quebec%2C_Canada_-_Dec_16_2017_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Alice_in_Borderland",
+      "label": "Alice in Borderland",
+      "description": "",
+      "views": 62777,
+      "qid": "Q_en_Alice_in_Borderland",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Durgamati",
+      "label": "Durgamati",
+      "description": "",
+      "views": 62145,
+      "qid": "Q_en_Durgamati",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "The_Prom_(musical)",
+      "label": "The Prom (musical)",
+      "description": "",
+      "views": 61724,
+      "qid": "Q_en_The_Prom_(musical)",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Safety_(2020_film)",
+      "label": "Safety (2020 film)",
+      "description": "",
+      "views": 61382,
+      "qid": "Q_en_Safety_(2020_film)",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Pedro_Pascal",
+      "label": "Pedro Pascal",
+      "description": "Chilean and American actor (born 1975)",
+      "views": 59414,
+      "qid": "Q14752155",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro_Pascal_by_Gage_Skidmore.jpg?width=64"
+    }
+  ]
+}

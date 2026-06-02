@@ -4,8 +4,48 @@
   "title": "The_Witcher_(TV_series)",
   "description": "2019 fantasy drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Witcher.png?width=64",
-  "total": 10170882,
+  "total": 15684532,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 3163356
+    },
+    {
+      "period": "2020-02",
+      "views": 683862
+    },
+    {
+      "period": "2020-03",
+      "views": 524404
+    },
+    {
+      "period": "2020-04",
+      "views": 451457
+    },
+    {
+      "period": "2020-05",
+      "views": 314241
+    },
+    {
+      "period": "2020-07",
+      "views": 103535
+    },
+    {
+      "period": "2020-08",
+      "views": 48173
+    },
+    {
+      "period": "2020-09",
+      "views": 118517
+    },
+    {
+      "period": "2020-10",
+      "views": 73309
+    },
+    {
+      "period": "2020-12",
+      "views": 32796
+    },
     {
       "period": "2021-03",
       "views": 9664
@@ -116,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 5513650
+    },
     {
       "period": "2021",
       "views": 3364168

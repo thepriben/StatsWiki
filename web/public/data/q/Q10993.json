@@ -4,7 +4,7 @@
   "title": "Tiger_Woods",
   "description": "American golfer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiger_Woods_in_May_2019.jpg?width=64",
-  "total": 10450550,
+  "total": 11818122,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,6 +17,46 @@
     {
       "period": "2015-12",
       "views": 31287
+    },
+    {
+      "period": "2020-01",
+      "views": 73807
+    },
+    {
+      "period": "2020-02",
+      "views": 9189
+    },
+    {
+      "period": "2020-04",
+      "views": 207431
+    },
+    {
+      "period": "2020-05",
+      "views": 136175
+    },
+    {
+      "period": "2020-06",
+      "views": 52536
+    },
+    {
+      "period": "2020-07",
+      "views": 73037
+    },
+    {
+      "period": "2020-08",
+      "views": 159186
+    },
+    {
+      "period": "2020-09",
+      "views": 71562
+    },
+    {
+      "period": "2020-11",
+      "views": 335715
+    },
+    {
+      "period": "2020-12",
+      "views": 248934
     },
     {
       "period": "2021-01",
@@ -211,6 +251,10 @@
     {
       "period": "2015",
       "views": 385362
+    },
+    {
+      "period": "2020",
+      "views": 1367572
     },
     {
       "period": "2021",

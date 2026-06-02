@@ -4,8 +4,16 @@
   "title": "Venom:_Let_There_Be_Carnage",
   "description": "2021 film directed by Andy Serkis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Venom_Let_There_Be_Carnage.webp?width=64",
-  "total": 7131458,
+  "total": 7192804,
   "monthly": [
+    {
+      "period": "2020-04",
+      "views": 51920
+    },
+    {
+      "period": "2020-08",
+      "views": 9426
+    },
     {
       "period": "2021-03",
       "views": 10251
@@ -68,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 61346
+    },
     {
       "period": "2021",
       "views": 6231326

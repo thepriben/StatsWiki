@@ -4,8 +4,20 @@
   "title": "BF",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 9332302,
+  "total": 9526395,
   "monthly": [
+    {
+      "period": "2020-08",
+      "views": 101372
+    },
+    {
+      "period": "2020-09",
+      "views": 44955
+    },
+    {
+      "period": "2020-10",
+      "views": 47766
+    },
     {
       "period": "2021-01",
       "views": 1194122
@@ -68,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 194093
+    },
     {
       "period": "2021",
       "views": 9233894

@@ -4,7 +4,7 @@
   "title": "Blue_moon",
   "description": "extra full moon that appears in a subdivision of a year: either the third of four full moons in a season, or a second full moon in a month of the common calendar",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Super_Moon_-_Flickr_-_gailhampshire_%281%29.jpg?width=64",
-  "total": 1369919,
+  "total": 1557615,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,6 +17,14 @@
     {
       "period": "2015-09",
       "views": 14329
+    },
+    {
+      "period": "2020-10",
+      "views": 104592
+    },
+    {
+      "period": "2020-11",
+      "views": 83104
     },
     {
       "period": "2021-08",
@@ -43,6 +51,10 @@
     {
       "period": "2015",
       "views": 938671
+    },
+    {
+      "period": "2020",
+      "views": 187696
     },
     {
       "period": "2021",

@@ -4,8 +4,12 @@
   "title": "Doug_Emhoff",
   "description": "Second Gentleman of the United States from 2021 to 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Douglas_Emhoff_cropped1.jpg?width=64",
-  "total": 5848586,
+  "total": 6013595,
   "monthly": [
+    {
+      "period": "2020-11",
+      "views": 165009
+    },
     {
       "period": "2021-01",
       "views": 1688239
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 165009
+    },
     {
       "period": "2021",
       "views": 1720756

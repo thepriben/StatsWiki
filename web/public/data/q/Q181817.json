@@ -4,8 +4,12 @@
   "title": "Saint_Patrick's_Day",
   "description": "A Catholic religious celebration",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kilbennan_St._Benin%27s_Church_Window_St._Patrick_Detail_2010_09_16.jpg?width=64",
-  "total": 7715831,
+  "total": 8279008,
   "monthly": [
+    {
+      "period": "2020-03",
+      "views": 563177
+    },
     {
       "period": "2021-03",
       "views": 1312797
@@ -40,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 563177
+    },
     {
       "period": "2021",
       "views": 1312797

@@ -4,7 +4,7 @@
   "title": "Turkey",
   "description": "country in West Asia and Southeast Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ankara_%2816290014657%29.jpg?width=64",
-  "total": 28777448,
+  "total": 32545501,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 387324
+    },
+    {
+      "period": "2020-01",
+      "views": 256645
+    },
+    {
+      "period": "2020-02",
+      "views": 237101
+    },
+    {
+      "period": "2020-03",
+      "views": 288775
+    },
+    {
+      "period": "2020-04",
+      "views": 358544
+    },
+    {
+      "period": "2020-05",
+      "views": 412763
+    },
+    {
+      "period": "2020-06",
+      "views": 304950
+    },
+    {
+      "period": "2020-07",
+      "views": 389080
+    },
+    {
+      "period": "2020-08",
+      "views": 355533
+    },
+    {
+      "period": "2020-09",
+      "views": 341526
+    },
+    {
+      "period": "2020-10",
+      "views": 404836
+    },
+    {
+      "period": "2020-11",
+      "views": 262528
+    },
+    {
+      "period": "2020-12",
+      "views": 155772
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 2477293
+    },
+    {
+      "period": "2020",
+      "views": 3768053
     },
     {
       "period": "2021",

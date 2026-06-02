@@ -4,7 +4,7 @@
   "title": "Syrian_Civil_War",
   "description": "2011–2024 armed conflict in Syria",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Syrian_Civil_War_map.svg?width=64",
-  "total": 9337739,
+  "total": 9635624,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,18 @@
     {
       "period": "2015-12",
       "views": 696403
+    },
+    {
+      "period": "2020-01",
+      "views": 94382
+    },
+    {
+      "period": "2020-02",
+      "views": 115891
+    },
+    {
+      "period": "2020-03",
+      "views": 87612
     },
     {
       "period": "2021-02",
@@ -123,6 +135,10 @@
     {
       "period": "2015",
       "views": 4271831
+    },
+    {
+      "period": "2020",
+      "views": 297885
     },
     {
       "period": "2021",

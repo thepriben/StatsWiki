@@ -4,7 +4,7 @@
   "title": "Mount_Everest",
   "description": "Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg?width=64",
-  "total": 4712151,
+  "total": 5061813,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,6 +25,26 @@
     {
       "period": "2015-12",
       "views": 319593
+    },
+    {
+      "period": "2020-05",
+      "views": 218005
+    },
+    {
+      "period": "2020-07",
+      "views": 11094
+    },
+    {
+      "period": "2020-09",
+      "views": 10541
+    },
+    {
+      "period": "2020-10",
+      "views": 15210
+    },
+    {
+      "period": "2020-12",
+      "views": 94812
     },
     {
       "period": "2021-01",
@@ -203,6 +223,10 @@
     {
       "period": "2015",
       "views": 1979005
+    },
+    {
+      "period": "2020",
+      "views": 349662
     },
     {
       "period": "2021",

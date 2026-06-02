@@ -4,8 +4,56 @@
   "title": "F5_Networks",
   "description": "Multi-cloud cybersecurity and application delivery company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F5_Tower_-_July_2017.jpg?width=64",
-  "total": 18053969,
+  "total": 32885973,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 699320
+    },
+    {
+      "period": "2020-02",
+      "views": 643667
+    },
+    {
+      "period": "2020-03",
+      "views": 1334477
+    },
+    {
+      "period": "2020-04",
+      "views": 1429311
+    },
+    {
+      "period": "2020-05",
+      "views": 1482378
+    },
+    {
+      "period": "2020-06",
+      "views": 1477780
+    },
+    {
+      "period": "2020-07",
+      "views": 1443549
+    },
+    {
+      "period": "2020-08",
+      "views": 1326723
+    },
+    {
+      "period": "2020-09",
+      "views": 1468551
+    },
+    {
+      "period": "2020-10",
+      "views": 1419870
+    },
+    {
+      "period": "2020-11",
+      "views": 1062651
+    },
+    {
+      "period": "2020-12",
+      "views": 1043727
+    },
     {
       "period": "2021-01",
       "views": 1276494
@@ -88,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 14832004
+    },
     {
       "period": "2021",
       "views": 12447452

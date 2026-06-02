@@ -1,0 +1,455 @@
+{
+  "period": "23 December 2020",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Stella_Tennant",
+      "label": "Stella Tennant",
+      "description": "",
+      "views": 275283,
+      "qid": "Q_en_Stella_Tennant",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "Meghalaya",
+      "label": "Meghalaya",
+      "description": "",
+      "views": 141159,
+      "qid": "Q_en_Meghalaya",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "The_Midnight_Sky",
+      "label": "The Midnight Sky",
+      "description": "",
+      "views": 140965,
+      "qid": "Q_en_The_Midnight_Sky",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Festivus",
+      "label": "Festivus",
+      "description": "",
+      "views": 128435,
+      "qid": "Q_en_Festivus",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Nisour_Square_massacre",
+      "label": "Nisour Square massacre",
+      "description": "",
+      "views": 123014,
+      "qid": "Q_en_Nisour_Square_massacre",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Peter_Sutcliffe",
+      "label": "Peter Sutcliffe",
+      "description": "",
+      "views": 122697,
+      "qid": "Q_en_Peter_Sutcliffe",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Deaths_in_2020",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 121415,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 110578,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 107692,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "The_Mandalorian",
+      "label": "The Mandalorian",
+      "description": "American space opera streaming television series from 2019",
+      "views": 103079,
+      "qid": "Q56876444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86.png?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Tibs_the_Great",
+      "label": "Tibs the Great",
+      "description": "",
+      "views": 99235,
+      "qid": "Q_en_Tibs_the_Great",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Sugathakumari",
+      "label": "Sugathakumari",
+      "description": "",
+      "views": 92548,
+      "qid": "Q_en_Sugathakumari",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Bryan_Harsin",
+      "label": "Bryan Harsin",
+      "description": "",
+      "views": 91423,
+      "qid": "Q_en_Bryan_Harsin",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Wonder_Woman_1984",
+      "label": "Wonder Woman 1984",
+      "description": "",
+      "views": 90734,
+      "qid": "Q_en_Wonder_Woman_1984",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Narendra_Modi",
+      "label": "Narendra Modi",
+      "description": "Prime Minister of India since 2014",
+      "views": 90011,
+      "qid": "Q1058",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Tayshia_Adams",
+      "label": "Tayshia Adams",
+      "description": "",
+      "views": 88810,
+      "qid": "Q_en_Tayshia_Adams",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 87429,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "Kevin_Greene_(American_football)",
+      "label": "Kevin Greene (American football)",
+      "description": "",
+      "views": 84698,
+      "qid": "Q_en_Kevin_Greene_(American_football)",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "The_Queen's_Gambit_(miniseries)",
+      "label": "The Queen's Gambit",
+      "description": "2020 television miniseries",
+      "views": 81524,
+      "qid": "Q85808226",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TheQueensGambitCropped.png?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Sweet_Home_(TV_series)",
+      "label": "Sweet Home (TV series)",
+      "description": "",
+      "views": 72397,
+      "qid": "Q_en_Sweet_Home_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Princess_Margaret,_Countess_of_Snowdon",
+      "label": "Princess Margaret, Countess of Snowdon",
+      "description": "British princess (1930–2002)",
+      "views": 72206,
+      "qid": "Q153815",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Alex_Padilla",
+      "label": "Alex Padilla",
+      "description": "",
+      "views": 72151,
+      "qid": "Q_en_Alex_Padilla",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 70474,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Sister_Abhaya_murder_case",
+      "label": "Sister Abhaya murder case",
+      "description": "",
+      "views": 69165,
+      "qid": "Q_en_Sister_Abhaya_murder_case",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 68495,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Ma_Rainey",
+      "label": "Ma Rainey",
+      "description": "",
+      "views": 65429,
+      "qid": "Q_en_Ma_Rainey",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Ariana_Grande",
+      "label": "Ariana Grande",
+      "description": "American singer, songwriter, and actress (born 1993)",
+      "views": 65152,
+      "qid": "Q151892",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ariana_Grande_promoting_Wicked_%282024%29.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Queen_Victoria",
+      "label": "Victoria of the United Kingdom",
+      "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+      "views": 62097,
+      "qid": "Q9439",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Miguel_Cardona",
+      "label": "Miguel Cardona",
+      "description": "",
+      "views": 61806,
+      "qid": "Q_en_Miguel_Cardona",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Coming_2_America",
+      "label": "Coming 2 America",
+      "description": "",
+      "views": 58922,
+      "qid": "Q_en_Coming_2_America",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Tenet_(film)",
+      "label": "Tenet",
+      "description": "2020 film directed by Christopher Nolan",
+      "views": 57824,
+      "qid": "Q63985561",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenet_logo.svg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "True_Beauty_(South_Korean_TV_series)",
+      "label": "True Beauty (South Korean TV series)",
+      "description": "",
+      "views": 56337,
+      "qid": "Q_en_True_Beauty_(South_Korean_TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "List_of_people_granted_executive_clemency_by_Donald_Trump",
+      "label": "List of people granted executive clemency by Donald Trump",
+      "description": "",
+      "views": 55813,
+      "qid": "Q_en_List_of_people_granted_executive_clemency_by_Donald_Trump",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Kirk_Cameron",
+      "label": "Kirk Cameron",
+      "description": "",
+      "views": 55255,
+      "qid": "Q_en_Kirk_Cameron",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Christmas",
+      "label": "Christmas",
+      "description": "holiday originating in Christianity, usually December 25",
+      "views": 54883,
+      "qid": "Q19809",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adoration_of_the_Shepherds%2C_Murillo_%28Prado_Museum%29.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Richard_Jewell",
+      "label": "Richard Jewell",
+      "description": "",
+      "views": 54766,
+      "qid": "Q_en_Richard_Jewell",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Eric_Rudolph",
+      "label": "Eric Rudolph",
+      "description": "",
+      "views": 53865,
+      "qid": "Q_en_Eric_Rudolph",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Anya_Taylor-Joy",
+      "label": "Anya Taylor-Joy",
+      "description": "actress (born 1996)",
+      "views": 53430,
+      "qid": "Q20882479",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Macaulay_Culkin",
+      "label": "Macaulay Culkin",
+      "description": "American actor and singer (born 1980)",
+      "views": 52859,
+      "qid": "Q103578",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Macaulay_Culkin_-_Home_Alone_35th.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "After_We_Collided",
+      "label": "After We Collided",
+      "description": "",
+      "views": 52477,
+      "qid": "Q_en_After_We_Collided",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Prince_Philip,_Duke_of_Edinburgh",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "description": "consort of Elizabeth II from 1952 to 2021",
+      "views": 51194,
+      "qid": "Q80976",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_of_Edinburgh_33_Allan_Warren.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Love_Actually",
+      "label": "Love Actually",
+      "description": "",
+      "views": 50660,
+      "qid": "Q_en_Love_Actually",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Charles,_Prince_of_Wales",
+      "label": "Charles III",
+      "description": "King of the United Kingdom since 2022 (born 1948)",
+      "views": 50487,
+      "qid": "Q43274",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 49757,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Diana,_Princess_of_Wales",
+      "label": "Diana, Princess of Wales",
+      "description": "member of the British royal family and Princess of Wales (1961–1997)",
+      "views": 49333,
+      "qid": "Q9685",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Lionel_Messi",
+      "label": "Lionel Messi",
+      "description": "Argentine association football player (born 1987)",
+      "views": 49224,
+      "qid": "Q615",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Milka",
+      "label": "Milka",
+      "description": "",
+      "views": 49195,
+      "qid": "Q_en_Milka",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Paava_Kadhaigal",
+      "label": "Paava Kadhaigal",
+      "description": "",
+      "views": 48982,
+      "qid": "Q_en_Paava_Kadhaigal",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Sơn_Tùng_M-TP",
+      "label": "Sơn Tùng M-TP",
+      "description": "",
+      "views": 48799,
+      "qid": "Q_en_Sơn_Tùng_M-TP",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 48357,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    }
+  ]
+}

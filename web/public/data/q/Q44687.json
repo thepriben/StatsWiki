@@ -4,8 +4,16 @@
   "title": "Schutzstaffel",
   "description": "Nazi paramilitary organization (1925–45) with the Waffen-SS as a military branch; conducted the mass murder of the European Jews (holocaust)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-H04436%2C_Klagenfurt%2C_Adolf_Hitler%2C_Ehrenkompanie.jpg?width=64",
-  "total": 7986494,
+  "total": 8035526,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 13973
+    },
+    {
+      "period": "2020-06",
+      "views": 35059
+    },
     {
       "period": "2021-12",
       "views": 10877
@@ -36,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 49032
+    },
     {
       "period": "2021",
       "views": 10877

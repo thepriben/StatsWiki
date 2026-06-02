@@ -4,8 +4,12 @@
   "title": "Orthohantavirus",
   "description": "genus of viruses",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sin_Nombre_hanta_virus_TEM_PHIL_1136_lores.jpg?width=64",
-  "total": 2493995,
+  "total": 4311166,
   "monthly": [
+    {
+      "period": "2020-03",
+      "views": 1817171
+    },
     {
       "period": "2025-03",
       "views": 274479
@@ -16,6 +20,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 1817171
+    },
     {
       "period": "2025",
       "views": 274479

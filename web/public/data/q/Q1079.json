@@ -4,7 +4,7 @@
   "title": "Breaking_Bad",
   "description": "American crime drama television series (2008–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breaking_Bad_logo.svg?width=64",
-  "total": 15749112,
+  "total": 19412537,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 402887
+    },
+    {
+      "period": "2020-01",
+      "views": 60540
+    },
+    {
+      "period": "2020-02",
+      "views": 177843
+    },
+    {
+      "period": "2020-03",
+      "views": 386844
+    },
+    {
+      "period": "2020-04",
+      "views": 670757
+    },
+    {
+      "period": "2020-05",
+      "views": 552986
+    },
+    {
+      "period": "2020-06",
+      "views": 346006
+    },
+    {
+      "period": "2020-07",
+      "views": 383390
+    },
+    {
+      "period": "2020-08",
+      "views": 339558
+    },
+    {
+      "period": "2020-09",
+      "views": 338437
+    },
+    {
+      "period": "2020-10",
+      "views": 170429
+    },
+    {
+      "period": "2020-11",
+      "views": 11028
+    },
+    {
+      "period": "2020-12",
+      "views": 225607
     },
     {
       "period": "2021-01",
@@ -259,6 +307,10 @@
     {
       "period": "2015",
       "views": 2535116
+    },
+    {
+      "period": "2020",
+      "views": 3663425
     },
     {
       "period": "2021",

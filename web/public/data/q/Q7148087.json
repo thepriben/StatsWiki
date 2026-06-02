@@ -4,8 +4,12 @@
   "title": "Patrizia_Reggiani",
   "description": "Italian socialite and murderer (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrizia_Reggiani_matrimonio.jpg?width=64",
-  "total": 7833921,
+  "total": 7844626,
   "monthly": [
+    {
+      "period": "2020-08",
+      "views": 10705
+    },
     {
       "period": "2021-03",
       "views": 470954
@@ -88,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 10705
+    },
     {
       "period": "2021",
       "views": 4385736

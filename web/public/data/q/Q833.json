@@ -4,7 +4,7 @@
   "title": "Malaysia",
   "description": "country in Southeast Asia",
   "image": "",
-  "total": 7947396,
+  "total": 8347809,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,38 @@
     {
       "period": "2015-12",
       "views": 29007
+    },
+    {
+      "period": "2020-01",
+      "views": 75514
+    },
+    {
+      "period": "2020-02",
+      "views": 135815
+    },
+    {
+      "period": "2020-03",
+      "views": 100930
+    },
+    {
+      "period": "2020-05",
+      "views": 46575
+    },
+    {
+      "period": "2020-07",
+      "views": 9570
+    },
+    {
+      "period": "2020-08",
+      "views": 11595
+    },
+    {
+      "period": "2020-09",
+      "views": 9131
+    },
+    {
+      "period": "2020-10",
+      "views": 11283
     },
     {
       "period": "2021-03",
@@ -247,6 +279,10 @@
     {
       "period": "2015",
       "views": 868532
+    },
+    {
+      "period": "2020",
+      "views": 400413
     },
     {
       "period": "2021",

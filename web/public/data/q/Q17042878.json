@@ -4,7 +4,7 @@
   "title": "X-Men:_Apocalypse",
   "description": "2016 film directed by Bryan Singer",
   "image": "",
-  "total": 2594230,
+  "total": 2660967,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,24 @@
     {
       "period": "2015-12",
       "views": 944418
+    },
+    {
+      "period": "2020-07",
+      "views": 44857
+    },
+    {
+      "period": "2020-08",
+      "views": 21880
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2594230
+    },
+    {
+      "period": "2020",
+      "views": 66737
     }
   ]
 }

@@ -4,11 +4,27 @@
   "title": "Max_Verstappen",
   "description": "Dutch and Belgian racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28portrait_cropped%29.jpg?width=64",
-  "total": 12755285,
+  "total": 13018429,
   "monthly": [
     {
       "period": "2015-09",
       "views": 18792
+    },
+    {
+      "period": "2020-07",
+      "views": 43935
+    },
+    {
+      "period": "2020-08",
+      "views": 126267
+    },
+    {
+      "period": "2020-10",
+      "views": 12284
+    },
+    {
+      "period": "2020-12",
+      "views": 80658
     },
     {
       "period": "2021-03",
@@ -235,6 +251,10 @@
     {
       "period": "2015",
       "views": 18792
+    },
+    {
+      "period": "2020",
+      "views": 263144
     },
     {
       "period": "2021",

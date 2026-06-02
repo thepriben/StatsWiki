@@ -4,8 +4,44 @@
   "title": "Apple_Network_Server",
   "description": "Apple Network Servers provide a technical service for Apple and Apple device end users. The server profile is public domain corporate group policy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AppleMuzeumPolska.jpg?width=64",
-  "total": 12698157,
+  "total": 18324875,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 1197638
+    },
+    {
+      "period": "2020-02",
+      "views": 899812
+    },
+    {
+      "period": "2020-03",
+      "views": 1075803
+    },
+    {
+      "period": "2020-04",
+      "views": 1030056
+    },
+    {
+      "period": "2020-05",
+      "views": 311605
+    },
+    {
+      "period": "2020-06",
+      "views": 341492
+    },
+    {
+      "period": "2020-07",
+      "views": 357958
+    },
+    {
+      "period": "2020-08",
+      "views": 368091
+    },
+    {
+      "period": "2020-09",
+      "views": 44263
+    },
     {
       "period": "2022-09",
       "views": 107963
@@ -100,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 5626718
+    },
     {
       "period": "2022",
       "views": 360264

@@ -4,8 +4,12 @@
   "title": "Top_Gun:_Maverick",
   "description": "2022 film directed by Joseph Kosinski",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Top_Gun_-_Maverick_logo.svg?width=64",
-  "total": 20431000,
+  "total": 20443453,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 12453
+    },
     {
       "period": "2021-07",
       "views": 32795
@@ -176,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 12453
+    },
     {
       "period": "2021",
       "views": 56951

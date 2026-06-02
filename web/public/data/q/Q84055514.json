@@ -1,0 +1,28 @@
+{
+  "qid": "Q84055514",
+  "label": "COVID-19 pandemic in India",
+  "title": "2020_coronavirus_pandemic_in_India",
+  "description": "ongoing COVID-19 viral pandemic in India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chennai_Health_Minister.jpg?width=64",
+  "total": 11709121,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 6467053
+    },
+    {
+      "period": "2020-04",
+      "views": 4567901
+    },
+    {
+      "period": "2020-05",
+      "views": 674167
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 11709121
+    }
+  ]
+}

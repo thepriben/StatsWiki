@@ -4,8 +4,16 @@
   "title": "Uruguayan_Air_Force_Flight_571",
   "description": "aviation accident",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FokkerAnde1972.jpg?width=64",
-  "total": 4977441,
+  "total": 5018136,
   "monthly": [
+    {
+      "period": "2020-09",
+      "views": 10689
+    },
+    {
+      "period": "2020-10",
+      "views": 30006
+    },
     {
       "period": "2021-04",
       "views": 23192
@@ -60,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 40695
+    },
     {
       "period": "2021",
       "views": 88937

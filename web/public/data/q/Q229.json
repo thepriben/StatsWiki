@@ -4,7 +4,7 @@
   "title": "Cyprus",
   "description": "country in the Mediterranean Sea",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CGI_Cyprus_Flag.png?width=64",
-  "total": 8952222,
+  "total": 9157131,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,6 +17,26 @@
     {
       "period": "2015-12",
       "views": 10242
+    },
+    {
+      "period": "2020-01",
+      "views": 11702
+    },
+    {
+      "period": "2020-07",
+      "views": 22360
+    },
+    {
+      "period": "2020-08",
+      "views": 133461
+    },
+    {
+      "period": "2020-09",
+      "views": 9660
+    },
+    {
+      "period": "2020-10",
+      "views": 27726
     },
     {
       "period": "2021-05",
@@ -239,6 +259,10 @@
     {
       "period": "2015",
       "views": 60921
+    },
+    {
+      "period": "2020",
+      "views": 204909
     },
     {
       "period": "2021",

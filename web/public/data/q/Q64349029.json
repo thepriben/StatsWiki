@@ -4,8 +4,16 @@
   "title": "Loki_(TV_series)",
   "description": "American streaming television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loki_TV_Series_Logo_Black.svg?width=64",
-  "total": 9316572,
+  "total": 9485237,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 18668
+    },
+    {
+      "period": "2020-12",
+      "views": 149997
+    },
     {
       "period": "2021-02",
       "views": 35785
@@ -76,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 168665
+    },
     {
       "period": "2021",
       "views": 7882338

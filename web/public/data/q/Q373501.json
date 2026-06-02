@@ -4,8 +4,36 @@
   "title": "UEFA_Euro_2020",
   "description": "16th men’s European association football championship",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Euro_2020_logo.svg?width=64",
-  "total": 18921996,
+  "total": 20280829,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 297672
+    },
+    {
+      "period": "2020-02",
+      "views": 211635
+    },
+    {
+      "period": "2020-03",
+      "views": 277129
+    },
+    {
+      "period": "2020-06",
+      "views": 24539
+    },
+    {
+      "period": "2020-09",
+      "views": 72674
+    },
+    {
+      "period": "2020-10",
+      "views": 129097
+    },
+    {
+      "period": "2020-11",
+      "views": 346087
+    },
     {
       "period": "2021-02",
       "views": 55132
@@ -112,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 1358833
+    },
     {
       "period": "2021",
       "views": 15020657

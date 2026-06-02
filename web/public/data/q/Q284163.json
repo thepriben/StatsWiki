@@ -4,11 +4,27 @@
   "title": "2022_FIFA_World_Cup",
   "description": "22nd FIFA World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_FIFA_World_Cup_Qatar_%28Wordmark%29.svg?width=64",
-  "total": 53223393,
+  "total": 53328186,
   "monthly": [
     {
       "period": "2015-07",
       "views": 11756
+    },
+    {
+      "period": "2020-07",
+      "views": 31807
+    },
+    {
+      "period": "2020-10",
+      "views": 10339
+    },
+    {
+      "period": "2020-11",
+      "views": 14565
+    },
+    {
+      "period": "2020-12",
+      "views": 48082
     },
     {
       "period": "2021-03",
@@ -219,6 +235,10 @@
     {
       "period": "2015",
       "views": 11756
+    },
+    {
+      "period": "2020",
+      "views": 104793
     },
     {
       "period": "2021",

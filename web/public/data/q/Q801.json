@@ -4,7 +4,7 @@
   "title": "Israel",
   "description": "country in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Satellite_image_of_Israel_in_January_2003.jpg?width=64",
-  "total": 39756177,
+  "total": 44020837,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 382861
+    },
+    {
+      "period": "2020-01",
+      "views": 526591
+    },
+    {
+      "period": "2020-02",
+      "views": 266400
+    },
+    {
+      "period": "2020-03",
+      "views": 377668
+    },
+    {
+      "period": "2020-04",
+      "views": 509022
+    },
+    {
+      "period": "2020-05",
+      "views": 457810
+    },
+    {
+      "period": "2020-06",
+      "views": 316866
+    },
+    {
+      "period": "2020-07",
+      "views": 387546
+    },
+    {
+      "period": "2020-08",
+      "views": 400956
+    },
+    {
+      "period": "2020-09",
+      "views": 349806
+    },
+    {
+      "period": "2020-10",
+      "views": 192641
+    },
+    {
+      "period": "2020-11",
+      "views": 152590
+    },
+    {
+      "period": "2020-12",
+      "views": 326764
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 2450026
+    },
+    {
+      "period": "2020",
+      "views": 4264660
     },
     {
       "period": "2021",

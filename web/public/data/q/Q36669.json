@@ -4,7 +4,7 @@
   "title": "Daylight_saving_time",
   "description": "seasonal adjustment of clocks",
   "image": "",
-  "total": 6896453,
+  "total": 7516799,
   "monthly": [
     {
       "period": "2015-09",
@@ -17,6 +17,18 @@
     {
       "period": "2015-11",
       "views": 312995
+    },
+    {
+      "period": "2020-03",
+      "views": 245284
+    },
+    {
+      "period": "2020-10",
+      "views": 205244
+    },
+    {
+      "period": "2020-11",
+      "views": 169818
     },
     {
       "period": "2021-03",
@@ -107,6 +119,10 @@
     {
       "period": "2015",
       "views": 943487
+    },
+    {
+      "period": "2020",
+      "views": 620346
     },
     {
       "period": "2021",

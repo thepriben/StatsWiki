@@ -4,7 +4,7 @@
   "title": "Taj_Mahal",
   "description": "marble mausoleum in Agra, India",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_%28Edited%29.jpeg?width=64",
-  "total": 11702563,
+  "total": 14457355,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 304350
+    },
+    {
+      "period": "2020-01",
+      "views": 303063
+    },
+    {
+      "period": "2020-02",
+      "views": 452651
+    },
+    {
+      "period": "2020-03",
+      "views": 227936
+    },
+    {
+      "period": "2020-04",
+      "views": 203190
+    },
+    {
+      "period": "2020-05",
+      "views": 272877
+    },
+    {
+      "period": "2020-06",
+      "views": 222410
+    },
+    {
+      "period": "2020-07",
+      "views": 247889
+    },
+    {
+      "period": "2020-08",
+      "views": 194738
+    },
+    {
+      "period": "2020-09",
+      "views": 249680
+    },
+    {
+      "period": "2020-10",
+      "views": 195889
+    },
+    {
+      "period": "2020-11",
+      "views": 54597
+    },
+    {
+      "period": "2020-12",
+      "views": 129872
     },
     {
       "period": "2021-01",
@@ -219,6 +267,10 @@
     {
       "period": "2015",
       "views": 1886825
+    },
+    {
+      "period": "2020",
+      "views": 2754792
     },
     {
       "period": "2021",

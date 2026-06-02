@@ -1,0 +1,100 @@
+{
+  "qid": "Q83864933",
+  "label": "Template:COVID-19 pandemic data",
+  "title": "Template:COVID-19_pandemic_data",
+  "description": "Wikimedia template",
+  "image": "",
+  "total": 22052686,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 320705
+    },
+    {
+      "period": "2020-04",
+      "views": 3744239
+    },
+    {
+      "period": "2020-05",
+      "views": 3833532
+    },
+    {
+      "period": "2020-06",
+      "views": 2457772
+    },
+    {
+      "period": "2020-07",
+      "views": 1906158
+    },
+    {
+      "period": "2020-08",
+      "views": 1228767
+    },
+    {
+      "period": "2020-09",
+      "views": 1249535
+    },
+    {
+      "period": "2020-10",
+      "views": 1227942
+    },
+    {
+      "period": "2020-11",
+      "views": 874575
+    },
+    {
+      "period": "2020-12",
+      "views": 636529
+    },
+    {
+      "period": "2021-01",
+      "views": 631532
+    },
+    {
+      "period": "2021-02",
+      "views": 376503
+    },
+    {
+      "period": "2021-03",
+      "views": 430586
+    },
+    {
+      "period": "2021-04",
+      "views": 488468
+    },
+    {
+      "period": "2021-05",
+      "views": 650971
+    },
+    {
+      "period": "2021-06",
+      "views": 458971
+    },
+    {
+      "period": "2021-07",
+      "views": 504665
+    },
+    {
+      "period": "2021-08",
+      "views": 565896
+    },
+    {
+      "period": "2021-09",
+      "views": 342358
+    },
+    {
+      "period": "2021-10",
+      "views": 122982
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 17479754
+    },
+    {
+      "period": "2021",
+      "views": 4572932
+    }
+  ]
+}

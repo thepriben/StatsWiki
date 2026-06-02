@@ -4,7 +4,7 @@
   "title": "China",
   "description": "country in East Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Badaling_China_Great-Wall-of-China-01.jpg?width=64",
-  "total": 36522063,
+  "total": 43526419,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 473720
+    },
+    {
+      "period": "2020-01",
+      "views": 620591
+    },
+    {
+      "period": "2020-02",
+      "views": 559788
+    },
+    {
+      "period": "2020-03",
+      "views": 879471
+    },
+    {
+      "period": "2020-04",
+      "views": 820165
+    },
+    {
+      "period": "2020-05",
+      "views": 676641
+    },
+    {
+      "period": "2020-06",
+      "views": 592660
+    },
+    {
+      "period": "2020-07",
+      "views": 582733
+    },
+    {
+      "period": "2020-08",
+      "views": 428309
+    },
+    {
+      "period": "2020-09",
+      "views": 483479
+    },
+    {
+      "period": "2020-10",
+      "views": 474414
+    },
+    {
+      "period": "2020-11",
+      "views": 440632
+    },
+    {
+      "period": "2020-12",
+      "views": 445473
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 3152105
+    },
+    {
+      "period": "2020",
+      "views": 7004356
     },
     {
       "period": "2021",

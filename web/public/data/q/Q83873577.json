@@ -1,0 +1,32 @@
+{
+  "qid": "Q83873577",
+  "label": "COVID-19 pandemic in the United States",
+  "title": "2020_coronavirus_pandemic_in_the_United_States",
+  "description": "COVID-19 viral pandemic in the United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald_Trump_Coronavirus_briefing.jpg?width=64",
+  "total": 10314686,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 5122174
+    },
+    {
+      "period": "2020-04",
+      "views": 4571341
+    },
+    {
+      "period": "2020-05",
+      "views": 554507
+    },
+    {
+      "period": "2020-06",
+      "views": 66664
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 10314686
+    }
+  ]
+}

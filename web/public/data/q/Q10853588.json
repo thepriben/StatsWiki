@@ -4,8 +4,48 @@
   "title": "Kamala_Harris",
   "description": "Vice President of the United States from 2021 to 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamala_Harris_Vice_Presidential_Portrait.jpg?width=64",
-  "total": 35504365,
+  "total": 66014051,
   "monthly": [
+    {
+      "period": "2020-03",
+      "views": 97619
+    },
+    {
+      "period": "2020-04",
+      "views": 75907
+    },
+    {
+      "period": "2020-05",
+      "views": 48761
+    },
+    {
+      "period": "2020-06",
+      "views": 607557
+    },
+    {
+      "period": "2020-07",
+      "views": 654697
+    },
+    {
+      "period": "2020-08",
+      "views": 8380682
+    },
+    {
+      "period": "2020-09",
+      "views": 1107030
+    },
+    {
+      "period": "2020-10",
+      "views": 3525955
+    },
+    {
+      "period": "2020-11",
+      "views": 15235954
+    },
+    {
+      "period": "2020-12",
+      "views": 775524
+    },
     {
       "period": "2021-01",
       "views": 6041021
@@ -236,6 +276,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 30509686
+    },
     {
       "period": "2021",
       "views": 9746113

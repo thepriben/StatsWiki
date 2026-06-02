@@ -4,8 +4,40 @@
   "title": "Kristi_Noem",
   "description": "American politician (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Portrait_of_Secretary_Kristi_Noem.jpg?width=64",
-  "total": 13379613,
+  "total": 14695838,
   "monthly": [
+    {
+      "period": "2020-04",
+      "views": 234306
+    },
+    {
+      "period": "2020-05",
+      "views": 79774
+    },
+    {
+      "period": "2020-06",
+      "views": 43057
+    },
+    {
+      "period": "2020-07",
+      "views": 292649
+    },
+    {
+      "period": "2020-08",
+      "views": 286066
+    },
+    {
+      "period": "2020-09",
+      "views": 76812
+    },
+    {
+      "period": "2020-10",
+      "views": 60912
+    },
+    {
+      "period": "2020-11",
+      "views": 242649
+    },
     {
       "period": "2021-02",
       "views": 130732
@@ -168,6 +200,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 1316225
+    },
     {
       "period": "2021",
       "views": 458725

@@ -4,7 +4,7 @@
   "title": "George_Lucas",
   "description": "American filmmaker and philanthropist (born 1944)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Lucas_cropped_2009.jpg?width=64",
-  "total": 1911295,
+  "total": 2359838,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,6 +17,26 @@
     {
       "period": "2015-12",
       "views": 1166080
+    },
+    {
+      "period": "2020-01",
+      "views": 90375
+    },
+    {
+      "period": "2020-05",
+      "views": 40386
+    },
+    {
+      "period": "2020-10",
+      "views": 14684
+    },
+    {
+      "period": "2020-11",
+      "views": 57447
+    },
+    {
+      "period": "2020-12",
+      "views": 245651
     },
     {
       "period": "2021-01",
@@ -91,6 +111,10 @@
     {
       "period": "2015",
       "views": 1299526
+    },
+    {
+      "period": "2020",
+      "views": 448543
     },
     {
       "period": "2021",

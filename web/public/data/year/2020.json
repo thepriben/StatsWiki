@@ -1,0 +1,505 @@
+{
+  "period": "2020",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "United_States_Senate",
+      "label": "United States Senate",
+      "description": "upper house of the United States Congress",
+      "views": 293698534,
+      "qid": "Q66096",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Senate_Floor.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "2019–20_coronavirus_pandemic",
+      "label": "COVID-19 pandemic",
+      "description": "pandemic caused by SARS-CoV-2 (2019–2023)",
+      "views": 73045488,
+      "qid": "Q81068910",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 48271427,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 41989440,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Deaths_in_2020",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 40016552,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Kobe_Bryant",
+      "label": "Kobe Bryant",
+      "description": "American basketball player (1978–2020)",
+      "views": 31809127,
+      "qid": "Q25369",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kobe_Bryant_2015.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Joe_Biden",
+      "label": "Joe Biden",
+      "description": "46th President of the United States (2021–2025)",
+      "views": 31422972,
+      "qid": "Q6279",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_presidential_portrait.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Kamala_Harris",
+      "label": "Kamala Harris",
+      "description": "Vice President of the United States from 2021 to 2025",
+      "views": 30509686,
+      "qid": "Q10853588",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamala_Harris_Vice_Presidential_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Coronavirus",
+      "label": "Coronavirus",
+      "description": "subfamily of viruses",
+      "views": 29882228,
+      "qid": "Q57751738",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Electron_micrograph_of_two_coronaviruses.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 23218539,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "2020_United_States_presidential_election",
+      "label": "2020 United States presidential election",
+      "description": "59th quadrennial U.S. presidential election",
+      "views": 21796427,
+      "qid": "Q22923830",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_and_Donald_Trump.jpg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 21578500,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 20529727,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "2019–20_coronavirus_pandemic_by_country_and_territory",
+      "label": "COVID-19 pandemic by country and territory",
+      "description": "details regarding the COVID-19 pandemic by country and territory",
+      "views": 19880163,
+      "qid": "Q83741704",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Michael_Jordan",
+      "label": "Michael Jordan",
+      "description": "American basketball player and businessman (born 1963)",
+      "views": 19744027,
+      "qid": "Q41421",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jordan.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Spanish_flu",
+      "label": "1918–1920 flu pandemic",
+      "description": "1918–1920 global influenza pandemic caused by the H1N1 influenza A virus",
+      "views": 19720874,
+      "qid": "Q178275",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "2016_United_States_presidential_election",
+      "label": "2016 United States presidential election",
+      "description": "58th quadrennial U.S. presidential election",
+      "views": 18604890,
+      "qid": "Q699872",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Coronavirus_disease_2019",
+      "label": "COVID-19",
+      "description": "contagious disease caused by SARS-CoV-2",
+      "views": 17947609,
+      "qid": "Q84263196",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/COVID-19-Longontsteking.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 17582180,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Sushant_Singh_Rajput",
+      "label": "Sushant Singh Rajput",
+      "description": "Indian actor (1986-2020)",
+      "views": 17143756,
+      "qid": "Q10296530",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushant_sr_Manish_M_B%27day_bash.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Chadwick_Boseman",
+      "label": "Chadwick Boseman",
+      "description": "American actor (1976–2020)",
+      "views": 16783564,
+      "qid": "Q5066520",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Tasuku_Honjo",
+      "label": "Tasuku Honjo",
+      "description": "Japanese professor of immunology and genomic medicine (1942–)",
+      "views": 16178478,
+      "qid": "Q2395341",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tasuku_Honjo_201311.jpg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "2020_coronavirus_pandemic_in_India",
+      "label": "COVID-19 pandemic in India",
+      "description": "ongoing COVID-19 viral pandemic in India",
+      "views": 16121627,
+      "qid": "Q84055514",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chennai_Health_Minister.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "QAnon",
+      "label": "QAnon",
+      "description": "American far-right conspiracy theory and movement",
+      "views": 16092416,
+      "qid": "Q51213808",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginia_2nd_Amendment_Rally_%282020_Jan%29_-_49416341132.jpg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Parasite_(2019_film)",
+      "label": "Parasite",
+      "description": "2019 film directed by Bong Joon-ho",
+      "views": 16016108,
+      "qid": "Q61448040",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parasite_Logo.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "2020_coronavirus_pandemic_in_the_United_States",
+      "label": "COVID-19 pandemic in the United States",
+      "description": "COVID-19 viral pandemic in the United States",
+      "views": 15939304,
+      "qid": "Q83873577",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald_Trump_Coronavirus_briefing.jpg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 15565613,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "United_States",
+      "label": "United States",
+      "description": "country located primarily in North America",
+      "views": 15082326,
+      "qid": "Q30",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "F5_Networks",
+      "label": "F5, Inc.",
+      "description": "Multi-cloud cybersecurity and application delivery company",
+      "views": 14832004,
+      "qid": "Q3029296",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F5_Tower_-_July_2017.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 14340693,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Princess_Margaret,_Countess_of_Snowdon",
+      "label": "Princess Margaret, Countess of Snowdon",
+      "description": "British princess (1930–2002)",
+      "views": 14306948,
+      "qid": "Q153815",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Barack_Obama",
+      "label": "Barack Obama",
+      "description": "president of the United States from 2009 to 2017 (born 1961)",
+      "views": 13447208,
+      "qid": "Q76",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Barack_Obama.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "Alexander_Hamilton",
+      "label": "Alexander Hamilton",
+      "description": "American Founding Father and statesman (1755/1757–1804)",
+      "views": 13437315,
+      "qid": "Q178903",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Arts_Project_-_Alexander_Hamilton_%281792_portrait%29_by_John_Trumbull.jpg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Billie_Eilish",
+      "label": "Billie Eilish",
+      "description": "American singer-songwriter (born 2001)",
+      "views": 12654885,
+      "qid": "Q29564107",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Jeffrey_Epstein",
+      "label": "Jeffrey Epstein",
+      "description": "American financier and sex offender (1953–2019)",
+      "views": 12380362,
+      "qid": "Q2904131",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "The_Mandalorian",
+      "label": "The Mandalorian",
+      "description": "American space opera streaming television series from 2019",
+      "views": 12335549,
+      "qid": "Q56876444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86.png?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Tenet_(film)",
+      "label": "Tenet",
+      "description": "2020 film directed by Christopher Nolan",
+      "views": 12319621,
+      "qid": "Q63985561",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenet_logo.svg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Prince_Philip,_Duke_of_Edinburgh",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "description": "consort of Elizabeth II from 1952 to 2021",
+      "views": 11827229,
+      "qid": "Q80976",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_of_Edinburgh_33_Allan_Warren.jpg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Diana,_Princess_of_Wales",
+      "label": "Diana, Princess of Wales",
+      "description": "member of the British royal family and Princess of Wales (1961–1997)",
+      "views": 11683587,
+      "qid": "Q9685",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Charles,_Prince_of_Wales",
+      "label": "Charles III",
+      "description": "King of the United Kingdom since 2022 (born 1948)",
+      "views": 11660834,
+      "qid": "Q43274",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "The_Queen's_Gambit_(miniseries)",
+      "label": "The Queen's Gambit",
+      "description": "2020 television miniseries",
+      "views": 11490694,
+      "qid": "Q85808226",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TheQueensGambitCropped.png?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "List_of_presidents_of_the_United_States",
+      "label": "list of presidents of the United States",
+      "description": "head of the executive branch of the federal government of the United States",
+      "views": 11434580,
+      "qid": "Q35073",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "United_States_Electoral_College",
+      "label": "United States Electoral College",
+      "description": "institution that officially elects the President and Vice President of the United States",
+      "views": 11213940,
+      "qid": "Q47586",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_electoral_college_casting_vote_for_Harrison_-_DPLA_-_c4d90aa3c45b2c8142c6c52235bf2645_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "List_of_Marvel_Cinematic_Universe_films",
+      "label": "list of Marvel Cinematic Universe films",
+      "description": "Wikimedia list article",
+      "views": 11191169,
+      "qid": "Q16148930",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 11135187,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Media",
+      "label": "Media",
+      "description": "Wikimedia disambiguation page",
+      "views": 10993950,
+      "qid": "Q1727518",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "BBC_World_Service",
+      "label": "BBC World Service",
+      "description": "international radio station of the BBC",
+      "views": 10898639,
+      "qid": "Q423289",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Broadcasting_House_and_East_Wing.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "India",
+      "label": "India",
+      "description": "country in South Asia",
+      "views": 10220569,
+      "qid": "Q668",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India-locator-map-blank.svg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Periodic_table",
+      "label": "periodic table",
+      "description": "table systematically placing elements based on atomic number and recurrent properties",
+      "views": 10013517,
+      "qid": "Q10693",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Periodic_table_%2832-col%2C_enwiki%29%2C_black_and_white.png?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 9997553,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    }
+  ],
+  "nav": [
+    {
+      "label": "January",
+      "path": "2020/01"
+    },
+    {
+      "label": "February",
+      "path": "2020/02"
+    },
+    {
+      "label": "March",
+      "path": "2020/03"
+    },
+    {
+      "label": "April",
+      "path": "2020/04"
+    },
+    {
+      "label": "May",
+      "path": "2020/05"
+    },
+    {
+      "label": "June",
+      "path": "2020/06"
+    },
+    {
+      "label": "July",
+      "path": "2020/07"
+    },
+    {
+      "label": "August",
+      "path": "2020/08"
+    },
+    {
+      "label": "September",
+      "path": "2020/09"
+    },
+    {
+      "label": "October",
+      "path": "2020/10"
+    },
+    {
+      "label": "November",
+      "path": "2020/11"
+    },
+    {
+      "label": "December",
+      "path": "2020/12"
+    }
+  ]
+}

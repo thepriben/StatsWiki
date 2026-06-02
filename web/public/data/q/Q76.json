@@ -4,7 +4,7 @@
   "title": "Barack_obama",
   "description": "president of the United States from 2009 to 2017 (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Barack_Obama.jpg?width=64",
-  "total": 43762372,
+  "total": 57209580,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 1785970
+    },
+    {
+      "period": "2020-01",
+      "views": 795764
+    },
+    {
+      "period": "2020-02",
+      "views": 962825
+    },
+    {
+      "period": "2020-03",
+      "views": 882490
+    },
+    {
+      "period": "2020-04",
+      "views": 901389
+    },
+    {
+      "period": "2020-05",
+      "views": 1078819
+    },
+    {
+      "period": "2020-06",
+      "views": 1174924
+    },
+    {
+      "period": "2020-07",
+      "views": 874325
+    },
+    {
+      "period": "2020-08",
+      "views": 972616
+    },
+    {
+      "period": "2020-09",
+      "views": 755257
+    },
+    {
+      "period": "2020-10",
+      "views": 1249565
+    },
+    {
+      "period": "2020-11",
+      "views": 3094541
+    },
+    {
+      "period": "2020-12",
+      "views": 704693
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 7022819
+    },
+    {
+      "period": "2020",
+      "views": 13447208
     },
     {
       "period": "2021",

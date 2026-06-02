@@ -4,7 +4,7 @@
   "title": "Amazon.com",
   "description": "American multinational technology company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_Tower_I_topped_out%2C_June_2015.jpg?width=64",
-  "total": 24333361,
+  "total": 29501279,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 241494
+    },
+    {
+      "period": "2020-01",
+      "views": 310536
+    },
+    {
+      "period": "2020-02",
+      "views": 342279
+    },
+    {
+      "period": "2020-03",
+      "views": 295019
+    },
+    {
+      "period": "2020-04",
+      "views": 298775
+    },
+    {
+      "period": "2020-05",
+      "views": 425233
+    },
+    {
+      "period": "2020-06",
+      "views": 376339
+    },
+    {
+      "period": "2020-07",
+      "views": 441461
+    },
+    {
+      "period": "2020-08",
+      "views": 415910
+    },
+    {
+      "period": "2020-09",
+      "views": 470541
+    },
+    {
+      "period": "2020-10",
+      "views": 529692
+    },
+    {
+      "period": "2020-11",
+      "views": 616896
+    },
+    {
+      "period": "2020-12",
+      "views": 645237
     },
     {
       "period": "2021-01",
@@ -275,6 +323,10 @@
     {
       "period": "2015",
       "views": 1626483
+    },
+    {
+      "period": "2020",
+      "views": 5167918
     },
     {
       "period": "2021",

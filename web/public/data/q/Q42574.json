@@ -4,7 +4,7 @@
   "title": "James_Cameron",
   "description": "Canadian filmmaker (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg?width=64",
-  "total": 6709366,
+  "total": 6789111,
   "monthly": [
     {
       "period": "2015-07",
@@ -13,6 +13,22 @@
     {
       "period": "2015-10",
       "views": 9938
+    },
+    {
+      "period": "2020-02",
+      "views": 16317
+    },
+    {
+      "period": "2020-05",
+      "views": 13940
+    },
+    {
+      "period": "2020-08",
+      "views": 11275
+    },
+    {
+      "period": "2020-11",
+      "views": 38213
     },
     {
       "period": "2021-03",
@@ -127,6 +143,10 @@
     {
       "period": "2015",
       "views": 144468
+    },
+    {
+      "period": "2020",
+      "views": 79745
     },
     {
       "period": "2021",

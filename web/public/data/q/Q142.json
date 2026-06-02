@@ -4,7 +4,7 @@
   "title": "France",
   "description": "country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris_from_the_Arc_de_Triomphe%2C_17_October_2019.jpg?width=64",
-  "total": 24433675,
+  "total": 28266502,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 277293
+    },
+    {
+      "period": "2020-01",
+      "views": 305026
+    },
+    {
+      "period": "2020-02",
+      "views": 362411
+    },
+    {
+      "period": "2020-03",
+      "views": 403412
+    },
+    {
+      "period": "2020-04",
+      "views": 448204
+    },
+    {
+      "period": "2020-05",
+      "views": 377805
+    },
+    {
+      "period": "2020-06",
+      "views": 223248
+    },
+    {
+      "period": "2020-07",
+      "views": 307368
+    },
+    {
+      "period": "2020-08",
+      "views": 282345
+    },
+    {
+      "period": "2020-09",
+      "views": 331607
+    },
+    {
+      "period": "2020-10",
+      "views": 457098
+    },
+    {
+      "period": "2020-11",
+      "views": 212181
+    },
+    {
+      "period": "2020-12",
+      "views": 122122
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 2550515
+    },
+    {
+      "period": "2020",
+      "views": 3832827
     },
     {
       "period": "2021",

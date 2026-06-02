@@ -4,8 +4,32 @@
   "title": "Murder_of_Dee_Dee_Blanchard",
   "description": "murder in Springfield, Missouri in 2015",
   "image": "",
-  "total": 7445325,
+  "total": 7555339,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 37939
+    },
+    {
+      "period": "2020-03",
+      "views": 11539
+    },
+    {
+      "period": "2020-04",
+      "views": 25454
+    },
+    {
+      "period": "2020-05",
+      "views": 9739
+    },
+    {
+      "period": "2020-07",
+      "views": 12900
+    },
+    {
+      "period": "2020-11",
+      "views": 12443
+    },
     {
       "period": "2021-01",
       "views": 77052
@@ -72,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 110014
+    },
     {
       "period": "2021",
       "views": 422683

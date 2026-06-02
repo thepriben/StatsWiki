@@ -4,8 +4,56 @@
   "title": "2020_United_States_presidential_election",
   "description": "59th quadrennial U.S. presidential election",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_and_Donald_Trump.jpg?width=64",
-  "total": 30317023,
+  "total": 52113450,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 514392
+    },
+    {
+      "period": "2020-02",
+      "views": 692950
+    },
+    {
+      "period": "2020-03",
+      "views": 1011363
+    },
+    {
+      "period": "2020-04",
+      "views": 632359
+    },
+    {
+      "period": "2020-05",
+      "views": 545066
+    },
+    {
+      "period": "2020-06",
+      "views": 857791
+    },
+    {
+      "period": "2020-07",
+      "views": 1042336
+    },
+    {
+      "period": "2020-08",
+      "views": 1019756
+    },
+    {
+      "period": "2020-09",
+      "views": 1115923
+    },
+    {
+      "period": "2020-10",
+      "views": 2206325
+    },
+    {
+      "period": "2020-11",
+      "views": 10195815
+    },
+    {
+      "period": "2020-12",
+      "views": 1962351
+    },
     {
       "period": "2021-01",
       "views": 1773979
@@ -256,6 +304,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 21796427
+    },
     {
       "period": "2021",
       "views": 7183451

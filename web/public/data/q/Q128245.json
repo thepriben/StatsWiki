@@ -4,8 +4,16 @@
   "title": "Mohammad_Reza_Pahlavi",
   "description": "Shah of Iran from 1941 to 1979",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shah_Mohammad_Reza_Pahlavi%2C_1973.jpg?width=64",
-  "total": 4391870,
+  "total": 4711056,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 291043
+    },
+    {
+      "period": "2020-04",
+      "views": 28143
+    },
     {
       "period": "2022-09",
       "views": 89280
@@ -60,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 319186
+    },
     {
       "period": "2022",
       "views": 108686

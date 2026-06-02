@@ -4,8 +4,16 @@
   "title": "2019_Indian_general_election",
   "description": "elections for the 17th Lok Sabha, India",
   "image": "",
-  "total": 4635253,
+  "total": 4681535,
   "monthly": [
+    {
+      "period": "2020-02",
+      "views": 19490
+    },
+    {
+      "period": "2020-11",
+      "views": 26792
+    },
     {
       "period": "2021-05",
       "views": 16839
@@ -52,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 46282
+    },
     {
       "period": "2021",
       "views": 16839

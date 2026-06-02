@@ -4,8 +4,24 @@
   "title": "Laura_Loomer",
   "description": "American political activist (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laura_Loomer_by_Gage_Skidmore.jpg?width=64",
-  "total": 4636627,
+  "total": 4961764,
   "monthly": [
+    {
+      "period": "2020-04",
+      "views": 15040
+    },
+    {
+      "period": "2020-08",
+      "views": 274713
+    },
+    {
+      "period": "2020-09",
+      "views": 10954
+    },
+    {
+      "period": "2020-12",
+      "views": 24430
+    },
     {
       "period": "2021-09",
       "views": 36276
@@ -96,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 325137
+    },
     {
       "period": "2021",
       "views": 36276

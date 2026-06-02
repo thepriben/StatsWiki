@@ -4,7 +4,7 @@
   "title": "United_Kingdom",
   "description": "island country in north-west Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg?width=64",
-  "total": 49815490,
+  "total": 58289020,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 653948
+    },
+    {
+      "period": "2020-01",
+      "views": 736170
+    },
+    {
+      "period": "2020-02",
+      "views": 696657
+    },
+    {
+      "period": "2020-03",
+      "views": 798367
+    },
+    {
+      "period": "2020-04",
+      "views": 894413
+    },
+    {
+      "period": "2020-05",
+      "views": 812146
+    },
+    {
+      "period": "2020-06",
+      "views": 611216
+    },
+    {
+      "period": "2020-07",
+      "views": 630391
+    },
+    {
+      "period": "2020-08",
+      "views": 544313
+    },
+    {
+      "period": "2020-09",
+      "views": 627706
+    },
+    {
+      "period": "2020-10",
+      "views": 652542
+    },
+    {
+      "period": "2020-11",
+      "views": 725127
+    },
+    {
+      "period": "2020-12",
+      "views": 744482
     },
     {
       "period": "2021-01",
@@ -295,6 +343,10 @@
     {
       "period": "2015",
       "views": 4200153
+    },
+    {
+      "period": "2020",
+      "views": 8473530
     },
     {
       "period": "2021",

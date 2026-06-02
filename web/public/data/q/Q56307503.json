@@ -4,8 +4,12 @@
   "title": "Godzilla_vs._Kong",
   "description": "2021 film directed by Adam Wingard",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Godzilla_vs._Kong_Logo.png?width=64",
-  "total": 10729542,
+  "total": 10740734,
   "monthly": [
+    {
+      "period": "2020-12",
+      "views": 11192
+    },
     {
       "period": "2021-01",
       "views": 1085960
@@ -80,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 11192
+    },
     {
       "period": "2021",
       "views": 9519250

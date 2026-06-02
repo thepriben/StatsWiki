@@ -4,7 +4,7 @@
   "title": "Furious_7",
   "description": "2015 film directed by James Wan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Furious-7-logo.png?width=64",
-  "total": 3131564,
+  "total": 3196664,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,14 @@
     {
       "period": "2015-12",
       "views": 237775
+    },
+    {
+      "period": "2020-02",
+      "views": 52295
+    },
+    {
+      "period": "2020-05",
+      "views": 12805
     },
     {
       "period": "2021-06",
@@ -59,6 +67,10 @@
     {
       "period": "2015",
       "views": 2586607
+    },
+    {
+      "period": "2020",
+      "views": 65100
     },
     {
       "period": "2021",

@@ -4,7 +4,7 @@
   "title": "Thomas_Edison",
   "description": "American inventor and businessman (1847–1931)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Edison2-crop.jpg?width=64",
-  "total": 962448,
+  "total": 1129795,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,6 +25,26 @@
     {
       "period": "2015-12",
       "views": 84001
+    },
+    {
+      "period": "2020-01",
+      "views": 47330
+    },
+    {
+      "period": "2020-02",
+      "views": 64627
+    },
+    {
+      "period": "2020-03",
+      "views": 20314
+    },
+    {
+      "period": "2020-09",
+      "views": 22426
+    },
+    {
+      "period": "2020-10",
+      "views": 12650
     },
     {
       "period": "2021-02",
@@ -71,6 +91,10 @@
     {
       "period": "2015",
       "views": 761345
+    },
+    {
+      "period": "2020",
+      "views": 167347
     },
     {
       "period": "2021",

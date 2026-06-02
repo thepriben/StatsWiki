@@ -4,7 +4,7 @@
   "title": "List_of_Agents_of_S.H.I.E.L.D._episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 808473,
+  "total": 918241,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,32 @@
     {
       "period": "2015-12",
       "views": 226352
+    },
+    {
+      "period": "2020-05",
+      "views": 15733
+    },
+    {
+      "period": "2020-06",
+      "views": 9197
+    },
+    {
+      "period": "2020-07",
+      "views": 57916
+    },
+    {
+      "period": "2020-08",
+      "views": 26922
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 808473
+    },
+    {
+      "period": "2020",
+      "views": 109768
     }
   ]
 }

@@ -4,8 +4,44 @@
   "title": "Logan_Paul",
   "description": "American YouTuber and Internet personality (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logan_Paul_%2848086619418%29.jpg?width=64",
-  "total": 7660983,
+  "total": 9048242,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 42554
+    },
+    {
+      "period": "2020-02",
+      "views": 23038
+    },
+    {
+      "period": "2020-03",
+      "views": 9391
+    },
+    {
+      "period": "2020-06",
+      "views": 95364
+    },
+    {
+      "period": "2020-07",
+      "views": 9588
+    },
+    {
+      "period": "2020-08",
+      "views": 108060
+    },
+    {
+      "period": "2020-09",
+      "views": 34918
+    },
+    {
+      "period": "2020-11",
+      "views": 320329
+    },
+    {
+      "period": "2020-12",
+      "views": 744017
+    },
     {
       "period": "2021-01",
       "views": 43251
@@ -208,6 +244,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 1387259
+    },
     {
       "period": "2021",
       "views": 2761195

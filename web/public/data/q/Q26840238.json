@@ -4,8 +4,16 @@
   "title": "Iga_Świątek",
   "description": "Polish tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg?width=64",
-  "total": 7176301,
+  "total": 7715441,
   "monthly": [
+    {
+      "period": "2020-01",
+      "views": 12462
+    },
+    {
+      "period": "2020-10",
+      "views": 526678
+    },
     {
       "period": "2021-02",
       "views": 70714
@@ -172,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 539140
+    },
     {
       "period": "2021",
       "views": 232102

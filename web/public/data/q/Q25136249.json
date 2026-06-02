@@ -4,8 +4,20 @@
   "title": "XXX_(film_series)",
   "description": "film series by Rich Wilkes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64",
-  "total": 78621973,
+  "total": 79019346,
   "monthly": [
+    {
+      "period": "2020-09",
+      "views": 51842
+    },
+    {
+      "period": "2020-10",
+      "views": 36006
+    },
+    {
+      "period": "2020-12",
+      "views": 309525
+    },
     {
       "period": "2021-01",
       "views": 64882
@@ -268,6 +280,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2020",
+      "views": 397373
+    },
     {
       "period": "2021",
       "views": 8006676

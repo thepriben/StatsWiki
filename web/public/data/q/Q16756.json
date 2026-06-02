@@ -4,7 +4,7 @@
   "title": "Modern_Family",
   "description": "American television sitcom (2009–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Modern_Family_Title.svg?width=64",
-  "total": 3222948,
+  "total": 4874913,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,42 @@
     {
       "period": "2015-12",
       "views": 268304
+    },
+    {
+      "period": "2020-01",
+      "views": 72608
+    },
+    {
+      "period": "2020-02",
+      "views": 67109
+    },
+    {
+      "period": "2020-03",
+      "views": 31763
+    },
+    {
+      "period": "2020-04",
+      "views": 259395
+    },
+    {
+      "period": "2020-05",
+      "views": 455090
+    },
+    {
+      "period": "2020-06",
+      "views": 341697
+    },
+    {
+      "period": "2020-07",
+      "views": 265212
+    },
+    {
+      "period": "2020-08",
+      "views": 149676
+    },
+    {
+      "period": "2020-09",
+      "views": 9415
     },
     {
       "period": "2021-02",
@@ -95,6 +131,10 @@
     {
       "period": "2015",
       "views": 1641279
+    },
+    {
+      "period": "2020",
+      "views": 1651965
     },
     {
       "period": "2021",

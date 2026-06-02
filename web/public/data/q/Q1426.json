@@ -4,7 +4,7 @@
   "title": "Roger_Federer",
   "description": "Swiss tennis player (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Federer_WM16_%2837%29_%2828136155830%29.jpg?width=64",
-  "total": 14583588,
+  "total": 16184510,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,38 @@
     {
       "period": "2015-11",
       "views": 87462
+    },
+    {
+      "period": "2020-01",
+      "views": 536395
+    },
+    {
+      "period": "2020-02",
+      "views": 239106
+    },
+    {
+      "period": "2020-05",
+      "views": 10879
+    },
+    {
+      "period": "2020-06",
+      "views": 25721
+    },
+    {
+      "period": "2020-07",
+      "views": 74949
+    },
+    {
+      "period": "2020-08",
+      "views": 10780
+    },
+    {
+      "period": "2020-09",
+      "views": 232471
+    },
+    {
+      "period": "2020-10",
+      "views": 470621
     },
     {
       "period": "2021-02",
@@ -191,6 +223,10 @@
     {
       "period": "2015",
       "views": 2645919
+    },
+    {
+      "period": "2020",
+      "views": 1600922
     },
     {
       "period": "2021",
