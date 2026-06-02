@@ -1,338 +1,117 @@
 # StatsWiki
 
-Rankings of the most-viewed articles on **English Wikipedia**, from **July 1, 2015** to yesterday.
+**Most-read articles on English Wikipedia** — daily rankings from **July 1, 2015** to yesterday.
+
+**Live site:** https://thepriben.github.io/StatsWiki/
+
+MIT license — fork for [another language or project → ADAPT.md](ADAPT.md).
+
+---
+
+## At a glance
+
+| | |
+|---|---|
+| **Data** | Wikimedia Pageviews API → Parquet → static JSON |
+| **Site** | Vue 3 SPA on GitHub Pages (no runtime API calls) |
+| **Updates** | Daily cron + manual backfill for history |
+| **Enrichment** | Wikidata QID, label, description, image |
+| **Rankings** | Top 50 per day, month, year, all-time |
+
+---
+
+## What the site shows
+
+### Home
+
+Three live panels (top 50 each), with fallback to the latest available period when yesterday / this month are not yet ingested:
+
+- **Yesterday** (or latest day)
+- **This month** (or latest month)
+- **This year**
+
+### Period pages
+
+| View | URL | Content |
+|------|-----|---------|
+| Day | `/StatsWiki/2026/05/31` | Top 50 that day |
+| Month | `/StatsWiki/2026/05` | Top 50 aggregated over the month |
+| Year | `/StatsWiki/2026` | Top 50 aggregated over the year |
+| All time | `/StatsWiki/alltime` | Top 50 since July 2015 |
+
+Browse via **Year / Month / Day** dropdowns in the header (no date in the page title).
+
+### Article stats (QID)
+
+Click a **Wikidata QID** in any table → `/StatsWiki/q/Q22686` with monthly / yearly view charts, total views, peak period.
+
+*Coming next:* compare several QIDs on a date range (“wiki wars”).
+
+Each row: rank, Wikipedia link, QID, description, thumbnail, view count.
+
+---
+
+## Architecture
+
+```
+Wikimedia Pageviews API     one HTTP request per day
+         │
+         ▼
+data/pageviews/             Parquet (date, article, views, rank)
+data/articles.parquet       Wikidata catalog
+         │
+         ▼  aggregate + merge by QID
+web/public/data/            static JSON (top 50 per period)
+         │
+         ▼
+Vue 3 SPA                   GitHub Pages CDN
+```
+
+**Day → month → year:** months and years are **sums of daily rows**, never fetched separately. See [consolidation](#day--month--year) below.
+
+**Redirects:** old article titles that share a Wikidata item have views merged before ranking.
+
+---
+
+## Quick start (local)
+
+```bash
+# Pipeline
+cd pipeline && python3 -m venv .venv && source .venv/bin/activate
+pip install -e .
+
+sw-fetch --date 2026-05-01          # one day
+sw-backfill --year 2026               # full year
+sw-daily                              # yesterday + export
+sw-export-qids                        # QID time-series JSON
+
+# Frontend
+cd web && npm ci && npm run dev
+# → http://localhost:5173/StatsWiki/
+```
 
 ---
 
 ## Deployment (GitHub Pages)
 
-The site deploys automatically via GitHub Actions — no server to manage.
-
-| Step | What happens |
-|------|----------------|
-| **1. Enable Pages** | Repo → Settings → Pages → **Build and deployment: GitHub Actions** (one-time) |
-| **2. Push to `main`** | Triggers **Deploy Pages** when `web/` or `data/` changes |
-| **3. Manual deploy** | Actions → **Deploy Pages** → Run workflow |
-
-After each deploy, the site is served from `web/dist` at `https://thepriben.github.io/StatsWiki/`.
-
-**Workflows:**
+1. **Settings → Pages → Source: GitHub Actions** (one-time).
+2. Push to `main` — **Deploy Pages** runs when `web/` or `data/` changes.
+3. Backfill and daily workflows **commit data, then deploy** in the same run.
 
 | Workflow | Trigger | Role |
 |----------|---------|------|
-| **Deploy Pages** | Push (`web/**`, `data/**`) or manual | Build Vue app → publish to GitHub Pages |
-| **Daily update** | Cron 07:00 UTC or manual | Fetch yesterday → commit data → push (deploy follows via push) |
-| **Backfill** | Manual (pick year) | Historical ingest — run after the site is deployed |
+| **Deploy Pages** | Push or manual | Build Vue → publish |
+| **Daily update** | 07:00 UTC or manual | Yesterday → commit → deploy |
+| **Backfill** | Manual (pick year) | One year of history |
+| **Backfill sequence** | Manual | 2025 → 2016 in one job |
 
-The daily workflow only commits data; the push to `main` automatically starts **Deploy Pages**.
+### Backfill order (recommended)
 
----
+1. **Current year** first — homepage needs recent data.
+2. **Backfill sequence** (or year-by-year) down to **2015** (July 1 for 2015).
+3. Leave **Daily update** enabled.
 
-## Part 1 — Website
-
-### What the site shows
-
-StatsWiki displays the **top 50** most-read Wikipedia articles for any period:
-
-| View | URL example | Content |
-|------|-------------|---------|
-| Home | `/StatsWiki/` | Links to yesterday and all-time |
-| Day | `/StatsWiki/2024/06/01` | Top 50 for that day |
-| Month | `/StatsWiki/2024/06` | Top 50 aggregated over the month |
-| Year | `/StatsWiki/2024` | Top 50 aggregated over the year |
-| All time | `/StatsWiki/alltime` | Top 50 since July 2015 |
-
-Each row shows: rank, article title (linked to Wikipedia), Wikidata QID, description, thumbnail image, and view count.
-
-Navigation between periods is built into the page (month/day links on year and month views, date picker in the header).
-
-### How it works
-
-The site is a **100 % static** single-page app. It does not call any API at runtime — it loads pre-built JSON files served from the same origin.
-
-```
-Browser  →  fetch /StatsWiki/data/day/2024/06/01.json  →  render table
-```
-
-This makes pages fast (a few KB per request) and cheap to host on GitHub Pages CDN.
-
-### Tech stack
-
-| Layer | Technology |
-|-------|------------|
-| Frontend | Vue 3 + Vite |
-| Routing | URL pathname parsing (no server) |
-| Data | Static JSON in `web/public/data/` |
-| Hosting | GitHub Pages |
-
-### Project structure (website)
-
-```
-web/
-├── index.html
-├── vite.config.js          # base: /StatsWiki/
-├── package.json
-├── src/
-│   ├── App.vue             # entire UI (header, table, routing)
-│   ├── lib.js              # URL helpers, fetch JSON, format views
-│   ├── main.js
-│   └── style.css
-└── public/
-    └── data/               # pre-computed rankings (generated by pipeline)
-        ├── manifest.json
-        ├── alltime.json
-        ├── year/2024.json
-        ├── month/2024/06.json
-        └── day/2024/06/01.json
-```
-
-### JSON format (what the frontend reads)
-
-Each ranking file has this shape:
-
-```json
-{
-  "period": "1 June 2024",
-  "lines": [
-    {
-      "rank": 1,
-      "title": "Donald_Trump",
-      "label": "Donald Trump",
-      "description": "American businessman and politician (born 1946)...",
-      "views": 131994,
-      "qid": "Q22686",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/...?width=64"
-    }
-  ],
-  "nav": [
-    { "label": "01", "path": "2024/06/01" }
-  ]
-}
-```
-
-- `lines` — top 50 articles, sorted by views descending
-- `nav` — sub-navigation links (present on year and month views)
-- `manifest.json` — global metadata: date range, last update
-
-### Local development
-
-```bash
-cd web
-npm ci
-npm run dev
-```
-
-Open `http://localhost:5173/StatsWiki/`
-
-The dev server serves JSON from `web/public/data/`. To refresh data locally, run the pipeline export (see Part 2).
-
-### Deployment
-
-The site deploys automatically via GitHub Actions:
-
-1. **Settings → Pages → Source: GitHub Actions**
-2. Every push to `main` that touches `web/` or `data/` triggers a build
-3. The daily workflow also deploys after each update
-
-Manual trigger: Actions → **Deploy Pages** → Run workflow.
-
----
-
-## Part 2 — Acquisition and consolidation
-
-### Overview
-
-Raw data is fetched from Wikimedia APIs, stored in **Parquet** (source of truth), enriched with **Wikidata**, then exported to the static JSON files the website reads.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        ACQUISITION                            │
-│  Wikimedia Pageviews API  →  daily top-1000 articles/day      │
-└──────────────────────────────┬────────────────────────────────┘
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                       CONSOLIDATION                           │
-│  data/pageviews/          Parquet, partitioned by year/month  │
-│  data/articles.parquet    Wikidata catalog (QID, label, image)│
-│  data/manifest.json       date range, last update             │
-└──────────────────────────────┬────────────────────────────────┘
-                               ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                          EXPORT                               │
-│  Aggregate views → top 50 → web/public/data/*.json            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Data sources
-
-| Source | API | What we fetch |
-|--------|-----|---------------|
-| **Pageviews** | `wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/...` | Top ~1000 articles per day with view counts |
-| **Wikipedia** | `en.wikipedia.org/w/api.php` | QID (`pageprops.wikibase_item`) for each article title |
-| **Wikidata** | `wikidata.org/w/api.php` | Label (en), description (en), image (P18 → Commons) |
-
-Data starts on **July 1, 2015** (Wikimedia API availability). Only **English Wikipedia** (`en`) is tracked.
-
-### Storage layer (Parquet)
-
-The old SQLite schema (one column per day, 18 languages) is replaced by a simple long-format design:
-
-**Pageviews** — partitioned by year and month:
-
-```
-data/pageviews/
-  year=2024/
-    month=06/
-      data.parquet
-```
-
-| Column | Type | Description |
-|--------|------|-------------|
-| `date` | date | Day (e.g. 2024-06-01) |
-| `article` | string | Wikipedia title with underscores |
-| `views` | int64 | Views that day |
-| `rank` | int16 | Position in daily top-1000 |
-
-**Articles catalog** — one row per known article:
-
-```
-data/articles.parquet
-```
-
-| Column | Type | Description |
-|--------|------|-------------|
-| `article` | string | Pageview title (as in Wikimedia API) |
-| `qid` | string | Wikidata QID (e.g. Q22686) |
-| `resolved_title` | string | Canonical Wikipedia title after redirects |
-| `label` | string | Human-readable name |
-| `description` | string | Short Wikidata description |
-| `image` | string | Commons thumbnail URL (64 px) |
-| `updated_at` | date | Last enrichment date |
-
-Both files are versioned in git (~25 MB total when fully backfilled).
-
-### Pipeline
-
-Python package in `pipeline/`:
-
-```
-pipeline/
-├── pyproject.toml
-└── src/statswiki/
-    ├── fetch.py       # ingest pageviews from Wikimedia API
-    ├── store.py       # read/write Parquet
-    ├── wikidata.py    # batch enrichment (Wikipedia + Wikidata)
-    ├── export.py      # Parquet → JSON (top 50, aggregations)
-    ├── daily.py       # daily orchestration
-    ├── backfill.py    # historical ingest
-    └── filters.py     # exclude namespace pages (Special:, File:, etc.)
-```
-
-Install:
-
-```bash
-cd pipeline
-pip install -e .
-```
-
-### Commands
-
-| Command | Purpose |
-|---------|---------|
-| `sw-backfill --year 2024` | Ingest all days of a year + enrich top 1000 + export JSON |
-| `sw-backfill --start 2024-01-01 --end 2024-06-30` | Ingest a date range |
-| `sw-daily` | Fetch yesterday, enrich, export recent JSON |
-| `sw-enrich --top 500` | (Re)enrich the 500 most-viewed articles |
-| `sw-enrich --new` | Enrich articles not yet in the catalog |
-| `sw-enrich --refresh-shadows 100` | Retry articles that had no Wikidata match |
-| `sw-export --recent` | Rebuild JSON for yesterday / month / year / alltime |
-| `sw-export --year 2024` | Rebuild all JSON for one year |
-
-All ingest operations are **idempotent**: re-running skips days already present in Parquet.
-
-### Day → month → year (consolidation)
-
-There is **one source of truth**: daily rows in `data/pageviews/` Parquet.
-
-```
-Wikimedia API          Parquet (long)              Export JSON
-─────────────          ──────────────              ─────────────
-1 call / day    →      date, article, views  →    top 50 / period
-                       rank
-                              │
-                              ├─ sum(days in month)  → month/YYYY/MM.json
-                              ├─ sum(days in year)   → year/YYYY.json
-                              └─ sum(all days)       → alltime.json
-```
-
-Month and year are **never fetched separately** — they are aggregated from the same daily data. Re-exporting a year after new days arrive automatically refreshes all periods.
-
-### Redirects and Wikidata
-
-At export time, views are **merged by Wikidata QID** before ranking:
-
-1. Each pageview title is mapped to a QID (catalog + Wikipedia redirect follow + manual overrides)
-2. Titles sharing the same QID (e.g. old pandemic name → current article) have their views summed
-3. One row per item in the top 50, with label / description / image from Wikidata
-
-Enrichment (`wikidata.py`) runs on top-traffic titles and stores `resolved_title` (canonical Wikipedia page after redirects).
-
-### Wikidata enrichment
-
-Module `mapping.py` + `wikidata.py` — batched (50 titles / request):
-
-1. **Resolve QID** — Wikipedia `pageprops`, follows **redirects** (e.g. old pandemic titles → current article)
-2. **Fallbacks** — if no item: Wikidata search (`wbsearchentities`) + enwiki sitelink match, then Wikipedia opensearch
-3. **Fetch entity** — label (en → sitelink → any), description (en), image (P18 then P154)
-4. **Store** — upsert into `data/articles.parquet` with `article`, `qid`, `resolved_title`, `label`, `description`, `image`
-
-Manual overrides in `filters.py` (`REDIRECTS`) cover edge cases (disambiguation, renamed elections).
-
-Shadow QIDs (`Q_en_Article_Title`) are retried via `--refresh-shadows`, prioritizing high-traffic articles.
-
-**Export deduplication:** views are merged by QID before ranking — two redirect titles pointing to the same item count as one entry in the top 50.
-
-During daily updates:
-- New articles from yesterday's pageviews
-- Top articles from yesterday
-- 100 shadow QID retries
-
-During backfill, the top 1000 articles by total views are enriched after each year.
-
-### Export logic
-
-Export reads Parquet, aggregates views for the requested period, applies filters (exclude `Special:`, `File:`, `Main_Page`, etc.), joins the Wikidata catalog, and writes the top 50 as JSON.
-
-Aggregations:
-
-- **Day** — sum views for that single day
-- **Month** — sum views across all days in the month
-- **Year** — sum views across all days in the year
-- **All time** — sum views from 2015-07-01 to yesterday
-
-### GitHub Actions (automation)
-
-See [Deployment](#deployment-github-pages) above for the deploy flow.
-
-### Historical data (backfill)
-
-Once the site is deployed, load history from July 2015:
-
-1. Actions → **Backfill** → Run workflow
-2. **Start with the current year** (e.g. 2026) so the homepage (yesterday / this month / this year) has data right away
-3. Then backfill earlier years: 2025 → 2015 (2015 starts July 1)
-4. Each run ingests pageviews day by day, enriches top 1000 with Wikidata, exports JSON, commits, and pushes (~5–10 min/year)
-
-The push after each backfill triggers **Deploy Pages** automatically.
-
-### Daily operation (steady state)
-
-Every day at 07:00 UTC:
-
-1. **Daily update** fetches yesterday's pageviews, enriches Wikidata, exports JSON, commits, pushes
-2. **Deploy Pages** runs on that push and publishes the site
-
-No manual intervention required after the initial backfill.
+~5–10 minutes per year on GitHub Actions.
 
 ---
 
@@ -340,44 +119,124 @@ No manual intervention required after the initial backfill.
 
 ```
 StatsWiki/
-├── web/                    # Vue 3 frontend (Part 1)
-├── data/                   # Parquet source of truth (Part 2)
-│   ├── pageviews/
+├── web/                         # Vue 3 frontend
+│   ├── src/
+│   │   ├── App.vue              # routing, header, home
+│   │   ├── QidPage.vue          # article stats + chart
+│   │   ├── RankingTable.vue
+│   │   └── lib.js
+│   └── public/data/             # generated JSON (+ q/Q*.json)
+├── data/                        # Parquet source of truth
+│   ├── pageviews/year=Y/month=M/
 │   ├── articles.parquet
 │   └── manifest.json
-├── pipeline/               # Python ETL (Part 2)
-├── .github/workflows/      # CI/CD
-└── README.md
+├── pipeline/src/statswiki/      # Python ETL
+└── .github/workflows/
 ```
 
-## Other languages
+---
 
-This instance tracks **English Wikipedia** (`en`) only. The pipeline is designed so another language is mostly a configuration change:
+## Pipeline commands
 
-1. Fork this repo (MIT license — go ahead)
-2. In `pipeline/src/statswiki/config.py`, set `LANG = "fr"` (or `de`, `es`, `ja`…)
-3. Run the backfill workflow year by year
-4. Deploy to your own GitHub Pages
+| Command | Purpose |
+|---------|---------|
+| `sw-fetch --date YYYY-MM-DD` | Ingest one day |
+| `sw-backfill --year YYYY` | Ingest year + Wikidata top 1000 + export |
+| `sw-daily` | Yesterday + enrich + export recent |
+| `sw-enrich --top 500` | Re-enrich top articles by total views |
+| `sw-enrich --refresh-shadows 100` | Retry unresolved QIDs |
+| `sw-export --recent` | Rebuild yesterday / month / year / alltime JSON |
+| `sw-export --year YYYY` | Export all periods for one year |
+| `sw-export-qids` | Export `data/q/Q*.json` time series for charts |
 
-Wikimedia exposes the same pageviews API for every Wikipedia edition. Wikidata enrichment already resolves labels and images per language.
+All ingest is **idempotent** — existing days are skipped.
 
-**Planned for this repo:** multi-language support is not implemented yet — contributions welcome when we get there.
+---
+
+## Data model
+
+### Pageviews (`data/pageviews/`)
+
+| Column | Description |
+|--------|-------------|
+| `date` | Day |
+| `article` | Title with underscores (as in API) |
+| `views` | View count |
+| `rank` | Position in daily top ~1000 |
+
+### Articles catalog (`data/articles.parquet`)
+
+| Column | Description |
+|--------|-------------|
+| `article` | Pageview title |
+| `qid` | Wikidata QID (e.g. Q22686) |
+| `resolved_title` | Canonical title after Wikipedia redirects |
+| `label`, `description`, `image` | From Wikidata |
+| `updated_at` | Last enrichment |
+
+### Export JSON (`web/public/data/`)
+
+```json
+{
+  "period": "May 2026",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "…",
+      "views": 10777561,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/…"
+    }
+  ],
+  "nav": [{ "label": "01", "path": "2026/05/01" }]
+}
+```
+
+`manifest.json` — `start`, `end`, `updated`, `language`.
+
+---
+
+## Day → month → year
+
+```
+1 API call / day  →  Parquet row per (date, article)
+                         │
+                         ├─ SUM(days in month)  →  month/YYYY/MM.json
+                         ├─ SUM(days in year)   →  year/YYYY.json
+                         └─ SUM(all days)       →  alltime.json
+```
+
+---
+
+## Wikidata
+
+Batched enrichment (50 titles / request):
+
+1. **QID** — Wikipedia `pageprops`, follows redirects
+2. **Fallbacks** — Wikidata search + opensearch
+3. **Entity** — label, description, image (P18 / P154)
+4. **Export** — merge views by QID before top-50 ranking
+
+Manual overrides in `filters.py` for edge cases. Shadow QIDs (`Q_en_…`) retried on high-traffic articles.
+
+Modules: `wikidata.py`, `mapping.py`, `qid_export.py`.
+
+---
+
+## Fork for another language
+
+This repo tracks **English Wikipedia only**. To run StatsWiki for French, German, Japanese, etc.:
+
+→ **[ADAPT.md](ADAPT.md)** — step-by-step fork guide (config, Pages URL, Wikidata language, backfill).
+
+Multi-language in a **single** site is not implemented yet; one fork per language is the intended model for now.
 
 ---
 
 ## License
 
-### Code
+**Code:** [MIT](LICENSE)
 
-[MIT](LICENSE) — do what you want: use, fork, modify, distribute, commercial use. Keep the copyright notice.
-
-### Data (Wikimedia / Wikidata)
-
-Rankings are built from third-party sources with their own terms:
-
-| Source | Terms |
-|--------|-------|
-| [Wikimedia Pageviews API](https://wikimedia.org/api/rest_v1/) | [Wikimedia Terms of Use](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use) |
-| [Wikidata](https://www.wikidata.org/) | Mostly [CC0](https://creativecommons.org/publicdomain/zero/1.0/); Commons images keep their own licenses |
-
-The MIT license applies to **this repository's code** only, not to Wikipedia/Wikidata content displayed by the site.
+**Data** (Wikipedia / Wikidata content shown on the site): [Wikimedia Terms of Use](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use), [Wikidata CC0](https://creativecommons.org/publicdomain/zero/1.0/) (Commons images retain their own licenses).
