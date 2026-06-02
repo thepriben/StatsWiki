@@ -13,6 +13,7 @@ import {
   parseIsoDate,
   BSKY_URL,
   REPO_URL,
+  VERSION,
   yesterday,
 } from './lib.js';
 
@@ -155,12 +156,11 @@ watch(route, fetchData);
   <div class="page">
     <header>
       <div class="header-top">
-        <div class="header-left">
-          <a href="#" class="brand" @click.prevent="go('')">StatsWiki</a>
-          <span class="header-links">
-            <a :href="REPO_URL" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a :href="BSKY_URL" target="_blank" rel="noopener noreferrer">Bluesky</a>
-          </span>
+        <div class="meta-box">
+          <a href="#" class="meta-box-title" @click.prevent="go('')">StatsWiki</a>
+          <span class="meta-version">{{ VERSION }}</span>
+          <a :href="REPO_URL" class="meta-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a :href="BSKY_URL" class="meta-link" target="_blank" rel="noopener noreferrer">Bluesky</a>
         </div>
         <span class="tagline">{{ tagline }}</span>
       </div>

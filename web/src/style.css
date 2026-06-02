@@ -36,37 +36,52 @@ header {
 .header-top {
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
-  gap: 12px;
+  align-items: flex-start;
+  gap: 16px;
 }
 
-.header-left {
+.meta-box {
+  width: 148px;
+  height: 148px;
+  border: 2px solid #1a1a1a;
+  background: #fff;
+  padding: 14px;
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
+  flex-direction: column;
+  justify-content: center;
   gap: 10px;
+  flex-shrink: 0;
 }
 
-.header-links {
-  display: flex;
-  gap: 10px;
-  font-size: 0.85rem;
-}
-
-.header-links a {
-  color: #1a56db;
+.meta-box-title {
+  color: #1a1a1a;
+  font-size: 1.15rem;
+  font-weight: 800;
+  line-height: 1.1;
   text-decoration: none;
 }
 
-.header-links a:hover {
+.meta-box-title:hover {
   text-decoration: underline;
 }
 
-.brand {
+.meta-version {
+  font-size: 1.35rem;
+  font-weight: 800;
+  line-height: 1;
   color: #1a1a1a;
-  font-size: 1.4rem;
+}
+
+.meta-link {
+  color: #1a56db;
+  font-size: 1.05rem;
   font-weight: 700;
+  line-height: 1.1;
   text-decoration: none;
+}
+
+.meta-link:hover {
+  text-decoration: underline;
 }
 
 .tagline {
