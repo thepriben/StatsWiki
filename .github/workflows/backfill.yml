@@ -11,6 +11,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   backfill:
@@ -36,3 +38,7 @@ jobs:
           git diff --staged --quiet || git commit -m "Backfill ${{ inputs.year }} with Wikidata"
           git pull --rebase origin main
           git push
+
+  deploy:
+    needs: backfill
+    uses: ./.github/workflows/reusable-deploy.yml
