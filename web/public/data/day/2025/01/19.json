@@ -1,0 +1,455 @@
+{
+  "period": "19 January 2025",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "MrBeast",
+      "label": "MrBeast",
+      "description": "American YouTuber, media personality and businessman (born 1998)",
+      "views": 1269614,
+      "qid": "Q57618112",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MrBeast_2023_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Jayden_Daniels",
+      "label": "Jayden Daniels",
+      "description": "",
+      "views": 430832,
+      "qid": "Q_en_Jayden_Daniels",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "TikTok",
+      "label": "TikTok",
+      "description": "video-focused social media platform",
+      "views": 386507,
+      "qid": "Q48938223",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiktok_logo_text.svg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Amanda_Knox",
+      "label": "Amanda Knox",
+      "description": "American woman exonerated of a murder conviction in Italy",
+      "views": 335132,
+      "qid": "Q4739665",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amanda_Knox.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "UFC_311",
+      "label": "UFC 311",
+      "description": "",
+      "views": 310223,
+      "qid": "Q_en_UFC_311",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "D'Amelio,_Charli",
+      "label": "D'Amelio, Charli",
+      "description": "",
+      "views": 300020,
+      "qid": "Q_en_D'Amelio,_Charli",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Bigg_Boss_(Hindi_TV_series)_season_18",
+      "label": "Bigg Boss (Hindi TV series) season 18",
+      "description": "",
+      "views": 292156,
+      "qid": "Q_en_Bigg_Boss_(Hindi_TV_series)_season_18",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Second_inauguration_of_Donald_Trump",
+      "label": "Second inauguration of Donald Trump",
+      "description": "",
+      "views": 252218,
+      "qid": "Q_en_Second_inauguration_of_Donald_Trump",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Anti-Muslim_propaganda_on_Facebook",
+      "label": "Facebook",
+      "description": "American online social media and social networking service",
+      "views": 242413,
+      "qid": "Q355",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Facebook_%282%29.PNG?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "David_Lynch",
+      "label": "David Lynch",
+      "description": "American filmmaker, visual artist, musician, and actor (1946–2025)",
+      "views": 223256,
+      "qid": "Q2071",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Lynch_at_the_1990_Emmy_Awards.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Bigg_Boss_(Tamil_TV_series)_season_8",
+      "label": "Bigg Boss (Tamil TV series) season 8",
+      "description": "",
+      "views": 217633,
+      "qid": "Q_en_Bigg_Boss_(Tamil_TV_series)_season_8",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 206717,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Merab_Dvalishvili",
+      "label": "Merab Dvalishvili",
+      "description": "",
+      "views": 185041,
+      "qid": "Q_en_Merab_Dvalishvili",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Umar_Nurmagomedov",
+      "label": "Umar Nurmagomedov",
+      "description": "",
+      "views": 178406,
+      "qid": "Q_en_Umar_Nurmagomedov",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Severance_(TV_series)",
+      "label": "Severance",
+      "description": "American television series (2022–)",
+      "views": 168078,
+      "qid": "Q101096725",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bell_Labs_Holmdel.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Islam_Makhachev",
+      "label": "Islam Makhachev",
+      "description": "",
+      "views": 163526,
+      "qid": "Q_en_Islam_Makhachev",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Rockbitch",
+      "label": "Rockbitch",
+      "description": "",
+      "views": 163002,
+      "qid": "Q_en_Rockbitch",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "ByteDance",
+      "label": "ByteDance",
+      "description": "",
+      "views": 158166,
+      "qid": "Q_en_ByteDance",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Dan_Quinn_(American_football)",
+      "label": "Dan Quinn (American football)",
+      "description": "",
+      "views": 157539,
+      "qid": "Q_en_Dan_Quinn_(American_football)",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "List_of_Super_Bowl_champions",
+      "label": "list of Super Bowl champions",
+      "description": "Wikimedia list article",
+      "views": 147151,
+      "qid": "Q909800",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Cameron_Diaz",
+      "label": "Cameron Diaz",
+      "description": "American actress and model",
+      "views": 145917,
+      "qid": "Q44380",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameron_Diaz_at_WWD_Style_Awards_2026-1998.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Deaths_in_2025",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 125918,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Back_in_Action",
+      "label": "Back in Action",
+      "description": "",
+      "views": 122657,
+      "qid": "Q_en_Back_in_Action",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Charli_D'Amelio",
+      "label": "Charli D'Amelio",
+      "description": "",
+      "views": 121763,
+      "qid": "Q_en_Charli_D'Amelio",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Restrictions_on_TikTok_in_the_United_States",
+      "label": "Restrictions on TikTok in the United States",
+      "description": "",
+      "views": 116167,
+      "qid": "Q_en_Restrictions_on_TikTok_in_the_United_States",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Washington_Commanders",
+      "label": "Washington Commanders",
+      "description": "",
+      "views": 114262,
+      "qid": "Q_en_Washington_Commanders",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Saquon_Barkley",
+      "label": "Saquon Barkley",
+      "description": "",
+      "views": 110651,
+      "qid": "Q_en_Saquon_Barkley",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Denis_Law",
+      "label": "Denis Law",
+      "description": "",
+      "views": 109503,
+      "qid": "Q_en_Denis_Law",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Donald_Trump–TikTok_controversy",
+      "label": "Donald Trump–TikTok controversy",
+      "description": "",
+      "views": 104827,
+      "qid": "Q_en_Donald_Trump–TikTok_controversy",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 104674,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Kumbh_Mela",
+      "label": "Kumbh Mela",
+      "description": "Hindu pilgrimage and festival celebrated in India",
+      "views": 103929,
+      "qid": "Q10283",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumbh_Mela2001.JPG?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Bob_Dylan",
+      "label": "Bob Dylan",
+      "description": "American singer-songwriter (born 1941)",
+      "views": 99568,
+      "qid": "Q392",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "Dan_Campbell",
+      "label": "Dan Campbell",
+      "description": "",
+      "views": 98185,
+      "qid": "Q_en_Dan_Campbell",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Pushpa_2:_The_Rule",
+      "label": "Pushpa 2: The Rule",
+      "description": "2024 Indian Movie directed by Sukumar",
+      "views": 97318,
+      "qid": "Q112083510",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Nosferatu_(2024_film)",
+      "label": "Nosferatu",
+      "description": "2024 film directed by Robert Eggers",
+      "views": 93253,
+      "qid": "Q116361132",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nosferatu_2024_logo.svg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Patrick_Mahomes",
+      "label": "Patrick Mahomes",
+      "description": "American football player (born 1995)",
+      "views": 93151,
+      "qid": "Q19667998",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Mahomes_military_appreciation2018_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Shaun_Murphy",
+      "label": "Shaun Murphy",
+      "description": "",
+      "views": 91530,
+      "qid": "Q_en_Shaun_Murphy",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Censorship_of_TikTok",
+      "label": "Censorship of TikTok",
+      "description": "",
+      "views": 91087,
+      "qid": "Q_en_Censorship_of_TikTok",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Game_Changer_(film)",
+      "label": "Game Changer",
+      "description": "2025 film directed by S. Shankar",
+      "views": 86074,
+      "qid": "Q110917109",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Super_Bowl_LIX",
+      "label": "Super Bowl LIX",
+      "description": "The 59th American Super Bowl Championship Game",
+      "views": 84480,
+      "qid": "Q91157899",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_Bowl_LIX_%2854361947349%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "American_Primeval",
+      "label": "American Primeval",
+      "description": "",
+      "views": 84092,
+      "qid": "Q_en_American_Primeval",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Wolf_Man_(2025_film)",
+      "label": "Wolf Man (2025 film)",
+      "description": "",
+      "views": 84001,
+      "qid": "Q_en_Wolf_Man_(2025_film)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Jared_Goff",
+      "label": "Jared Goff",
+      "description": "",
+      "views": 82368,
+      "qid": "Q_en_Jared_Goff",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Renato_Moicano",
+      "label": "Renato Moicano",
+      "description": "",
+      "views": 81390,
+      "qid": "Q_en_Renato_Moicano",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Squid_Game_season_2",
+      "label": "Squid Game, season 2",
+      "description": "season 2 of South Korean television series Squid Game",
+      "views": 79948,
+      "qid": "Q112431753",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Squid_Game_season_2_2024_vector_logo.svg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Kid_Rock",
+      "label": "Kid Rock",
+      "description": "",
+      "views": 77847,
+      "qid": "Q_en_Kid_Rock",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Matthew_Stafford",
+      "label": "Matthew Stafford",
+      "description": "",
+      "views": 77181,
+      "qid": "Q_en_Matthew_Stafford",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Village_People",
+      "label": "Village People",
+      "description": "",
+      "views": 76183,
+      "qid": "Q_en_Village_People",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "ChatGPT",
+      "label": "ChatGPT",
+      "description": "artificial intelligence chatbot developed by OpenAI",
+      "views": 74810,
+      "qid": "Q115564437",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT_5.2_Thinking_Wikipedia_historia_PDF_screenshot.png?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 74569,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    }
+  ]
+}
