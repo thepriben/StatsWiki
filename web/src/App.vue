@@ -81,12 +81,34 @@ function go(path) {
   navigate(path);
 }
 
-function goDate() {
-  if (!selYear.value) return;
+function pickerPath() {
+  if (!selYear.value) return '';
   let path = String(selYear.value);
   if (selMonth.value) path += `/${pad(selMonth.value)}`;
   if (selDay.value) path += `/${pad(selDay.value)}`;
-  go(path);
+  return path;
+}
+
+function routePath() {
+  const r = route.value;
+  if (r.kind === 'year') return String(r.year);
+  if (r.kind === 'month') return `${r.year}/${pad(r.month)}`;
+  if (r.kind === 'day') return `${r.year}/${pad(r.month)}/${pad(r.day)}`;
+  return '';
+}
+
+function syncPickersFromRoute() {
+  const r = route.value;
+  if (r.kind === 'year' || r.kind === 'month' || r.kind === 'day') {
+    selYear.value = r.year;
+    selMonth.value = r.kind === 'year' ? '' : r.month;
+    selDay.value = r.kind === 'day' ? r.day : '';
+  }
+}
+
+function goDate() {
+  const path = pickerPath();
+  if (path && path !== routePath()) go(path);
 }
 
 const selYear = ref('');
@@ -107,9 +129,12 @@ const daysInMonth = computed(() => {
   return new Date(Number(selYear.value), Number(selMonth.value), 0).getDate();
 });
 
+const isHome = computed(() => route.value.kind === 'home');
+const isAlltime = computed(() => route.value.kind === 'alltime');
+
 const breadcrumb = computed(() => {
   const r = route.value;
-  const crumbs = [{ label: 'Home', path: '' }];
+  const crumbs = [{ label: 'StatsWiki', path: '' }];
   if (r.kind === 'alltime') return [...crumbs, { label: 'All time', path: null }];
   if (r.kind === 'year') return [...crumbs, { label: String(r.year), path: null }];
   if (r.kind === 'month') {
@@ -149,47 +174,99 @@ onMounted(async () => {
   });
 });
 
-watch(route, fetchData);
+watch(route, () => {
+  syncPickersFromRoute();
+  fetchData();
+});
+
+watch(selYear, (y) => {
+  if (!y) {
+    selMonth.value = '';
+    selDay.value = '';
+  }
+});
+
+watch(selMonth, (m) => {
+  if (!m) selDay.value = '';
+});
 </script>
 
 <template>
   <div class="page">
-    <header>
-      <div class="header-top">
-        <div class="meta-box">
-          <a href="#" class="meta-box-title" @click.prevent="go('')">StatsWiki</a>
-          <span class="meta-version">{{ VERSION }}</span>
-          <a :href="REPO_URL" class="meta-link" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a :href="BSKY_URL" class="meta-link" target="_blank" rel="noopener noreferrer">Bluesky</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="header-brand">
+          <a
+            href="#"
+            class="brand-title"
+            :class="{ 'brand-title--active': isHome }"
+            @click.prevent="go('')"
+          >StatsWiki</a>
+          <p class="brand-tagline">{{ tagline }} · {{ VERSION }}</p>
         </div>
-        <span class="tagline">{{ tagline }}</span>
-      </div>
-      <nav class="toolbar" aria-label="Browse by date">
-        <a href="#" class="nav-link" @click.prevent="go('')">Home</a>
-        <a href="#" class="nav-link" @click.prevent="go('alltime')">All time</a>
-        <label class="picker">
-          <span class="picker-label">Year</span>
-          <select v-model="selYear">
-            <option value="">—</option>
+
+        <nav class="header-nav" aria-label="Main">
+          <a
+            href="#"
+            class="nav-alltime"
+            :class="{ 'nav-alltime--active': isAlltime }"
+            @click.prevent="go('alltime')"
+          >All time</a>
+          <div class="header-social">
+            <a
+              :href="REPO_URL"
+              class="icon-btn"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="GitHub repository"
+            >
+              <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+                <path fill="currentColor" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.17 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.001 10.001 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/>
+              </svg>
+            </a>
+            <a
+              :href="BSKY_URL"
+              class="icon-btn icon-btn--bsky"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Bluesky"
+            >
+              <svg viewBox="0 0 568 501" width="20" height="20" aria-hidden="true">
+                <path fill="currentColor" d="M123.121 33.664C188.607 74.596 258.09 152.006 284 185.094c25.91-33.088 95.393-110.498 160.879-151.43C510.387 0.666 568-19.92 568 36.44c0 11.403-6.581 95.562-10.435 109.335-13.385 47.759-62.16 59.863-105.618 52.385 75.223 12.803 94.283 55.17 52.919 97.7-78.24 80.322-112.335-20.253-121.047-45.888-1.631-4.735-2.415-6.953-2.473-6.4-.058-.553-.842 1.665-2.473 6.4-8.712 25.635-42.807 126.208-121.047 45.888-41.364-42.53-22.304-84.897 52.919-97.7-43.458 7.478-94.233-4.626-105.618-52.385C6.581 131.002 0 46.843 0 35.44 0-19.92 57.613.666 123.121 33.664z"/>
+              </svg>
+            </a>
+          </div>
+        </nav>
+
+        <div class="header-date" aria-label="Choose a date">
+          <select v-model="selYear" class="date-select" aria-label="Year" @change="goDate">
+            <option value="">Year</option>
             <option v-for="year in years" :key="year" :value="year">{{ year }}</option>
           </select>
-        </label>
-        <label class="picker">
-          <span class="picker-label">Month</span>
-          <select v-model="selMonth">
-            <option value="">—</option>
+          <span class="date-sep" aria-hidden="true">/</span>
+          <select
+            v-model="selMonth"
+            class="date-select"
+            aria-label="Month"
+            :disabled="!selYear"
+            @change="goDate"
+          >
+            <option value="">Month</option>
             <option v-for="(name, i) in MONTHS" :key="name" :value="i + 1">{{ name }}</option>
           </select>
-        </label>
-        <label class="picker">
-          <span class="picker-label">Day</span>
-          <select v-model="selDay">
-            <option value="">—</option>
+          <span class="date-sep" aria-hidden="true">/</span>
+          <select
+            v-model="selDay"
+            class="date-select"
+            aria-label="Day"
+            :disabled="!selMonth"
+            @change="goDate"
+          >
+            <option value="">Day</option>
             <option v-for="d in daysInMonth" :key="d" :value="d">{{ d }}</option>
           </select>
-        </label>
-        <button type="button" class="btn-go" @click="goDate">Go</button>
-      </nav>
+        </div>
+      </div>
     </header>
 
     <main>
