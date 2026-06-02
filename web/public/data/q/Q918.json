@@ -4,7 +4,7 @@
   "title": "Twitter",
   "description": "American social networking service founded in 2006",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_X_%28Twitter%29.png?width=64",
-  "total": 37793260,
+  "total": 38154825,
   "monthly": [
     {
       "period": "2015-07",
@@ -508,7 +508,23 @@
     },
     {
       "period": "2026-02",
-      "views": 267649
+      "views": 287252
+    },
+    {
+      "period": "2026-03",
+      "views": 109876
+    },
+    {
+      "period": "2026-04",
+      "views": 64739
+    },
+    {
+      "period": "2026-05",
+      "views": 158903
+    },
+    {
+      "period": "2026-06",
+      "views": 8444
     }
   ],
   "yearly": [
@@ -558,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 628034
+      "views": 989599
     }
   ]
 }

@@ -1,0 +1,76 @@
+{
+  "qid": "Q219424",
+  "label": "Scary Movie",
+  "title": "Scary_Movie",
+  "description": "2000 film by Keenen Ivory Wayans",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scary_Movie_film_series_logo.png?width=64",
+  "total": 431017,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 10807
+    },
+    {
+      "period": "2021-10",
+      "views": 97897
+    },
+    {
+      "period": "2021-11",
+      "views": 23997
+    },
+    {
+      "period": "2024-10",
+      "views": 44407
+    },
+    {
+      "period": "2024-11",
+      "views": 23286
+    },
+    {
+      "period": "2025-10",
+      "views": 10870
+    },
+    {
+      "period": "2025-11",
+      "views": 10474
+    },
+    {
+      "period": "2026-02",
+      "views": 21913
+    },
+    {
+      "period": "2026-03",
+      "views": 168248
+    },
+    {
+      "period": "2026-05",
+      "views": 10113
+    },
+    {
+      "period": "2026-06",
+      "views": 9005
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10807
+    },
+    {
+      "period": "2021",
+      "views": 121894
+    },
+    {
+      "period": "2024",
+      "views": 67693
+    },
+    {
+      "period": "2025",
+      "views": 21344
+    },
+    {
+      "period": "2026",
+      "views": 209279
+    }
+  ]
+}

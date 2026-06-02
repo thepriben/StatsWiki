@@ -1,0 +1,88 @@
+{
+  "qid": "Q9366",
+  "label": "Google Search",
+  "title": "Google_Search",
+  "description": "search engine by Google LLC",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Homepage.svg?width=64",
+  "total": 1946434,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 46501
+    },
+    {
+      "period": "2016-01",
+      "views": 34559
+    },
+    {
+      "period": "2016-02",
+      "views": 401639
+    },
+    {
+      "period": "2016-03",
+      "views": 336281
+    },
+    {
+      "period": "2016-04",
+      "views": 198123
+    },
+    {
+      "period": "2016-09",
+      "views": 9384
+    },
+    {
+      "period": "2019-06",
+      "views": 10136
+    },
+    {
+      "period": "2019-12",
+      "views": 13728
+    },
+    {
+      "period": "2024-02",
+      "views": 64022
+    },
+    {
+      "period": "2026-02",
+      "views": 40916
+    },
+    {
+      "period": "2026-03",
+      "views": 226163
+    },
+    {
+      "period": "2026-04",
+      "views": 271664
+    },
+    {
+      "period": "2026-05",
+      "views": 282650
+    },
+    {
+      "period": "2026-06",
+      "views": 10668
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 46501
+    },
+    {
+      "period": "2016",
+      "views": 979986
+    },
+    {
+      "period": "2019",
+      "views": 23864
+    },
+    {
+      "period": "2024",
+      "views": 64022
+    },
+    {
+      "period": "2026",
+      "views": 832061
+    }
+  ]
+}

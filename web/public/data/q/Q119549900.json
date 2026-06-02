@@ -1,0 +1,52 @@
+{
+  "qid": "Q119549900",
+  "label": "Juror #2",
+  "title": "Juror_No._2",
+  "description": "2024 film by Clint Eastwood",
+  "image": "",
+  "total": 1771857,
+  "monthly": [
+    {
+      "period": "2024-10",
+      "views": 97504
+    },
+    {
+      "period": "2024-11",
+      "views": 196010
+    },
+    {
+      "period": "2024-12",
+      "views": 932987
+    },
+    {
+      "period": "2025-01",
+      "views": 514171
+    },
+    {
+      "period": "2025-02",
+      "views": 12237
+    },
+    {
+      "period": "2025-07",
+      "views": 10448
+    },
+    {
+      "period": "2026-06",
+      "views": 8500
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 1226501
+    },
+    {
+      "period": "2025",
+      "views": 536856
+    },
+    {
+      "period": "2026",
+      "views": 8500
+    }
+  ]
+}

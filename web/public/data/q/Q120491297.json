@@ -1,0 +1,48 @@
+{
+  "qid": "Q120491297",
+  "label": "NBA Cup",
+  "title": "NBA_Cup",
+  "description": "regular season tournament of the National Basketball Association",
+  "image": "",
+  "total": 533310,
+  "monthly": [
+    {
+      "period": "2024-11",
+      "views": 92599
+    },
+    {
+      "period": "2024-12",
+      "views": 127105
+    },
+    {
+      "period": "2025-11",
+      "views": 115397
+    },
+    {
+      "period": "2025-12",
+      "views": 159210
+    },
+    {
+      "period": "2026-05",
+      "views": 30416
+    },
+    {
+      "period": "2026-06",
+      "views": 8583
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 219704
+    },
+    {
+      "period": "2025",
+      "views": 274607
+    },
+    {
+      "period": "2026",
+      "views": 38999
+    }
+  ]
+}

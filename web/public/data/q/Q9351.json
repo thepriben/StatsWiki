@@ -1,0 +1,48 @@
+{
+  "qid": "Q9351",
+  "label": "Pikachu",
+  "title": "Pikachu",
+  "description": "Pokémon species, mascot of the Pokémon franchise",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pikachu_Parade_%2814905092432%29.jpg?width=64",
+  "total": 260262,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 183565
+    },
+    {
+      "period": "2018-11",
+      "views": 13351
+    },
+    {
+      "period": "2025-07",
+      "views": 14404
+    },
+    {
+      "period": "2026-05",
+      "views": 40384
+    },
+    {
+      "period": "2026-06",
+      "views": 8558
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 183565
+    },
+    {
+      "period": "2018",
+      "views": 13351
+    },
+    {
+      "period": "2025",
+      "views": 14404
+    },
+    {
+      "period": "2026",
+      "views": 48942
+    }
+  ]
+}
