@@ -2,8 +2,6 @@
 
 Rankings of the most-viewed articles on **English Wikipedia**, from **July 1, 2015** to yesterday.
 
-Live site: **https://thepriben.github.io/StatsWiki/**
-
 ---
 
 ## Deployment (GitHub Pages)
