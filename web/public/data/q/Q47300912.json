@@ -4,8 +4,36 @@
   "title": "Once_Upon_a_Time_in_Hollywood",
   "description": "2019 film directed by Quentin Tarantino",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Once_Upon_a_Time_in_Hollywood_logo.svg?width=64",
-  "total": 26718569,
+  "total": 27154956,
   "monthly": [
+    {
+      "period": "2018-06",
+      "views": 102404
+    },
+    {
+      "period": "2018-07",
+      "views": 73682
+    },
+    {
+      "period": "2018-08",
+      "views": 169417
+    },
+    {
+      "period": "2018-09",
+      "views": 48121
+    },
+    {
+      "period": "2018-10",
+      "views": 11640
+    },
+    {
+      "period": "2018-11",
+      "views": 21460
+    },
+    {
+      "period": "2018-12",
+      "views": 9663
+    },
     {
       "period": "2019-01",
       "views": 169832
@@ -328,6 +356,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 436387
+    },
     {
       "period": "2019",
       "views": 12343354

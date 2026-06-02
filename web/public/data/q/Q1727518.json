@@ -4,8 +4,20 @@
   "title": "Media",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 13503806,
+  "total": 13698690,
   "monthly": [
+    {
+      "period": "2018-10",
+      "views": 16256
+    },
+    {
+      "period": "2018-11",
+      "views": 168003
+    },
+    {
+      "period": "2018-12",
+      "views": 10625
+    },
     {
       "period": "2019-03",
       "views": 9114
@@ -28,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 194884
+    },
     {
       "period": "2019",
       "views": 2509856

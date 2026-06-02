@@ -4,8 +4,32 @@
   "title": "Spider-Man:_Far_From_Home",
   "description": "2019 film directed by Jon Watts",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-man-far-from-home.svg?width=64",
-  "total": 14389972,
+  "total": 15986896,
   "monthly": [
+    {
+      "period": "2018-07",
+      "views": 266721
+    },
+    {
+      "period": "2018-08",
+      "views": 306215
+    },
+    {
+      "period": "2018-09",
+      "views": 318974
+    },
+    {
+      "period": "2018-10",
+      "views": 271454
+    },
+    {
+      "period": "2018-11",
+      "views": 23249
+    },
+    {
+      "period": "2018-12",
+      "views": 410311
+    },
     {
       "period": "2019-01",
       "views": 715975
@@ -148,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 1596924
+    },
     {
       "period": "2019",
       "views": 11310505

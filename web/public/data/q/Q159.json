@@ -4,7 +4,7 @@
   "title": "Russia",
   "description": "country in Eastern Europe and Northern Asia, the largest in the world by area",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Russia_87.74494E_66.20034N.jpg?width=64",
-  "total": 49622310,
+  "total": 56103663,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 511019
+    },
+    {
+      "period": "2018-01",
+      "views": 724427
+    },
+    {
+      "period": "2018-02",
+      "views": 465477
+    },
+    {
+      "period": "2018-03",
+      "views": 560135
+    },
+    {
+      "period": "2018-04",
+      "views": 597216
+    },
+    {
+      "period": "2018-05",
+      "views": 591686
+    },
+    {
+      "period": "2018-06",
+      "views": 829438
+    },
+    {
+      "period": "2018-07",
+      "views": 680114
+    },
+    {
+      "period": "2018-08",
+      "views": 392013
+    },
+    {
+      "period": "2018-09",
+      "views": 404646
+    },
+    {
+      "period": "2018-10",
+      "views": 410566
+    },
+    {
+      "period": "2018-11",
+      "views": 420091
+    },
+    {
+      "period": "2018-12",
+      "views": 405544
     },
     {
       "period": "2019-01",
@@ -391,6 +439,10 @@
     {
       "period": "2015",
       "views": 3101984
+    },
+    {
+      "period": "2018",
+      "views": 6481353
     },
     {
       "period": "2019",

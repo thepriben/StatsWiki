@@ -4,11 +4,39 @@
   "title": "Boris_Johnson",
   "description": "Prime Minister of the United Kingdom from 2019 to 2022",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris_Johnson_official_portrait_%28cropped%29.jpg?width=64",
-  "total": 28817238,
+  "total": 29267480,
   "monthly": [
     {
       "period": "2015-10",
       "views": 12943
+    },
+    {
+      "period": "2018-05",
+      "views": 102040
+    },
+    {
+      "period": "2018-07",
+      "views": 148786
+    },
+    {
+      "period": "2018-08",
+      "views": 55444
+    },
+    {
+      "period": "2018-09",
+      "views": 80678
+    },
+    {
+      "period": "2018-10",
+      "views": 13744
+    },
+    {
+      "period": "2018-11",
+      "views": 35745
+    },
+    {
+      "period": "2018-12",
+      "views": 13805
     },
     {
       "period": "2019-01",
@@ -251,6 +279,10 @@
     {
       "period": "2015",
       "views": 12943
+    },
+    {
+      "period": "2018",
+      "views": 450242
     },
     {
       "period": "2019",

@@ -4,8 +4,24 @@
   "title": "Michael_Carrick",
   "description": "English footballer and manager (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Carrick_12042025_%285%29_%28cropped%29.jpg?width=64",
-  "total": 2263009,
+  "total": 2401724,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 16513
+    },
+    {
+      "period": "2018-03",
+      "views": 36190
+    },
+    {
+      "period": "2018-05",
+      "views": 63787
+    },
+    {
+      "period": "2018-12",
+      "views": 22225
+    },
     {
       "period": "2021-11",
       "views": 313864
@@ -48,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 138715
+    },
     {
       "period": "2021",
       "views": 475468

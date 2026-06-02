@@ -4,8 +4,56 @@
   "title": "Special:CreateAccount",
   "description": "",
   "image": "",
-  "total": 28462170,
+  "total": 77312769,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 6450508
+    },
+    {
+      "period": "2018-02",
+      "views": 3877391
+    },
+    {
+      "period": "2018-03",
+      "views": 4656385
+    },
+    {
+      "period": "2018-04",
+      "views": 2875384
+    },
+    {
+      "period": "2018-05",
+      "views": 3317458
+    },
+    {
+      "period": "2018-06",
+      "views": 6052608
+    },
+    {
+      "period": "2018-07",
+      "views": 3370231
+    },
+    {
+      "period": "2018-08",
+      "views": 4653445
+    },
+    {
+      "period": "2018-09",
+      "views": 2430549
+    },
+    {
+      "period": "2018-10",
+      "views": 2545359
+    },
+    {
+      "period": "2018-11",
+      "views": 4051858
+    },
+    {
+      "period": "2018-12",
+      "views": 4569423
+    },
     {
       "period": "2019-01",
       "views": 4111055
@@ -48,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 48850599
+    },
     {
       "period": "2019",
       "views": 27239743

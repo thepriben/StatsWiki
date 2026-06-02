@@ -4,7 +4,7 @@
   "title": "South_Korea",
   "description": "country in East Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul_%28175734251%29.jpeg?width=64",
-  "total": 10850644,
+  "total": 12099116,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,42 @@
     {
       "period": "2015-12",
       "views": 38140
+    },
+    {
+      "period": "2018-01",
+      "views": 153115
+    },
+    {
+      "period": "2018-02",
+      "views": 434479
+    },
+    {
+      "period": "2018-03",
+      "views": 113486
+    },
+    {
+      "period": "2018-04",
+      "views": 126217
+    },
+    {
+      "period": "2018-05",
+      "views": 133322
+    },
+    {
+      "period": "2018-06",
+      "views": 200869
+    },
+    {
+      "period": "2018-07",
+      "views": 19143
+    },
+    {
+      "period": "2018-08",
+      "views": 58211
+    },
+    {
+      "period": "2018-09",
+      "views": 9630
     },
     {
       "period": "2019-02",
@@ -311,6 +347,10 @@
     {
       "period": "2015",
       "views": 675504
+    },
+    {
+      "period": "2018",
+      "views": 1248472
     },
     {
       "period": "2019",

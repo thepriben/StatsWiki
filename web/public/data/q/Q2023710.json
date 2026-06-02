@@ -4,11 +4,155 @@
   "title": "Tom_Holland",
   "description": "British actor (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Holland_by_Gage_Skidmore.jpg?width=64",
-  "total": 23649355,
+  "total": 36012758,
   "monthly": [
     {
+      "period": "2015-08",
+      "views": 20459
+    },
+    {
+      "period": "2015-11",
+      "views": 51160
+    },
+    {
+      "period": "2018-02",
+      "views": 47191
+    },
+    {
+      "period": "2018-03",
+      "views": 259155
+    },
+    {
+      "period": "2018-04",
+      "views": 716826
+    },
+    {
+      "period": "2018-05",
+      "views": 1124398
+    },
+    {
+      "period": "2018-06",
+      "views": 420228
+    },
+    {
+      "period": "2018-07",
+      "views": 297967
+    },
+    {
+      "period": "2018-08",
+      "views": 322595
+    },
+    {
+      "period": "2018-09",
+      "views": 241446
+    },
+    {
+      "period": "2018-10",
+      "views": 69103
+    },
+    {
+      "period": "2018-11",
+      "views": 15515
+    },
+    {
+      "period": "2018-12",
+      "views": 223006
+    },
+    {
+      "period": "2019-01",
+      "views": 322863
+    },
+    {
+      "period": "2019-03",
+      "views": 206158
+    },
+    {
+      "period": "2019-04",
+      "views": 484425
+    },
+    {
+      "period": "2019-05",
+      "views": 964915
+    },
+    {
+      "period": "2019-06",
+      "views": 752660
+    },
+    {
+      "period": "2019-07",
+      "views": 1368129
+    },
+    {
+      "period": "2019-08",
+      "views": 539380
+    },
+    {
+      "period": "2019-09",
+      "views": 489368
+    },
+    {
+      "period": "2019-10",
+      "views": 344929
+    },
+    {
+      "period": "2019-11",
+      "views": 73052
+    },
+    {
+      "period": "2019-12",
+      "views": 216573
+    },
+    {
+      "period": "2020-01",
+      "views": 159711
+    },
+    {
+      "period": "2020-02",
+      "views": 110453
+    },
+    {
+      "period": "2020-03",
+      "views": 192877
+    },
+    {
+      "period": "2020-04",
+      "views": 510124
+    },
+    {
+      "period": "2020-05",
+      "views": 324903
+    },
+    {
+      "period": "2020-06",
+      "views": 69519
+    },
+    {
+      "period": "2020-07",
+      "views": 163803
+    },
+    {
+      "period": "2020-08",
+      "views": 113495
+    },
+    {
+      "period": "2020-09",
+      "views": 323187
+    },
+    {
+      "period": "2020-10",
+      "views": 236549
+    },
+    {
+      "period": "2020-11",
+      "views": 290331
+    },
+    {
+      "period": "2020-12",
+      "views": 250827
+    },
+    {
       "period": "2021-01",
-      "views": 38095
+      "views": 84218
     },
     {
       "period": "2021-02",
@@ -265,8 +409,24 @@
   ],
   "yearly": [
     {
+      "period": "2015",
+      "views": 71619
+    },
+    {
+      "period": "2018",
+      "views": 3737430
+    },
+    {
+      "period": "2019",
+      "views": 5762452
+    },
+    {
+      "period": "2020",
+      "views": 2745779
+    },
+    {
       "period": "2021",
-      "views": 6035521
+      "views": 6081644
     },
     {
       "period": "2022",

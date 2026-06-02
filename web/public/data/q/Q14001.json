@@ -4,7 +4,7 @@
   "title": "Malware",
   "description": "software that is intentionally hostile, intrusive, or damaging to a computer or network",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CIH.png?width=64",
-  "total": 5858393,
+  "total": 5871276,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,20 @@
     {
       "period": "2015-12",
       "views": 33068
+    },
+    {
+      "period": "2018-06",
+      "views": 12883
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 5858393
+    },
+    {
+      "period": "2018",
+      "views": 12883
     }
   ]
 }

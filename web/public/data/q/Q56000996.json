@@ -4,8 +4,12 @@
   "title": "Us_(2019_film)",
   "description": "2019 film directed by Jordan Peele",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Us_2019_film_logo.svg?width=64",
-  "total": 11011597,
+  "total": 11384532,
   "monthly": [
+    {
+      "period": "2018-12",
+      "views": 372935
+    },
     {
       "period": "2019-01",
       "views": 50860
@@ -148,6 +152,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 372935
+    },
     {
       "period": "2019",
       "views": 9443453

@@ -4,8 +4,16 @@
   "title": "Nipsey_Hussle",
   "description": "American rapper (1985–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg?width=64",
-  "total": 11773505,
+  "total": 11882222,
   "monthly": [
+    {
+      "period": "2018-02",
+      "views": 92600
+    },
+    {
+      "period": "2018-06",
+      "views": 16117
+    },
     {
       "period": "2019-02",
       "views": 18372
@@ -156,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 108717
+    },
     {
       "period": "2019",
       "views": 9604443

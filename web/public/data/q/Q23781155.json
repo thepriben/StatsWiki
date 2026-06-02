@@ -4,8 +4,12 @@
   "title": "Avengers:_Endgame",
   "description": "2019 film by Anthony and Joe Russo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avengers_Endgame_Logo_Black.svg?width=64",
-  "total": 51326697,
+  "total": 52587907,
   "monthly": [
+    {
+      "period": "2018-12",
+      "views": 1261210
+    },
     {
       "period": "2019-01",
       "views": 917640
@@ -256,6 +260,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 1261210
+    },
     {
       "period": "2019",
       "views": 39725406

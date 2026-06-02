@@ -4,8 +4,52 @@
   "title": "Mukesh_Ambani",
   "description": "Indian businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mukesh_Ambani.jpg?width=64",
-  "total": 6936790,
+  "total": 8475312,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 38185
+    },
+    {
+      "period": "2018-02",
+      "views": 23431
+    },
+    {
+      "period": "2018-03",
+      "views": 131724
+    },
+    {
+      "period": "2018-04",
+      "views": 9859
+    },
+    {
+      "period": "2018-05",
+      "views": 74108
+    },
+    {
+      "period": "2018-06",
+      "views": 52370
+    },
+    {
+      "period": "2018-07",
+      "views": 147115
+    },
+    {
+      "period": "2018-09",
+      "views": 53649
+    },
+    {
+      "period": "2018-10",
+      "views": 12320
+    },
+    {
+      "period": "2018-11",
+      "views": 9227
+    },
+    {
+      "period": "2018-12",
+      "views": 986534
+    },
     {
       "period": "2019-02",
       "views": 31733
@@ -164,6 +208,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 1538522
+    },
     {
       "period": "2019",
       "views": 651854

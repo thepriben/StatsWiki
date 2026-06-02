@@ -4,7 +4,7 @@
   "title": "Earth",
   "description": "third planet from the Sun in the Solar System",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Blue_Marble_%285052124705%29.jpg?width=64",
-  "total": 21621105,
+  "total": 23507023,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 10291
+    },
+    {
+      "period": "2018-01",
+      "views": 63207
+    },
+    {
+      "period": "2018-02",
+      "views": 125461
+    },
+    {
+      "period": "2018-03",
+      "views": 99734
+    },
+    {
+      "period": "2018-04",
+      "views": 78425
+    },
+    {
+      "period": "2018-05",
+      "views": 89580
+    },
+    {
+      "period": "2018-06",
+      "views": 127446
+    },
+    {
+      "period": "2018-07",
+      "views": 165637
+    },
+    {
+      "period": "2018-08",
+      "views": 204470
+    },
+    {
+      "period": "2018-09",
+      "views": 205468
+    },
+    {
+      "period": "2018-10",
+      "views": 193929
+    },
+    {
+      "period": "2018-11",
+      "views": 238375
+    },
+    {
+      "period": "2018-12",
+      "views": 294186
     },
     {
       "period": "2019-01",
@@ -383,6 +431,10 @@
     {
       "period": "2015",
       "views": 645416
+    },
+    {
+      "period": "2018",
+      "views": 1885918
     },
     {
       "period": "2019",

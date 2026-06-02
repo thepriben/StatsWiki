@@ -1,10 +1,10 @@
 {
   "qid": "Q25173",
   "label": "Titanic",
-  "title": "RMS_Titanic",
+  "title": "Titanic",
   "description": "British transatlantic passenger liner, launched and foundered in 1912",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RMS_Titanic_3.jpg?width=64",
-  "total": 22861189,
+  "total": 26796050,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 345360
+    },
+    {
+      "period": "2018-01",
+      "views": 406251
+    },
+    {
+      "period": "2018-02",
+      "views": 307480
+    },
+    {
+      "period": "2018-03",
+      "views": 359960
+    },
+    {
+      "period": "2018-04",
+      "views": 422146
+    },
+    {
+      "period": "2018-05",
+      "views": 342681
+    },
+    {
+      "period": "2018-06",
+      "views": 322111
+    },
+    {
+      "period": "2018-07",
+      "views": 215182
+    },
+    {
+      "period": "2018-08",
+      "views": 279575
+    },
+    {
+      "period": "2018-09",
+      "views": 241719
+    },
+    {
+      "period": "2018-10",
+      "views": 407039
+    },
+    {
+      "period": "2018-11",
+      "views": 350349
+    },
+    {
+      "period": "2018-12",
+      "views": 280368
     },
     {
       "period": "2019-01",
@@ -371,6 +419,10 @@
     {
       "period": "2015",
       "views": 2246179
+    },
+    {
+      "period": "2018",
+      "views": 3934861
     },
     {
       "period": "2019",

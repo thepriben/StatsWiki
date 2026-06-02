@@ -4,8 +4,16 @@
   "title": "Wicked_(musical)",
   "description": "2003 musical based on the 1995 Gregory Maguire's novel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wicked.png?width=64",
-  "total": 8687570,
+  "total": 8796699,
   "monthly": [
+    {
+      "period": "2018-10",
+      "views": 74745
+    },
+    {
+      "period": "2018-11",
+      "views": 34384
+    },
     {
       "period": "2021-08",
       "views": 17883
@@ -84,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 109129
+    },
     {
       "period": "2021",
       "views": 74623

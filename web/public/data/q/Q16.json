@@ -4,7 +4,7 @@
   "title": "Canada",
   "description": "country in North America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NASA_astronaut_Scott_Kelly_took_this_aurora_image_over_Canada_on_Jan._21%2C_2016_01.jpg?width=64",
-  "total": 48024342,
+  "total": 54315889,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 545261
+    },
+    {
+      "period": "2018-01",
+      "views": 539691
+    },
+    {
+      "period": "2018-02",
+      "views": 563759
+    },
+    {
+      "period": "2018-03",
+      "views": 520903
+    },
+    {
+      "period": "2018-04",
+      "views": 554180
+    },
+    {
+      "period": "2018-05",
+      "views": 551087
+    },
+    {
+      "period": "2018-06",
+      "views": 576249
+    },
+    {
+      "period": "2018-07",
+      "views": 513058
+    },
+    {
+      "period": "2018-08",
+      "views": 497273
+    },
+    {
+      "period": "2018-09",
+      "views": 500448
+    },
+    {
+      "period": "2018-10",
+      "views": 487171
+    },
+    {
+      "period": "2018-11",
+      "views": 506171
+    },
+    {
+      "period": "2018-12",
+      "views": 481557
     },
     {
       "period": "2019-01",
@@ -391,6 +439,10 @@
     {
       "period": "2015",
       "views": 3546712
+    },
+    {
+      "period": "2018",
+      "views": 6291547
     },
     {
       "period": "2019",

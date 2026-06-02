@@ -4,7 +4,7 @@
   "title": "Doctor_Who",
   "description": "British science fiction television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Doctor_Who_logo_1963-1967path.svg?width=64",
-  "total": 8751225,
+  "total": 10655581,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,46 @@
     {
       "period": "2015-12",
       "views": 513042
+    },
+    {
+      "period": "2018-01",
+      "views": 135670
+    },
+    {
+      "period": "2018-02",
+      "views": 10521
+    },
+    {
+      "period": "2018-04",
+      "views": 11455
+    },
+    {
+      "period": "2018-05",
+      "views": 9257
+    },
+    {
+      "period": "2018-07",
+      "views": 149807
+    },
+    {
+      "period": "2018-08",
+      "views": 27732
+    },
+    {
+      "period": "2018-09",
+      "views": 234890
+    },
+    {
+      "period": "2018-10",
+      "views": 579976
+    },
+    {
+      "period": "2018-11",
+      "views": 419903
+    },
+    {
+      "period": "2018-12",
+      "views": 325145
     },
     {
       "period": "2019-01",
@@ -211,6 +251,10 @@
     {
       "period": "2015",
       "views": 2862245
+    },
+    {
+      "period": "2018",
+      "views": 1904356
     },
     {
       "period": "2019",

@@ -4,8 +4,12 @@
   "title": "Justin_Baldoni",
   "description": "American actor and director (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justin_Baldoni_in_2017.jpg?width=64",
-  "total": 3977734,
+  "total": 3994448,
   "monthly": [
+    {
+      "period": "2018-08",
+      "views": 16714
+    },
     {
       "period": "2019-08",
       "views": 22212
@@ -56,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 16714
+    },
     {
       "period": "2019",
       "views": 22212

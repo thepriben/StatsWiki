@@ -1,0 +1,455 @@
+{
+  "period": "18 January 2018",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "JSON_Web_Token",
+      "label": "JSON Web Token",
+      "description": "",
+      "views": 2271323,
+      "qid": "Q_en_JSON_Web_Token",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "HTTP_cookie",
+      "label": "HTTP cookie",
+      "description": "small piece of data sent from a website and stored on the user's computer by the user's web browser",
+      "views": 1848211,
+      "qid": "Q178995",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internetcookie.png?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Access_token",
+      "label": "Access token",
+      "description": "",
+      "views": 1576273,
+      "qid": "Q_en_Access_token",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Session_token",
+      "label": "Session token",
+      "description": "",
+      "views": 1511978,
+      "qid": "Q_en_Session_token",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Cookie_(disambiguation)",
+      "label": "Cookie (disambiguation)",
+      "description": "",
+      "views": 466606,
+      "qid": "Q_en_Cookie_(disambiguation)",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Gianni_Versace",
+      "label": "Gianni Versace",
+      "description": "",
+      "views": 415645,
+      "qid": "Q_en_Gianni_Versace",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Magic_cookie",
+      "label": "Magic cookie",
+      "description": "",
+      "views": 397545,
+      "qid": "Q_en_Magic_cookie",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Andrew_Cunanan",
+      "label": "Andrew Cunanan",
+      "description": "",
+      "views": 366634,
+      "qid": "Q_en_Andrew_Cunanan",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Evercookie",
+      "label": "Evercookie",
+      "description": "",
+      "views": 313582,
+      "qid": "Q_en_Evercookie",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Bobbie_the_Wonder_Dog",
+      "label": "Bobbie the Wonder Dog",
+      "description": "",
+      "views": 262853,
+      "qid": "Q_en_Bobbie_the_Wonder_Dog",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 253665,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Chris_Hansen",
+      "label": "Chris Hansen",
+      "description": "",
+      "views": 245640,
+      "qid": "Q_en_Chris_Hansen",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Web_analytics",
+      "label": "Web analytics",
+      "description": "",
+      "views": 236539,
+      "qid": "Q_en_Web_analytics",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Click_fraud",
+      "label": "Click fraud",
+      "description": "",
+      "views": 214623,
+      "qid": "Q_en_Click_fraud",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Zombie_cookie",
+      "label": "Zombie cookie",
+      "description": "",
+      "views": 203292,
+      "qid": "Q_en_Zombie_cookie",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Facebook",
+      "label": "Facebook",
+      "description": "American online social media and social networking service",
+      "views": 198270,
+      "qid": "Q355",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Facebook_%282%29.PNG?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Secure_cookies",
+      "label": "Secure cookies",
+      "description": "",
+      "views": 182216,
+      "qid": "Q_en_Secure_cookies",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Enterprise_JavaBeans",
+      "label": "Enterprise JavaBeans",
+      "description": "",
+      "views": 166730,
+      "qid": "Q_en_Enterprise_JavaBeans",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Dolores_O'Riordan",
+      "label": "Dolores O'Riordan",
+      "description": "",
+      "views": 149556,
+      "qid": "Q_en_Dolores_O'Riordan",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Kashinath_(actor)",
+      "label": "Kashinath (actor)",
+      "description": "",
+      "views": 140878,
+      "qid": "Q_en_Kashinath_(actor)",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "The_Assassination_of_Gianni_Versace:_American_Crime_Story",
+      "label": "The Assassination of Gianni Versace: American Crime Story",
+      "description": "",
+      "views": 139022,
+      "qid": "Q_en_The_Assassination_of_Gianni_Versace:_American_Crime_Story",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Donatella_Versace",
+      "label": "Donatella Versace",
+      "description": "",
+      "views": 134916,
+      "qid": "Q_en_Donatella_Versace",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Ted_Bundy",
+      "label": "Ted Bundy",
+      "description": "American serial killer (1946–1989)",
+      "views": 124616,
+      "qid": "Q192218",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Antonio_D'Amico",
+      "label": "Antonio D'Amico",
+      "description": "",
+      "views": 118251,
+      "qid": "Q_en_Antonio_D'Amico",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Allegra_Versace",
+      "label": "Allegra Versace",
+      "description": "",
+      "views": 109303,
+      "qid": "Q_en_Allegra_Versace",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Deaths_in_2018",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 109080,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Peter_Wyngarde",
+      "label": "Peter Wyngarde",
+      "description": "",
+      "views": 99039,
+      "qid": "Q_en_Peter_Wyngarde",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "United_States_military_chocolate",
+      "label": "United States military chocolate",
+      "description": "",
+      "views": 93793,
+      "qid": "Q_en_United_States_military_chocolate",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Darth_Vader",
+      "label": "Darth Vader",
+      "description": "main villain of the Star Wars Trilogy",
+      "views": 85644,
+      "qid": "Q12206942",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Bob_Dole",
+      "label": "Bob Dole",
+      "description": "",
+      "views": 83854,
+      "qid": "Q_en_Bob_Dole",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 82793,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Woody_Allen",
+      "label": "Woody Allen",
+      "description": "",
+      "views": 77064,
+      "qid": "Q_en_Woody_Allen",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Princess_Margaret,_Countess_of_Snowdon",
+      "label": "Princess Margaret, Countess of Snowdon",
+      "description": "British princess (1930–2002)",
+      "views": 72331,
+      "qid": "Q153815",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Bitcoin",
+      "label": "Bitcoin",
+      "description": "digital cash system and associated currency",
+      "views": 70655,
+      "qid": "Q131723",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin.svg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Queen_Victoria",
+      "label": "Victoria of the United Kingdom",
+      "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+      "views": 69150,
+      "qid": "Q9439",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Camila_Giorgi",
+      "label": "Camila Giorgi",
+      "description": "",
+      "views": 67857,
+      "qid": "Q_en_Camila_Giorgi",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "List_of_United_States_stand-up_comedians",
+      "label": "list of United States stand-up comedians",
+      "description": "Wikimedia list article",
+      "views": 63691,
+      "qid": "Q6602926",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "List_of_stand-up_comedians",
+      "label": "list of stand-up comedians",
+      "description": "Wikimedia list article",
+      "views": 63440,
+      "qid": "Q147639",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 63374,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "List_of_Australian_stand-up_comedians",
+      "label": "list of Australian stand-up comedians",
+      "description": "Wikimedia list article",
+      "views": 63244,
+      "qid": "Q6562963",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "List_of_Canadian_stand-up_comedians",
+      "label": "list of Canadian comedians",
+      "description": "Wikimedia list article",
+      "views": 63233,
+      "qid": "Q6565758",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "List_of_British_stand-up_comedians",
+      "label": "list of British comedians",
+      "description": "Wikimedia list article",
+      "views": 63223,
+      "qid": "Q11791620",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Stormy_Daniels",
+      "label": "Stormy Daniels",
+      "description": "",
+      "views": 63099,
+      "qid": "Q_en_Stormy_Daniels",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "The_End_of_the_F***ing_World",
+      "label": "The End of the F***ing World",
+      "description": "",
+      "views": 62648,
+      "qid": "Q_en_The_End_of_the_F***ing_World",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Camila_Cabello",
+      "label": "Camila Cabello",
+      "description": "Cuban-Mexican-American singer",
+      "views": 62088,
+      "qid": "Q18810940",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Camila_Cabello_Sundance_2024_Cropped.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Black_Mirror",
+      "label": "Black Mirror",
+      "description": "science fiction British TV series",
+      "views": 60322,
+      "qid": "Q558112",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Mirror_%28British_TV_series%29_logo.svg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Martin_Luther_King_Jr.",
+      "label": "Martin Luther King Jr.",
+      "description": "American Baptist minister and civil rights leader (1929–1968)",
+      "views": 60030,
+      "qid": "Q8027",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Alexis_Sánchez",
+      "label": "Alexis Sánchez",
+      "description": "",
+      "views": 60028,
+      "qid": "Q_en_Alexis_Sánchez",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Mia_Farrow",
+      "label": "Mia Farrow",
+      "description": "",
+      "views": 59573,
+      "qid": "Q_en_Mia_Farrow",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "XXX_(franchise)",
+      "label": "xXx",
+      "description": "film series by Rich Wilkes",
+      "views": 59271,
+      "qid": "Q25136249",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    }
+  ]
+}

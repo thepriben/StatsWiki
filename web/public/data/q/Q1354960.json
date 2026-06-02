@@ -4,8 +4,56 @@
   "title": "Mohamed_Salah",
   "description": "Egyptian association football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed_Salah_2018.jpg?width=64",
-  "total": 9415527,
+  "total": 14556449,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 136125
+    },
+    {
+      "period": "2018-02",
+      "views": 338151
+    },
+    {
+      "period": "2018-03",
+      "views": 572216
+    },
+    {
+      "period": "2018-04",
+      "views": 1662426
+    },
+    {
+      "period": "2018-05",
+      "views": 977914
+    },
+    {
+      "period": "2018-06",
+      "views": 790060
+    },
+    {
+      "period": "2018-07",
+      "views": 138731
+    },
+    {
+      "period": "2018-08",
+      "views": 53916
+    },
+    {
+      "period": "2018-09",
+      "views": 99905
+    },
+    {
+      "period": "2018-10",
+      "views": 49278
+    },
+    {
+      "period": "2018-11",
+      "views": 23682
+    },
+    {
+      "period": "2018-12",
+      "views": 298518
+    },
     {
       "period": "2019-01",
       "views": 227491
@@ -304,6 +352,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 5140922
+    },
     {
       "period": "2019",
       "views": 1355412

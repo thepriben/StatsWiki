@@ -4,8 +4,56 @@
   "title": "Meghan,_Duchess_of_Sussex",
   "description": "member of the British royal family and Duchess of Sussex since 2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg?width=64",
-  "total": 22775184,
+  "total": 50861197,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 998062
+    },
+    {
+      "period": "2018-02",
+      "views": 521105
+    },
+    {
+      "period": "2018-03",
+      "views": 744446
+    },
+    {
+      "period": "2018-04",
+      "views": 1360669
+    },
+    {
+      "period": "2018-05",
+      "views": 19258065
+    },
+    {
+      "period": "2018-06",
+      "views": 873709
+    },
+    {
+      "period": "2018-07",
+      "views": 563860
+    },
+    {
+      "period": "2018-08",
+      "views": 402948
+    },
+    {
+      "period": "2018-09",
+      "views": 180877
+    },
+    {
+      "period": "2018-10",
+      "views": 700129
+    },
+    {
+      "period": "2018-11",
+      "views": 517023
+    },
+    {
+      "period": "2018-12",
+      "views": 458837
+    },
     {
       "period": "2019-01",
       "views": 334885
@@ -24,7 +72,7 @@
     },
     {
       "period": "2019-05",
-      "views": 1357337
+      "views": 1466018
     },
     {
       "period": "2019-06",
@@ -56,7 +104,7 @@
     },
     {
       "period": "2020-01",
-      "views": 1967927
+      "views": 2205465
     },
     {
       "period": "2020-02",
@@ -96,7 +144,7 @@
     },
     {
       "period": "2020-11",
-      "views": 347730
+      "views": 462876
     },
     {
       "period": "2020-12",
@@ -112,11 +160,11 @@
     },
     {
       "period": "2021-03",
-      "views": 3946688
+      "views": 4305629
     },
     {
       "period": "2021-04",
-      "views": 484955
+      "views": 542413
     },
     {
       "period": "2021-05",
@@ -168,7 +216,7 @@
     },
     {
       "period": "2022-09",
-      "views": 1831016
+      "views": 2391391
     },
     {
       "period": "2022-10",
@@ -176,7 +224,7 @@
     },
     {
       "period": "2022-12",
-      "views": 1279708
+      "views": 1290535
     },
     {
       "period": "2023-01",
@@ -196,7 +244,7 @@
     },
     {
       "period": "2023-05",
-      "views": 418488
+      "views": 475805
     },
     {
       "period": "2023-06",
@@ -293,24 +341,28 @@
   ],
   "yearly": [
     {
+      "period": "2018",
+      "views": 26579730
+    },
+    {
       "period": "2019",
-      "views": 4517343
+      "views": 4626024
     },
     {
       "period": "2020",
-      "views": 3928844
+      "views": 4281528
     },
     {
       "period": "2021",
-      "views": 5352645
+      "views": 5769044
     },
     {
       "period": "2022",
-      "views": 3797850
+      "views": 4369052
     },
     {
       "period": "2023",
-      "views": 3986786
+      "views": 4044103
     },
     {
       "period": "2024",

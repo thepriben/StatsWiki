@@ -4,7 +4,7 @@
   "title": "List_of_Doctor_Who_serials",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 2539431,
+  "total": 2597161,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,20 @@
     {
       "period": "2015-12",
       "views": 491140
+    },
+    {
+      "period": "2018-01",
+      "views": 57730
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2539431
+    },
+    {
+      "period": "2018",
+      "views": 57730
     }
   ]
 }

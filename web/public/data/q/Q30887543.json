@@ -4,8 +4,56 @@
   "title": "Game_of_Thrones_(season_8)",
   "description": "eighth season of the fantasy drama television series Game of Thrones",
   "image": "",
-  "total": 12166454,
+  "total": 16046537,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 33448
+    },
+    {
+      "period": "2018-02",
+      "views": 9722
+    },
+    {
+      "period": "2018-03",
+      "views": 222489
+    },
+    {
+      "period": "2018-04",
+      "views": 397381
+    },
+    {
+      "period": "2018-05",
+      "views": 394071
+    },
+    {
+      "period": "2018-06",
+      "views": 444074
+    },
+    {
+      "period": "2018-07",
+      "views": 423911
+    },
+    {
+      "period": "2018-08",
+      "views": 404181
+    },
+    {
+      "period": "2018-09",
+      "views": 370210
+    },
+    {
+      "period": "2018-10",
+      "views": 375334
+    },
+    {
+      "period": "2018-11",
+      "views": 425278
+    },
+    {
+      "period": "2018-12",
+      "views": 379984
+    },
     {
       "period": "2019-01",
       "views": 571829
@@ -36,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 3880083
+    },
     {
       "period": "2019",
       "views": 12155628

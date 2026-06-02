@@ -4,7 +4,7 @@
   "title": "Harry_Potter",
   "description": "1997–2007 fantasy book series by J. K. Rowling",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Potter_7_boxes.JPG?width=64",
-  "total": 22071421,
+  "total": 27245266,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 536399
+    },
+    {
+      "period": "2018-01",
+      "views": 485601
+    },
+    {
+      "period": "2018-02",
+      "views": 342093
+    },
+    {
+      "period": "2018-03",
+      "views": 373192
+    },
+    {
+      "period": "2018-04",
+      "views": 378404
+    },
+    {
+      "period": "2018-05",
+      "views": 372805
+    },
+    {
+      "period": "2018-06",
+      "views": 383912
+    },
+    {
+      "period": "2018-07",
+      "views": 466268
+    },
+    {
+      "period": "2018-08",
+      "views": 430652
+    },
+    {
+      "period": "2018-09",
+      "views": 473818
+    },
+    {
+      "period": "2018-10",
+      "views": 435723
+    },
+    {
+      "period": "2018-11",
+      "views": 570258
+    },
+    {
+      "period": "2018-12",
+      "views": 461119
     },
     {
       "period": "2019-01",
@@ -379,6 +427,10 @@
     {
       "period": "2015",
       "views": 2982148
+    },
+    {
+      "period": "2018",
+      "views": 5173845
     },
     {
       "period": "2019",

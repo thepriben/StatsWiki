@@ -4,7 +4,7 @@
   "title": "Humans_(TV_series)",
   "description": "2015 British-American science fiction TV series",
   "image": "",
-  "total": 1318821,
+  "total": 1338428,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,24 @@
     {
       "period": "2015-09",
       "views": 9238
+    },
+    {
+      "period": "2018-05",
+      "views": 9461
+    },
+    {
+      "period": "2018-07",
+      "views": 10146
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1318821
+    },
+    {
+      "period": "2018",
+      "views": 19607
     }
   ]
 }

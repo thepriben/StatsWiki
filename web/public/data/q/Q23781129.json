@@ -4,8 +4,52 @@
   "title": "Captain_Marvel_(film)",
   "description": "2019 film directed by Anna Boden and Ryan Fleck",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Marvel_Logo_Black.svg?width=64",
-  "total": 14068148,
+  "total": 19112651,
   "monthly": [
+    {
+      "period": "2018-02",
+      "views": 33289
+    },
+    {
+      "period": "2018-03",
+      "views": 223036
+    },
+    {
+      "period": "2018-04",
+      "views": 792997
+    },
+    {
+      "period": "2018-05",
+      "views": 1042752
+    },
+    {
+      "period": "2018-06",
+      "views": 262765
+    },
+    {
+      "period": "2018-07",
+      "views": 409042
+    },
+    {
+      "period": "2018-08",
+      "views": 591789
+    },
+    {
+      "period": "2018-09",
+      "views": 938387
+    },
+    {
+      "period": "2018-10",
+      "views": 86917
+    },
+    {
+      "period": "2018-11",
+      "views": 80028
+    },
+    {
+      "period": "2018-12",
+      "views": 583501
+    },
     {
       "period": "2019-01",
       "views": 495111
@@ -132,6 +176,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 5044503
+    },
     {
       "period": "2019",
       "views": 12993352

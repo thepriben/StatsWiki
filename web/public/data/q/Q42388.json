@@ -4,8 +4,12 @@
   "title": "Zionism",
   "description": "a movement to create and develop a Jewish state in the Levant",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_of_David.svg?width=64",
-  "total": 6720907,
+  "total": 6743047,
   "monthly": [
+    {
+      "period": "2018-05",
+      "views": 22140
+    },
     {
       "period": "2019-09",
       "views": 9084
@@ -108,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 22140
+    },
     {
       "period": "2019",
       "views": 9084

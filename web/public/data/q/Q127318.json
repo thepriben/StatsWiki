@@ -4,8 +4,12 @@
   "title": "George_III",
   "description": "King of Great Britain and Ireland from 1760 to 1820 (1738–1820)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allan_Ramsay_%281713-84%29_-_George_III_%281738-1820%29_-_RCIN_405307_-_Royal_Collection.jpg?width=64",
-  "total": 10644184,
+  "total": 10699132,
   "monthly": [
+    {
+      "period": "2018-05",
+      "views": 54948
+    },
     {
       "period": "2020-09",
       "views": 11743
@@ -196,6 +200,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 54948
+    },
     {
       "period": "2020",
       "views": 310170

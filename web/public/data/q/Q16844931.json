@@ -4,8 +4,12 @@
   "title": "Inter_Miami_CF",
   "description": "American professional soccer club based in Miami",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Inter_Miami_CF_wordmark-full_pink.png?width=64",
-  "total": 8603689,
+  "total": 8643564,
   "monthly": [
+    {
+      "period": "2018-09",
+      "views": 39875
+    },
     {
       "period": "2019-11",
       "views": 10793
@@ -160,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 39875
+    },
     {
       "period": "2019",
       "views": 44807

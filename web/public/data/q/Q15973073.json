@@ -4,7 +4,7 @@
   "title": "San_Andreas_(film)",
   "description": "2015 film directed by Brad Peyton",
   "image": "",
-  "total": 1421414,
+  "total": 1433647,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,20 @@
     {
       "period": "2015-11",
       "views": 239109
+    },
+    {
+      "period": "2018-11",
+      "views": 12233
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1421414
+    },
+    {
+      "period": "2018",
+      "views": 12233
     }
   ]
 }

@@ -4,8 +4,12 @@
   "title": "Tasuku_Honjo",
   "description": "Japanese professor of immunology and genomic medicine (1942–)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tasuku_Honjo_201311.jpg?width=64",
-  "total": 24678298,
+  "total": 24752441,
   "monthly": [
+    {
+      "period": "2018-10",
+      "views": 74143
+    },
     {
       "period": "2020-04",
       "views": 7132560
@@ -104,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 74143
+    },
     {
       "period": "2020",
       "views": 16178478

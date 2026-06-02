@@ -4,8 +4,16 @@
   "title": "Juice_Wrld",
   "description": "American rapper and singer (1998–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juice_Wrld_VMAs.png?width=64",
-  "total": 13997173,
+  "total": 14111224,
   "monthly": [
+    {
+      "period": "2018-08",
+      "views": 53304
+    },
+    {
+      "period": "2018-10",
+      "views": 60747
+    },
     {
       "period": "2019-03",
       "views": 55455
@@ -176,6 +184,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 114051
+    },
     {
       "period": "2019",
       "views": 4395112

@@ -4,7 +4,7 @@
   "title": "Ted_2",
   "description": "2015 film by Seth MacFarlane",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted2_logo.png?width=64",
-  "total": 956438,
+  "total": 967046,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,20 @@
     {
       "period": "2015-12",
       "views": 105751
+    },
+    {
+      "period": "2018-02",
+      "views": 10608
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 956438
+    },
+    {
+      "period": "2018",
+      "views": 10608
     }
   ]
 }

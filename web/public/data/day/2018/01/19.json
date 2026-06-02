@@ -1,0 +1,455 @@
+{
+  "period": "19 January 2018",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "JSON_Web_Token",
+      "label": "JSON Web Token",
+      "description": "",
+      "views": 1003600,
+      "qid": "Q_en_JSON_Web_Token",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "Access_token",
+      "label": "Access token",
+      "description": "",
+      "views": 833217,
+      "qid": "Q_en_Access_token",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Session_token",
+      "label": "Session token",
+      "description": "",
+      "views": 791389,
+      "qid": "Q_en_Session_token",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "HTTP_cookie",
+      "label": "HTTP cookie",
+      "description": "small piece of data sent from a website and stored on the user's computer by the user's web browser",
+      "views": 767590,
+      "qid": "Q178995",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internetcookie.png?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Alan_Alda",
+      "label": "Alan Alda",
+      "description": "",
+      "views": 272826,
+      "qid": "Q_en_Alan_Alda",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 253504,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Gianni_Versace",
+      "label": "Gianni Versace",
+      "description": "",
+      "views": 178645,
+      "qid": "Q_en_Gianni_Versace",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Andrew_Cunanan",
+      "label": "Andrew Cunanan",
+      "description": "",
+      "views": 167743,
+      "qid": "Q_en_Andrew_Cunanan",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Betacam",
+      "label": "Betacam",
+      "description": "",
+      "views": 125302,
+      "qid": "Q_en_Betacam",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Dolores_O'Riordan",
+      "label": "Dolores O'Riordan",
+      "description": "",
+      "views": 115362,
+      "qid": "Q_en_Dolores_O'Riordan",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Jacinda_Ardern",
+      "label": "Jacinda Ardern",
+      "description": "",
+      "views": 107304,
+      "qid": "Q_en_Jacinda_Ardern",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Deaths_in_2018",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 105921,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Liam_Neeson",
+      "label": "Liam Neeson",
+      "description": "actor from Northern Ireland (born 1952)",
+      "views": 100281,
+      "qid": "Q58444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liam_Neeson_Deauville_2012.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "USA_Gymnastics_sex_abuse_scandal",
+      "label": "USA Gymnastics sex abuse scandal",
+      "description": "",
+      "views": 95547,
+      "qid": "Q_en_USA_Gymnastics_sex_abuse_scandal",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Darth_Vader",
+      "label": "Darth Vader",
+      "description": "main villain of the Star Wars Trilogy",
+      "views": 88331,
+      "qid": "Q12206942",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Stormy_Daniels",
+      "label": "Stormy Daniels",
+      "description": "",
+      "views": 82928,
+      "qid": "Q_en_Stormy_Daniels",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Bobbie_the_Wonder_Dog",
+      "label": "Bobbie the Wonder Dog",
+      "description": "",
+      "views": 82806,
+      "qid": "Q_en_Bobbie_the_Wonder_Dog",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Nick_Kyrgios",
+      "label": "Nick Kyrgios",
+      "description": "",
+      "views": 82322,
+      "qid": "Q_en_Nick_Kyrgios",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Helen_Mirren",
+      "label": "Helen Mirren",
+      "description": "",
+      "views": 80147,
+      "qid": "Q_en_Helen_Mirren",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 78014,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "The_Assassination_of_Gianni_Versace:_American_Crime_Story",
+      "label": "The Assassination of Gianni Versace: American Crime Story",
+      "description": "",
+      "views": 76322,
+      "qid": "Q_en_The_Assassination_of_Gianni_Versace:_American_Crime_Story",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Jo-Wilfried_Tsonga",
+      "label": "Jo-Wilfried Tsonga",
+      "description": "",
+      "views": 70606,
+      "qid": "Q_en_Jo-Wilfried_Tsonga",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Princess_Margaret,_Countess_of_Snowdon",
+      "label": "Princess Margaret, Countess of Snowdon",
+      "description": "British princess (1930–2002)",
+      "views": 66436,
+      "qid": "Q153815",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "Donatella_Versace",
+      "label": "Donatella Versace",
+      "description": "",
+      "views": 65601,
+      "qid": "Q_en_Donatella_Versace",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Kanye_West",
+      "label": "Kanye West",
+      "description": "American rapper and record producer (born 1977)",
+      "views": 65120,
+      "qid": "Q15935",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Government_shutdowns_in_the_United_States",
+      "label": "government shutdowns in the United States",
+      "description": "cessation of \"non-essential\" government services in the United States due to a funding lapse",
+      "views": 65005,
+      "qid": "Q5589429",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "List_of_United_States_stand-up_comedians",
+      "label": "list of United States stand-up comedians",
+      "description": "Wikimedia list article",
+      "views": 63714,
+      "qid": "Q6602926",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "List_of_stand-up_comedians",
+      "label": "list of stand-up comedians",
+      "description": "Wikimedia list article",
+      "views": 63682,
+      "qid": "Q147639",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "List_of_Australian_stand-up_comedians",
+      "label": "list of Australian stand-up comedians",
+      "description": "Wikimedia list article",
+      "views": 63487,
+      "qid": "Q6562963",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "List_of_Canadian_stand-up_comedians",
+      "label": "list of Canadian comedians",
+      "description": "Wikimedia list article",
+      "views": 63455,
+      "qid": "Q6565758",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "List_of_British_stand-up_comedians",
+      "label": "list of British comedians",
+      "description": "Wikimedia list article",
+      "views": 63443,
+      "qid": "Q11791620",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Government_shutdown_in_the_United_States",
+      "label": "Government shutdown in the United States",
+      "description": "",
+      "views": 63288,
+      "qid": "Q_en_Government_shutdown_in_the_United_States",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "List_of_macOS_components",
+      "label": "List of macOS components",
+      "description": "",
+      "views": 62273,
+      "qid": "Q_en_List_of_macOS_components",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Daniel_Day-Lewis",
+      "label": "Daniel Day-Lewis",
+      "description": "",
+      "views": 61891,
+      "qid": "Q_en_Daniel_Day-Lewis",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Queen_Victoria",
+      "label": "Victoria of the United Kingdom",
+      "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+      "views": 61759,
+      "qid": "Q9439",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "12_Strong",
+      "label": "12 Strong",
+      "description": "",
+      "views": 60605,
+      "qid": "Q_en_12_Strong",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Laverne_Cox",
+      "label": "Laverne Cox",
+      "description": "",
+      "views": 58998,
+      "qid": "Q_en_Laverne_Cox",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Eric_Lindros",
+      "label": "Eric Lindros",
+      "description": "",
+      "views": 58485,
+      "qid": "Q_en_Eric_Lindros",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Bitcoin",
+      "label": "Bitcoin",
+      "description": "digital cash system and associated currency",
+      "views": 58273,
+      "qid": "Q131723",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin.svg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "The_End_of_the_F***ing_World",
+      "label": "The End of the F***ing World",
+      "description": "",
+      "views": 58065,
+      "qid": "Q_en_The_End_of_the_F***ing_World",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 57558,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Aly_Raisman",
+      "label": "Aly Raisman",
+      "description": "",
+      "views": 57519,
+      "qid": "Q_en_Aly_Raisman",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Sigrid_(singer)",
+      "label": "Sigrid (singer)",
+      "description": "",
+      "views": 57517,
+      "qid": "Q_en_Sigrid_(singer)",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Black_Mirror",
+      "label": "Black Mirror",
+      "description": "science fiction British TV series",
+      "views": 57195,
+      "qid": "Q558112",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Mirror_%28British_TV_series%29_logo.svg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Woody_Allen",
+      "label": "Woody Allen",
+      "description": "",
+      "views": 56974,
+      "qid": "Q_en_Woody_Allen",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "The_Greatest_Showman",
+      "label": "The Greatest Showman",
+      "description": "2017 film directed by Michael Gracey",
+      "views": 56944,
+      "qid": "Q27942936",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Greatest_Showman_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%26_Keala_Settle_%2825375350117%29.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Ted_Bundy",
+      "label": "Ted Bundy",
+      "description": "American serial killer (1946–1989)",
+      "views": 56146,
+      "qid": "Q192218",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Bundy_headshot.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Magic_cookie",
+      "label": "Magic cookie",
+      "description": "",
+      "views": 55827,
+      "qid": "Q_en_Magic_cookie",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Tonya_Harding",
+      "label": "Tonya Harding",
+      "description": "American figure skater",
+      "views": 55799,
+      "qid": "Q236278",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonya_harding_mac_club_1994_crop.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "XXX_(franchise)",
+      "label": "xXx",
+      "description": "film series by Rich Wilkes",
+      "views": 54793,
+      "qid": "Q25136249",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    }
+  ]
+}

@@ -4,8 +4,52 @@
   "title": "Sophie_Turner",
   "description": "British actress (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie_Turner_%2840553144273%29_%28cropped%29.jpg?width=64",
-  "total": 10149544,
+  "total": 11375958,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 78011
+    },
+    {
+      "period": "2018-02",
+      "views": 21931
+    },
+    {
+      "period": "2018-04",
+      "views": 34350
+    },
+    {
+      "period": "2018-05",
+      "views": 24008
+    },
+    {
+      "period": "2018-06",
+      "views": 83038
+    },
+    {
+      "period": "2018-07",
+      "views": 59318
+    },
+    {
+      "period": "2018-08",
+      "views": 176412
+    },
+    {
+      "period": "2018-09",
+      "views": 130106
+    },
+    {
+      "period": "2018-10",
+      "views": 48423
+    },
+    {
+      "period": "2018-11",
+      "views": 205417
+    },
+    {
+      "period": "2018-12",
+      "views": 365400
+    },
     {
       "period": "2019-01",
       "views": 174067
@@ -224,6 +268,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 1226414
+    },
     {
       "period": "2019",
       "views": 5785670

@@ -4,11 +4,55 @@
   "title": "Google_Maps",
   "description": "Google's web mapping service (launched 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Maps_Logo.svg?width=64",
-  "total": 13233971,
+  "total": 15362996,
   "monthly": [
     {
       "period": "2015-09",
       "views": 9367
+    },
+    {
+      "period": "2018-01",
+      "views": 146567
+    },
+    {
+      "period": "2018-02",
+      "views": 233267
+    },
+    {
+      "period": "2018-03",
+      "views": 314970
+    },
+    {
+      "period": "2018-04",
+      "views": 268097
+    },
+    {
+      "period": "2018-05",
+      "views": 219762
+    },
+    {
+      "period": "2018-06",
+      "views": 194803
+    },
+    {
+      "period": "2018-07",
+      "views": 252707
+    },
+    {
+      "period": "2018-08",
+      "views": 75409
+    },
+    {
+      "period": "2018-09",
+      "views": 171797
+    },
+    {
+      "period": "2018-10",
+      "views": 201612
+    },
+    {
+      "period": "2018-11",
+      "views": 50034
     },
     {
       "period": "2019-02",
@@ -183,6 +227,10 @@
     {
       "period": "2015",
       "views": 9367
+    },
+    {
+      "period": "2018",
+      "views": 2129025
     },
     {
       "period": "2019",

@@ -4,7 +4,7 @@
   "title": "Bitcoin",
   "description": "digital cash system and associated currency",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin.svg?width=64",
-  "total": 9680419,
+  "total": 15999189,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 189523
+    },
+    {
+      "period": "2018-01",
+      "views": 1822008
+    },
+    {
+      "period": "2018-02",
+      "views": 858342
+    },
+    {
+      "period": "2018-03",
+      "views": 545902
+    },
+    {
+      "period": "2018-04",
+      "views": 482794
+    },
+    {
+      "period": "2018-05",
+      "views": 423443
+    },
+    {
+      "period": "2018-06",
+      "views": 510858
+    },
+    {
+      "period": "2018-07",
+      "views": 342069
+    },
+    {
+      "period": "2018-08",
+      "views": 363483
+    },
+    {
+      "period": "2018-09",
+      "views": 355039
+    },
+    {
+      "period": "2018-10",
+      "views": 162563
+    },
+    {
+      "period": "2018-11",
+      "views": 269572
+    },
+    {
+      "period": "2018-12",
+      "views": 182697
     },
     {
       "period": "2019-01",
@@ -227,6 +275,10 @@
     {
       "period": "2015",
       "views": 712788
+    },
+    {
+      "period": "2018",
+      "views": 6318770
     },
     {
       "period": "2019",

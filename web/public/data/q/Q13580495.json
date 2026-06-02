@@ -4,11 +4,115 @@
   "title": "BTS",
   "description": "South Korean musical group; boy band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg?width=64",
-  "total": 23290395,
+  "total": 45308083,
   "monthly": [
     {
+      "period": "2018-01",
+      "views": 663268
+    },
+    {
+      "period": "2018-02",
+      "views": 1642176
+    },
+    {
+      "period": "2018-03",
+      "views": 1409502
+    },
+    {
+      "period": "2018-04",
+      "views": 872039
+    },
+    {
+      "period": "2018-05",
+      "views": 1211423
+    },
+    {
+      "period": "2018-06",
+      "views": 850984
+    },
+    {
+      "period": "2018-07",
+      "views": 1982508
+    },
+    {
+      "period": "2018-08",
+      "views": 1768451
+    },
+    {
+      "period": "2018-09",
+      "views": 955013
+    },
+    {
+      "period": "2018-10",
+      "views": 766257
+    },
+    {
+      "period": "2018-11",
+      "views": 1251354
+    },
+    {
+      "period": "2018-12",
+      "views": 967950
+    },
+    {
+      "period": "2019-01",
+      "views": 603998
+    },
+    {
+      "period": "2019-02",
+      "views": 467078
+    },
+    {
+      "period": "2019-03",
+      "views": 442893
+    },
+    {
+      "period": "2019-04",
+      "views": 1064062
+    },
+    {
+      "period": "2019-05",
+      "views": 1013165
+    },
+    {
+      "period": "2019-06",
+      "views": 550137
+    },
+    {
+      "period": "2019-07",
+      "views": 397434
+    },
+    {
+      "period": "2019-08",
+      "views": 383654
+    },
+    {
+      "period": "2019-09",
+      "views": 347858
+    },
+    {
+      "period": "2019-10",
+      "views": 403041
+    },
+    {
+      "period": "2019-11",
+      "views": 406817
+    },
+    {
+      "period": "2019-12",
+      "views": 364153
+    },
+    {
+      "period": "2020-01",
+      "views": 580273
+    },
+    {
+      "period": "2020-02",
+      "views": 484945
+    },
+    {
       "period": "2020-03",
-      "views": 14306
+      "views": 181561
     },
     {
       "period": "2020-04",
@@ -245,8 +349,16 @@
   ],
   "yearly": [
     {
+      "period": "2018",
+      "views": 14340925
+    },
+    {
+      "period": "2019",
+      "views": 6444290
+    },
+    {
       "period": "2020",
-      "views": 4771463
+      "views": 6003936
     },
     {
       "period": "2021",

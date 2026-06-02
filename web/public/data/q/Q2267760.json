@@ -4,7 +4,7 @@
   "title": "Luke_Cage",
   "description": "fictional character in Marvel Comics",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luke_Cage_cosplay.jpg?width=64",
-  "total": 1520147,
+  "total": 1827522,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,12 +21,28 @@
     {
       "period": "2015-12",
       "views": 578762
+    },
+    {
+      "period": "2018-05",
+      "views": 9634
+    },
+    {
+      "period": "2018-06",
+      "views": 178985
+    },
+    {
+      "period": "2018-07",
+      "views": 118756
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1520147
+    },
+    {
+      "period": "2018",
+      "views": 307375
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Death_Cure",
   "description": "2011 novel by James Dashner",
   "image": "",
-  "total": 974943,
+  "total": 1053107,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,24 @@
     {
       "period": "2015-12",
       "views": 205375
+    },
+    {
+      "period": "2018-01",
+      "views": 67496
+    },
+    {
+      "period": "2018-02",
+      "views": 10668
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 974943
+    },
+    {
+      "period": "2018",
+      "views": 78164
     }
   ]
 }

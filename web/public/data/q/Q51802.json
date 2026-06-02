@@ -4,11 +4,19 @@
   "title": "Han_Solo",
   "description": "fictional character from Star Wars",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Han_Solo_in_Carbonite_%2831649435213%29.jpg?width=64",
-  "total": 841889,
+  "total": 938272,
   "monthly": [
     {
       "period": "2015-12",
       "views": 785076
+    },
+    {
+      "period": "2018-02",
+      "views": 12198
+    },
+    {
+      "period": "2018-05",
+      "views": 84185
     },
     {
       "period": "2019-12",
@@ -19,6 +27,10 @@
     {
       "period": "2015",
       "views": 785076
+    },
+    {
+      "period": "2018",
+      "views": 96383
     },
     {
       "period": "2019",

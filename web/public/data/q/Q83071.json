@@ -4,7 +4,7 @@
   "title": "Downton_Abbey",
   "description": "British historical drama television series (2010–2015)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Highclere_Castle_%28April_2011%29_2.jpg?width=64",
-  "total": 7663240,
+  "total": 7687573,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,14 @@
     {
       "period": "2015-12",
       "views": 509319
+    },
+    {
+      "period": "2018-07",
+      "views": 12365
+    },
+    {
+      "period": "2018-12",
+      "views": 11968
     },
     {
       "period": "2019-05",
@@ -155,6 +163,10 @@
     {
       "period": "2015",
       "views": 1883837
+    },
+    {
+      "period": "2018",
+      "views": 24333
     },
     {
       "period": "2019",

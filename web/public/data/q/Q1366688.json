@@ -4,7 +4,7 @@
   "title": "Trans-Pacific_Partnership",
   "description": "2016 proposed trade agreement",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaders_of_TPP_member_states.jpg?width=64",
-  "total": 801919,
+  "total": 842185,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,12 +21,24 @@
     {
       "period": "2015-11",
       "views": 146575
+    },
+    {
+      "period": "2018-01",
+      "views": 10905
+    },
+    {
+      "period": "2018-04",
+      "views": 29361
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 801919
+    },
+    {
+      "period": "2018",
+      "views": 40266
     }
   ]
 }

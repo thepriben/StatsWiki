@@ -4,8 +4,12 @@
   "title": "Doja_Cat",
   "description": "American singer and rapper (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DojaCatO2140624_%2887_of_105%29_%2853792876988%29_%28cropped%29.jpg?width=64",
-  "total": 14802393,
+  "total": 14917164,
   "monthly": [
+    {
+      "period": "2018-08",
+      "views": 114771
+    },
     {
       "period": "2019-08",
       "views": 64658
@@ -248,6 +252,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 114771
+    },
     {
       "period": "2019",
       "views": 273142

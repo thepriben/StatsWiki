@@ -4,8 +4,32 @@
   "title": "Manifest_(TV_series)",
   "description": "American drama television series (2018–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manifest_%28Jeff_Rake_Productions_TV_series%29_text_logo.webp?width=64",
-  "total": 9701032,
+  "total": 11388711,
   "monthly": [
+    {
+      "period": "2018-05",
+      "views": 33732
+    },
+    {
+      "period": "2018-08",
+      "views": 95091
+    },
+    {
+      "period": "2018-09",
+      "views": 534011
+    },
+    {
+      "period": "2018-10",
+      "views": 547628
+    },
+    {
+      "period": "2018-11",
+      "views": 371661
+    },
+    {
+      "period": "2018-12",
+      "views": 105556
+    },
     {
       "period": "2019-01",
       "views": 192044
@@ -132,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 1687679
+    },
     {
       "period": "2019",
       "views": 719242

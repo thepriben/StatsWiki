@@ -4,8 +4,36 @@
   "title": "Dark_web",
   "description": "part of the World Wide Web that is not directly reachable from the public Internet",
   "image": "",
-  "total": 7930789,
+  "total": 8216147,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 96355
+    },
+    {
+      "period": "2018-02",
+      "views": 11420
+    },
+    {
+      "period": "2018-07",
+      "views": 52440
+    },
+    {
+      "period": "2018-08",
+      "views": 41997
+    },
+    {
+      "period": "2018-09",
+      "views": 34330
+    },
+    {
+      "period": "2018-10",
+      "views": 18591
+    },
+    {
+      "period": "2018-11",
+      "views": 30225
+    },
     {
       "period": "2020-04",
       "views": 11826
@@ -184,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 285358
+    },
     {
       "period": "2020",
       "views": 84234

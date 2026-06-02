@@ -4,8 +4,56 @@
   "title": "Dua_Lipa",
   "description": "British singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dua_Lipa-69798_%28cropped%29.jpg?width=64",
-  "total": 39822680,
+  "total": 47041914,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 731886
+    },
+    {
+      "period": "2018-02",
+      "views": 1224955
+    },
+    {
+      "period": "2018-03",
+      "views": 632926
+    },
+    {
+      "period": "2018-04",
+      "views": 718673
+    },
+    {
+      "period": "2018-05",
+      "views": 973604
+    },
+    {
+      "period": "2018-06",
+      "views": 684073
+    },
+    {
+      "period": "2018-07",
+      "views": 506967
+    },
+    {
+      "period": "2018-08",
+      "views": 451021
+    },
+    {
+      "period": "2018-09",
+      "views": 420362
+    },
+    {
+      "period": "2018-10",
+      "views": 401069
+    },
+    {
+      "period": "2018-11",
+      "views": 251562
+    },
+    {
+      "period": "2018-12",
+      "views": 222136
+    },
     {
       "period": "2019-01",
       "views": 161322
@@ -356,6 +404,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 7219234
+    },
     {
       "period": "2019",
       "views": 2014987

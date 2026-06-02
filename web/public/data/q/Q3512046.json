@@ -4,7 +4,7 @@
   "title": "Jurassic_World",
   "description": "2015 film directed by Colin Trevorrow",
   "image": "",
-  "total": 7039685,
+  "total": 8984207,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,46 @@
     {
       "period": "2015-12",
       "views": 529051
+    },
+    {
+      "period": "2018-01",
+      "views": 14188
+    },
+    {
+      "period": "2018-02",
+      "views": 52058
+    },
+    {
+      "period": "2018-03",
+      "views": 10509
+    },
+    {
+      "period": "2018-04",
+      "views": 56801
+    },
+    {
+      "period": "2018-05",
+      "views": 175556
+    },
+    {
+      "period": "2018-06",
+      "views": 1070153
+    },
+    {
+      "period": "2018-07",
+      "views": 429014
+    },
+    {
+      "period": "2018-08",
+      "views": 80657
+    },
+    {
+      "period": "2018-09",
+      "views": 43857
+    },
+    {
+      "period": "2018-12",
+      "views": 11729
     },
     {
       "period": "2019-04",
@@ -111,6 +151,10 @@
     {
       "period": "2015",
       "views": 5410732
+    },
+    {
+      "period": "2018",
+      "views": 1944522
     },
     {
       "period": "2019",

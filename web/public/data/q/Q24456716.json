@@ -4,8 +4,12 @@
   "title": "Amanda_Anisimova",
   "description": "American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anisimova_RG19_%2832%29_%2848199400552%29.jpg?width=64",
-  "total": 4644700,
+  "total": 4668096,
   "monthly": [
+    {
+      "period": "2018-03",
+      "views": 23396
+    },
     {
       "period": "2019-01",
       "views": 126237
@@ -92,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 23396
+    },
     {
       "period": "2019",
       "views": 444000

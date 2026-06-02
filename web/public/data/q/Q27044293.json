@@ -4,8 +4,32 @@
   "title": "The_Lion_King_(2019_film)",
   "description": "2019 film directed by Jon Favreau",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion-king.png?width=64",
-  "total": 9945324,
+  "total": 10804062,
   "monthly": [
+    {
+      "period": "2018-02",
+      "views": 10777
+    },
+    {
+      "period": "2018-05",
+      "views": 66169
+    },
+    {
+      "period": "2018-06",
+      "views": 9188
+    },
+    {
+      "period": "2018-10",
+      "views": 38016
+    },
+    {
+      "period": "2018-11",
+      "views": 631458
+    },
+    {
+      "period": "2018-12",
+      "views": 103130
+    },
     {
       "period": "2019-02",
       "views": 48532
@@ -132,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 858738
+    },
     {
       "period": "2019",
       "views": 8497240

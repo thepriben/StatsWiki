@@ -4,8 +4,16 @@
   "title": "Jackson_family",
   "description": "family of musicians and entertainers from Gary, Indiana, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacksonstvshow.jpg?width=64",
-  "total": 2083789,
+  "total": 2167366,
   "monthly": [
+    {
+      "period": "2018-05",
+      "views": 26213
+    },
+    {
+      "period": "2018-06",
+      "views": 57364
+    },
     {
       "period": "2019-01",
       "views": 10049
@@ -52,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 83577
+    },
     {
       "period": "2019",
       "views": 90368

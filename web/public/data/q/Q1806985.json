@@ -4,11 +4,15 @@
   "title": "Sharon_Osbourne",
   "description": "British-American television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharon_Osbourne_2%2C_2012.jpg?width=64",
-  "total": 3892437,
+  "total": 3902693,
   "monthly": [
     {
       "period": "2015-09",
       "views": 10833
+    },
+    {
+      "period": "2018-09",
+      "views": 10256
     },
     {
       "period": "2019-09",
@@ -131,6 +135,10 @@
     {
       "period": "2015",
       "views": 10833
+    },
+    {
+      "period": "2018",
+      "views": 10256
     },
     {
       "period": "2019",

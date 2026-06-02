@@ -4,7 +4,7 @@
   "title": "Joy_(film)",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 2486302,
+  "total": 2533468,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,12 +21,28 @@
     {
       "period": "2015-12",
       "views": 2009439
+    },
+    {
+      "period": "2018-04",
+      "views": 10389
+    },
+    {
+      "period": "2018-10",
+      "views": 20006
+    },
+    {
+      "period": "2018-12",
+      "views": 16771
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2486302
+    },
+    {
+      "period": "2018",
+      "views": 47166
     }
   ]
 }

@@ -4,8 +4,36 @@
   "title": "Canelo_Álvarez",
   "description": "Mexican boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sa%C3%BAl_%C3%81lvarez.png?width=64",
-  "total": 13428975,
+  "total": 14263447,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 10334
+    },
+    {
+      "period": "2018-03",
+      "views": 14950
+    },
+    {
+      "period": "2018-04",
+      "views": 9541
+    },
+    {
+      "period": "2018-05",
+      "views": 12523
+    },
+    {
+      "period": "2018-09",
+      "views": 346905
+    },
+    {
+      "period": "2018-10",
+      "views": 114520
+    },
+    {
+      "period": "2018-12",
+      "views": 325699
+    },
     {
       "period": "2019-01",
       "views": 23856
@@ -268,6 +296,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 834472
+    },
     {
       "period": "2019",
       "views": 1160733

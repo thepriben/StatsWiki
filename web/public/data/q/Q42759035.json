@@ -4,8 +4,16 @@
   "title": "Joker_(2019_film)",
   "description": "2019 musical film directed by Todd Phillips",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joker_%282019%29_logotype.png?width=64",
-  "total": 32149370,
+  "total": 32376088,
   "monthly": [
+    {
+      "period": "2018-09",
+      "views": 217110
+    },
+    {
+      "period": "2018-10",
+      "views": 9608
+    },
     {
       "period": "2019-01",
       "views": 21861
@@ -236,6 +244,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 226718
+    },
     {
       "period": "2019",
       "views": 20747929

@@ -4,8 +4,12 @@
   "title": "2020_Democratic_Party_presidential_primaries",
   "description": "selection of the Democratic Party nominee for President of the United States in 2020",
   "image": "",
-  "total": 13365381,
+  "total": 13377989,
   "monthly": [
+    {
+      "period": "2018-12",
+      "views": 12608
+    },
     {
       "period": "2019-01",
       "views": 245280
@@ -112,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 12608
+    },
     {
       "period": "2019",
       "views": 5271852

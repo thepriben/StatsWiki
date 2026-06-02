@@ -4,7 +4,7 @@
   "title": "Game_of_Thrones",
   "description": "American fantasy drama television series (2011–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Game_of_Thrones_2011_logo.svg?width=64",
-  "total": 44666884,
+  "total": 51100053,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 752652
+    },
+    {
+      "period": "2018-01",
+      "views": 633926
+    },
+    {
+      "period": "2018-02",
+      "views": 451939
+    },
+    {
+      "period": "2018-03",
+      "views": 464963
+    },
+    {
+      "period": "2018-04",
+      "views": 509809
+    },
+    {
+      "period": "2018-05",
+      "views": 508513
+    },
+    {
+      "period": "2018-06",
+      "views": 588338
+    },
+    {
+      "period": "2018-07",
+      "views": 608817
+    },
+    {
+      "period": "2018-08",
+      "views": 529462
+    },
+    {
+      "period": "2018-09",
+      "views": 531067
+    },
+    {
+      "period": "2018-10",
+      "views": 432827
+    },
+    {
+      "period": "2018-11",
+      "views": 565681
+    },
+    {
+      "period": "2018-12",
+      "views": 607827
     },
     {
       "period": "2019-01",
@@ -391,6 +439,10 @@
     {
       "period": "2015",
       "views": 4751136
+    },
+    {
+      "period": "2018",
+      "views": 6433169
     },
     {
       "period": "2019",

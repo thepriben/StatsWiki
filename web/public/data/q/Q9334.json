@@ -4,7 +4,7 @@
   "title": "Gmail",
   "description": "email service developed by Google",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gmail_Icon_%282013-2020%29.svg?width=64",
-  "total": 33261239,
+  "total": 33270516,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,10 @@
     {
       "period": "2015-12",
       "views": 305594
+    },
+    {
+      "period": "2018-03",
+      "views": 9277
     },
     {
       "period": "2019-02",
@@ -347,6 +351,10 @@
     {
       "period": "2015",
       "views": 817641
+    },
+    {
+      "period": "2018",
+      "views": 9277
     },
     {
       "period": "2019",

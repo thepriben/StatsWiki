@@ -4,7 +4,7 @@
   "title": "2018_FIFA_World_Cup",
   "description": "21st FIFA World Cup, held in Russia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/France_champion_of_the_Football_World_Cup_Russia_2018.jpg?width=64",
-  "total": 12788710,
+  "total": 45012271,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,54 @@
     {
       "period": "2015-11",
       "views": 41519
+    },
+    {
+      "period": "2018-01",
+      "views": 602115
+    },
+    {
+      "period": "2018-02",
+      "views": 661148
+    },
+    {
+      "period": "2018-03",
+      "views": 877470
+    },
+    {
+      "period": "2018-04",
+      "views": 831755
+    },
+    {
+      "period": "2018-05",
+      "views": 1919249
+    },
+    {
+      "period": "2018-06",
+      "views": 13043665
+    },
+    {
+      "period": "2018-07",
+      "views": 7774817
+    },
+    {
+      "period": "2018-08",
+      "views": 1548426
+    },
+    {
+      "period": "2018-09",
+      "views": 1206777
+    },
+    {
+      "period": "2018-10",
+      "views": 1188534
+    },
+    {
+      "period": "2018-11",
+      "views": 1358846
+    },
+    {
+      "period": "2018-12",
+      "views": 1210759
     },
     {
       "period": "2019-01",
@@ -179,6 +227,10 @@
     {
       "period": "2015",
       "views": 273707
+    },
+    {
+      "period": "2018",
+      "views": 32223561
     },
     {
       "period": "2019",

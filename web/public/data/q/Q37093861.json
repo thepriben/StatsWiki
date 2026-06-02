@@ -4,8 +4,32 @@
   "title": "Antifa_(United_States)",
   "description": "Left-wing political movement",
   "image": "",
-  "total": 13069401,
+  "total": 13819969,
   "monthly": [
+    {
+      "period": "2018-02",
+      "views": 101798
+    },
+    {
+      "period": "2018-06",
+      "views": 30667
+    },
+    {
+      "period": "2018-07",
+      "views": 88579
+    },
+    {
+      "period": "2018-08",
+      "views": 273791
+    },
+    {
+      "period": "2018-10",
+      "views": 160360
+    },
+    {
+      "period": "2018-11",
+      "views": 95373
+    },
     {
       "period": "2019-06",
       "views": 71795
@@ -124,6 +148,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 750568
+    },
     {
       "period": "2019",
       "views": 1286423

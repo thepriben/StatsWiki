@@ -1,10 +1,10 @@
 {
   "qid": "Q35073",
   "label": "list of presidents of the United States",
-  "title": "List_of_Presidents_of_the_United_States",
+  "title": "List_of_presidents_of_the_United_States",
   "description": "head of the executive branch of the federal government of the United States",
   "image": "",
-  "total": 48603462,
+  "total": 55598077,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 571573
+    },
+    {
+      "period": "2018-01",
+      "views": 567866
+    },
+    {
+      "period": "2018-02",
+      "views": 640439
+    },
+    {
+      "period": "2018-03",
+      "views": 564177
+    },
+    {
+      "period": "2018-04",
+      "views": 655758
+    },
+    {
+      "period": "2018-05",
+      "views": 538436
+    },
+    {
+      "period": "2018-06",
+      "views": 472741
+    },
+    {
+      "period": "2018-07",
+      "views": 517913
+    },
+    {
+      "period": "2018-08",
+      "views": 477942
+    },
+    {
+      "period": "2018-09",
+      "views": 493093
+    },
+    {
+      "period": "2018-10",
+      "views": 470946
+    },
+    {
+      "period": "2018-11",
+      "views": 622126
+    },
+    {
+      "period": "2018-12",
+      "views": 973178
     },
     {
       "period": "2019-01",
@@ -383,6 +431,10 @@
     {
       "period": "2015",
       "views": 3411685
+    },
+    {
+      "period": "2018",
+      "views": 6994615
     },
     {
       "period": "2019",

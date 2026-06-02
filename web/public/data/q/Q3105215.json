@@ -4,8 +4,28 @@
   "title": "Ron_DeSantis",
   "description": "American politician (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_DeSantis_113th_Congress.jpg?width=64",
-  "total": 12984543,
+  "total": 13720565,
   "monthly": [
+    {
+      "period": "2018-06",
+      "views": 12163
+    },
+    {
+      "period": "2018-07",
+      "views": 15180
+    },
+    {
+      "period": "2018-08",
+      "views": 252182
+    },
+    {
+      "period": "2018-10",
+      "views": 96808
+    },
+    {
+      "period": "2018-11",
+      "views": 359689
+    },
     {
       "period": "2019-01",
       "views": 34482
@@ -216,6 +236,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 736022
+    },
     {
       "period": "2019",
       "views": 34482

@@ -4,7 +4,7 @@
   "title": "Chernobyl_disaster",
   "description": "1986 nuclear accident in the Soviet Union",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IAEA_02790015_%285613115146%29.jpg?width=64",
-  "total": 50683136,
+  "total": 52341926,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 143081
+    },
+    {
+      "period": "2018-01",
+      "views": 55178
+    },
+    {
+      "period": "2018-02",
+      "views": 108372
+    },
+    {
+      "period": "2018-03",
+      "views": 223077
+    },
+    {
+      "period": "2018-04",
+      "views": 250252
+    },
+    {
+      "period": "2018-05",
+      "views": 165756
+    },
+    {
+      "period": "2018-06",
+      "views": 19954
+    },
+    {
+      "period": "2018-07",
+      "views": 123810
+    },
+    {
+      "period": "2018-08",
+      "views": 130781
+    },
+    {
+      "period": "2018-09",
+      "views": 80310
+    },
+    {
+      "period": "2018-10",
+      "views": 362757
+    },
+    {
+      "period": "2018-11",
+      "views": 108396
+    },
+    {
+      "period": "2018-12",
+      "views": 30147
     },
     {
       "period": "2019-01",
@@ -391,6 +439,10 @@
     {
       "period": "2015",
       "views": 927569
+    },
+    {
+      "period": "2018",
+      "views": 1658790
     },
     {
       "period": "2019",

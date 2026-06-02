@@ -4,7 +4,7 @@
   "title": "Rick_and_Morty",
   "description": "American animated television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick_and_Morty.svg?width=64",
-  "total": 7080212,
+  "total": 7361841,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,30 @@
     {
       "period": "2015-12",
       "views": 30328
+    },
+    {
+      "period": "2018-01",
+      "views": 41736
+    },
+    {
+      "period": "2018-03",
+      "views": 108811
+    },
+    {
+      "period": "2018-04",
+      "views": 34476
+    },
+    {
+      "period": "2018-05",
+      "views": 56649
+    },
+    {
+      "period": "2018-07",
+      "views": 31566
+    },
+    {
+      "period": "2018-08",
+      "views": 8391
     },
     {
       "period": "2019-02",
@@ -163,6 +187,10 @@
     {
       "period": "2015",
       "views": 1868780
+    },
+    {
+      "period": "2018",
+      "views": 281629
     },
     {
       "period": "2019",

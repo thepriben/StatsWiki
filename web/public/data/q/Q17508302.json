@@ -4,7 +4,7 @@
   "title": "Beasts_of_No_Nation_(film)",
   "description": "2015 film directed by Cary Fukunaga",
   "image": "",
-  "total": 765742,
+  "total": 777706,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,20 @@
     {
       "period": "2015-12",
       "views": 189504
+    },
+    {
+      "period": "2018-09",
+      "views": 11964
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 765742
+    },
+    {
+      "period": "2018",
+      "views": 11964
     }
   ]
 }

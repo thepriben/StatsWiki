@@ -4,8 +4,12 @@
   "title": "List_of_Bollywood_films_of_2019",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 16105618,
+  "total": 16224254,
   "monthly": [
+    {
+      "period": "2018-12",
+      "views": 118636
+    },
     {
       "period": "2019-01",
       "views": 747435
@@ -76,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 118636
+    },
     {
       "period": "2019",
       "views": 13603337

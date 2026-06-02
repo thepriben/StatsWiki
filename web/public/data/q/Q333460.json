@@ -4,8 +4,12 @@
   "title": "Ratan_Tata",
   "description": "Indian industrialist and philanthropist (1937–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratan_Naval_Tata_in_2011.jpg?width=64",
-  "total": 9350963,
+  "total": 9380980,
   "monthly": [
+    {
+      "period": "2018-12",
+      "views": 30017
+    },
     {
       "period": "2019-11",
       "views": 21150
@@ -160,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 30017
+    },
     {
       "period": "2019",
       "views": 35257

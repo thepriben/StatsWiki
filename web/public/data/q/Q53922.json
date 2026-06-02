@@ -4,7 +4,7 @@
   "title": "American_Horror_Story",
   "description": "American anthology horror television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Horror_Story.svg?width=64",
-  "total": 17699117,
+  "total": 21301985,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,42 @@
     {
       "period": "2015-12",
       "views": 512768
+    },
+    {
+      "period": "2018-01",
+      "views": 9496
+    },
+    {
+      "period": "2018-02",
+      "views": 9863
+    },
+    {
+      "period": "2018-06",
+      "views": 205829
+    },
+    {
+      "period": "2018-07",
+      "views": 392228
+    },
+    {
+      "period": "2018-08",
+      "views": 513442
+    },
+    {
+      "period": "2018-09",
+      "views": 1106253
+    },
+    {
+      "period": "2018-10",
+      "views": 813258
+    },
+    {
+      "period": "2018-11",
+      "views": 511433
+    },
+    {
+      "period": "2018-12",
+      "views": 41066
     },
     {
       "period": "2019-04",
@@ -239,6 +275,10 @@
     {
       "period": "2015",
       "views": 3653330
+    },
+    {
+      "period": "2018",
+      "views": 3602868
     },
     {
       "period": "2019",

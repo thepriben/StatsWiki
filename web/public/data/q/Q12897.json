@@ -4,7 +4,7 @@
   "title": "Pelé",
   "description": "Brazilian footballer (1940–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pele_con_brasil_%28cropped%29.jpg?width=64",
-  "total": 9461089,
+  "total": 11669930,
   "monthly": [
     {
       "period": "2015-09",
@@ -13,6 +13,34 @@
     {
       "period": "2015-10",
       "views": 37995
+    },
+    {
+      "period": "2018-01",
+      "views": 120735
+    },
+    {
+      "period": "2018-04",
+      "views": 177784
+    },
+    {
+      "period": "2018-05",
+      "views": 187906
+    },
+    {
+      "period": "2018-06",
+      "views": 923497
+    },
+    {
+      "period": "2018-07",
+      "views": 771777
+    },
+    {
+      "period": "2018-10",
+      "views": 16588
+    },
+    {
+      "period": "2018-12",
+      "views": 10554
     },
     {
       "period": "2019-01",
@@ -191,6 +219,10 @@
     {
       "period": "2015",
       "views": 57639
+    },
+    {
+      "period": "2018",
+      "views": 2208841
     },
     {
       "period": "2019",

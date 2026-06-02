@@ -4,8 +4,12 @@
   "title": "The_Umbrella_Academy_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Umbrella_Academy_logo.svg?width=64",
-  "total": 15492762,
+  "total": 15517682,
   "monthly": [
+    {
+      "period": "2018-12",
+      "views": 24920
+    },
     {
       "period": "2019-01",
       "views": 13849
@@ -120,6 +124,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 24920
+    },
     {
       "period": "2019",
       "views": 5730401

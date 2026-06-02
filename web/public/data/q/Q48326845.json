@@ -4,8 +4,24 @@
   "title": "Cobra_Kai",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cobra_Kai_%28Sony_Pictures_Television%29_logo.svg?width=64",
-  "total": 11494807,
+  "total": 12738490,
   "monthly": [
+    {
+      "period": "2018-02",
+      "views": 10332
+    },
+    {
+      "period": "2018-03",
+      "views": 169791
+    },
+    {
+      "period": "2018-05",
+      "views": 982736
+    },
+    {
+      "period": "2018-06",
+      "views": 80824
+    },
     {
       "period": "2019-04",
       "views": 279030
@@ -124,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 1243683
+    },
     {
       "period": "2019",
       "views": 515610

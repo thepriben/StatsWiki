@@ -4,7 +4,7 @@
   "title": "Joy_Mangano",
   "description": "American inventor",
   "image": "",
-  "total": 1838992,
+  "total": 1877461,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,12 +21,28 @@
     {
       "period": "2015-12",
       "views": 1540882
+    },
+    {
+      "period": "2018-04",
+      "views": 11512
+    },
+    {
+      "period": "2018-06",
+      "views": 12388
+    },
+    {
+      "period": "2018-10",
+      "views": 14569
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1838992
+    },
+    {
+      "period": "2018",
+      "views": 38469
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Burj_Khalifa",
   "description": "skyscraper in Dubai, United Arab Emirates",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_skyline_2015_%28crop%29.jpg?width=64",
-  "total": 6922908,
+  "total": 7722840,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,50 @@
     {
       "period": "2015-12",
       "views": 150117
+    },
+    {
+      "period": "2018-01",
+      "views": 72100
+    },
+    {
+      "period": "2018-02",
+      "views": 95785
+    },
+    {
+      "period": "2018-03",
+      "views": 28260
+    },
+    {
+      "period": "2018-05",
+      "views": 12234
+    },
+    {
+      "period": "2018-06",
+      "views": 9195
+    },
+    {
+      "period": "2018-07",
+      "views": 65248
+    },
+    {
+      "period": "2018-08",
+      "views": 90548
+    },
+    {
+      "period": "2018-09",
+      "views": 129219
+    },
+    {
+      "period": "2018-10",
+      "views": 151541
+    },
+    {
+      "period": "2018-11",
+      "views": 132964
+    },
+    {
+      "period": "2018-12",
+      "views": 12838
     },
     {
       "period": "2019-01",
@@ -259,6 +303,10 @@
     {
       "period": "2015",
       "views": 933730
+    },
+    {
+      "period": "2018",
+      "views": 799932
     },
     {
       "period": "2019",

@@ -4,8 +4,56 @@
   "title": "Travis_Scott",
   "description": "American rapper, singer and record producer (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg?width=64",
-  "total": 10812272,
+  "total": 16906822,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 121827
+    },
+    {
+      "period": "2018-02",
+      "views": 1941711
+    },
+    {
+      "period": "2018-03",
+      "views": 374286
+    },
+    {
+      "period": "2018-04",
+      "views": 329278
+    },
+    {
+      "period": "2018-05",
+      "views": 324930
+    },
+    {
+      "period": "2018-06",
+      "views": 40037
+    },
+    {
+      "period": "2018-07",
+      "views": 388671
+    },
+    {
+      "period": "2018-08",
+      "views": 880228
+    },
+    {
+      "period": "2018-09",
+      "views": 334458
+    },
+    {
+      "period": "2018-10",
+      "views": 412170
+    },
+    {
+      "period": "2018-11",
+      "views": 477294
+    },
+    {
+      "period": "2018-12",
+      "views": 469660
+    },
     {
       "period": "2019-01",
       "views": 402694
@@ -288,6 +336,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 6094550
+    },
     {
       "period": "2019",
       "views": 3575984

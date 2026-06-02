@@ -4,7 +4,7 @@
   "title": "Grey's_Anatomy",
   "description": "American medical drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grey%27s_Anatomy_Logo.svg?width=64",
-  "total": 25239281,
+  "total": 29448087,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 374854
+    },
+    {
+      "period": "2018-01",
+      "views": 468229
+    },
+    {
+      "period": "2018-02",
+      "views": 381648
+    },
+    {
+      "period": "2018-03",
+      "views": 424385
+    },
+    {
+      "period": "2018-04",
+      "views": 429036
+    },
+    {
+      "period": "2018-05",
+      "views": 453564
+    },
+    {
+      "period": "2018-06",
+      "views": 273099
+    },
+    {
+      "period": "2018-07",
+      "views": 306341
+    },
+    {
+      "period": "2018-08",
+      "views": 283925
+    },
+    {
+      "period": "2018-09",
+      "views": 363791
+    },
+    {
+      "period": "2018-10",
+      "views": 345698
+    },
+    {
+      "period": "2018-11",
+      "views": 366098
+    },
+    {
+      "period": "2018-12",
+      "views": 112992
     },
     {
       "period": "2019-01",
@@ -379,6 +427,10 @@
     {
       "period": "2015",
       "views": 2376654
+    },
+    {
+      "period": "2018",
+      "views": 4208806
     },
     {
       "period": "2019",

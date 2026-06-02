@@ -4,8 +4,56 @@
   "title": "6ix9ine",
   "description": "American rapper from New York (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/6ix9ine_%28Daniel_Hernadez%29.jpg?width=64",
-  "total": 10505049,
+  "total": 21279774,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 172540
+    },
+    {
+      "period": "2018-02",
+      "views": 338019
+    },
+    {
+      "period": "2018-03",
+      "views": 785168
+    },
+    {
+      "period": "2018-04",
+      "views": 804222
+    },
+    {
+      "period": "2018-05",
+      "views": 620046
+    },
+    {
+      "period": "2018-06",
+      "views": 1060319
+    },
+    {
+      "period": "2018-07",
+      "views": 1258677
+    },
+    {
+      "period": "2018-08",
+      "views": 1031555
+    },
+    {
+      "period": "2018-09",
+      "views": 916157
+    },
+    {
+      "period": "2018-10",
+      "views": 624985
+    },
+    {
+      "period": "2018-11",
+      "views": 2216369
+    },
+    {
+      "period": "2018-12",
+      "views": 946668
+    },
     {
       "period": "2019-01",
       "views": 468493
@@ -160,6 +208,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 10774725
+    },
     {
       "period": "2019",
       "views": 4665969

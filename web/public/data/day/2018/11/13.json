@@ -1,0 +1,455 @@
+{
+  "period": "13 November 2018",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Stan_Lee",
+      "label": "Stan Lee",
+      "description": "American comic book writer, editor, publisher, and producer (1922–2018)",
+      "views": 2210559,
+      "qid": "Q181900",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stan_Lee_December_2016.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Decolonization_of_Africa",
+      "label": "Decolonization of Africa",
+      "description": "",
+      "views": 383232,
+      "qid": "Q_en_Decolonization_of_Africa",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Kyrsten_Sinema",
+      "label": "Kyrsten Sinema",
+      "description": "",
+      "views": 343989,
+      "qid": "Q_en_Kyrsten_Sinema",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Freddie_Mercury",
+      "label": "Freddie Mercury",
+      "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
+      "views": 298812,
+      "qid": "Q15869",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Joan_Boocock_Lee",
+      "label": "Joan Boocock Lee",
+      "description": "",
+      "views": 246955,
+      "qid": "Q_en_Joan_Boocock_Lee",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Pokémon:_Detective_Pikachu",
+      "label": "Pokémon: Detective Pikachu",
+      "description": "",
+      "views": 221527,
+      "qid": "Q_en_Pokémon:_Detective_Pikachu",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "Robert_the_Bruce",
+      "label": "Robert the Bruce",
+      "description": "",
+      "views": 175675,
+      "qid": "Q_en_Robert_the_Bruce",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "XHamster",
+      "label": "xHamster",
+      "description": "pornographic video sharing website",
+      "views": 143287,
+      "qid": "Q16617922",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Thugs_of_Hindostan",
+      "label": "Thugs of Hindostan",
+      "description": "",
+      "views": 135127,
+      "qid": "Q_en_Thugs_of_Hindostan",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Justice_Smith",
+      "label": "Justice Smith",
+      "description": "",
+      "views": 133526,
+      "qid": "Q_en_Justice_Smith",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Survivor_Series_(2018)",
+      "label": "Survivor Series (2018)",
+      "description": "",
+      "views": 118680,
+      "qid": "Q_en_Survivor_Series_(2018)",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Darth_Vader",
+      "label": "Darth Vader",
+      "description": "main villain of the Star Wars Trilogy",
+      "views": 115332,
+      "qid": "Q12206942",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Armistice_Day",
+      "label": "Armistice Day",
+      "description": "",
+      "views": 115013,
+      "qid": "Q_en_Armistice_Day",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Iron_Man",
+      "label": "Iron Man",
+      "description": "",
+      "views": 113338,
+      "qid": "Q_en_Iron_Man",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Deaths_in_2018",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 110657,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Queen_(band)",
+      "label": "Queen",
+      "description": "British musical group; rock band",
+      "views": 109617,
+      "qid": "Q15862",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Mira_Ricardel",
+      "label": "Mira Ricardel",
+      "description": "",
+      "views": 106770,
+      "qid": "Q_en_Mira_Ricardel",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Joe_Cole",
+      "label": "Joe Cole",
+      "description": "",
+      "views": 104713,
+      "qid": "Q_en_Joe_Cole",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Jack_Kirby",
+      "label": "Jack Kirby",
+      "description": "",
+      "views": 99378,
+      "qid": "Q_en_Jack_Kirby",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Detective_Pikachu",
+      "label": "Detective Pikachu",
+      "description": "",
+      "views": 97291,
+      "qid": "Q_en_Detective_Pikachu",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Jawaharlal_Nehru",
+      "label": "Jawaharlal Nehru",
+      "description": "",
+      "views": 96933,
+      "qid": "Q_en_Jawaharlal_Nehru",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Louis_Tomlinson",
+      "label": "Louis Tomlinson",
+      "description": "English singer and songwriter",
+      "views": 91088,
+      "qid": "Q3624971",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Tomlinson_November_2014.jpg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "Dancing_with_the_Stars_(U.S._season_27)",
+      "label": "Dancing with the Stars (U.S. season 27)",
+      "description": "",
+      "views": 88919,
+      "qid": "Q_en_Dancing_with_the_Stars_(U.S._season_27)",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Hachikō",
+      "label": "Hachikō",
+      "description": "",
+      "views": 87542,
+      "qid": "Q_en_Hachikō",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Exo_(band)",
+      "label": "EXO",
+      "description": "South Korean boy band",
+      "views": 85607,
+      "qid": "Q494717",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exo_monster_160618_suwon.png?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Marvel_Comics",
+      "label": "Marvel Comics",
+      "description": "",
+      "views": 83541,
+      "qid": "Q_en_Marvel_Comics",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Bohemian_Rhapsody_(film)",
+      "label": "Bohemian Rhapsody",
+      "description": "2018 film directed by Bryan Singer",
+      "views": 83017,
+      "qid": "Q27894574",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bohemian_Rhapsody_cast_on_MTV_Movies.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "United_States_Senate_elections,_2018",
+      "label": "United States Senate elections, 2018",
+      "description": "",
+      "views": 81349,
+      "qid": "Q_en_United_States_Senate_elections,_2018",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Paradise,_California",
+      "label": "Paradise, California",
+      "description": "",
+      "views": 79617,
+      "qid": "Q_en_Paradise,_California",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 79596,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "World_War_I",
+      "label": "World War I",
+      "description": "1914–1918 global conflict",
+      "views": 78281,
+      "qid": "Q361",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Nick_Mullens",
+      "label": "Nick Mullens",
+      "description": "",
+      "views": 76644,
+      "qid": "Q_en_Nick_Mullens",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Stan_Lee_cameos",
+      "label": "Stan Lee cameos",
+      "description": "",
+      "views": 75287,
+      "qid": "Q_en_Stan_Lee_cameos",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Tyler,_the_Creator",
+      "label": "Tyler, the Creator",
+      "description": "",
+      "views": 74030,
+      "qid": "Q_en_Tyler,_the_Creator",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Jaden_Smith",
+      "label": "Jaden Smith",
+      "description": "",
+      "views": 73991,
+      "qid": "Q_en_Jaden_Smith",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Rami_Malek",
+      "label": "Rami Malek",
+      "description": "American actor (born 1981)",
+      "views": 70568,
+      "qid": "Q375590",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rami_Malek_in_2015_%282%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Chhath",
+      "label": "Chhath",
+      "description": "",
+      "views": 69269,
+      "qid": "Q_en_Chhath",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Toy_Story_4",
+      "label": "Toy Story 4",
+      "description": "",
+      "views": 66226,
+      "qid": "Q_en_Toy_Story_4",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Outlaw_King",
+      "label": "Outlaw King",
+      "description": "",
+      "views": 65004,
+      "qid": "Q_en_Outlaw_King",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Fantastic_Beasts:_The_Crimes_of_Grindelwald",
+      "label": "Fantastic Beasts: The Crimes of Grindelwald",
+      "description": "",
+      "views": 63637,
+      "qid": "Q_en_Fantastic_Beasts:_The_Crimes_of_Grindelwald",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "2018_California_wildfires",
+      "label": "2018 California wildfires",
+      "description": "",
+      "views": 62380,
+      "qid": "Q_en_2018_California_wildfires",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Camp_Fire_(2018)",
+      "label": "Camp Fire (2018)",
+      "description": "",
+      "views": 62077,
+      "qid": "Q_en_Camp_Fire_(2018)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Nathan_Peterman",
+      "label": "Nathan Peterman",
+      "description": "",
+      "views": 59720,
+      "qid": "Q_en_Nathan_Peterman",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Gary_Hart",
+      "label": "Gary Hart",
+      "description": "",
+      "views": 59709,
+      "qid": "Q_en_Gary_Hart",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Statue_of_Unity",
+      "label": "Statue of Unity",
+      "description": "",
+      "views": 59103,
+      "qid": "Q_en_Statue_of_Unity",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Alexandria_Ocasio-Cortez",
+      "label": "Alexandria Ocasio-Cortez",
+      "description": "American politician (born 1989)",
+      "views": 58212,
+      "qid": "Q55223040",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandria_Ocasio-Cortez_Official_Portrait.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Children's_Day",
+      "label": "Children's Day",
+      "description": "",
+      "views": 57859,
+      "qid": "Q_en_Children's_Day",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Red_Dead_Redemption_2",
+      "label": "Red Dead Redemption 2",
+      "description": "",
+      "views": 55388,
+      "qid": "Q_en_Red_Dead_Redemption_2",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Camryn_Manheim",
+      "label": "Camryn Manheim",
+      "description": "",
+      "views": 53199,
+      "qid": "Q_en_Camryn_Manheim",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 52853,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    }
+  ]
+}

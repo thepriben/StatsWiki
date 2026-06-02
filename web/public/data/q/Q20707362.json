@@ -4,8 +4,52 @@
   "title": "The_Crown_(TV_series)",
   "description": "British–American television drama series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Crown_logo.png?width=64",
-  "total": 14815686,
+  "total": 18171258,
   "monthly": [
+    {
+      "period": "2018-01",
+      "views": 1020341
+    },
+    {
+      "period": "2018-02",
+      "views": 427707
+    },
+    {
+      "period": "2018-03",
+      "views": 364190
+    },
+    {
+      "period": "2018-04",
+      "views": 258422
+    },
+    {
+      "period": "2018-05",
+      "views": 377615
+    },
+    {
+      "period": "2018-06",
+      "views": 285609
+    },
+    {
+      "period": "2018-07",
+      "views": 250954
+    },
+    {
+      "period": "2018-08",
+      "views": 218825
+    },
+    {
+      "period": "2018-09",
+      "views": 86720
+    },
+    {
+      "period": "2018-11",
+      "views": 10261
+    },
+    {
+      "period": "2018-12",
+      "views": 54928
+    },
     {
       "period": "2019-01",
       "views": 115613
@@ -164,6 +208,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2018",
+      "views": 3355572
+    },
     {
       "period": "2019",
       "views": 2457239
