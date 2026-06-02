@@ -4,8 +4,32 @@
   "title": "Wednesday_(TV_series)",
   "description": "American horror comedy television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wednesday_-_Netflix_TV_series_logo.svg?width=64",
-  "total": 8621907,
+  "total": 16204206,
   "monthly": [
+    {
+      "period": "2022-06",
+      "views": 50471
+    },
+    {
+      "period": "2022-08",
+      "views": 335153
+    },
+    {
+      "period": "2022-09",
+      "views": 9081
+    },
+    {
+      "period": "2022-10",
+      "views": 48352
+    },
+    {
+      "period": "2022-11",
+      "views": 2517115
+    },
+    {
+      "period": "2022-12",
+      "views": 4622127
+    },
     {
       "period": "2023-01",
       "views": 1825959
@@ -88,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 7582299
+    },
     {
       "period": "2023",
       "views": 3745867

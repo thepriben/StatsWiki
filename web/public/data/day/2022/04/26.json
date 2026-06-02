@@ -1,0 +1,455 @@
+{
+  "period": "26 April 2022",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 1050284,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Amber_Heard",
+      "label": "Amber Heard",
+      "description": "American actress",
+      "views": 596473,
+      "qid": "Q229166",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Heard_%2843723454772%29.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Johnny_Depp",
+      "label": "Johnny Depp",
+      "description": "American actor (born 1963)",
+      "views": 500655,
+      "qid": "Q37175",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny_Depp_2020.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Twitter",
+      "label": "X",
+      "description": "American social networking service founded in 2006",
+      "views": 324401,
+      "qid": "Q918",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_X_%28Twitter%29.png?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "K.G.F:_Chapter_2",
+      "label": "K.G.F: Chapter 2",
+      "description": "2022 Indian Kannada film by Prashanth Neel",
+      "views": 304494,
+      "qid": "Q67200663",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "List_of_highest-grossing_Indian_films",
+      "label": "list of highest-grossing Indian films worldwide",
+      "description": "Wikimedia list article",
+      "views": 195004,
+      "qid": "Q6622409",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "2022_Russian_invasion_of_Ukraine",
+      "label": "2022 Russian invasion of Ukraine",
+      "description": "2022 military campaign",
+      "views": 174208,
+      "qid": "Q136556880",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Flakpanzer_Gepard",
+      "label": "Flakpanzer Gepard",
+      "description": "",
+      "views": 163607,
+      "qid": "Q_en_Flakpanzer_Gepard",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "John_Wayne_Gacy",
+      "label": "John Wayne Gacy",
+      "description": "American serial killer (1942–1994)",
+      "views": 160331,
+      "qid": "Q298252",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Wayne_Gacy-junior.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Gangubai_Kothewali",
+      "label": "Gangubai Kothewali",
+      "description": "",
+      "views": 152525,
+      "qid": "Q_en_Gangubai_Kothewali",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Jack_Dorsey",
+      "label": "Jack Dorsey",
+      "description": "",
+      "views": 136689,
+      "qid": "Q_en_Jack_Dorsey",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Deaths_in_2022",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 124512,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Melissa_Lucio",
+      "label": "Melissa Lucio",
+      "description": "",
+      "views": 123343,
+      "qid": "Q_en_Melissa_Lucio",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Grimes_(musician)",
+      "label": "Grimes (musician)",
+      "description": "",
+      "views": 118073,
+      "qid": "Q_en_Grimes_(musician)",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Lily-Rose_Depp",
+      "label": "Lily-Rose Depp",
+      "description": "French-American actress (born 1999)",
+      "views": 116862,
+      "qid": "Q20670730",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lily-Rose_Depp_Cannes_2016.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Transnistria",
+      "label": "Transnistria",
+      "description": "",
+      "views": 116112,
+      "qid": "Q_en_Transnistria",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Vanessa_Paradis",
+      "label": "Vanessa Paradis",
+      "description": "",
+      "views": 111364,
+      "qid": "Q_en_Vanessa_Paradis",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Talulah_Riley",
+      "label": "Talulah Riley",
+      "description": "",
+      "views": 106657,
+      "qid": "Q_en_Talulah_Riley",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Gangubai_Kathiawadi",
+      "label": "Gangubai Kathiawadi",
+      "description": "",
+      "views": 100512,
+      "qid": "Q_en_Gangubai_Kathiawadi",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 100263,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Better_Call_Saul_(season_6)",
+      "label": "Better Call Saul (season 6)",
+      "description": "",
+      "views": 97506,
+      "qid": "Q_en_Better_Call_Saul_(season_6)",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Tim_Westwood",
+      "label": "Tim Westwood",
+      "description": "",
+      "views": 90070,
+      "qid": "Q_en_Tim_Westwood",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Parag_Agrawal",
+      "label": "Parag Agrawal",
+      "description": "",
+      "views": 89889,
+      "qid": "Q_en_Parag_Agrawal",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 89245,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Justine_Musk",
+      "label": "Justine Musk",
+      "description": "",
+      "views": 88923,
+      "qid": "Q_en_Justine_Musk",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Skathi_(moon)",
+      "label": "Skathi",
+      "description": "moon of Saturn",
+      "views": 85928,
+      "qid": "Q17982",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skathi-discovery-CFHT.gif?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "The_Batman_(film)",
+      "label": "The Batman",
+      "description": "2022 superhero film by Matt Reeves",
+      "views": 83529,
+      "qid": "Q61117344",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Batman_2022_film_logo.png?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "RRR_(film)",
+      "label": "RRR",
+      "description": "2022 film directed by S. S. Rajamouli",
+      "views": 81168,
+      "qid": "Q60424165",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Acquisition_of_Twitter_by_Elon_Musk",
+      "label": "Acquisition of Twitter by Elon Musk",
+      "description": "",
+      "views": 77351,
+      "qid": "Q_en_Acquisition_of_Twitter_by_Elon_Musk",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Maye_Musk",
+      "label": "Maye Musk",
+      "description": "",
+      "views": 76227,
+      "qid": "Q_en_Maye_Musk",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 75647,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "2022_World_Snooker_Championship",
+      "label": "2022 World Snooker Championship",
+      "description": "",
+      "views": 70967,
+      "qid": "Q_en_2022_World_Snooker_Championship",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Karim_Benzema",
+      "label": "Karim Benzema",
+      "description": "",
+      "views": 68936,
+      "qid": "Q_en_Karim_Benzema",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Murder_of_Junko_Furuta",
+      "label": "Murder of Junko Furuta",
+      "description": "",
+      "views": 68086,
+      "qid": "Q_en_Murder_of_Junko_Furuta",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Better_Call_Saul",
+      "label": "Better Call Saul",
+      "description": "American crime drama television series (2015–2022)",
+      "views": 66993,
+      "qid": "Q14925221",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Better_Call_Saul_-_Logo_2.svg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Depp_v._Heard",
+      "label": "Depp v. Heard",
+      "description": "",
+      "views": 66269,
+      "qid": "Q_en_Depp_v._Heard",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Heartstopper_(TV_series)",
+      "label": "Heartstopper (TV series)",
+      "description": "",
+      "views": 66021,
+      "qid": "Q_en_Heartstopper_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "The_Northman",
+      "label": "The Northman",
+      "description": "",
+      "views": 64731,
+      "qid": "Q_en_The_Northman",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Katy_Perry",
+      "label": "Katy Perry",
+      "description": "American singer",
+      "views": 64312,
+      "qid": "Q42493",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Moldova",
+      "label": "Moldova",
+      "description": "",
+      "views": 64178,
+      "qid": "Q_en_Moldova",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 63582,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Moon_Knight_(TV_series)",
+      "label": "Moon Knight (TV series)",
+      "description": "",
+      "views": 62411,
+      "qid": "Q_en_Moon_Knight_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 61671,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Kimbal_Musk",
+      "label": "Kimbal Musk",
+      "description": "",
+      "views": 60190,
+      "qid": "Q_en_Kimbal_Musk",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "CEO",
+      "label": "chief executive officer",
+      "description": "highest-ranking corporate officer",
+      "views": 58717,
+      "qid": "Q484876",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Fortune_500_CEOs_in_2015_%28cropped_to_remove_non-CEO%29.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Magic_Johnson",
+      "label": "Magic Johnson",
+      "description": "",
+      "views": 57658,
+      "qid": "Q_en_Magic_Johnson",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Kane_Tanaka",
+      "label": "Kane Tanaka",
+      "description": "",
+      "views": 57215,
+      "qid": "Q_en_Kane_Tanaka",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Kit_Connor",
+      "label": "Kit Connor",
+      "description": "",
+      "views": 57049,
+      "qid": "Q_en_Kit_Connor",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Emmanuel_Macron",
+      "label": "Emmanuel Macron",
+      "description": "president of France and Co-Prince of Andorra since 2017",
+      "views": 56480,
+      "qid": "Q3052772",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel_Macron_2025_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Johnny_Depp_filmography",
+      "label": "Johnny Depp filmography",
+      "description": "",
+      "views": 56257,
+      "qid": "Q_en_Johnny_Depp_filmography",
+      "image": ""
+    }
+  ]
+}

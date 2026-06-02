@@ -4,8 +4,56 @@
   "title": "Billie_Eilish",
   "description": "American singer-songwriter (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?width=64",
-  "total": 16084098,
+  "total": 21072045,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 347027
+    },
+    {
+      "period": "2022-02",
+      "views": 327151
+    },
+    {
+      "period": "2022-03",
+      "views": 602109
+    },
+    {
+      "period": "2022-04",
+      "views": 539896
+    },
+    {
+      "period": "2022-05",
+      "views": 431478
+    },
+    {
+      "period": "2022-06",
+      "views": 630680
+    },
+    {
+      "period": "2022-07",
+      "views": 337957
+    },
+    {
+      "period": "2022-08",
+      "views": 363690
+    },
+    {
+      "period": "2022-09",
+      "views": 268439
+    },
+    {
+      "period": "2022-10",
+      "views": 312301
+    },
+    {
+      "period": "2022-11",
+      "views": 340000
+    },
+    {
+      "period": "2022-12",
+      "views": 487219
+    },
     {
       "period": "2023-01",
       "views": 178189
@@ -172,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 4987947
+    },
     {
       "period": "2023",
       "views": 2975474

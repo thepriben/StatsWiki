@@ -4,11 +4,19 @@
   "title": "Venezuela",
   "description": "country in South America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Embalse_la_Vueltosa_2022.jpg?width=64",
-  "total": 4585756,
+  "total": 4648965,
   "monthly": [
     {
       "period": "2015-12",
       "views": 28569
+    },
+    {
+      "period": "2022-03",
+      "views": 51335
+    },
+    {
+      "period": "2022-07",
+      "views": 11874
     },
     {
       "period": "2023-08",
@@ -83,6 +91,10 @@
     {
       "period": "2015",
       "views": 28569
+    },
+    {
+      "period": "2022",
+      "views": 63209
     },
     {
       "period": "2023",

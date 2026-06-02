@@ -1,0 +1,455 @@
+{
+  "period": "20 April 2022",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Johnny_Depp",
+      "label": "Johnny Depp",
+      "description": "American actor (born 1963)",
+      "views": 594977,
+      "qid": "Q37175",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny_Depp_2020.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Amber_Heard",
+      "label": "Amber Heard",
+      "description": "American actress",
+      "views": 572913,
+      "qid": "Q229166",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Heard_%2843723454772%29.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "K.G.F:_Chapter_2",
+      "label": "K.G.F: Chapter 2",
+      "description": "2022 Indian Kannada film by Prashanth Neel",
+      "views": 462141,
+      "qid": "Q67200663",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Rashism",
+      "label": "Rashism",
+      "description": "",
+      "views": 306277,
+      "qid": "Q_en_Rashism",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Ezra_Miller",
+      "label": "Ezra Miller",
+      "description": "American actor (born 1992)",
+      "views": 264420,
+      "qid": "Q508049",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justice_League_Japan_Premiere_Red_Carpet-_Ezra_Miller_%2839215775482%29_%28cropped_2%29.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "List_of_highest-grossing_Indian_films",
+      "label": "list of highest-grossing Indian films worldwide",
+      "description": "Wikimedia list article",
+      "views": 207177,
+      "qid": "Q6622409",
+      "image": ""
+    },
+    {
+      "rank": 7,
+      "title": "2022_Russian_invasion_of_Ukraine",
+      "label": "2022 Russian invasion of Ukraine",
+      "description": "2022 military campaign",
+      "views": 192637,
+      "qid": "Q136556880",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "The_Batman_(film)",
+      "label": "The Batman",
+      "description": "2022 superhero film by Matt Reeves",
+      "views": 182577,
+      "qid": "Q61117344",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Batman_2022_film_logo.png?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Moon_Knight_(TV_series)",
+      "label": "Moon Knight (TV series)",
+      "description": "",
+      "views": 175640,
+      "qid": "Q_en_Moon_Knight_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "420_(cannabis_culture)",
+      "label": "420 (cannabis culture)",
+      "description": "",
+      "views": 143727,
+      "qid": "Q_en_420_(cannabis_culture)",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Vanessa_Paradis",
+      "label": "Vanessa Paradis",
+      "description": "",
+      "views": 143479,
+      "qid": "Q_en_Vanessa_Paradis",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Lily-Rose_Depp",
+      "label": "Lily-Rose Depp",
+      "description": "French-American actress (born 1999)",
+      "views": 138612,
+      "qid": "Q20670730",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lily-Rose_Depp_Cannes_2016.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "John_Wayne_Gacy",
+      "label": "John Wayne Gacy",
+      "description": "American serial killer (1942–1994)",
+      "views": 132914,
+      "qid": "Q298252",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Wayne_Gacy-junior.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 130985,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Deaths_in_2022",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 120621,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 107321,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "Ariel_Castro_kidnappings",
+      "label": "Ariel Castro kidnappings",
+      "description": "",
+      "views": 107215,
+      "qid": "Q_en_Ariel_Castro_kidnappings",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "RRR_(film)",
+      "label": "RRR",
+      "description": "2022 film directed by S. S. Rajamouli",
+      "views": 104236,
+      "qid": "Q60424165",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 99094,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Yash_(actor)",
+      "label": "Yash (actor)",
+      "description": "",
+      "views": 91546,
+      "qid": "Q_en_Yash_(actor)",
+      "image": ""
+    },
+    {
+      "rank": 21,
+      "title": "Anatomy_of_a_Scandal",
+      "label": "Anatomy of a Scandal",
+      "description": "",
+      "views": 89689,
+      "qid": "Q_en_Anatomy_of_a_Scandal",
+      "image": ""
+    },
+    {
+      "rank": 22,
+      "title": "Skathi_(moon)",
+      "label": "Skathi",
+      "description": "moon of Saturn",
+      "views": 88050,
+      "qid": "Q17982",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skathi-discovery-CFHT.gif?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "John_Darwin_disappearance_case",
+      "label": "John Darwin disappearance case",
+      "description": "",
+      "views": 83902,
+      "qid": "Q_en_John_Darwin_disappearance_case",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "K.G.F:_Chapter_1",
+      "label": "K.G.F: Chapter 1",
+      "description": "",
+      "views": 83862,
+      "qid": "Q_en_K.G.F:_Chapter_1",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "RS-28_Sarmat",
+      "label": "RS-28 Sarmat",
+      "description": "",
+      "views": 83316,
+      "qid": "Q_en_RS-28_Sarmat",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Fantastic_Beasts:_The_Secrets_of_Dumbledore",
+      "label": "Fantastic Beasts: The Secrets of Dumbledore",
+      "description": "",
+      "views": 78469,
+      "qid": "Q_en_Fantastic_Beasts:_The_Secrets_of_Dumbledore",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Beast_(2022_film)",
+      "label": "Beast (2022 film)",
+      "description": "",
+      "views": 78340,
+      "qid": "Q_en_Beast_(2022_film)",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 76620,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 75509,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Moon_Knight",
+      "label": "Moon Knight",
+      "description": "",
+      "views": 72632,
+      "qid": "Q_en_Moon_Knight",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Better_Call_Saul_(season_6)",
+      "label": "Better Call Saul (season 6)",
+      "description": "",
+      "views": 71362,
+      "qid": "Q_en_Better_Call_Saul_(season_6)",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Taweret",
+      "label": "Taweret",
+      "description": "",
+      "views": 70093,
+      "qid": "Q_en_Taweret",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Better_Call_Saul",
+      "label": "Better Call Saul",
+      "description": "American crime drama television series (2015–2022)",
+      "views": 65760,
+      "qid": "Q14925221",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Better_Call_Saul_-_Logo_2.svg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "Sienna_Miller",
+      "label": "Sienna Miller",
+      "description": "",
+      "views": 64173,
+      "qid": "Q_en_Sienna_Miller",
+      "image": ""
+    },
+    {
+      "rank": 35,
+      "title": "Greg_Norman",
+      "label": "Greg Norman",
+      "description": "",
+      "views": 63899,
+      "qid": "Q_en_Greg_Norman",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "Everything_Everywhere_All_at_Once",
+      "label": "Everything Everywhere All at Once",
+      "description": "2022 film by Daniel Kwan and Daniel Scheinert",
+      "views": 62904,
+      "qid": "Q83808444",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Everything_everywhere_all_at_once_logo.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Adolf_Hitler",
+      "label": "Adolf Hitler",
+      "description": "dictator of Germany from 1933 to 1945, main instigator of World War II (1889–1945)",
+      "views": 62308,
+      "qid": "Q352",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Hitler_cropped_restored_3x4.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Alexander_the_Great",
+      "label": "Alexander the Great",
+      "description": "king of Macedonia and conqueror of Achaemenid Persia (356–323 BC)",
+      "views": 59817,
+      "qid": "Q8409",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_the_Great_mosaic_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Thor:_Love_and_Thunder",
+      "label": "Thor: Love and Thunder",
+      "description": "2022 film directed by Taika Waititi",
+      "views": 58066,
+      "qid": "Q65768604",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ThorLoveandThunder.png?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "CEO",
+      "label": "chief executive officer",
+      "description": "highest-ranking corporate officer",
+      "views": 57157,
+      "qid": "Q484876",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Fortune_500_CEOs_in_2015_%28cropped_to_remove_non-CEO%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Tasya_van_Ree",
+      "label": "Tasya van Ree",
+      "description": "",
+      "views": 55719,
+      "qid": "Q_en_Tasya_van_Ree",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "XXX:_Return_of_Xander_Cage",
+      "label": "xXx Return of Xander Cage",
+      "description": "2017 film directed by D. J. Caruso",
+      "views": 55617,
+      "qid": "Q22075020",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXx_REACTIVADO_Conferencia_de_Prensa.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Prashanth_Neel",
+      "label": "Prashanth Neel",
+      "description": "",
+      "views": 54861,
+      "qid": "Q_en_Prashanth_Neel",
+      "image": ""
+    },
+    {
+      "rank": 44,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 54648,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "XXXX_(beer)",
+      "label": "XXXX",
+      "description": "XxxAustralian beer brand",
+      "views": 52778,
+      "qid": "Q924355",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Castlemaine_Perkins_Brewery.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Abercrombie_&_Fitch",
+      "label": "Abercrombie & Fitch",
+      "description": "",
+      "views": 52631,
+      "qid": "Q_en_Abercrombie_&_Fitch",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 52588,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 51856,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "United_States",
+      "label": "United States",
+      "description": "country located primarily in North America",
+      "views": 51786,
+      "qid": "Q30",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "XXX_(film_series)",
+      "label": "xXx",
+      "description": "film series by Rich Wilkes",
+      "views": 51574,
+      "qid": "Q25136249",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "List_of_The_Walking_Dead_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 3057227,
+  "total": 3708648,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,36 @@
     {
       "period": "2015-12",
       "views": 589856
+    },
+    {
+      "period": "2022-02",
+      "views": 47269
+    },
+    {
+      "period": "2022-03",
+      "views": 94055
+    },
+    {
+      "period": "2022-04",
+      "views": 86482
+    },
+    {
+      "period": "2022-10",
+      "views": 161954
+    },
+    {
+      "period": "2022-11",
+      "views": 261661
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 3057227
+    },
+    {
+      "period": "2022",
+      "views": 651421
     }
   ]
 }

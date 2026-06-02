@@ -4,8 +4,28 @@
   "title": "Lando_Norris",
   "description": "British and Belgian racing driver (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_4016_by_Stepro_%28cropped%29.jpg?width=64",
-  "total": 4747462,
+  "total": 4939820,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 10851
+    },
+    {
+      "period": "2022-03",
+      "views": 78225
+    },
+    {
+      "period": "2022-04",
+      "views": 41924
+    },
+    {
+      "period": "2022-07",
+      "views": 32792
+    },
+    {
+      "period": "2022-11",
+      "views": 28566
+    },
     {
       "period": "2023-03",
       "views": 14376
@@ -120,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 192358
+    },
     {
       "period": "2023",
       "views": 380070

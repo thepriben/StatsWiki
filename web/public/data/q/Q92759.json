@@ -4,8 +4,16 @@
   "title": "Larry_Ellison",
   "description": "American internet entrepreneur and businessman (born 1944)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larry_Ellison_picture.png?width=64",
-  "total": 3477487,
+  "total": 3531430,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 40606
+    },
+    {
+      "period": "2022-05",
+      "views": 13337
+    },
     {
       "period": "2023-01",
       "views": 16004
@@ -96,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 53943
+    },
     {
       "period": "2023",
       "views": 29191

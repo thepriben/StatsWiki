@@ -4,8 +4,20 @@
   "title": "main_page",
   "description": "Wikimedia multilingual project main page in Punjabi",
   "image": "",
-  "total": 5299884,
+  "total": 6520121,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 35354
+    },
+    {
+      "period": "2022-04",
+      "views": 657934
+    },
+    {
+      "period": "2022-08",
+      "views": 526949
+    },
     {
       "period": "2023-03",
       "views": 253307
@@ -80,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 1220237
+    },
     {
       "period": "2023",
       "views": 2213518

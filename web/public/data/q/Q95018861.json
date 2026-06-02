@@ -4,8 +4,20 @@
   "title": "Groypers",
   "description": "loose group of far-right activists and internet trolls",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/831%E6%B8%AF%E5%B3%B6_04.jpg?width=64",
-  "total": 3005402,
+  "total": 3142347,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 11739
+    },
+    {
+      "period": "2022-11",
+      "views": 93318
+    },
+    {
+      "period": "2022-12",
+      "views": 31888
+    },
     {
       "period": "2024-07",
       "views": 16845
@@ -36,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 136945
+    },
     {
       "period": "2024",
       "views": 27797

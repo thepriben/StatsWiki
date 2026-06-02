@@ -4,8 +4,20 @@
   "title": "The_Super_Mario_Bros._Movie",
   "description": "2023 animated film directed by Aaron Horvath and Michael Jelenic",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Super_Mario_Bros_Movie_logo.png?width=64",
-  "total": 10984325,
+  "total": 11517152,
   "monthly": [
+    {
+      "period": "2022-10",
+      "views": 329422
+    },
+    {
+      "period": "2022-11",
+      "views": 102105
+    },
+    {
+      "period": "2022-12",
+      "views": 101300
+    },
     {
       "period": "2023-01",
       "views": 31332
@@ -88,6 +100,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 532827
+    },
     {
       "period": "2023",
       "views": 10322850

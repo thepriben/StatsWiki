@@ -4,8 +4,16 @@
   "title": "The_Little_Mermaid_(2023_film)",
   "description": "2023 film directed by Rob Marshall",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Little_Mermaid_logo.svg?width=64",
-  "total": 8802464,
+  "total": 9331008,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 14867
+    },
+    {
+      "period": "2022-09",
+      "views": 513677
+    },
     {
       "period": "2023-02",
       "views": 45591
@@ -52,6 +60,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 528544
+    },
     {
       "period": "2023",
       "views": 8776421

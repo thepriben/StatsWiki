@@ -1,0 +1,60 @@
+{
+  "qid": "Q1845",
+  "label": "Bible",
+  "title": "Bible",
+  "description": "collection of sacred books in Judaism and Christianity",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64",
+  "total": 20472685,
+  "monthly": [
+    {
+      "period": "2022-01",
+      "views": 3755811
+    },
+    {
+      "period": "2022-02",
+      "views": 3142550
+    },
+    {
+      "period": "2022-03",
+      "views": 2227272
+    },
+    {
+      "period": "2022-04",
+      "views": 1535174
+    },
+    {
+      "period": "2022-05",
+      "views": 1680463
+    },
+    {
+      "period": "2022-06",
+      "views": 1552997
+    },
+    {
+      "period": "2022-07",
+      "views": 1294843
+    },
+    {
+      "period": "2022-08",
+      "views": 1438439
+    },
+    {
+      "period": "2022-09",
+      "views": 1598056
+    },
+    {
+      "period": "2022-10",
+      "views": 1549813
+    },
+    {
+      "period": "2022-11",
+      "views": 697267
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 20472685
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Syria",
   "description": "country in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Damascus_general_laz1.jpg?width=64",
-  "total": 9275348,
+  "total": 9473326,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,6 +25,18 @@
     {
       "period": "2015-12",
       "views": 258965
+    },
+    {
+      "period": "2022-02",
+      "views": 23180
+    },
+    {
+      "period": "2022-03",
+      "views": 161169
+    },
+    {
+      "period": "2022-09",
+      "views": 13629
     },
     {
       "period": "2023-01",
@@ -131,6 +143,10 @@
     {
       "period": "2015",
       "views": 2725959
+    },
+    {
+      "period": "2022",
+      "views": 197978
     },
     {
       "period": "2023",

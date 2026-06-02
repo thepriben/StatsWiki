@@ -4,8 +4,48 @@
   "title": "Dune_(2021_film)",
   "description": "2021 film directed by Denis Villeneuve",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dune_2021_transparent_logo.png?width=64",
-  "total": 10852666,
+  "total": 14930859,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 627481
+    },
+    {
+      "period": "2022-02",
+      "views": 554172
+    },
+    {
+      "period": "2022-03",
+      "views": 1019821
+    },
+    {
+      "period": "2022-04",
+      "views": 692443
+    },
+    {
+      "period": "2022-05",
+      "views": 398521
+    },
+    {
+      "period": "2022-06",
+      "views": 255730
+    },
+    {
+      "period": "2022-07",
+      "views": 177945
+    },
+    {
+      "period": "2022-08",
+      "views": 126119
+    },
+    {
+      "period": "2022-09",
+      "views": 168435
+    },
+    {
+      "period": "2022-12",
+      "views": 57526
+    },
     {
       "period": "2023-01",
       "views": 48786
@@ -124,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 4078193
+    },
     {
       "period": "2023",
       "views": 1486755

@@ -4,8 +4,16 @@
   "title": "Leonard_Bernstein",
   "description": "American conductor and composer (1918–1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonard_Bernstein_by_Jack_Mitchell_%28high_quality%29.jpg?width=64",
-  "total": 5605073,
+  "total": 5707752,
   "monthly": [
+    {
+      "period": "2022-05",
+      "views": 71518
+    },
+    {
+      "period": "2022-06",
+      "views": 31161
+    },
     {
       "period": "2023-08",
       "views": 450170
@@ -40,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 102679
+    },
     {
       "period": "2023",
       "views": 3502064

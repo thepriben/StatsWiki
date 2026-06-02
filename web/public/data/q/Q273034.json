@@ -4,7 +4,7 @@
   "title": "Lucy_Maud_Montgomery",
   "description": "Canadian writer (1874–1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LMM_signed_photo.jpg?width=64",
-  "total": 1057490,
+  "total": 1071340,
   "monthly": [
     {
       "period": "2015-11",
@@ -13,12 +13,20 @@
     {
       "period": "2015-12",
       "views": 150892
+    },
+    {
+      "period": "2022-11",
+      "views": 13850
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1057490
+    },
+    {
+      "period": "2022",
+      "views": 13850
     }
   ]
 }

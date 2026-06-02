@@ -4,7 +4,7 @@
   "title": "Main_Page",
   "description": "main page of a Wikimedia project",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Main_Page.png?width=64",
-  "total": 9487042292,
+  "total": 11082567276,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 510247869
+    },
+    {
+      "period": "2022-01",
+      "views": 140031438
+    },
+    {
+      "period": "2022-02",
+      "views": 133969136
+    },
+    {
+      "period": "2022-03",
+      "views": 149440776
+    },
+    {
+      "period": "2022-04",
+      "views": 136975344
+    },
+    {
+      "period": "2022-05",
+      "views": 134358004
+    },
+    {
+      "period": "2022-06",
+      "views": 139432840
+    },
+    {
+      "period": "2022-07",
+      "views": 138035511
+    },
+    {
+      "period": "2022-08",
+      "views": 133840945
+    },
+    {
+      "period": "2022-09",
+      "views": 122343141
+    },
+    {
+      "period": "2022-10",
+      "views": 118068302
+    },
+    {
+      "period": "2022-11",
+      "views": 121933232
+    },
+    {
+      "period": "2022-12",
+      "views": 127096315
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 3296032065
+    },
+    {
+      "period": "2022",
+      "views": 1595524984
     },
     {
       "period": "2023",

@@ -4,8 +4,56 @@
   "title": "BBC_World_Service",
   "description": "international radio station of the BBC",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Broadcasting_House_and_East_Wing.jpg?width=64",
-  "total": 20007928,
+  "total": 26973004,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 529686
+    },
+    {
+      "period": "2022-02",
+      "views": 676896
+    },
+    {
+      "period": "2022-03",
+      "views": 744446
+    },
+    {
+      "period": "2022-04",
+      "views": 557901
+    },
+    {
+      "period": "2022-05",
+      "views": 569925
+    },
+    {
+      "period": "2022-06",
+      "views": 637283
+    },
+    {
+      "period": "2022-07",
+      "views": 672900
+    },
+    {
+      "period": "2022-08",
+      "views": 771687
+    },
+    {
+      "period": "2022-09",
+      "views": 448044
+    },
+    {
+      "period": "2022-10",
+      "views": 478625
+    },
+    {
+      "period": "2022-11",
+      "views": 409353
+    },
+    {
+      "period": "2022-12",
+      "views": 468330
+    },
     {
       "period": "2023-01",
       "views": 453852
@@ -172,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 6965076
+    },
     {
       "period": "2023",
       "views": 6306773

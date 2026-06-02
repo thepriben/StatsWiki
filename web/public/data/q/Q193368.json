@@ -4,8 +4,12 @@
   "title": "Ted_Turner",
   "description": "American media mogul (1938–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Turner_at_the_LBJ_Foundation.jpg?width=64",
-  "total": 1942708,
+  "total": 1952908,
   "monthly": [
+    {
+      "period": "2022-09",
+      "views": 10200
+    },
     {
       "period": "2024-09",
       "views": 77837
@@ -36,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 10200
+    },
     {
       "period": "2024",
       "views": 147666

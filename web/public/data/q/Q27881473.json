@@ -4,8 +4,12 @@
   "title": "Vivek_Ramaswamy",
   "description": "American presidential candidate and businessman (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivek_Ramaswamy%2C_2025.jpg?width=64",
-  "total": 13218407,
+  "total": 13232084,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 13677
+    },
     {
       "period": "2023-02",
       "views": 414559
@@ -116,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 13677
+    },
     {
       "period": "2023",
       "views": 8646844

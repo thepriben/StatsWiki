@@ -4,7 +4,7 @@
   "title": "UEFA_Champions_League",
   "description": "European association football tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Champions_League_logo_no_text.svg?width=64",
-  "total": 24485127,
+  "total": 30231403,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 187887
+    },
+    {
+      "period": "2022-01",
+      "views": 24626
+    },
+    {
+      "period": "2022-02",
+      "views": 289688
+    },
+    {
+      "period": "2022-03",
+      "views": 359976
+    },
+    {
+      "period": "2022-04",
+      "views": 510952
+    },
+    {
+      "period": "2022-05",
+      "views": 1248547
+    },
+    {
+      "period": "2022-06",
+      "views": 206282
+    },
+    {
+      "period": "2022-07",
+      "views": 183021
+    },
+    {
+      "period": "2022-08",
+      "views": 558757
+    },
+    {
+      "period": "2022-09",
+      "views": 535800
+    },
+    {
+      "period": "2022-10",
+      "views": 739116
+    },
+    {
+      "period": "2022-11",
+      "views": 442830
+    },
+    {
+      "period": "2022-12",
+      "views": 646681
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 935673
+    },
+    {
+      "period": "2022",
+      "views": 5746276
     },
     {
       "period": "2023",

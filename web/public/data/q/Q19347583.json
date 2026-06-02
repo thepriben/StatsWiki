@@ -4,7 +4,7 @@
   "title": "The_Danish_Girl_(film)",
   "description": "2015 film by Tom Hooper",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIDM_Museum_-_Film_costumes_-_The_Danish_Girl_%2824813253151%29.jpg?width=64",
-  "total": 1233515,
+  "total": 1262795,
   "monthly": [
     {
       "period": "2015-09",
@@ -17,12 +17,20 @@
     {
       "period": "2015-12",
       "views": 781432
+    },
+    {
+      "period": "2022-05",
+      "views": 29280
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1233515
+    },
+    {
+      "period": "2022",
+      "views": 29280
     }
   ]
 }

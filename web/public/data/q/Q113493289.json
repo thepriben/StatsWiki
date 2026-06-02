@@ -4,8 +4,16 @@
   "title": "Jawan_(film)",
   "description": "2023 film directed by Atlee",
   "image": "",
-  "total": 21799431,
+  "total": 21845793,
   "monthly": [
+    {
+      "period": "2022-06",
+      "views": 25228
+    },
+    {
+      "period": "2022-11",
+      "views": 21134
+    },
     {
       "period": "2023-01",
       "views": 273575
@@ -80,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 46362
+    },
     {
       "period": "2023",
       "views": 21102297

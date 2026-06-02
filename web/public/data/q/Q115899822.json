@@ -4,8 +4,12 @@
   "title": "2025_FIFA_Club_World_Cup",
   "description": "international soccer tournament held in 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chelsea_FC_with_Donald_Trump_at_the_2025_FIFA_Club_World_Cup_final.jpg?width=64",
-  "total": 6104199,
+  "total": 6134498,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 30299
+    },
     {
       "period": "2023-06",
       "views": 51684
@@ -72,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 30299
+    },
     {
       "period": "2023",
       "views": 145284

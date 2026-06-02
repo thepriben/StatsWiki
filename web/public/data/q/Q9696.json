@@ -4,7 +4,7 @@
   "title": "John_F._Kennedy",
   "description": "president of the United States from 1961 to 1963 (1917–1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?width=64",
-  "total": 25859532,
+  "total": 30785755,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 434325
+    },
+    {
+      "period": "2022-01",
+      "views": 395687
+    },
+    {
+      "period": "2022-02",
+      "views": 360481
+    },
+    {
+      "period": "2022-03",
+      "views": 413090
+    },
+    {
+      "period": "2022-04",
+      "views": 386442
+    },
+    {
+      "period": "2022-05",
+      "views": 474672
+    },
+    {
+      "period": "2022-06",
+      "views": 400753
+    },
+    {
+      "period": "2022-07",
+      "views": 426510
+    },
+    {
+      "period": "2022-08",
+      "views": 398451
+    },
+    {
+      "period": "2022-09",
+      "views": 447936
+    },
+    {
+      "period": "2022-10",
+      "views": 421102
+    },
+    {
+      "period": "2022-11",
+      "views": 454187
+    },
+    {
+      "period": "2022-12",
+      "views": 346912
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 2597417
+    },
+    {
+      "period": "2022",
+      "views": 4926223
     },
     {
       "period": "2023",

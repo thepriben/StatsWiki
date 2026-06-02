@@ -4,8 +4,48 @@
   "title": "XHamster",
   "description": "pornographic video sharing website",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64",
-  "total": 12164615,
+  "total": 14342864,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 440272
+    },
+    {
+      "period": "2022-02",
+      "views": 311287
+    },
+    {
+      "period": "2022-03",
+      "views": 397738
+    },
+    {
+      "period": "2022-04",
+      "views": 188805
+    },
+    {
+      "period": "2022-05",
+      "views": 273785
+    },
+    {
+      "period": "2022-06",
+      "views": 302002
+    },
+    {
+      "period": "2022-07",
+      "views": 170050
+    },
+    {
+      "period": "2022-08",
+      "views": 62872
+    },
+    {
+      "period": "2022-09",
+      "views": 20527
+    },
+    {
+      "period": "2022-10",
+      "views": 10911
+    },
     {
       "period": "2023-01",
       "views": 27911
@@ -152,6 +192,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 2178249
+    },
     {
       "period": "2023",
       "views": 4550825

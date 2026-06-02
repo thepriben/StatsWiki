@@ -4,8 +4,12 @@
   "title": "Indiana_Jones_and_the_Dial_of_Destiny",
   "description": "2023 film directed by James Mangold",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glasgow_High_Street_film_set.jpg?width=64",
-  "total": 10028607,
+  "total": 10355249,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 326642
+    },
     {
       "period": "2023-01",
       "views": 41152
@@ -88,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 326642
+    },
     {
       "period": "2023",
       "views": 9522561

@@ -4,7 +4,7 @@
   "title": "List_of_Game_of_Thrones_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1722844,
+  "total": 1811819,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,20 @@
     {
       "period": "2015-12",
       "views": 242158
+    },
+    {
+      "period": "2022-08",
+      "views": 88975
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1722844
+    },
+    {
+      "period": "2022",
+      "views": 88975
     }
   ]
 }

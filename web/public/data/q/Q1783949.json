@@ -4,8 +4,56 @@
   "title": "Brownie_(folklore)",
   "description": "mythical creature popular in folklore from Scotland and England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Illustration_of_a_brownie_by_Alice_B_Woodward.jpg?width=64",
-  "total": 5250566,
+  "total": 12890349,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 608735
+    },
+    {
+      "period": "2022-02",
+      "views": 614929
+    },
+    {
+      "period": "2022-03",
+      "views": 793072
+    },
+    {
+      "period": "2022-04",
+      "views": 595489
+    },
+    {
+      "period": "2022-05",
+      "views": 647779
+    },
+    {
+      "period": "2022-06",
+      "views": 670601
+    },
+    {
+      "period": "2022-07",
+      "views": 690973
+    },
+    {
+      "period": "2022-08",
+      "views": 657154
+    },
+    {
+      "period": "2022-09",
+      "views": 702679
+    },
+    {
+      "period": "2022-10",
+      "views": 537253
+    },
+    {
+      "period": "2022-11",
+      "views": 275672
+    },
+    {
+      "period": "2022-12",
+      "views": 845447
+    },
     {
       "period": "2023-01",
       "views": 290078
@@ -40,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 7639783
+    },
     {
       "period": "2023",
       "views": 5250566

@@ -4,8 +4,12 @@
   "title": "IShowSpeed",
   "description": "American influencer and online streamer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg?width=64",
-  "total": 4266666,
+  "total": 4335519,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 68853
+    },
     {
       "period": "2023-06",
       "views": 28462
@@ -116,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 68853
+    },
     {
       "period": "2023",
       "views": 401596

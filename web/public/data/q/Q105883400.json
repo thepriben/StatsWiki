@@ -4,8 +4,32 @@
   "title": "The_Whale_(2022_film)",
   "description": "2022 film directed by Darren Aronofsky",
   "image": "",
-  "total": 5507537,
+  "total": 8620127,
   "monthly": [
+    {
+      "period": "2022-07",
+      "views": 92325
+    },
+    {
+      "period": "2022-08",
+      "views": 37913
+    },
+    {
+      "period": "2022-09",
+      "views": 1619425
+    },
+    {
+      "period": "2022-10",
+      "views": 58647
+    },
+    {
+      "period": "2022-11",
+      "views": 360062
+    },
+    {
+      "period": "2022-12",
+      "views": 944218
+    },
     {
       "period": "2023-01",
       "views": 1167717
@@ -60,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 3112590
+    },
     {
       "period": "2023",
       "views": 5465718

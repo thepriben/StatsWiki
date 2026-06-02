@@ -4,8 +4,28 @@
   "title": "Barbie_(film)",
   "description": "2023 film directed by Greta Gerwig",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbie_and_Ken_costumes_from_Barbie_movie_at_Warner_Bros._Studio_Tour_Hollywood.jpg?width=64",
-  "total": 19340357,
+  "total": 20077281,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 49336
+    },
+    {
+      "period": "2022-05",
+      "views": 27755
+    },
+    {
+      "period": "2022-06",
+      "views": 332872
+    },
+    {
+      "period": "2022-07",
+      "views": 172500
+    },
+    {
+      "period": "2022-12",
+      "views": 154461
+    },
     {
       "period": "2023-04",
       "views": 722166
@@ -76,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 736924
+    },
     {
       "period": "2023",
       "views": 16957871

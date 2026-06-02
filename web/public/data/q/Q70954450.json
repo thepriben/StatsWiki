@@ -4,8 +4,12 @@
   "title": "David_Corenswet",
   "description": "American actor (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Corenswet_Manila_2025.jpg?width=64",
-  "total": 4423652,
+  "total": 4470029,
   "monthly": [
+    {
+      "period": "2022-08",
+      "views": 46377
+    },
     {
       "period": "2023-05",
       "views": 31554
@@ -84,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 46377
+    },
     {
       "period": "2023",
       "views": 509788

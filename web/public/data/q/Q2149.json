@@ -4,7 +4,7 @@
   "title": "XXX",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 21466442,
+  "total": 23495283,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,46 @@
     {
       "period": "2015-12",
       "views": 722564
+    },
+    {
+      "period": "2022-01",
+      "views": 294257
+    },
+    {
+      "period": "2022-02",
+      "views": 166922
+    },
+    {
+      "period": "2022-03",
+      "views": 31852
+    },
+    {
+      "period": "2022-06",
+      "views": 9771
+    },
+    {
+      "period": "2022-07",
+      "views": 195507
+    },
+    {
+      "period": "2022-08",
+      "views": 362352
+    },
+    {
+      "period": "2022-09",
+      "views": 227020
+    },
+    {
+      "period": "2022-10",
+      "views": 319497
+    },
+    {
+      "period": "2022-11",
+      "views": 399985
+    },
+    {
+      "period": "2022-12",
+      "views": 21678
     },
     {
       "period": "2023-01",
@@ -183,6 +223,10 @@
     {
       "period": "2015",
       "views": 3225481
+    },
+    {
+      "period": "2022",
+      "views": 2028841
     },
     {
       "period": "2023",

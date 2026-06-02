@@ -4,8 +4,20 @@
   "title": "Fast_X",
   "description": "2023 film directed by Louis Leterrier",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fast_X_logo.png?width=64",
-  "total": 11863145,
+  "total": 11932154,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 31820
+    },
+    {
+      "period": "2022-05",
+      "views": 26861
+    },
+    {
+      "period": "2022-12",
+      "views": 10328
+    },
     {
       "period": "2023-01",
       "views": 78507
@@ -80,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 69009
+    },
     {
       "period": "2023",
       "views": 11171098

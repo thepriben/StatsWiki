@@ -4,8 +4,36 @@
   "title": "Nikola_Jokić",
   "description": "Serbian basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikola_Jokic_free_throw_%28cropped%29.jpg?width=64",
-  "total": 6230127,
+  "total": 6550602,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 9514
+    },
+    {
+      "period": "2022-03",
+      "views": 32334
+    },
+    {
+      "period": "2022-04",
+      "views": 106309
+    },
+    {
+      "period": "2022-05",
+      "views": 86340
+    },
+    {
+      "period": "2022-06",
+      "views": 12642
+    },
+    {
+      "period": "2022-07",
+      "views": 19132
+    },
+    {
+      "period": "2022-12",
+      "views": 54204
+    },
     {
       "period": "2023-01",
       "views": 54317
@@ -140,6 +168,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 320475
+    },
     {
       "period": "2023",
       "views": 3334112

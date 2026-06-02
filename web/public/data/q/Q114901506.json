@@ -4,8 +4,12 @@
   "title": "The_Iron_Claw_(film)",
   "description": "2023 film directed by Sean Durkin",
   "image": "",
-  "total": 5712128,
+  "total": 5724541,
   "monthly": [
+    {
+      "period": "2022-11",
+      "views": 12413
+    },
     {
       "period": "2023-07",
       "views": 120592
@@ -92,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 12413
+    },
     {
       "period": "2023",
       "views": 1941489

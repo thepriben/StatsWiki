@@ -4,8 +4,76 @@
   "title": "Charles_III",
   "description": "King of the United Kingdom since 2022 (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64",
-  "total": 26679581,
+  "total": 47792924,
   "monthly": [
+    {
+      "period": "2015-07",
+      "views": 55908
+    },
+    {
+      "period": "2015-08",
+      "views": 9425
+    },
+    {
+      "period": "2015-09",
+      "views": 102323
+    },
+    {
+      "period": "2015-11",
+      "views": 41497
+    },
+    {
+      "period": "2015-12",
+      "views": 10530
+    },
+    {
+      "period": "2022-01",
+      "views": 494040
+    },
+    {
+      "period": "2022-02",
+      "views": 604392
+    },
+    {
+      "period": "2022-03",
+      "views": 417795
+    },
+    {
+      "period": "2022-04",
+      "views": 320913
+    },
+    {
+      "period": "2022-05",
+      "views": 382168
+    },
+    {
+      "period": "2022-06",
+      "views": 750329
+    },
+    {
+      "period": "2022-07",
+      "views": 380715
+    },
+    {
+      "period": "2022-08",
+      "views": 396949
+    },
+    {
+      "period": "2022-09",
+      "views": 13774473
+    },
+    {
+      "period": "2022-10",
+      "views": 1099982
+    },
+    {
+      "period": "2022-11",
+      "views": 1318669
+    },
+    {
+      "period": "2022-12",
+      "views": 953235
+    },
     {
       "period": "2023-01",
       "views": 912920
@@ -172,6 +240,14 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2015",
+      "views": 219683
+    },
+    {
+      "period": "2022",
+      "views": 20893660
+    },
     {
       "period": "2023",
       "views": 9873624

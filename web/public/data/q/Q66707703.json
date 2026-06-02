@@ -4,8 +4,20 @@
   "title": "Ilia_Malinin",
   "description": "American figure skater",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilia_Malinin_-_2026_United_States_Figure_Skating_Championships_01_%28cropped%29.jpg?width=64",
-  "total": 4903477,
+  "total": 4975375,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 35590
+    },
+    {
+      "period": "2022-09",
+      "views": 10897
+    },
+    {
+      "period": "2022-10",
+      "views": 25411
+    },
     {
       "period": "2023-01",
       "views": 13875
@@ -52,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 71898
+    },
     {
       "period": "2023",
       "views": 30593

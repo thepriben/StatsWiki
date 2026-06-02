@@ -4,8 +4,44 @@
   "title": "Young_Sheldon",
   "description": "American comedy series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Young_Sheldon_logo.svg?width=64",
-  "total": 7560455,
+  "total": 8030854,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 84607
+    },
+    {
+      "period": "2022-02",
+      "views": 10962
+    },
+    {
+      "period": "2022-03",
+      "views": 10888
+    },
+    {
+      "period": "2022-04",
+      "views": 81319
+    },
+    {
+      "period": "2022-05",
+      "views": 22310
+    },
+    {
+      "period": "2022-07",
+      "views": 68642
+    },
+    {
+      "period": "2022-09",
+      "views": 13199
+    },
+    {
+      "period": "2022-10",
+      "views": 94389
+    },
+    {
+      "period": "2022-11",
+      "views": 84083
+    },
     {
       "period": "2023-01",
       "views": 24241
@@ -112,6 +148,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 470399
+    },
     {
       "period": "2023",
       "views": 3615772

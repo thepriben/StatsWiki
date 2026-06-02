@@ -4,7 +4,7 @@
   "title": "Lewis_Hamilton",
   "description": "British racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg?width=64",
-  "total": 11968276,
+  "total": 15133033,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,50 @@
     {
       "period": "2015-12",
       "views": 41137
+    },
+    {
+      "period": "2022-01",
+      "views": 118050
+    },
+    {
+      "period": "2022-02",
+      "views": 11077
+    },
+    {
+      "period": "2022-03",
+      "views": 537286
+    },
+    {
+      "period": "2022-04",
+      "views": 388432
+    },
+    {
+      "period": "2022-05",
+      "views": 287772
+    },
+    {
+      "period": "2022-06",
+      "views": 319115
+    },
+    {
+      "period": "2022-07",
+      "views": 512344
+    },
+    {
+      "period": "2022-08",
+      "views": 255154
+    },
+    {
+      "period": "2022-09",
+      "views": 95911
+    },
+    {
+      "period": "2022-10",
+      "views": 323718
+    },
+    {
+      "period": "2022-11",
+      "views": 315898
     },
     {
       "period": "2023-01",
@@ -199,6 +243,10 @@
     {
       "period": "2015",
       "views": 516659
+    },
+    {
+      "period": "2022",
+      "views": 3164757
     },
     {
       "period": "2023",

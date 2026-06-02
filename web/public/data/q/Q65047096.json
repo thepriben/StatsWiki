@@ -4,8 +4,16 @@
   "title": "Industry_(TV_series)",
   "description": "British television drama series",
   "image": "",
-  "total": 3149566,
+  "total": 3317937,
   "monthly": [
+    {
+      "period": "2022-08",
+      "views": 94698
+    },
+    {
+      "period": "2022-09",
+      "views": 73673
+    },
     {
       "period": "2024-08",
       "views": 327451
@@ -36,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 168371
+    },
     {
       "period": "2024",
       "views": 1123809

@@ -4,8 +4,16 @@
   "title": "Spider-Man:_Across_the_Spider-Verse",
   "description": "2023 animated film by Joaquim Dos Santos, Kemp Powers and Justin K. Thompson",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-Man_Across_the_Spider-Verse_logo.webp?width=64",
-  "total": 11379905,
+  "total": 11470826,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 10849
+    },
+    {
+      "period": "2022-12",
+      "views": 80072
+    },
     {
       "period": "2023-04",
       "views": 143920
@@ -80,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 90921
+    },
     {
       "period": "2023",
       "views": 10474299

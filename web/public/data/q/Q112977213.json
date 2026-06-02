@@ -4,8 +4,12 @@
   "title": "Mickey_17",
   "description": "2025 film directed by Bong Joon-ho",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mickey_17_logo.png?width=64",
-  "total": 4583914,
+  "total": 4608887,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 24973
+    },
     {
       "period": "2024-01",
       "views": 12026
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 24973
+    },
     {
       "period": "2024",
       "views": 85565

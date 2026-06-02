@@ -4,8 +4,52 @@
   "title": "Stranger_Things",
   "description": "American science fiction horror television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stranger_Things_logo.svg?width=64",
-  "total": 16848776,
+  "total": 28795383,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 142649
+    },
+    {
+      "period": "2022-03",
+      "views": 47932
+    },
+    {
+      "period": "2022-04",
+      "views": 297915
+    },
+    {
+      "period": "2022-05",
+      "views": 1943202
+    },
+    {
+      "period": "2022-06",
+      "views": 3436045
+    },
+    {
+      "period": "2022-07",
+      "views": 3690843
+    },
+    {
+      "period": "2022-08",
+      "views": 1093879
+    },
+    {
+      "period": "2022-09",
+      "views": 549494
+    },
+    {
+      "period": "2022-10",
+      "views": 358139
+    },
+    {
+      "period": "2022-11",
+      "views": 264840
+    },
+    {
+      "period": "2022-12",
+      "views": 121669
+    },
     {
       "period": "2023-01",
       "views": 355008
@@ -172,6 +216,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 11946607
+    },
     {
       "period": "2023",
       "views": 1999719

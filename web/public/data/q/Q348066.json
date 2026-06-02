@@ -4,8 +4,20 @@
   "title": "Jack_O'Connell_(actor)",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_O%27Connell_2025_%284%29.png?width=64",
-  "total": 3323877,
+  "total": 3704911,
   "monthly": [
+    {
+      "period": "2022-10",
+      "views": 12896
+    },
+    {
+      "period": "2022-11",
+      "views": 67301
+    },
+    {
+      "period": "2022-12",
+      "views": 300837
+    },
     {
       "period": "2024-09",
       "views": 9533
@@ -68,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 381034
+    },
     {
       "period": "2024",
       "views": 38714

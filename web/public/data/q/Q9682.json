@@ -4,7 +4,7 @@
   "title": "Elizabeth_II",
   "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64",
-  "total": 33474791,
+  "total": 72830199,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 588823
+    },
+    {
+      "period": "2022-01",
+      "views": 1267583
+    },
+    {
+      "period": "2022-02",
+      "views": 1795058
+    },
+    {
+      "period": "2022-03",
+      "views": 1003830
+    },
+    {
+      "period": "2022-04",
+      "views": 938842
+    },
+    {
+      "period": "2022-05",
+      "views": 1251983
+    },
+    {
+      "period": "2022-06",
+      "views": 2194763
+    },
+    {
+      "period": "2022-07",
+      "views": 877460
+    },
+    {
+      "period": "2022-08",
+      "views": 900912
+    },
+    {
+      "period": "2022-09",
+      "views": 24839705
+    },
+    {
+      "period": "2022-10",
+      "views": 1449019
+    },
+    {
+      "period": "2022-11",
+      "views": 1657002
+    },
+    {
+      "period": "2022-12",
+      "views": 1179251
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 4102911
+    },
+    {
+      "period": "2022",
+      "views": 39355408
     },
     {
       "period": "2023",

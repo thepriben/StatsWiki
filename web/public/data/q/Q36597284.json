@@ -4,8 +4,52 @@
   "title": "Wagner_Group",
   "description": "Russian mercenary",
   "image": "",
-  "total": 7808841,
+  "total": 9788493,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 95596
+    },
+    {
+      "period": "2022-03",
+      "views": 1064230
+    },
+    {
+      "period": "2022-04",
+      "views": 190489
+    },
+    {
+      "period": "2022-05",
+      "views": 22981
+    },
+    {
+      "period": "2022-06",
+      "views": 20408
+    },
+    {
+      "period": "2022-07",
+      "views": 40867
+    },
+    {
+      "period": "2022-08",
+      "views": 48302
+    },
+    {
+      "period": "2022-09",
+      "views": 128213
+    },
+    {
+      "period": "2022-10",
+      "views": 108532
+    },
+    {
+      "period": "2022-11",
+      "views": 138458
+    },
+    {
+      "period": "2022-12",
+      "views": 121576
+    },
     {
       "period": "2023-01",
       "views": 643655
@@ -44,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 1979652
+    },
     {
       "period": "2023",
       "views": 7808841

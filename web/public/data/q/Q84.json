@@ -4,7 +4,7 @@
   "title": "London",
   "description": "capital and largest city of England and the United Kingdom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/London_Skyline_%28125508655%29.jpeg?width=64",
-  "total": 9935966,
+  "total": 14835619,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 402044
+    },
+    {
+      "period": "2022-01",
+      "views": 403151
+    },
+    {
+      "period": "2022-02",
+      "views": 366959
+    },
+    {
+      "period": "2022-03",
+      "views": 371831
+    },
+    {
+      "period": "2022-04",
+      "views": 370778
+    },
+    {
+      "period": "2022-05",
+      "views": 402244
+    },
+    {
+      "period": "2022-06",
+      "views": 390644
+    },
+    {
+      "period": "2022-07",
+      "views": 436661
+    },
+    {
+      "period": "2022-08",
+      "views": 473462
+    },
+    {
+      "period": "2022-09",
+      "views": 473230
+    },
+    {
+      "period": "2022-10",
+      "views": 410675
+    },
+    {
+      "period": "2022-11",
+      "views": 415459
+    },
+    {
+      "period": "2022-12",
+      "views": 384559
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 2507445
+    },
+    {
+      "period": "2022",
+      "views": 4899653
     },
     {
       "period": "2023",

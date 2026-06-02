@@ -4,8 +4,44 @@
   "title": "Severance_(TV_series)",
   "description": "American television series (2022–)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bell_Labs_Holmdel.jpg?width=64",
-  "total": 15517361,
+  "total": 19381865,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 293912
+    },
+    {
+      "period": "2022-03",
+      "views": 625789
+    },
+    {
+      "period": "2022-04",
+      "views": 997147
+    },
+    {
+      "period": "2022-05",
+      "views": 472175
+    },
+    {
+      "period": "2022-06",
+      "views": 329994
+    },
+    {
+      "period": "2022-07",
+      "views": 376865
+    },
+    {
+      "period": "2022-08",
+      "views": 388512
+    },
+    {
+      "period": "2022-09",
+      "views": 306613
+    },
+    {
+      "period": "2022-12",
+      "views": 73497
+    },
     {
       "period": "2023-01",
       "views": 370440
@@ -104,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 3864504
+    },
     {
       "period": "2023",
       "views": 426868

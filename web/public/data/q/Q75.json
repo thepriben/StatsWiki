@@ -4,7 +4,7 @@
   "title": "Internet",
   "description": "global system of connected computer networks based on IP addressing and routing protocols",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internet_users_per_100_and_GDP_per_capita.jpg?width=64",
-  "total": 7328517,
+  "total": 18341620,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 146632
+    },
+    {
+      "period": "2022-01",
+      "views": 622176
+    },
+    {
+      "period": "2022-02",
+      "views": 904343
+    },
+    {
+      "period": "2022-03",
+      "views": 712496
+    },
+    {
+      "period": "2022-04",
+      "views": 451464
+    },
+    {
+      "period": "2022-05",
+      "views": 998628
+    },
+    {
+      "period": "2022-06",
+      "views": 1250853
+    },
+    {
+      "period": "2022-07",
+      "views": 1162230
+    },
+    {
+      "period": "2022-08",
+      "views": 1002116
+    },
+    {
+      "period": "2022-09",
+      "views": 919933
+    },
+    {
+      "period": "2022-10",
+      "views": 987859
+    },
+    {
+      "period": "2022-11",
+      "views": 1053242
+    },
+    {
+      "period": "2022-12",
+      "views": 947763
     },
     {
       "period": "2023-01",
@@ -79,6 +127,10 @@
     {
       "period": "2015",
       "views": 1359742
+    },
+    {
+      "period": "2022",
+      "views": 11013103
     },
     {
       "period": "2023",

@@ -4,7 +4,7 @@
   "title": "Santa_Claus",
   "description": "legendary figure said to deliver gifts to people on Christmas Eve",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jolly-old-saint-nick.gif?width=64",
-  "total": 3164618,
+  "total": 3891330,
   "monthly": [
     {
       "period": "2015-11",
@@ -13,6 +13,14 @@
     {
       "period": "2015-12",
       "views": 1022411
+    },
+    {
+      "period": "2022-11",
+      "views": 37857
+    },
+    {
+      "period": "2022-12",
+      "views": 688855
     },
     {
       "period": "2023-11",
@@ -43,6 +51,10 @@
     {
       "period": "2015",
       "views": 1167198
+    },
+    {
+      "period": "2022",
+      "views": 726712
     },
     {
       "period": "2023",

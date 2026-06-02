@@ -1,0 +1,116 @@
+{
+  "qid": "Q110138",
+  "label": "Top Gun",
+  "title": "Top_Gun",
+  "description": "1986 film directed by Tony Scott",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Top_Gun_film_logo.png?width=64",
+  "total": 7335768,
+  "monthly": [
+    {
+      "period": "2022-03",
+      "views": 54407
+    },
+    {
+      "period": "2022-04",
+      "views": 68991
+    },
+    {
+      "period": "2022-05",
+      "views": 1899689
+    },
+    {
+      "period": "2022-06",
+      "views": 2223515
+    },
+    {
+      "period": "2022-07",
+      "views": 689911
+    },
+    {
+      "period": "2022-08",
+      "views": 686603
+    },
+    {
+      "period": "2022-09",
+      "views": 498965
+    },
+    {
+      "period": "2022-10",
+      "views": 142431
+    },
+    {
+      "period": "2022-11",
+      "views": 48150
+    },
+    {
+      "period": "2022-12",
+      "views": 240197
+    },
+    {
+      "period": "2023-01",
+      "views": 351057
+    },
+    {
+      "period": "2023-02",
+      "views": 13409
+    },
+    {
+      "period": "2023-03",
+      "views": 41324
+    },
+    {
+      "period": "2023-12",
+      "views": 76230
+    },
+    {
+      "period": "2024-01",
+      "views": 14788
+    },
+    {
+      "period": "2024-03",
+      "views": 86785
+    },
+    {
+      "period": "2025-04",
+      "views": 139469
+    },
+    {
+      "period": "2025-05",
+      "views": 10014
+    },
+    {
+      "period": "2025-12",
+      "views": 11050
+    },
+    {
+      "period": "2026-03",
+      "views": 9573
+    },
+    {
+      "period": "2026-05",
+      "views": 29210
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 6552859
+    },
+    {
+      "period": "2023",
+      "views": 482020
+    },
+    {
+      "period": "2024",
+      "views": 101573
+    },
+    {
+      "period": "2025",
+      "views": 160533
+    },
+    {
+      "period": "2026",
+      "views": 38783
+    }
+  ]
+}

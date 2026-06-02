@@ -4,8 +4,28 @@
   "title": "Email",
   "description": "electronic changing digital messages between a network",
   "image": "",
-  "total": 5457677,
+  "total": 6152168,
   "monthly": [
+    {
+      "period": "2022-08",
+      "views": 76269
+    },
+    {
+      "period": "2022-09",
+      "views": 92035
+    },
+    {
+      "period": "2022-10",
+      "views": 227211
+    },
+    {
+      "period": "2022-11",
+      "views": 164564
+    },
+    {
+      "period": "2022-12",
+      "views": 134412
+    },
     {
       "period": "2023-01",
       "views": 505184
@@ -84,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 694491
+    },
     {
       "period": "2023",
       "views": 4952661

@@ -4,11 +4,31 @@
   "title": "UEFA_European_Championship",
   "description": "European championship for national association football teams",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coupe_Henri_Delaunay_2017.jpg?width=64",
-  "total": 5518948,
+  "total": 6259138,
   "monthly": [
     {
       "period": "2015-10",
       "views": 9841
+    },
+    {
+      "period": "2022-06",
+      "views": 9470
+    },
+    {
+      "period": "2022-07",
+      "views": 21374
+    },
+    {
+      "period": "2022-08",
+      "views": 9746
+    },
+    {
+      "period": "2022-11",
+      "views": 203499
+    },
+    {
+      "period": "2022-12",
+      "views": 496101
     },
     {
       "period": "2023-03",
@@ -71,6 +91,10 @@
     {
       "period": "2015",
       "views": 9841
+    },
+    {
+      "period": "2022",
+      "views": 740190
     },
     {
       "period": "2023",

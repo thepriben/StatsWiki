@@ -4,8 +4,36 @@
   "title": "Mount_Takahe",
   "description": "shield volcano in Antarctica",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MountTakahe.jpg?width=64",
-  "total": 9828544,
+  "total": 11225158,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 31907
+    },
+    {
+      "period": "2022-07",
+      "views": 118023
+    },
+    {
+      "period": "2022-08",
+      "views": 242377
+    },
+    {
+      "period": "2022-09",
+      "views": 100868
+    },
+    {
+      "period": "2022-10",
+      "views": 101417
+    },
+    {
+      "period": "2022-11",
+      "views": 79586
+    },
+    {
+      "period": "2022-12",
+      "views": 722436
+    },
     {
       "period": "2023-01",
       "views": 10720
@@ -112,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 1396614
+    },
     {
       "period": "2023",
       "views": 5576243

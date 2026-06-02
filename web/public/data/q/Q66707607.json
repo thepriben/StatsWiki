@@ -4,8 +4,12 @@
   "title": "95th_Academy_Awards",
   "description": "film award ceremony",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kartiki_Speech_Oscar_Dolby_Stage_Mar23_IMG_8325.jpg?width=64",
-  "total": 5238603,
+  "total": 5251246,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 12643
+    },
     {
       "period": "2023-01",
       "views": 1012590
@@ -44,6 +48,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 12643
+    },
     {
       "period": "2023",
       "views": 4940061

@@ -4,8 +4,48 @@
   "title": "Jenna_Ortega",
   "description": "American actress (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jenna_Ortega-63799_%28cropped%29.jpg?width=64",
-  "total": 16674671,
+  "total": 26709359,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 310260
+    },
+    {
+      "period": "2022-02",
+      "views": 46545
+    },
+    {
+      "period": "2022-03",
+      "views": 146446
+    },
+    {
+      "period": "2022-04",
+      "views": 46508
+    },
+    {
+      "period": "2022-06",
+      "views": 95002
+    },
+    {
+      "period": "2022-08",
+      "views": 291253
+    },
+    {
+      "period": "2022-09",
+      "views": 21821
+    },
+    {
+      "period": "2022-10",
+      "views": 87397
+    },
+    {
+      "period": "2022-11",
+      "views": 2648313
+    },
+    {
+      "period": "2022-12",
+      "views": 6341143
+    },
     {
       "period": "2023-01",
       "views": 2487098
@@ -172,6 +212,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 10034688
+    },
     {
       "period": "2023",
       "views": 9324906

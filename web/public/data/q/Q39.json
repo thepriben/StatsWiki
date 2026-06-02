@@ -4,7 +4,7 @@
   "title": "Switzerland",
   "description": "country in Central Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_der_Schweizerischen_Eidgenossenschaft.svg?width=64",
-  "total": 8575272,
+  "total": 12316107,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 171930
+    },
+    {
+      "period": "2022-01",
+      "views": 201502
+    },
+    {
+      "period": "2022-02",
+      "views": 308060
+    },
+    {
+      "period": "2022-03",
+      "views": 304004
+    },
+    {
+      "period": "2022-04",
+      "views": 227548
+    },
+    {
+      "period": "2022-05",
+      "views": 291380
+    },
+    {
+      "period": "2022-06",
+      "views": 305128
+    },
+    {
+      "period": "2022-07",
+      "views": 334662
+    },
+    {
+      "period": "2022-08",
+      "views": 345237
+    },
+    {
+      "period": "2022-09",
+      "views": 291081
+    },
+    {
+      "period": "2022-10",
+      "views": 311739
+    },
+    {
+      "period": "2022-11",
+      "views": 430765
+    },
+    {
+      "period": "2022-12",
+      "views": 389729
     },
     {
       "period": "2023-01",
@@ -175,6 +223,10 @@
     {
       "period": "2015",
       "views": 1783225
+    },
+    {
+      "period": "2022",
+      "views": 3740835
     },
     {
       "period": "2023",

@@ -4,8 +4,28 @@
   "title": "Jason_Kelce",
   "description": "American football player (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JasonKelce.jpg?width=64",
-  "total": 8663030,
+  "total": 8915265,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 109316
+    },
+    {
+      "period": "2022-09",
+      "views": 16662
+    },
+    {
+      "period": "2022-10",
+      "views": 46334
+    },
+    {
+      "period": "2022-11",
+      "views": 56718
+    },
+    {
+      "period": "2022-12",
+      "views": 23205
+    },
     {
       "period": "2023-01",
       "views": 561863
@@ -96,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 252235
+    },
     {
       "period": "2023",
       "views": 4954004

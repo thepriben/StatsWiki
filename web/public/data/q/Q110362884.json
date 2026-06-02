@@ -4,8 +4,12 @@
   "title": "List_of_American_films_of_2023",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 11362691,
+  "total": 11396806,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 34115
+    },
     {
       "period": "2023-01",
       "views": 853899
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 34115
+    },
     {
       "period": "2023",
       "views": 11025453

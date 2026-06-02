@@ -1,0 +1,84 @@
+{
+  "qid": "Q1391",
+  "label": "Maryland",
+  "title": "Maryland",
+  "description": "state of the United States of America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deep_Creek_Lake_Maryland_Panoramic_View.jpg?width=64",
+  "total": 8575849,
+  "monthly": [
+    {
+      "period": "2022-07",
+      "views": 985050
+    },
+    {
+      "period": "2022-08",
+      "views": 762962
+    },
+    {
+      "period": "2022-09",
+      "views": 497786
+    },
+    {
+      "period": "2022-10",
+      "views": 583103
+    },
+    {
+      "period": "2022-11",
+      "views": 534453
+    },
+    {
+      "period": "2022-12",
+      "views": 401760
+    },
+    {
+      "period": "2023-01",
+      "views": 767020
+    },
+    {
+      "period": "2023-02",
+      "views": 614561
+    },
+    {
+      "period": "2023-03",
+      "views": 612976
+    },
+    {
+      "period": "2023-04",
+      "views": 1239527
+    },
+    {
+      "period": "2023-05",
+      "views": 719545
+    },
+    {
+      "period": "2023-06",
+      "views": 784189
+    },
+    {
+      "period": "2024-03",
+      "views": 63030
+    },
+    {
+      "period": "2025-03",
+      "views": 9887
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 3765114
+    },
+    {
+      "period": "2023",
+      "views": 4737818
+    },
+    {
+      "period": "2024",
+      "views": 63030
+    },
+    {
+      "period": "2025",
+      "views": 9887
+    }
+  ]
+}

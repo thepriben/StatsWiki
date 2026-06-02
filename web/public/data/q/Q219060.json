@@ -4,8 +4,20 @@
   "title": "Palestine",
   "description": "state in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palestine_-_20190204-DSC_0007.jpg?width=64",
-  "total": 15181107,
+  "total": 15262454,
   "monthly": [
+    {
+      "period": "2022-05",
+      "views": 20661
+    },
+    {
+      "period": "2022-08",
+      "views": 38994
+    },
+    {
+      "period": "2022-12",
+      "views": 21692
+    },
     {
       "period": "2023-01",
       "views": 49392
@@ -132,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 81347
+    },
     {
       "period": "2023",
       "views": 8008865

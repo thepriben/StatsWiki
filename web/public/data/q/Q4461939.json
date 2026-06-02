@@ -4,8 +4,12 @@
   "title": "Vanessa_Trump",
   "description": "American socialite and model, ex-wife of Donald Trump Jr. (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/VanessaTrump2017.jpg?width=64",
-  "total": 4950127,
+  "total": 4972511,
   "monthly": [
+    {
+      "period": "2022-07",
+      "views": 22384
+    },
     {
       "period": "2024-07",
       "views": 855083
@@ -84,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 22384
+    },
     {
       "period": "2024",
       "views": 1206330

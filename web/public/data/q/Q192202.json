@@ -4,8 +4,20 @@
   "title": "Cricket_World_Cup",
   "description": "international cricket tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_v._Ireland_%285522416435%29.jpg?width=64",
-  "total": 24089875,
+  "total": 24532746,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 57764
+    },
+    {
+      "period": "2022-10",
+      "views": 51368
+    },
+    {
+      "period": "2022-11",
+      "views": 333739
+    },
     {
       "period": "2023-05",
       "views": 11283
@@ -80,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 442871
+    },
     {
       "period": "2023",
       "views": 21798664

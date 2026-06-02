@@ -4,8 +4,16 @@
   "title": "Super_Bowl_LIX",
   "description": "The 59th American Super Bowl Championship Game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_Bowl_LIX_%2854361947349%29.jpg?width=64",
-  "total": 4284522,
+  "total": 4332017,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 13731
+    },
+    {
+      "period": "2022-02",
+      "views": 33764
+    },
     {
       "period": "2023-01",
       "views": 12235
@@ -60,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 47495
+    },
     {
       "period": "2023",
       "views": 78874

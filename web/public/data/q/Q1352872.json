@@ -4,8 +4,16 @@
   "title": "Robert_F._Kennedy_Jr.",
   "description": "American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_F._Kennedy_Jr.%2C_official_portrait_%282025%29_%28cropped_3-4%29.jpg?width=64",
-  "total": 29185998,
+  "total": 29382057,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 164816
+    },
+    {
+      "period": "2022-05",
+      "views": 31243
+    },
     {
       "period": "2023-01",
       "views": 30878
@@ -168,6 +176,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 196059
+    },
     {
       "period": "2023",
       "views": 8149040

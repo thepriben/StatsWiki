@@ -4,8 +4,12 @@
   "title": "List_of_Indian_Premier_League_seasons_and_results",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 3886650,
+  "total": 3917008,
   "monthly": [
+    {
+      "period": "2022-05",
+      "views": 30358
+    },
     {
       "period": "2023-05",
       "views": 224698
@@ -52,6 +56,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 30358
+    },
     {
       "period": "2023",
       "views": 224698

@@ -4,8 +4,20 @@
   "title": "Mission:_Impossible_–_Dead_Reckoning_Part_One",
   "description": "2023 film directed by Christopher McQuarrie",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mission_Impossible_Dead_Reckoning_Part_One_Logo.svg?width=64",
-  "total": 10626706,
+  "total": 10910882,
   "monthly": [
+    {
+      "period": "2022-05",
+      "views": 236058
+    },
+    {
+      "period": "2022-06",
+      "views": 21230
+    },
+    {
+      "period": "2022-12",
+      "views": 26888
+    },
     {
       "period": "2023-05",
       "views": 137312
@@ -92,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 284176
+    },
     {
       "period": "2023",
       "views": 7836977

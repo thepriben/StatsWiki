@@ -4,7 +4,7 @@
   "title": "RMS_Titanic",
   "description": "British transatlantic passenger liner, launched and foundered in 1912",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RMS_Titanic_3.jpg?width=64",
-  "total": 12284941,
+  "total": 14930968,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 345360
+    },
+    {
+      "period": "2022-01",
+      "views": 415652
+    },
+    {
+      "period": "2022-02",
+      "views": 214868
+    },
+    {
+      "period": "2022-03",
+      "views": 55418
+    },
+    {
+      "period": "2022-04",
+      "views": 385143
+    },
+    {
+      "period": "2022-05",
+      "views": 102880
+    },
+    {
+      "period": "2022-06",
+      "views": 280240
+    },
+    {
+      "period": "2022-07",
+      "views": 205266
+    },
+    {
+      "period": "2022-08",
+      "views": 276774
+    },
+    {
+      "period": "2022-09",
+      "views": 127683
+    },
+    {
+      "period": "2022-10",
+      "views": 54810
+    },
+    {
+      "period": "2022-11",
+      "views": 254266
+    },
+    {
+      "period": "2022-12",
+      "views": 273027
     },
     {
       "period": "2023-01",
@@ -179,6 +227,10 @@
     {
       "period": "2015",
       "views": 2246179
+    },
+    {
+      "period": "2022",
+      "views": 2646027
     },
     {
       "period": "2023",

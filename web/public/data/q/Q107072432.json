@@ -4,8 +4,32 @@
   "title": "From_(TV_series)",
   "description": "2022 science fiction horror television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/From_%28Take_5_Productions%29.svg?width=64",
-  "total": 7278815,
+  "total": 7940071,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 210367
+    },
+    {
+      "period": "2022-03",
+      "views": 178534
+    },
+    {
+      "period": "2022-04",
+      "views": 187298
+    },
+    {
+      "period": "2022-05",
+      "views": 21239
+    },
+    {
+      "period": "2022-07",
+      "views": 44279
+    },
+    {
+      "period": "2022-08",
+      "views": 19539
+    },
     {
       "period": "2023-03",
       "views": 11061
@@ -116,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 661256
+    },
     {
       "period": "2023",
       "views": 2372044

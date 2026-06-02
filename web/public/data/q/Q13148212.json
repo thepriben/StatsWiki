@@ -4,7 +4,7 @@
   "title": "The_Blacklist_(TV_series)",
   "description": "American television series (2013–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Blacklist_Redemption_logo.png?width=64",
-  "total": 1304566,
+  "total": 1452794,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,36 @@
     {
       "period": "2015-12",
       "views": 110508
+    },
+    {
+      "period": "2022-01",
+      "views": 35115
+    },
+    {
+      "period": "2022-02",
+      "views": 10709
+    },
+    {
+      "period": "2022-03",
+      "views": 12719
+    },
+    {
+      "period": "2022-04",
+      "views": 19032
+    },
+    {
+      "period": "2022-05",
+      "views": 70653
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1304566
+    },
+    {
+      "period": "2022",
+      "views": 148228
     }
   ]
 }

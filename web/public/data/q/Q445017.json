@@ -4,8 +4,24 @@
   "title": "Ke_Huy_Quan",
   "description": "American actor and stunt choreographer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ke_Huy_Quan_at_the_White_House_%2852902390767%29_%28cropped%29.jpg?width=64",
-  "total": 5287346,
+  "total": 5519447,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 31836
+    },
+    {
+      "period": "2022-05",
+      "views": 95972
+    },
+    {
+      "period": "2022-09",
+      "views": 92444
+    },
+    {
+      "period": "2022-12",
+      "views": 11849
+    },
     {
       "period": "2023-01",
       "views": 1172176
@@ -84,6 +100,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 232101
+    },
     {
       "period": "2023",
       "views": 4701908

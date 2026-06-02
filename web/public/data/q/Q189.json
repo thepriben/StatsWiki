@@ -4,7 +4,7 @@
   "title": "Iceland",
   "description": "Nordic island country in the North Atlantic Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cloud-free_Iceland_ESA22181280_%28cropped%29.jpeg?width=64",
-  "total": 2107722,
+  "total": 2214675,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,30 @@
     {
       "period": "2015-12",
       "views": 178098
+    },
+    {
+      "period": "2022-03",
+      "views": 10095
+    },
+    {
+      "period": "2022-05",
+      "views": 10983
+    },
+    {
+      "period": "2022-06",
+      "views": 25594
+    },
+    {
+      "period": "2022-07",
+      "views": 18795
+    },
+    {
+      "period": "2022-08",
+      "views": 26226
+    },
+    {
+      "period": "2022-10",
+      "views": 15260
     },
     {
       "period": "2023-06",
@@ -99,6 +123,10 @@
     {
       "period": "2015",
       "views": 1333262
+    },
+    {
+      "period": "2022",
+      "views": 106953
     },
     {
       "period": "2023",

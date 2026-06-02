@@ -4,8 +4,12 @@
   "title": "YouTube_Kids",
   "description": "family friendly website",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_Kids_logo.svg?width=64",
-  "total": 6104790,
+  "total": 6436489,
   "monthly": [
+    {
+      "period": "2022-12",
+      "views": 331699
+    },
     {
       "period": "2023-01",
       "views": 678664
@@ -76,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 331699
+    },
     {
       "period": "2023",
       "views": 4686561

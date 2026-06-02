@@ -4,8 +4,24 @@
   "title": "Africa_Cup_of_Nations",
   "description": "African association football tournament for men's national teams",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Confederation_of_African_Football_member_associations_map.svg?width=64",
-  "total": 5067061,
+  "total": 6504919,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 899620
+    },
+    {
+      "period": "2022-02",
+      "views": 458118
+    },
+    {
+      "period": "2022-11",
+      "views": 25786
+    },
+    {
+      "period": "2022-12",
+      "views": 54334
+    },
     {
       "period": "2024-01",
       "views": 2494848
@@ -28,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 1437858
+    },
     {
       "period": "2024",
       "views": 3580859

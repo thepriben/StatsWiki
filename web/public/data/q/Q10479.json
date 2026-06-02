@@ -4,8 +4,24 @@
   "title": "Catherine,_Princess_of_Wales",
   "description": "member of the British Royal Family and princess of Wales since 2022",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_of_Wales_in_2023_%28cropped%2903.JPG?width=64",
-  "total": 5642370,
+  "total": 7434563,
   "monthly": [
+    {
+      "period": "2022-09",
+      "views": 1484621
+    },
+    {
+      "period": "2022-10",
+      "views": 71558
+    },
+    {
+      "period": "2022-11",
+      "views": 11925
+    },
+    {
+      "period": "2022-12",
+      "views": 224089
+    },
     {
       "period": "2023-01",
       "views": 147493
@@ -88,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 1792193
+    },
     {
       "period": "2023",
       "views": 1446641

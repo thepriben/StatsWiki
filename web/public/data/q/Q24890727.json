@@ -4,8 +4,56 @@
   "title": "Raindrop_cake",
   "description": "gelatinous dessert",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raindrop_Cake_%2828130238005%29.jpg?width=64",
-  "total": 18105865,
+  "total": 24548962,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 432066
+    },
+    {
+      "period": "2022-02",
+      "views": 488494
+    },
+    {
+      "period": "2022-03",
+      "views": 575652
+    },
+    {
+      "period": "2022-04",
+      "views": 438076
+    },
+    {
+      "period": "2022-05",
+      "views": 477405
+    },
+    {
+      "period": "2022-06",
+      "views": 549688
+    },
+    {
+      "period": "2022-07",
+      "views": 622661
+    },
+    {
+      "period": "2022-08",
+      "views": 665466
+    },
+    {
+      "period": "2022-09",
+      "views": 689855
+    },
+    {
+      "period": "2022-10",
+      "views": 577905
+    },
+    {
+      "period": "2022-11",
+      "views": 389738
+    },
+    {
+      "period": "2022-12",
+      "views": 536091
+    },
     {
       "period": "2023-01",
       "views": 386828
@@ -120,6 +168,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 6443097
+    },
     {
       "period": "2023",
       "views": 8158468

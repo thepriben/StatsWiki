@@ -4,7 +4,7 @@
   "title": "Tyson_Fury",
   "description": "British boxer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyson_Fury_at_Place_Bell%2C_Laval_Quebec%2C_Canada_-_Dec_16_2017_%28cropped%29.jpg?width=64",
-  "total": 10946958,
+  "total": 13505295,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,54 @@
     {
       "period": "2015-12",
       "views": 584932
+    },
+    {
+      "period": "2022-01",
+      "views": 34265
+    },
+    {
+      "period": "2022-02",
+      "views": 40372
+    },
+    {
+      "period": "2022-03",
+      "views": 54561
+    },
+    {
+      "period": "2022-04",
+      "views": 1111543
+    },
+    {
+      "period": "2022-05",
+      "views": 123628
+    },
+    {
+      "period": "2022-06",
+      "views": 31579
+    },
+    {
+      "period": "2022-07",
+      "views": 11179
+    },
+    {
+      "period": "2022-08",
+      "views": 377337
+    },
+    {
+      "period": "2022-09",
+      "views": 210018
+    },
+    {
+      "period": "2022-10",
+      "views": 144353
+    },
+    {
+      "period": "2022-11",
+      "views": 70202
+    },
+    {
+      "period": "2022-12",
+      "views": 349300
     },
     {
       "period": "2023-01",
@@ -147,6 +195,10 @@
     {
       "period": "2015",
       "views": 2163389
+    },
+    {
+      "period": "2022",
+      "views": 2558337
     },
     {
       "period": "2023",

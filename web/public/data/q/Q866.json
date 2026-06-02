@@ -4,7 +4,7 @@
   "title": "Youtube",
   "description": "American video-sharing platform owned by Alphabet Inc.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64",
-  "total": 125496195,
+  "total": 159791423,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 964527
+    },
+    {
+      "period": "2022-01",
+      "views": 2441125
+    },
+    {
+      "period": "2022-02",
+      "views": 2138144
+    },
+    {
+      "period": "2022-03",
+      "views": 2704874
+    },
+    {
+      "period": "2022-04",
+      "views": 2434258
+    },
+    {
+      "period": "2022-05",
+      "views": 2555383
+    },
+    {
+      "period": "2022-06",
+      "views": 2877621
+    },
+    {
+      "period": "2022-07",
+      "views": 3519435
+    },
+    {
+      "period": "2022-08",
+      "views": 3184291
+    },
+    {
+      "period": "2022-09",
+      "views": 3018408
+    },
+    {
+      "period": "2022-10",
+      "views": 3333774
+    },
+    {
+      "period": "2022-11",
+      "views": 3683800
+    },
+    {
+      "period": "2022-12",
+      "views": 2404115
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 5399562
+    },
+    {
+      "period": "2022",
+      "views": 34295228
     },
     {
       "period": "2023",

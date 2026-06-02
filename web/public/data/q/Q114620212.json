@@ -4,8 +4,20 @@
   "title": "Pathaan_(film)",
   "description": "2023 Indian film by Siddharth Anand",
   "image": "",
-  "total": 19029008,
+  "total": 19848809,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 35286
+    },
+    {
+      "period": "2022-11",
+      "views": 196204
+    },
+    {
+      "period": "2022-12",
+      "views": 588311
+    },
     {
       "period": "2023-01",
       "views": 6923099
@@ -68,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 819801
+    },
     {
       "period": "2023",
       "views": 18888303

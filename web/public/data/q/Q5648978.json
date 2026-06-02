@@ -4,8 +4,32 @@
   "title": "Hannah_Waddingham",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannah_Waddingham_on_March_20%2C_2023_in_the_Oval_Office_of_the_White_House_-_P20230320AS-2571_%28cropped%29.jpg?width=64",
-  "total": 7709051,
+  "total": 8048914,
   "monthly": [
+    {
+      "period": "2022-02",
+      "views": 18416
+    },
+    {
+      "period": "2022-03",
+      "views": 13891
+    },
+    {
+      "period": "2022-07",
+      "views": 13630
+    },
+    {
+      "period": "2022-09",
+      "views": 48434
+    },
+    {
+      "period": "2022-10",
+      "views": 204755
+    },
+    {
+      "period": "2022-11",
+      "views": 40737
+    },
     {
       "period": "2023-02",
       "views": 75824
@@ -132,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 339863
+    },
     {
       "period": "2023",
       "views": 5158771

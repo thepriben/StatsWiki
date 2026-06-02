@@ -4,8 +4,56 @@
   "title": "XXX_(film_series)",
   "description": "film series by Rich Wilkes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64",
-  "total": 56960252,
+  "total": 70615297,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 1465729
+    },
+    {
+      "period": "2022-02",
+      "views": 877882
+    },
+    {
+      "period": "2022-03",
+      "views": 983108
+    },
+    {
+      "period": "2022-04",
+      "views": 1216348
+    },
+    {
+      "period": "2022-05",
+      "views": 1059294
+    },
+    {
+      "period": "2022-06",
+      "views": 864595
+    },
+    {
+      "period": "2022-07",
+      "views": 1272600
+    },
+    {
+      "period": "2022-08",
+      "views": 1500306
+    },
+    {
+      "period": "2022-09",
+      "views": 1208966
+    },
+    {
+      "period": "2022-10",
+      "views": 1577946
+    },
+    {
+      "period": "2022-11",
+      "views": 935038
+    },
+    {
+      "period": "2022-12",
+      "views": 693233
+    },
     {
       "period": "2023-01",
       "views": 1087096
@@ -172,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 13655045
+    },
     {
       "period": "2023",
       "views": 25125155

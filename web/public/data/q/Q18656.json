@@ -4,7 +4,7 @@
   "title": "Manchester_United_F.C.",
   "description": "association football club in Manchester, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?width=64",
-  "total": 23071310,
+  "total": 29950659,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 295892
+    },
+    {
+      "period": "2022-01",
+      "views": 426999
+    },
+    {
+      "period": "2022-02",
+      "views": 423374
+    },
+    {
+      "period": "2022-03",
+      "views": 358207
+    },
+    {
+      "period": "2022-04",
+      "views": 526658
+    },
+    {
+      "period": "2022-05",
+      "views": 629982
+    },
+    {
+      "period": "2022-06",
+      "views": 375705
+    },
+    {
+      "period": "2022-07",
+      "views": 678006
+    },
+    {
+      "period": "2022-08",
+      "views": 1140887
+    },
+    {
+      "period": "2022-09",
+      "views": 710528
+    },
+    {
+      "period": "2022-10",
+      "views": 540622
+    },
+    {
+      "period": "2022-11",
+      "views": 594034
+    },
+    {
+      "period": "2022-12",
+      "views": 474347
     },
     {
       "period": "2023-01",
@@ -199,6 +247,10 @@
     {
       "period": "2015",
       "views": 2795434
+    },
+    {
+      "period": "2022",
+      "views": 6879349
     },
     {
       "period": "2023",

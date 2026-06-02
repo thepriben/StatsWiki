@@ -4,11 +4,35 @@
   "title": "The_Last_of_Us",
   "description": "video game series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_of_Us_logo.svg?width=64",
-  "total": 8850312,
+  "total": 9311512,
   "monthly": [
     {
       "period": "2015-07",
       "views": 9320
+    },
+    {
+      "period": "2022-06",
+      "views": 58064
+    },
+    {
+      "period": "2022-08",
+      "views": 56871
+    },
+    {
+      "period": "2022-09",
+      "views": 144527
+    },
+    {
+      "period": "2022-10",
+      "views": 14982
+    },
+    {
+      "period": "2022-11",
+      "views": 20560
+    },
+    {
+      "period": "2022-12",
+      "views": 166196
     },
     {
       "period": "2023-01",
@@ -55,6 +79,10 @@
     {
       "period": "2015",
       "views": 9320
+    },
+    {
+      "period": "2022",
+      "views": 461200
     },
     {
       "period": "2023",

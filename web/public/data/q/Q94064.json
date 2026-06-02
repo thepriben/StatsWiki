@@ -4,8 +4,16 @@
   "title": "Johnny_Gaudreau",
   "description": "American ice hockey player (1993–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny_Gaudreau.jpg?width=64",
-  "total": 5072834,
+  "total": 5186411,
   "monthly": [
+    {
+      "period": "2022-05",
+      "views": 16886
+    },
+    {
+      "period": "2022-07",
+      "views": 96691
+    },
     {
       "period": "2024-08",
       "views": 1063894
@@ -56,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 113577
+    },
     {
       "period": "2024",
       "views": 1730770

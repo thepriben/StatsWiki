@@ -4,8 +4,20 @@
   "title": "UEFA_Euro_2024_qualifying",
   "description": "international football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Euro_2024_Qualifiers.jpg?width=64",
-  "total": 5189482,
+  "total": 5583225,
   "monthly": [
+    {
+      "period": "2022-09",
+      "views": 113237
+    },
+    {
+      "period": "2022-10",
+      "views": 168688
+    },
+    {
+      "period": "2022-12",
+      "views": 111818
+    },
     {
       "period": "2023-03",
       "views": 687448
@@ -44,6 +56,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 393743
+    },
     {
       "period": "2023",
       "views": 4242217

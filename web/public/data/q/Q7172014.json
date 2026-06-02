@@ -4,8 +4,16 @@
   "title": "Pete_Hegseth",
   "description": "United States Secretary of Defense",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pete_Hegseth_Official_Portrait.jpg?width=64",
-  "total": 18434633,
+  "total": 18475272,
   "monthly": [
+    {
+      "period": "2022-06",
+      "views": 30127
+    },
+    {
+      "period": "2022-08",
+      "views": 10512
+    },
     {
       "period": "2023-04",
       "views": 11359
@@ -96,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 40639
+    },
     {
       "period": "2023",
       "views": 11359

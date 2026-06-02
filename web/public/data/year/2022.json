@@ -1,0 +1,505 @@
+{
+  "period": "2022",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 48620444,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Jeffrey_Dahmer",
+      "label": "Jeffrey Dahmer",
+      "description": "American serial killer (1960–1994)",
+      "views": 44581733,
+      "qid": "Q298364",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JeffreyDahmer1978.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "2022_Russian_invasion_of_Ukraine",
+      "label": "2022 Russian invasion of Ukraine",
+      "description": "2022 military campaign",
+      "views": 44320321,
+      "qid": "Q136556880",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "2022_FIFA_World_Cup",
+      "label": "2022 FIFA World Cup",
+      "description": "22nd FIFA World Cup",
+      "views": 41768329,
+      "qid": "Q284163",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_FIFA_World_Cup_Qatar_%28Wordmark%29.svg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Deaths_in_2022",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 40548932,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 39355408,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 34295228,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 8,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 24726518,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "Vladimir_Putin",
+      "label": "Vladimir Putin",
+      "description": "2nd and 4th President of Russia (2000-2008, 2012-present), 7th and 11th Prime Minister of Russia (1999-2000, 2008-2012), Director of the Federal Security Service (1998-1999) and Deputy Mayor of Saint Petersburg (1994-1996)",
+      "views": 22689444,
+      "qid": "Q7747",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vladimir_Putin_official_photo_08.jpg?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Ukraine",
+      "label": "Ukraine",
+      "description": "country in Eastern Europe",
+      "views": 20906660,
+      "qid": "Q212",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maidan_Nezalezhnosti_view.jpg?width=64"
+    },
+    {
+      "rank": 11,
+      "title": "Charles_III",
+      "label": "Charles III",
+      "description": "King of the United Kingdom since 2022 (born 1948)",
+      "views": 20893660,
+      "qid": "Q43274",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 20472685,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 13,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 19919688,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "Skathi_(moon)",
+      "label": "Skathi",
+      "description": "moon of Saturn",
+      "views": 19816621,
+      "qid": "Q17982",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skathi-discovery-CFHT.gif?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Lionel_Messi",
+      "label": "Lionel Messi",
+      "description": "Argentine association football player (born 1987)",
+      "views": 19018336,
+      "qid": "Q615",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Johnny_Depp",
+      "label": "Johnny Depp",
+      "description": "American actor (born 1963)",
+      "views": 17611774,
+      "qid": "Q37175",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny_Depp_2020.jpg?width=64"
+    },
+    {
+      "rank": 17,
+      "title": "FIFA_World_Cup",
+      "label": "FIFA World Cup",
+      "description": "international association football competition contested by the senior men's national teams",
+      "views": 17050268,
+      "qid": "Q19317",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_World_Cup_Trophy_at_National_Football_Museum%2C_Manchester_02.jpg?width=64"
+    },
+    {
+      "rank": 18,
+      "title": "Amber_Heard",
+      "label": "Amber Heard",
+      "description": "American actress",
+      "views": 17009361,
+      "qid": "Q229166",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Heard_%2843723454772%29.jpg?width=64"
+    },
+    {
+      "rank": 19,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 16927031,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 16217911,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "CEO",
+      "label": "chief executive officer",
+      "description": "highest-ranking corporate officer",
+      "views": 15798323,
+      "qid": "Q484876",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Fortune_500_CEOs_in_2015_%28cropped_to_remove_non-CEO%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Russo-Ukrainian_War",
+      "label": "Russo-Ukrainian War",
+      "description": "armed conflict between Russia and Ukraine since 2014",
+      "views": 15676299,
+      "qid": "Q15860072",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_Russian_invasion_of_Ukraine.svg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "XXX:_Return_of_Xander_Cage",
+      "label": "xXx Return of Xander Cage",
+      "description": "2017 film directed by D. J. Caruso",
+      "views": 15496523,
+      "qid": "Q22075020",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXx_REACTIVADO_Conferencia_de_Prensa.jpg?width=64"
+    },
+    {
+      "rank": 24,
+      "title": "United_States",
+      "label": "United States",
+      "description": "country located primarily in North America",
+      "views": 15263551,
+      "qid": "Q30",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_-_Location_Map_%282013%29_-_USA_-_UNOCHA.svg?width=64"
+    },
+    {
+      "rank": 25,
+      "title": "Andrew_Tate",
+      "label": "Andrew Tate",
+      "description": "American-British businessman, former kickboxer, dating coach and manosphere influencer",
+      "views": 15193225,
+      "qid": "Q18637166",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Tate_2021_on_James_English_Uploaded_By_James_Tamim_%28cropped%29.png?width=64"
+    },
+    {
+      "rank": 26,
+      "title": "Top_Gun:_Maverick",
+      "label": "Top Gun: Maverick",
+      "description": "2022 film directed by Joseph Kosinski",
+      "views": 15192089,
+      "qid": "Q31202708",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Top_Gun_-_Maverick_logo.svg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Ansel_Adams",
+      "label": "Ansel Adams",
+      "description": "American photographer and environmentalist (1902–1984)",
+      "views": 14840578,
+      "qid": "Q60809",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ansel_Adams_and_camera.jpg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "Elvis_Presley",
+      "label": "Elvis Presley",
+      "description": "American singer and actor (1935–1977)",
+      "views": 14679588,
+      "qid": "Q303",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elvis_Presley_1973_RCA_Records_and_Tapes_publicity_2_-_cropped.png?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "House_of_the_Dragon",
+      "label": "House of the Dragon",
+      "description": "American fantasy drama television series",
+      "views": 14387823,
+      "qid": "Q72930269",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/House_of_the_dragon_logo.png?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Google",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "views": 14356456,
+      "qid": "Q95",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Rishi_Sunak",
+      "label": "Rishi Sunak",
+      "description": "Former Prime Minister of the United Kingdom from 2022 to 2024 and Leader of the Conservative Party (2022–2024)",
+      "views": 14136873,
+      "qid": "Q20055561",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "K.G.F:_Chapter_2",
+      "label": "K.G.F: Chapter 2",
+      "description": "2022 Indian Kannada film by Prashanth Neel",
+      "views": 13984950,
+      "qid": "Q67200663",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Doctor_Strange_in_the_Multiverse_of_Madness",
+      "label": "Doctor Strange in the Multiverse of Madness",
+      "description": "2022 film directed by Sam Raimi",
+      "views": 13921202,
+      "qid": "Q64211112",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Multiverse_Of_Madness_Logo.svg?width=64"
+    },
+    {
+      "rank": 34,
+      "title": "The_Batman_(film)",
+      "label": "The Batman",
+      "description": "2022 superhero film by Matt Reeves",
+      "views": 13892683,
+      "qid": "Q61117344",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Batman_2022_film_logo.png?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "RRR_(film)",
+      "label": "RRR",
+      "description": "2022 film directed by S. S. Rajamouli",
+      "views": 13773789,
+      "qid": "Q60424165",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "XXX_(film_series)",
+      "label": "xXx",
+      "description": "film series by Rich Wilkes",
+      "views": 13655045,
+      "qid": "Q25136249",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Anna_Sorokin",
+      "label": "Anna Sorokin",
+      "description": "Russian-born German fraudster (born 1991)",
+      "views": 13549883,
+      "qid": "Q55080956",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AnnaDelvey-byPhilipRomano.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "India",
+      "label": "India",
+      "description": "country in South Asia",
+      "views": 12824396,
+      "qid": "Q668",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India-locator-map-blank.svg?width=64"
+    },
+    {
+      "rank": 39,
+      "title": "Thor:_Love_and_Thunder",
+      "label": "Thor: Love and Thunder",
+      "description": "2022 film directed by Taika Waititi",
+      "views": 12562779,
+      "qid": "Q65768604",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ThorLoveandThunder.png?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "George_VI",
+      "label": "George VI",
+      "description": "King of the United Kingdom from 1936 to 1952",
+      "views": 12257472,
+      "qid": "Q280856",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 41,
+      "title": "Facebook",
+      "label": "Facebook",
+      "description": "American online social media and social networking service",
+      "views": 11997250,
+      "qid": "Q355",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Facebook_%282%29.PNG?width=64"
+    },
+    {
+      "rank": 42,
+      "title": "Instagram",
+      "label": "Instagram",
+      "description": "photo and video sharing social network owned by Meta Platforms",
+      "views": 11982581,
+      "qid": "Q209330",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Instagram_screenshot.png?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Stranger_Things",
+      "label": "Stranger Things",
+      "description": "American science fiction horror television series",
+      "views": 11946607,
+      "qid": "Q19798734",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stranger_Things_logo.svg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Marilyn_Monroe",
+      "label": "Marilyn Monroe",
+      "description": "American actress and model (1926–1962)",
+      "views": 11819543,
+      "qid": "Q4616",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marilyn_Monroe_in_How_to_Marry_a_Millionaire.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Avatar:_The_Way_of_Water",
+      "label": "Avatar: The Way of Water",
+      "description": "2022 film by James Cameron",
+      "views": 11630092,
+      "qid": "Q3604746",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Estrena_en_catal%C3%A0_d%27Avatar_El_sentit_de_l%27aigua_3.jpg?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Diana,_Princess_of_Wales",
+      "label": "Diana, Princess of Wales",
+      "description": "member of the British royal family and Princess of Wales (1961–1997)",
+      "views": 11593505,
+      "qid": "Q9685",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Stranger_Things_(season_4)",
+      "label": "Stranger Things, season 4",
+      "description": "fourth season of Netflix series Stranger Things",
+      "views": 11504706,
+      "qid": "Q85847363",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "XXXX_(beer)",
+      "label": "XXXX",
+      "description": "XxxAustralian beer brand",
+      "views": 11498348,
+      "qid": "Q924355",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Castlemaine_Perkins_Brewery.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Volodymyr_Zelenskyy",
+      "label": "Volodymyr Zelenskyy",
+      "description": "President of Ukraine since 2019",
+      "views": 11389464,
+      "qid": "Q3874799",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 50,
+      "title": "Tom_Cruise",
+      "label": "Tom Cruise",
+      "description": "American actor and producer (born 1962)",
+      "views": 11246982,
+      "qid": "Q37079",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?width=64"
+    }
+  ],
+  "nav": [
+    {
+      "label": "January",
+      "path": "2022/01"
+    },
+    {
+      "label": "February",
+      "path": "2022/02"
+    },
+    {
+      "label": "March",
+      "path": "2022/03"
+    },
+    {
+      "label": "April",
+      "path": "2022/04"
+    },
+    {
+      "label": "May",
+      "path": "2022/05"
+    },
+    {
+      "label": "June",
+      "path": "2022/06"
+    },
+    {
+      "label": "July",
+      "path": "2022/07"
+    },
+    {
+      "label": "August",
+      "path": "2022/08"
+    },
+    {
+      "label": "September",
+      "path": "2022/09"
+    },
+    {
+      "label": "October",
+      "path": "2022/10"
+    },
+    {
+      "label": "November",
+      "path": "2022/11"
+    },
+    {
+      "label": "December",
+      "path": "2022/12"
+    }
+  ]
+}

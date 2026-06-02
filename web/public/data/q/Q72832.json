@@ -4,8 +4,12 @@
   "title": "Cassie_Ventura",
   "description": "American singer, dancer, actress, and model (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cassie_Ventura.jpg?width=64",
-  "total": 6759983,
+  "total": 6776637,
   "monthly": [
+    {
+      "period": "2022-06",
+      "views": 16654
+    },
     {
       "period": "2023-09",
       "views": 10342
@@ -68,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 16654
+    },
     {
       "period": "2023",
       "views": 698950

@@ -4,8 +4,32 @@
   "title": "Zoe_Saldaña",
   "description": "American actress, dancer, and model (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?width=64",
-  "total": 9730672,
+  "total": 12009337,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 309109
+    },
+    {
+      "period": "2022-04",
+      "views": 10483
+    },
+    {
+      "period": "2022-05",
+      "views": 13475
+    },
+    {
+      "period": "2022-10",
+      "views": 356430
+    },
+    {
+      "period": "2022-11",
+      "views": 593249
+    },
+    {
+      "period": "2022-12",
+      "views": 995919
+    },
     {
       "period": "2023-01",
       "views": 730872
@@ -140,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 2278665
+    },
     {
       "period": "2023",
       "views": 3282627

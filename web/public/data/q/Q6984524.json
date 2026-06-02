@@ -4,8 +4,28 @@
   "title": "Neatsville,_Kentucky",
   "description": "township in Adair County, Kentucky",
   "image": "",
-  "total": 33223261,
+  "total": 33480537,
   "monthly": [
+    {
+      "period": "2022-04",
+      "views": 18655
+    },
+    {
+      "period": "2022-07",
+      "views": 51689
+    },
+    {
+      "period": "2022-08",
+      "views": 164598
+    },
+    {
+      "period": "2022-09",
+      "views": 11403
+    },
+    {
+      "period": "2022-10",
+      "views": 10931
+    },
     {
       "period": "2023-01",
       "views": 163513
@@ -160,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 257276
+    },
     {
       "period": "2023",
       "views": 4061030

@@ -4,7 +4,7 @@
   "title": "Star_Wars_(film)",
   "description": "1977 film directed by George Lucas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_Logo.svg?width=64",
-  "total": 3350872,
+  "total": 3588039,
   "monthly": [
     {
       "period": "2015-07",
@@ -21,6 +21,14 @@
     {
       "period": "2015-12",
       "views": 2220096
+    },
+    {
+      "period": "2022-05",
+      "views": 116443
+    },
+    {
+      "period": "2022-06",
+      "views": 120724
     },
     {
       "period": "2023-04",
@@ -51,6 +59,10 @@
     {
       "period": "2015",
       "views": 2950549
+    },
+    {
+      "period": "2022",
+      "views": 237167
     },
     {
       "period": "2023",

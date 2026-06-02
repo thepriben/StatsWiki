@@ -4,8 +4,16 @@
   "title": "Luke_Thompson_(actor)",
   "description": "English actor",
   "image": "",
-  "total": 1885820,
+  "total": 2126799,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 139099
+    },
+    {
+      "period": "2022-04",
+      "views": 101880
+    },
     {
       "period": "2024-05",
       "views": 195451
@@ -28,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 240979
+    },
     {
       "period": "2024",
       "views": 440029

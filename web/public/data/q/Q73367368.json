@@ -4,8 +4,24 @@
   "title": "Paul_Mescal",
   "description": "Irish actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Mescal_at_the_Toronto_International_Film_Festival_in_2025_2_%28cropped_2%29.jpg?width=64",
-  "total": 5999704,
+  "total": 6141585,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 31236
+    },
+    {
+      "period": "2022-05",
+      "views": 13245
+    },
+    {
+      "period": "2022-10",
+      "views": 11675
+    },
+    {
+      "period": "2022-11",
+      "views": 85725
+    },
     {
       "period": "2023-01",
       "views": 351211
@@ -144,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 141881
+    },
     {
       "period": "2023",
       "views": 947830

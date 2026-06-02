@@ -4,8 +4,24 @@
   "title": "The_Flash_(film)",
   "description": "2023 film directed by Andy Muschietti",
   "image": "",
-  "total": 8463258,
+  "total": 8748868,
   "monthly": [
+    {
+      "period": "2022-03",
+      "views": 77215
+    },
+    {
+      "period": "2022-04",
+      "views": 28354
+    },
+    {
+      "period": "2022-06",
+      "views": 85575
+    },
+    {
+      "period": "2022-08",
+      "views": 94466
+    },
     {
       "period": "2023-01",
       "views": 10642
@@ -68,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 285610
+    },
     {
       "period": "2023",
       "views": 8294831

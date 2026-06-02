@@ -4,8 +4,16 @@
   "title": "2024_ICC_Men's_T20_World_Cup",
   "description": "9th edition of Men's T20 World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deputy_Secretary_Verma_Hosts_Cricket_Event_%2853788984088%29.jpg?width=64",
-  "total": 12592611,
+  "total": 13061427,
   "monthly": [
+    {
+      "period": "2022-10",
+      "views": 22608
+    },
+    {
+      "period": "2022-11",
+      "views": 446208
+    },
     {
       "period": "2023-07",
       "views": 98220
@@ -60,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 468816
+    },
     {
       "period": "2023",
       "views": 5263357

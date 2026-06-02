@@ -4,8 +4,48 @@
   "title": "Mia_Goth",
   "description": "British actress (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mia_Goth_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg?width=64",
-  "total": 6930292,
+  "total": 9180480,
   "monthly": [
+    {
+      "period": "2022-01",
+      "views": 11949
+    },
+    {
+      "period": "2022-02",
+      "views": 60576
+    },
+    {
+      "period": "2022-03",
+      "views": 106168
+    },
+    {
+      "period": "2022-04",
+      "views": 113852
+    },
+    {
+      "period": "2022-07",
+      "views": 74417
+    },
+    {
+      "period": "2022-08",
+      "views": 135350
+    },
+    {
+      "period": "2022-09",
+      "views": 699619
+    },
+    {
+      "period": "2022-10",
+      "views": 414258
+    },
+    {
+      "period": "2022-11",
+      "views": 384734
+    },
+    {
+      "period": "2022-12",
+      "views": 249265
+    },
     {
       "period": "2023-01",
       "views": 492056
@@ -132,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2022",
+      "views": 2250188
+    },
     {
       "period": "2023",
       "views": 1861983
