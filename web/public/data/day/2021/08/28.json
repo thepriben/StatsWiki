@@ -1,0 +1,455 @@
+{
+  "period": "28 August 2021",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Cristiano_Ronaldo",
+      "label": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "views": 581929,
+      "qid": "Q11571",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Cristiano_Ronaldo_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Sirhan_Sirhan",
+      "label": "Sirhan Sirhan",
+      "description": "",
+      "views": 233201,
+      "qid": "Q_en_Sirhan_Sirhan",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Candyman_(2021_film)",
+      "label": "Candyman (2021 film)",
+      "description": "",
+      "views": 169910,
+      "qid": "Q_en_Candyman_(2021_film)",
+      "image": ""
+    },
+    {
+      "rank": 4,
+      "title": "Manchester_United_F.C.",
+      "label": "Manchester United F.C.",
+      "description": "association football club in Manchester, England",
+      "views": 159569,
+      "qid": "Q18656",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 146474,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 140651,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "He's_All_That",
+      "label": "He's All That",
+      "description": "",
+      "views": 140010,
+      "qid": "Q_en_He's_All_That",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Hurricane_Katrina",
+      "label": "Hurricane Katrina",
+      "description": "",
+      "views": 134298,
+      "qid": "Q_en_Hurricane_Katrina",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Michael_Parkinson",
+      "label": "Michael Parkinson",
+      "description": "",
+      "views": 122471,
+      "qid": "Q_en_Michael_Parkinson",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "Babur",
+      "label": "Babur",
+      "description": "",
+      "views": 118104,
+      "qid": "Q_en_Babur",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Robert_F._Kennedy",
+      "label": "Robert F. Kennedy",
+      "description": "American politician and lawyer (1925–1968)",
+      "views": 115340,
+      "qid": "Q25310",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_F._Kennedy.jpg?width=64"
+    },
+    {
+      "rank": 12,
+      "title": "Deaths_in_2021",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 110891,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Addison_Rae",
+      "label": "Addison Rae",
+      "description": "",
+      "views": 104072,
+      "qid": "Q_en_Addison_Rae",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Afghanistan",
+      "label": "Afghanistan",
+      "description": "country in Central and South Asia",
+      "views": 103991,
+      "qid": "Q889",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Afghan-big.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "Bob_Ross",
+      "label": "Bob Ross",
+      "description": "American painter, art instructor, television host, and Air Force master sergeant (1942–1995)",
+      "views": 94168,
+      "qid": "Q455511",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Ross_Alaska_Painting.jpg?width=64"
+    },
+    {
+      "rank": 16,
+      "title": "Cruella_(film)",
+      "label": "Cruella (film)",
+      "description": "",
+      "views": 92113,
+      "qid": "Q_en_Cruella_(film)",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Tyron_Woodley",
+      "label": "Tyron Woodley",
+      "description": "",
+      "views": 89710,
+      "qid": "Q_en_Tyron_Woodley",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Tanner_Buchanan",
+      "label": "Tanner Buchanan",
+      "description": "",
+      "views": 88065,
+      "qid": "Q_en_Tanner_Buchanan",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 83598,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Taliban",
+      "label": "Taliban",
+      "description": "Afghan islamist organization",
+      "views": 82042,
+      "qid": "Q42418",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taliban_insurgents_turn_themselves_in_to_Afghan_National_Security_Forces_at_a_forward_operating_base_in_Puza-i-Eshan_-a.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Spider-Man:_No_Way_Home",
+      "label": "Spider-Man: No Way Home",
+      "description": "2021 film directed by Jon Watts",
+      "views": 77961,
+      "qid": "Q68934496",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider_Man_No_Way_Home_Logo.svg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Candyman_(1992_film)",
+      "label": "Candyman (1992 film)",
+      "description": "",
+      "views": 77471,
+      "qid": "Q_en_Candyman_(1992_film)",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "Aretha_Franklin",
+      "label": "Aretha Franklin",
+      "description": "",
+      "views": 70521,
+      "qid": "Q_en_Aretha_Franklin",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Grand_Upright_Music,_Ltd._v._Warner_Bros._Records_Inc.",
+      "label": "Grand Upright Music, Ltd. v. Warner Bros. Records Inc.",
+      "description": "",
+      "views": 69236,
+      "qid": "Q_en_Grand_Upright_Music,_Ltd._v._Warner_Bros._Records_Inc.",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "She's_All_That",
+      "label": "She's All That",
+      "description": "",
+      "views": 67404,
+      "qid": "Q_en_She's_All_That",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "The_Empire_(TV_series)",
+      "label": "The Empire (TV series)",
+      "description": "",
+      "views": 67274,
+      "qid": "Q_en_The_Empire_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Vikram_Batra",
+      "label": "Vikram Batra",
+      "description": "",
+      "views": 65996,
+      "qid": "Q_en_Vikram_Batra",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Premier_League",
+      "label": "Premier League",
+      "description": "English men's association top football league",
+      "views": 65559,
+      "qid": "Q9448",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_Kompany_holds_up_the_Premier_League_trophy_2012.jpg?width=64"
+    },
+    {
+      "rank": 29,
+      "title": "2021_Kabul_airport_attack",
+      "label": "2021 Kabul airport attack",
+      "description": "",
+      "views": 64983,
+      "qid": "Q_en_2021_Kabul_airport_attack",
+      "image": ""
+    },
+    {
+      "rank": 30,
+      "title": "Skathi_(moon)",
+      "label": "Skathi",
+      "description": "moon of Saturn",
+      "views": 63297,
+      "qid": "Q17982",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skathi-discovery-CFHT.gif?width=64"
+    },
+    {
+      "rank": 31,
+      "title": "Lionel_Messi",
+      "label": "Lionel Messi",
+      "description": "Argentine association football player (born 1987)",
+      "views": 61121,
+      "qid": "Q615",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 32,
+      "title": "Islamic_State_of_Iraq_and_the_Levant_–_Khorasan_Province",
+      "label": "Islamic State of Iraq and the Levant – Khorasan Province",
+      "description": "",
+      "views": 60597,
+      "qid": "Q_en_Islamic_State_of_Iraq_and_the_Levant_–_Khorasan_Province",
+      "image": ""
+    },
+    {
+      "rank": 33,
+      "title": "Clickbait_(miniseries)",
+      "label": "Clickbait (miniseries)",
+      "description": "",
+      "views": 58073,
+      "qid": "Q_en_Clickbait_(miniseries)",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Shang-Chi_and_the_Legend_of_the_Ten_Rings",
+      "label": "Shang-Chi and the Legend of the Ten Rings",
+      "description": "2021 film directed by Destin Daniel Cretton",
+      "views": 57631,
+      "qid": "Q65768589",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shang-chi_logo.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "American_Horror_Story:_Double_Feature",
+      "label": "American Horror Story: Double Feature",
+      "description": "",
+      "views": 56827,
+      "qid": "Q_en_American_Horror_Story:_Double_Feature",
+      "image": ""
+    },
+    {
+      "rank": 36,
+      "title": "XXX_(2002_film)",
+      "label": "xXx",
+      "description": "2002 film directed by Rob Cohen",
+      "views": 55766,
+      "qid": "Q283799",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Rachael_Leigh_Cook",
+      "label": "Rachael Leigh Cook",
+      "description": "",
+      "views": 55028,
+      "qid": "Q_en_Rachael_Leigh_Cook",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "The_Rolling_Stones",
+      "label": "The Rolling Stones",
+      "description": "",
+      "views": 55009,
+      "qid": "Q_en_The_Rolling_Stones",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Paralympic_Games",
+      "label": "Paralympic Games",
+      "description": "",
+      "views": 54986,
+      "qid": "Q_en_Paralympic_Games",
+      "image": ""
+    },
+    {
+      "rank": 40,
+      "title": "Charlie_Watts",
+      "label": "Charlie Watts",
+      "description": "",
+      "views": 54535,
+      "qid": "Q_en_Charlie_Watts",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Donda_(album)",
+      "label": "Donda (album)",
+      "description": "",
+      "views": 54519,
+      "qid": "Q_en_Donda_(album)",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "2020_Summer_Paralympics",
+      "label": "2020 Summer Paralympics",
+      "description": "",
+      "views": 53630,
+      "qid": "Q_en_2020_Summer_Paralympics",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Chadwick_Boseman",
+      "label": "Chadwick Boseman",
+      "description": "American actor (1976–2020)",
+      "views": 53484,
+      "qid": "Q5066520",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Eric_Clapton",
+      "label": "Eric Clapton",
+      "description": "",
+      "views": 53206,
+      "qid": "Q_en_Eric_Clapton",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "The_White_Lotus",
+      "label": "The White Lotus",
+      "description": "2021 American television series",
+      "views": 52362,
+      "qid": "Q106679014",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The-white-lotus-s2-1888x300.png?width=64"
+    },
+    {
+      "rank": 46,
+      "title": "Jake_Paul",
+      "label": "Jake Paul",
+      "description": "American YouTuber and boxer (born 1997)",
+      "views": 52325,
+      "qid": "Q25714026",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jake_Paul_%2853116882732%29.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Jason_Momoa",
+      "label": "Jason Momoa",
+      "description": "American actor (born 1979)",
+      "views": 50753,
+      "qid": "Q315271",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Ted_Lasso",
+      "label": "Ted Lasso",
+      "description": "American sports comedy-drama television series",
+      "views": 50548,
+      "qid": "Q96407897",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cast_of_Ted_Lasso_with_Jill_and_Joe_Biden_%282023%29.jpg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 50319,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Arsenal_F.C.",
+      "label": "Arsenal F.C.",
+      "description": "association football club in London, England",
+      "views": 50054,
+      "qid": "Q9617",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arsenal_dressing_room_Emirates_Stadium_2024-04-26.jpg?width=64"
+    }
+  ]
+}

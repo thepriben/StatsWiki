@@ -4,8 +4,28 @@
   "title": "Rishi_Sunak",
   "description": "Former Prime Minister of the United Kingdom from 2022 to 2024 and Leader of the Conservative Party (2022–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg?width=64",
-  "total": 24726030,
+  "total": 25071236,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 42265
+    },
+    {
+      "period": "2021-03",
+      "views": 158931
+    },
+    {
+      "period": "2021-06",
+      "views": 10563
+    },
+    {
+      "period": "2021-10",
+      "views": 109805
+    },
+    {
+      "period": "2021-12",
+      "views": 23642
+    },
     {
       "period": "2022-01",
       "views": 175904
@@ -160,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 345206
+    },
     {
       "period": "2022",
       "views": 14136873

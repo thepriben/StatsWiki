@@ -4,7 +4,7 @@
   "title": "The_Green_Inferno_(film)",
   "description": "2013 cannibal horror film by Eli Roth",
   "image": "",
-  "total": 822704,
+  "total": 836856,
   "monthly": [
     {
       "period": "2015-09",
@@ -17,12 +17,20 @@
     {
       "period": "2015-11",
       "views": 25017
+    },
+    {
+      "period": "2021-10",
+      "views": 14152
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 822704
+    },
+    {
+      "period": "2021",
+      "views": 14152
     }
   ]
 }

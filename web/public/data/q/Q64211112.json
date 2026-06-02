@@ -4,8 +4,56 @@
   "title": "Doctor_Strange_in_the_Multiverse_of_Madness",
   "description": "2022 film directed by Sam Raimi",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Multiverse_Of_Madness_Logo.svg?width=64",
-  "total": 13959890,
+  "total": 16564565,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 122103
+    },
+    {
+      "period": "2021-02",
+      "views": 423773
+    },
+    {
+      "period": "2021-03",
+      "views": 546213
+    },
+    {
+      "period": "2021-04",
+      "views": 77049
+    },
+    {
+      "period": "2021-05",
+      "views": 26768
+    },
+    {
+      "period": "2021-06",
+      "views": 60748
+    },
+    {
+      "period": "2021-07",
+      "views": 310768
+    },
+    {
+      "period": "2021-08",
+      "views": 149707
+    },
+    {
+      "period": "2021-09",
+      "views": 108330
+    },
+    {
+      "period": "2021-10",
+      "views": 21032
+    },
+    {
+      "period": "2021-11",
+      "views": 92283
+    },
+    {
+      "period": "2021-12",
+      "views": 665901
+    },
     {
       "period": "2022-01",
       "views": 488293
@@ -60,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2604675
+    },
     {
       "period": "2022",
       "views": 13921202

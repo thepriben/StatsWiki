@@ -4,8 +4,40 @@
   "title": "Lauren_Sánchez",
   "description": "American media personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lauren_Sanchez_adjusted.jpg?width=64",
-  "total": 6147385,
+  "total": 6795220,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 76348
+    },
+    {
+      "period": "2021-03",
+      "views": 62286
+    },
+    {
+      "period": "2021-05",
+      "views": 102237
+    },
+    {
+      "period": "2021-06",
+      "views": 50530
+    },
+    {
+      "period": "2021-07",
+      "views": 133473
+    },
+    {
+      "period": "2021-10",
+      "views": 41228
+    },
+    {
+      "period": "2021-11",
+      "views": 140533
+    },
+    {
+      "period": "2021-12",
+      "views": 41200
+    },
     {
       "period": "2022-01",
       "views": 57560
@@ -96,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 647835
+    },
     {
       "period": "2022",
       "views": 161589

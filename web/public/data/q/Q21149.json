@@ -4,7 +4,7 @@
   "title": "List_of_Running_Man_episodes",
   "description": "South Korean variety show",
   "image": "",
-  "total": 3749510,
+  "total": 3799894,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,32 @@
     {
       "period": "2015-12",
       "views": 676154
+    },
+    {
+      "period": "2021-01",
+      "views": 12511
+    },
+    {
+      "period": "2021-04",
+      "views": 12707
+    },
+    {
+      "period": "2021-06",
+      "views": 13684
+    },
+    {
+      "period": "2021-07",
+      "views": 11482
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 3749510
+    },
+    {
+      "period": "2021",
+      "views": 50384
     }
   ]
 }

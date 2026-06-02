@@ -1,0 +1,455 @@
+{
+  "period": "18 February 2021",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Rush_Limbaugh",
+      "label": "Rush Limbaugh",
+      "description": "",
+      "views": 862033,
+      "qid": "Q_en_Rush_Limbaugh",
+      "image": ""
+    },
+    {
+      "rank": 2,
+      "title": "Naomi_Osaka",
+      "label": "Naomi Osaka",
+      "description": "Japanese tennis player",
+      "views": 369661,
+      "qid": "Q17466583",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Osaka_2017_Wimbledon.jpg?width=64"
+    },
+    {
+      "rank": 3,
+      "title": "Ted_Cruz",
+      "label": "Ted Cruz",
+      "description": "American politician (born 1970)",
+      "views": 213642,
+      "qid": "Q2036942",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ted_Cruz_senatorial_portrait.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 158935,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 5,
+      "title": "Perseverance_(rover)",
+      "label": "Perseverance (rover)",
+      "description": "",
+      "views": 158525,
+      "qid": "Q_en_Perseverance_(rover)",
+      "image": ""
+    },
+    {
+      "rank": 6,
+      "title": "Serena_Williams",
+      "label": "Serena Williams",
+      "description": "American tennis player (1981)",
+      "views": 146417,
+      "qid": "Q11459",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Serena_Williams_at_2013_US_Open.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Death_of_Elisa_Lam",
+      "label": "Death of Elisa Lam",
+      "description": "",
+      "views": 145927,
+      "qid": "Q_en_Death_of_Elisa_Lam",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "Mortal_Kombat_(2021_film)",
+      "label": "Mortal Kombat (2021 film)",
+      "description": "",
+      "views": 140613,
+      "qid": "Q_en_Mortal_Kombat_(2021_film)",
+      "image": ""
+    },
+    {
+      "rank": 9,
+      "title": "Demi_Lovato",
+      "label": "Demi Lovato",
+      "description": "American singer, songwriter, and actress (born 1992)",
+      "views": 134309,
+      "qid": "Q41173",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Demi_Lovato_Interview_Feb_2020.png?width=64"
+    },
+    {
+      "rank": 10,
+      "title": "Deaths_in_2021",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 121840,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Cecil_Hotel_(Los_Angeles)",
+      "label": "Cecil Hotel (Los Angeles)",
+      "description": "",
+      "views": 117365,
+      "qid": "Q_en_Cecil_Hotel_(Los_Angeles)",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Mars_2020",
+      "label": "Mars 2020",
+      "description": "",
+      "views": 116205,
+      "qid": "Q_en_Mars_2020",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "WandaVision",
+      "label": "WandaVision",
+      "description": "2021 television miniseries",
+      "views": 110566,
+      "qid": "Q65980217",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WandaVision_wordmark_logo.svg?width=64"
+    },
+    {
+      "rank": 14,
+      "title": "List_of_deaths_and_violence_at_the_Cecil_Hotel",
+      "label": "List of deaths and violence at the Cecil Hotel",
+      "description": "",
+      "views": 96241,
+      "qid": "Q_en_List_of_deaths_and_violence_at_the_Cecil_Hotel",
+      "image": ""
+    },
+    {
+      "rank": 15,
+      "title": "Bob_Dole",
+      "label": "Bob Dole",
+      "description": "",
+      "views": 92975,
+      "qid": "Q_en_Bob_Dole",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Audre_Lorde",
+      "label": "Audre Lorde",
+      "description": "",
+      "views": 88844,
+      "qid": "Q_en_Audre_Lorde",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "Jennifer_Brady",
+      "label": "Jennifer Brady",
+      "description": "",
+      "views": 88197,
+      "qid": "Q_en_Jennifer_Brady",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Aslan_Karatsev",
+      "label": "Aslan Karatsev",
+      "description": "",
+      "views": 87137,
+      "qid": "Q_en_Aslan_Karatsev",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 82373,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 20,
+      "title": "Elizabeth_II",
+      "label": "Elizabeth II",
+      "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
+      "views": 79026,
+      "qid": "Q9682",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Elizabeth_II_in_March_2015.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 78730,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Prince_Philip,_Duke_of_Edinburgh",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "description": "consort of Elizabeth II from 1952 to 2021",
+      "views": 78381,
+      "qid": "Q80976",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_of_Edinburgh_33_Allan_Warren.jpg?width=64"
+    },
+    {
+      "rank": 23,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 76721,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Ash_Wednesday",
+      "label": "Ash Wednesday",
+      "description": "",
+      "views": 75976,
+      "qid": "Q_en_Ash_Wednesday",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "Behind_Her_Eyes_(British_TV_series)",
+      "label": "Behind Her Eyes (British TV series)",
+      "description": "",
+      "views": 75818,
+      "qid": "Q_en_Behind_Her_Eyes_(British_TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Erling_Haaland",
+      "label": "Erling Haaland",
+      "description": "Norwegian association football player (born 2000)",
+      "views": 75396,
+      "qid": "Q28967995",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erling_Haaland_June_2025.jpg?width=64"
+    },
+    {
+      "rank": 27,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 75169,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 28,
+      "title": "The_Masked_Dancer_(TV_series)",
+      "label": "The Masked Dancer (TV series)",
+      "description": "",
+      "views": 74640,
+      "qid": "Q_en_The_Masked_Dancer_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Novak_Djokovic",
+      "label": "Novak Djokovic",
+      "description": "Serbian tennis player",
+      "views": 74288,
+      "qid": "Q5812",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Mars_rover",
+      "label": "Mars rover",
+      "description": "",
+      "views": 70456,
+      "qid": "Q_en_Mars_rover",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "Carman_(singer)",
+      "label": "Carman (singer)",
+      "description": "",
+      "views": 69693,
+      "qid": "Q_en_Carman_(singer)",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Richard_Ramirez",
+      "label": "Richard Ramirez",
+      "description": "American serial killer (1960–2013)",
+      "views": 66765,
+      "qid": "Q382035",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Ramirez_1984_mug_shot.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "Cruella_(film)",
+      "label": "Cruella (film)",
+      "description": "",
+      "views": 65284,
+      "qid": "Q_en_Cruella_(film)",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "Chris_Eubank",
+      "label": "Chris Eubank",
+      "description": "British former professional boxer",
+      "views": 64457,
+      "qid": "Q718631",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chriseubank.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "F5_Networks",
+      "label": "F5, Inc.",
+      "description": "Multi-cloud cybersecurity and application delivery company",
+      "views": 63927,
+      "qid": "Q3029296",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F5_Tower_-_July_2017.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Britney_Spears",
+      "label": "Britney Spears",
+      "description": "American singer, songwriter, actress and model (born 1981)",
+      "views": 63925,
+      "qid": "Q11975",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Britney_Spears-FFT-Toronto_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 37,
+      "title": "Curiosity_(rover)",
+      "label": "Curiosity (rover)",
+      "description": "",
+      "views": 62431,
+      "qid": "Q_en_Curiosity_(rover)",
+      "image": ""
+    },
+    {
+      "rank": 38,
+      "title": "Tim_Tebow",
+      "label": "Tim Tebow",
+      "description": "",
+      "views": 61529,
+      "qid": "Q_en_Tim_Tebow",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Wikipedia",
+      "label": "Wikipedia",
+      "description": "free multilingual online encyclopedia",
+      "views": 58830,
+      "qid": "Q52",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Carson_Wentz",
+      "label": "Carson Wentz",
+      "description": "",
+      "views": 58307,
+      "qid": "Q_en_Carson_Wentz",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Arm_and_hammer",
+      "label": "Arm and hammer",
+      "description": "",
+      "views": 57889,
+      "qid": "Q_en_Arm_and_hammer",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Kyle_Jamieson",
+      "label": "Kyle Jamieson",
+      "description": "",
+      "views": 57858,
+      "qid": "Q_en_Kyle_Jamieson",
+      "image": ""
+    },
+    {
+      "rank": 43,
+      "title": "Donald_Trump",
+      "label": "Donald Trump",
+      "description": "American businessman and politician (born 1946), President of the United States (2017–2021; since 2025)",
+      "views": 57658,
+      "qid": "Q22686",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Fernando_Tatís_Jr.",
+      "label": "Fernando Tatís Jr.",
+      "description": "",
+      "views": 57607,
+      "qid": "Q_en_Fernando_Tatís_Jr.",
+      "image": ""
+    },
+    {
+      "rank": 45,
+      "title": "Fred_Hampton",
+      "label": "Fred Hampton",
+      "description": "",
+      "views": 56332,
+      "qid": "Q_en_Fred_Hampton",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "YouTube",
+      "label": "YouTube",
+      "description": "American video-sharing platform owned by Alphabet Inc.",
+      "views": 56197,
+      "qid": "Q866",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64"
+    },
+    {
+      "rank": 47,
+      "title": "Dwayne_Johnson",
+      "label": "Dwayne Johnson",
+      "description": "American actor and professional wrestler (born 1972)",
+      "views": 54191,
+      "qid": "Q10738",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dwayne_Johnson-1809_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 48,
+      "title": "Mars_Helicopter_Ingenuity",
+      "label": "Mars Helicopter Ingenuity",
+      "description": "",
+      "views": 53125,
+      "qid": "Q_en_Mars_Helicopter_Ingenuity",
+      "image": ""
+    },
+    {
+      "rank": 49,
+      "title": "Paris_Hilton",
+      "label": "Paris Hilton",
+      "description": "",
+      "views": 51715,
+      "qid": "Q_en_Paris_Hilton",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Limbaugh_family",
+      "label": "Limbaugh family",
+      "description": "",
+      "views": 51011,
+      "qid": "Q_en_Limbaugh_family",
+      "image": ""
+    }
+  ]
+}

@@ -4,8 +4,48 @@
   "title": "Meghan,_Duchess_of_Sussex",
   "description": "member of the British royal family and Duchess of Sussex since 2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg?width=64",
-  "total": 8976352,
+  "total": 14328997,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 61433
+    },
+    {
+      "period": "2021-02",
+      "views": 311121
+    },
+    {
+      "period": "2021-03",
+      "views": 3946688
+    },
+    {
+      "period": "2021-04",
+      "views": 484955
+    },
+    {
+      "period": "2021-05",
+      "views": 210645
+    },
+    {
+      "period": "2021-06",
+      "views": 127272
+    },
+    {
+      "period": "2021-08",
+      "views": 50145
+    },
+    {
+      "period": "2021-09",
+      "views": 44962
+    },
+    {
+      "period": "2021-11",
+      "views": 80764
+    },
+    {
+      "period": "2021-12",
+      "views": 34660
+    },
     {
       "period": "2022-01",
       "views": 27767
@@ -156,6 +196,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 5352645
+    },
     {
       "period": "2022",
       "views": 3797850

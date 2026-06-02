@@ -4,7 +4,7 @@
   "title": "Europe",
   "description": "terrestrial continent located in north-western Eurasia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Europe_satellite_orthographic.jpg?width=64",
-  "total": 10562844,
+  "total": 13279599,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 125504
+    },
+    {
+      "period": "2021-01",
+      "views": 90474
+    },
+    {
+      "period": "2021-02",
+      "views": 93249
+    },
+    {
+      "period": "2021-03",
+      "views": 198087
+    },
+    {
+      "period": "2021-04",
+      "views": 136497
+    },
+    {
+      "period": "2021-05",
+      "views": 177492
+    },
+    {
+      "period": "2021-06",
+      "views": 253006
+    },
+    {
+      "period": "2021-07",
+      "views": 334675
+    },
+    {
+      "period": "2021-08",
+      "views": 314995
+    },
+    {
+      "period": "2021-09",
+      "views": 303775
+    },
+    {
+      "period": "2021-10",
+      "views": 276747
+    },
+    {
+      "period": "2021-11",
+      "views": 277715
+    },
+    {
+      "period": "2021-12",
+      "views": 260043
     },
     {
       "period": "2022-01",
@@ -227,6 +275,10 @@
     {
       "period": "2015",
       "views": 1464412
+    },
+    {
+      "period": "2021",
+      "views": 2716755
     },
     {
       "period": "2022",

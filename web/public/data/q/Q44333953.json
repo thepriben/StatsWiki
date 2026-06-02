@@ -4,8 +4,28 @@
   "title": "Bad_Bunny",
   "description": "Puerto Rican rapper, singer, and record producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg?width=64",
-  "total": 14169739,
+  "total": 14743077,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 305361
+    },
+    {
+      "period": "2021-03",
+      "views": 126289
+    },
+    {
+      "period": "2021-04",
+      "views": 120945
+    },
+    {
+      "period": "2021-05",
+      "views": 11628
+    },
+    {
+      "period": "2021-12",
+      "views": 9115
+    },
     {
       "period": "2022-01",
       "views": 47853
@@ -172,6 +192,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 573338
+    },
     {
       "period": "2022",
       "views": 1517951

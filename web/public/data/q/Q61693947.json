@@ -4,8 +4,28 @@
   "title": "Rachel_Zegler",
   "description": "American actress (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RachelZegler-byPhilipRomano4crop.jpg?width=64",
-  "total": 10466919,
+  "total": 11224438,
   "monthly": [
+    {
+      "period": "2021-04",
+      "views": 80445
+    },
+    {
+      "period": "2021-06",
+      "views": 188260
+    },
+    {
+      "period": "2021-09",
+      "views": 10852
+    },
+    {
+      "period": "2021-11",
+      "views": 34356
+    },
+    {
+      "period": "2021-12",
+      "views": 443606
+    },
     {
       "period": "2022-01",
       "views": 143111
@@ -152,6 +172,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 757519
+    },
     {
       "period": "2022",
       "views": 867143

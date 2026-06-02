@@ -4,8 +4,16 @@
   "title": "Anthony_Edwards_(basketball)",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Edwards_Georgia_%28cropped%29.jpg?width=64",
-  "total": 4763514,
+  "total": 4794341,
   "monthly": [
+    {
+      "period": "2021-04",
+      "views": 11999
+    },
+    {
+      "period": "2021-11",
+      "views": 18828
+    },
     {
       "period": "2022-04",
       "views": 101238
@@ -112,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 30827
+    },
     {
       "period": "2022",
       "views": 442553

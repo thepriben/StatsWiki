@@ -4,7 +4,7 @@
   "title": "Qatar",
   "description": "country in West Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline_of_Doha_West_Bay.jpg?width=64",
-  "total": 6653927,
+  "total": 7125341,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,26 @@
     {
       "period": "2015-12",
       "views": 44801
+    },
+    {
+      "period": "2021-01",
+      "views": 13105
+    },
+    {
+      "period": "2021-07",
+      "views": 55467
+    },
+    {
+      "period": "2021-08",
+      "views": 268192
+    },
+    {
+      "period": "2021-09",
+      "views": 55528
+    },
+    {
+      "period": "2021-11",
+      "views": 79122
     },
     {
       "period": "2022-03",
@@ -167,6 +187,10 @@
     {
       "period": "2015",
       "views": 307939
+    },
+    {
+      "period": "2021",
+      "views": 471414
     },
     {
       "period": "2022",

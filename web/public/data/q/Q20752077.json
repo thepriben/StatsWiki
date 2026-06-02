@@ -4,8 +4,28 @@
   "title": "Mckenna_Grace",
   "description": "American actress and singer (born 2006)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/McKenna_Grace_at_WWD_Style_Awards_2026.jpg?width=64",
-  "total": 4305530,
+  "total": 4700426,
   "monthly": [
+    {
+      "period": "2021-04",
+      "views": 52753
+    },
+    {
+      "period": "2021-05",
+      "views": 36267
+    },
+    {
+      "period": "2021-06",
+      "views": 35229
+    },
+    {
+      "period": "2021-07",
+      "views": 36704
+    },
+    {
+      "period": "2021-11",
+      "views": 233943
+    },
     {
       "period": "2022-01",
       "views": 247216
@@ -120,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 394896
+    },
     {
       "period": "2022",
       "views": 363964

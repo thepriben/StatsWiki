@@ -4,8 +4,12 @@
   "title": "Jeff_Baena",
   "description": "American screenwriter and film director (1977–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Baena.jpg?width=64",
-  "total": 3698260,
+  "total": 3743678,
   "monthly": [
+    {
+      "period": "2021-05",
+      "views": 45418
+    },
     {
       "period": "2022-12",
       "views": 93932
@@ -60,6 +64,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 45418
+    },
     {
       "period": "2022",
       "views": 93932

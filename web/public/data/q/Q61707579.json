@@ -4,8 +4,40 @@
   "title": "OnlyFans",
   "description": "British social media and content distribution platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OnlyFans_logo.svg?width=64",
-  "total": 17788550,
+  "total": 18535341,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 133615
+    },
+    {
+      "period": "2021-02",
+      "views": 54655
+    },
+    {
+      "period": "2021-04",
+      "views": 55143
+    },
+    {
+      "period": "2021-05",
+      "views": 43362
+    },
+    {
+      "period": "2021-06",
+      "views": 53971
+    },
+    {
+      "period": "2021-08",
+      "views": 324975
+    },
+    {
+      "period": "2021-10",
+      "views": 15410
+    },
+    {
+      "period": "2021-12",
+      "views": 65660
+    },
     {
       "period": "2022-06",
       "views": 74136
@@ -200,6 +232,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 746791
+    },
     {
       "period": "2022",
       "views": 1856938

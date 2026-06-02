@@ -4,7 +4,7 @@
   "title": "Cleopatra",
   "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64",
-  "total": 176289603,
+  "total": 218339757,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,54 @@
     {
       "period": "2015-11",
       "views": 10371
+    },
+    {
+      "period": "2021-01",
+      "views": 3090340
+    },
+    {
+      "period": "2021-02",
+      "views": 2342146
+    },
+    {
+      "period": "2021-03",
+      "views": 3074960
+    },
+    {
+      "period": "2021-04",
+      "views": 2182159
+    },
+    {
+      "period": "2021-05",
+      "views": 2702078
+    },
+    {
+      "period": "2021-06",
+      "views": 3115385
+    },
+    {
+      "period": "2021-07",
+      "views": 4626151
+    },
+    {
+      "period": "2021-08",
+      "views": 4338929
+    },
+    {
+      "period": "2021-09",
+      "views": 3961643
+    },
+    {
+      "period": "2021-10",
+      "views": 4233263
+    },
+    {
+      "period": "2021-11",
+      "views": 4299869
+    },
+    {
+      "period": "2021-12",
+      "views": 4083231
     },
     {
       "period": "2022-01",
@@ -243,6 +291,10 @@
     {
       "period": "2015",
       "views": 323193
+    },
+    {
+      "period": "2021",
+      "views": 42050154
     },
     {
       "period": "2022",

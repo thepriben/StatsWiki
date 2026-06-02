@@ -4,7 +4,7 @@
   "title": "Stephen_Curry",
   "description": "American basketball player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Curry_Shooting_%28cropped%29_%28cropped%29.jpg?width=64",
-  "total": 18109860,
+  "total": 21474472,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,50 @@
     {
       "period": "2015-12",
       "views": 1020646
+    },
+    {
+      "period": "2021-01",
+      "views": 505792
+    },
+    {
+      "period": "2021-02",
+      "views": 240158
+    },
+    {
+      "period": "2021-03",
+      "views": 418507
+    },
+    {
+      "period": "2021-04",
+      "views": 298515
+    },
+    {
+      "period": "2021-05",
+      "views": 300749
+    },
+    {
+      "period": "2021-06",
+      "views": 271765
+    },
+    {
+      "period": "2021-07",
+      "views": 58369
+    },
+    {
+      "period": "2021-08",
+      "views": 148666
+    },
+    {
+      "period": "2021-10",
+      "views": 119302
+    },
+    {
+      "period": "2021-11",
+      "views": 364495
+    },
+    {
+      "period": "2021-12",
+      "views": 638294
     },
     {
       "period": "2022-01",
@@ -243,6 +287,10 @@
     {
       "period": "2015",
       "views": 2326089
+    },
+    {
+      "period": "2021",
+      "views": 3364612
     },
     {
       "period": "2022",

@@ -4,8 +4,20 @@
   "title": "The_Sandman_(TV_series)",
   "description": "2022 American fantasy drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sandman_logo.png?width=64",
-  "total": 7017917,
+  "total": 7153151,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 22983
+    },
+    {
+      "period": "2021-05",
+      "views": 12984
+    },
+    {
+      "period": "2021-09",
+      "views": 99267
+    },
     {
       "period": "2022-06",
       "views": 99659
@@ -56,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 135234
+    },
     {
       "period": "2022",
       "views": 5078887

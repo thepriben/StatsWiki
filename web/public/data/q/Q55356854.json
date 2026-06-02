@@ -4,8 +4,12 @@
   "title": "Alysa_Liu",
   "description": "American figure skater",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alysa_LIUAsatur_Yesayants_-_YantsImages_8309_%28cropped%29.jpg?width=64",
-  "total": 7119830,
+  "total": 7134866,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 15036
+    },
     {
       "period": "2022-01",
       "views": 12698
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 15036
+    },
     {
       "period": "2022",
       "views": 112705

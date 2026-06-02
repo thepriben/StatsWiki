@@ -4,7 +4,7 @@
   "title": "Back_to_the_Future",
   "description": "1985 film directed by Robert Zemeckis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Back_to_the_Future_film_series_logo.png?width=64",
-  "total": 1542012,
+  "total": 1602226,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,18 @@
     {
       "period": "2015-12",
       "views": 12298
+    },
+    {
+      "period": "2021-01",
+      "views": 12211
+    },
+    {
+      "period": "2021-03",
+      "views": 35472
+    },
+    {
+      "period": "2021-07",
+      "views": 12531
     },
     {
       "period": "2022-10",
@@ -75,6 +87,10 @@
     {
       "period": "2015",
       "views": 1288391
+    },
+    {
+      "period": "2021",
+      "views": 60214
     },
     {
       "period": "2022",

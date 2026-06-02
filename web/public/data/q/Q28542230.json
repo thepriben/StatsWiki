@@ -4,8 +4,20 @@
   "title": "Barry_Keoghan",
   "description": "Irish actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barry_Keoghan_2024_%28cropped%29.jpg?width=64",
-  "total": 14093059,
+  "total": 14588680,
   "monthly": [
+    {
+      "period": "2021-05",
+      "views": 37021
+    },
+    {
+      "period": "2021-08",
+      "views": 53607
+    },
+    {
+      "period": "2021-11",
+      "views": 404993
+    },
     {
       "period": "2022-01",
       "views": 395601
@@ -156,6 +168,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 495621
+    },
     {
       "period": "2022",
       "views": 1506597

@@ -4,7 +4,7 @@
   "title": "Sense8",
   "description": "American science fiction television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sense8_logo.png?width=64",
-  "total": 1663502,
+  "total": 1674040,
   "monthly": [
     {
       "period": "2015-07",
@@ -17,12 +17,20 @@
     {
       "period": "2015-09",
       "views": 233275
+    },
+    {
+      "period": "2021-12",
+      "views": 10538
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1663502
+    },
+    {
+      "period": "2021",
+      "views": 10538
     }
   ]
 }

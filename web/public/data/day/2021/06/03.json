@@ -1,0 +1,455 @@
+{
+  "period": "3 June 2021",
+  "lines": [
+    {
+      "rank": 1,
+      "title": "Microsoft_Office",
+      "label": "Microsoft Office",
+      "description": "series of office programmes developed by Microsoft",
+      "views": 181136,
+      "qid": "Q11255",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64"
+    },
+    {
+      "rank": 2,
+      "title": "Mare_of_Easttown",
+      "label": "Mare of Easttown",
+      "description": "",
+      "views": 139401,
+      "qid": "Q_en_Mare_of_Easttown",
+      "image": ""
+    },
+    {
+      "rank": 3,
+      "title": "Bible",
+      "label": "Bible",
+      "description": "collection of sacred books in Judaism and Christianity",
+      "views": 131790,
+      "qid": "Q1845",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?width=64"
+    },
+    {
+      "rank": 4,
+      "title": "Deaths_in_2021",
+      "label": "lists of deaths by year",
+      "description": "deaths of notable people, organised by year",
+      "views": 129411,
+      "qid": "Q8803453",
+      "image": ""
+    },
+    {
+      "rank": 5,
+      "title": "Google_logo",
+      "label": "Google logo",
+      "description": "logo of the company Google",
+      "views": 113303,
+      "qid": "Q1764530",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2026_logo.svg?width=64"
+    },
+    {
+      "rank": 6,
+      "title": "Cleopatra",
+      "label": "Cleopatra",
+      "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+      "views": 106704,
+      "qid": "Q635",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=64"
+    },
+    {
+      "rank": 7,
+      "title": "Critical_race_theory",
+      "label": "critical race theory",
+      "description": "conceptual framework regarding society, race, and culture",
+      "views": 97899,
+      "qid": "Q5186753",
+      "image": ""
+    },
+    {
+      "rank": 8,
+      "title": "UEFA_Euro_2020",
+      "label": "UEFA Euro 2020",
+      "description": "16th men’s European association football championship",
+      "views": 96769,
+      "qid": "Q373501",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Euro_2020_logo.svg?width=64"
+    },
+    {
+      "rank": 9,
+      "title": "A_Quiet_Place_Part_II",
+      "label": "A Quiet Place Part II",
+      "description": "",
+      "views": 88154,
+      "qid": "Q_en_A_Quiet_Place_Part_II",
+      "image": ""
+    },
+    {
+      "rank": 10,
+      "title": "XXXX",
+      "label": "XXXX",
+      "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
+      "views": 86787,
+      "qid": "Q8042634",
+      "image": ""
+    },
+    {
+      "rank": 11,
+      "title": "Bo_Burnham",
+      "label": "Bo Burnham",
+      "description": "",
+      "views": 86714,
+      "qid": "Q_en_Bo_Burnham",
+      "image": ""
+    },
+    {
+      "rank": 12,
+      "title": "Cruella_(film)",
+      "label": "Cruella (film)",
+      "description": "",
+      "views": 82927,
+      "qid": "Q_en_Cruella_(film)",
+      "image": ""
+    },
+    {
+      "rank": 13,
+      "title": "Mike_Krzyzewski",
+      "label": "Mike Krzyzewski",
+      "description": "",
+      "views": 81819,
+      "qid": "Q_en_Mike_Krzyzewski",
+      "image": ""
+    },
+    {
+      "rank": 14,
+      "title": "Benjamin_Netanyahu",
+      "label": "Benjamin Netanyahu",
+      "description": "Prime Minister of Israel (born 1949), (1996–1999; 2009–2021; 2022–present)",
+      "views": 81202,
+      "qid": "Q43723",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Netanyahu%2C_February_2023.jpg?width=64"
+    },
+    {
+      "rank": 15,
+      "title": "The_Conjuring:_The_Devil_Made_Me_Do_It",
+      "label": "The Conjuring: The Devil Made Me Do It",
+      "description": "",
+      "views": 80571,
+      "qid": "Q_en_The_Conjuring:_The_Devil_Made_Me_Do_It",
+      "image": ""
+    },
+    {
+      "rank": 16,
+      "title": "Naftali_Bennett",
+      "label": "Naftali Bennett",
+      "description": "",
+      "views": 78355,
+      "qid": "Q_en_Naftali_Bennett",
+      "image": ""
+    },
+    {
+      "rank": 17,
+      "title": "The_Family_Man_(Indian_TV_series)",
+      "label": "The Family Man (Indian TV series)",
+      "description": "",
+      "views": 77814,
+      "qid": "Q_en_The_Family_Man_(Indian_TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 18,
+      "title": "Tulsa_race_massacre",
+      "label": "Tulsa race massacre",
+      "description": "",
+      "views": 77677,
+      "qid": "Q_en_Tulsa_race_massacre",
+      "image": ""
+    },
+    {
+      "rank": 19,
+      "title": "Betty_Broderick",
+      "label": "Betty Broderick",
+      "description": "",
+      "views": 73932,
+      "qid": "Q_en_Betty_Broderick",
+      "image": ""
+    },
+    {
+      "rank": 20,
+      "title": "Matthew_Perry",
+      "label": "Matthew Perry",
+      "description": "American-Canadian actor (1969–2023)",
+      "views": 73052,
+      "qid": "Q171758",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg?width=64"
+    },
+    {
+      "rank": 21,
+      "title": "Skathi_(moon)",
+      "label": "Skathi",
+      "description": "moon of Saturn",
+      "views": 72263,
+      "qid": "Q17982",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skathi-discovery-CFHT.gif?width=64"
+    },
+    {
+      "rank": 22,
+      "title": "Kingdom:_Legendary_War",
+      "label": "Kingdom: Legendary War",
+      "description": "",
+      "views": 71321,
+      "qid": "Q_en_Kingdom:_Legendary_War",
+      "image": ""
+    },
+    {
+      "rank": 23,
+      "title": "F._Lee_Bailey",
+      "label": "F. Lee Bailey",
+      "description": "",
+      "views": 68567,
+      "qid": "Q_en_F._Lee_Bailey",
+      "image": ""
+    },
+    {
+      "rank": 24,
+      "title": "Believe_Me:_The_Abduction_of_Lisa_McVey",
+      "label": "Believe Me: The Abduction of Lisa McVey",
+      "description": "",
+      "views": 62201,
+      "qid": "Q_en_Believe_Me:_The_Abduction_of_Lisa_McVey",
+      "image": ""
+    },
+    {
+      "rank": 25,
+      "title": "2021_French_Open_–_Men's_Singles",
+      "label": "2021 French Open – Men's Singles",
+      "description": "",
+      "views": 61248,
+      "qid": "Q_en_2021_French_Open_–_Men's_Singles",
+      "image": ""
+    },
+    {
+      "rank": 26,
+      "title": "Jon_Scheyer",
+      "label": "Jon Scheyer",
+      "description": "",
+      "views": 60388,
+      "qid": "Q_en_Jon_Scheyer",
+      "image": ""
+    },
+    {
+      "rank": 27,
+      "title": "Adamites",
+      "label": "Adamites",
+      "description": "",
+      "views": 60355,
+      "qid": "Q_en_Adamites",
+      "image": ""
+    },
+    {
+      "rank": 28,
+      "title": "Anthony_Fauci",
+      "label": "Anthony Fauci",
+      "description": "",
+      "views": 60338,
+      "qid": "Q_en_Anthony_Fauci",
+      "image": ""
+    },
+    {
+      "rank": 29,
+      "title": "Logan_Paul",
+      "label": "Logan Paul",
+      "description": "American YouTuber and Internet personality (born 1995)",
+      "views": 59957,
+      "qid": "Q24451685",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logan_Paul_%2848086619418%29.jpg?width=64"
+    },
+    {
+      "rank": 30,
+      "title": "Lucifer_(TV_series)",
+      "label": "Lucifer (TV series)",
+      "description": "",
+      "views": 59244,
+      "qid": "Q_en_Lucifer_(TV_series)",
+      "image": ""
+    },
+    {
+      "rank": 31,
+      "title": "1989_Tiananmen_Square_protests",
+      "label": "1989 Tiananmen Square protests",
+      "description": "",
+      "views": 58504,
+      "qid": "Q_en_1989_Tiananmen_Square_protests",
+      "image": ""
+    },
+    {
+      "rank": 32,
+      "title": "Olivia_Rodrigo",
+      "label": "Olivia Rodrigo",
+      "description": "American singer-songwriter and actress (born 2003)",
+      "views": 58194,
+      "qid": "Q63243883",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glasto2025-546_%28cropped_2%29.jpg?width=64"
+    },
+    {
+      "rank": 33,
+      "title": "IRIS_Kharg",
+      "label": "IRIS Kharg",
+      "description": "",
+      "views": 57707,
+      "qid": "Q_en_IRIS_Kharg",
+      "image": ""
+    },
+    {
+      "rank": 34,
+      "title": "F5_Networks",
+      "label": "F5, Inc.",
+      "description": "Multi-cloud cybersecurity and application delivery company",
+      "views": 56040,
+      "qid": "Q3029296",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F5_Tower_-_July_2017.jpg?width=64"
+    },
+    {
+      "rank": 35,
+      "title": "Naomi_Osaka",
+      "label": "Naomi Osaka",
+      "description": "Japanese tennis player",
+      "views": 55912,
+      "qid": "Q17466583",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Osaka_2017_Wimbledon.jpg?width=64"
+    },
+    {
+      "rank": 36,
+      "title": "Mayim_Bialik",
+      "label": "Mayim Bialik",
+      "description": "",
+      "views": 55717,
+      "qid": "Q_en_Mayim_Bialik",
+      "image": ""
+    },
+    {
+      "rank": 37,
+      "title": "Floyd_Mayweather,_Jr.",
+      "label": "Floyd Mayweather",
+      "description": "American boxer",
+      "views": 55342,
+      "qid": "Q318204",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Floyd_Mayweather%2C_Jr._at_DeWalt_event_%285888721735%29_%28rotated_4%29.jpg?width=64"
+    },
+    {
+      "rank": 38,
+      "title": "Frank_Kameny",
+      "label": "Frank Kameny",
+      "description": "",
+      "views": 54694,
+      "qid": "Q_en_Frank_Kameny",
+      "image": ""
+    },
+    {
+      "rank": 39,
+      "title": "Luka_Dončić",
+      "label": "Luka Dončić",
+      "description": "Slovenian basketball player (born 1999)",
+      "views": 53995,
+      "qid": "Q19844712",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luka_Doncic_%2851914951721%29_%28cropped1%29.jpg?width=64"
+    },
+    {
+      "rank": 40,
+      "title": "Dollar_Baby",
+      "label": "Dollar Baby",
+      "description": "",
+      "views": 52797,
+      "qid": "Q_en_Dollar_Baby",
+      "image": ""
+    },
+    {
+      "rank": 41,
+      "title": "Joey_Essex",
+      "label": "Joey Essex",
+      "description": "",
+      "views": 52522,
+      "qid": "Q_en_Joey_Essex",
+      "image": ""
+    },
+    {
+      "rank": 42,
+      "title": "Jennifer_Aniston",
+      "label": "Jennifer Aniston",
+      "description": "American actress (born 1969)",
+      "views": 52108,
+      "qid": "Q32522",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JenniferAnistonHWoFFeb2012.jpg?width=64"
+    },
+    {
+      "rank": 43,
+      "title": "Kate_Winslet",
+      "label": "Kate Winslet",
+      "description": "English actress (born 1975)",
+      "views": 51522,
+      "qid": "Q202765",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KateWinslet_%28cropped%29.jpg?width=64"
+    },
+    {
+      "rank": 44,
+      "title": "Elon_Musk",
+      "label": "Elon Musk",
+      "description": "businessman and entrepreneur (born 1971)",
+      "views": 50567,
+      "qid": "Q317521",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64"
+    },
+    {
+      "rank": 45,
+      "title": "Trae_Young",
+      "label": "Trae Young",
+      "description": "",
+      "views": 50440,
+      "qid": "Q_en_Trae_Young",
+      "image": ""
+    },
+    {
+      "rank": 46,
+      "title": "Bobby_Joe_Long",
+      "label": "Bobby Joe Long",
+      "description": "",
+      "views": 50270,
+      "qid": "Q_en_Bobby_Joe_Long",
+      "image": ""
+    },
+    {
+      "rank": 47,
+      "title": "Nicklas_Bendtner",
+      "label": "Nicklas Bendtner",
+      "description": "",
+      "views": 50167,
+      "qid": "Q_en_Nicklas_Bendtner",
+      "image": ""
+    },
+    {
+      "rank": 48,
+      "title": "Friends",
+      "label": "Friends",
+      "description": "American sitcom (1994–2004)",
+      "views": 48809,
+      "qid": "Q79784",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Friends_logo.svg?width=64"
+    },
+    {
+      "rank": 49,
+      "title": "Wart-biter",
+      "label": "Wart-biter",
+      "description": "",
+      "views": 48324,
+      "qid": "Q_en_Wart-biter",
+      "image": ""
+    },
+    {
+      "rank": 50,
+      "title": "Devon_Conway",
+      "label": "Devon Conway",
+      "description": "",
+      "views": 47991,
+      "qid": "Q_en_Devon_Conway",
+      "image": ""
+    }
+  ]
+}

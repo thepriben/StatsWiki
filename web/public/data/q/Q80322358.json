@@ -4,8 +4,24 @@
   "title": "John_Wick:_Chapter_4",
   "description": "2023 film directed by Chad Stahelski",
   "image": "",
-  "total": 9813469,
+  "total": 9985671,
   "monthly": [
+    {
+      "period": "2021-07",
+      "views": 11643
+    },
+    {
+      "period": "2021-08",
+      "views": 23088
+    },
+    {
+      "period": "2021-09",
+      "views": 74882
+    },
+    {
+      "period": "2021-12",
+      "views": 62589
+    },
     {
       "period": "2022-07",
       "views": 101521
@@ -88,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 172202
+    },
     {
       "period": "2022",
       "views": 229544

@@ -4,7 +4,7 @@
   "title": "World_War_I",
   "description": "1914–1918 global conflict",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg?width=64",
-  "total": 32959546,
+  "total": 39010205,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 711274
+    },
+    {
+      "period": "2021-01",
+      "views": 578451
+    },
+    {
+      "period": "2021-02",
+      "views": 489625
+    },
+    {
+      "period": "2021-03",
+      "views": 594681
+    },
+    {
+      "period": "2021-04",
+      "views": 442033
+    },
+    {
+      "period": "2021-05",
+      "views": 524926
+    },
+    {
+      "period": "2021-06",
+      "views": 483922
+    },
+    {
+      "period": "2021-07",
+      "views": 485255
+    },
+    {
+      "period": "2021-08",
+      "views": 530273
+    },
+    {
+      "period": "2021-09",
+      "views": 459559
+    },
+    {
+      "period": "2021-10",
+      "views": 469002
+    },
+    {
+      "period": "2021-11",
+      "views": 559111
+    },
+    {
+      "period": "2021-12",
+      "views": 433821
     },
     {
       "period": "2022-01",
@@ -247,6 +295,10 @@
     {
       "period": "2015",
       "views": 4290976
+    },
+    {
+      "period": "2021",
+      "views": 6050659
     },
     {
       "period": "2022",

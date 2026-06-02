@@ -4,8 +4,28 @@
   "title": "Joe_Burrow",
   "description": "American football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LSU_Football_at_the_White_House_%2849400533066%29_%28cropped%29.jpg?width=64",
-  "total": 6155147,
+  "total": 6362901,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 26985
+    },
+    {
+      "period": "2021-04",
+      "views": 18813
+    },
+    {
+      "period": "2021-09",
+      "views": 32135
+    },
+    {
+      "period": "2021-10",
+      "views": 99164
+    },
+    {
+      "period": "2021-12",
+      "views": 30657
+    },
     {
       "period": "2022-01",
       "views": 1608074
@@ -112,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 207754
+    },
     {
       "period": "2022",
       "views": 3096944

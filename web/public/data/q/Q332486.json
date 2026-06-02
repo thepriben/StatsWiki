@@ -4,8 +4,12 @@
   "title": "Supreme_Leader_of_Iran",
   "description": "ruler of the Islamic Republic of Iran",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beit-e_Rahbari_logo.svg?width=64",
-  "total": 2662962,
+  "total": 2673830,
   "monthly": [
+    {
+      "period": "2021-06",
+      "views": 10868
+    },
     {
       "period": "2024-04",
       "views": 17622
@@ -40,6 +44,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 10868
+    },
     {
       "period": "2024",
       "views": 423438

@@ -4,7 +4,7 @@
   "title": "25_(Adele_album)",
   "description": "2015 studio album by Adele",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adele_25.svg?width=64",
-  "total": 2681982,
+  "total": 2832930,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,12 +17,24 @@
     {
       "period": "2015-12",
       "views": 837361
+    },
+    {
+      "period": "2021-10",
+      "views": 81127
+    },
+    {
+      "period": "2021-11",
+      "views": 69821
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2681982
+    },
+    {
+      "period": "2021",
+      "views": 150948
     }
   ]
 }

@@ -4,8 +4,36 @@
   "title": "YouTube_Music",
   "description": "music streaming website",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot_of_YouTube_Music_web_player_%28December_2023%29.png?width=64",
-  "total": 15945584,
+  "total": 20940464,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 410678
+    },
+    {
+      "period": "2021-07",
+      "views": 722230
+    },
+    {
+      "period": "2021-08",
+      "views": 869731
+    },
+    {
+      "period": "2021-09",
+      "views": 661956
+    },
+    {
+      "period": "2021-10",
+      "views": 733535
+    },
+    {
+      "period": "2021-11",
+      "views": 801073
+    },
+    {
+      "period": "2021-12",
+      "views": 795677
+    },
     {
       "period": "2022-01",
       "views": 954633
@@ -112,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 4994880
+    },
     {
       "period": "2022",
       "views": 10680846

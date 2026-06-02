@@ -4,8 +4,28 @@
   "title": "Margaret_Qualley",
   "description": "American actress (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret_Qualley_at_the_2025_Cannes_Film_Festival_01.jpg?width=64",
-  "total": 11402361,
+  "total": 13507002,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 12517
+    },
+    {
+      "period": "2021-09",
+      "views": 29516
+    },
+    {
+      "period": "2021-10",
+      "views": 1367407
+    },
+    {
+      "period": "2021-11",
+      "views": 556611
+    },
+    {
+      "period": "2021-12",
+      "views": 138590
+    },
     {
       "period": "2022-01",
       "views": 10951
@@ -176,6 +196,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2104641
+    },
     {
       "period": "2022",
       "views": 93783

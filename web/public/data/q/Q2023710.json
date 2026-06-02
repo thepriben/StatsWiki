@@ -4,8 +4,56 @@
   "title": "Tom_Holland",
   "description": "British actor (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Holland_by_Gage_Skidmore.jpg?width=64",
-  "total": 17613834,
+  "total": 23649355,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 38095
+    },
+    {
+      "period": "2021-02",
+      "views": 253829
+    },
+    {
+      "period": "2021-03",
+      "views": 399611
+    },
+    {
+      "period": "2021-04",
+      "views": 146650
+    },
+    {
+      "period": "2021-05",
+      "views": 146590
+    },
+    {
+      "period": "2021-06",
+      "views": 204846
+    },
+    {
+      "period": "2021-07",
+      "views": 469886
+    },
+    {
+      "period": "2021-08",
+      "views": 292378
+    },
+    {
+      "period": "2021-09",
+      "views": 451625
+    },
+    {
+      "period": "2021-10",
+      "views": 399701
+    },
+    {
+      "period": "2021-11",
+      "views": 576687
+    },
+    {
+      "period": "2021-12",
+      "views": 2655623
+    },
     {
       "period": "2022-01",
       "views": 1382347
@@ -216,6 +264,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 6035521
+    },
     {
       "period": "2022",
       "views": 6560747

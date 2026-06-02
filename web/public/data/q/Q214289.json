@@ -4,8 +4,32 @@
   "title": "Michelle_Yeoh",
   "description": "Malaysian actress (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelle_Yeoh-2268.jpg?width=64",
-  "total": 9630432,
+  "total": 10302521,
   "monthly": [
+    {
+      "period": "2021-04",
+      "views": 38728
+    },
+    {
+      "period": "2021-06",
+      "views": 10005
+    },
+    {
+      "period": "2021-07",
+      "views": 32128
+    },
+    {
+      "period": "2021-09",
+      "views": 250131
+    },
+    {
+      "period": "2021-11",
+      "views": 194292
+    },
+    {
+      "period": "2021-12",
+      "views": 146805
+    },
     {
       "period": "2022-04",
       "views": 393747
@@ -112,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 672089
+    },
     {
       "period": "2022",
       "views": 1721889

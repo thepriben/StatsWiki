@@ -4,8 +4,56 @@
   "title": "Elliot_Page",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elliot_Page_8126099_%28cropped%29.jpg?width=64",
-  "total": 8619962,
+  "total": 13445248,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 825608
+    },
+    {
+      "period": "2021-02",
+      "views": 395758
+    },
+    {
+      "period": "2021-03",
+      "views": 890758
+    },
+    {
+      "period": "2021-04",
+      "views": 337200
+    },
+    {
+      "period": "2021-05",
+      "views": 731283
+    },
+    {
+      "period": "2021-06",
+      "views": 349271
+    },
+    {
+      "period": "2021-07",
+      "views": 250222
+    },
+    {
+      "period": "2021-08",
+      "views": 296953
+    },
+    {
+      "period": "2021-09",
+      "views": 219237
+    },
+    {
+      "period": "2021-10",
+      "views": 132935
+    },
+    {
+      "period": "2021-11",
+      "views": 156392
+    },
+    {
+      "period": "2021-12",
+      "views": 239669
+    },
     {
       "period": "2022-01",
       "views": 90421
@@ -184,6 +232,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 4825286
+    },
     {
       "period": "2022",
       "views": 3782194

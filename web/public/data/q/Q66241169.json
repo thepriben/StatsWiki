@@ -4,8 +4,28 @@
   "title": "Jude_Bellingham",
   "description": "English association football player (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg?width=64",
-  "total": 9289957,
+  "total": 9875206,
   "monthly": [
+    {
+      "period": "2021-03",
+      "views": 66721
+    },
+    {
+      "period": "2021-04",
+      "views": 156264
+    },
+    {
+      "period": "2021-06",
+      "views": 194518
+    },
+    {
+      "period": "2021-07",
+      "views": 134566
+    },
+    {
+      "period": "2021-09",
+      "views": 33180
+    },
     {
       "period": "2022-03",
       "views": 11171
@@ -172,6 +192,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 585249
+    },
     {
       "period": "2022",
       "views": 1464087

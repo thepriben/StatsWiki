@@ -4,8 +4,16 @@
   "title": "Aditya_Dhar",
   "description": "Indian director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aditya_Dhar.jpg?width=64",
-  "total": 3736561,
+  "total": 4307282,
   "monthly": [
+    {
+      "period": "2021-06",
+      "views": 532536
+    },
+    {
+      "period": "2021-09",
+      "views": 38185
+    },
     {
       "period": "2024-02",
       "views": 23554
@@ -48,6 +56,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 570721
+    },
     {
       "period": "2024",
       "views": 48588

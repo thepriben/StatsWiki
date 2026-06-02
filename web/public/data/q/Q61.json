@@ -4,7 +4,7 @@
   "title": "Washington,_D.C.",
   "description": "capital city of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_White_House_and_downtown%2C_Washington%2C_D.C_LCCN2010630891.jpg?width=64",
-  "total": 4503032,
+  "total": 5782088,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,50 @@
     {
       "period": "2015-12",
       "views": 19380
+    },
+    {
+      "period": "2021-01",
+      "views": 605906
+    },
+    {
+      "period": "2021-02",
+      "views": 63821
+    },
+    {
+      "period": "2021-03",
+      "views": 71729
+    },
+    {
+      "period": "2021-04",
+      "views": 248326
+    },
+    {
+      "period": "2021-05",
+      "views": 56074
+    },
+    {
+      "period": "2021-06",
+      "views": 10138
+    },
+    {
+      "period": "2021-07",
+      "views": 11743
+    },
+    {
+      "period": "2021-08",
+      "views": 63729
+    },
+    {
+      "period": "2021-09",
+      "views": 50378
+    },
+    {
+      "period": "2021-11",
+      "views": 28671
+    },
+    {
+      "period": "2021-12",
+      "views": 68541
     },
     {
       "period": "2022-01",
@@ -203,6 +247,10 @@
     {
       "period": "2015",
       "views": 965998
+    },
+    {
+      "period": "2021",
+      "views": 1279056
     },
     {
       "period": "2022",

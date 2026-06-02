@@ -4,8 +4,36 @@
   "title": "RRR_(film)",
   "description": "2022 film directed by S. S. Rajamouli",
   "image": "",
-  "total": 17577625,
+  "total": 18818282,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 26774
+    },
+    {
+      "period": "2021-03",
+      "views": 34647
+    },
+    {
+      "period": "2021-04",
+      "views": 24398
+    },
+    {
+      "period": "2021-07",
+      "views": 41116
+    },
+    {
+      "period": "2021-08",
+      "views": 36244
+    },
+    {
+      "period": "2021-11",
+      "views": 327877
+    },
+    {
+      "period": "2021-12",
+      "views": 749601
+    },
     {
       "period": "2022-01",
       "views": 875190
@@ -84,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 1240657
+    },
     {
       "period": "2022",
       "views": 13773789

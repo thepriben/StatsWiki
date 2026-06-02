@@ -4,8 +4,12 @@
   "title": "Wonka_(film)",
   "description": "2023 film directed by Paul King",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wonka_Movie_Logo%28edited%29.png?width=64",
-  "total": 5946303,
+  "total": 6040038,
   "monthly": [
+    {
+      "period": "2021-10",
+      "views": 93735
+    },
     {
       "period": "2023-07",
       "views": 184153
@@ -48,6 +52,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 93735
+    },
     {
       "period": "2023",
       "views": 2695194

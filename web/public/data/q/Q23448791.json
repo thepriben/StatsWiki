@@ -4,8 +4,28 @@
   "title": "Aryna_Sabalenka",
   "description": "Belarusian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aryna_Sabalenka_Trophy_US_Open_2024_%28cropped%29.jpg?width=64",
-  "total": 11876759,
+  "total": 12358490,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 79290
+    },
+    {
+      "period": "2021-05",
+      "views": 13331
+    },
+    {
+      "period": "2021-06",
+      "views": 48122
+    },
+    {
+      "period": "2021-07",
+      "views": 192488
+    },
+    {
+      "period": "2021-09",
+      "views": 148500
+    },
     {
       "period": "2022-01",
       "views": 30512
@@ -128,6 +148,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 481731
+    },
     {
       "period": "2022",
       "views": 173436

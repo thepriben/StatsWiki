@@ -4,8 +4,12 @@
   "title": "Death_of_Jeffrey_Epstein",
   "description": "high-profile death in custody, officially declared a suicide",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_Final_Mugshot.png?width=64",
-  "total": 3391844,
+  "total": 3434708,
   "monthly": [
+    {
+      "period": "2021-12",
+      "views": 42864
+    },
     {
       "period": "2022-06",
       "views": 8840
@@ -72,6 +76,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 42864
+    },
     {
       "period": "2022",
       "views": 8840

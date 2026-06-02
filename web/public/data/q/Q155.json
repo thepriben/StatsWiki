@@ -4,7 +4,7 @@
   "title": "Brazil",
   "description": "country in South America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazil_topo.jpg?width=64",
-  "total": 11110721,
+  "total": 12694467,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,50 @@
     {
       "period": "2015-12",
       "views": 164288
+    },
+    {
+      "period": "2021-02",
+      "views": 30763
+    },
+    {
+      "period": "2021-03",
+      "views": 218815
+    },
+    {
+      "period": "2021-04",
+      "views": 168029
+    },
+    {
+      "period": "2021-05",
+      "views": 124857
+    },
+    {
+      "period": "2021-06",
+      "views": 282205
+    },
+    {
+      "period": "2021-07",
+      "views": 261699
+    },
+    {
+      "period": "2021-08",
+      "views": 96538
+    },
+    {
+      "period": "2021-09",
+      "views": 83838
+    },
+    {
+      "period": "2021-10",
+      "views": 125794
+    },
+    {
+      "period": "2021-11",
+      "views": 114598
+    },
+    {
+      "period": "2021-12",
+      "views": 76610
     },
     {
       "period": "2022-01",
@@ -243,6 +287,10 @@
     {
       "period": "2015",
       "views": 1731484
+    },
+    {
+      "period": "2021",
+      "views": 1583746
     },
     {
       "period": "2022",

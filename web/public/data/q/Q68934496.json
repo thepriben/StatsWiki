@@ -4,8 +4,52 @@
   "title": "Spider-Man:_No_Way_Home",
   "description": "2021 film directed by Jon Watts",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider_Man_No_Way_Home_Logo.svg?width=64",
-  "total": 12379088,
+  "total": 30546887,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 228284
+    },
+    {
+      "period": "2021-03",
+      "views": 610108
+    },
+    {
+      "period": "2021-04",
+      "views": 417846
+    },
+    {
+      "period": "2021-05",
+      "views": 431668
+    },
+    {
+      "period": "2021-06",
+      "views": 451876
+    },
+    {
+      "period": "2021-07",
+      "views": 739790
+    },
+    {
+      "period": "2021-08",
+      "views": 1893202
+    },
+    {
+      "period": "2021-09",
+      "views": 706632
+    },
+    {
+      "period": "2021-10",
+      "views": 611271
+    },
+    {
+      "period": "2021-11",
+      "views": 1839420
+    },
+    {
+      "period": "2021-12",
+      "views": 10237702
+    },
     {
       "period": "2022-01",
       "views": 3743695
@@ -120,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 18167799
+    },
     {
       "period": "2022",
       "views": 11102574

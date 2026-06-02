@@ -4,8 +4,36 @@
   "title": "YouTube_Premium",
   "description": "paid streaming subscription service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_Premium_logo.svg?width=64",
-  "total": 15925799,
+  "total": 20638532,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 413295
+    },
+    {
+      "period": "2021-07",
+      "views": 672670
+    },
+    {
+      "period": "2021-08",
+      "views": 813773
+    },
+    {
+      "period": "2021-09",
+      "views": 613690
+    },
+    {
+      "period": "2021-10",
+      "views": 686225
+    },
+    {
+      "period": "2021-11",
+      "views": 756603
+    },
+    {
+      "period": "2021-12",
+      "views": 756477
+    },
     {
       "period": "2022-01",
       "views": 925290
@@ -128,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 4712733
+    },
     {
       "period": "2022",
       "views": 10222330

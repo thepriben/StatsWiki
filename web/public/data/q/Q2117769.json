@@ -4,8 +4,52 @@
   "title": "Canelo_Álvarez",
   "description": "Mexican boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sa%C3%BAl_%C3%81lvarez.png?width=64",
-  "total": 7205084,
+  "total": 11369897,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 82563
+    },
+    {
+      "period": "2021-02",
+      "views": 322533
+    },
+    {
+      "period": "2021-03",
+      "views": 167259
+    },
+    {
+      "period": "2021-04",
+      "views": 136760
+    },
+    {
+      "period": "2021-05",
+      "views": 1481149
+    },
+    {
+      "period": "2021-06",
+      "views": 187863
+    },
+    {
+      "period": "2021-08",
+      "views": 65545
+    },
+    {
+      "period": "2021-09",
+      "views": 220434
+    },
+    {
+      "period": "2021-10",
+      "views": 405112
+    },
+    {
+      "period": "2021-11",
+      "views": 1021961
+    },
+    {
+      "period": "2021-12",
+      "views": 73634
+    },
     {
       "period": "2022-02",
       "views": 83434
@@ -164,6 +208,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 4164813
+    },
     {
       "period": "2022",
       "views": 1973160

@@ -4,8 +4,24 @@
   "title": "Joe_Keery",
   "description": "American actor and musician (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Keery_by_Gage_Skidmore.jpg?width=64",
-  "total": 6299281,
+  "total": 6420654,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 26804
+    },
+    {
+      "period": "2021-08",
+      "views": 38949
+    },
+    {
+      "period": "2021-09",
+      "views": 31134
+    },
+    {
+      "period": "2021-10",
+      "views": 24486
+    },
     {
       "period": "2022-05",
       "views": 259884
@@ -80,6 +96,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 121373
+    },
     {
       "period": "2022",
       "views": 2214083

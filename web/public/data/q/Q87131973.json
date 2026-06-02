@@ -4,8 +4,16 @@
   "title": "The_Last_of_Us_(TV_series)",
   "description": "2023 American TV series based on the video game The Last of Us",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_of_Us_vertical_logo.svg?width=64",
-  "total": 25803482,
+  "total": 25839564,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 12051
+    },
+    {
+      "period": "2021-09",
+      "views": 24031
+    },
     {
       "period": "2022-06",
       "views": 23717
@@ -156,6 +164,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 36082
+    },
     {
       "period": "2022",
       "views": 433537

@@ -4,7 +4,7 @@
   "title": "Southpaw_(film)",
   "description": "2015 film directed by Antoine Fuqua",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Gaucher.png?width=64",
-  "total": 2580087,
+  "total": 2595951,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,20 @@
     {
       "period": "2015-12",
       "views": 105006
+    },
+    {
+      "period": "2021-02",
+      "views": 15864
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2580087
+    },
+    {
+      "period": "2021",
+      "views": 15864
     }
   ]
 }

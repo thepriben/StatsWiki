@@ -4,7 +4,7 @@
   "title": "Wiki",
   "description": "type of website that visitors can edit",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiki_dcci_2x.png?width=64",
-  "total": 26288082,
+  "total": 30888651,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 487575
+    },
+    {
+      "period": "2021-01",
+      "views": 414183
+    },
+    {
+      "period": "2021-02",
+      "views": 383381
+    },
+    {
+      "period": "2021-03",
+      "views": 471669
+    },
+    {
+      "period": "2021-04",
+      "views": 328269
+    },
+    {
+      "period": "2021-05",
+      "views": 331324
+    },
+    {
+      "period": "2021-06",
+      "views": 339930
+    },
+    {
+      "period": "2021-07",
+      "views": 273138
+    },
+    {
+      "period": "2021-08",
+      "views": 344192
+    },
+    {
+      "period": "2021-09",
+      "views": 384327
+    },
+    {
+      "period": "2021-10",
+      "views": 547641
+    },
+    {
+      "period": "2021-11",
+      "views": 449745
+    },
+    {
+      "period": "2021-12",
+      "views": 332770
     },
     {
       "period": "2022-01",
@@ -247,6 +295,10 @@
     {
       "period": "2015",
       "views": 3588911
+    },
+    {
+      "period": "2021",
+      "views": 4600569
     },
     {
       "period": "2022",

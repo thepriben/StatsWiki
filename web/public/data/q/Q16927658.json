@@ -4,8 +4,56 @@
   "title": "Google_Classroom",
   "description": "blended learning platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Classroom_Logo.svg?width=64",
-  "total": 6490523,
+  "total": 12631961,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 782065
+    },
+    {
+      "period": "2021-02",
+      "views": 657761
+    },
+    {
+      "period": "2021-03",
+      "views": 690237
+    },
+    {
+      "period": "2021-04",
+      "views": 290243
+    },
+    {
+      "period": "2021-05",
+      "views": 182416
+    },
+    {
+      "period": "2021-06",
+      "views": 30209
+    },
+    {
+      "period": "2021-07",
+      "views": 230987
+    },
+    {
+      "period": "2021-08",
+      "views": 358983
+    },
+    {
+      "period": "2021-09",
+      "views": 759913
+    },
+    {
+      "period": "2021-10",
+      "views": 898935
+    },
+    {
+      "period": "2021-11",
+      "views": 863419
+    },
+    {
+      "period": "2021-12",
+      "views": 396270
+    },
     {
       "period": "2022-01",
       "views": 323573
@@ -88,6 +136,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 6141438
+    },
     {
       "period": "2022",
       "views": 5661421

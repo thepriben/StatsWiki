@@ -4,8 +4,20 @@
   "title": "Brooklyn",
   "description": "borough of New York City, New York, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bedstuybrownstone1.jpg?width=64",
-  "total": 5522495,
+  "total": 5953957,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 390121
+    },
+    {
+      "period": "2021-03",
+      "views": 21019
+    },
+    {
+      "period": "2021-04",
+      "views": 20322
+    },
     {
       "period": "2022-04",
       "views": 14073
@@ -164,6 +176,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 431462
+    },
     {
       "period": "2022",
       "views": 483655

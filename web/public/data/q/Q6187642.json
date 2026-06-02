@@ -4,8 +4,16 @@
   "title": "Jessie_Buckley",
   "description": "Irish actress, singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessie_Buckley.jpg?width=64",
-  "total": 6030164,
+  "total": 6117773,
   "monthly": [
+    {
+      "period": "2021-10",
+      "views": 51755
+    },
+    {
+      "period": "2021-12",
+      "views": 35854
+    },
     {
       "period": "2022-01",
       "views": 182991
@@ -108,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 87609
+    },
     {
       "period": "2022",
       "views": 451688

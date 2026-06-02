@@ -4,8 +4,12 @@
   "title": "Lance_Reddick",
   "description": "American actor (1962–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lance_Reddick_by_Gage_Skidmore.jpg?width=64",
-  "total": 6085607,
+  "total": 6096386,
   "monthly": [
+    {
+      "period": "2021-04",
+      "views": 10779
+    },
     {
       "period": "2022-07",
       "views": 164616
@@ -84,6 +88,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 10779
+    },
     {
       "period": "2022",
       "views": 164616

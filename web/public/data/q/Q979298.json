@@ -4,8 +4,40 @@
   "title": "Men's_T20_World_Cup",
   "description": "Men's Twenty20 International Cricket World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2007t20.jpg?width=64",
-  "total": 18296611,
+  "total": 21671637,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 18324
+    },
+    {
+      "period": "2021-03",
+      "views": 38796
+    },
+    {
+      "period": "2021-06",
+      "views": 81932
+    },
+    {
+      "period": "2021-07",
+      "views": 77702
+    },
+    {
+      "period": "2021-08",
+      "views": 17751
+    },
+    {
+      "period": "2021-09",
+      "views": 50480
+    },
+    {
+      "period": "2021-10",
+      "views": 1470363
+    },
+    {
+      "period": "2021-11",
+      "views": 1619678
+    },
     {
       "period": "2022-09",
       "views": 253072
@@ -100,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3375026
+    },
     {
       "period": "2022",
       "views": 8021926

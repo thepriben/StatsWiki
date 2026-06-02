@@ -4,8 +4,12 @@
   "title": "Ruhollah_Khomeini",
   "description": "Supreme Leader of Iran from 1979 to 1989",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg?width=64",
-  "total": 5305528,
+  "total": 5332145,
   "monthly": [
+    {
+      "period": "2021-06",
+      "views": 26617
+    },
     {
       "period": "2022-08",
       "views": 134973
@@ -80,6 +84,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 26617
+    },
     {
       "period": "2022",
       "views": 225322

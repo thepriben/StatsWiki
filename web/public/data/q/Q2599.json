@@ -4,7 +4,7 @@
   "title": "Paul_McCartney",
   "description": "English musician and member of the Beatles (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ACL18051018-122_%2843716152470%29.jpg?width=64",
-  "total": 12291134,
+  "total": 16113469,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,54 @@
     {
       "period": "2015-12",
       "views": 157255
+    },
+    {
+      "period": "2021-01",
+      "views": 143260
+    },
+    {
+      "period": "2021-02",
+      "views": 239816
+    },
+    {
+      "period": "2021-03",
+      "views": 294473
+    },
+    {
+      "period": "2021-04",
+      "views": 109119
+    },
+    {
+      "period": "2021-05",
+      "views": 202383
+    },
+    {
+      "period": "2021-06",
+      "views": 243979
+    },
+    {
+      "period": "2021-07",
+      "views": 312056
+    },
+    {
+      "period": "2021-08",
+      "views": 241810
+    },
+    {
+      "period": "2021-09",
+      "views": 176318
+    },
+    {
+      "period": "2021-10",
+      "views": 281654
+    },
+    {
+      "period": "2021-11",
+      "views": 697906
+    },
+    {
+      "period": "2021-12",
+      "views": 879561
     },
     {
       "period": "2022-01",
@@ -239,6 +287,10 @@
     {
       "period": "2015",
       "views": 306220
+    },
+    {
+      "period": "2021",
+      "views": 3822335
     },
     {
       "period": "2022",

@@ -4,8 +4,12 @@
   "title": "Amy_Madigan",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Madigan_%2840389212382%29.jpg?width=64",
-  "total": 2591202,
+  "total": 2609524,
   "monthly": [
+    {
+      "period": "2021-08",
+      "views": 18322
+    },
     {
       "period": "2025-08",
       "views": 599815
@@ -36,6 +40,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 18322
+    },
     {
       "period": "2025",
       "views": 916538

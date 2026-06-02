@@ -4,8 +4,12 @@
   "title": "2024_Copa_América",
   "description": "2024 edition of the Copa América association football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Conmebol_Copa_America_2024_Logo.svg?width=64",
-  "total": 5225559,
+  "total": 5302859,
   "monthly": [
+    {
+      "period": "2021-07",
+      "views": 77300
+    },
     {
       "period": "2022-12",
       "views": 314933
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 77300
+    },
     {
       "period": "2022",
       "views": 314933

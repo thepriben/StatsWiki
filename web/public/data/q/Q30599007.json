@@ -4,8 +4,32 @@
   "title": "Succession_(TV_series)",
   "description": "American comedy-drama television series (2018–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Succession_%28TV_series%29_logo.svg?width=64",
-  "total": 11680952,
+  "total": 15982105,
   "monthly": [
+    {
+      "period": "2021-07",
+      "views": 129424
+    },
+    {
+      "period": "2021-08",
+      "views": 41504
+    },
+    {
+      "period": "2021-09",
+      "views": 208323
+    },
+    {
+      "period": "2021-10",
+      "views": 1091118
+    },
+    {
+      "period": "2021-11",
+      "views": 1329809
+    },
+    {
+      "period": "2021-12",
+      "views": 1500975
+    },
     {
       "period": "2022-01",
       "views": 946396
@@ -116,6 +140,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 4301153
+    },
     {
       "period": "2022",
       "views": 2590506

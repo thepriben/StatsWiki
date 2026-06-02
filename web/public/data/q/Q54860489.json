@@ -4,8 +4,24 @@
   "title": "Black_Panther:_Wakanda_Forever",
   "description": "2022 film directed by Ryan Coogler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wakanda_Forever_Logo.svg?width=64",
-  "total": 12107526,
+  "total": 12411024,
   "monthly": [
+    {
+      "period": "2021-07",
+      "views": 72266
+    },
+    {
+      "period": "2021-08",
+      "views": 74556
+    },
+    {
+      "period": "2021-09",
+      "views": 10811
+    },
+    {
+      "period": "2021-12",
+      "views": 145865
+    },
     {
       "period": "2022-01",
       "views": 131940
@@ -88,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 303498
+    },
     {
       "period": "2022",
       "views": 9099798

@@ -4,8 +4,12 @@
   "title": "Anne_Burrell",
   "description": "American television chef (1969–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TakeTheTrain_Restaurant_Event_%2851188592384%29_%28cropped%29.jpg?width=64",
-  "total": 2924125,
+  "total": 2947864,
   "monthly": [
+    {
+      "period": "2021-10",
+      "views": 23739
+    },
     {
       "period": "2025-06",
       "views": 2507064
@@ -32,6 +36,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 23739
+    },
     {
       "period": "2025",
       "views": 2875722

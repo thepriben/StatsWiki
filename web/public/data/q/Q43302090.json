@@ -4,8 +4,48 @@
   "title": "Candace_Owens",
   "description": "American political commentator (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Candace_Owens_%2853805331465%29_%28cropped%29.jpg?width=64",
-  "total": 5373781,
+  "total": 7117334,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 310429
+    },
+    {
+      "period": "2021-02",
+      "views": 318081
+    },
+    {
+      "period": "2021-03",
+      "views": 681463
+    },
+    {
+      "period": "2021-04",
+      "views": 214659
+    },
+    {
+      "period": "2021-05",
+      "views": 57323
+    },
+    {
+      "period": "2021-06",
+      "views": 46123
+    },
+    {
+      "period": "2021-08",
+      "views": 9860
+    },
+    {
+      "period": "2021-09",
+      "views": 66992
+    },
+    {
+      "period": "2021-10",
+      "views": 9577
+    },
+    {
+      "period": "2021-12",
+      "views": 29046
+    },
     {
       "period": "2022-01",
       "views": 27386
@@ -148,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 1743553
+    },
     {
       "period": "2022",
       "views": 526945

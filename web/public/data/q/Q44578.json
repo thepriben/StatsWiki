@@ -4,7 +4,7 @@
   "title": "Titanic_(1997_film)",
   "description": "1997 film by James Cameron",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic.png?width=64",
-  "total": 6700385,
+  "total": 7374881,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,38 @@
     {
       "period": "2015-12",
       "views": 313137
+    },
+    {
+      "period": "2021-02",
+      "views": 72057
+    },
+    {
+      "period": "2021-03",
+      "views": 21718
+    },
+    {
+      "period": "2021-04",
+      "views": 85072
+    },
+    {
+      "period": "2021-05",
+      "views": 51946
+    },
+    {
+      "period": "2021-06",
+      "views": 9848
+    },
+    {
+      "period": "2021-10",
+      "views": 215828
+    },
+    {
+      "period": "2021-11",
+      "views": 94521
+    },
+    {
+      "period": "2021-12",
+      "views": 123506
     },
     {
       "period": "2022-01",
@@ -171,6 +203,10 @@
     {
       "period": "2015",
       "views": 1482934
+    },
+    {
+      "period": "2021",
+      "views": 674496
     },
     {
       "period": "2022",

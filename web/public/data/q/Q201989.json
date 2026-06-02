@@ -4,7 +4,7 @@
   "title": "Lyme_disease",
   "description": "infectious disease caused by Borrelia bacteria, spread through the bite of blacklegged ticks",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erythema_migrans_-_erythematous_rash_in_Lyme_disease_-_PHIL_9875.jpg?width=64",
-  "total": 2496054,
+  "total": 2536865,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,14 @@
     {
       "period": "2015-12",
       "views": 339680
+    },
+    {
+      "period": "2021-06",
+      "views": 30682
+    },
+    {
+      "period": "2021-08",
+      "views": 10129
     },
     {
       "period": "2022-06",
@@ -67,6 +75,10 @@
     {
       "period": "2015",
       "views": 2146900
+    },
+    {
+      "period": "2021",
+      "views": 40811
     },
     {
       "period": "2022",

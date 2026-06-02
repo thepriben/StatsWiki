@@ -1,0 +1,108 @@
+{
+  "qid": "Q29647346",
+  "label": "Money Heist",
+  "title": "Money_Heist",
+  "description": "Spanish television crime series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Casadepapelwordmark.svg?width=64",
+  "total": 7844844,
+  "monthly": [
+    {
+      "period": "2021-01",
+      "views": 379633
+    },
+    {
+      "period": "2021-02",
+      "views": 362450
+    },
+    {
+      "period": "2021-03",
+      "views": 501925
+    },
+    {
+      "period": "2021-04",
+      "views": 335289
+    },
+    {
+      "period": "2021-05",
+      "views": 438913
+    },
+    {
+      "period": "2021-06",
+      "views": 378991
+    },
+    {
+      "period": "2021-07",
+      "views": 249077
+    },
+    {
+      "period": "2021-08",
+      "views": 451016
+    },
+    {
+      "period": "2021-09",
+      "views": 1786100
+    },
+    {
+      "period": "2021-10",
+      "views": 472269
+    },
+    {
+      "period": "2021-11",
+      "views": 321768
+    },
+    {
+      "period": "2021-12",
+      "views": 1195620
+    },
+    {
+      "period": "2022-01",
+      "views": 401886
+    },
+    {
+      "period": "2022-02",
+      "views": 56625
+    },
+    {
+      "period": "2022-06",
+      "views": 106646
+    },
+    {
+      "period": "2022-07",
+      "views": 71179
+    },
+    {
+      "period": "2023-12",
+      "views": 49733
+    },
+    {
+      "period": "2024-01",
+      "views": 263852
+    },
+    {
+      "period": "2026-05",
+      "views": 21872
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 6873051
+    },
+    {
+      "period": "2022",
+      "views": 636336
+    },
+    {
+      "period": "2023",
+      "views": 49733
+    },
+    {
+      "period": "2024",
+      "views": 263852
+    },
+    {
+      "period": "2026",
+      "views": 21872
+    }
+  ]
+}

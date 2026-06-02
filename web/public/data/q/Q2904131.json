@@ -4,8 +4,56 @@
   "title": "Jeffrey_Epstein",
   "description": "American financier and sex offender (1953–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_2013_mugshot.jpg?width=64",
-  "total": 41693978,
+  "total": 45483402,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 281137
+    },
+    {
+      "period": "2021-02",
+      "views": 136465
+    },
+    {
+      "period": "2021-03",
+      "views": 265773
+    },
+    {
+      "period": "2021-04",
+      "views": 176798
+    },
+    {
+      "period": "2021-05",
+      "views": 534850
+    },
+    {
+      "period": "2021-06",
+      "views": 284781
+    },
+    {
+      "period": "2021-07",
+      "views": 266572
+    },
+    {
+      "period": "2021-08",
+      "views": 167770
+    },
+    {
+      "period": "2021-09",
+      "views": 54889
+    },
+    {
+      "period": "2021-10",
+      "views": 33543
+    },
+    {
+      "period": "2021-11",
+      "views": 351666
+    },
+    {
+      "period": "2021-12",
+      "views": 1235180
+    },
     {
       "period": "2022-01",
       "views": 673121
@@ -208,6 +256,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3789424
+    },
     {
       "period": "2022",
       "views": 2280480

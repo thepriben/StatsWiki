@@ -4,8 +4,28 @@
   "title": "John_F._Kennedy_Jr.",
   "description": "American attorney and magazine publisher (1960–1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Kennedy_Jr_1999.jpg?width=64",
-  "total": 7582201,
+  "total": 8072492,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 137115
+    },
+    {
+      "period": "2021-02",
+      "views": 39899
+    },
+    {
+      "period": "2021-07",
+      "views": 44799
+    },
+    {
+      "period": "2021-08",
+      "views": 20795
+    },
+    {
+      "period": "2021-11",
+      "views": 247683
+    },
     {
       "period": "2022-07",
       "views": 39802
@@ -112,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 490291
+    },
     {
       "period": "2022",
       "views": 39802

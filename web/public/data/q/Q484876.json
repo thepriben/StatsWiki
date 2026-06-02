@@ -4,61 +4,113 @@
   "title": "CEO",
   "description": "highest-ranking corporate officer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Group_of_Fortune_500_CEOs_in_2015_%28cropped_to_remove_non-CEO%29.jpg?width=64",
-  "total": 11070460,
+  "total": 24165506,
   "monthly": [
     {
+      "period": "2021-01",
+      "views": 591434
+    },
+    {
+      "period": "2021-07",
+      "views": 1186795
+    },
+    {
+      "period": "2021-08",
+      "views": 1404958
+    },
+    {
+      "period": "2021-09",
+      "views": 1136155
+    },
+    {
+      "period": "2021-10",
+      "views": 1118611
+    },
+    {
+      "period": "2021-11",
+      "views": 1137892
+    },
+    {
+      "period": "2021-12",
+      "views": 1141907
+    },
+    {
       "period": "2022-01",
-      "views": 998945
+      "views": 1292886
     },
     {
       "period": "2022-02",
-      "views": 860353
+      "views": 1127516
     },
     {
       "period": "2022-03",
-      "views": 751858
+      "views": 926615
     },
     {
       "period": "2022-04",
-      "views": 1039187
+      "views": 1380727
     },
     {
       "period": "2022-05",
-      "views": 1061976
+      "views": 1533155
     },
     {
       "period": "2022-06",
-      "views": 1200909
+      "views": 1639878
     },
     {
       "period": "2022-07",
-      "views": 1104621
+      "views": 1632815
     },
     {
       "period": "2022-08",
-      "views": 897351
+      "views": 1478333
     },
     {
       "period": "2022-09",
-      "views": 779404
+      "views": 1279030
     },
     {
       "period": "2022-10",
-      "views": 819742
+      "views": 1259745
     },
     {
       "period": "2022-11",
-      "views": 953312
+      "views": 1318469
     },
     {
       "period": "2022-12",
-      "views": 602802
+      "views": 929154
+    },
+    {
+      "period": "2023-01",
+      "views": 95245
+    },
+    {
+      "period": "2023-02",
+      "views": 69599
+    },
+    {
+      "period": "2023-03",
+      "views": 253078
+    },
+    {
+      "period": "2023-04",
+      "views": 231509
     }
   ],
   "yearly": [
     {
+      "period": "2021",
+      "views": 7717752
+    },
+    {
       "period": "2022",
-      "views": 11070460
+      "views": 15798323
+    },
+    {
+      "period": "2023",
+      "views": 649431
     }
   ]
 }

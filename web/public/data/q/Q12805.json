@@ -4,8 +4,12 @@
   "title": "DuckDuckGo",
   "description": "privacy-focused online search engine",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tor_Hidden_Service_of_Duck_Duck_Go_24072019.png?width=64",
-  "total": 4122655,
+  "total": 4148051,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 25396
+    },
     {
       "period": "2023-05",
       "views": 10107
@@ -124,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 25396
+    },
     {
       "period": "2023",
       "views": 43005

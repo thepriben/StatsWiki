@@ -4,8 +4,12 @@
   "title": "Everything_Everywhere_All_at_Once",
   "description": "2022 film by Daniel Kwan and Daniel Scheinert",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Everything_everywhere_all_at_once_logo.jpg?width=64",
-  "total": 16993542,
+  "total": 17055357,
   "monthly": [
+    {
+      "period": "2021-12",
+      "views": 61815
+    },
     {
       "period": "2022-03",
       "views": 266961
@@ -124,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 61815
+    },
     {
       "period": "2022",
       "views": 6905408

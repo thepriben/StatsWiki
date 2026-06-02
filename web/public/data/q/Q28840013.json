@@ -4,8 +4,20 @@
   "title": "Shubman_Gill",
   "description": "Indian cricketer",
   "image": "",
-  "total": 6082577,
+  "total": 6223915,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 119009
+    },
+    {
+      "period": "2021-10",
+      "views": 10079
+    },
+    {
+      "period": "2021-11",
+      "views": 12250
+    },
     {
       "period": "2022-07",
       "views": 10226
@@ -132,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 141338
+    },
     {
       "period": "2022",
       "views": 76418

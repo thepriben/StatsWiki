@@ -4,8 +4,12 @@
   "title": "2023_AFC_Asian_Cup",
   "description": "international football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian_Nations_Cup_-_Jordan_and_South_Korea_%2863%29.jpg?width=64",
-  "total": 6236697,
+  "total": 6288408,
   "monthly": [
+    {
+      "period": "2021-06",
+      "views": 51711
+    },
     {
       "period": "2022-06",
       "views": 281178
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 51711
+    },
     {
       "period": "2022",
       "views": 501787

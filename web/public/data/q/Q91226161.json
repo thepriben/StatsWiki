@@ -4,8 +4,12 @@
   "title": "Aquaman_and_the_Lost_Kingdom",
   "description": "2023 superhero film by James Wan",
   "image": "",
-  "total": 7453504,
+  "total": 7465053,
   "monthly": [
+    {
+      "period": "2021-10",
+      "views": 11549
+    },
     {
       "period": "2022-04",
       "views": 182490
@@ -76,6 +80,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 11549
+    },
     {
       "period": "2022",
       "views": 654403

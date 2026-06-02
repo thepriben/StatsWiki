@@ -4,7 +4,7 @@
   "title": "Millennials",
   "description": "cohort succeeding Generation X, born from 1981 to 1996",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dad_with_a_Bjorn.jpg?width=64",
-  "total": 8940439,
+  "total": 12495574,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 337313
+    },
+    {
+      "period": "2021-01",
+      "views": 180637
+    },
+    {
+      "period": "2021-02",
+      "views": 423820
+    },
+    {
+      "period": "2021-03",
+      "views": 507228
+    },
+    {
+      "period": "2021-04",
+      "views": 299142
+    },
+    {
+      "period": "2021-05",
+      "views": 348531
+    },
+    {
+      "period": "2021-06",
+      "views": 367883
+    },
+    {
+      "period": "2021-07",
+      "views": 311713
+    },
+    {
+      "period": "2021-08",
+      "views": 241966
+    },
+    {
+      "period": "2021-09",
+      "views": 190849
+    },
+    {
+      "period": "2021-10",
+      "views": 217047
+    },
+    {
+      "period": "2021-11",
+      "views": 295229
+    },
+    {
+      "period": "2021-12",
+      "views": 171090
     },
     {
       "period": "2022-01",
@@ -191,6 +239,10 @@
     {
       "period": "2015",
       "views": 1752452
+    },
+    {
+      "period": "2021",
+      "views": 3555135
     },
     {
       "period": "2022",

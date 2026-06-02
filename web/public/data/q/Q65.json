@@ -4,7 +4,7 @@
   "title": "Los_Angeles",
   "description": "seat of Los Angeles County, and largest city in California, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Angeles_with_Mount_Baldy.jpg?width=64",
-  "total": 9238539,
+  "total": 11601723,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,54 @@
     {
       "period": "2015-12",
       "views": 157779
+    },
+    {
+      "period": "2021-01",
+      "views": 253146
+    },
+    {
+      "period": "2021-02",
+      "views": 135540
+    },
+    {
+      "period": "2021-03",
+      "views": 39730
+    },
+    {
+      "period": "2021-04",
+      "views": 60243
+    },
+    {
+      "period": "2021-05",
+      "views": 29975
+    },
+    {
+      "period": "2021-06",
+      "views": 9366
+    },
+    {
+      "period": "2021-07",
+      "views": 346371
+    },
+    {
+      "period": "2021-08",
+      "views": 380417
+    },
+    {
+      "period": "2021-09",
+      "views": 299419
+    },
+    {
+      "period": "2021-10",
+      "views": 301771
+    },
+    {
+      "period": "2021-11",
+      "views": 263621
+    },
+    {
+      "period": "2021-12",
+      "views": 243585
     },
     {
       "period": "2022-01",
@@ -179,6 +227,10 @@
     {
       "period": "2015",
       "views": 1583357
+    },
+    {
+      "period": "2021",
+      "views": 2363184
     },
     {
       "period": "2022",

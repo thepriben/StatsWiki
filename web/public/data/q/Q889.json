@@ -4,7 +4,7 @@
   "title": "Afghanistan",
   "description": "country in Central and South Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Afghan-big.jpg?width=64",
-  "total": 9283061,
+  "total": 18687680,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,42 @@
     {
       "period": "2015-12",
       "views": 9702
+    },
+    {
+      "period": "2021-04",
+      "views": 63735
+    },
+    {
+      "period": "2021-05",
+      "views": 34026
+    },
+    {
+      "period": "2021-06",
+      "views": 61202
+    },
+    {
+      "period": "2021-07",
+      "views": 486424
+    },
+    {
+      "period": "2021-08",
+      "views": 6232206
+    },
+    {
+      "period": "2021-09",
+      "views": 1157929
+    },
+    {
+      "period": "2021-10",
+      "views": 580153
+    },
+    {
+      "period": "2021-11",
+      "views": 432575
+    },
+    {
+      "period": "2021-12",
+      "views": 356369
     },
     {
       "period": "2022-01",
@@ -227,6 +263,10 @@
     {
       "period": "2015",
       "views": 127871
+    },
+    {
+      "period": "2021",
+      "views": 9404619
     },
     {
       "period": "2022",

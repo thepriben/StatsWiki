@@ -4,8 +4,52 @@
   "title": "Yellowstone_(American_TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellowstone_%28American_TV_series%29_logo.png?width=64",
-  "total": 22338853,
+  "total": 25625114,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 486299
+    },
+    {
+      "period": "2021-02",
+      "views": 259870
+    },
+    {
+      "period": "2021-03",
+      "views": 50094
+    },
+    {
+      "period": "2021-04",
+      "views": 10033
+    },
+    {
+      "period": "2021-05",
+      "views": 56307
+    },
+    {
+      "period": "2021-06",
+      "views": 27362
+    },
+    {
+      "period": "2021-07",
+      "views": 68611
+    },
+    {
+      "period": "2021-09",
+      "views": 104411
+    },
+    {
+      "period": "2021-10",
+      "views": 53782
+    },
+    {
+      "period": "2021-11",
+      "views": 1069573
+    },
+    {
+      "period": "2021-12",
+      "views": 1099919
+    },
     {
       "period": "2022-01",
       "views": 1101066
@@ -176,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3286261
+    },
     {
       "period": "2022",
       "views": 6422636

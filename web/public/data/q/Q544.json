@@ -4,7 +4,7 @@
   "title": "Solar_System",
   "description": "the Sun, its planets and their moons",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_System_true_color.jpg?width=64",
-  "total": 1400976,
+  "total": 3595174,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,6 +25,54 @@
     {
       "period": "2015-11",
       "views": 58142
+    },
+    {
+      "period": "2021-01",
+      "views": 287739
+    },
+    {
+      "period": "2021-02",
+      "views": 373809
+    },
+    {
+      "period": "2021-03",
+      "views": 355296
+    },
+    {
+      "period": "2021-04",
+      "views": 163030
+    },
+    {
+      "period": "2021-05",
+      "views": 150029
+    },
+    {
+      "period": "2021-06",
+      "views": 188911
+    },
+    {
+      "period": "2021-07",
+      "views": 9904
+    },
+    {
+      "period": "2021-08",
+      "views": 91865
+    },
+    {
+      "period": "2021-09",
+      "views": 178504
+    },
+    {
+      "period": "2021-10",
+      "views": 202033
+    },
+    {
+      "period": "2021-11",
+      "views": 118060
+    },
+    {
+      "period": "2021-12",
+      "views": 75018
     },
     {
       "period": "2022-01",
@@ -91,6 +139,10 @@
     {
       "period": "2015",
       "views": 835096
+    },
+    {
+      "period": "2021",
+      "views": 2194198
     },
     {
       "period": "2022",

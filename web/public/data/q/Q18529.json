@@ -4,8 +4,20 @@
   "title": "Wrexham_A.F.C.",
   "description": "association football club in Wrexham, Wales",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Racecourse_Ground.jpg?width=64",
-  "total": 7225487,
+  "total": 7348721,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 17933
+    },
+    {
+      "period": "2021-08",
+      "views": 10833
+    },
+    {
+      "period": "2021-10",
+      "views": 94468
+    },
     {
       "period": "2022-03",
       "views": 24087
@@ -176,6 +188,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 123234
+    },
     {
       "period": "2022",
       "views": 1894277

@@ -4,8 +4,56 @@
   "title": "Marvel_Cinematic_Universe:_Phase_Four",
   "description": "group of superhero films and television series",
   "image": "",
-  "total": 6580769,
+  "total": 16283949,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 738097
+    },
+    {
+      "period": "2021-02",
+      "views": 895074
+    },
+    {
+      "period": "2021-03",
+      "views": 1289041
+    },
+    {
+      "period": "2021-04",
+      "views": 848661
+    },
+    {
+      "period": "2021-05",
+      "views": 622811
+    },
+    {
+      "period": "2021-06",
+      "views": 601337
+    },
+    {
+      "period": "2021-07",
+      "views": 1269596
+    },
+    {
+      "period": "2021-08",
+      "views": 768075
+    },
+    {
+      "period": "2021-09",
+      "views": 592898
+    },
+    {
+      "period": "2021-10",
+      "views": 456977
+    },
+    {
+      "period": "2021-11",
+      "views": 627244
+    },
+    {
+      "period": "2021-12",
+      "views": 993369
+    },
     {
       "period": "2022-01",
       "views": 783034
@@ -80,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 9703180
+    },
     {
       "period": "2022",
       "views": 6056312

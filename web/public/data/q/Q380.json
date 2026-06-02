@@ -4,8 +4,20 @@
   "title": "Meta_Platforms",
   "description": "American technology company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_HQ_2023.png?width=64",
-  "total": 13570971,
+  "total": 15725597,
   "monthly": [
+    {
+      "period": "2021-10",
+      "views": 181381
+    },
+    {
+      "period": "2021-11",
+      "views": 1118754
+    },
+    {
+      "period": "2021-12",
+      "views": 854491
+    },
     {
       "period": "2022-01",
       "views": 942071
@@ -132,6 +144,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2154626
+    },
     {
       "period": "2022",
       "views": 6826658

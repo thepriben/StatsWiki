@@ -4,8 +4,52 @@
   "title": "Thor:_Love_and_Thunder",
   "description": "2022 film directed by Taika Waititi",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ThorLoveandThunder.png?width=64",
-  "total": 12607444,
+  "total": 14588963,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 143390
+    },
+    {
+      "period": "2021-03",
+      "views": 428086
+    },
+    {
+      "period": "2021-04",
+      "views": 298899
+    },
+    {
+      "period": "2021-05",
+      "views": 171669
+    },
+    {
+      "period": "2021-06",
+      "views": 179458
+    },
+    {
+      "period": "2021-07",
+      "views": 302756
+    },
+    {
+      "period": "2021-08",
+      "views": 150626
+    },
+    {
+      "period": "2021-09",
+      "views": 69167
+    },
+    {
+      "period": "2021-10",
+      "views": 9456
+    },
+    {
+      "period": "2021-11",
+      "views": 19126
+    },
+    {
+      "period": "2021-12",
+      "views": 208886
+    },
     {
       "period": "2022-01",
       "views": 338091
@@ -68,6 +112,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 1981519
+    },
     {
       "period": "2022",
       "views": 12562779

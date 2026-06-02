@@ -4,8 +4,36 @@
   "title": "IOS",
   "description": "mobile operating system by Apple Inc.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IOS_wordmark_%282017%29.svg?width=64",
-  "total": 9146985,
+  "total": 13532667,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 340786
+    },
+    {
+      "period": "2021-07",
+      "views": 777318
+    },
+    {
+      "period": "2021-08",
+      "views": 737676
+    },
+    {
+      "period": "2021-09",
+      "views": 556290
+    },
+    {
+      "period": "2021-10",
+      "views": 669643
+    },
+    {
+      "period": "2021-11",
+      "views": 668448
+    },
+    {
+      "period": "2021-12",
+      "views": 635521
+    },
     {
       "period": "2022-01",
       "views": 825886
@@ -92,6 +120,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 4385682
+    },
     {
       "period": "2022",
       "views": 6673486

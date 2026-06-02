@@ -4,8 +4,16 @@
   "title": "Yellowjackets_(TV_series)",
   "description": "2021 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellowjackets.jpg?width=64",
-  "total": 7971950,
+  "total": 8806838,
   "monthly": [
+    {
+      "period": "2021-11",
+      "views": 326877
+    },
+    {
+      "period": "2021-12",
+      "views": 508011
+    },
     {
       "period": "2022-01",
       "views": 1037553
@@ -100,6 +108,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 834888
+    },
     {
       "period": "2022",
       "views": 1371508

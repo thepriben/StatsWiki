@@ -4,8 +4,52 @@
   "title": "Skathi_(moon)",
   "description": "moon of Saturn",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skathi-discovery-CFHT.gif?width=64",
-  "total": 19816621,
+  "total": 32620779,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 107035
+    },
+    {
+      "period": "2021-03",
+      "views": 581809
+    },
+    {
+      "period": "2021-04",
+      "views": 978450
+    },
+    {
+      "period": "2021-05",
+      "views": 1452138
+    },
+    {
+      "period": "2021-06",
+      "views": 2091161
+    },
+    {
+      "period": "2021-07",
+      "views": 1926953
+    },
+    {
+      "period": "2021-08",
+      "views": 1841659
+    },
+    {
+      "period": "2021-09",
+      "views": 1176784
+    },
+    {
+      "period": "2021-10",
+      "views": 924922
+    },
+    {
+      "period": "2021-11",
+      "views": 902922
+    },
+    {
+      "period": "2021-12",
+      "views": 820325
+    },
     {
       "period": "2022-01",
       "views": 1213896
@@ -48,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 12804158
+    },
     {
       "period": "2022",
       "views": 19816621

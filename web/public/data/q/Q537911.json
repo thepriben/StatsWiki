@@ -4,7 +4,7 @@
   "title": "Agents_of_S.H.I.E.L.D.",
   "description": "American television series (2013-2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvel%27s_Agents_of_S.H.I.E.L.D..svg?width=64",
-  "total": 1997861,
+  "total": 2008787,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,20 @@
     {
       "period": "2015-12",
       "views": 339459
+    },
+    {
+      "period": "2021-03",
+      "views": 10926
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1997861
+    },
+    {
+      "period": "2021",
+      "views": 10926
     }
   ]
 }

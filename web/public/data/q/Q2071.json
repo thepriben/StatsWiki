@@ -4,8 +4,24 @@
   "title": "David_Lynch",
   "description": "American filmmaker, visual artist, musician, and actor (1946–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Lynch_at_the_1990_Emmy_Awards.jpg?width=64",
-  "total": 4796886,
+  "total": 4899959,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 15067
+    },
+    {
+      "period": "2021-02",
+      "views": 10687
+    },
+    {
+      "period": "2021-06",
+      "views": 13416
+    },
+    {
+      "period": "2021-10",
+      "views": 63903
+    },
     {
       "period": "2022-01",
       "views": 13578
@@ -76,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 103073
+    },
     {
       "period": "2022",
       "views": 24121

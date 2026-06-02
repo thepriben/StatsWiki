@@ -4,8 +4,24 @@
   "title": "Opinion_polling_for_the_next_United_Kingdom_general_election",
   "description": "summary of the United Kingdom polls",
   "image": "",
-  "total": 13949693,
+  "total": 14410857,
   "monthly": [
+    {
+      "period": "2021-05",
+      "views": 45329
+    },
+    {
+      "period": "2021-09",
+      "views": 10726
+    },
+    {
+      "period": "2021-11",
+      "views": 149074
+    },
+    {
+      "period": "2021-12",
+      "views": 256035
+    },
     {
       "period": "2022-01",
       "views": 257049
@@ -200,6 +216,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 461164
+    },
     {
       "period": "2022",
       "views": 1804821

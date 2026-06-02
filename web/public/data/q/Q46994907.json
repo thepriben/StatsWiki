@@ -4,8 +4,16 @@
   "title": "Maya_Hawke",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maya_Hawke_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 7659434,
+  "total": 7793881,
   "monthly": [
+    {
+      "period": "2021-07",
+      "views": 125176
+    },
+    {
+      "period": "2021-11",
+      "views": 9271
+    },
     {
       "period": "2022-02",
       "views": 12869
@@ -108,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 134447
+    },
     {
       "period": "2022",
       "views": 3739929

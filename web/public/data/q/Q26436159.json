@@ -4,8 +4,32 @@
   "title": "Ilhan_Omar",
   "description": "American politician (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg?width=64",
-  "total": 3532079,
+  "total": 3766509,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 81474
+    },
+    {
+      "period": "2021-02",
+      "views": 66572
+    },
+    {
+      "period": "2021-06",
+      "views": 22893
+    },
+    {
+      "period": "2021-08",
+      "views": 13524
+    },
+    {
+      "period": "2021-11",
+      "views": 35062
+    },
+    {
+      "period": "2021-12",
+      "views": 14905
+    },
     {
       "period": "2022-04",
       "views": 33245
@@ -104,6 +128,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 234430
+    },
     {
       "period": "2022",
       "views": 68049

@@ -4,7 +4,7 @@
   "title": "Divergent_(film)",
   "description": "2014 film by Neil Burger",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Divergent.png?width=64",
-  "total": 1319381,
+  "total": 1398007,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,32 @@
     {
       "period": "2015-12",
       "views": 223040
+    },
+    {
+      "period": "2021-02",
+      "views": 43848
+    },
+    {
+      "period": "2021-03",
+      "views": 10899
+    },
+    {
+      "period": "2021-08",
+      "views": 12799
+    },
+    {
+      "period": "2021-12",
+      "views": 11080
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 1319381
+    },
+    {
+      "period": "2021",
+      "views": 78626
     }
   ]
 }

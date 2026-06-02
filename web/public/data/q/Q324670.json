@@ -4,8 +4,56 @@
   "title": "Omegle",
   "description": "free online chat website",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Omegle.svg?width=64",
-  "total": 13812223,
+  "total": 16606603,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 146489
+    },
+    {
+      "period": "2021-02",
+      "views": 320395
+    },
+    {
+      "period": "2021-03",
+      "views": 71130
+    },
+    {
+      "period": "2021-04",
+      "views": 34874
+    },
+    {
+      "period": "2021-05",
+      "views": 45762
+    },
+    {
+      "period": "2021-06",
+      "views": 165086
+    },
+    {
+      "period": "2021-07",
+      "views": 452441
+    },
+    {
+      "period": "2021-08",
+      "views": 419981
+    },
+    {
+      "period": "2021-09",
+      "views": 455375
+    },
+    {
+      "period": "2021-10",
+      "views": 444894
+    },
+    {
+      "period": "2021-11",
+      "views": 128015
+    },
+    {
+      "period": "2021-12",
+      "views": 109938
+    },
     {
       "period": "2022-01",
       "views": 176723
@@ -108,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2794380
+    },
     {
       "period": "2022",
       "views": 3455010

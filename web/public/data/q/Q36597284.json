@@ -4,8 +4,12 @@
   "title": "Wagner_Group",
   "description": "Russian mercenary",
   "image": "",
-  "total": 9788493,
+  "total": 9803385,
   "monthly": [
+    {
+      "period": "2021-08",
+      "views": 14892
+    },
     {
       "period": "2022-02",
       "views": 95596
@@ -88,6 +92,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 14892
+    },
     {
       "period": "2022",
       "views": 1979652

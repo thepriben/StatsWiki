@@ -4,8 +4,36 @@
   "title": "Video_hosting_service",
   "description": "type of a video-sharing website",
   "image": "",
-  "total": 11593693,
+  "total": 15452773,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 332107
+    },
+    {
+      "period": "2021-07",
+      "views": 527245
+    },
+    {
+      "period": "2021-08",
+      "views": 733185
+    },
+    {
+      "period": "2021-09",
+      "views": 557109
+    },
+    {
+      "period": "2021-10",
+      "views": 568338
+    },
+    {
+      "period": "2021-11",
+      "views": 495234
+    },
+    {
+      "period": "2021-12",
+      "views": 645862
+    },
     {
       "period": "2022-01",
       "views": 211083
@@ -88,6 +116,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3859080
+    },
     {
       "period": "2022",
       "views": 7506085

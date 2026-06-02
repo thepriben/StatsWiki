@@ -4,7 +4,7 @@
   "title": "Suicide_Squad_(film)",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 4626129,
+  "total": 6803642,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,52 @@
     {
       "period": "2015-12",
       "views": 449060
+    },
+    {
+      "period": "2021-01",
+      "views": 13444
+    },
+    {
+      "period": "2021-02",
+      "views": 12719
+    },
+    {
+      "period": "2021-03",
+      "views": 319208
+    },
+    {
+      "period": "2021-04",
+      "views": 75619
+    },
+    {
+      "period": "2021-06",
+      "views": 48507
+    },
+    {
+      "period": "2021-07",
+      "views": 316706
+    },
+    {
+      "period": "2021-08",
+      "views": 1333084
+    },
+    {
+      "period": "2021-09",
+      "views": 38816
+    },
+    {
+      "period": "2021-11",
+      "views": 19410
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 4626129
+    },
+    {
+      "period": "2021",
+      "views": 2177513
     }
   ]
 }

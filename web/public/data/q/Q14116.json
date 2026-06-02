@@ -4,8 +4,36 @@
   "title": "MacOS",
   "description": "operating system for Apple computers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2010-01-21_MacBook_Pro_Mac_OS_X_Snow_Leopard_with_Earth_background.jpg?width=64",
-  "total": 8484099,
+  "total": 12256048,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 409908
+    },
+    {
+      "period": "2021-07",
+      "views": 614313
+    },
+    {
+      "period": "2021-08",
+      "views": 626611
+    },
+    {
+      "period": "2021-09",
+      "views": 511369
+    },
+    {
+      "period": "2021-10",
+      "views": 547989
+    },
+    {
+      "period": "2021-11",
+      "views": 562811
+    },
+    {
+      "period": "2021-12",
+      "views": 498948
+    },
     {
       "period": "2022-01",
       "views": 557835
@@ -104,6 +132,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3771949
+    },
     {
       "period": "2022",
       "views": 5987430

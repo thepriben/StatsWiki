@@ -4,8 +4,20 @@
   "title": "Peter_Thiel",
   "description": "German-American entrepreneur and venture capitalist (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Thiel_by_Gage_Skidmore.jpg?width=64",
-  "total": 9271419,
+  "total": 9321068,
   "monthly": [
+    {
+      "period": "2021-06",
+      "views": 18429
+    },
+    {
+      "period": "2021-09",
+      "views": 13073
+    },
+    {
+      "period": "2021-12",
+      "views": 18147
+    },
     {
       "period": "2022-02",
       "views": 109784
@@ -140,6 +152,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 49649
+    },
     {
       "period": "2022",
       "views": 254878

@@ -4,7 +4,7 @@
   "title": "Android_version_history",
   "description": "history of the mobile operating system Android by Google",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Android_Gingerbread_%282.3%29.jpg?width=64",
-  "total": 2064291,
+  "total": 2074140,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,12 +29,20 @@
     {
       "period": "2015-12",
       "views": 361347
+    },
+    {
+      "period": "2021-10",
+      "views": 9849
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2064291
+    },
+    {
+      "period": "2021",
+      "views": 9849
     }
   ]
 }

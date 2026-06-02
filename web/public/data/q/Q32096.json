@@ -4,7 +4,7 @@
   "title": "Super_Bowl",
   "description": "National Football League championship game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_Bowl_XLV_marquee_at_Cowboys_Stadium.jpg?width=64",
-  "total": 8224324,
+  "total": 9441498,
   "monthly": [
     {
       "period": "2015-09",
@@ -21,6 +21,18 @@
     {
       "period": "2015-12",
       "views": 63774
+    },
+    {
+      "period": "2021-01",
+      "views": 490193
+    },
+    {
+      "period": "2021-02",
+      "views": 716756
+    },
+    {
+      "period": "2021-10",
+      "views": 10225
     },
     {
       "period": "2022-01",
@@ -103,6 +115,10 @@
     {
       "period": "2015",
       "views": 165939
+    },
+    {
+      "period": "2021",
+      "views": 1217174
     },
     {
       "period": "2022",

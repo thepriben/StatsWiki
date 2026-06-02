@@ -4,8 +4,48 @@
   "title": "Wikipedia:Featured_pictures",
   "description": "counterpart of Featured Articles for images",
   "image": "",
-  "total": 420408001,
+  "total": 441464561,
   "monthly": [
+    {
+      "period": "2021-03",
+      "views": 615417
+    },
+    {
+      "period": "2021-04",
+      "views": 2098238
+    },
+    {
+      "period": "2021-05",
+      "views": 2858818
+    },
+    {
+      "period": "2021-06",
+      "views": 3548051
+    },
+    {
+      "period": "2021-07",
+      "views": 2566046
+    },
+    {
+      "period": "2021-08",
+      "views": 2390444
+    },
+    {
+      "period": "2021-09",
+      "views": 2554096
+    },
+    {
+      "period": "2021-10",
+      "views": 1650250
+    },
+    {
+      "period": "2021-11",
+      "views": 1460565
+    },
+    {
+      "period": "2021-12",
+      "views": 1314635
+    },
     {
       "period": "2022-01",
       "views": 1285336
@@ -220,6 +260,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 21056560
+    },
     {
       "period": "2022",
       "views": 35212080

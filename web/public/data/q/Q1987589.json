@@ -4,8 +4,56 @@
   "title": "Generation_Z",
   "description": "cohort succeeding Millennials, born from 1997 to 2012",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9n%C3%A9ration_Z.jpg?width=64",
-  "total": 16371023,
+  "total": 18804733,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 78987
+    },
+    {
+      "period": "2021-02",
+      "views": 415969
+    },
+    {
+      "period": "2021-03",
+      "views": 533832
+    },
+    {
+      "period": "2021-04",
+      "views": 236456
+    },
+    {
+      "period": "2021-05",
+      "views": 340127
+    },
+    {
+      "period": "2021-06",
+      "views": 292710
+    },
+    {
+      "period": "2021-07",
+      "views": 128137
+    },
+    {
+      "period": "2021-08",
+      "views": 90360
+    },
+    {
+      "period": "2021-09",
+      "views": 76375
+    },
+    {
+      "period": "2021-10",
+      "views": 91523
+    },
+    {
+      "period": "2021-11",
+      "views": 112912
+    },
+    {
+      "period": "2021-12",
+      "views": 36322
+    },
     {
       "period": "2022-01",
       "views": 88782
@@ -216,6 +264,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2433710
+    },
     {
       "period": "2022",
       "views": 2746015

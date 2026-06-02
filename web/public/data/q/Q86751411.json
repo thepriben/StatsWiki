@@ -4,8 +4,12 @@
   "title": "Pushpa:_The_Rise",
   "description": "2021 film directed by Sukumar",
   "image": "",
-  "total": 6491806,
+  "total": 8594196,
   "monthly": [
+    {
+      "period": "2021-12",
+      "views": 2102390
+    },
     {
       "period": "2022-01",
       "views": 2957859
@@ -64,6 +68,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2102390
+    },
     {
       "period": "2022",
       "views": 5011591

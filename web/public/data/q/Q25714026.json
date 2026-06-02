@@ -4,8 +4,56 @@
   "title": "Jake_Paul",
   "description": "American YouTuber and boxer (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jake_Paul_%2853116882732%29.jpg?width=64",
-  "total": 13183645,
+  "total": 16878012,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 131087
+    },
+    {
+      "period": "2021-02",
+      "views": 10164
+    },
+    {
+      "period": "2021-03",
+      "views": 138632
+    },
+    {
+      "period": "2021-04",
+      "views": 807737
+    },
+    {
+      "period": "2021-05",
+      "views": 464244
+    },
+    {
+      "period": "2021-06",
+      "views": 511706
+    },
+    {
+      "period": "2021-07",
+      "views": 52774
+    },
+    {
+      "period": "2021-08",
+      "views": 621285
+    },
+    {
+      "period": "2021-09",
+      "views": 112745
+    },
+    {
+      "period": "2021-10",
+      "views": 63582
+    },
+    {
+      "period": "2021-11",
+      "views": 67863
+    },
+    {
+      "period": "2021-12",
+      "views": 712548
+    },
     {
       "period": "2022-01",
       "views": 104799
@@ -172,6 +220,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3694367
+    },
     {
       "period": "2022",
       "views": 1157930

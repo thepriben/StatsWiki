@@ -4,8 +4,28 @@
   "title": "Vanessa_Kirby",
   "description": "British actress (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanessa_Kirby_at_the_2024_Toronto_International_Film_Festival_08_%28Cropped%29.jpg?width=64",
-  "total": 7136790,
+  "total": 8020933,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 484455
+    },
+    {
+      "period": "2021-02",
+      "views": 22076
+    },
+    {
+      "period": "2021-03",
+      "views": 186346
+    },
+    {
+      "period": "2021-04",
+      "views": 116817
+    },
+    {
+      "period": "2021-07",
+      "views": 74449
+    },
     {
       "period": "2022-05",
       "views": 15006
@@ -140,6 +160,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 884143
+    },
     {
       "period": "2022",
       "views": 159905

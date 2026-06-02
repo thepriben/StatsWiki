@@ -4,8 +4,36 @@
   "title": "Stranger_Things_(season_4)",
   "description": "fourth season of Netflix series Stranger Things",
   "image": "",
-  "total": 11504706,
+  "total": 11863829,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 27569
+    },
+    {
+      "period": "2021-05",
+      "views": 68437
+    },
+    {
+      "period": "2021-06",
+      "views": 18766
+    },
+    {
+      "period": "2021-07",
+      "views": 20378
+    },
+    {
+      "period": "2021-08",
+      "views": 12673
+    },
+    {
+      "period": "2021-09",
+      "views": 74190
+    },
+    {
+      "period": "2021-11",
+      "views": 137110
+    },
     {
       "period": "2022-01",
       "views": 12989
@@ -44,6 +72,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 359123
+    },
     {
       "period": "2022",
       "views": 11504706

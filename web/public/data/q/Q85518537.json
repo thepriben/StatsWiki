@@ -4,8 +4,12 @@
   "title": "Carlos_Alcaraz",
   "description": "Spanish tennis player (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos_Alcaraz_Roland_Garros_2025_%28cropped%29.jpg?width=64",
-  "total": 20644648,
+  "total": 20845783,
   "monthly": [
+    {
+      "period": "2021-09",
+      "views": 201135
+    },
     {
       "period": "2022-02",
       "views": 22711
@@ -176,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 201135
+    },
     {
       "period": "2022",
       "views": 1573996

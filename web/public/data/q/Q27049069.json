@@ -4,8 +4,16 @@
   "title": "Sam_Darnold",
   "description": "American football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Darnold.jpg?width=64",
-  "total": 4180263,
+  "total": 4367511,
   "monthly": [
+    {
+      "period": "2021-04",
+      "views": 103252
+    },
+    {
+      "period": "2021-09",
+      "views": 83996
+    },
     {
       "period": "2022-07",
       "views": 12560
@@ -96,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 187248
+    },
     {
       "period": "2022",
       "views": 12560

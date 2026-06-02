@@ -4,8 +4,52 @@
   "title": "Kylian_Mbappé",
   "description": "French association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg?width=64",
-  "total": 24357225,
+  "total": 26612936,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 257947
+    },
+    {
+      "period": "2021-03",
+      "views": 58079
+    },
+    {
+      "period": "2021-04",
+      "views": 134046
+    },
+    {
+      "period": "2021-05",
+      "views": 33487
+    },
+    {
+      "period": "2021-06",
+      "views": 685531
+    },
+    {
+      "period": "2021-07",
+      "views": 193112
+    },
+    {
+      "period": "2021-08",
+      "views": 542665
+    },
+    {
+      "period": "2021-09",
+      "views": 69079
+    },
+    {
+      "period": "2021-10",
+      "views": 116323
+    },
+    {
+      "period": "2021-11",
+      "views": 91174
+    },
+    {
+      "period": "2021-12",
+      "views": 74268
+    },
     {
       "period": "2022-01",
       "views": 33400
@@ -216,6 +260,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 2255711
+    },
     {
       "period": "2022",
       "views": 10231491

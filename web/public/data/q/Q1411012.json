@@ -4,8 +4,12 @@
   "title": "Jeremy_Allen_White",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy_Allen_White_Springsteen-33_%28cropped%29.jpg?width=64",
-  "total": 11928480,
+  "total": 11944280,
   "monthly": [
+    {
+      "period": "2021-02",
+      "views": 15800
+    },
     {
       "period": "2022-06",
       "views": 105441
@@ -172,6 +176,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 15800
+    },
     {
       "period": "2022",
       "views": 780646

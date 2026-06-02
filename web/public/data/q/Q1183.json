@@ -4,7 +4,7 @@
   "title": "Puerto_Rico",
   "description": "unincorporated territory of the United States of America",
   "image": "",
-  "total": 3409644,
+  "total": 3513276,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,26 @@
     {
       "period": "2015-12",
       "views": 141886
+    },
+    {
+      "period": "2021-01",
+      "views": 30997
+    },
+    {
+      "period": "2021-02",
+      "views": 11477
+    },
+    {
+      "period": "2021-04",
+      "views": 22823
+    },
+    {
+      "period": "2021-08",
+      "views": 28343
+    },
+    {
+      "period": "2021-12",
+      "views": 9992
     },
     {
       "period": "2022-03",
@@ -123,6 +143,10 @@
     {
       "period": "2015",
       "views": 1306604
+    },
+    {
+      "period": "2021",
+      "views": 103632
     },
     {
       "period": "2022",

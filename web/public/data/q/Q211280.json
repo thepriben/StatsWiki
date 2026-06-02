@@ -4,8 +4,24 @@
   "title": "Ray_Liotta",
   "description": "American actor (1954–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ray_Liotta_%288140672892%29.jpg?width=64",
-  "total": 9673207,
+  "total": 9777189,
   "monthly": [
+    {
+      "period": "2021-06",
+      "views": 10771
+    },
+    {
+      "period": "2021-08",
+      "views": 17193
+    },
+    {
+      "period": "2021-09",
+      "views": 30962
+    },
+    {
+      "period": "2021-10",
+      "views": 45056
+    },
     {
       "period": "2022-05",
       "views": 3977507
@@ -152,6 +168,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 103982
+    },
     {
       "period": "2022",
       "views": 6391255

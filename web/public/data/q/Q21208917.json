@@ -4,8 +4,56 @@
   "title": "Windows_10_version_history",
   "description": "history of minor versions of the Windows 10 operating system",
   "image": "",
-  "total": 12324539,
+  "total": 15476492,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 255489
+    },
+    {
+      "period": "2021-02",
+      "views": 279475
+    },
+    {
+      "period": "2021-03",
+      "views": 360148
+    },
+    {
+      "period": "2021-04",
+      "views": 272743
+    },
+    {
+      "period": "2021-05",
+      "views": 247703
+    },
+    {
+      "period": "2021-06",
+      "views": 298725
+    },
+    {
+      "period": "2021-07",
+      "views": 239492
+    },
+    {
+      "period": "2021-08",
+      "views": 247753
+    },
+    {
+      "period": "2021-09",
+      "views": 204552
+    },
+    {
+      "period": "2021-10",
+      "views": 262500
+    },
+    {
+      "period": "2021-11",
+      "views": 291246
+    },
+    {
+      "period": "2021-12",
+      "views": 192127
+    },
     {
       "period": "2022-01",
       "views": 196065
@@ -220,6 +268,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3151953
+    },
     {
       "period": "2022",
       "views": 2543832

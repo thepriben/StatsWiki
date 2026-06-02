@@ -4,7 +4,7 @@
   "title": "How_to_Get_Away_with_Murder",
   "description": "2014-2020 American legal thriller television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/How_To_Get_Away_With_Murder.svg?width=64",
-  "total": 2349671,
+  "total": 2441843,
   "monthly": [
     {
       "period": "2015-07",
@@ -25,12 +25,20 @@
     {
       "period": "2015-12",
       "views": 350112
+    },
+    {
+      "period": "2021-01",
+      "views": 92172
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 2349671
+    },
+    {
+      "period": "2021",
+      "views": 92172
     }
   ]
 }

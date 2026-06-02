@@ -4,8 +4,44 @@
   "title": "Prince_Harry,_Duke_of_Sussex",
   "description": "younger son of Charles III of the United Kingdom and Diana, Princess of Wales",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince_Harry%2C_Duke_of_Sussex_2020_cropped_02.jpg?width=64",
-  "total": 8866952,
+  "total": 12606985,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 130541
+    },
+    {
+      "period": "2021-02",
+      "views": 298932
+    },
+    {
+      "period": "2021-03",
+      "views": 2123471
+    },
+    {
+      "period": "2021-04",
+      "views": 772709
+    },
+    {
+      "period": "2021-05",
+      "views": 227185
+    },
+    {
+      "period": "2021-06",
+      "views": 129693
+    },
+    {
+      "period": "2021-07",
+      "views": 32603
+    },
+    {
+      "period": "2021-08",
+      "views": 13650
+    },
+    {
+      "period": "2021-12",
+      "views": 11249
+    },
     {
       "period": "2022-01",
       "views": 57461
@@ -144,6 +180,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 3740033
+    },
     {
       "period": "2022",
       "views": 4866547

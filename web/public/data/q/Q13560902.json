@@ -4,8 +4,24 @@
   "title": "Kimberly_Guilfoyle",
   "description": "American attorney and political campaign advisor (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimberly_Guilfoyle_2025_%28cropped%29.jpg?width=64",
-  "total": 4795938,
+  "total": 5148790,
   "monthly": [
+    {
+      "period": "2021-01",
+      "views": 279308
+    },
+    {
+      "period": "2021-02",
+      "views": 37511
+    },
+    {
+      "period": "2021-07",
+      "views": 14255
+    },
+    {
+      "period": "2021-09",
+      "views": 21778
+    },
     {
       "period": "2022-01",
       "views": 53277
@@ -140,6 +156,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 352852
+    },
     {
       "period": "2022",
       "views": 222499

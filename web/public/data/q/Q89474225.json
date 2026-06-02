@@ -4,8 +4,28 @@
   "title": "The_Marvels",
   "description": "2023 film directed by Nia DaCosta",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Marvels_Logo.svg?width=64",
-  "total": 7437039,
+  "total": 7760905,
   "monthly": [
+    {
+      "period": "2021-07",
+      "views": 53273
+    },
+    {
+      "period": "2021-08",
+      "views": 57371
+    },
+    {
+      "period": "2021-09",
+      "views": 64542
+    },
+    {
+      "period": "2021-11",
+      "views": 23325
+    },
+    {
+      "period": "2021-12",
+      "views": 125355
+    },
     {
       "period": "2022-01",
       "views": 43743
@@ -84,6 +104,10 @@
     }
   ],
   "yearly": [
+    {
+      "period": "2021",
+      "views": 323866
+    },
     {
       "period": "2022",
       "views": 1202763
