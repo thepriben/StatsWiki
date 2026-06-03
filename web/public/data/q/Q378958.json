@@ -1,0 +1,44 @@
+{
+  "qid": "Q378958",
+  "label": "The Black Crowes",
+  "title": "The_Black_Crowes",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Black_Crowes_Live_at_the_Hammerstein_Ballroom.jpg?width=64",
+  "total": 131146,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 85450
+    },
+    {
+      "period": "2023-04",
+      "views": 18371
+    },
+    {
+      "period": "2025-01",
+      "views": 16442
+    },
+    {
+      "period": "2026-06",
+      "views": 10883
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 85450
+    },
+    {
+      "period": "2023",
+      "views": 18371
+    },
+    {
+      "period": "2025",
+      "views": 16442
+    },
+    {
+      "period": "2026",
+      "views": 10883
+    }
+  ]
+}

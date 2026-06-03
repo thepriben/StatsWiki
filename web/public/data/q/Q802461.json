@@ -1,0 +1,100 @@
+{
+  "qid": "Q802461",
+  "label": "Festa della Repubblica",
+  "title": "Festa_della_Repubblica",
+  "description": "national holiday in Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Festa_della_repubblica_2005_con_frecce_tricolori.jpg?width=64",
+  "total": 245850,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 14793
+    },
+    {
+      "period": "2017-06",
+      "views": 19106
+    },
+    {
+      "period": "2018-06",
+      "views": 13570
+    },
+    {
+      "period": "2019-06",
+      "views": 13943
+    },
+    {
+      "period": "2020-06",
+      "views": 20957
+    },
+    {
+      "period": "2021-06",
+      "views": 25302
+    },
+    {
+      "period": "2022-06",
+      "views": 33735
+    },
+    {
+      "period": "2023-06",
+      "views": 29999
+    },
+    {
+      "period": "2024-06",
+      "views": 24863
+    },
+    {
+      "period": "2025-06",
+      "views": 28980
+    },
+    {
+      "period": "2026-06",
+      "views": 20602
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 14793
+    },
+    {
+      "period": "2017",
+      "views": 19106
+    },
+    {
+      "period": "2018",
+      "views": 13570
+    },
+    {
+      "period": "2019",
+      "views": 13943
+    },
+    {
+      "period": "2020",
+      "views": 20957
+    },
+    {
+      "period": "2021",
+      "views": 25302
+    },
+    {
+      "period": "2022",
+      "views": 33735
+    },
+    {
+      "period": "2023",
+      "views": 29999
+    },
+    {
+      "period": "2024",
+      "views": 24863
+    },
+    {
+      "period": "2025",
+      "views": 28980
+    },
+    {
+      "period": "2026",
+      "views": 20602
+    }
+  ]
+}

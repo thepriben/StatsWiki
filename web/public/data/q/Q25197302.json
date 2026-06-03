@@ -4,7 +4,7 @@
   "title": "List_of_ethnic_slurs",
   "description": "negative words to a certain ethical race",
   "image": "",
-  "total": 17229306,
+  "total": 17237640,
   "monthly": [
     {
       "period": "2018-11",
@@ -297,6 +297,10 @@
     {
       "period": "2026-05",
       "views": 146689
+    },
+    {
+      "period": "2026-06",
+      "views": 8334
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 871249
+      "views": 879583
     }
   ]
 }

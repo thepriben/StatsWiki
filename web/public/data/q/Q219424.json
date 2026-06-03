@@ -4,7 +4,7 @@
   "title": "Scary_Movie",
   "description": "2000 film by Keenen Ivory Wayans",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scary_Movie_film_series_logo.png?width=64",
-  "total": 431017,
+  "total": 441696,
   "monthly": [
     {
       "period": "2016-08",
@@ -48,7 +48,7 @@
     },
     {
       "period": "2026-06",
-      "views": 9005
+      "views": 19684
     }
   ],
   "yearly": [
@@ -70,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 209279
+      "views": 219958
     }
   ]
 }

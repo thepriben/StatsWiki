@@ -4,7 +4,7 @@
   "title": "Jennifer_Lawrence",
   "description": "American actress and producer (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Lawrence%2C_Cannes_Film_Festival_2025.jpg?width=64",
-  "total": 48318940,
+  "total": 48327526,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-05",
       "views": 52455
+    },
+    {
+      "period": "2026-06",
+      "views": 8586
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 932907
+      "views": 941493
     }
   ]
 }

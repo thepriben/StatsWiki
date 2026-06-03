@@ -4,7 +4,7 @@
   "title": "California",
   "description": "state of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GoldenGateBridge_BakerBeach_MC.jpg?width=64",
-  "total": 36414718,
+  "total": 36422629,
   "monthly": [
     {
       "period": "2015-07",
@@ -517,6 +517,10 @@
     {
       "period": "2026-05",
       "views": 57005
+    },
+    {
+      "period": "2026-06",
+      "views": 7911
     }
   ],
   "yearly": [
@@ -566,7 +570,7 @@
     },
     {
       "period": "2026",
-      "views": 176798
+      "views": 184709
     }
   ]
 }

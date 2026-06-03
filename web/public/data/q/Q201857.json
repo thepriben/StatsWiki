@@ -1,0 +1,60 @@
+{
+  "qid": "Q201857",
+  "label": "Carolina Hurricanes",
+  "title": "Carolina_Hurricanes",
+  "description": "hockey team of the National Hockey League",
+  "image": "",
+  "total": 344379,
+  "monthly": [
+    {
+      "period": "2019-04",
+      "views": 23590
+    },
+    {
+      "period": "2019-05",
+      "views": 57060
+    },
+    {
+      "period": "2022-05",
+      "views": 23373
+    },
+    {
+      "period": "2023-05",
+      "views": 41191
+    },
+    {
+      "period": "2025-05",
+      "views": 29691
+    },
+    {
+      "period": "2026-05",
+      "views": 158149
+    },
+    {
+      "period": "2026-06",
+      "views": 11325
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 80650
+    },
+    {
+      "period": "2022",
+      "views": 23373
+    },
+    {
+      "period": "2023",
+      "views": 41191
+    },
+    {
+      "period": "2025",
+      "views": 29691
+    },
+    {
+      "period": "2026",
+      "views": 169474
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "qid": "Q759482",
+  "label": "US Cremonese",
+  "title": "US_Cremonese",
+  "description": "Italian football club based in Cremona, Lombardy",
+  "image": "",
+  "total": 167658,
+  "monthly": [
+    {
+      "period": "2025-08",
+      "views": 22091
+    },
+    {
+      "period": "2025-09",
+      "views": 63166
+    },
+    {
+      "period": "2025-12",
+      "views": 8172
+    },
+    {
+      "period": "2026-04",
+      "views": 8052
+    },
+    {
+      "period": "2026-05",
+      "views": 55631
+    },
+    {
+      "period": "2026-06",
+      "views": 10546
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 93429
+    },
+    {
+      "period": "2026",
+      "views": 74229
+    }
+  ]
+}

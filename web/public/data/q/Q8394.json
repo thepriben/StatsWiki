@@ -4,7 +4,7 @@
   "title": "Sex_position",
   "description": "position of the body used for sexual activity",
   "image": "",
-  "total": 4636233,
+  "total": 4644442,
   "monthly": [
     {
       "period": "2015-09",
@@ -201,6 +201,10 @@
     {
       "period": "2026-05",
       "views": 75344
+    },
+    {
+      "period": "2026-06",
+      "views": 8209
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 188304
+      "views": 196513
     }
   ]
 }

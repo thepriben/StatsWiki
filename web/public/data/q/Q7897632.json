@@ -4,7 +4,7 @@
   "title": "Until_Dawn",
   "description": "2015 survival horror adventure video game developed by Supermassive Games",
   "image": "",
-  "total": 3602097,
+  "total": 3614577,
   "monthly": [
     {
       "period": "2015-08",
@@ -77,6 +77,10 @@
     {
       "period": "2025-08",
       "views": 21548
+    },
+    {
+      "period": "2026-06",
+      "views": 12480
     }
   ],
   "yearly": [
@@ -103,6 +107,10 @@
     {
       "period": "2025",
       "views": 583078
+    },
+    {
+      "period": "2026",
+      "views": 12480
     }
   ]
 }
