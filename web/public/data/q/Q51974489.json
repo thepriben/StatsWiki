@@ -1,0 +1,60 @@
+{
+  "qid": "Q51974489",
+  "label": "World Bicycle Day",
+  "title": "World_Bicycle_Day",
+  "description": "international holiday celebrating the bicycle",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ECF_campaign_graphic_for_World_Bicycle_Day_on_3_June_2021.jpg?width=64",
+  "total": 76876,
+  "monthly": [
+    {
+      "period": "2020-06",
+      "views": 15292
+    },
+    {
+      "period": "2021-06",
+      "views": 15640
+    },
+    {
+      "period": "2022-06",
+      "views": 9394
+    },
+    {
+      "period": "2023-06",
+      "views": 13780
+    },
+    {
+      "period": "2025-06",
+      "views": 10968
+    },
+    {
+      "period": "2026-06",
+      "views": 11802
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 15292
+    },
+    {
+      "period": "2021",
+      "views": 15640
+    },
+    {
+      "period": "2022",
+      "views": 9394
+    },
+    {
+      "period": "2023",
+      "views": 13780
+    },
+    {
+      "period": "2025",
+      "views": 10968
+    },
+    {
+      "period": "2026",
+      "views": 11802
+    }
+  ]
+}

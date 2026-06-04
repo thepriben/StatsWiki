@@ -1,0 +1,44 @@
+{
+  "qid": "Q247869",
+  "label": "60 Minutes",
+  "title": "60_Minutes",
+  "description": "American television newsmagazine program",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/60_Minutes_2006_vector_logo.svg?width=64",
+  "total": 110719,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 68131
+    },
+    {
+      "period": "2017-12",
+      "views": 11426
+    },
+    {
+      "period": "2020-10",
+      "views": 11872
+    },
+    {
+      "period": "2026-06",
+      "views": 19290
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 68131
+    },
+    {
+      "period": "2017",
+      "views": 11426
+    },
+    {
+      "period": "2020",
+      "views": 11872
+    },
+    {
+      "period": "2026",
+      "views": 19290
+    }
+  ]
+}

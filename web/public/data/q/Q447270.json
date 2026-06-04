@@ -1,0 +1,48 @@
+{
+  "qid": "Q447270",
+  "label": "Jordan Staal",
+  "title": "Jordan_Staal",
+  "description": "Canadian ice hockey player",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Staal_2013.jpg?width=64",
+  "total": 147493,
+  "monthly": [
+    {
+      "period": "2018-02",
+      "views": 51575
+    },
+    {
+      "period": "2019-04",
+      "views": 11673
+    },
+    {
+      "period": "2023-05",
+      "views": 17951
+    },
+    {
+      "period": "2026-05",
+      "views": 37928
+    },
+    {
+      "period": "2026-06",
+      "views": 28366
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 51575
+    },
+    {
+      "period": "2019",
+      "views": 11673
+    },
+    {
+      "period": "2023",
+      "views": 17951
+    },
+    {
+      "period": "2026",
+      "views": 66294
+    }
+  ]
+}

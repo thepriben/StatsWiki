@@ -1,0 +1,44 @@
+{
+  "qid": "Q8068040",
+  "label": "Onimusha",
+  "title": "Onimusha",
+  "description": "video game series",
+  "image": "",
+  "total": 101981,
+  "monthly": [
+    {
+      "period": "2018-08",
+      "views": 9704
+    },
+    {
+      "period": "2023-11",
+      "views": 37295
+    },
+    {
+      "period": "2024-12",
+      "views": 45376
+    },
+    {
+      "period": "2026-06",
+      "views": 9606
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 9704
+    },
+    {
+      "period": "2023",
+      "views": 37295
+    },
+    {
+      "period": "2024",
+      "views": 45376
+    },
+    {
+      "period": "2026",
+      "views": 9606
+    }
+  ]
+}

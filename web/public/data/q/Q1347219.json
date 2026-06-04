@@ -1,0 +1,44 @@
+{
+  "qid": "Q1347219",
+  "label": "The Hills",
+  "title": "The_Hills_(TV_series)",
+  "description": "television program",
+  "image": "",
+  "total": 57057,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 20432
+    },
+    {
+      "period": "2018-08",
+      "views": 11311
+    },
+    {
+      "period": "2019-06",
+      "views": 15159
+    },
+    {
+      "period": "2026-06",
+      "views": 10155
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 20432
+    },
+    {
+      "period": "2018",
+      "views": 11311
+    },
+    {
+      "period": "2019",
+      "views": 15159
+    },
+    {
+      "period": "2026",
+      "views": 10155
+    }
+  ]
+}

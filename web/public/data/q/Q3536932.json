@@ -1,0 +1,36 @@
+{
+  "qid": "Q3536932",
+  "label": "Titan Industries",
+  "title": "Titan_Company",
+  "description": "Indian company",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titan_Company_Logo.png?width=64",
+  "total": 42764,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 15850
+    },
+    {
+      "period": "2024-10",
+      "views": 12161
+    },
+    {
+      "period": "2026-06",
+      "views": 14753
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 15850
+    },
+    {
+      "period": "2024",
+      "views": 12161
+    },
+    {
+      "period": "2026",
+      "views": 14753
+    }
+  ]
+}

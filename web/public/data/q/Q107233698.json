@@ -1,0 +1,60 @@
+{
+  "qid": "Q107233698",
+  "label": "Clarkson's Farm",
+  "title": "Clarkson's_Farm",
+  "description": "farming-based documentary TV show",
+  "image": "",
+  "total": 1160838,
+  "monthly": [
+    {
+      "period": "2021-06",
+      "views": 209051
+    },
+    {
+      "period": "2021-07",
+      "views": 21300
+    },
+    {
+      "period": "2023-02",
+      "views": 171779
+    },
+    {
+      "period": "2024-05",
+      "views": 429868
+    },
+    {
+      "period": "2025-05",
+      "views": 114698
+    },
+    {
+      "period": "2025-06",
+      "views": 198909
+    },
+    {
+      "period": "2026-06",
+      "views": 15233
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 230351
+    },
+    {
+      "period": "2023",
+      "views": 171779
+    },
+    {
+      "period": "2024",
+      "views": 429868
+    },
+    {
+      "period": "2025",
+      "views": 313607
+    },
+    {
+      "period": "2026",
+      "views": 15233
+    }
+  ]
+}

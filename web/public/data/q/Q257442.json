@@ -4,7 +4,7 @@
   "title": "Sarah_Paulson",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Paulson_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?width=64",
-  "total": 14460537,
+  "total": 14469191,
   "monthly": [
     {
       "period": "2015-10",
@@ -365,6 +365,10 @@
     {
       "period": "2026-05",
       "views": 41008
+    },
+    {
+      "period": "2026-06",
+      "views": 8654
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 90766
+      "views": 99420
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Macaulay_Culkin",
   "description": "American actor and singer (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Macaulay_Culkin_-_Home_Alone_35th.jpg?width=64",
-  "total": 36366719,
+  "total": 36375544,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-05",
       "views": 253821
+    },
+    {
+      "period": "2026-06",
+      "views": 8825
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1381734
+      "views": 1390559
     }
   ]
 }

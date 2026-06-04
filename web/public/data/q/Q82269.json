@@ -1,0 +1,32 @@
+{
+  "qid": "Q82269",
+  "label": "Scary Movie pentalogy",
+  "title": "Scary_Movie_(film_series)",
+  "description": "American parody film series",
+  "image": "",
+  "total": 105304,
+  "monthly": [
+    {
+      "period": "2024-10",
+      "views": 24241
+    },
+    {
+      "period": "2026-03",
+      "views": 72209
+    },
+    {
+      "period": "2026-06",
+      "views": 8854
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 24241
+    },
+    {
+      "period": "2026",
+      "views": 81063
+    }
+  ]
+}

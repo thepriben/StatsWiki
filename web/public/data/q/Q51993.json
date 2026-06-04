@@ -4,7 +4,7 @@
   "title": "Ebola",
   "description": "human disease",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/7042_lores-Ebola-Zaire-CDC_Photo.jpg?width=64",
-  "total": 697704,
+  "total": 706853,
   "monthly": [
     {
       "period": "2020-06",
@@ -20,7 +20,7 @@
     },
     {
       "period": "2026-06",
-      "views": 33053
+      "views": 42202
     }
   ],
   "yearly": [
@@ -34,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 650641
+      "views": 659790
     }
   ]
 }

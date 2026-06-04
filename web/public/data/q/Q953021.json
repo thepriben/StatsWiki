@@ -1,0 +1,64 @@
+{
+  "qid": "Q953021",
+  "label": "Neverland Ranch",
+  "title": "Neverland_Ranch",
+  "description": "personal home of Michael Jackson",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial-NeverlandTrainStation.jpg?width=64",
+  "total": 1015024,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 15638
+    },
+    {
+      "period": "2018-05",
+      "views": 15027
+    },
+    {
+      "period": "2019-02",
+      "views": 20249
+    },
+    {
+      "period": "2019-03",
+      "views": 516158
+    },
+    {
+      "period": "2020-12",
+      "views": 72117
+    },
+    {
+      "period": "2026-04",
+      "views": 139457
+    },
+    {
+      "period": "2026-05",
+      "views": 222280
+    },
+    {
+      "period": "2026-06",
+      "views": 14098
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 15638
+    },
+    {
+      "period": "2018",
+      "views": 15027
+    },
+    {
+      "period": "2019",
+      "views": 536407
+    },
+    {
+      "period": "2020",
+      "views": 72117
+    },
+    {
+      "period": "2026",
+      "views": 375835
+    }
+  ]
+}

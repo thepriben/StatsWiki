@@ -1,0 +1,76 @@
+{
+  "qid": "Q37431",
+  "label": "ISO 4217",
+  "title": "ISO_4217",
+  "description": "standard which delineates currency designators and its countries",
+  "image": "",
+  "total": 566637,
+  "monthly": [
+    {
+      "period": "2017-12",
+      "views": 11697
+    },
+    {
+      "period": "2020-09",
+      "views": 48990
+    },
+    {
+      "period": "2020-10",
+      "views": 147757
+    },
+    {
+      "period": "2020-11",
+      "views": 105300
+    },
+    {
+      "period": "2020-12",
+      "views": 11298
+    },
+    {
+      "period": "2021-08",
+      "views": 40485
+    },
+    {
+      "period": "2022-02",
+      "views": 121794
+    },
+    {
+      "period": "2022-03",
+      "views": 37334
+    },
+    {
+      "period": "2022-12",
+      "views": 12042
+    },
+    {
+      "period": "2026-05",
+      "views": 20428
+    },
+    {
+      "period": "2026-06",
+      "views": 9512
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11697
+    },
+    {
+      "period": "2020",
+      "views": 313345
+    },
+    {
+      "period": "2021",
+      "views": 40485
+    },
+    {
+      "period": "2022",
+      "views": 171170
+    },
+    {
+      "period": "2026",
+      "views": 29940
+    }
+  ]
+}

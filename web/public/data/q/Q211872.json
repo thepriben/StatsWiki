@@ -1,0 +1,136 @@
+{
+  "qid": "Q211872",
+  "label": "Stanley Cup",
+  "title": "Stanley_Cup",
+  "description": "championship trophy awarded annually in the National Hockey League",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley_Cup%2C_2015.jpg?width=64",
+  "total": 1287315,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 22405
+    },
+    {
+      "period": "2016-06",
+      "views": 87630
+    },
+    {
+      "period": "2017-05",
+      "views": 53701
+    },
+    {
+      "period": "2017-06",
+      "views": 133258
+    },
+    {
+      "period": "2018-05",
+      "views": 27131
+    },
+    {
+      "period": "2018-06",
+      "views": 163556
+    },
+    {
+      "period": "2019-05",
+      "views": 10418
+    },
+    {
+      "period": "2019-06",
+      "views": 128115
+    },
+    {
+      "period": "2020-09",
+      "views": 28775
+    },
+    {
+      "period": "2021-06",
+      "views": 24643
+    },
+    {
+      "period": "2021-07",
+      "views": 67733
+    },
+    {
+      "period": "2022-06",
+      "views": 91594
+    },
+    {
+      "period": "2023-05",
+      "views": 12662
+    },
+    {
+      "period": "2023-06",
+      "views": 40142
+    },
+    {
+      "period": "2024-01",
+      "views": 26137
+    },
+    {
+      "period": "2024-06",
+      "views": 191867
+    },
+    {
+      "period": "2025-02",
+      "views": 11884
+    },
+    {
+      "period": "2025-05",
+      "views": 37656
+    },
+    {
+      "period": "2025-06",
+      "views": 119479
+    },
+    {
+      "period": "2026-06",
+      "views": 8529
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 110035
+    },
+    {
+      "period": "2017",
+      "views": 186959
+    },
+    {
+      "period": "2018",
+      "views": 190687
+    },
+    {
+      "period": "2019",
+      "views": 138533
+    },
+    {
+      "period": "2020",
+      "views": 28775
+    },
+    {
+      "period": "2021",
+      "views": 92376
+    },
+    {
+      "period": "2022",
+      "views": 91594
+    },
+    {
+      "period": "2023",
+      "views": 52804
+    },
+    {
+      "period": "2024",
+      "views": 218004
+    },
+    {
+      "period": "2025",
+      "views": 169019
+    },
+    {
+      "period": "2026",
+      "views": 8529
+    }
+  ]
+}

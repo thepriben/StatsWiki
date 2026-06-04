@@ -4,7 +4,7 @@
   "title": "Stranger_Things",
   "description": "American science fiction horror television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stranger_Things_logo.svg?width=64",
-  "total": 76874708,
+  "total": 76883761,
   "monthly": [
     {
       "period": "2016-06",
@@ -477,6 +477,10 @@
     {
       "period": "2026-05",
       "views": 35357
+    },
+    {
+      "period": "2026-06",
+      "views": 9053
     }
   ],
   "yearly": [
@@ -522,7 +526,7 @@
     },
     {
       "period": "2026",
-      "views": 4440284
+      "views": 4449337
     }
   ]
 }
