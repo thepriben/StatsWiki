@@ -4,7 +4,7 @@
   "title": "Hezbollah",
   "description": "Iranian-backed Shia Islamist political party and armed organization in Lebanon",
   "image": "",
-  "total": 6452937,
+  "total": 6460813,
   "monthly": [
     {
       "period": "2015-11",
@@ -105,6 +105,10 @@
     {
       "period": "2026-04",
       "views": 200337
+    },
+    {
+      "period": "2026-06",
+      "views": 7876
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 824157
+      "views": 832033
     }
   ]
 }

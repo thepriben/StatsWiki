@@ -4,7 +4,7 @@
   "title": "Jessica_Alba",
   "description": "American actress (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg?width=64",
-  "total": 9084193,
+  "total": 9093831,
   "monthly": [
     {
       "period": "2015-07",
@@ -381,6 +381,10 @@
     {
       "period": "2026-05",
       "views": 29287
+    },
+    {
+      "period": "2026-06",
+      "views": 9638
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 844402
+      "views": 854040
     }
   ]
 }

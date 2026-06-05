@@ -4,7 +4,7 @@
   "title": "George_Foreman",
   "description": "American professional boxer (1949–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Foreman_%281973%29.jpg?width=64",
-  "total": 7383712,
+  "total": 7406774,
   "monthly": [
     {
       "period": "2016-06",
@@ -185,6 +185,10 @@
     {
       "period": "2026-04",
       "views": 27527
+    },
+    {
+      "period": "2026-06",
+      "views": 23062
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 40125
+      "views": 63187
     }
   ]
 }

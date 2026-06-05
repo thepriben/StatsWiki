@@ -1,0 +1,36 @@
+{
+  "qid": "Q85812404",
+  "label": "Uppena",
+  "title": "Uppena",
+  "description": "2021 film directed by Buchi Babu Sana",
+  "image": "",
+  "total": 740951,
+  "monthly": [
+    {
+      "period": "2021-02",
+      "views": 480229
+    },
+    {
+      "period": "2021-03",
+      "views": 172884
+    },
+    {
+      "period": "2021-04",
+      "views": 76890
+    },
+    {
+      "period": "2026-06",
+      "views": 10948
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 730003
+    },
+    {
+      "period": "2026",
+      "views": 10948
+    }
+  ]
+}

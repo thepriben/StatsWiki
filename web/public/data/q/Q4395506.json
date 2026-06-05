@@ -4,7 +4,7 @@
   "title": "Portal:Contents",
   "description": "list of Wikipedia's tables of contents",
   "image": "",
-  "total": 20458397,
+  "total": 23616707,
   "monthly": [
     {
       "period": "2015-07",
@@ -216,7 +216,87 @@
     },
     {
       "period": "2019-11",
-      "views": 213943
+      "views": 445871
+    },
+    {
+      "period": "2019-12",
+      "views": 432102
+    },
+    {
+      "period": "2020-01",
+      "views": 446801
+    },
+    {
+      "period": "2020-02",
+      "views": 378869
+    },
+    {
+      "period": "2020-03",
+      "views": 430206
+    },
+    {
+      "period": "2020-04",
+      "views": 418888
+    },
+    {
+      "period": "2020-09",
+      "views": 68407
+    },
+    {
+      "period": "2020-10",
+      "views": 20449
+    },
+    {
+      "period": "2021-03",
+      "views": 9794
+    },
+    {
+      "period": "2021-05",
+      "views": 11561
+    },
+    {
+      "period": "2021-06",
+      "views": 9563
+    },
+    {
+      "period": "2022-01",
+      "views": 11460
+    },
+    {
+      "period": "2022-03",
+      "views": 421037
+    },
+    {
+      "period": "2022-04",
+      "views": 9458
+    },
+    {
+      "period": "2022-06",
+      "views": 9532
+    },
+    {
+      "period": "2022-10",
+      "views": 19217
+    },
+    {
+      "period": "2022-11",
+      "views": 54004
+    },
+    {
+      "period": "2023-01",
+      "views": 10266
+    },
+    {
+      "period": "2025-08",
+      "views": 91074
+    },
+    {
+      "period": "2025-09",
+      "views": 65478
+    },
+    {
+      "period": "2026-06",
+      "views": 8216
     }
   ],
   "yearly": [
@@ -238,7 +318,31 @@
     },
     {
       "period": "2019",
-      "views": 4637981
+      "views": 5302011
+    },
+    {
+      "period": "2020",
+      "views": 1763620
+    },
+    {
+      "period": "2021",
+      "views": 30918
+    },
+    {
+      "period": "2022",
+      "views": 524708
+    },
+    {
+      "period": "2023",
+      "views": 10266
+    },
+    {
+      "period": "2025",
+      "views": 156552
+    },
+    {
+      "period": "2026",
+      "views": 8216
     }
   ]
 }

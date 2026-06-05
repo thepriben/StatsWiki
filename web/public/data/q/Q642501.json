@@ -1,0 +1,24 @@
+{
+  "qid": "Q642501",
+  "label": "Scary Movie 2",
+  "title": "Scary_Movie_2",
+  "description": "2001 film by Keenen Ivory Wayans",
+  "image": "",
+  "total": 58886,
+  "monthly": [
+    {
+      "period": "2026-03",
+      "views": 47432
+    },
+    {
+      "period": "2026-06",
+      "views": 11454
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2026",
+      "views": 58886
+    }
+  ]
+}

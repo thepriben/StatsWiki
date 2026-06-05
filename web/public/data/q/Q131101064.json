@@ -1,0 +1,32 @@
+{
+  "qid": "Q131101064",
+  "label": "Ice Age: Boiling Point",
+  "title": "Ice_Age:_Boiling_Point",
+  "description": "2027 animated film",
+  "image": "",
+  "total": 53986,
+  "monthly": [
+    {
+      "period": "2025-08",
+      "views": 17178
+    },
+    {
+      "period": "2025-09",
+      "views": 14156
+    },
+    {
+      "period": "2026-06",
+      "views": 22652
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 31334
+    },
+    {
+      "period": "2026",
+      "views": 22652
+    }
+  ]
+}

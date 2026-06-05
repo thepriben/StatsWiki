@@ -1,0 +1,60 @@
+{
+  "qid": "Q943532",
+  "label": "Ice Age",
+  "title": "Ice_Age_(franchise)",
+  "description": "film franchise",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice_Age_logo.svg?width=64",
+  "total": 492412,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 212858
+    },
+    {
+      "period": "2021-11",
+      "views": 10281
+    },
+    {
+      "period": "2022-01",
+      "views": 109291
+    },
+    {
+      "period": "2022-02",
+      "views": 74088
+    },
+    {
+      "period": "2022-04",
+      "views": 66104
+    },
+    {
+      "period": "2025-08",
+      "views": 9591
+    },
+    {
+      "period": "2026-06",
+      "views": 10199
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 212858
+    },
+    {
+      "period": "2021",
+      "views": 10281
+    },
+    {
+      "period": "2022",
+      "views": 249483
+    },
+    {
+      "period": "2025",
+      "views": 9591
+    },
+    {
+      "period": "2026",
+      "views": 10199
+    }
+  ]
+}

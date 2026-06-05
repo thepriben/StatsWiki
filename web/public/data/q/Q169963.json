@@ -4,7 +4,7 @@
   "title": "Jason_Statham",
   "description": "English actor (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason_Statham_2018.jpg?width=64",
-  "total": 31210224,
+  "total": 31218172,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-05",
       "views": 192523
+    },
+    {
+      "period": "2026-06",
+      "views": 7948
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 1083309
+      "views": 1091257
     }
   ]
 }

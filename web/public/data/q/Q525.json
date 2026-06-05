@@ -4,7 +4,7 @@
   "title": "Sun",
   "description": "star at the centre of the Solar System",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Our_Sun_at_a_distance_of_150_Mio._km.jpg?width=64",
-  "total": 2210613,
+  "total": 2218603,
   "monthly": [
     {
       "period": "2015-07",
@@ -228,7 +228,7 @@
     },
     {
       "period": "2026-06",
-      "views": 16323
+      "views": 24313
     }
   ],
   "yearly": [
@@ -274,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 673803
+      "views": 681793
     }
   ]
 }
