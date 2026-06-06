@@ -4,7 +4,7 @@
   "title": "The_Substance",
   "description": "2024 film directed by Coralie Fargeat",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_cast_of_The_Substance_at_TIFF_%28cropped%29.jpg?width=64",
-  "total": 10294732,
+  "total": 10317939,
   "monthly": [
     {
       "period": "2024-05",
@@ -57,6 +57,10 @@
     {
       "period": "2026-03",
       "views": 21676
+    },
+    {
+      "period": "2026-06",
+      "views": 23207
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 34015
+      "views": 57222
     }
   ]
 }

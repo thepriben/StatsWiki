@@ -4,7 +4,7 @@
   "title": "Zlatan_Ibrahimović",
   "description": "Swedish association football player (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Russia-Sweden_2015_%2818%29.jpg?width=64",
-  "total": 28857012,
+  "total": 28865542,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-05",
       "views": 8467
+    },
+    {
+      "period": "2026-06",
+      "views": 8530
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 60349
+      "views": 68879
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Nope_(film)",
   "description": "2022 film directed by Jordan Peele",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nope_black_logo.png?width=64",
-  "total": 7362774,
+  "total": 7371416,
   "monthly": [
     {
       "period": "2021-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-05",
       "views": 55804
+    },
+    {
+      "period": "2026-06",
+      "views": 8642
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 55804
+      "views": 64446
     }
   ]
 }

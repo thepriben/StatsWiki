@@ -1,0 +1,48 @@
+{
+  "qid": "Q1777698",
+  "label": "Evanescence",
+  "title": "Evanescence",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Evanescence_-_Rock_am_Ring_2023-7536.jpg?width=64",
+  "total": 63705,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 9400
+    },
+    {
+      "period": "2021-03",
+      "views": 11500
+    },
+    {
+      "period": "2025-12",
+      "views": 22892
+    },
+    {
+      "period": "2026-05",
+      "views": 8908
+    },
+    {
+      "period": "2026-06",
+      "views": 11005
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 9400
+    },
+    {
+      "period": "2021",
+      "views": 11500
+    },
+    {
+      "period": "2025",
+      "views": 22892
+    },
+    {
+      "period": "2026",
+      "views": 19913
+    }
+  ]
+}

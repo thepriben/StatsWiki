@@ -1,0 +1,44 @@
+{
+  "qid": "Q113630354",
+  "label": "Summer Game Fest",
+  "title": "Summer_Game_Fest",
+  "description": "video game event organized and hosted by Geoff Keighley",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Summer_Game_Fest_logo.svg?width=64",
+  "total": 77616,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 15458
+    },
+    {
+      "period": "2024-06",
+      "views": 14073
+    },
+    {
+      "period": "2025-06",
+      "views": 27055
+    },
+    {
+      "period": "2026-06",
+      "views": 21030
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 15458
+    },
+    {
+      "period": "2024",
+      "views": 14073
+    },
+    {
+      "period": "2025",
+      "views": 27055
+    },
+    {
+      "period": "2026",
+      "views": 21030
+    }
+  ]
+}

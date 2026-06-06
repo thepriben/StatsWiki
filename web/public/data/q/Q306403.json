@@ -4,7 +4,7 @@
   "title": "James_Franco",
   "description": "American actor (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Franco_4%2C_2013.jpg?width=64",
-  "total": 16798113,
+  "total": 16806323,
   "monthly": [
     {
       "period": "2015-07",
@@ -385,6 +385,10 @@
     {
       "period": "2026-05",
       "views": 36302
+    },
+    {
+      "period": "2026-06",
+      "views": 8210
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 506743
+      "views": 514953
     }
   ]
 }

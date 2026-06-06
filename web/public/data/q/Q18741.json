@@ -4,7 +4,7 @@
   "title": "Tottenham_Hotspur_F.C.",
   "description": "association football club in London, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tottenham_Hotspurs_tegen_Atletico_Madrid_5-1_Nr_14_en_15_Elftal_Tottenham_Hots%2C_Bestanddeelnr_915-1586.jpg?width=64",
-  "total": 14908689,
+  "total": 14916816,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-05",
       "views": 194722
+    },
+    {
+      "period": "2026-06",
+      "views": 8127
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 764402
+      "views": 772529
     }
   ]
 }

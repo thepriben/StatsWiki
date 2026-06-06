@@ -1,0 +1,28 @@
+{
+  "qid": "Q11829",
+  "label": "Hansel and Gretel",
+  "title": "Hansel_and_Gretel",
+  "description": "fairy tale collected by the Brothers Grimm",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A4nsel_und_Gretel2.jpg?width=64",
+  "total": 50595,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 40487
+    },
+    {
+      "period": "2026-06",
+      "views": 10108
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 40487
+    },
+    {
+      "period": "2026",
+      "views": 10108
+    }
+  ]
+}

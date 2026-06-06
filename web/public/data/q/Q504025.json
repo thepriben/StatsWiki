@@ -1,0 +1,48 @@
+{
+  "qid": "Q504025",
+  "label": "Bill Bradley",
+  "title": "Bill_Bradley",
+  "description": "American basketball player and politician (born 1943)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill-Bradley-2020.jpg?width=64",
+  "total": 114550,
+  "monthly": [
+    {
+      "period": "2019-10",
+      "views": 17514
+    },
+    {
+      "period": "2024-02",
+      "views": 48254
+    },
+    {
+      "period": "2024-03",
+      "views": 27074
+    },
+    {
+      "period": "2025-05",
+      "views": 11588
+    },
+    {
+      "period": "2026-06",
+      "views": 10120
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 17514
+    },
+    {
+      "period": "2024",
+      "views": 75328
+    },
+    {
+      "period": "2025",
+      "views": 11588
+    },
+    {
+      "period": "2026",
+      "views": 10120
+    }
+  ]
+}

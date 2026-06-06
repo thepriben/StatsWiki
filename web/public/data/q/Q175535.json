@@ -4,7 +4,7 @@
   "title": "Matt_Damon",
   "description": "American actor (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr347638_Matt_Damon_%28Small_Things_Like_These%2C_Berlinale_2024%29.jpg?width=64",
-  "total": 19635359,
+  "total": 19643360,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-05",
       "views": 184502
+    },
+    {
+      "period": "2026-06",
+      "views": 8001
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 1122972
+      "views": 1130973
     }
   ]
 }

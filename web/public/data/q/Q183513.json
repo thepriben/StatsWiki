@@ -1,0 +1,68 @@
+{
+  "qid": "Q183513",
+  "label": "Buffy the Vampire Slayer",
+  "title": "Buffy_the_Vampire_Slayer",
+  "description": "American supernatural drama television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Buffy_The_Vampire_Slayer_cast2.jpg?width=64",
+  "total": 476447,
+  "monthly": [
+    {
+      "period": "2017-03",
+      "views": 79357
+    },
+    {
+      "period": "2018-07",
+      "views": 10990
+    },
+    {
+      "period": "2021-02",
+      "views": 61000
+    },
+    {
+      "period": "2025-02",
+      "views": 179553
+    },
+    {
+      "period": "2025-03",
+      "views": 13200
+    },
+    {
+      "period": "2025-08",
+      "views": 14920
+    },
+    {
+      "period": "2025-12",
+      "views": 11359
+    },
+    {
+      "period": "2026-03",
+      "views": 79976
+    },
+    {
+      "period": "2026-06",
+      "views": 26092
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 79357
+    },
+    {
+      "period": "2018",
+      "views": 10990
+    },
+    {
+      "period": "2021",
+      "views": 61000
+    },
+    {
+      "period": "2025",
+      "views": 219032
+    },
+    {
+      "period": "2026",
+      "views": 106068
+    }
+  ]
+}

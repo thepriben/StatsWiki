@@ -4,7 +4,7 @@
   "title": "FIFA_Women's_World_Cup",
   "description": "football competitions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_logo_without_slogan.svg?width=64",
-  "total": 7183414,
+  "total": 7193628,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,10 @@
     {
       "period": "2025-07",
       "views": 180334
+    },
+    {
+      "period": "2026-06",
+      "views": 10214
     }
   ],
   "yearly": [
@@ -111,6 +115,10 @@
     {
       "period": "2025",
       "views": 180334
+    },
+    {
+      "period": "2026",
+      "views": 10214
     }
   ]
 }

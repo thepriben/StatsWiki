@@ -4,7 +4,7 @@
   "title": "Demi_Moore",
   "description": "American actress and producer (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Demi_Moore_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg?width=64",
-  "total": 17525364,
+  "total": 17554798,
   "monthly": [
     {
       "period": "2015-07",
@@ -473,6 +473,10 @@
     {
       "period": "2026-05",
       "views": 155479
+    },
+    {
+      "period": "2026-06",
+      "views": 29434
     }
   ],
   "yearly": [
@@ -522,7 +526,7 @@
     },
     {
       "period": "2026",
-      "views": 1226732
+      "views": 1256166
     }
   ]
 }

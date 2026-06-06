@@ -4,7 +4,7 @@
   "title": "Logan_(film)",
   "description": "2017 film directed by James Mangold",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logan_2.png?width=64",
-  "total": 16101666,
+  "total": 16109748,
   "monthly": [
     {
       "period": "2016-10",
@@ -137,6 +137,10 @@
     {
       "period": "2024-08",
       "views": 374407
+    },
+    {
+      "period": "2026-06",
+      "views": 8082
     }
   ],
   "yearly": [
@@ -171,6 +175,10 @@
     {
       "period": "2024",
       "views": 682075
+    },
+    {
+      "period": "2026",
+      "views": 8082
     }
   ]
 }
