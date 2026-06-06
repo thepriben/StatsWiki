@@ -14,8 +14,8 @@ JSON_OUT = ROOT / "web" / "public" / "data"
 START = date(2015, 7, 1)
 TOP_N = 50
 LANG = "en"
-SITE_URL = "https://thepriben.github.io/StatsWiki"
-USER_AGENT = "StatsWiki/3.0 (https://github.com/thepriben/StatsWiki; github-issues)"
+SITE_URL = "https://statswiki.info"
+USER_AGENT = "StatsWiki/3.0 (https://statswiki.info; https://github.com/thepriben/StatsWiki)"
 DELAY = 0.35
 
 # Daily fetch: Wikimedia often needs 24h+; cron at 08:00 and 14:00 UTC

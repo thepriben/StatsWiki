@@ -13,6 +13,7 @@ import {
   parseIsoDate,
   BSKY_URL,
   REPO_URL,
+  SITE_URL,
   VERSION,
   X_URL,
   yesterday,
@@ -27,7 +28,7 @@ const manifest = ref(null);
 const route = ref(parseRoute(window.location.pathname));
 
 function parseRoute(pathname) {
-  const base = '/StatsWiki'.replace(/\/$/, '');
+  const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   let path = pathname.replace(base, '').replace(/\/$/, '') || '/';
   if (path === '/' || path === '') return { kind: 'home' };
   if (path === '/alltime') return { kind: 'alltime', alltime: true };
@@ -332,7 +333,13 @@ watch(selMonth, (m) => {
     </main>
 
     <footer class="site-footer">
-      <a :href="REPO_URL" class="repo-link" target="_blank" rel="noopener noreferrer">GitHub repository</a>
+      <a :href="SITE_URL" class="repo-link" target="_blank" rel="noopener noreferrer">statswiki.info</a>
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <a :href="X_URL" class="repo-link" target="_blank" rel="noopener noreferrer">@statswiki</a>
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <a :href="BSKY_URL" class="repo-link" target="_blank" rel="noopener noreferrer">Bluesky</a>
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <a :href="REPO_URL" class="repo-link" target="_blank" rel="noopener noreferrer">GitHub</a>
     </footer>
   </div>
 </template>

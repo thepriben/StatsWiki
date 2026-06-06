@@ -560,6 +560,11 @@ td.num {
   font-size: 0.85rem;
 }
 
+.footer-sep {
+  margin: 0 0.35em;
+  color: #999;
+}
+
 .repo-link {
   color: #555;
   text-decoration: none;

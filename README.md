@@ -2,7 +2,7 @@
 
 **Most-read articles on English Wikipedia** — daily rankings from **July 1, 2015** to yesterday.
 
-**Live site:** https://thepriben.github.io/StatsWiki/
+**Live site:** https://statswiki.info/
 
 **X:** https://x.com/statswiki
 
@@ -38,16 +38,16 @@ Three live panels (top 50 each), with fallback to the latest available period wh
 
 | View | URL | Content |
 |------|-----|---------|
-| Day | `/StatsWiki/2026/05/31` | Top 50 that day |
-| Month | `/StatsWiki/2026/05` | Top 50 aggregated over the month |
-| Year | `/StatsWiki/2026` | Top 50 aggregated over the year |
-| All time | `/StatsWiki/alltime` | Top 50 since July 2015 |
+| Day | `/2026/05/31` | Top 50 that day |
+| Month | `/2026/05` | Top 50 aggregated over the month |
+| Year | `/2026` | Top 50 aggregated over the year |
+| All time | `/alltime` | Top 50 since July 2015 |
 
 Browse via **Year / Month / Day** dropdowns in the header (no date in the page title).
 
 ### Article stats (QID)
 
-Click a **Wikidata QID** in any table → `/StatsWiki/q/Q22686` with monthly / yearly view charts, total views, peak period.
+Click a **Wikidata QID** in any table → `/q/Q22686` with monthly / yearly view charts, total views, peak period.
 
 Each row: rank, Wikipedia link, QID, description, thumbnail (links to Wikimedia Commons), view count.
 
@@ -89,12 +89,14 @@ sw-export-qids                        # QID time-series JSON
 
 # Frontend
 cd web && npm ci && npm run dev
-# → http://localhost:5173/StatsWiki/
+# → http://localhost:5173/
 ```
 
 ---
 
 ## Deployment (GitHub Pages)
+
+**Custom domain:** [statswiki.info](https://statswiki.info) — DNS at the registrar, `web/public/CNAME`, and **Settings → Pages → Custom domain** on [thepriben/StatsWiki](https://github.com/thepriben/StatsWiki).
 
 1. **Settings → Pages → Source: GitHub Actions** (one-time).
 2. Push to `main` — **Deploy Pages** runs when `web/` or `data/` changes.
