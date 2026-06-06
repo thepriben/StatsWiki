@@ -136,7 +136,7 @@ After each successful daily run:
 
 | Trigger | When | Post |
 |---------|------|------|
-| **Daily** | Every run | Top 5 for yesterday |
+| **Day** | Every run | Top 5 for yesterday |
 | **Week** | Yesterday was **Sunday** | Top 5 for Mon–Sun (e.g. `Mon 26 May – Sun 1 Jun 2026`) |
 | **Month** | Yesterday was the **last day of the month** | Top 5 for that month |
 | **Year** | Yesterday was **31 December** | Top 5 for that year |

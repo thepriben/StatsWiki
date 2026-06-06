@@ -106,7 +106,7 @@ def build_period_post(kind: str, key: str, lines: list[dict], n: int = 5, limit:
 
 def build_daily_post(day: date, lines: list[dict], n: int = 5, limit: int = 300) -> tuple[str, str]:
     """Return (body text, link URL). Body ends before the link line."""
-    header = f"Top {n} English Wikipedia ({day_label(day)}):\n"
+    header = f"Top {n} English Wikipedia day ({day_label(day)}):\n"
     rows = []
     for line in lines[:n]:
         label = (line.get("label") or line["title"].replace("_", " "))[:40]
