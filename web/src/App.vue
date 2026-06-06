@@ -2,6 +2,8 @@
 import { computed, onMounted, ref, watch } from 'vue';
 import QidPage from './QidPage.vue';
 import RankingTable from './RankingTable.vue';
+import WikiracePage from './wikirace/WikiracePage.vue';
+import { parseWikiracePath } from './wikirace/lib.js';
 import {
   MONTHS,
   currentYear,
@@ -30,11 +32,17 @@ const route = ref(parseRoute(window.location.pathname));
 function parseRoute(pathname) {
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   let path = pathname.replace(base, '').replace(/\/$/, '') || '/';
-  if (path === '/' || path === '') return { kind: 'home' };
-  if (path === '/alltime') return { kind: 'alltime', alltime: true };
-  const qMatch = path.match(/^\/q\/(Q\d+)$/);
+  const clean = path.replace(/^\//, '');
+  if (path === '/' || path === '' || clean === '') return { kind: 'home' };
+  if (clean === 'wikirace') return { kind: 'wikirace', wikirace: { kind: 'home' } };
+  if (clean.startsWith('wikirace/')) {
+    const segs = clean.slice('wikirace/'.length).split('/').filter(Boolean);
+    return { kind: 'wikirace', wikirace: parseWikiracePath(segs) };
+  }
+  if (clean === 'alltime') return { kind: 'alltime', alltime: true };
+  const qMatch = clean.match(/^q\/(Q\d+)$/);
   if (qMatch) return { kind: 'qid', qid: qMatch[1] };
-  const parts = path.split('/').filter(Boolean);
+  const parts = clean.split('/').filter(Boolean);
   const [y, m, d] = parts.map(Number);
   if (parts.length === 1 && y >= 2015) return { kind: 'year', year: y };
   if (parts.length === 2 && y >= 2015 && m >= 1 && m <= 12) return { kind: 'month', year: y, month: m };
@@ -60,7 +68,7 @@ async function fetchData() {
     return;
   }
 
-  if (route.value.kind === 'qid') {
+  if (route.value.kind === 'qid' || route.value.kind === 'wikirace') {
     data.value = null;
     error.value = '';
     loading.value = false;
@@ -133,6 +141,7 @@ const daysInMonth = computed(() => {
 
 const isHome = computed(() => route.value.kind === 'home');
 const isAlltime = computed(() => route.value.kind === 'alltime');
+const isWikirace = computed(() => route.value.kind === 'wikirace');
 
 const breadcrumb = computed(() => {
   const r = route.value;
@@ -208,6 +217,12 @@ watch(selMonth, (m) => {
         </div>
 
         <nav class="header-nav" aria-label="Main">
+          <a
+            href="#"
+            class="nav-alltime"
+            :class="{ 'nav-alltime--active': isWikirace }"
+            @click.prevent="go('wikirace')"
+          >Wikirace</a>
           <a
             href="#"
             class="nav-alltime"
@@ -306,6 +321,12 @@ watch(selMonth, (m) => {
           </article>
         </div>
       </section>
+
+      <WikiracePage
+        v-else-if="route.kind === 'wikirace'"
+        :route="route.wikirace"
+        @navigate="go"
+      />
 
       <QidPage v-else-if="route.kind === 'qid'" :qid="route.qid" />
 

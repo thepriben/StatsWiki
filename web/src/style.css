@@ -597,6 +597,583 @@ td.num {
   }
 }
 
+/* ── Wikirace ── */
+
+.wikirace-page h1 {
+  margin: 0 0 6px;
+  font-size: 1.5rem;
+}
+
+.wikirace-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.wikirace-metric-note {
+  margin: 4px 0 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.wikirace-period,
+.wikirace-tagline {
+  margin: 0;
+  color: #666;
+  font-size: 0.92rem;
+}
+
+.wikirace-home-link {
+  flex-shrink: 0;
+  color: #1a56db;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.wikirace-home-link:hover {
+  text-decoration: underline;
+}
+
+.wikirace-panel {
+  background: #fff;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+
+.wikirace-panel h2 {
+  margin: 0 0 12px;
+  font-size: 1.05rem;
+}
+
+.wikirace-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.field input,
+.field select {
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+.field-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.field-row .field {
+  flex: 1 1 140px;
+}
+
+.btn-primary {
+  align-self: flex-start;
+  padding: 9px 18px;
+  border: none;
+  border-radius: 8px;
+  background: #111;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background: #333;
+}
+
+.group-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 10px;
+}
+
+.group-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.group-card:hover {
+  border-color: #111;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+.group-cat {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #888;
+}
+
+.group-meta {
+  font-size: 0.8rem;
+  color: #777;
+}
+
+.wikirace-url-help ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  font-size: 0.88rem;
+  color: #555;
+}
+
+.wikirace-url-help code {
+  font-size: 0.82rem;
+  background: #f0f0f0;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.wikirace-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.toolbar-label {
+  font-size: 0.85rem;
+  color: #666;
+  margin-right: 4px;
+}
+
+.wikirace-toolbar button {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.88rem;
+}
+
+.wikirace-toolbar button.active {
+  background: #111;
+  color: #fff;
+  border-color: #111;
+}
+
+.multi-chart-wrap {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 16px;
+}
+
+.multi-chart .axis {
+  stroke: #ddd;
+  stroke-width: 1;
+}
+
+.multi-chart .line {
+  stroke-width: 2.5;
+}
+
+.multi-chart .y-label {
+  font-size: 10px;
+  fill: #888;
+}
+
+.chart-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.85rem;
+}
+
+.legend-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.race-metric-key {
+  margin: 0 0 16px;
+  padding: 12px 14px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #444;
+  background: #f6f8fa;
+  border: 1px solid #e8ecf0;
+  border-radius: 8px;
+}
+
+.race-table-caption {
+  caption-side: top;
+  padding: 0 0 10px;
+  text-align: left;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.race-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.race-table th,
+.race-table td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.race-table th.num,
+.race-table td.num {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.race-table tfoot td {
+  font-weight: 600;
+  background: #f8f8f8;
+  border-bottom: none;
+}
+
+.race-table .rank {
+  color: #888;
+  width: 2rem;
+}
+
+.race-name {
+  color: #1a56db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.race-name:hover {
+  text-decoration: underline;
+}
+
+.race-bar-track {
+  height: 8px;
+  background: #eee;
+  border-radius: 4px;
+  overflow: hidden;
+  min-width: 80px;
+}
+
+.race-bar-fill {
+  height: 100%;
+  background: #1a56db;
+  border-radius: 4px;
+  min-width: 2px;
+}
+
+.share-hint .share-link {
+  color: #1a56db;
+  word-break: break-all;
+}
+
+/* ── QidPicker ── */
+
+.qid-picker .field {
+  width: 100%;
+}
+
+.qid-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 10px;
+  padding: 0;
+  list-style: none;
+}
+
+.qid-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px 6px 6px;
+  background: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  font-size: 0.88rem;
+}
+
+.qid-chip-color {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.qid-chip-label {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.qid-chip-id {
+  color: #888;
+  font-size: 0.78rem;
+}
+
+.qid-chip-remove {
+  border: none;
+  background: transparent;
+  color: #888;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 2px;
+}
+
+.qid-chip-remove:hover {
+  color: #111;
+}
+
+.qid-search-wrap {
+  position: relative;
+}
+
+.qid-search {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.qid-search:focus {
+  outline: 2px solid #111;
+  outline-offset: 1px;
+  border-color: #111;
+}
+
+.qid-suggestions {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 4px 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.qid-suggestions li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding: 10px 12px;
+  cursor: pointer;
+  font-size: 0.92rem;
+}
+
+.qid-suggestions li:hover,
+.qid-suggestions li.active {
+  background: #f0f0f0;
+}
+
+.qid-suggestion-meta {
+  color: #888;
+  font-size: 0.8rem;
+  flex-shrink: 0;
+}
+
+.qid-picker-hint {
+  margin: 6px 0 0;
+}
+
+.btn-primary:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.wikirace-intro {
+  margin: 0 0 16px;
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.5;
+}
+
+.wikirace-intro a {
+  color: #1a56db;
+  text-decoration: none;
+}
+
+.wikirace-intro a:hover {
+  text-decoration: underline;
+}
+
+.wikirace-head-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+/* ── Wikirace help (markdown) ── */
+
+.wikirace-help-page {
+  max-width: 720px;
+}
+
+.help-meta {
+  margin: 0 0 20px;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.help-prose {
+  background: #fff;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  padding: 24px 28px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #1a1a1a;
+}
+
+.help-prose h1 {
+  margin: 0 0 0.5em;
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.help-prose h2 {
+  margin: 1.75em 0 0.6em;
+  font-size: 1.15rem;
+  padding-top: 0.25em;
+  border-top: 1px solid #eee;
+}
+
+.help-prose h2:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.help-prose h3 {
+  margin: 1.25em 0 0.4em;
+  font-size: 1rem;
+}
+
+.help-prose p {
+  margin: 0.75em 0;
+}
+
+.help-prose ul,
+.help-prose ol {
+  margin: 0.75em 0;
+  padding-left: 1.4em;
+}
+
+.help-prose li {
+  margin: 0.35em 0;
+}
+
+.help-prose code {
+  font-size: 0.88em;
+  background: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 4px;
+  word-break: break-all;
+}
+
+.help-prose pre {
+  margin: 1em 0;
+  padding: 12px 14px;
+  background: #f4f4f4;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 0.88em;
+}
+
+.help-prose pre code {
+  background: none;
+  padding: 0;
+}
+
+.help-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+
+.help-prose th,
+.help-prose td {
+  border: 1px solid #e0e0e0;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.help-prose th {
+  background: #f8f8f8;
+  font-weight: 600;
+}
+
+.help-prose a {
+  color: #1a56db;
+}
+
+.help-prose hr {
+  border: none;
+  border-top: 1px solid #e8e8e8;
+  margin: 1.5em 0;
+}
+
+.help-prose strong {
+  font-weight: 600;
+}
+
+.help-back {
+  margin: 20px 0 0;
+  font-size: 0.92rem;
+}
+
+.help-back a {
+  color: #1a56db;
+  text-decoration: none;
+}
+
+.help-back a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 600px) {
   .page {
     padding: 8px;

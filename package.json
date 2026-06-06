@@ -1,0 +1,10 @@
+{
+  "name": "statswiki-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix web",
+    "build": "npm run build --prefix web",
+    "build:help": "npm run build:help --prefix web",
+    "preview": "npm run preview --prefix web"
+  }
+}

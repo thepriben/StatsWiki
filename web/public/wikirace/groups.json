@@ -1,0 +1,100 @@
+{
+  "groups": [
+    {
+      "slug": "us-president-2024",
+      "label": "2024 US Presidential Election",
+      "category": "politics",
+      "eventDate": "2024-11-05",
+      "defaultWindow": "6m",
+      "defaultRange": { "start": "2024-05-09", "end": "2024-11-04" },
+      "members": [
+        { "qid": "Q22686", "label": "Donald Trump", "article": "Donald_Trump" },
+        { "qid": "Q10853588", "label": "Kamala Harris", "article": "Kamala_Harris" }
+      ]
+    },
+    {
+      "slug": "us-president-2020",
+      "label": "2020 US Presidential Election",
+      "category": "politics",
+      "eventDate": "2020-11-03",
+      "defaultWindow": "6m",
+      "defaultRange": { "start": "2020-05-07", "end": "2020-11-02" },
+      "members": [
+        { "qid": "Q22686", "label": "Donald Trump", "article": "Donald_Trump" },
+        { "qid": "Q6279", "label": "Joe Biden", "article": "Joe_Biden" }
+      ]
+    },
+    {
+      "slug": "us-president-2016",
+      "label": "2016 US Presidential Election",
+      "category": "politics",
+      "eventDate": "2016-11-08",
+      "defaultWindow": "6m",
+      "defaultRange": { "start": "2016-05-12", "end": "2016-11-07" },
+      "members": [
+        { "qid": "Q22686", "label": "Donald Trump", "article": "Donald_Trump" },
+        { "qid": "Q6294", "label": "Hillary Clinton", "article": "Hillary_Clinton" }
+      ]
+    },
+    {
+      "slug": "fl-governor-2022",
+      "label": "2022 Florida Governor",
+      "category": "politics",
+      "eventDate": "2022-11-08",
+      "defaultWindow": "6m",
+      "defaultRange": { "start": "2022-05-12", "end": "2022-11-07" },
+      "members": [
+        { "qid": "Q3105215", "label": "Ron DeSantis", "article": "Ron_DeSantis" },
+        { "qid": "Q374693", "label": "Charlie Crist", "article": "Charlie_Crist" }
+      ]
+    },
+    {
+      "slug": "pa-senate-2022",
+      "label": "2022 Pennsylvania Senate",
+      "category": "politics",
+      "eventDate": "2022-11-08",
+      "defaultWindow": "6m",
+      "defaultRange": { "start": "2022-05-12", "end": "2022-11-07" },
+      "members": [
+        { "qid": "Q3181500", "label": "John Fetterman", "article": "John_Fetterman" },
+        { "qid": "Q2537149", "label": "Mehmet Oz", "article": "Mehmet_Oz" }
+      ]
+    },
+    {
+      "slug": "super-bowl-2024",
+      "label": "Super Bowl LVIII (2024)",
+      "category": "sport",
+      "eventDate": "2024-02-11",
+      "defaultWindow": "3m",
+      "defaultRange": { "start": "2023-11-13", "end": "2024-02-10" },
+      "members": [
+        { "qid": "Q223522", "label": "Kansas City Chiefs", "article": "Kansas_City_Chiefs" },
+        { "qid": "Q337758", "label": "San Francisco 49ers", "article": "San_Francisco_49ers" }
+      ]
+    },
+    {
+      "slug": "nba-finals-2024",
+      "label": "2024 NBA Finals",
+      "category": "sport",
+      "eventDate": "2024-06-17",
+      "defaultWindow": "3m",
+      "defaultRange": { "start": "2024-03-19", "end": "2024-06-16" },
+      "members": [
+        { "qid": "Q131371", "label": "Boston Celtics", "article": "Boston_Celtics" },
+        { "qid": "Q132893", "label": "Dallas Mavericks", "article": "Dallas_Mavericks" }
+      ]
+    },
+    {
+      "slug": "wc-final-2022",
+      "label": "2022 FIFA World Cup Final",
+      "category": "sport",
+      "eventDate": "2022-12-18",
+      "defaultWindow": "3m",
+      "defaultRange": { "start": "2022-09-19", "end": "2022-12-17" },
+      "members": [
+        { "qid": "Q79800", "label": "Argentina", "article": "Argentina_national_football_team" },
+        { "qid": "Q47774", "label": "France", "article": "France_national_football_team" }
+      ]
+    }
+  ]
+}

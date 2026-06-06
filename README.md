@@ -51,6 +51,20 @@ Click a **Wikidata QID** in any table → `/q/Q22686` with monthly / yearly view
 
 Each row: rank, Wikipedia link, QID, description, thumbnail (links to Wikimedia Commons), view count.
 
+### Wikirace
+
+Compare **daily Wikipedia pageviews** for a group of articles over any date range.
+
+| View | URL | Content |
+|------|-----|---------|
+| Builder | `/wikirace` | Search catalog, pick articles, set dates |
+| Race | `/wikirace/Q1+Q2/YYYY-MM-DD/YYYY-MM-DD` | Chart, Race% table, shareable link |
+| Help | `/wikirace/help` | Public guide (from `docs/wikirace-help.md`) |
+
+**Race%** = one article’s views as a % of the group total (area under the curve). Data is fetched live from the Wikimedia Pageviews API.
+
+**Help doc (source):** [docs/wikirace-help.md](docs/wikirace-help.md) — built to `web/public/wikirace/help.json` via `npm run build:help` (runs automatically on `npm run build`).
+
 ---
 
 ## Architecture
@@ -154,8 +168,12 @@ StatsWiki/
 │   │   ├── App.vue              # routing, header, home
 │   │   ├── QidPage.vue          # article stats + chart
 │   │   ├── RankingTable.vue
+│   │   ├── wikirace/            # Wikirace feature
 │   │   └── lib.js
+│   ├── public/wikirace/         # groups.json, catalog.json, help.json
 │   └── public/data/             # generated JSON (+ q/Q*.json)
+├── docs/
+│   └── wikirace-help.md         # Wikirace public help (English)
 ├── data/                        # Parquet source of truth
 │   ├── pageviews/year=Y/month=M/
 │   ├── articles.parquet
@@ -178,7 +196,12 @@ StatsWiki/
 | `sw-export --recent` | Rebuild yesterday / month / year / alltime JSON |
 | `sw-export --year YYYY` | Export all periods for one year |
 | `sw-export-qids` | Export `data/q/Q*.json` time series for charts |
+| `sw-wikirace-catalog` | Export `web/public/wikirace/catalog.json` for autocomplete |
 | `sw-period-posts` | Post week/month/year top 5 to X and Bluesky when due |
+
+| npm (in `web/`) | Purpose |
+|-----------------|---------|
+| `npm run build:help` | `docs/wikirace-help.md` → `web/public/wikirace/help.json` |
 
 All ingest is **idempotent** — existing days are skipped.
 

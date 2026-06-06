@@ -20,6 +20,7 @@ sw-tweet = "statswiki.tweet:main"
 sw-bsky = "statswiki.bsky:main"
 sw-period-posts = "statswiki.period_posts:main"
 sw-fill-gaps = "statswiki.fill_gaps:main"
+sw-wikirace-catalog = "statswiki.wikirace_catalog:main"
 
 [build-system]
 requires = ["setuptools>=68"]
