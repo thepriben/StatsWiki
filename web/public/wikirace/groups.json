@@ -189,6 +189,43 @@
       ]
     },
     {
+      "slug": "sum-of-three-cubes-october-2019",
+      "label": "Sum of three cubes — October 2019",
+      "category": "tech",
+      "context": "Andrew Booker solved x³ + y³ + z³ = 42 in September 2019. In October, modular arithmetic and 42 (number) dominated — not the conjecture article or Booker himself. A niche proof, but Wikipedia traffic still flows through general math hubs and pop-culture numbers.",
+      "eventDate": "2019-09-06",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2019-10-01", "end": "2019-10-31" },
+      "members": [
+        { "qid": "Q62035896", "label": "Sums of three cubes", "article": "Sums_of_three_cubes" },
+        { "qid": "Q92785047", "label": "Andrew Booker", "article": "Andrew_Booker" },
+        { "qid": "Q905896", "label": "Diophantine equation", "article": "Diophantine_equation" },
+        { "qid": "Q812996", "label": "42 (number)", "article": "42_(number)" },
+        { "qid": "Q712661", "label": "33 (number)", "article": "33_(number)" },
+        { "qid": "Q319400", "label": "Modular arithmetic", "article": "Modular_arithmetic" },
+        { "qid": "Q12479", "label": "Number theory", "article": "Number_theory" }
+      ]
+    },
+    {
+      "slug": "fields-medal-2022-month-after",
+      "label": "Fields Medal 2022 — month after",
+      "category": "tech",
+      "context": "Four Fields medals were awarded at ICM 2022 (July 5). In the month after, Fields Medal and the laureates drew most attention — not the lattice geometry behind Maryna Viazovska’s sphere-packing proof (E8 lattice, Leech lattice, kissing number).",
+      "eventDate": "2022-07-05",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2022-07-06", "end": "2022-08-05" },
+      "members": [
+        { "qid": "Q23721911", "label": "Maryna Viazovska", "article": "Maryna_Viazovska" },
+        { "qid": "Q900117", "label": "Sphere packing", "article": "Sphere_packing" },
+        { "qid": "Q4662154", "label": "E8 lattice", "article": "E8_lattice" },
+        { "qid": "Q2510203", "label": "Leech lattice", "article": "Leech_lattice" },
+        { "qid": "Q1371530", "label": "Kissing number", "article": "Kissing_number" },
+        { "qid": "Q870797", "label": "Modular form", "article": "Modular_form" },
+        { "qid": "Q28835", "label": "Fields Medal", "article": "Fields_Medal" },
+        { "qid": "Q19655060", "label": "James Maynard", "article": "James_Maynard_(mathematician)" }
+      ]
+    },
+    {
       "slug": "bcs-year-after-finale",
       "label": "Better Call Saul — 1 year after finale",
       "category": "culture",
