@@ -60,6 +60,11 @@ const windowLabel = computed(() => {
   return `${range.value.start} → ${range.value.end}`;
 });
 
+const dataThroughNote = computed(() => {
+  if (!range.value.futureEnd || !range.value.dataEnd) return '';
+  return `Pageviews through ${range.value.dataEnd} (URL end date is still in the future)`;
+});
+
 const ranked = computed(() => racePercentages(raceSeries.value));
 
 const activeWindowId = computed(() => {
@@ -128,7 +133,7 @@ async function loadRace() {
       throw new Error(`Could not resolve Wikipedia title for: ${missing.map((m) => m.label).join(', ')}`);
     }
 
-    const days = enumerateDays(dateRange.start, dateRange.end);
+    const days = enumerateDays(dateRange.start, dateRange.dataEnd);
     const results = [];
     for (const member of members) {
       try {
@@ -255,6 +260,7 @@ applyBuilderWindow();
       <div>
         <h1>{{ title }}</h1>
         <p v-if="!isHome && !isInvalid && windowLabel" class="wikirace-period">{{ windowLabel }}</p>
+        <p v-if="!isHome && !isInvalid && dataThroughNote" class="wikirace-data-note">{{ dataThroughNote }}</p>
         <p v-if="!isHome && !isInvalid && ranked.length" class="wikirace-metric-note">
           Race% = area under the curve — each article’s share of combined daily pageviews.
         </p>

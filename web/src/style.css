@@ -620,6 +620,13 @@ td.num {
   color: #555;
 }
 
+.wikirace-data-note {
+  margin: 4px 0 0;
+  font-size: 0.85rem;
+  color: #888;
+  font-style: italic;
+}
+
 .wikirace-period,
 .wikirace-tagline {
   margin: 0;

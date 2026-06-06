@@ -236,11 +236,23 @@ export function resolveEndDate(group) {
   return subtractDays(ev, 1);
 }
 
+export function clampToYesterday(end) {
+  const y = yesterday();
+  const endDt = parseIsoDate(end);
+  const yestDt = parseIsoDate(y);
+  if (!endDt || !yestDt || endDt > yestDt) return y;
+  return end;
+}
+
 export function resolveDateRange(route) {
+  const end = route.end;
+  const dataEnd = clampToYesterday(end);
   return {
     start: route.start,
-    end: route.end,
-    days: daysBetween(route.start, route.end),
+    end,
+    dataEnd,
+    days: daysBetween(route.start, dataEnd),
+    futureEnd: end !== dataEnd,
   };
 }
 
@@ -325,10 +337,15 @@ function monthChunks(start, end) {
   const chunks = [];
   let cur = parseIsoDate(start);
   const last = parseIsoDate(end);
+  const yest = parseIsoDate(yesterday());
+  if (!cur || !last) return chunks;
+
   while (cur <= last) {
+    if (yest && cur > yest) break;
     const chunkStart = new Date(cur);
     const chunkEnd = new Date(cur.getFullYear(), cur.getMonth() + 1, 0);
     if (chunkEnd > last) chunkEnd.setTime(last.getTime());
+    if (yest && chunkEnd > yest) chunkEnd.setTime(yest.getTime());
     chunks.push({ start: formatIso(chunkStart), end: formatIso(chunkEnd) });
     cur = new Date(cur.getFullYear(), cur.getMonth() + 1, 1);
   }
@@ -351,7 +368,7 @@ async function fetchDailyViewsChunk(article, start, end) {
 }
 
 export async function fetchDailyViews(article, start, end) {
-  const chunks = monthChunks(start, end);
+  const chunks = monthChunks(start, clampToYesterday(end));
   const map = new Map();
   for (const chunk of chunks) {
     const partial = await fetchDailyViewsChunk(article, chunk.start, chunk.end);
