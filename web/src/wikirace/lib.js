@@ -61,6 +61,81 @@ export function catalogLookup(catalog, qid) {
   return catalog.find((item) => item.qid === qid) ?? null;
 }
 
+const WD_API = 'https://www.wikidata.org/w/api.php';
+
+/** Wikidata entity search — English Wikipedia articles only. */
+export async function searchWikidata(query, { limit = 8, exclude = [] } = {}) {
+  const q = query.trim();
+  if (q.length < 2) return [];
+
+  const excluded = new Set(exclude);
+  const searchParams = new URLSearchParams({
+    action: 'wbsearchentities',
+    search: q,
+    language: 'en',
+    format: 'json',
+    origin: '*',
+    limit: String(Math.min(limit * 3, 20)),
+  });
+
+  const searchRes = await fetch(`${WD_API}?${searchParams}`);
+  if (!searchRes.ok) return [];
+  const searchData = await searchRes.json();
+  const hits = (searchData.search || []).filter(
+    (h) => /^Q\d+$/.test(h.id) && !excluded.has(h.id),
+  );
+  if (!hits.length) return [];
+
+  const entityParams = new URLSearchParams({
+    action: 'wbgetentities',
+    ids: hits.map((h) => h.id).join('|'),
+    props: 'labels|sitelinks|descriptions',
+    languages: 'en',
+    sitefilter: 'enwiki',
+    format: 'json',
+    origin: '*',
+  });
+  const entityRes = await fetch(`${WD_API}?${entityParams}`);
+  if (!entityRes.ok) return [];
+  const entityData = await entityRes.json();
+  const entities = entityData.entities || {};
+
+  const items = [];
+  for (const hit of hits) {
+    const entity = entities[hit.id];
+    const enwiki = entity?.sitelinks?.enwiki?.title;
+    if (!enwiki) continue;
+    items.push({
+      qid: hit.id,
+      label: entity.labels?.en?.value || hit.label || hit.id,
+      article: enwiki.replace(/ /g, '_'),
+      description: entity.descriptions?.en?.value || hit.description || '',
+      source: 'wikidata',
+    });
+    if (items.length >= limit) break;
+  }
+  return items;
+}
+
+/** Catalog hits first, then Wikidata — deduped by QID. */
+export function mergeSearchResults(catalogHits, wikidataHits, limit = 8) {
+  const seen = new Set();
+  const out = [];
+  for (const item of catalogHits) {
+    if (seen.has(item.qid)) continue;
+    seen.add(item.qid);
+    out.push({ ...item, source: item.source || 'catalog' });
+    if (out.length >= limit) return out;
+  }
+  for (const item of wikidataHits) {
+    if (seen.has(item.qid)) continue;
+    seen.add(item.qid);
+    out.push(item);
+    if (out.length >= limit) return out;
+  }
+  return out;
+}
+
 export function wikiraceUrl(parts = []) {
   const segs = ['wikirace', ...parts.filter(Boolean)];
   return url(segs.join('/'));

@@ -104,6 +104,15 @@ Preset races. Each group:
 
 `article` is the English Wikipedia title (underscores). `defaultRange` avoids ending on election day spikes.
 
+### Autocomplete
+
+Hybrid search in the builder:
+
+1. **Local catalog** (`catalog.json`) — fast, ~3.7k StatsWiki articles.
+2. **Wikidata API** (`wbsearchentities` + `wbgetentities`) — fills gaps when the catalog has fewer than 8 hits. Only entities with an **English Wikipedia** sitelink are shown.
+
+No custom headers on Wikidata requests (`origin=*`); CORS is allowed from the browser.
+
 ### `catalog.json`
 
 Built from `web/public/data/q/Q*.json`:
@@ -113,7 +122,7 @@ cd pipeline && pip install -e .
 sw-wikirace-catalog
 ```
 
-Articles not in the catalog can still be raced if added by QID and resolvable on en.wikipedia.
+Articles outside the catalog can also be found via Wikidata search or by typing a QID directly.
 
 ### `help.json`
 

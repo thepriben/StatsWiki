@@ -78,10 +78,9 @@ No names or slugs in the URL — only QIDs and dates.
 
 ### Article search
 
-- Type a **name** (e.g. `Trump`, `Biden`, `Chiefs`).
+- Type a **name** (e.g. `Trump`, `Biden`, `Chiefs`) — search uses the StatsWiki catalog first, then **Wikidata** for broader matches (English Wikipedia articles only).
 - Or type a **QID** (e.g. `Q22686`) and press Enter.
 - Selected articles appear as **chips**; click **×** to remove.
-- The catalog lists articles enriched in StatsWiki (~3,700 QIDs). Articles outside the catalog can still be added by QID if they exist on English Wikipedia.
 
 ### Dates
 

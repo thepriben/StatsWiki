@@ -1,6 +1,12 @@
 <script setup>
-import { computed, onMounted, ref, watch } from 'vue';
-import { CHART_COLORS, loadArticleCatalog, searchCatalog } from './lib.js';
+import { onMounted, ref, watch } from 'vue';
+import {
+  CHART_COLORS,
+  loadArticleCatalog,
+  mergeSearchResults,
+  searchCatalog,
+  searchWikidata,
+} from './lib.js';
 
 const props = defineProps({
   modelValue: { type: Array, default: () => [] },
@@ -15,6 +21,10 @@ const query = ref('');
 const open = ref(false);
 const activeIdx = ref(0);
 const inputRef = ref(null);
+const suggestions = ref([]);
+const searching = ref(false);
+let searchSeq = 0;
+let debounceTimer = null;
 
 function chipColor(i) {
   return CHART_COLORS[i % CHART_COLORS.length];
@@ -24,25 +34,59 @@ onMounted(async () => {
   try {
     catalog.value = await loadArticleCatalog();
   } catch {
-    catalogError.value = 'Catalog unavailable — type a QID manually (e.g. Q22686).';
+    catalogError.value = 'Local catalog unavailable — Wikidata search still works, or type a QID.';
   }
 });
 
-const suggestions = computed(() => {
-  const q = query.value.trim();
-  if (!q) return [];
-  const exclude = props.modelValue.map((m) => m.qid);
-  const hits = searchCatalog(catalog.value, q, { limit: 8, exclude });
+function exactQidSuggestion(q, exclude) {
+  if (!/^Q\d+$/i.test(q)) return null;
+  const exact = q.toUpperCase();
+  if (exclude.includes(exact)) return null;
+  return { qid: exact, label: exact, article: '', source: 'qid' };
+}
 
-  if (/^Q\d+$/i.test(q) && !exclude.includes(q.toUpperCase())) {
-    const exact = q.toUpperCase();
-    if (!hits.some((h) => h.qid === exact)) {
-      hits.unshift({ qid: exact, label: exact, article: '', score: 95 });
+async function runSearch(q) {
+  const seq = ++searchSeq;
+  const exclude = props.modelValue.map((m) => m.qid);
+  const catalogHits = searchCatalog(catalog.value, q, { limit: 8, exclude });
+
+  let merged = catalogHits;
+  if (q.length >= 2 && catalogHits.length < 8) {
+    searching.value = true;
+    try {
+      const wdHits = await searchWikidata(q, { limit: 8 - catalogHits.length, exclude });
+      if (seq !== searchSeq) return;
+      merged = mergeSearchResults(catalogHits, wdHits, 8);
+    } catch {
+      if (seq !== searchSeq) return;
+      merged = catalogHits;
+    } finally {
+      if (seq === searchSeq) searching.value = false;
     }
   }
 
-  return hits.slice(0, 8);
-});
+  if (seq !== searchSeq) return;
+  const exact = exactQidSuggestion(q, exclude);
+  if (exact && !merged.some((h) => h.qid === exact.qid)) {
+    merged = [exact, ...merged].slice(0, 8);
+  }
+  suggestions.value = merged;
+}
+
+function scheduleSearch() {
+  const q = query.value.trim();
+  clearTimeout(debounceTimer);
+  if (!q) {
+    searchSeq += 1;
+    searching.value = false;
+    suggestions.value = [];
+    open.value = false;
+    return;
+  }
+  open.value = true;
+  activeIdx.value = 0;
+  debounceTimer = setTimeout(() => runSearch(q), 280);
+}
 
 function addItem(item) {
   if (props.modelValue.some((m) => m.qid === item.qid)) return;
@@ -51,6 +95,7 @@ function addItem(item) {
     { qid: item.qid, label: item.label },
   ]);
   query.value = '';
+  suggestions.value = [];
   open.value = false;
   activeIdx.value = 0;
   inputRef.value?.focus();
@@ -58,11 +103,6 @@ function addItem(item) {
 
 function removeItem(qid) {
   emit('update:modelValue', props.modelValue.filter((m) => m.qid !== qid));
-}
-
-function onInput() {
-  open.value = query.value.trim().length > 0;
-  activeIdx.value = 0;
 }
 
 function onKeydown(e) {
@@ -92,7 +132,7 @@ function onBlur() {
   setTimeout(() => { open.value = false; }, 150);
 }
 
-watch(query, onInput);
+watch(query, scheduleSearch);
 </script>
 
 <template>
@@ -119,7 +159,7 @@ watch(query, onInput);
           placeholder="Search by name or QID…"
           autocomplete="off"
           spellcheck="false"
-          @focus="open = query.trim().length > 0"
+          @focus="scheduleSearch"
           @blur="onBlur"
           @keydown="onKeydown"
         />
@@ -132,14 +172,18 @@ watch(query, onInput);
             :class="{ active: i === activeIdx }"
             @mousedown.prevent="addItem(item)"
           >
-            <strong>{{ item.label }}</strong>
-            <span class="qid-suggestion-meta">{{ item.qid }}</span>
+            <div class="qid-suggestion-main">
+              <strong>{{ item.label }}</strong>
+              <span class="qid-suggestion-meta">{{ item.qid }}</span>
+            </div>
+            <span v-if="item.description" class="qid-suggestion-desc">{{ item.description }}</span>
           </li>
         </ul>
       </div>
 
       <p class="hint qid-picker-hint">
         {{ modelValue.length }} selected · need at least {{ min }}
+        <span v-if="searching"> · searching Wikidata…</span>
       </p>
     </label>
   </div>

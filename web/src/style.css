@@ -994,12 +994,25 @@ td.num {
 
 .qid-suggestions li {
   display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 12px;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 2px;
   padding: 10px 12px;
   cursor: pointer;
   font-size: 0.92rem;
+}
+
+.qid-suggestion-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.qid-suggestion-desc {
+  font-size: 0.78rem;
+  color: #777;
+  line-height: 1.3;
 }
 
 .qid-suggestions li:hover,
