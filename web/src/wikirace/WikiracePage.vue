@@ -333,7 +333,7 @@ applyBuilderWindow();
         <p v-if="!isHome && !isInvalid && windowLabel" class="wikirace-period">{{ windowLabel }}</p>
         <p v-if="!isHome && !isInvalid && dataThroughNote" class="wikirace-data-note">{{ dataThroughNote }}</p>
         <p v-if="!isHome && !isInvalid && ranked.length" class="wikirace-metric-note">
-          Race% = area under the curve — each article’s share of combined daily pageviews.
+          Race% = area under the curve — each article’s share of combined daily pageviews in the chart period.
         </p>
         <p v-else-if="isHome" class="wikirace-tagline">
           Compare Wikipedia attention. Race% is area under the curve, as a share of the group.
@@ -420,9 +420,9 @@ applyBuilderWindow();
         <MultiLineChart :series="ranked" />
 
         <p class="race-metric-key">
-          <strong>Race%</strong> is <strong>area under the curve</strong>: the sum of daily pageviews for each
-          article over this period, as a percentage of the group total. The shaded bands on the chart correspond
-          to these shares — a larger filled area means a higher Race%.
+          <strong>Race%</strong> is <strong>area under the curve</strong>: each article’s share of combined daily
+          pageviews over the plotted period. <strong>Stacked share</strong> stacks those slices day by day — colored
+          band area matches Race%. <strong>Daily compare</strong> overlays curves on one scale to spot peak days.
         </p>
 
         <table class="race-table">

@@ -795,8 +795,17 @@ td.num {
   margin-bottom: 16px;
 }
 
+.chart-mode-toolbar {
+  margin-bottom: 10px;
+}
+
 .multi-chart .axis {
   stroke: #ddd;
+  stroke-width: 1;
+}
+
+.multi-chart .grid-line {
+  stroke: #eee;
   stroke-width: 1;
 }
 
@@ -804,9 +813,24 @@ td.num {
   stroke-width: 2.5;
 }
 
+.multi-chart .stack-area {
+  stroke: none;
+}
+
+.multi-chart .stack-edge {
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+}
+
 .multi-chart .y-label {
   font-size: 10px;
   fill: #888;
+}
+
+.chart-period {
+  margin: 8px 0 4px;
+  font-size: 0.82rem;
+  color: #666;
 }
 
 .chart-legend {
@@ -817,6 +841,12 @@ td.num {
   padding: 0;
   list-style: none;
   font-size: 0.85rem;
+}
+
+.legend-pct {
+  margin-left: 4px;
+  color: #888;
+  font-size: 0.8em;
 }
 
 .legend-swatch {

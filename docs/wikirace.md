@@ -44,7 +44,7 @@ For each article, sum daily pageviews over the selected period. Race% is that to
 Race% = Σ(daily views for article) ÷ Σ(daily views for all articles) × 100
 ```
 
-This is the discrete integral of the daily curve (area under the curve). The chart’s shaded bands match these percentages.
+This is the discrete integral of the daily curve (area under the curve). **Stacked share** (default chart) stacks daily slices so each band’s area matches Race%. **Daily compare** overlays curves on one scale for peak-day comparison.
 
 Race% is an **attention index**, not a vote or outcome predictor.
 

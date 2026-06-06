@@ -22,7 +22,7 @@ You can also pick a **preset group** (elections, sports finals, etc.) to load a 
 
 ### Chart
 
-Overlaid **daily pageview curves** — one color per article. The time axis runs from your start date to your end date.
+**Stacked share** (default) stacks each day’s pageviews by article — band area matches Race%. **Daily compare** overlays curves on one shared scale. The time axis runs from the first to the last plotted day.
 
 ### Race% (area under the curve)
 
@@ -32,7 +32,7 @@ Overlaid **daily pageview curves** — one color per article. The time axis runs
 Race% = sum(daily pageviews for article) ÷ sum(daily pageviews for all articles) × 100
 ```
 
-On the chart, each colored **shaded band** is that article’s area; a larger band means a higher Race%. The results table is sorted by Race% (highest first).
+The chart defaults to **Stacked share**: each day’s pageviews are stacked by article, so the colored band area matches **Race%**. Switch to **Daily compare** to overlay curves on one scale and spot peak days. The table is sorted by Race% (highest first).
 
 | Column | Meaning |
 |--------|---------|
