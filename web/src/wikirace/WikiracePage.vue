@@ -20,6 +20,7 @@ import {
   loadGroups,
   racePercentages,
   formatIso,
+  parseIsoDate,
   resolveDateRange,
   resolveEndDate,
   resolveMembers,
@@ -71,8 +72,16 @@ const windowLabel = computed(() => {
 });
 
 const dataThroughNote = computed(() => {
-  if (!range.value.futureEnd || !range.value.dataEnd) return '';
-  return `Pageviews through ${range.value.dataEnd} (URL end date is still in the future)`;
+  if (range.value.clippedStart && range.value.futureEnd) {
+    return `Pageviews from ${range.value.fetchStart}, through ${range.value.dataEnd} (URL range extends beyond available/future dates)`;
+  }
+  if (range.value.clippedStart) {
+    return `Pageviews from ${range.value.fetchStart} only — Wikimedia daily stats begin July 1, 2015`;
+  }
+  if (range.value.futureEnd && range.value.dataEnd) {
+    return `Pageviews through ${range.value.dataEnd} (URL end date is still in the future)`;
+  }
+  return '';
 });
 
 const ranked = computed(() => racePercentages(raceSeries.value));
@@ -158,7 +167,11 @@ async function loadRace() {
       throw new Error(`Could not resolve Wikipedia title for: ${missing.map((m) => m.label).join(', ')}`);
     }
 
-    const days = enumerateDays(dateRange.start, dateRange.dataEnd);
+    if (parseIsoDate(dateRange.fetchStart) > parseIsoDate(dateRange.dataEnd)) {
+      throw new Error('No pageview data — Wikimedia daily stats begin July 1, 2015.');
+    }
+
+    const days = enumerateDays(dateRange.fetchStart, dateRange.dataEnd);
     const results = [];
     for (const member of members) {
       try {

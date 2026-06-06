@@ -88,7 +88,9 @@ Routing is wired in `web/src/App.vue` (`parseWikiracePath` in `lib.js`).
 
 - Endpoint: `wikimedia.org/.../per-article/en.wikipedia/all-access/all-agents/daily/{start}/{end}`
 - **No custom headers** in `fetch()` — custom headers trigger CORS preflight and fail on Wikimedia.
+- **Daily data from July 1, 2015** — earlier ranges return HTTP 404; the app clamps the fetch start and shows a note.
 - Long ranges are split into monthly chunks.
+- Article paths use `encodeURIComponent` on the Wikipedia title (spaces, parentheses).
 - Timestamps from the API look like `2024050900`; parse with `parsePvDay()` (first 8 chars → `YYYY-MM-DD`).
 
 ---

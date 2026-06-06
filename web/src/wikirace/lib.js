@@ -5,6 +5,8 @@ const PV_API =
 
 export const MAX_RACE_MEMBERS = 10;
 export const MAX_RANGE_DAYS = 365;
+/** Wikimedia per-article daily pageviews API backfill starts here. */
+export const PAGE_VIEWS_MIN_DATE = '2015-07-01';
 const RACE_LOAD_LIMIT = 6;
 const RACE_LOAD_WINDOW_MS = 60_000;
 
@@ -271,16 +273,26 @@ export function clampToYesterday(end) {
   return end;
 }
 
+export function clampPageviewsStart(start) {
+  const min = parseIsoDate(PAGE_VIEWS_MIN_DATE);
+  const s = parseIsoDate(start);
+  if (!s || !min || s >= min) return start;
+  return PAGE_VIEWS_MIN_DATE;
+}
+
 export function resolveDateRange(route) {
   const end = route.end;
   const dataEnd = clampToYesterday(end);
+  const fetchStart = clampPageviewsStart(route.start);
   return {
     start: route.start,
     end,
     dataEnd,
+    fetchStart,
     windowDays: daysBetween(route.start, end),
-    days: daysBetween(route.start, dataEnd),
+    days: daysBetween(fetchStart, dataEnd),
     futureEnd: end !== dataEnd,
+    clippedStart: fetchStart !== route.start,
   };
 }
 
@@ -311,7 +323,7 @@ async function fetchQidMeta(qid) {
   const enwiki = entity.sitelinks?.enwiki?.title;
   return {
     label,
-    title: enwiki ? enwiki.replace(/ /g, '_') : null,
+    title: enwiki || null,
   };
 }
 
@@ -357,7 +369,7 @@ function parsePvDay(timestamp) {
 }
 
 function pvArticlePath(article) {
-  return encodeURIComponent(article).replace(/%20/g, '_');
+  return encodeURIComponent(article.replace(/_/g, ' '));
 }
 
 /** Split [start, end] into monthly chunks for smaller API requests. */
@@ -396,13 +408,14 @@ async function fetchDailyViewsChunk(article, start, end) {
 }
 
 export async function fetchDailyViews(article, start, end) {
+  const fetchStart = clampPageviewsStart(start);
   const dataEnd = clampToYesterday(end);
-  const cacheKey = `${article}|${start}|${dataEnd}`;
+  const cacheKey = `${article}|${fetchStart}|${dataEnd}`;
   if (pvCache.has(cacheKey)) {
     return new Map(pvCache.get(cacheKey));
   }
 
-  const chunks = monthChunks(start, dataEnd);
+  const chunks = monthChunks(fetchStart, dataEnd);
   const map = new Map();
   for (const chunk of chunks) {
     const partial = await fetchDailyViewsChunk(article, chunk.start, chunk.end);
