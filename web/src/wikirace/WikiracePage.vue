@@ -88,6 +88,23 @@ const dataThroughNote = computed(() => {
 
 const ranked = computed(() => racePercentages(raceSeries.value));
 
+const GROUP_CATEGORY_ORDER = ['tv', 'politics', 'sport'];
+const GROUP_CATEGORY_LABELS = { tv: 'TV', politics: 'Politics', sport: 'Sport' };
+
+const groupSections = computed(() => {
+  const byCat = {};
+  for (const g of groups.value) {
+    (byCat[g.category] ??= []).push(g);
+  }
+  const ordered = GROUP_CATEGORY_ORDER.filter((cat) => byCat[cat]?.length);
+  const extra = Object.keys(byCat).filter((cat) => !GROUP_CATEGORY_ORDER.includes(cat));
+  return [...ordered, ...extra].map((cat) => ({
+    id: cat,
+    label: GROUP_CATEGORY_LABELS[cat] || cat,
+    groups: byCat[cat],
+  }));
+});
+
 const activeWindowId = computed(() => {
   const span = range.value.windowDays ?? range.value.days;
   if (!span) return null;
@@ -120,7 +137,7 @@ const shareUrlDisplay = computed(() => shareUrl.value.replace(/\+/g, '+\u200b'))
 
 async function loadCatalog() {
   try {
-    groups.value = await loadGroups();
+    groups.value = await loadGroups({ fresh: isHome.value });
   } catch {
     groups.value = [];
   }
@@ -378,19 +395,22 @@ applyBuilderWindow();
 
       <section class="wikirace-panel">
         <h2>Preset groups</h2>
-        <div class="group-grid">
-          <button
-            v-for="g in groups"
-            :key="g.slug"
-            type="button"
-            class="group-card"
-            @click="openGroup(g)"
-          >
-            <span class="group-cat">{{ g.category }}</span>
-            <strong>{{ g.label }}</strong>
-            <span class="group-meta">{{ joinQidsForDisplay(g.members.map((m) => m.qid)) }}</span>
-            <span class="group-meta">{{ g.defaultRange.start }} → {{ g.defaultRange.end }}</span>
-          </button>
+        <p v-if="!groups.length" class="hint">Loading presets…</p>
+        <div v-for="section in groupSections" :key="section.id" class="group-section">
+          <h3 class="group-section-title">{{ section.label }}</h3>
+          <div class="group-grid">
+            <button
+              v-for="g in section.groups"
+              :key="g.slug"
+              type="button"
+              class="group-card"
+              @click="openGroup(g)"
+            >
+              <strong>{{ g.label }}</strong>
+              <span class="group-meta">{{ g.defaultRange.start }} → {{ g.defaultRange.end }}</span>
+              <span class="group-meta">{{ g.members.length }} articles</span>
+            </button>
+          </div>
         </div>
       </section>
 

@@ -1,4 +1,4 @@
-import { loadQidStats, url, pad } from '../lib.js';
+import { loadQidStats, url, pad, VERSION } from '../lib.js';
 
 const PV_API =
   'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents';
@@ -318,9 +318,9 @@ export function resolveDateRange(route) {
   };
 }
 
-export async function loadGroups() {
-  if (groupsCache) return groupsCache;
-  const res = await fetch(url('wikirace/groups.json'));
+export async function loadGroups({ fresh = false } = {}) {
+  if (!fresh && groupsCache) return groupsCache;
+  const res = await fetch(url(`wikirace/groups.json?v=${VERSION}`), { cache: 'no-cache' });
   if (!res.ok) throw new Error('Could not load wikirace groups');
   const data = await res.json();
   groupsCache = data.groups || [];

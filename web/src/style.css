@@ -705,6 +705,19 @@ td.num {
   background: #333;
 }
 
+.group-section + .group-section {
+  margin-top: 18px;
+}
+
+.group-section-title {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #666;
+}
+
 .group-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
