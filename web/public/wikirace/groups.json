@@ -134,6 +134,7 @@
       "slug": "rust-linux-kernel-month-after",
       "label": "Rust in Linux 6.1 — month after",
       "category": "tech",
+      "context": "Linux 6.1 (Dec 11, 2022) merged initial Rust support into the kernel. In the month after, Wikipedia readers often looked up C, C++, and Linux more than Rust — curiosity about the incumbent stack, not just the headline language.",
       "eventDate": "2022-12-11",
       "defaultWindow": "30d",
       "defaultRange": { "start": "2022-12-12", "end": "2023-01-11" },

@@ -110,6 +110,7 @@ Preset races. Each group:
   "eventDate": "2024-11-05",
   "defaultWindow": "6m",
   "defaultRange": { "start": "2024-05-09", "end": "2024-11-04" },
+  "context": "Optional one- or two-sentence note shown on the race page (event + how to read results).",
   "members": [
     { "qid": "Q22686", "label": "Donald Trump", "article": "Donald_Trump" }
   ]

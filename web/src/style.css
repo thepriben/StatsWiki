@@ -620,6 +620,14 @@ td.num {
   color: #555;
 }
 
+.wikirace-context {
+  margin: 6px 0 0;
+  max-width: 52em;
+  font-size: 0.9rem;
+  color: #444;
+  line-height: 1.45;
+}
+
 .wikirace-data-note {
   margin: 4px 0 0;
   font-size: 0.85rem;

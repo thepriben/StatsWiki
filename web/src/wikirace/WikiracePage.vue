@@ -353,6 +353,7 @@ applyBuilderWindow();
       <div>
         <h1>{{ title }}</h1>
         <p v-if="!isHome && !isInvalid && windowLabel" class="wikirace-period">{{ windowLabel }}</p>
+        <p v-if="!isHome && !isInvalid && activeGroup?.context" class="wikirace-context">{{ activeGroup.context }}</p>
         <p v-if="!isHome && !isInvalid && dataThroughNote" class="wikirace-data-note">{{ dataThroughNote }}</p>
         <p v-if="!isHome && !isInvalid && ranked.length" class="wikirace-metric-note">
           Race% = area under the curve — each article’s share of combined daily pageviews in the chart period.
