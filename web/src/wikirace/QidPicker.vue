@@ -155,27 +155,24 @@ watch(query, scheduleSearch);
       <ul v-if="modelValue.length" class="qid-chips" aria-label="Selected articles">
         <li v-for="(m, i) in modelValue" :key="m.qid" class="qid-chip">
           <span class="qid-chip-color" :style="{ background: chipColor(i) }" aria-hidden="true" />
-          <span class="qid-chip-label">{{ m.label }}</span>
-          <span v-if="chipArticle(m) || wikidataUrl(m.qid)" class="qid-chip-links">
-            <a
-              v-if="chipArticle(m)"
-              :href="wikiUrl(chipArticle(m))"
-              class="race-ext-link"
-              target="_blank"
-              rel="noopener noreferrer"
-              :aria-label="`Wikipedia: ${m.label}`"
-              @click.stop
-            >Wikipedia ↗</a>
-            <a
-              v-if="wikidataUrl(m.qid)"
-              :href="wikidataUrl(m.qid)"
-              class="race-ext-link"
-              target="_blank"
-              rel="noopener noreferrer"
-              :aria-label="`Wikidata: ${m.qid}`"
-              @click.stop
-            >{{ m.qid }} ↗</a>
-          </span>
+          <a
+            v-if="chipArticle(m)"
+            :href="wikiUrl(chipArticle(m))"
+            class="qid-chip-label race-name"
+            target="_blank"
+            rel="noopener noreferrer"
+            @click.stop
+          >{{ m.label }}</a>
+          <span v-else class="qid-chip-label">{{ m.label }}</span>
+          <a
+            v-if="wikidataUrl(m.qid)"
+            :href="wikidataUrl(m.qid)"
+            class="race-ext-link"
+            target="_blank"
+            rel="noopener noreferrer"
+            :aria-label="`Wikidata: ${m.qid}`"
+            @click.stop
+          >{{ m.qid }} ↗</a>
           <button type="button" class="qid-chip-remove" :aria-label="`Remove ${m.label}`" @click="removeItem(m.qid)">×</button>
         </li>
       </ul>

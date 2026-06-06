@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref, watch } from 'vue';
-import { SITE_URL, fmtViews, statsUrl, url, wikiUrl, wikidataUrl } from '../lib.js';
+import { SITE_URL, fmtViews, url, wikiUrl, wikidataUrl } from '../lib.js';
 import HelpPage from './HelpPage.vue';
 import MultiLineChart from './MultiLineChart.vue';
 import QidPicker from './QidPicker.vue';
@@ -426,6 +426,7 @@ applyBuilderWindow();
               @click="openGroup(g)"
             >
               <strong>{{ g.label }}</strong>
+              <span v-if="g.context" class="group-context">{{ g.context }}</span>
               <span v-if="groupCardRange(g)" class="group-meta">
                 {{ groupCardRange(g).start }} → {{ groupCardRange(g).end }}
                 <template v-if="g.rolling"> · rolling</template>
@@ -486,30 +487,21 @@ applyBuilderWindow();
               <td>
                 <div class="race-article-cell">
                   <a
-                    v-if="statsUrl(row.qid)"
-                    href="#"
+                    v-if="row.title"
+                    :href="wikiUrl(row.title)"
                     class="race-name"
-                    @click.prevent="go(`q/${row.qid}`)"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >{{ row.label }}</a>
                   <span v-else class="race-name">{{ row.label }}</span>
-                  <span v-if="row.title || wikidataUrl(row.qid)" class="race-article-links">
-                    <a
-                      v-if="row.title"
-                      :href="wikiUrl(row.title)"
-                      class="race-ext-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      :aria-label="`Wikipedia: ${row.label}`"
-                    >Wikipedia ↗</a>
-                    <a
-                      v-if="wikidataUrl(row.qid)"
-                      :href="wikidataUrl(row.qid)"
-                      class="race-ext-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      :aria-label="`Wikidata: ${row.qid}`"
-                    >{{ row.qid }} ↗</a>
-                  </span>
+                  <a
+                    v-if="wikidataUrl(row.qid)"
+                    :href="wikidataUrl(row.qid)"
+                    class="race-ext-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    :aria-label="`Wikidata: ${row.qid}`"
+                  >{{ row.qid }} ↗</a>
                 </div>
               </td>
               <td class="num">{{ fmtViews(row.total) }}</td>
