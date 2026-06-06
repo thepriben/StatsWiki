@@ -67,6 +67,17 @@ def export_period(kind: str, year: int = 0, month: int = 0, day: int = 0) -> boo
         start = end = date(year, month, day)
         path = JSON_OUT / "day" / f"{year}" / f"{month:02d}" / f"{day:02d}.json"
         title = f"{day} {MONTHS[month - 1]} {year}"
+    elif kind == "week":
+        week_end = date(year, month, day)
+        if week_end.weekday() != 6:
+            return False
+        week_start = week_end - timedelta(days=6)
+        start = max(week_start, START)
+        end = week_end
+        path = JSON_OUT / "week" / f"{week_end.year}" / f"{week_end.isoformat()}.json"
+        from statswiki.post_text import week_range_label
+
+        title = week_range_label(week_start, week_end)
     else:
         return False
 
@@ -111,6 +122,8 @@ def export_manifest() -> None:
 def export_recent() -> None:
     y = date.today() - timedelta(days=1)
     export_period("day", y.year, y.month, y.day)
+    if y.weekday() == 6:
+        export_period("week", y.year, y.month, y.day)
     export_period("month", y.year, y.month)
     export_period("year", y.year)
     export_period("alltime")

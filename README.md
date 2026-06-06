@@ -105,7 +105,7 @@ cd web && npm ci && npm run dev
 | Workflow | Trigger | Role |
 |----------|---------|------|
 | **Deploy Pages** | Push or manual | Build Vue → publish |
-| **Daily update** | 08:00 & 14:00 UTC or manual | Yesterday → commit → deploy |
+| **Daily update** | 08:00 & 14:00 UTC or manual | Yesterday → daily top 5 + period posts → commit → deploy |
 | **Backfill** | Manual (pick year) | One year of history |
 | **Backfill sequence** | Manual | 2025 → 2016 in one job |
 
@@ -129,6 +129,19 @@ Wikimedia publishes **top/day** pageviews roughly **24 hours after UTC midnight*
 **If data is not available yet:** the fetch retries up to 3× per attempt (with backoff), then the job exits without commit or deploy. The 14:00 run tries again automatically.
 
 **If yesterday is already in the database** (e.g. after a successful morning run), the fetch is skipped but enrich/export still run — useful if Wikidata mapping changed.
+
+### Social posts (@statswiki on X and Bluesky)
+
+After each successful daily run:
+
+| Trigger | When | Post |
+|---------|------|------|
+| **Daily** | Every run | Top 5 for yesterday |
+| **Week** | Yesterday was **Sunday** | Top 5 for Mon–Sun (e.g. `Mon 26 May – Sun 1 Jun 2026`) |
+| **Month** | Yesterday was the **last day of the month** | Top 5 for that month |
+| **Year** | Yesterday was **31 December** | Top 5 for that year |
+
+Manual dry-run: `sw-period-posts --dry-run --date YYYY-MM-DD --force`
 
 ---
 
@@ -165,6 +178,7 @@ StatsWiki/
 | `sw-export --recent` | Rebuild yesterday / month / year / alltime JSON |
 | `sw-export --year YYYY` | Export all periods for one year |
 | `sw-export-qids` | Export `data/q/Q*.json` time series for charts |
+| `sw-period-posts` | Post week/month/year top 5 to X and Bluesky when due |
 
 All ingest is **idempotent** — existing days are skipped.
 

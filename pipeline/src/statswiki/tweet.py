@@ -1,25 +1,11 @@
 """Post yesterday's top 5 to @statswiki on X."""
 
-import json
 import sys
 from datetime import date, timedelta
 
 from statswiki.config import TWEET_LOG, TOP_N, X_CREDENTIALS, X_ENABLED
+from statswiki.post_log import already_posted, mark_posted
 from statswiki.post_text import build_daily_post, load_lines
-
-
-def _already_tweeted(day: date) -> bool:
-    if not TWEET_LOG.exists():
-        return False
-    try:
-        return json.loads(TWEET_LOG.read_text()).get("last") == day.isoformat()
-    except (json.JSONDecodeError, OSError):
-        return False
-
-
-def _mark_tweeted(day: date) -> None:
-    TWEET_LOG.parent.mkdir(parents=True, exist_ok=True)
-    TWEET_LOG.write_text(json.dumps({"last": day.isoformat()}, indent=2) + "\n")
 
 
 def build_tweet(day: date, lines: list[dict], n: int = 5) -> str:
@@ -62,7 +48,7 @@ def main():
         print(text)
         return
 
-    if not args.force and _already_tweeted(day):
+    if not args.force and already_posted(TWEET_LOG, "daily", day.isoformat()):
         print(f"Already tweeted {day}")
         sys.exit(0 if not args.strict else 1)
 
@@ -72,7 +58,7 @@ def main():
         sys.exit(1 if args.strict else 0)
 
     post_tweet(text)
-    _mark_tweeted(day)
+    mark_posted(TWEET_LOG, "daily", day.isoformat())
     print(text)
 
 

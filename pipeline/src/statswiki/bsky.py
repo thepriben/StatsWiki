@@ -1,6 +1,5 @@
 """Post yesterday's top 5 to StatsWiki on Bluesky."""
 
-import json
 import os
 import sys
 from datetime import date, datetime, timedelta, timezone
@@ -8,23 +7,10 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 
 from statswiki.config import BSKY_LOG, BSKY_ENABLED, TOP_N
+from statswiki.post_log import already_posted, mark_posted
 from statswiki.post_text import build_daily_post, load_lines
 
 BSKY_PDS = "https://bsky.social"
-
-
-def _already_posted(day: date) -> bool:
-    if not BSKY_LOG.exists():
-        return False
-    try:
-        return json.loads(BSKY_LOG.read_text()).get("last") == day.isoformat()
-    except (json.JSONDecodeError, OSError):
-        return False
-
-
-def _mark_posted(day: date) -> None:
-    BSKY_LOG.parent.mkdir(parents=True, exist_ok=True)
-    BSKY_LOG.write_text(json.dumps({"last": day.isoformat()}, indent=2) + "\n")
 
 
 def _link_facet(text: str, url: str) -> dict:
@@ -103,7 +89,7 @@ def main():
         print(text)
         return
 
-    if not args.force and _already_posted(day):
+    if not args.force and already_posted(BSKY_LOG, "daily", day.isoformat()):
         print(f"Already posted {day} to Bluesky")
         sys.exit(0 if not args.strict else 1)
 
@@ -113,7 +99,7 @@ def main():
         sys.exit(1 if args.strict else 0)
 
     post_to_bsky(body, link)
-    _mark_posted(day)
+    mark_posted(BSKY_LOG, "daily", day.isoformat())
     print(text)
 
 

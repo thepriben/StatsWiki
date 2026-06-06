@@ -18,6 +18,7 @@ sw-enrich = "statswiki.wikidata:main"
 sw-export-qids = "statswiki.qid_export:main"
 sw-tweet = "statswiki.tweet:main"
 sw-bsky = "statswiki.bsky:main"
+sw-period-posts = "statswiki.period_posts:main"
 sw-fill-gaps = "statswiki.fill_gaps:main"
 
 [build-system]
