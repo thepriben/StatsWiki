@@ -68,8 +68,9 @@ const dataThroughNote = computed(() => {
 const ranked = computed(() => racePercentages(raceSeries.value));
 
 const activeWindowId = computed(() => {
-  if (!range.value.days) return null;
-  const preset = WINDOW_PRESETS.find((p) => p.days === range.value.days);
+  const span = range.value.windowDays ?? range.value.days;
+  if (!span) return null;
+  const preset = WINDOW_PRESETS.find((p) => p.days === span);
   return preset?.id || null;
 });
 

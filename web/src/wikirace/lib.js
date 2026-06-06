@@ -251,6 +251,7 @@ export function resolveDateRange(route) {
     start: route.start,
     end,
     dataEnd,
+    windowDays: daysBetween(route.start, end),
     days: daysBetween(route.start, dataEnd),
     futureEnd: end !== dataEnd,
   };
