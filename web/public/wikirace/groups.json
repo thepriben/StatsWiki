@@ -99,7 +99,7 @@
     {
       "slug": "breaking-bad-10y-after-finale",
       "label": "Breaking Bad — 10 years after finale",
-      "category": "tv",
+      "category": "culture",
       "context": "Breaking Bad characters only — no Better Call Saul crossovers (e.g. Gus Fring, Saul Goodman), so pageviews map more cleanly to the BB finale window.",
       "eventDate": "2013-09-29",
       "defaultWindow": "1y",
@@ -117,7 +117,7 @@
     {
       "slug": "bbt-year-after-finale",
       "label": "Big Bang Theory — 1 year after finale",
-      "category": "tv",
+      "category": "culture",
       "eventDate": "2019-05-16",
       "defaultWindow": "1y",
       "defaultRange": { "start": "2019-05-17", "end": "2020-05-15" },
@@ -191,7 +191,7 @@
     {
       "slug": "bcs-year-after-finale",
       "label": "Better Call Saul — 1 year after finale",
-      "category": "tv",
+      "category": "culture",
       "context": "Better Call Saul characters only — Gus Fring and Mike Ehrmantraut omitted (shared with Breaking Bad), so attention is less ambiguous across spinoffs.",
       "eventDate": "2022-08-15",
       "defaultWindow": "1y",
