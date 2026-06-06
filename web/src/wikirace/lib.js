@@ -296,6 +296,65 @@ export function resolveGroupRange(group) {
   return null;
 }
 
+function formatWindowSpanDays(days) {
+  if (days === 7) return '1 week';
+  if (days === 30) return '1 month';
+  if (days === 90) return '3 months';
+  if (days === 180) return '6 months';
+  if (days === 365) return '1 year';
+  return `${days} days`;
+}
+
+/** before | after | during | rolling | fixed */
+export function inferGroupWindowKind(group) {
+  if (group?.rolling) return 'rolling';
+  const range = group?.defaultRange;
+  const ev = group?.eventDate;
+  if (!range?.start || !range?.end || !ev) return 'fixed';
+
+  const evDt = parseIsoDate(ev);
+  const startDt = parseIsoDate(range.start);
+  const endDt = parseIsoDate(range.end);
+  if (!evDt || !startDt || !endDt) return 'fixed';
+
+  const dayBeforeEv = formatIso(subtractDays(evDt, 1));
+  const dayAfterEv = formatIso(subtractDays(evDt, -1));
+  const startStr = formatIso(startDt);
+  const endStr = formatIso(endDt);
+  const eventStr = formatIso(evDt);
+
+  if (startStr === eventStr || (startDt <= evDt && endDt >= evDt)) return 'during';
+  if (endStr === dayBeforeEv) return 'before';
+  if (startStr === dayAfterEv) return 'after';
+  if (startDt > evDt) return 'after';
+  return 'fixed';
+}
+
+/** Human-readable window type for preset cards and race headers. */
+export function groupWindowBadge(group) {
+  if (!group) return '';
+  const range = resolveGroupRange(group);
+  if (!range) return '';
+
+  const days = daysBetween(range.start, range.end);
+  const span = formatWindowSpanDays(days);
+  const kind = inferGroupWindowKind(group);
+  const event = group.eventDate;
+
+  switch (kind) {
+    case 'rolling':
+      return `Rolling window · ${span} · updates through yesterday`;
+    case 'before':
+      return `Past event · ${span} before (${event})`;
+    case 'after':
+      return `Past event · ${span} after (${event})`;
+    case 'during':
+      return `Past event · ${span} including event day (${event})`;
+    default:
+      return `Fixed dates · ${range.start} → ${range.end}`;
+  }
+}
+
 /** Last day of the race window: day before event, yesterday for rolling, or yesterday. */
 export function resolveEndDate(group) {
   const yest = parseIsoDate(yesterday());

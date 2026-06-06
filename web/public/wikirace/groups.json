@@ -2,7 +2,7 @@
   "groups": [
     {
       "slug": "us-president-2024",
-      "label": "2024 US Presidential Election",
+      "label": "2024 US Presidential Election — 6 months before",
       "category": "politics",
       "context": "Donald Trump won over Kamala Harris (Nov 5, 2024) — six months of pageviews on both candidates before election day.",
       "eventDate": "2024-11-05",
@@ -15,7 +15,7 @@
     },
     {
       "slug": "us-president-2020",
-      "label": "2020 US Presidential Election",
+      "label": "2020 US Presidential Election — 6 months before",
       "category": "politics",
       "context": "Joe Biden won over Donald Trump (Nov 3, 2020) — six months of pageviews on both candidates before election day.",
       "eventDate": "2020-11-03",
@@ -28,7 +28,7 @@
     },
     {
       "slug": "us-president-2016",
-      "label": "2016 US Presidential Election",
+      "label": "2016 US Presidential Election — 6 months before",
       "category": "politics",
       "context": "Donald Trump won over Hillary Clinton (Nov 8, 2016) — six months of pageviews on both candidates before election day.",
       "eventDate": "2016-11-08",
@@ -41,7 +41,7 @@
     },
     {
       "slug": "fl-governor-2022",
-      "label": "2022 Florida Governor",
+      "label": "2022 Florida Governor — 6 months before",
       "category": "politics",
       "context": "Ron DeSantis won over Charlie Crist (Nov 8, 2022) — six months of pageviews on both candidates before the Florida governor election.",
       "eventDate": "2022-11-08",
@@ -54,7 +54,7 @@
     },
     {
       "slug": "pa-senate-2022",
-      "label": "2022 Pennsylvania Senate",
+      "label": "2022 Pennsylvania Senate — 6 months before",
       "category": "politics",
       "context": "John Fetterman won over Mehmet Oz (Nov 8, 2022) — six months of pageviews on both candidates before the Pennsylvania Senate election.",
       "eventDate": "2022-11-08",
@@ -67,7 +67,7 @@
     },
     {
       "slug": "fr-politics-last-year",
-      "label": "France politics — last 12 months",
+      "label": "France politics — rolling 12 months",
       "category": "politics",
       "rolling": true,
       "defaultWindow": "1y",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "super-bowl-2024",
-      "label": "Super Bowl LVIII (2024)",
+      "label": "Super Bowl LVIII (2024) — 3 months before",
       "category": "sport",
       "context": "Kansas City Chiefs beat San Francisco 49ers 25–22 in overtime (Feb 11, 2024) — three months of pageviews on both teams before the Super Bowl.",
       "eventDate": "2024-02-11",
@@ -100,7 +100,7 @@
     },
     {
       "slug": "nba-finals-2024",
-      "label": "2024 NBA Finals",
+      "label": "2024 NBA Finals — 3 months before",
       "category": "sport",
       "context": "Boston Celtics beat Dallas Mavericks 4–1 (June 2024) — three months of Wikipedia attention on both franchises before the finals.",
       "eventDate": "2024-06-17",
@@ -113,7 +113,7 @@
     },
     {
       "slug": "wc-final-2022",
-      "label": "2022 FIFA World Cup Final",
+      "label": "2022 FIFA World Cup Final — 3 months before",
       "category": "sport",
       "context": "Argentina beat France 4–2 on penalties after 3–3 (Dec 18, 2022) — three months of pageviews on both national teams before the Qatar final.",
       "eventDate": "2022-12-18",
@@ -122,6 +122,48 @@
       "members": [
         { "qid": "Q79800", "label": "Argentina", "article": "Argentina_national_football_team" },
         { "qid": "Q47774", "label": "France", "article": "France_national_football_team" }
+      ]
+    },
+    {
+      "slug": "ballon-dor-men-2025-week-before",
+      "label": "Men's Ballon d'Or 2025 — week before",
+      "category": "sport",
+      "context": "Ousmane Dembélé won the 2025 men's Ballon d'Or (Sept 22, 2025) — seven days of pageviews on the top ten men's finalists before the Paris ceremony.",
+      "eventDate": "2025-09-22",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2025-09-15", "end": "2025-09-21" },
+      "members": [
+        { "qid": "Q20851003", "label": "Ousmane Dembélé", "article": "Ousmane_Dembélé" },
+        { "qid": "Q113704154", "label": "Lamine Yamal", "article": "Lamine_Yamal" },
+        { "qid": "Q66818509", "label": "Vitinha", "article": "Vitinha" },
+        { "qid": "Q1354960", "label": "Mohamed Salah", "article": "Mohamed_Salah" },
+        { "qid": "Q28861547", "label": "Raphinha", "article": "Raphinha" },
+        { "qid": "Q21621995", "label": "Kylian Mbappé", "article": "Kylian_Mbappé" },
+        { "qid": "Q26932598", "label": "Achraf Hakimi", "article": "Achraf_Hakimi" },
+        { "qid": "Q99760796", "label": "Cole Palmer", "article": "Cole_Palmer" },
+        { "qid": "Q20830808", "label": "Gianluigi Donnarumma", "article": "Gianluigi_Donnarumma" },
+        { "qid": "Q96396963", "label": "Nuno Mendes", "article": "Nuno_Mendes_(footballer,_born_2002)" }
+      ]
+    },
+    {
+      "slug": "velo-dor-women-2025-week-before",
+      "label": "Women's Vélo d'Or 2025 — week before",
+      "category": "sport",
+      "context": "Pauline Ferrand-Prévot won the 2025 Vélo d'Or Femmes (Dec 5, 2025) — seven days of pageviews on all ten women's finalists before the Paris ceremony.",
+      "eventDate": "2025-12-05",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2025-11-28", "end": "2025-12-04" },
+      "members": [
+        { "qid": "Q462104", "label": "Pauline Ferrand-Prévot", "article": "Pauline_Ferrand-Prévot" },
+        { "qid": "Q54436538", "label": "Demi Vollering", "article": "Demi_Vollering" },
+        { "qid": "Q6242", "label": "Marianne Vos", "article": "Marianne_Vos" },
+        { "qid": "Q40853827", "label": "Lorena Wiebes", "article": "Lorena_Wiebes" },
+        { "qid": "Q15531382", "label": "Kasia Niewiadoma", "article": "Katarzyna_Niewiadoma-Phinney" },
+        { "qid": "Q74404518", "label": "Puck Pieterse", "article": "Puck_Pieterse" },
+        { "qid": "Q30584542", "label": "Marlen Reusser", "article": "Marlen_Reusser" },
+        { "qid": "Q462480", "label": "Elisa Longo Borghini", "article": "Elisa_Longo_Borghini" },
+        { "qid": "Q26236311", "label": "Kimberley Le Court", "article": "Kimberley_Le_Court" },
+        { "qid": "Q105703208", "label": "Mischa Bredewold", "article": "Mischa_Bredewold" }
       ]
     },
     {
@@ -219,7 +261,7 @@
     },
     {
       "slug": "sum-of-three-cubes-october-2019",
-      "label": "Sum of three cubes — October 2019",
+      "label": "Sum of three cubes — 1 month after (Oct 2019)",
       "category": "tech",
       "context": "Andrew Booker solved x³ + y³ + z³ = 42 in September 2019. In October, modular arithmetic and 42 (number) dominated — not the conjecture article or Booker himself. A niche proof, but Wikipedia traffic still flows through general math hubs and pop-culture numbers.",
       "eventDate": "2019-09-06",

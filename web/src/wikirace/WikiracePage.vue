@@ -26,6 +26,7 @@ import {
   resolveDateRange,
   resolveEndDate,
   resolveGroupRange,
+  groupWindowBadge,
   resolveMembers,
   windowRange,
   yesterday,
@@ -71,7 +72,9 @@ const title = computed(() => {
 
 const windowLabel = computed(() => {
   if (!range.value.start || !range.value.end) return '';
-  return `${range.value.start} → ${range.value.end}`;
+  const dates = `${range.value.start} → ${range.value.end}`;
+  const badge = activeGroup.value ? groupWindowBadge(activeGroup.value) : '';
+  return badge ? `${dates} — ${badge}` : dates;
 });
 
 const dataThroughNote = computed(() => {
@@ -429,8 +432,8 @@ applyBuilderWindow();
               <span v-if="g.context" class="group-context">{{ g.context }}</span>
               <span v-if="groupCardRange(g)" class="group-meta">
                 {{ groupCardRange(g).start }} → {{ groupCardRange(g).end }}
-                <template v-if="g.rolling"> · rolling</template>
               </span>
+              <span v-if="groupWindowBadge(g)" class="group-window-badge">{{ groupWindowBadge(g) }}</span>
               <span class="group-meta">{{ g.members.length }} articles</span>
             </button>
           </div>

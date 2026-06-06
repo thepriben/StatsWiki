@@ -766,6 +766,15 @@ td.num {
   word-break: break-word;
 }
 
+.group-window-badge {
+  font-size: 0.72rem;
+  line-height: 1.35;
+  color: #666;
+  font-style: italic;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 .group-meta {
   font-size: 0.8rem;
   color: #777;
