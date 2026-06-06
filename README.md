@@ -4,8 +4,6 @@
 
 **Live site:** https://thepriben.github.io/StatsWiki/
 
-**X:** https://x.com/statswiki
-
 **Bluesky:** https://bsky.app/profile/statswiki.bsky.social
 
 MIT license — fork for [another language or project → ADAPT.md](ADAPT.md).
@@ -106,7 +104,6 @@ cd web && npm ci && npm run dev
 | **Daily update** | 08:00 & 14:00 UTC or manual | Yesterday → commit → deploy |
 | **Backfill** | Manual (pick year) | One year of history |
 | **Backfill sequence** | Manual | 2025 → 2016 in one job |
-| **X test** | Manual | Post a test daily top 5 to X |
 
 ### Backfill order (recommended)
 
@@ -128,23 +125,6 @@ Wikimedia publishes **top/day** pageviews roughly **24 hours after UTC midnight*
 **If data is not available yet:** the fetch retries up to 3× per attempt (with backoff), then the job exits without commit or deploy. The 14:00 run tries again automatically.
 
 **If yesterday is already in the database** (e.g. after a successful morning run), the fetch is skipped but enrich/export still run — useful if Wikidata mapping changed.
-
-### X daily post
-
-The daily workflow posts the top 5 to `@statswiki` after the data export succeeds.
-
-Add these repository secrets in **Settings → Secrets and variables → Actions**:
-
-| Secret | Value from X Developer |
-|--------|------------------------|
-| `X_API_KEY` | API key |
-| `X_API_SECRET` | API key secret |
-| `X_ACCESS_TOKEN` | Access token for `@statswiki` |
-| `X_ACCESS_TOKEN_SECRET` | Access token secret for `@statswiki` |
-
-The X app must have **Read and write** permission, and the OAuth 1.0a access token must belong to `@statswiki`. If you change app permissions, regenerate the access token and secret afterward. Do not use the app-only Bearer token for these secrets. Legacy `TWITTER_*` secret names are still accepted by the pipeline, but `X_*` is preferred.
-
-To test manually: **Actions → X test → Run workflow**. Leave the date empty for yesterday, or pass `YYYY-MM-DD`. The test workflow posts once and commits `data/tweet_log.json` so the daily workflow does not repost the same day.
 
 ---
 
