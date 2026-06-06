@@ -425,6 +425,8 @@ td.num {
 .crumb-current {
   color: #1a1a1a;
   font-weight: 500;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .crumb-sep {
@@ -731,6 +733,8 @@ td.num {
 .group-meta {
   font-size: 0.8rem;
   color: #777;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .wikirace-url-help ul {
@@ -895,9 +899,29 @@ td.num {
   min-width: 2px;
 }
 
+.share-hint {
+  margin-bottom: 12px;
+  font-size: 0.88rem;
+  color: #666;
+}
+
+.share-hint-label {
+  display: block;
+  margin-bottom: 6px;
+}
+
 .share-hint .share-link {
+  display: block;
   color: #1a56db;
-  word-break: break-all;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  line-height: 1.45;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.share-hint .share-link:hover {
+  text-decoration: underline;
 }
 
 /* ── QidPicker ── */

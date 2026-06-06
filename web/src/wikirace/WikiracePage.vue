@@ -79,11 +79,17 @@ const shareUrl = computed(() => {
   return `${SITE_URL}${url(path)}`;
 });
 
+function joinQidsForDisplay(qids) {
+  return qids.join('+\u200b');
+}
+
 const breadcrumbLabel = computed(() => {
   if (activeGroup.value) return activeGroup.value.label;
-  if (props.route.qids?.length) return props.route.qids.join('+');
+  if (props.route.qids?.length) return joinQidsForDisplay(props.route.qids);
   return 'race';
 });
+
+const shareUrlDisplay = computed(() => shareUrl.value.replace(/\+/g, '+\u200b'));
 
 async function loadCatalog() {
   try {
@@ -305,7 +311,7 @@ applyBuilderWindow();
           >
             <span class="group-cat">{{ g.category }}</span>
             <strong>{{ g.label }}</strong>
-            <span class="group-meta">{{ g.members.map((m) => m.qid).join('+') }}</span>
+            <span class="group-meta">{{ joinQidsForDisplay(g.members.map((m) => m.qid)) }}</span>
             <span class="group-meta">{{ g.defaultRange.start }} → {{ g.defaultRange.end }}</span>
           </button>
         </div>
@@ -389,10 +395,10 @@ applyBuilderWindow();
           </tfoot>
         </table>
 
-        <p class="hint share-hint">
-          Share this race:
-          <a href="#" class="share-link" @click.prevent="copyShareUrl">{{ shareCopied ? 'Copied!' : shareUrl }}</a>
-        </p>
+        <div class="share-hint">
+          <span class="share-hint-label">Share this race:</span>
+          <a href="#" class="share-link" @click.prevent="copyShareUrl">{{ shareCopied ? 'Copied!' : shareUrlDisplay }}</a>
+        </div>
       </template>
     </template>
   </section>
