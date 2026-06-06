@@ -129,6 +129,24 @@
         { "qid": "Q3614737", "label": "Amy Farrah Fowler", "article": "Amy_Farrah_Fowler" },
         { "qid": "Q3638657", "label": "Bernadette Rostenkowski", "article": "Bernadette_Rostenkowski" }
       ]
+    },
+    {
+      "slug": "bcs-year-after-finale",
+      "label": "Better Call Saul — 1 year after finale",
+      "category": "tv",
+      "eventDate": "2022-08-15",
+      "defaultWindow": "1y",
+      "defaultRange": { "start": "2022-08-16", "end": "2023-08-14" },
+      "members": [
+        { "qid": "Q7154377", "label": "Saul Goodman", "article": "Saul_Goodman" },
+        { "qid": "Q54829236", "label": "Kim Wexler", "article": "Kim_Wexler" },
+        { "qid": "Q54001294", "label": "Chuck McGill", "article": "Chuck_McGill" },
+        { "qid": "Q16578433", "label": "Mike Ehrmantraut", "article": "Mike_Ehrmantraut" },
+        { "qid": "Q5620660", "label": "Gus Fring", "article": "Gus_Fring" },
+        { "qid": "Q55011777", "label": "Nacho Varga", "article": "Nacho_Varga" },
+        { "qid": "Q59878146", "label": "Lalo Salamanca", "article": "Lalo_Salamanca" },
+        { "qid": "Q55614020", "label": "Howard Hamlin", "article": "Howard_Hamlin" }
+      ]
     }
   ]
 }

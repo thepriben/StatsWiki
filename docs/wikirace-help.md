@@ -105,6 +105,7 @@ Ready-made races for common comparisons:
 | 2022 World Cup Final | Argentina · France | 3 months before Dec 18, 2022 |
 | Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Saul · Hank · Gus · Marie | 1 year, 10 years after Sep 29, 2013 finale |
 | Big Bang Theory (post-finale) | Sheldon · Leonard · Penny · Howard · Raj · Amy · Bernadette | 1 year after May 16, 2019 finale |
+| Better Call Saul (post-finale) | Saul · Kim · Chuck · Mike · Gus · Nacho · Lalo · Howard | 1 year after Aug 15, 2022 finale |
 
 ---
 
