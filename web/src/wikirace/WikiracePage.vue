@@ -9,6 +9,8 @@ import {
   MAX_RANGE_DAYS,
   WINDOW_PRESETS,
   allowRaceLoad,
+  raceNeedsFetch,
+  raceRouteKey,
   buildRacePath,
   daysBetween,
   buildSeries,
@@ -125,9 +127,12 @@ async function loadCatalog() {
 }
 
 async function loadRace() {
+  const seq = ++loadSeq;
+
   if (isHome.value || isHelp.value || isInvalid.value) {
     raceSeries.value = [];
     activeGroup.value = null;
+    loading.value = false;
     if (isInvalid.value) {
       if (props.route.reason === 'too_many') {
         error.value = `Too many articles (${props.route.count} — max ${MAX_RACE_MEMBERS}).`;
@@ -136,13 +141,20 @@ async function loadRace() {
       } else {
         error.value = 'Invalid URL — use /wikirace/Q1+Q2/YYYY-MM-DD/YYYY-MM-DD';
       }
+    } else {
+      error.value = '';
     }
     return;
   }
 
-  if (!allowRaceLoad()) {
-    error.value = 'Too many races loaded — wait a minute and try again.';
-    raceSeries.value = [];
+  const cacheKey = raceRouteKey(props.route);
+  const cached = raceResultCache.get(cacheKey);
+  if (cached) {
+    raceSeries.value = cached.series;
+    range.value = cached.range;
+    activeGroup.value = cached.group;
+    error.value = cached.error;
+    loading.value = false;
     return;
   }
 
@@ -152,16 +164,16 @@ async function loadRace() {
 
   try {
     const catalog = groups.value.length ? groups.value : await loadGroups();
+    if (seq !== loadSeq) return;
     groups.value = catalog;
 
     const qids = props.route.qids || [];
     const group = findGroupByQids(catalog, qids);
     const dateRange = resolveDateRange(props.route);
 
-    range.value = dateRange;
-    activeGroup.value = group;
-
     const members = await resolveMembers(qids, group);
+    if (seq !== loadSeq) return;
+
     const missing = members.filter((m) => !m.title);
     if (missing.length) {
       throw new Error(`Could not resolve Wikipedia title for: ${missing.map((m) => m.label).join(', ')}`);
@@ -171,9 +183,20 @@ async function loadRace() {
       throw new Error('No pageview data — Wikimedia daily stats begin July 1, 2015.');
     }
 
+    const needsFetch = raceNeedsFetch(members, dateRange.start, dateRange.end);
+    if (needsFetch && !allowRaceLoad()) {
+      error.value = 'Too many races loaded — wait a minute and try again.';
+      raceSeries.value = [];
+      return;
+    }
+
+    range.value = dateRange;
+    activeGroup.value = group;
+
     const days = enumerateDays(dateRange.fetchStart, dateRange.dataEnd);
     const results = [];
     for (const member of members) {
+      if (seq !== loadSeq) return;
       try {
         const viewMap = await fetchDailyViews(member.title, dateRange.start, dateRange.end);
         results.push(buildSeries(member, viewMap, days));
@@ -182,14 +205,22 @@ async function loadRace() {
       }
     }
 
+    if (seq !== loadSeq) return;
+
+    const loadError = results.some((r) => r.total > 0) ? '' : 'No pageview data for this period.';
     raceSeries.value = results;
-    if (!results.some((r) => r.total > 0)) {
-      error.value = 'No pageview data for this period.';
-    }
+    error.value = loadError;
+    raceResultCache.set(cacheKey, {
+      series: results,
+      range: dateRange,
+      group,
+      error: loadError,
+    });
   } catch (e) {
+    if (seq !== loadSeq) return;
     error.value = e.message || 'Could not load wikirace.';
   } finally {
-    loading.value = false;
+    if (seq === loadSeq) loading.value = false;
   }
 }
 
@@ -227,6 +258,8 @@ function applyBuilderWindow() {
 }
 
 const shareCopied = ref(false);
+const raceResultCache = new Map();
+let loadSeq = 0;
 
 function copyShareUrl() {
   navigator.clipboard?.writeText(shareUrl.value);
@@ -264,10 +297,10 @@ function fillBuilderFromGroup(g) {
   builderEnd.value = g.defaultRange.end;
 }
 
-watch(() => props.route, () => {
+watch(() => raceRouteKey(props.route), () => {
   syncBuilderFromRoute();
   loadRace();
-}, { immediate: true, deep: true });
+}, { immediate: true });
 
 watch(builderWindow, () => {
   if (isHome.value && !builderStart.value && !builderEnd.value) {

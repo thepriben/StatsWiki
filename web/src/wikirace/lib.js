@@ -22,7 +22,7 @@ let catalogCache = null;
 const pvCache = new Map();
 const raceLoadTimestamps = [];
 
-/** Soft rate limit — max race loads per minute in this browser tab. */
+/** Soft rate limit — only for loads that hit the Wikimedia API. */
 export function allowRaceLoad() {
   const now = Date.now();
   while (raceLoadTimestamps.length && now - raceLoadTimestamps[0] > RACE_LOAD_WINDOW_MS) {
@@ -31,6 +31,28 @@ export function allowRaceLoad() {
   if (raceLoadTimestamps.length >= RACE_LOAD_LIMIT) return false;
   raceLoadTimestamps.push(now);
   return true;
+}
+
+export function pageviewsCacheKey(article, start, end) {
+  const fetchStart = clampPageviewsStart(start);
+  const dataEnd = clampToYesterday(end);
+  return `${article}|${fetchStart}|${dataEnd}`;
+}
+
+export function isPageviewsCached(article, start, end) {
+  if (!article) return true;
+  return pvCache.has(pageviewsCacheKey(article, start, end));
+}
+
+export function raceNeedsFetch(members, start, end) {
+  return members.some((m) => m.title && !isPageviewsCached(m.title, start, end));
+}
+
+export function raceRouteKey(route) {
+  if (route.kind === 'race') {
+    return `race|${route.qids?.join('+')}|${route.start}|${route.end}`;
+  }
+  return route.kind || 'home';
 }
 
 export function clearGroupsCache() {
@@ -410,7 +432,7 @@ async function fetchDailyViewsChunk(article, start, end) {
 export async function fetchDailyViews(article, start, end) {
   const fetchStart = clampPageviewsStart(start);
   const dataEnd = clampToYesterday(end);
-  const cacheKey = `${article}|${fetchStart}|${dataEnd}`;
+  const cacheKey = pageviewsCacheKey(article, start, end);
   if (pvCache.has(cacheKey)) {
     return new Map(pvCache.get(cacheKey));
   }

@@ -28,8 +28,9 @@ URLs use **Wikidata QIDs and dates only** — no article slugs or labels.
 |-------|-------|-----|
 | Max articles | 10 | Chart readability + fewer API calls |
 | Max date span | 365 days | Matches longest resize preset |
-| Race loads | 6 / minute / tab | Slows scripted refresh spam |
+| Race loads | 6 / minute / tab | Only when uncached API fetches are needed |
 | Pageview cache | Per tab session | Re-opening the same race skips repeat API calls |
+| Race result cache | Per tab session | Same URL replays instantly without rate-limit hit |
 
 Fetches run in the **visitor’s browser** (not StatsWiki servers). These guards are polite-use quick wins, not a hard anti-DDoS barrier.
 
