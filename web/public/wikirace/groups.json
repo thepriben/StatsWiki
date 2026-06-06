@@ -132,6 +132,25 @@
       ]
     },
     {
+      "slug": "barbenheimer-opening-week",
+      "label": "Barbenheimer — opening week",
+      "category": "culture",
+      "context": "Barbie and Oppenheimer opened the same weekend (Jul 21, 2023). Seven days of daily pageviews — which film, director, or star pulled Wikipedia curiosity?",
+      "eventDate": "2023-07-21",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2023-07-21", "end": "2023-07-27" },
+      "members": [
+        { "qid": "Q55436290", "label": "Barbie (film)", "article": "Barbie_(film)" },
+        { "qid": "Q108839994", "label": "Oppenheimer (film)", "article": "Oppenheimer_(film)" },
+        { "qid": "Q271967", "label": "Greta Gerwig", "article": "Greta_Gerwig" },
+        { "qid": "Q25191", "label": "Christopher Nolan", "article": "Christopher_Nolan" },
+        { "qid": "Q1924847", "label": "Margot Robbie", "article": "Margot_Robbie" },
+        { "qid": "Q202589", "label": "Cillian Murphy", "article": "Cillian_Murphy" },
+        { "qid": "Q193815", "label": "Ryan Gosling", "article": "Ryan_Gosling" },
+        { "qid": "Q193517", "label": "Emily Blunt", "article": "Emily_Blunt" }
+      ]
+    },
+    {
       "slug": "chatgpt-launch-month-after",
       "label": "ChatGPT launch — month after",
       "category": "tech",

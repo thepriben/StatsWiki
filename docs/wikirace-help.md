@@ -106,6 +106,7 @@ Ready-made races for common comparisons:
 | Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Hank · Marie · Walt Jr · Skinny Pete | 1 year, 10 years after Sep 29, 2013 finale (BB-only cast) |
 | Big Bang Theory (post-finale) | Sheldon · Leonard · Penny · Howard · Raj · Amy · Bernadette | 1 year after May 16, 2019 finale |
 | Better Call Saul (post-finale) | Saul · Kim · Chuck · Nacho · Stacey · Lalo · Howard | 1 year after Aug 15, 2022 finale (no BB crossover chars) |
+| Barbenheimer (opening week) | Barbie · Oppenheimer · Gerwig · Nolan · Robbie · Murphy · Gosling · Blunt | 7 days from Jul 21, 2023 US opening |
 | ChatGPT launch | ChatGPT · OpenAI · AI · ML · Language model · GPT-3 · Microsoft · Artificial neural network | 1 month after Nov 30, 2022 launch |
 | Rust in Linux 6.1 | Rust · Linux · Memory safety · C · C++ · Linus Torvalds · Go · LLVM | 1 month after Dec 11, 2022 kernel release |
 
