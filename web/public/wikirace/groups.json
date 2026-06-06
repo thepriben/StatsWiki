@@ -95,6 +95,40 @@
         { "qid": "Q79800", "label": "Argentina", "article": "Argentina_national_football_team" },
         { "qid": "Q47774", "label": "France", "article": "France_national_football_team" }
       ]
+    },
+    {
+      "slug": "breaking-bad-10y-after-finale",
+      "label": "Breaking Bad — 10 years after finale",
+      "category": "tv",
+      "eventDate": "2013-09-29",
+      "defaultWindow": "1y",
+      "defaultRange": { "start": "2023-09-30", "end": "2024-09-27" },
+      "members": [
+        { "qid": "Q23554", "label": "Walter White", "article": "Walter_White_(Breaking_Bad)" },
+        { "qid": "Q6186746", "label": "Jesse Pinkman", "article": "Jesse_Pinkman" },
+        { "qid": "Q6586283", "label": "Skyler White", "article": "Skyler_White" },
+        { "qid": "Q7154377", "label": "Saul Goodman", "article": "Saul_Goodman" },
+        { "qid": "Q5648455", "label": "Hank Schrader", "article": "Hank_Schrader" },
+        { "qid": "Q5620660", "label": "Gus Fring", "article": "Gus_Fring" },
+        { "qid": "Q15992576", "label": "Marie Schrader", "article": "Marie_Schrader" }
+      ]
+    },
+    {
+      "slug": "bbt-year-after-finale",
+      "label": "Big Bang Theory — 1 year after finale",
+      "category": "tv",
+      "eventDate": "2019-05-16",
+      "defaultWindow": "1y",
+      "defaultRange": { "start": "2019-05-17", "end": "2020-05-15" },
+      "members": [
+        { "qid": "Q629583", "label": "Sheldon Cooper", "article": "Sheldon_Cooper" },
+        { "qid": "Q512382", "label": "Leonard Hofstadter", "article": "Leonard_Hofstadter" },
+        { "qid": "Q542063", "label": "Penny", "article": "Penny_(The_Big_Bang_Theory)" },
+        { "qid": "Q784892", "label": "Howard Wolowitz", "article": "Howard_Wolowitz" },
+        { "qid": "Q653748", "label": "Raj Koothrappali", "article": "Raj_Koothrappali" },
+        { "qid": "Q3614737", "label": "Amy Farrah Fowler", "article": "Amy_Farah_Fowler" },
+        { "qid": "Q3638657", "label": "Bernadette Rostenkowski", "article": "Bernadette_Rostenkowski" }
+      ]
     }
   ]
 }

@@ -103,6 +103,8 @@ Ready-made races for common comparisons:
 | Super Bowl LVIII | Chiefs · 49ers | 3 months before Feb 11, 2024 |
 | 2024 NBA Finals | Celtics · Mavericks | 3 months before Jun 17, 2024 |
 | 2022 World Cup Final | Argentina · France | 3 months before Dec 18, 2022 |
+| Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Saul · Hank · Gus · Marie | 1 year, 10 years after Sep 29, 2013 finale |
+| Big Bang Theory (post-finale) | Sheldon · Leonard · Penny · Howard · Raj · Amy · Bernadette | 1 year after May 16, 2019 finale |
 
 ---
 
