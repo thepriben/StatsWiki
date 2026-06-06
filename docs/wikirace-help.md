@@ -106,6 +106,8 @@ Ready-made races for common comparisons:
 | Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Saul · Hank · Gus · Marie | 1 year, 10 years after Sep 29, 2013 finale |
 | Big Bang Theory (post-finale) | Sheldon · Leonard · Penny · Howard · Raj · Amy · Bernadette | 1 year after May 16, 2019 finale |
 | Better Call Saul (post-finale) | Saul · Kim · Chuck · Mike · Gus · Nacho · Lalo · Howard | 1 year after Aug 15, 2022 finale |
+| ChatGPT launch | ChatGPT · OpenAI · AI · ML · LLM · GPT-3 · Microsoft · Neural network | 1 month after Nov 30, 2022 launch |
+| Ethereum Merge | Ethereum · Bitcoin · Blockchain · Cryptocurrency · PoS · Vitalik · Smart contract · NFT | 1 month after Sep 15, 2022 Merge |
 | Rust in Linux 6.1 | Rust · Linux · Memory safety · C · C++ · Linus Torvalds · Go · LLVM | 1 month after Dec 11, 2022 kernel release |
 
 ---

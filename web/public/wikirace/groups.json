@@ -131,6 +131,44 @@
       ]
     },
     {
+      "slug": "chatgpt-launch-month-after",
+      "label": "ChatGPT launch — month after",
+      "category": "tech",
+      "context": "ChatGPT opened to the public on Nov 30, 2022. In December, did readers look up the chatbot — or the wider AI field behind it?",
+      "eventDate": "2022-11-30",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2022-12-01", "end": "2022-12-31" },
+      "members": [
+        { "qid": "Q115564437", "label": "ChatGPT", "article": "ChatGPT" },
+        { "qid": "Q21708200", "label": "OpenAI", "article": "OpenAI" },
+        { "qid": "Q11660", "label": "Artificial intelligence", "article": "Artificial_intelligence" },
+        { "qid": "Q2539", "label": "Machine learning", "article": "Machine_learning" },
+        { "qid": "Q115305900", "label": "Large language model", "article": "Large_language_model" },
+        { "qid": "Q95726734", "label": "GPT-3", "article": "GPT-3" },
+        { "qid": "Q2283", "label": "Microsoft", "article": "Microsoft" },
+        { "qid": "Q192776", "label": "Neural network", "article": "Neural_network_(machine_learning)" }
+      ]
+    },
+    {
+      "slug": "ethereum-merge-month-after",
+      "label": "Ethereum Merge — month after",
+      "category": "tech",
+      "context": "Ethereum switched to proof of stake on Sep 15, 2022 (The Merge). In the month after, Bitcoin often still drew more Wikipedia curiosity than Ethereum itself.",
+      "eventDate": "2022-09-15",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2022-09-16", "end": "2022-10-15" },
+      "members": [
+        { "qid": "Q16783523", "label": "Ethereum", "article": "Ethereum" },
+        { "qid": "Q131723", "label": "Bitcoin", "article": "Bitcoin" },
+        { "qid": "Q20514253", "label": "Blockchain", "article": "Blockchain" },
+        { "qid": "Q13479982", "label": "Cryptocurrency", "article": "Cryptocurrency" },
+        { "qid": "Q17083510", "label": "Proof of stake", "article": "Proof_of_stake" },
+        { "qid": "Q16197959", "label": "Vitalik Buterin", "article": "Vitalik_Buterin" },
+        { "qid": "Q7544035", "label": "Smart contract", "article": "Smart_contract" },
+        { "qid": "Q55648452", "label": "NFT", "article": "Non-fungible_token" }
+      ]
+    },
+    {
       "slug": "rust-linux-kernel-month-after",
       "label": "Rust in Linux 6.1 — month after",
       "category": "tech",
