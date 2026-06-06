@@ -137,9 +137,13 @@ a.link:hover {
   transform: translateY(-1px);
 }
 
+.icon-btn svg {
+  display: block;
+}
+
 .icon-btn--bsky svg {
-  width: 18px;
-  height: 16px;
+  width: 24px;
+  height: 21px;
 }
 
 .icon-btn--x svg {
@@ -150,6 +154,12 @@ a.link:hover {
 .icon-btn--bsky:hover {
   background: #0085ff;
   border-color: #0085ff;
+  color: #fff;
+}
+
+.icon-btn--x:hover {
+  background: #000;
+  border-color: #000;
   color: #fff;
 }
 
