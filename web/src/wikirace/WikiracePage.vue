@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref, watch } from 'vue';
-import { SITE_URL, fmtViews, statsUrl, url } from '../lib.js';
+import { SITE_URL, fmtViews, statsUrl, url, wikiUrl, wikidataUrl } from '../lib.js';
 import HelpPage from './HelpPage.vue';
 import MultiLineChart from './MultiLineChart.vue';
 import QidPicker from './QidPicker.vue';
@@ -25,6 +25,7 @@ import {
   parseIsoDate,
   resolveDateRange,
   resolveEndDate,
+  resolveGroupRange,
   resolveMembers,
   windowRange,
   yesterday,
@@ -253,8 +254,9 @@ function go(path) {
 function openGroup(g) {
   fillBuilderFromGroup(g);
   const qids = g.members.map((m) => m.qid);
-  const { start, end } = g.defaultRange;
-  go(buildRacePath({ qids, start, end }));
+  const range = resolveGroupRange(g);
+  if (!range) return;
+  go(buildRacePath({ qids, start: range.start, end: range.end }));
 }
 
 function resolveBuilderDates() {
@@ -309,14 +311,25 @@ async function syncBuilderFromRoute() {
   const catalog = await loadArticleCatalog().catch(() => []);
   builderMembers.value = props.route.qids.map((qid) => {
     const hit = catalogLookup(catalog, qid);
-    return { qid, label: hit?.label || qid };
+    return { qid, label: hit?.label || qid, article: hit?.article || '' };
   });
 }
 
+function groupCardRange(g) {
+  return resolveGroupRange(g);
+}
+
 function fillBuilderFromGroup(g) {
-  builderMembers.value = g.members.map((m) => ({ qid: m.qid, label: m.label }));
-  builderStart.value = g.defaultRange.start;
-  builderEnd.value = g.defaultRange.end;
+  builderMembers.value = g.members.map((m) => ({
+    qid: m.qid,
+    label: m.label,
+    article: m.article || '',
+  }));
+  const range = resolveGroupRange(g);
+  if (range) {
+    builderStart.value = range.start;
+    builderEnd.value = range.end;
+  }
 }
 
 watch(() => raceRouteKey(props.route), () => {
@@ -413,7 +426,10 @@ applyBuilderWindow();
               @click="openGroup(g)"
             >
               <strong>{{ g.label }}</strong>
-              <span class="group-meta">{{ g.defaultRange.start }} → {{ g.defaultRange.end }}</span>
+              <span v-if="groupCardRange(g)" class="group-meta">
+                {{ groupCardRange(g).start }} → {{ groupCardRange(g).end }}
+                <template v-if="g.rolling"> · rolling</template>
+              </span>
               <span class="group-meta">{{ g.members.length }} articles</span>
             </button>
           </div>
@@ -468,13 +484,33 @@ applyBuilderWindow();
             <tr v-for="(row, i) in ranked" :key="row.qid">
               <td class="rank">{{ i + 1 }}</td>
               <td>
-                <a
-                  v-if="statsUrl(row.qid)"
-                  href="#"
-                  class="race-name"
-                  @click.prevent="go(`q/${row.qid}`)"
-                >{{ row.label }}</a>
-                <span v-else class="race-name">{{ row.label }}</span>
+                <div class="race-article-cell">
+                  <a
+                    v-if="statsUrl(row.qid)"
+                    href="#"
+                    class="race-name"
+                    @click.prevent="go(`q/${row.qid}`)"
+                  >{{ row.label }}</a>
+                  <span v-else class="race-name">{{ row.label }}</span>
+                  <span v-if="row.title || wikidataUrl(row.qid)" class="race-article-links">
+                    <a
+                      v-if="row.title"
+                      :href="wikiUrl(row.title)"
+                      class="race-ext-link"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      :aria-label="`Wikipedia: ${row.label}`"
+                    >Wikipedia ↗</a>
+                    <a
+                      v-if="wikidataUrl(row.qid)"
+                      :href="wikidataUrl(row.qid)"
+                      class="race-ext-link"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      :aria-label="`Wikidata: ${row.qid}`"
+                    >{{ row.qid }} ↗</a>
+                  </span>
+                </div>
               </td>
               <td class="num">{{ fmtViews(row.total) }}</td>
               <td class="num"><strong>{{ row.racePct.toFixed(1) }}%</strong></td>

@@ -942,6 +942,32 @@ td.num {
   text-decoration: underline;
 }
 
+.race-article-cell {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+}
+
+.race-article-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+}
+
+.race-ext-link {
+  font-size: 0.75rem;
+  color: #555;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+  white-space: nowrap;
+}
+
+.race-ext-link:hover {
+  color: #1a56db;
+  border-bottom-color: #1a56db;
+}
+
 .race-bar-track {
   height: 8px;
   background: #eee;
@@ -1020,9 +1046,11 @@ td.num {
   color: #1a1a1a;
 }
 
-.qid-chip-id {
-  color: #888;
-  font-size: 0.78rem;
+.qid-chip-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 6px;
 }
 
 .qid-chip-remove {

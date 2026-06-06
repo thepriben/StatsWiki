@@ -1,7 +1,9 @@
 <script setup>
 import { onMounted, ref, watch } from 'vue';
+import { wikiUrl, wikidataUrl } from '../lib.js';
 import {
   CHART_COLORS,
+  catalogLookup,
   loadArticleCatalog,
   mergeSearchResults,
   searchCatalog,
@@ -29,6 +31,12 @@ let debounceTimer = null;
 
 function chipColor(i) {
   return CHART_COLORS[i % CHART_COLORS.length];
+}
+
+function chipArticle(member) {
+  if (member.article) return member.article;
+  const hit = catalogLookup(catalog.value, member.qid);
+  return hit?.article || '';
 }
 
 onMounted(async () => {
@@ -95,7 +103,7 @@ function addItem(item) {
   if (atMax() || props.modelValue.some((m) => m.qid === item.qid)) return;
   emit('update:modelValue', [
     ...props.modelValue,
-    { qid: item.qid, label: item.label },
+    { qid: item.qid, label: item.label, article: item.article || '' },
   ]);
   query.value = '';
   suggestions.value = [];
@@ -148,7 +156,26 @@ watch(query, scheduleSearch);
         <li v-for="(m, i) in modelValue" :key="m.qid" class="qid-chip">
           <span class="qid-chip-color" :style="{ background: chipColor(i) }" aria-hidden="true" />
           <span class="qid-chip-label">{{ m.label }}</span>
-          <span class="qid-chip-id">{{ m.qid }}</span>
+          <span v-if="chipArticle(m) || wikidataUrl(m.qid)" class="qid-chip-links">
+            <a
+              v-if="chipArticle(m)"
+              :href="wikiUrl(chipArticle(m))"
+              class="race-ext-link"
+              target="_blank"
+              rel="noopener noreferrer"
+              :aria-label="`Wikipedia: ${m.label}`"
+              @click.stop
+            >Wikipedia ↗</a>
+            <a
+              v-if="wikidataUrl(m.qid)"
+              :href="wikidataUrl(m.qid)"
+              class="race-ext-link"
+              target="_blank"
+              rel="noopener noreferrer"
+              :aria-label="`Wikidata: ${m.qid}`"
+              @click.stop
+            >{{ m.qid }} ↗</a>
+          </span>
           <button type="button" class="qid-chip-remove" :aria-label="`Remove ${m.label}`" @click="removeItem(m.qid)">×</button>
         </li>
       </ul>

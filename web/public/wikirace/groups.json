@@ -61,6 +61,26 @@
       ]
     },
     {
+      "slug": "fr-politics-last-year",
+      "label": "France politics — last 12 months",
+      "category": "politics",
+      "rolling": true,
+      "defaultWindow": "1y",
+      "context": "Rolling 12-month window (through yesterday). Major French party figures across the spectrum — RN, Reconquête, LR, macronistes, PS, LFI, EELV.",
+      "members": [
+        { "qid": "Q12927", "label": "Marine Le Pen", "article": "Marine_Le_Pen" },
+        { "qid": "Q40655898", "label": "Jordan Bardella", "article": "Jordan_Bardella" },
+        { "qid": "Q288477", "label": "Éric Zemmour", "article": "Éric_Zemmour" },
+        { "qid": "Q2926942", "label": "Bruno Retailleau", "article": "Bruno_Retailleau" },
+        { "qid": "Q3579995", "label": "Édouard Philippe", "article": "Édouard_Philippe" },
+        { "qid": "Q30339350", "label": "Gabriel Attal", "article": "Gabriel_Attal" },
+        { "qid": "Q556149", "label": "Raphaël Glucksmann", "article": "Raphaël_Glucksmann" },
+        { "qid": "Q3085763", "label": "François Ruffin", "article": "François_Ruffin" },
+        { "qid": "Q29917987", "label": "Marine Tondelier", "article": "Marine_Tondelier" },
+        { "qid": "Q5829", "label": "Jean-Luc Mélenchon", "article": "Jean-Luc_Mélenchon" }
+      ]
+    },
+    {
       "slug": "super-bowl-2024",
       "label": "Super Bowl LVIII (2024)",
       "category": "sport",

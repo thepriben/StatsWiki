@@ -276,9 +276,30 @@ export function windowRange({ days, end }) {
   return { start: formatIso(startDate), end: formatIso(endDate) };
 }
 
-/** Last day of the race window: day before event, or yesterday. */
+function windowDaysForGroup(group) {
+  const preset = WINDOW_PRESETS.find((p) => p.id === group?.defaultWindow);
+  return preset?.days ?? 365;
+}
+
+/**
+ * Resolve a preset’s date range. Fixed groups use defaultRange; rolling groups
+ * recompute from defaultWindow through yesterday on each load.
+ */
+export function resolveGroupRange(group) {
+  if (!group) return null;
+  if (group.rolling) {
+    return windowRange({ days: windowDaysForGroup(group), end: yesterday() });
+  }
+  if (group.defaultRange?.start && group.defaultRange?.end) {
+    return { start: group.defaultRange.start, end: group.defaultRange.end };
+  }
+  return null;
+}
+
+/** Last day of the race window: day before event, yesterday for rolling, or yesterday. */
 export function resolveEndDate(group) {
   const yest = parseIsoDate(yesterday());
+  if (group?.rolling) return yest;
   if (!group?.eventDate) return yest;
 
   const ev = parseIsoDate(group.eventDate);
