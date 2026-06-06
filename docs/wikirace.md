@@ -166,6 +166,8 @@ Or from repo root: `npm run dev`.
 
 **New preset race** — add an entry to `web/public/wikirace/groups.json` with members, `eventDate`, and `defaultRange` (typically 6 months or 3 months before the event).
 
+**Choosing members** — prefer articles tied to a single show, event, or product (no spinoff crossovers: e.g. Gus Fring spans Breaking Bad and Better Call Saul, so his pageviews are ambiguous). Avoid overly broad topics (e.g. Bitcoin) where traffic is mostly generic background curiosity, not contextual attention to the headline event. Optional `context` explains the window and any member constraints.
+
 **Refresh autocomplete** — run `sw-wikirace-catalog` after QID exports update.
 
 **Edit public help** — change `docs/wikirace-help.md`, then `npm run build:help`.

@@ -100,6 +100,7 @@
       "slug": "breaking-bad-10y-after-finale",
       "label": "Breaking Bad — 10 years after finale",
       "category": "tv",
+      "context": "Breaking Bad characters only — no Better Call Saul crossovers (e.g. Gus Fring, Saul Goodman), so pageviews map more cleanly to the BB finale window.",
       "eventDate": "2013-09-29",
       "defaultWindow": "1y",
       "defaultRange": { "start": "2023-09-30", "end": "2024-09-27" },
@@ -107,10 +108,10 @@
         { "qid": "Q23554", "label": "Walter White", "article": "Walter_White_(Breaking_Bad)" },
         { "qid": "Q6186746", "label": "Jesse Pinkman", "article": "Jesse_Pinkman" },
         { "qid": "Q6586283", "label": "Skyler White", "article": "Skyler_White" },
-        { "qid": "Q7154377", "label": "Saul Goodman", "article": "Saul_Goodman" },
         { "qid": "Q5648455", "label": "Hank Schrader", "article": "Hank_Schrader" },
-        { "qid": "Q5620660", "label": "Gus Fring", "article": "Gus_Fring" },
-        { "qid": "Q15992576", "label": "Marie Schrader", "article": "Marie_Schrader" }
+        { "qid": "Q15992576", "label": "Marie Schrader", "article": "Marie_Schrader" },
+        { "qid": "Q18184257", "label": "Walter White Jr.", "article": "Walter_White_Jr." },
+        { "qid": "Q66458863", "label": "Skinny Pete", "article": "Skinny_Pete" }
       ]
     },
     {
@@ -150,25 +151,6 @@
       ]
     },
     {
-      "slug": "ethereum-merge-month-after",
-      "label": "Ethereum Merge — month after",
-      "category": "tech",
-      "context": "Ethereum switched to proof of stake on Sep 15, 2022 (The Merge). In the month after, Bitcoin often still drew more Wikipedia curiosity than Ethereum itself.",
-      "eventDate": "2022-09-15",
-      "defaultWindow": "30d",
-      "defaultRange": { "start": "2022-09-16", "end": "2022-10-15" },
-      "members": [
-        { "qid": "Q16783523", "label": "Ethereum", "article": "Ethereum" },
-        { "qid": "Q131723", "label": "Bitcoin", "article": "Bitcoin" },
-        { "qid": "Q20514253", "label": "Blockchain", "article": "Blockchain" },
-        { "qid": "Q13479982", "label": "Cryptocurrency", "article": "Cryptocurrency" },
-        { "qid": "Q17083510", "label": "Proof of stake", "article": "Proof_of_stake" },
-        { "qid": "Q16197959", "label": "Vitalik Buterin", "article": "Vitalik_Buterin" },
-        { "qid": "Q7544035", "label": "Smart contract", "article": "Smart_contract" },
-        { "qid": "Q55648452", "label": "NFT", "article": "Non-fungible_token" }
-      ]
-    },
-    {
       "slug": "rust-linux-kernel-month-after",
       "label": "Rust in Linux 6.1 — month after",
       "category": "tech",
@@ -191,6 +173,7 @@
       "slug": "bcs-year-after-finale",
       "label": "Better Call Saul — 1 year after finale",
       "category": "tv",
+      "context": "Better Call Saul characters only — Gus Fring and Mike Ehrmantraut omitted (shared with Breaking Bad), so attention is less ambiguous across spinoffs.",
       "eventDate": "2022-08-15",
       "defaultWindow": "1y",
       "defaultRange": { "start": "2022-08-16", "end": "2023-08-14" },
@@ -198,9 +181,8 @@
         { "qid": "Q7154377", "label": "Saul Goodman", "article": "Saul_Goodman" },
         { "qid": "Q54829236", "label": "Kim Wexler", "article": "Kim_Wexler" },
         { "qid": "Q54001294", "label": "Chuck McGill", "article": "Chuck_McGill" },
-        { "qid": "Q16578433", "label": "Mike Ehrmantraut", "article": "Mike_Ehrmantraut" },
-        { "qid": "Q5620660", "label": "Gus Fring", "article": "Gus_Fring" },
         { "qid": "Q55011777", "label": "Nacho Varga", "article": "Nacho_Varga" },
+        { "qid": "Q59876945", "label": "Stacey Ehrmantraut", "article": "Stacey_Ehrmantraut" },
         { "qid": "Q59878146", "label": "Lalo Salamanca", "article": "Lalo_Salamanca" },
         { "qid": "Q55614020", "label": "Howard Hamlin", "article": "Howard_Hamlin" }
       ]

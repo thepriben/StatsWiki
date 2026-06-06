@@ -103,11 +103,10 @@ Ready-made races for common comparisons:
 | Super Bowl LVIII | Chiefs · 49ers | 3 months before Feb 11, 2024 |
 | 2024 NBA Finals | Celtics · Mavericks | 3 months before Jun 17, 2024 |
 | 2022 World Cup Final | Argentina · France | 3 months before Dec 18, 2022 |
-| Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Saul · Hank · Gus · Marie | 1 year, 10 years after Sep 29, 2013 finale |
+| Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Hank · Marie · Walt Jr · Skinny Pete | 1 year, 10 years after Sep 29, 2013 finale (BB-only cast) |
 | Big Bang Theory (post-finale) | Sheldon · Leonard · Penny · Howard · Raj · Amy · Bernadette | 1 year after May 16, 2019 finale |
-| Better Call Saul (post-finale) | Saul · Kim · Chuck · Mike · Gus · Nacho · Lalo · Howard | 1 year after Aug 15, 2022 finale |
+| Better Call Saul (post-finale) | Saul · Kim · Chuck · Nacho · Stacey · Lalo · Howard | 1 year after Aug 15, 2022 finale (no BB crossover chars) |
 | ChatGPT launch | ChatGPT · OpenAI · AI · ML · Language model · GPT-3 · Microsoft · Artificial neural network | 1 month after Nov 30, 2022 launch |
-| Ethereum Merge | Ethereum · Bitcoin · Blockchain · Cryptocurrency · PoS · Vitalik · Smart contract · NFT | 1 month after Sep 15, 2022 Merge |
 | Rust in Linux 6.1 | Rust · Linux · Memory safety · C · C++ · Linus Torvalds · Go · LLVM | 1 month after Dec 11, 2022 kernel release |
 
 ---
