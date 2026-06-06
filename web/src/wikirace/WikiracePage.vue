@@ -88,8 +88,13 @@ const dataThroughNote = computed(() => {
 
 const ranked = computed(() => racePercentages(raceSeries.value));
 
-const GROUP_CATEGORY_ORDER = ['tv', 'politics', 'sport'];
-const GROUP_CATEGORY_LABELS = { tv: 'TV', politics: 'Politics', sport: 'Sport' };
+const GROUP_CATEGORY_ORDER = ['tv', 'tech', 'politics', 'sport'];
+const GROUP_CATEGORY_LABELS = {
+  tv: 'TV',
+  tech: 'Science & tech',
+  politics: 'Politics',
+  sport: 'Sport',
+};
 
 const groupSections = computed(() => {
   const byCat = {};

@@ -131,6 +131,24 @@
       ]
     },
     {
+      "slug": "rust-linux-kernel-month-after",
+      "label": "Rust in Linux 6.1 — month after",
+      "category": "tech",
+      "eventDate": "2022-12-11",
+      "defaultWindow": "30d",
+      "defaultRange": { "start": "2022-12-12", "end": "2023-01-11" },
+      "members": [
+        { "qid": "Q575650", "label": "Rust", "article": "Rust_(programming_language)" },
+        { "qid": "Q388", "label": "Linux", "article": "Linux" },
+        { "qid": "Q4080983", "label": "Memory safety", "article": "Memory_safety" },
+        { "qid": "Q15777", "label": "C", "article": "C_(programming_language)" },
+        { "qid": "Q2407", "label": "C++", "article": "C++" },
+        { "qid": "Q34253", "label": "Linus Torvalds", "article": "Linus_Torvalds" },
+        { "qid": "Q37227", "label": "Go", "article": "Go_(programming_language)" },
+        { "qid": "Q223490", "label": "LLVM", "article": "LLVM" }
+      ]
+    },
+    {
       "slug": "bcs-year-after-finale",
       "label": "Better Call Saul — 1 year after finale",
       "category": "tv",

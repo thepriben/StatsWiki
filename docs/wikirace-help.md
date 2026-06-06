@@ -106,6 +106,7 @@ Ready-made races for common comparisons:
 | Breaking Bad (10y post-finale) | Walter · Jesse · Skyler · Saul · Hank · Gus · Marie | 1 year, 10 years after Sep 29, 2013 finale |
 | Big Bang Theory (post-finale) | Sheldon · Leonard · Penny · Howard · Raj · Amy · Bernadette | 1 year after May 16, 2019 finale |
 | Better Call Saul (post-finale) | Saul · Kim · Chuck · Mike · Gus · Nacho · Lalo · Howard | 1 year after Aug 15, 2022 finale |
+| Rust in Linux 6.1 | Rust · Linux · Memory safety · C · C++ · Linus Torvalds · Go · LLVM | 1 month after Dec 11, 2022 kernel release |
 
 ---
 
