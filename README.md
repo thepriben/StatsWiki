@@ -63,7 +63,7 @@ Compare **daily Wikipedia pageviews** for a group of articles over any date rang
 
 **Race%** = one article’s views as a % of the group total (area under the curve). Data is fetched live from the Wikimedia Pageviews API.
 
-**Help doc (source):** [docs/wikirace-help.md](docs/wikirace-help.md) — built to `web/public/wikirace/help.json` via `npm run build:help` (runs automatically on `npm run build`).
+**Docs:** [docs/wikirace.md](docs/wikirace.md) (maintainer README) · [docs/wikirace-help.md](docs/wikirace-help.md) (public help → `npm run build:help`)
 
 ---
 
@@ -173,6 +173,7 @@ StatsWiki/
 │   ├── public/wikirace/         # groups.json, catalog.json, help.json
 │   └── public/data/             # generated JSON (+ q/Q*.json)
 ├── docs/
+│   ├── wikirace.md              # Wikirace maintainer README
 │   └── wikirace-help.md         # Wikirace public help (English)
 ├── data/                        # Parquet source of truth
 │   ├── pageviews/year=Y/month=M/
