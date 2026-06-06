@@ -22,15 +22,22 @@ DELAY = 0.35
 FETCH_RETRIES = 3
 FETCH_RETRY_WAIT = 90  # seconds between attempts
 
-TWITTER_ENABLED = all(
-    os.environ.get(k)
-    for k in (
-        "TWITTER_API_KEY",
-        "TWITTER_API_SECRET",
-        "TWITTER_ACCESS_TOKEN",
-        "TWITTER_ACCESS_TOKEN_SECRET",
-    )
-)
+def _env(*names: str) -> str:
+    for name in names:
+        value = os.environ.get(name)
+        if value:
+            return value
+    return ""
+
+
+X_CREDENTIALS = {
+    "api_key": _env("X_API_KEY", "TWITTER_API_KEY"),
+    "api_secret": _env("X_API_SECRET", "TWITTER_API_SECRET"),
+    "access_token": _env("X_ACCESS_TOKEN", "TWITTER_ACCESS_TOKEN"),
+    "access_token_secret": _env("X_ACCESS_TOKEN_SECRET", "TWITTER_ACCESS_TOKEN_SECRET"),
+}
+X_ENABLED = all(X_CREDENTIALS.values())
+TWITTER_ENABLED = X_ENABLED
 
 BSKY_ENABLED = all(os.environ.get(k) for k in ("BSKY_HANDLE", "BSKY_APP_PASSWORD"))
 

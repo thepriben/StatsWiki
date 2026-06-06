@@ -142,6 +142,11 @@ a.link:hover {
   height: 16px;
 }
 
+.icon-btn--x svg {
+  width: 18px;
+  height: 18px;
+}
+
 .icon-btn--bsky:hover {
   background: #0085ff;
   border-color: #0085ff;

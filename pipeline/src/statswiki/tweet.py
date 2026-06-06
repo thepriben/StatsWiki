@@ -1,11 +1,10 @@
-"""Post yesterday's top 5 to @StatsWiki on X/Twitter."""
+"""Post yesterday's top 5 to @statswiki on X."""
 
 import json
-import os
 import sys
 from datetime import date, timedelta
 
-from statswiki.config import TWEET_LOG, TOP_N, TWITTER_ENABLED
+from statswiki.config import TWEET_LOG, TOP_N, X_CREDENTIALS, X_ENABLED
 from statswiki.post_text import build_daily_post, load_lines
 
 
@@ -32,10 +31,10 @@ def post_tweet(text: str) -> None:
     import tweepy
 
     client = tweepy.Client(
-        consumer_key=os.environ["TWITTER_API_KEY"],
-        consumer_secret=os.environ["TWITTER_API_SECRET"],
-        access_token=os.environ["TWITTER_ACCESS_TOKEN"],
-        access_token_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"],
+        consumer_key=X_CREDENTIALS["api_key"],
+        consumer_secret=X_CREDENTIALS["api_secret"],
+        access_token=X_CREDENTIALS["access_token"],
+        access_token_secret=X_CREDENTIALS["access_token_secret"],
     )
     response = client.create_tweet(text=text)
     print(f"Tweet posted: {response.data['id']}")
@@ -67,8 +66,8 @@ def main():
         print(f"Already tweeted {day}")
         sys.exit(0 if not args.strict else 1)
 
-    if not TWITTER_ENABLED:
-        print("Twitter credentials not configured")
+    if not X_ENABLED:
+        print("X credentials not configured")
         print(text)
         sys.exit(1 if args.strict else 0)
 

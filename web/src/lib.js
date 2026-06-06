@@ -3,7 +3,8 @@ const cache = new Map();
 
 export const REPO_URL = 'https://github.com/thepriben/StatsWiki';
 export const BSKY_URL = 'https://bsky.app/profile/statswiki.bsky.social';
-export const VERSION = 'v0.13';
+export const X_URL = 'https://x.com/statswiki';
+export const VERSION = 'v0.14';
 
 export const MONTHS = [
   'January', 'February', 'March', 'April', 'May', 'June',
