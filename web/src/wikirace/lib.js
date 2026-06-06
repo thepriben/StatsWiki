@@ -3,6 +3,11 @@ import { loadQidStats, url, pad } from '../lib.js';
 const PV_API =
   'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents';
 
+export const MAX_RACE_MEMBERS = 10;
+export const MAX_RANGE_DAYS = 365;
+const RACE_LOAD_LIMIT = 6;
+const RACE_LOAD_WINDOW_MS = 60_000;
+
 export const WINDOW_PRESETS = [
   { id: '30d', label: '1 month', days: 30 },
   { id: '90d', label: '3 months', days: 90 },
@@ -12,6 +17,19 @@ export const WINDOW_PRESETS = [
 
 let groupsCache = null;
 let catalogCache = null;
+const pvCache = new Map();
+const raceLoadTimestamps = [];
+
+/** Soft rate limit — max race loads per minute in this browser tab. */
+export function allowRaceLoad() {
+  const now = Date.now();
+  while (raceLoadTimestamps.length && now - raceLoadTimestamps[0] > RACE_LOAD_WINDOW_MS) {
+    raceLoadTimestamps.shift();
+  }
+  if (raceLoadTimestamps.length >= RACE_LOAD_LIMIT) return false;
+  raceLoadTimestamps.push(now);
+  return true;
+}
 
 export function clearGroupsCache() {
   groupsCache = null;
@@ -199,11 +217,18 @@ export function parseWikiracePath(segments) {
   if (qids.length < 2) {
     return { kind: 'invalid' };
   }
+  if (qids.length > MAX_RACE_MEMBERS) {
+    return { kind: 'invalid', reason: 'too_many', count: qids.length };
+  }
 
   const start = parseIsoDate(startSeg);
   const end = parseIsoDate(endSeg);
   if (!start || !end || start > end) {
     return { kind: 'invalid' };
+  }
+  const span = daysBetween(formatIso(start), formatIso(end));
+  if (span > MAX_RANGE_DAYS) {
+    return { kind: 'invalid', reason: 'range_too_long', days: span };
   }
 
   return {
@@ -215,7 +240,9 @@ export function parseWikiracePath(segments) {
 }
 
 export function buildRacePath({ qids, start, end }) {
-  if (!qids?.length || qids.length < 2 || !start || !end) return 'wikirace';
+  if (!qids?.length || qids.length < 2 || qids.length > MAX_RACE_MEMBERS || !start || !end) {
+    return 'wikirace';
+  }
   return `wikirace/${qids.join('+')}/${start}/${end}`;
 }
 
@@ -369,12 +396,19 @@ async function fetchDailyViewsChunk(article, start, end) {
 }
 
 export async function fetchDailyViews(article, start, end) {
-  const chunks = monthChunks(start, clampToYesterday(end));
+  const dataEnd = clampToYesterday(end);
+  const cacheKey = `${article}|${start}|${dataEnd}`;
+  if (pvCache.has(cacheKey)) {
+    return new Map(pvCache.get(cacheKey));
+  }
+
+  const chunks = monthChunks(start, dataEnd);
   const map = new Map();
   for (const chunk of chunks) {
     const partial = await fetchDailyViewsChunk(article, chunk.start, chunk.end);
     for (const [day, views] of partial) map.set(day, views);
   }
+  pvCache.set(cacheKey, [...map.entries()]);
   return map;
 }
 

@@ -22,6 +22,17 @@ Example:
 
 URLs use **Wikidata QIDs and dates only** — no article slugs or labels.
 
+### Abuse limits (client-side)
+
+| Limit | Value | Why |
+|-------|-------|-----|
+| Max articles | 10 | Chart readability + fewer API calls |
+| Max date span | 365 days | Matches longest resize preset |
+| Race loads | 6 / minute / tab | Slows scripted refresh spam |
+| Pageview cache | Per tab session | Re-opening the same race skips repeat API calls |
+
+Fetches run in the **visitor’s browser** (not StatsWiki servers). These guards are polite-use quick wins, not a hard anti-DDoS barrier.
+
 ---
 
 ## Race%

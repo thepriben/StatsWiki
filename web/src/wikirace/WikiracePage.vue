@@ -5,8 +5,12 @@ import HelpPage from './HelpPage.vue';
 import MultiLineChart from './MultiLineChart.vue';
 import QidPicker from './QidPicker.vue';
 import {
+  MAX_RACE_MEMBERS,
+  MAX_RANGE_DAYS,
   WINDOW_PRESETS,
+  allowRaceLoad,
   buildRacePath,
+  daysBetween,
   buildSeries,
   catalogLookup,
   enumerateDays,
@@ -41,7 +45,13 @@ const builderMembers = ref([]);
 const builderStart = ref('');
 const builderEnd = ref('');
 const builderWindow = ref('6m');
-const canCompare = computed(() => builderMembers.value.length >= 2);
+const canCompare = computed(() => {
+  const n = builderMembers.value.length;
+  if (n < 2 || n > MAX_RACE_MEMBERS) return false;
+  const { start, end } = resolveBuilderDates();
+  if (!start || !end || start > end) return false;
+  return daysBetween(start, end) <= MAX_RANGE_DAYS;
+});
 
 const isHome = computed(() => props.route.kind === 'home');
 const isHelp = computed(() => props.route.kind === 'help');
@@ -109,7 +119,21 @@ async function loadRace() {
   if (isHome.value || isHelp.value || isInvalid.value) {
     raceSeries.value = [];
     activeGroup.value = null;
-    if (isInvalid.value) error.value = 'Invalid URL — use /wikirace/Q1+Q2/YYYY-MM-DD/YYYY-MM-DD';
+    if (isInvalid.value) {
+      if (props.route.reason === 'too_many') {
+        error.value = `Too many articles (${props.route.count} — max ${MAX_RACE_MEMBERS}).`;
+      } else if (props.route.reason === 'range_too_long') {
+        error.value = `Date range too long (${props.route.days} days — max ${MAX_RANGE_DAYS}).`;
+      } else {
+        error.value = 'Invalid URL — use /wikirace/Q1+Q2/YYYY-MM-DD/YYYY-MM-DD';
+      }
+    }
+    return;
+  }
+
+  if (!allowRaceLoad()) {
+    error.value = 'Too many races loaded — wait a minute and try again.';
+    raceSeries.value = [];
     return;
   }
 
@@ -285,7 +309,7 @@ applyBuilderWindow();
         <h2>Build a race</h2>
         <p class="hint">Search the StatsWiki catalog, add at least two articles, set a date range.</p>
         <div class="wikirace-form">
-          <QidPicker v-model="builderMembers" :min="2" />
+          <QidPicker v-model="builderMembers" :min="2" :max="MAX_RACE_MEMBERS" />
           <div class="field-row">
             <label class="field">
               <span>Quick window</span>

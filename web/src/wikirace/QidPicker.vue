@@ -11,6 +11,7 @@ import {
 const props = defineProps({
   modelValue: { type: Array, default: () => [] },
   min: { type: Number, default: 2 },
+  max: { type: Number, default: 10 },
 });
 
 const emit = defineEmits(['update:modelValue']);
@@ -88,8 +89,10 @@ function scheduleSearch() {
   debounceTimer = setTimeout(() => runSearch(q), 280);
 }
 
+const atMax = () => props.modelValue.length >= props.max;
+
 function addItem(item) {
-  if (props.modelValue.some((m) => m.qid === item.qid)) return;
+  if (atMax() || props.modelValue.some((m) => m.qid === item.qid)) return;
   emit('update:modelValue', [
     ...props.modelValue,
     { qid: item.qid, label: item.label },
@@ -159,6 +162,7 @@ watch(query, scheduleSearch);
           placeholder="Search by name or QID…"
           autocomplete="off"
           spellcheck="false"
+          :disabled="atMax()"
           @focus="scheduleSearch"
           @blur="onBlur"
           @keydown="onKeydown"
@@ -182,8 +186,9 @@ watch(query, scheduleSearch);
       </div>
 
       <p class="hint qid-picker-hint">
-        {{ modelValue.length }} selected · need at least {{ min }}
-        <span v-if="searching"> · searching Wikidata…</span>
+        {{ modelValue.length }} selected · min {{ min }} · max {{ max }}
+        <span v-if="atMax()"> · group full</span>
+        <span v-else-if="searching"> · searching Wikidata…</span>
       </p>
     </label>
   </div>
