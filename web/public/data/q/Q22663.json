@@ -4,7 +4,7 @@
   "title": "The_Pirate_Bay",
   "description": "BitTorrent search engine and magnet link provider",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Capture_d%E2%80%99%C3%A9cran_de_ThePirateBay.org_2020.png?width=64",
-  "total": 44709654,
+  "total": 44718916,
   "monthly": [
     {
       "period": "2015-08",
@@ -512,7 +512,7 @@
     },
     {
       "period": "2026-06",
-      "views": 36007
+      "views": 45269
     }
   ],
   "yearly": [
@@ -562,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 579203
+      "views": 588465
     }
   ]
 }

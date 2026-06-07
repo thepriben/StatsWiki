@@ -1,0 +1,68 @@
+{
+  "qid": "Q1132413",
+  "label": "Soldier Field",
+  "title": "Soldier_Field",
+  "description": "Football stadium in Chicago, Illinois, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldier_Field_during_Chicago_Bears_home_game_against_the_San_Francisco_49ers_on_October_29%2C_2006.jpg?width=64",
+  "total": 147127,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 10666
+    },
+    {
+      "period": "2016-11",
+      "views": 10511
+    },
+    {
+      "period": "2019-01",
+      "views": 15538
+    },
+    {
+      "period": "2019-09",
+      "views": 9401
+    },
+    {
+      "period": "2021-09",
+      "views": 15498
+    },
+    {
+      "period": "2025-09",
+      "views": 12299
+    },
+    {
+      "period": "2025-11",
+      "views": 12097
+    },
+    {
+      "period": "2026-01",
+      "views": 37471
+    },
+    {
+      "period": "2026-06",
+      "views": 23646
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21177
+    },
+    {
+      "period": "2019",
+      "views": 24939
+    },
+    {
+      "period": "2021",
+      "views": 15498
+    },
+    {
+      "period": "2025",
+      "views": 24396
+    },
+    {
+      "period": "2026",
+      "views": 61117
+    }
+  ]
+}

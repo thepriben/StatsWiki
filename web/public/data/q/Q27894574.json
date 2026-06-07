@@ -4,7 +4,7 @@
   "title": "Bohemian_Rhapsody_(film)",
   "description": "2018 film directed by Bryan Singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bohemian_Rhapsody_cast_on_MTV_Movies.jpg?width=64",
-  "total": 10505253,
+  "total": 10515207,
   "monthly": [
     {
       "period": "2017-12",
@@ -129,6 +129,10 @@
     {
       "period": "2026-05",
       "views": 17184
+    },
+    {
+      "period": "2026-06",
+      "views": 9954
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 37944
+      "views": 47898
     }
   ]
 }

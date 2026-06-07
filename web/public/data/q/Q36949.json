@@ -4,7 +4,7 @@
   "title": "Robert_De_Niro",
   "description": "American actor, director and producer (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_De_Niro_Cannes_2016.jpg?width=64",
-  "total": 35426782,
+  "total": 35438322,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-05",
       "views": 72241
+    },
+    {
+      "period": "2026-06",
+      "views": 11540
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 677438
+      "views": 688978
     }
   ]
 }

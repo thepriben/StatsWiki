@@ -4,7 +4,7 @@
   "title": "List_of_UFC_events",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 34106877,
+  "total": 34117856,
   "monthly": [
     {
       "period": "2015-07",
@@ -525,6 +525,10 @@
     {
       "period": "2026-05",
       "views": 143764
+    },
+    {
+      "period": "2026-06",
+      "views": 10979
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 616167
+      "views": 627146
     }
   ]
 }

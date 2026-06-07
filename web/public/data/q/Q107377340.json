@@ -1,0 +1,56 @@
+{
+  "qid": "Q107377340",
+  "label": "2021 NBA Finals",
+  "title": "2021_NBA_Finals",
+  "description": "2021 edition of the NBA Finals between the Phoenix Suns and Milwaukee Bucks",
+  "image": "",
+  "total": 176928,
+  "monthly": [
+    {
+      "period": "2021-07",
+      "views": 102306
+    },
+    {
+      "period": "2022-05",
+      "views": 10317
+    },
+    {
+      "period": "2022-06",
+      "views": 26214
+    },
+    {
+      "period": "2023-04",
+      "views": 10964
+    },
+    {
+      "period": "2024-06",
+      "views": 15403
+    },
+    {
+      "period": "2026-06",
+      "views": 11724
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 102306
+    },
+    {
+      "period": "2022",
+      "views": 36531
+    },
+    {
+      "period": "2023",
+      "views": 10964
+    },
+    {
+      "period": "2024",
+      "views": 15403
+    },
+    {
+      "period": "2026",
+      "views": 11724
+    }
+  ]
+}

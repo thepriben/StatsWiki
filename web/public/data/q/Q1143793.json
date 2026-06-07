@@ -4,7 +4,7 @@
   "title": "India_national_cricket_team",
   "description": "men’s cricket team representing India",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ICT_Players_with_PMO_India.jpg?width=64",
-  "total": 12752499,
+  "total": 12764220,
   "monthly": [
     {
       "period": "2015-12",
@@ -221,6 +221,10 @@
     {
       "period": "2026-03",
       "views": 140267
+    },
+    {
+      "period": "2026-06",
+      "views": 11721
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 188952
+      "views": 200673
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Scary_Movie_4",
   "description": "2006 film directed by David Zucker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarymovie4-logo.svg?width=64",
-  "total": 32073,
+  "total": 42333,
   "monthly": [
     {
       "period": "2026-03",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-06",
-      "views": 19945
+      "views": 30205
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 32073
+      "views": 42333
     }
   ]
 }

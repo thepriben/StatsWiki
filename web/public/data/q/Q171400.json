@@ -1,0 +1,84 @@
+{
+  "qid": "Q171400",
+  "label": "Circuit de Monaco",
+  "title": "Circuit_de_Monaco",
+  "description": "street circuit around the harbour of the principality of Monaco",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MONACO_FORMULA_1_TURN_1_-_panoramio.jpg?width=64",
+  "total": 292075,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 11371
+    },
+    {
+      "period": "2017-05",
+      "views": 14060
+    },
+    {
+      "period": "2019-05",
+      "views": 24265
+    },
+    {
+      "period": "2021-05",
+      "views": 49942
+    },
+    {
+      "period": "2022-05",
+      "views": 47697
+    },
+    {
+      "period": "2023-05",
+      "views": 35819
+    },
+    {
+      "period": "2024-05",
+      "views": 50871
+    },
+    {
+      "period": "2025-05",
+      "views": 46071
+    },
+    {
+      "period": "2026-06",
+      "views": 11979
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11371
+    },
+    {
+      "period": "2017",
+      "views": 14060
+    },
+    {
+      "period": "2019",
+      "views": 24265
+    },
+    {
+      "period": "2021",
+      "views": 49942
+    },
+    {
+      "period": "2022",
+      "views": 47697
+    },
+    {
+      "period": "2023",
+      "views": 35819
+    },
+    {
+      "period": "2024",
+      "views": 50871
+    },
+    {
+      "period": "2025",
+      "views": 46071
+    },
+    {
+      "period": "2026",
+      "views": 11979
+    }
+  ]
+}

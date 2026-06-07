@@ -1,0 +1,56 @@
+{
+  "qid": "Q1141343",
+  "label": "Raymond James Stadium",
+  "title": "Raymond_James_Stadium",
+  "description": "American football stadium in Tampa, Florida",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raymond_James_Stadium_aerial.jpg?width=64",
+  "total": 418761,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 35185
+    },
+    {
+      "period": "2020-02",
+      "views": 18698
+    },
+    {
+      "period": "2021-01",
+      "views": 61721
+    },
+    {
+      "period": "2021-02",
+      "views": 266726
+    },
+    {
+      "period": "2022-01",
+      "views": 14999
+    },
+    {
+      "period": "2026-06",
+      "views": 21432
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 35185
+    },
+    {
+      "period": "2020",
+      "views": 18698
+    },
+    {
+      "period": "2021",
+      "views": 328447
+    },
+    {
+      "period": "2022",
+      "views": 14999
+    },
+    {
+      "period": "2026",
+      "views": 21432
+    }
+  ]
+}
