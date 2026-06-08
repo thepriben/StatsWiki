@@ -4,7 +4,7 @@
   "title": "Pirates_of_the_Caribbean_(film_series)",
   "description": "series of fantasy adventure films",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pirates_of_the_Caribbean_logo.svg?width=64",
-  "total": 37175465,
+  "total": 37185263,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-05",
       "views": 81436
+    },
+    {
+      "period": "2026-06",
+      "views": 9798
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 482005
+      "views": 491803
     }
   ]
 }

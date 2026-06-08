@@ -4,7 +4,7 @@
   "title": "Furiosa:_A_Mad_Max_Saga",
   "description": "2024 film directed by George Miller",
   "image": "",
-  "total": 5486338,
+  "total": 5495428,
   "monthly": [
     {
       "period": "2023-12",
@@ -49,6 +49,10 @@
     {
       "period": "2025-02",
       "views": 51498
+    },
+    {
+      "period": "2026-06",
+      "views": 9090
     }
   ],
   "yearly": [
@@ -63,6 +67,10 @@
     {
       "period": "2025",
       "views": 222085
+    },
+    {
+      "period": "2026",
+      "views": 9090
     }
   ]
 }

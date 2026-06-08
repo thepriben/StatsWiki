@@ -4,7 +4,7 @@
   "title": "Alexander_Hamilton",
   "description": "American Founding Father and statesman (1755/1757–1804)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Arts_Project_-_Alexander_Hamilton_%281792_portrait%29_by_John_Trumbull.jpg?width=64",
-  "total": 42734321,
+  "total": 42758053,
   "monthly": [
     {
       "period": "2015-07",
@@ -465,6 +465,10 @@
     {
       "period": "2026-04",
       "views": 16476
+    },
+    {
+      "period": "2026-06",
+      "views": 23732
     }
   ],
   "yearly": [
@@ -514,7 +518,7 @@
     },
     {
       "period": "2026",
-      "views": 31034
+      "views": 54766
     }
   ]
 }

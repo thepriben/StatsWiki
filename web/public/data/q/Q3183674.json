@@ -4,7 +4,7 @@
   "title": "Jordan_Belfort",
   "description": "American stockbroker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Belfort_-_May_30%2C_2010.jpg?width=64",
-  "total": 9163213,
+  "total": 9172928,
   "monthly": [
     {
       "period": "2015-07",
@@ -417,6 +417,10 @@
     {
       "period": "2026-04",
       "views": 24365
+    },
+    {
+      "period": "2026-06",
+      "views": 9715
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 33796
+      "views": 43511
     }
   ]
 }

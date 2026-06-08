@@ -1,0 +1,60 @@
+{
+  "qid": "Q3100030",
+  "label": "Gears of War",
+  "title": "Gears_of_War",
+  "description": "third-person shooter video game series",
+  "image": "",
+  "total": 121470,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 19817
+    },
+    {
+      "period": "2018-06",
+      "views": 13584
+    },
+    {
+      "period": "2019-09",
+      "views": 18672
+    },
+    {
+      "period": "2024-06",
+      "views": 45325
+    },
+    {
+      "period": "2025-05",
+      "views": 10136
+    },
+    {
+      "period": "2026-06",
+      "views": 13936
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 19817
+    },
+    {
+      "period": "2018",
+      "views": 13584
+    },
+    {
+      "period": "2019",
+      "views": 18672
+    },
+    {
+      "period": "2024",
+      "views": 45325
+    },
+    {
+      "period": "2025",
+      "views": 10136
+    },
+    {
+      "period": "2026",
+      "views": 13936
+    }
+  ]
+}

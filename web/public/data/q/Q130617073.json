@@ -1,0 +1,52 @@
+{
+  "qid": "Q130617073",
+  "label": "Banana Ball",
+  "title": "Banana_Ball",
+  "description": "exhibition baseball league",
+  "image": "",
+  "total": 333593,
+  "monthly": [
+    {
+      "period": "2025-04",
+      "views": 12058
+    },
+    {
+      "period": "2025-05",
+      "views": 10813
+    },
+    {
+      "period": "2025-06",
+      "views": 57710
+    },
+    {
+      "period": "2025-07",
+      "views": 61039
+    },
+    {
+      "period": "2025-08",
+      "views": 68874
+    },
+    {
+      "period": "2025-10",
+      "views": 30976
+    },
+    {
+      "period": "2026-05",
+      "views": 73661
+    },
+    {
+      "period": "2026-06",
+      "views": 18462
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 241470
+    },
+    {
+      "period": "2026",
+      "views": 92123
+    }
+  ]
+}

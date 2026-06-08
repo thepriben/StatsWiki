@@ -4,7 +4,7 @@
   "title": "Scary_Movie_3",
   "description": "2003 film directed by David Zucker",
   "image": "",
-  "total": 57818,
+  "total": 70188,
   "monthly": [
     {
       "period": "2026-03",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-06",
-      "views": 34305
+      "views": 46675
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 57818
+      "views": 70188
     }
   ]
 }
