@@ -4,7 +4,7 @@
   "title": "Daniel_Radcliffe",
   "description": "British actor and film producer (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Radcliffe_in_July_2015.jpg?width=64",
-  "total": 15820192,
+  "total": 15838382,
   "monthly": [
     {
       "period": "2015-07",
@@ -493,6 +493,10 @@
     {
       "period": "2026-05",
       "views": 39367
+    },
+    {
+      "period": "2026-06",
+      "views": 18190
     }
   ],
   "yearly": [
@@ -542,7 +546,7 @@
     },
     {
       "period": "2026",
-      "views": 515013
+      "views": 533203
     }
   ]
 }

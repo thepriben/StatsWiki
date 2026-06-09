@@ -4,7 +4,7 @@
   "title": "Scary_Movie_2",
   "description": "2001 film by Keenen Ivory Wayans",
   "image": "",
-  "total": 104031,
+  "total": 116126,
   "monthly": [
     {
       "period": "2026-03",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-06",
-      "views": 56599
+      "views": 68694
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 104031
+      "views": 116126
     }
   ]
 }

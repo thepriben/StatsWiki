@@ -4,7 +4,7 @@
   "title": "Scary_Movie_5",
   "description": "2013 film directed by Malcolm D. Lee",
   "image": "",
-  "total": 111251,
+  "total": 123327,
   "monthly": [
     {
       "period": "2026-03",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-06",
-      "views": 56234
+      "views": 68310
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 111251
+      "views": 123327
     }
   ]
 }

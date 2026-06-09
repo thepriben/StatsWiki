@@ -1,0 +1,28 @@
+{
+  "qid": "Q124873",
+  "label": "Mindanao",
+  "title": "Mindanao",
+  "description": "second largest island of the Philippines",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mindanao_Sentinel-2_MSI_2019_cloudless_composite.jpg?width=64",
+  "total": 52657,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 44102
+    },
+    {
+      "period": "2026-06",
+      "views": 8555
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 44102
+    },
+    {
+      "period": "2026",
+      "views": 8555
+    }
+  ]
+}

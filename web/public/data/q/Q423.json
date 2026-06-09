@@ -4,7 +4,7 @@
   "title": "North_Korea",
   "description": "sovereign state in East Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jinrichengsquare.JPG?width=64",
-  "total": 19384979,
+  "total": 19393750,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-05",
       "views": 26338
+    },
+    {
+      "period": "2026-06",
+      "views": 8771
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 507314
+      "views": 516085
     }
   ]
 }

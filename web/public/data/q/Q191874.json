@@ -1,0 +1,60 @@
+{
+  "qid": "Q191874",
+  "label": "Tony Awards",
+  "title": "Tony_Awards",
+  "description": "awards to recognize the excellence in live Broadway theatre, presented by the American Theatre Wing and The Broadway League at an annual ceremony in New York City",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TonyAward-byPhilipRomano.jpg?width=64",
+  "total": 173098,
+  "monthly": [
+    {
+      "period": "2021-09",
+      "views": 13033
+    },
+    {
+      "period": "2022-06",
+      "views": 24332
+    },
+    {
+      "period": "2023-06",
+      "views": 28581
+    },
+    {
+      "period": "2024-06",
+      "views": 28192
+    },
+    {
+      "period": "2025-06",
+      "views": 47459
+    },
+    {
+      "period": "2026-06",
+      "views": 31501
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 13033
+    },
+    {
+      "period": "2022",
+      "views": 24332
+    },
+    {
+      "period": "2023",
+      "views": 28581
+    },
+    {
+      "period": "2024",
+      "views": 28192
+    },
+    {
+      "period": "2025",
+      "views": 47459
+    },
+    {
+      "period": "2026",
+      "views": 31501
+    }
+  ]
+}

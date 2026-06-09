@@ -4,7 +4,7 @@
   "title": "2024_Indian_general_election",
   "description": "elections for the 18th Lok Sabha, India",
   "image": "",
-  "total": 16494726,
+  "total": 16505905,
   "monthly": [
     {
       "period": "2023-12",
@@ -77,6 +77,10 @@
     {
       "period": "2026-05",
       "views": 169064
+    },
+    {
+      "period": "2026-06",
+      "views": 11179
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 237633
+      "views": 248812
     }
   ]
 }

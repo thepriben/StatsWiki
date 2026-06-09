@@ -4,7 +4,7 @@
   "title": "Muhammad",
   "description": "Arabian political leader and the founder of Islam (c. 570–632)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muslim_depiction_of_Muhammad_-_17th_century_Ottoman_copy_from_the_%22Edinburgh_codex%22.jpg?width=64",
-  "total": 22548857,
+  "total": 22564637,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-05",
       "views": 24187
+    },
+    {
+      "period": "2026-06",
+      "views": 15780
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 650814
+      "views": 666594
     }
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "qid": "Q203871",
+  "label": "Rush",
+  "title": "Rush_(band)",
+  "description": "Canadian rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rush-in-concert.jpg?width=64",
+  "total": 795176,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 13944
+    },
+    {
+      "period": "2020-01",
+      "views": 531206
+    },
+    {
+      "period": "2020-11",
+      "views": 17941
+    },
+    {
+      "period": "2021-12",
+      "views": 9960
+    },
+    {
+      "period": "2022-09",
+      "views": 16818
+    },
+    {
+      "period": "2023-12",
+      "views": 13718
+    },
+    {
+      "period": "2025-10",
+      "views": 125954
+    },
+    {
+      "period": "2026-02",
+      "views": 18383
+    },
+    {
+      "period": "2026-03",
+      "views": 25370
+    },
+    {
+      "period": "2026-05",
+      "views": 8504
+    },
+    {
+      "period": "2026-06",
+      "views": 13378
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 13944
+    },
+    {
+      "period": "2020",
+      "views": 549147
+    },
+    {
+      "period": "2021",
+      "views": 9960
+    },
+    {
+      "period": "2022",
+      "views": 16818
+    },
+    {
+      "period": "2023",
+      "views": 13718
+    },
+    {
+      "period": "2025",
+      "views": 125954
+    },
+    {
+      "period": "2026",
+      "views": 65635
+    }
+  ]
+}
