@@ -4,7 +4,7 @@
   "title": "Cardi_B",
   "description": "American rapper and singer (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CardiB_Logo_%282024%29.svg?width=64",
-  "total": 41602307,
+  "total": 41621892,
   "monthly": [
     {
       "period": "2017-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-05",
       "views": 11890
+    },
+    {
+      "period": "2026-06",
+      "views": 19585
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 903393
+      "views": 922978
     }
   ]
 }

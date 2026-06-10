@@ -1,0 +1,44 @@
+{
+  "qid": "Q58541191",
+  "label": "Xenoblade Chronicles",
+  "title": "Xenoblade_Chronicles",
+  "description": "video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenoblade_series_logo.svg?width=64",
+  "total": 49601,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 14609
+    },
+    {
+      "period": "2022-02",
+      "views": 14006
+    },
+    {
+      "period": "2024-10",
+      "views": 10292
+    },
+    {
+      "period": "2026-06",
+      "views": 10694
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 14609
+    },
+    {
+      "period": "2022",
+      "views": 14006
+    },
+    {
+      "period": "2024",
+      "views": 10292
+    },
+    {
+      "period": "2026",
+      "views": 10694
+    }
+  ]
+}

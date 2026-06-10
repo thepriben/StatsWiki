@@ -4,7 +4,7 @@
   "title": "Justin_Trudeau",
   "description": "23rd prime minister of Canada from 2015 to 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justin_Trudeau_at_the_European_Commission_-_2025.jpg?width=64",
-  "total": 25585748,
+  "total": 25628008,
   "monthly": [
     {
       "period": "2015-08",
@@ -413,6 +413,10 @@
     {
       "period": "2026-04",
       "views": 247535
+    },
+    {
+      "period": "2026-06",
+      "views": 42260
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 400527
+      "views": 442787
     }
   ]
 }

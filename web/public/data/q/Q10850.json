@@ -1,0 +1,44 @@
+{
+  "qid": "Q10850",
+  "label": "Rodentia",
+  "title": "Rodent",
+  "description": "order of mammals",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamias_striatus_CT.jpg?width=64",
+  "total": 137192,
+  "monthly": [
+    {
+      "period": "2017-12",
+      "views": 17698
+    },
+    {
+      "period": "2020-03",
+      "views": 44847
+    },
+    {
+      "period": "2026-04",
+      "views": 23044
+    },
+    {
+      "period": "2026-05",
+      "views": 13418
+    },
+    {
+      "period": "2026-06",
+      "views": 38185
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 17698
+    },
+    {
+      "period": "2020",
+      "views": 44847
+    },
+    {
+      "period": "2026",
+      "views": 74647
+    }
+  ]
+}

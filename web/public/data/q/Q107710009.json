@@ -1,0 +1,76 @@
+{
+  "qid": "Q107710009",
+  "label": "The Fabelmans",
+  "title": "The_Fabelmans",
+  "description": "2022 film directed by Steven Spielberg",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Fabelmans.png?width=64",
+  "total": 2990691,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 133997
+    },
+    {
+      "period": "2022-11",
+      "views": 473590
+    },
+    {
+      "period": "2022-12",
+      "views": 548280
+    },
+    {
+      "period": "2023-01",
+      "views": 942864
+    },
+    {
+      "period": "2023-02",
+      "views": 412248
+    },
+    {
+      "period": "2023-03",
+      "views": 399947
+    },
+    {
+      "period": "2024-06",
+      "views": 12101
+    },
+    {
+      "period": "2024-12",
+      "views": 12586
+    },
+    {
+      "period": "2025-01",
+      "views": 33270
+    },
+    {
+      "period": "2026-02",
+      "views": 11787
+    },
+    {
+      "period": "2026-06",
+      "views": 10021
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 1155867
+    },
+    {
+      "period": "2023",
+      "views": 1755059
+    },
+    {
+      "period": "2024",
+      "views": 24687
+    },
+    {
+      "period": "2025",
+      "views": 33270
+    },
+    {
+      "period": "2026",
+      "views": 21808
+    }
+  ]
+}

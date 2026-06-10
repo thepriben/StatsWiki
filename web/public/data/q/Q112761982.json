@@ -4,7 +4,7 @@
   "title": "The_Bear_(TV_series)",
   "description": "American comedy-drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Bear_Title_Card.jpg?width=64",
-  "total": 14782085,
+  "total": 14790499,
   "monthly": [
     {
       "period": "2022-06",
@@ -141,6 +141,10 @@
     {
       "period": "2026-05",
       "views": 67515
+    },
+    {
+      "period": "2026-06",
+      "views": 8414
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 77269
+      "views": 85683
     }
   ]
 }

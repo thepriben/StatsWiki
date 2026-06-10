@@ -1,0 +1,84 @@
+{
+  "qid": "Q299685",
+  "label": "Queen's Club Championships",
+  "title": "Queen's_Club_Championships",
+  "description": "combined WTA/ATP tournament",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025_Queens_Tennis.jpg?width=64",
+  "total": 204736,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 42598
+    },
+    {
+      "period": "2017-06",
+      "views": 23690
+    },
+    {
+      "period": "2018-06",
+      "views": 10798
+    },
+    {
+      "period": "2019-06",
+      "views": 21331
+    },
+    {
+      "period": "2021-06",
+      "views": 25184
+    },
+    {
+      "period": "2022-06",
+      "views": 10103
+    },
+    {
+      "period": "2023-06",
+      "views": 14203
+    },
+    {
+      "period": "2025-06",
+      "views": 45505
+    },
+    {
+      "period": "2026-06",
+      "views": 11324
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 42598
+    },
+    {
+      "period": "2017",
+      "views": 23690
+    },
+    {
+      "period": "2018",
+      "views": 10798
+    },
+    {
+      "period": "2019",
+      "views": 21331
+    },
+    {
+      "period": "2021",
+      "views": 25184
+    },
+    {
+      "period": "2022",
+      "views": 10103
+    },
+    {
+      "period": "2023",
+      "views": 14203
+    },
+    {
+      "period": "2025",
+      "views": 45505
+    },
+    {
+      "period": "2026",
+      "views": 11324
+    }
+  ]
+}

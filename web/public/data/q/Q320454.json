@@ -1,0 +1,60 @@
+{
+  "qid": "Q320454",
+  "label": "Banorte Stadium",
+  "title": "Estadio_Azteca",
+  "description": "football stadium in Mexico City, Mexico",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg?width=64",
+  "total": 256285,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 63219
+    },
+    {
+      "period": "2017-06",
+      "views": 30073
+    },
+    {
+      "period": "2017-11",
+      "views": 27180
+    },
+    {
+      "period": "2019-11",
+      "views": 78739
+    },
+    {
+      "period": "2022-03",
+      "views": 11975
+    },
+    {
+      "period": "2022-11",
+      "views": 36627
+    },
+    {
+      "period": "2026-06",
+      "views": 8472
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 63219
+    },
+    {
+      "period": "2017",
+      "views": 57253
+    },
+    {
+      "period": "2019",
+      "views": 78739
+    },
+    {
+      "period": "2022",
+      "views": 48602
+    },
+    {
+      "period": "2026",
+      "views": 8472
+    }
+  ]
+}
