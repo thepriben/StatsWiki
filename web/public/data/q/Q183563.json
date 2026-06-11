@@ -1,0 +1,84 @@
+{
+  "qid": "Q183563",
+  "label": "Portugal Day",
+  "title": "Portugal_Day",
+  "description": "Portugal National day",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EstatuaCamoesLisboa.JPG?width=64",
+  "total": 121322,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 13644
+    },
+    {
+      "period": "2019-06",
+      "views": 11520
+    },
+    {
+      "period": "2020-06",
+      "views": 12750
+    },
+    {
+      "period": "2021-06",
+      "views": 12847
+    },
+    {
+      "period": "2022-06",
+      "views": 12053
+    },
+    {
+      "period": "2023-06",
+      "views": 13778
+    },
+    {
+      "period": "2024-06",
+      "views": 16714
+    },
+    {
+      "period": "2025-06",
+      "views": 15066
+    },
+    {
+      "period": "2026-06",
+      "views": 12950
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 13644
+    },
+    {
+      "period": "2019",
+      "views": 11520
+    },
+    {
+      "period": "2020",
+      "views": 12750
+    },
+    {
+      "period": "2021",
+      "views": 12847
+    },
+    {
+      "period": "2022",
+      "views": 12053
+    },
+    {
+      "period": "2023",
+      "views": 13778
+    },
+    {
+      "period": "2024",
+      "views": 16714
+    },
+    {
+      "period": "2025",
+      "views": 15066
+    },
+    {
+      "period": "2026",
+      "views": 12950
+    }
+  ]
+}

@@ -4,11 +4,67 @@
   "title": "Joe_Jackson_(talent_manager)",
   "description": "American music manager, father of the Jackson family (1928–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JosephJackson2007%28cropped%29.jpg?width=64",
-  "total": 1666787,
+  "total": 3385730,
   "monthly": [
     {
+      "period": "2015-07",
+      "views": 11270
+    },
+    {
+      "period": "2016-03",
+      "views": 10408
+    },
+    {
+      "period": "2016-05",
+      "views": 19952
+    },
+    {
+      "period": "2016-12",
+      "views": 10525
+    },
+    {
+      "period": "2017-12",
+      "views": 9608
+    },
+    {
+      "period": "2018-05",
+      "views": 30479
+    },
+    {
+      "period": "2018-06",
+      "views": 587086
+    },
+    {
+      "period": "2018-07",
+      "views": 72054
+    },
+    {
+      "period": "2018-08",
+      "views": 10055
+    },
+    {
+      "period": "2019-03",
+      "views": 137964
+    },
+    {
+      "period": "2022-01",
+      "views": 120421
+    },
+    {
+      "period": "2022-02",
+      "views": 36692
+    },
+    {
+      "period": "2022-12",
+      "views": 11583
+    },
+    {
+      "period": "2023-01",
+      "views": 12468
+    },
+    {
       "period": "2024-09",
-      "views": 62192
+      "views": 104193
     },
     {
       "period": "2025-11",
@@ -16,21 +72,49 @@
     },
     {
       "period": "2026-04",
-      "views": 539214
+      "views": 768452
     },
     {
       "period": "2026-05",
-      "views": 926977
+      "views": 1262660
     },
     {
       "period": "2026-06",
-      "views": 127203
+      "views": 158659
     }
   ],
   "yearly": [
     {
+      "period": "2015",
+      "views": 11270
+    },
+    {
+      "period": "2016",
+      "views": 40885
+    },
+    {
+      "period": "2017",
+      "views": 9608
+    },
+    {
+      "period": "2018",
+      "views": 699674
+    },
+    {
+      "period": "2019",
+      "views": 137964
+    },
+    {
+      "period": "2022",
+      "views": 168696
+    },
+    {
+      "period": "2023",
+      "views": 12468
+    },
+    {
       "period": "2024",
-      "views": 62192
+      "views": 104193
     },
     {
       "period": "2025",
@@ -38,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 1593394
+      "views": 2189771
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Climate_change",
   "description": "human-caused changes to climate on Earth",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carbon_Dioxide_800kyr.svg?width=64",
-  "total": 832871,
+  "total": 842183,
   "monthly": [
     {
       "period": "2015-12",
@@ -48,7 +48,7 @@
     },
     {
       "period": "2026-06",
-      "views": 25988
+      "views": 35300
     }
   ],
   "yearly": [
@@ -78,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 25988
+      "views": 35300
     }
   ]
 }

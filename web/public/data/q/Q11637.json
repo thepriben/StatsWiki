@@ -4,7 +4,7 @@
   "title": "Judy_Garland",
   "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Judy_Garland_The_Harvey_Girls_MGM_Publicity_still.jpeg?width=64",
-  "total": 32941203,
+  "total": 32953481,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-05",
       "views": 10201
+    },
+    {
+      "period": "2026-06",
+      "views": 12278
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 460259
+      "views": 472537
     }
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "qid": "Q2316015",
+  "label": "Toy Story",
+  "title": "Toy_Story_(franchise)",
+  "description": "CGI-animated film series and Disney/Pixar media franchise about toys who come to life",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toy_Story_logo.svg?width=64",
+  "total": 372680,
+  "monthly": [
+    {
+      "period": "2019-06",
+      "views": 255127
+    },
+    {
+      "period": "2019-07",
+      "views": 29994
+    },
+    {
+      "period": "2021-10",
+      "views": 31107
+    },
+    {
+      "period": "2022-07",
+      "views": 24629
+    },
+    {
+      "period": "2023-02",
+      "views": 13013
+    },
+    {
+      "period": "2026-02",
+      "views": 10164
+    },
+    {
+      "period": "2026-06",
+      "views": 8646
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 285121
+    },
+    {
+      "period": "2021",
+      "views": 31107
+    },
+    {
+      "period": "2022",
+      "views": 24629
+    },
+    {
+      "period": "2023",
+      "views": 13013
+    },
+    {
+      "period": "2026",
+      "views": 18810
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Josh_Brolin",
   "description": "American actor (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Brolin_TIFF_2025_%28cropped%29.jpg?width=64",
-  "total": 17212027,
+  "total": 17220225,
   "monthly": [
     {
       "period": "2015-09",
@@ -413,6 +413,10 @@
     {
       "period": "2026-05",
       "views": 39500
+    },
+    {
+      "period": "2026-06",
+      "views": 8198
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 339420
+      "views": 347618
     }
   ]
 }

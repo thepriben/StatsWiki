@@ -4,7 +4,7 @@
   "title": "Cat",
   "description": "small domesticated carnivorous mammal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat_grooming.jpg?width=64",
-  "total": 30856526,
+  "total": 30864880,
   "monthly": [
     {
       "period": "2015-07",
@@ -400,7 +400,7 @@
     },
     {
       "period": "2026-06",
-      "views": 42015
+      "views": 50369
     }
   ],
   "yearly": [
@@ -450,7 +450,7 @@
     },
     {
       "period": "2026",
-      "views": 863720
+      "views": 872074
     }
   ]
 }

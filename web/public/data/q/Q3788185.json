@@ -4,7 +4,7 @@
   "title": "Sophie_Grégoire",
   "description": "Canadian television presenter (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie_Gregoire_2017_%28cropped%29.jpg?width=64",
-  "total": 504548,
+  "total": 2159136,
   "monthly": [
     {
       "period": "2015-10",
@@ -24,15 +24,91 @@
     },
     {
       "period": "2017-02",
-      "views": 109439
+      "views": 146149
+    },
+    {
+      "period": "2018-02",
+      "views": 9511
+    },
+    {
+      "period": "2018-06",
+      "views": 10871
+    },
+    {
+      "period": "2019-08",
+      "views": 22227
+    },
+    {
+      "period": "2019-09",
+      "views": 36857
+    },
+    {
+      "period": "2019-10",
+      "views": 28902
+    },
+    {
+      "period": "2020-03",
+      "views": 201679
+    },
+    {
+      "period": "2021-09",
+      "views": 24382
+    },
+    {
+      "period": "2022-02",
+      "views": 10859
+    },
+    {
+      "period": "2023-08",
+      "views": 275005
+    },
+    {
+      "period": "2023-09",
+      "views": 9596
+    },
+    {
+      "period": "2025-01",
+      "views": 164757
+    },
+    {
+      "period": "2025-02",
+      "views": 11546
+    },
+    {
+      "period": "2025-03",
+      "views": 82086
+    },
+    {
+      "period": "2025-04",
+      "views": 10182
+    },
+    {
+      "period": "2025-07",
+      "views": 89196
+    },
+    {
+      "period": "2025-08",
+      "views": 33732
+    },
+    {
+      "period": "2025-10",
+      "views": 436508
+    },
+    {
+      "period": "2025-11",
+      "views": 10846
+    },
+    {
+      "period": "2025-12",
+      "views": 120399
     },
     {
       "period": "2026-04",
-      "views": 40400
+      "views": 49813
     },
     {
       "period": "2026-06",
-      "views": 11673
+      "views": 30997
     }
   ],
   "yearly": [
@@ -46,11 +122,39 @@
     },
     {
       "period": "2017",
-      "views": 109439
+      "views": 146149
+    },
+    {
+      "period": "2018",
+      "views": 20382
+    },
+    {
+      "period": "2019",
+      "views": 87986
+    },
+    {
+      "period": "2020",
+      "views": 201679
+    },
+    {
+      "period": "2021",
+      "views": 24382
+    },
+    {
+      "period": "2022",
+      "views": 10859
+    },
+    {
+      "period": "2023",
+      "views": 284601
+    },
+    {
+      "period": "2025",
+      "views": 959252
     },
     {
       "period": "2026",
-      "views": 52073
+      "views": 80810
     }
   ]
 }
