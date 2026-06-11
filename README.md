@@ -8,6 +8,8 @@
 
 **Bluesky:** https://bsky.app/profile/statswiki.bsky.social
 
+[Preprint](https://zenodo.org/records/20635352) · [10.5281/zenodo.20635351](https://doi.org/10.5281/zenodo.20635351)
+
 MIT license — fork for [another language or project → ADAPT.md](ADAPT.md).
 
 ---
