@@ -1,7 +1,8 @@
 import { loadQidStats, url, pad, VERSION } from '../lib.js';
 
+/** Default: human pageviews (`user` agent), not bots. */
 const PV_API =
-  'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents';
+  'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user';
 
 export const MAX_RACE_MEMBERS = 10;
 export const MAX_RANGE_DAYS = 365;
