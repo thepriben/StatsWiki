@@ -1,0 +1,36 @@
+{
+  "qid": "Q135745844",
+  "label": "2025 NBA Cup",
+  "title": "2025_NBA_Cup",
+  "description": "basketball tournament",
+  "image": "",
+  "total": 98512,
+  "monthly": [
+    {
+      "period": "2025-11",
+      "views": 38409
+    },
+    {
+      "period": "2025-12",
+      "views": 32092
+    },
+    {
+      "period": "2026-05",
+      "views": 19282
+    },
+    {
+      "period": "2026-06",
+      "views": 8729
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 70501
+    },
+    {
+      "period": "2026",
+      "views": 28011
+    }
+  ]
+}

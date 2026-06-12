@@ -4,7 +4,7 @@
   "title": "Conor_McGregor",
   "description": "Irish boxer and mixed martial arts fighter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Conor_McGregor%2C_UFC_189_World_Tour_London_%282%29.jpg?width=64",
-  "total": 51729371,
+  "total": 51739652,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-05",
       "views": 203103
+    },
+    {
+      "period": "2026-06",
+      "views": 10281
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 217671
+      "views": 227952
     }
   ]
 }

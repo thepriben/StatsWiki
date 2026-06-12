@@ -1,0 +1,44 @@
+{
+  "qid": "Q131591",
+  "label": "1938 FIFA World Cup",
+  "title": "1938_FIFA_World_Cup",
+  "description": "3rd FIFA World Cup, held in France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1938_fifa_worldcup_poster.jpg?width=64",
+  "total": 830997,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 228910
+    },
+    {
+      "period": "2018-07",
+      "views": 181285
+    },
+    {
+      "period": "2022-11",
+      "views": 168565
+    },
+    {
+      "period": "2022-12",
+      "views": 242697
+    },
+    {
+      "period": "2026-06",
+      "views": 9540
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 410195
+    },
+    {
+      "period": "2022",
+      "views": 411262
+    },
+    {
+      "period": "2026",
+      "views": 9540
+    }
+  ]
+}

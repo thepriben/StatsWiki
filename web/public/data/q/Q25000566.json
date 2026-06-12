@@ -1,0 +1,48 @@
+{
+  "qid": "Q25000566",
+  "label": "Canadian Premier League",
+  "title": "Canadian_Premier_League",
+  "description": "professional soccer league in Canada",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Canadian_Premier_League_logo_with_name_2026.svg?width=64",
+  "total": 1286350,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 564655
+    },
+    {
+      "period": "2022-10",
+      "views": 674511
+    },
+    {
+      "period": "2023-11",
+      "views": 17428
+    },
+    {
+      "period": "2025-11",
+      "views": 20091
+    },
+    {
+      "period": "2026-06",
+      "views": 9665
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 1239166
+    },
+    {
+      "period": "2023",
+      "views": 17428
+    },
+    {
+      "period": "2025",
+      "views": 20091
+    },
+    {
+      "period": "2026",
+      "views": 9665
+    }
+  ]
+}

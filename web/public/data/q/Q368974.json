@@ -1,0 +1,64 @@
+{
+  "qid": "Q368974",
+  "label": "FIFA World Cup awards",
+  "title": "FIFA_World_Cup_awards",
+  "description": "award",
+  "image": "",
+  "total": 1747273,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 48604
+    },
+    {
+      "period": "2018-04",
+      "views": 11147
+    },
+    {
+      "period": "2018-06",
+      "views": 266833
+    },
+    {
+      "period": "2018-07",
+      "views": 719859
+    },
+    {
+      "period": "2019-07",
+      "views": 46180
+    },
+    {
+      "period": "2022-11",
+      "views": 18138
+    },
+    {
+      "period": "2022-12",
+      "views": 627208
+    },
+    {
+      "period": "2026-06",
+      "views": 9304
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 48604
+    },
+    {
+      "period": "2018",
+      "views": 997839
+    },
+    {
+      "period": "2019",
+      "views": 46180
+    },
+    {
+      "period": "2022",
+      "views": 645346
+    },
+    {
+      "period": "2026",
+      "views": 9304
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Canelo_Álvarez",
   "description": "Mexican boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sa%C3%BAl_%C3%81lvarez.png?width=64",
-  "total": 17007779,
+  "total": 17019689,
   "monthly": [
     {
       "period": "2016-09",
@@ -329,6 +329,10 @@
     {
       "period": "2026-05",
       "views": 22104
+    },
+    {
+      "period": "2026-06",
+      "views": 11910
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 22104
+      "views": 34014
     }
   ]
 }

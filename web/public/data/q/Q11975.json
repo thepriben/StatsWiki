@@ -4,7 +4,7 @@
   "title": "Britney_Spears",
   "description": "American singer, songwriter, actress and model (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Britney_Spears-FFT-Toronto_%28cropped%29.jpg?width=64",
-  "total": 28138724,
+  "total": 28152597,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-05",
       "views": 70485
+    },
+    {
+      "period": "2026-06",
+      "views": 13873
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 508295
+      "views": 522168
     }
   ]
 }

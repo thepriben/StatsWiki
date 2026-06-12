@@ -1,0 +1,44 @@
+{
+  "qid": "Q528626",
+  "label": "West Reading",
+  "title": "West_Reading,_Pennsylvania",
+  "description": "borough in Berks County, Pennsylvania, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/US_422_BUS_EB_at_6th_Avenue_West_Reading.jpg?width=64",
+  "total": 46866,
+  "monthly": [
+    {
+      "period": "2023-05",
+      "views": 12201
+    },
+    {
+      "period": "2024-02",
+      "views": 13538
+    },
+    {
+      "period": "2025-02",
+      "views": 11929
+    },
+    {
+      "period": "2026-06",
+      "views": 9198
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 12201
+    },
+    {
+      "period": "2024",
+      "views": 13538
+    },
+    {
+      "period": "2025",
+      "views": 11929
+    },
+    {
+      "period": "2026",
+      "views": 9198
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "qid": "Q132515",
+  "label": "1950 FIFA World Cup",
+  "title": "1950_FIFA_World_Cup",
+  "description": "4th FIFA World Cup, held in Brazil",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uruguay_gol_schiaffino_1950.jpg?width=64",
+  "total": 953700,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 250320
+    },
+    {
+      "period": "2018-07",
+      "views": 200223
+    },
+    {
+      "period": "2022-11",
+      "views": 207317
+    },
+    {
+      "period": "2022-12",
+      "views": 285248
+    },
+    {
+      "period": "2026-06",
+      "views": 10592
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 450543
+    },
+    {
+      "period": "2022",
+      "views": 492565
+    },
+    {
+      "period": "2026",
+      "views": 10592
+    }
+  ]
+}

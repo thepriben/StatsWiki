@@ -1,0 +1,84 @@
+{
+  "qid": "Q1489",
+  "label": "Mexico City",
+  "title": "Mexico_City",
+  "description": "capital and largest city of Mexico",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sobrevuelos_CDMX_HJ2A5091_%2840386338731%29.jpg?width=64",
+  "total": 349201,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 63829
+    },
+    {
+      "period": "2017-09",
+      "views": 113212
+    },
+    {
+      "period": "2017-11",
+      "views": 17787
+    },
+    {
+      "period": "2018-07",
+      "views": 10640
+    },
+    {
+      "period": "2019-11",
+      "views": 32001
+    },
+    {
+      "period": "2021-05",
+      "views": 13082
+    },
+    {
+      "period": "2021-11",
+      "views": 11686
+    },
+    {
+      "period": "2022-10",
+      "views": 12294
+    },
+    {
+      "period": "2022-11",
+      "views": 29180
+    },
+    {
+      "period": "2026-02",
+      "views": 12423
+    },
+    {
+      "period": "2026-06",
+      "views": 33067
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 63829
+    },
+    {
+      "period": "2017",
+      "views": 130999
+    },
+    {
+      "period": "2018",
+      "views": 10640
+    },
+    {
+      "period": "2019",
+      "views": 32001
+    },
+    {
+      "period": "2021",
+      "views": 24768
+    },
+    {
+      "period": "2022",
+      "views": 41474
+    },
+    {
+      "period": "2026",
+      "views": 45490
+    }
+  ]
+}

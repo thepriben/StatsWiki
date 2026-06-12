@@ -1,0 +1,44 @@
+{
+  "qid": "Q1477177",
+  "label": "1934 FIFA World Cup",
+  "title": "1934_FIFA_World_Cup",
+  "description": "2nd FIFA World Cup, held in Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1934_fifa_worldcup_poster.jpg?width=64",
+  "total": 825328,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 206324
+    },
+    {
+      "period": "2018-07",
+      "views": 179449
+    },
+    {
+      "period": "2022-11",
+      "views": 173995
+    },
+    {
+      "period": "2022-12",
+      "views": 255444
+    },
+    {
+      "period": "2026-06",
+      "views": 10116
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 385773
+    },
+    {
+      "period": "2022",
+      "views": 429439
+    },
+    {
+      "period": "2026",
+      "views": 10116
+    }
+  ]
+}

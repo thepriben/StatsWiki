@@ -1,0 +1,68 @@
+{
+  "qid": "Q5160921",
+  "label": "Congressional Baseball Game",
+  "title": "Congressional_Baseball_Game",
+  "description": "annual baseball game played by members of the United States Congress",
+  "image": "",
+  "total": 181086,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 70191
+    },
+    {
+      "period": "2021-09",
+      "views": 21519
+    },
+    {
+      "period": "2022-07",
+      "views": 15338
+    },
+    {
+      "period": "2023-06",
+      "views": 13505
+    },
+    {
+      "period": "2024-06",
+      "views": 22929
+    },
+    {
+      "period": "2025-06",
+      "views": 20059
+    },
+    {
+      "period": "2026-06",
+      "views": 17545
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 70191
+    },
+    {
+      "period": "2021",
+      "views": 21519
+    },
+    {
+      "period": "2022",
+      "views": 15338
+    },
+    {
+      "period": "2023",
+      "views": 13505
+    },
+    {
+      "period": "2024",
+      "views": 22929
+    },
+    {
+      "period": "2025",
+      "views": 20059
+    },
+    {
+      "period": "2026",
+      "views": 17545
+    }
+  ]
+}
