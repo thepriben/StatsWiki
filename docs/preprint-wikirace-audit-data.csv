@@ -1,0 +1,19 @@
+case,article,enwiki_title,qid,start,end,access,agent,granularity,views,group_total,extraction_date,notes
+ballon-dor-2025,Gianluigi Donnarumma,Gianluigi_Donnarumma,Q20830808,2025-09-15,2025-09-21,all-access,user,daily,110665,455416,2026-06-06,audited
+ballon-dor-2025,Kylian Mbappé,Kylian_Mbappé,Q21621995,2025-09-15,2025-09-21,all-access,user,daily,92055,455416,2026-06-06,audited
+ballon-dor-2025,Lamine Yamal,Lamine_Yamal,Q113704154,2025-09-15,2025-09-21,all-access,user,daily,80081,455416,2026-06-06,audited
+ballon-dor-2025,Mohamed Salah,Mohamed_Salah,Q1354960,2025-09-15,2025-09-21,all-access,user,daily,61330,455416,2026-06-06,audited
+ballon-dor-2025,Cole Palmer,Cole_Palmer,Q99760796,2025-09-15,2025-09-21,all-access,user,daily,42617,455416,2026-06-06,audited
+ballon-dor-2025,Raphinha,Raphinha,Q28861547,2025-09-15,2025-09-21,all-access,user,daily,31596,455416,2026-06-06,audited
+ballon-dor-2025,Ousmane Dembélé,Ousmane_Dembélé,Q20851003,2025-09-15,2025-09-21,all-access,user,daily,19862,455416,2026-06-06,audited
+ballon-dor-2025,Achraf Hakimi,Achraf_Hakimi,Q26932598,2025-09-15,2025-09-21,all-access,user,daily,10507,455416,2026-06-06,audited
+ballon-dor-2025,Nuno Mendes,Nuno_Mendes_(footballer,_born_2002),Q96396963,2025-09-15,2025-09-21,all-access,user,daily,6639,455416,2026-06-06,audited
+ballon-dor-2025,Vitinha,Vitinha,Q66818509,2025-09-15,2025-09-21,all-access,user,daily,64,455416,2026-06-06,audited; v1 erratum used Vitinha_(footballer,_born_February_2000)=6809
+sum-three-cubes-2019,Modular arithmetic,Modular_arithmetic,,2019-10-01,2019-10-31,all-access,user,monthly,50939,150087,2026-06-06,audited
+sum-three-cubes-2019,42 (number),42_(number),,2019-10-01,2019-10-31,all-access,user,monthly,38025,150087,2026-06-06,audited
+sum-three-cubes-2019,Number theory,Number_theory,,2019-10-01,2019-10-31,all-access,user,monthly,31061,150087,2026-06-06,audited
+sum-three-cubes-2019,Diophantine equation,Diophantine_equation,,2019-10-01,2019-10-31,all-access,user,monthly,17014,150087,2026-06-06,audited
+sum-three-cubes-2019,33 (number),33_(number),,2019-10-01,2019-10-31,all-access,user,monthly,6875,150087,2026-06-06,audited
+sum-three-cubes-2019,Sums of three cubes,Sums_of_three_cubes,,2019-10-01,2019-10-31,all-access,user,monthly,6109,150087,2026-06-06,audited
+sum-three-cubes-2019,Andrew Booker,Andrew_Booker,,2019-10-01,2019-10-31,all-access,user,monthly,64,150087,2026-06-06,audited
+42-baseline-2019,42 (number),42_(number),,2019-06-01,2019-06-30,all-access,user,monthly,123597,,2026-06-06,control baseline

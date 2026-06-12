@@ -8,7 +8,7 @@
 
 **Bluesky:** https://bsky.app/profile/statswiki.bsky.social
 
-[Preprint](https://zenodo.org/records/20635352) · [10.5281/zenodo.20635351](https://doi.org/10.5281/zenodo.20635351)
+[Preprint (Wikirace)](https://zenodo.org/records/20635610) — *From Events to Encyclopedic Attention*
 
 MIT license — fork for [another language or project → ADAPT.md](ADAPT.md).
 
@@ -55,7 +55,7 @@ Each row: rank, Wikipedia link, QID, description, thumbnail (links to Wikimedia 
 
 ### Wikirace
 
-Compare **daily Wikipedia pageviews** for a group of articles over any date range.
+Compare **daily Wikipedia pageviews** for a group of articles over any date range. Methodology in the Wikirace preprint above.
 
 | View | URL | Content |
 |------|-----|---------|

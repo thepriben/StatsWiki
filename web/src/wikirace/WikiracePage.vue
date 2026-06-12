@@ -33,6 +33,8 @@ import {
   CHART_COLORS,
 } from './lib.js';
 
+const WIKIRACE_PREPRINT_URL = 'https://zenodo.org/records/20635610';
+
 const props = defineProps({
   route: { type: Object, required: true },
 });
@@ -379,6 +381,12 @@ applyBuilderWindow();
         </p>
       </div>
       <div class="wikirace-head-links">
+        <a
+          :href="WIKIRACE_PREPRINT_URL"
+          class="wikirace-home-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >Preprint</a>
         <a href="#" class="wikirace-home-link" @click.prevent="go('wikirace/help')">Help</a>
         <a v-if="!isHome" href="#" class="wikirace-home-link" @click.prevent="go('wikirace')">New race</a>
       </div>
