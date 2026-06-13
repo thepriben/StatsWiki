@@ -4,7 +4,7 @@
   "title": "BMO_Field",
   "description": "multisports venue in Toronto, Ontario",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BMO_Field_in_2016.png?width=64",
-  "total": 56863,
+  "total": 130366,
   "monthly": [
     {
       "period": "2016-11",
@@ -20,7 +20,7 @@
     },
     {
       "period": "2026-06",
-      "views": 9412
+      "views": 82915
     }
   ],
   "yearly": [
@@ -34,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 9412
+      "views": 82915
     }
   ]
 }

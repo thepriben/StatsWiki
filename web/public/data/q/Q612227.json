@@ -1,0 +1,28 @@
+{
+  "qid": "Q612227",
+  "label": "BC Place",
+  "title": "BC_Place",
+  "description": "stadium at Vancouver, British Columbia, Canada",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BC_Place_Opening_Day_2011-09-30.jpg?width=64",
+  "total": 22260,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 12481
+    },
+    {
+      "period": "2026-06",
+      "views": 9779
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12481
+    },
+    {
+      "period": "2026",
+      "views": 9779
+    }
+  ]
+}

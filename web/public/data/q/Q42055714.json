@@ -4,7 +4,7 @@
   "title": "Elena_Rybakina",
   "description": "Kazakhstani tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elena_Rybakina_%282025_DC_Open%29_07_%28cropped2%29.jpg?width=64",
-  "total": 4909932,
+  "total": 4929174,
   "monthly": [
     {
       "period": "2020-01",
@@ -141,6 +141,10 @@
     {
       "period": "2026-05",
       "views": 18747
+    },
+    {
+      "period": "2026-06",
+      "views": 19242
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 1661475
+      "views": 1680717
     }
   ]
 }

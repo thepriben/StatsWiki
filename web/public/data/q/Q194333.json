@@ -4,7 +4,7 @@
   "title": "Billy_Joel",
   "description": "American singer, songwriter, and pianist (born 1949)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Billy_Joel_Shankbone_NYC_2009.jpg?width=64",
-  "total": 5610633,
+  "total": 5624062,
   "monthly": [
     {
       "period": "2015-07",
@@ -281,6 +281,10 @@
     {
       "period": "2026-05",
       "views": 123004
+    },
+    {
+      "period": "2026-06",
+      "views": 13429
     }
   ],
   "yearly": [
@@ -330,7 +334,7 @@
     },
     {
       "period": "2026",
-      "views": 228684
+      "views": 242113
     }
   ]
 }

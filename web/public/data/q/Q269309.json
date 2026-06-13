@@ -4,7 +4,7 @@
   "title": "Talulah_Riley",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TalulahRileyAug09_%28cropped%29.jpg?width=64",
-  "total": 10813797,
+  "total": 10831931,
   "monthly": [
     {
       "period": "2015-09",
@@ -337,6 +337,10 @@
     {
       "period": "2026-05",
       "views": 9807
+    },
+    {
+      "period": "2026-06",
+      "views": 18134
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 218931
+      "views": 237065
     }
   ]
 }
