@@ -1,0 +1,36 @@
+{
+  "qid": "Q1631981",
+  "label": "John F. Kennedy Center for the Performing Arts",
+  "title": "Kennedy_Center",
+  "description": "performing arts center in Washington, D.C., United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KennedyCtr.jpg?width=64",
+  "total": 224472,
+  "monthly": [
+    {
+      "period": "2025-12",
+      "views": 123635
+    },
+    {
+      "period": "2026-02",
+      "views": 50026
+    },
+    {
+      "period": "2026-05",
+      "views": 26498
+    },
+    {
+      "period": "2026-06",
+      "views": 24313
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 123635
+    },
+    {
+      "period": "2026",
+      "views": 100837
+    }
+  ]
+}

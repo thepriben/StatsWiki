@@ -1,0 +1,116 @@
+{
+  "qid": "Q1543",
+  "label": "AC Milan",
+  "title": "AC_Milan",
+  "description": "football club in Milan, Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coreografia_Curva_Sud_Banditi.jpg?width=64",
+  "total": 588578,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 24911
+    },
+    {
+      "period": "2023-07",
+      "views": 26465
+    },
+    {
+      "period": "2023-08",
+      "views": 9735
+    },
+    {
+      "period": "2023-09",
+      "views": 63327
+    },
+    {
+      "period": "2023-10",
+      "views": 25500
+    },
+    {
+      "period": "2023-11",
+      "views": 13999
+    },
+    {
+      "period": "2023-12",
+      "views": 16989
+    },
+    {
+      "period": "2024-02",
+      "views": 10611
+    },
+    {
+      "period": "2024-04",
+      "views": 31663
+    },
+    {
+      "period": "2024-06",
+      "views": 10196
+    },
+    {
+      "period": "2024-08",
+      "views": 10209
+    },
+    {
+      "period": "2024-09",
+      "views": 32413
+    },
+    {
+      "period": "2024-11",
+      "views": 10293
+    },
+    {
+      "period": "2024-12",
+      "views": 12181
+    },
+    {
+      "period": "2025-01",
+      "views": 37148
+    },
+    {
+      "period": "2025-02",
+      "views": 87819
+    },
+    {
+      "period": "2025-05",
+      "views": 63154
+    },
+    {
+      "period": "2025-06",
+      "views": 20177
+    },
+    {
+      "period": "2025-08",
+      "views": 9536
+    },
+    {
+      "period": "2025-09",
+      "views": 21188
+    },
+    {
+      "period": "2026-05",
+      "views": 30000
+    },
+    {
+      "period": "2026-06",
+      "views": 21064
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 180926
+    },
+    {
+      "period": "2024",
+      "views": 117566
+    },
+    {
+      "period": "2025",
+      "views": 239022
+    },
+    {
+      "period": "2026",
+      "views": 51064
+    }
+  ]
+}

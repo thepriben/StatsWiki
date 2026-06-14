@@ -4,7 +4,7 @@
   "title": "Gordon_Ramsay",
   "description": "British chef, restaurateur, and television personality (born 1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gordon_Ramsay_colour_Allan_Warren.jpg?width=64",
-  "total": 20362976,
+  "total": 20373443,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-03",
       "views": 288085
+    },
+    {
+      "period": "2026-06",
+      "views": 10467
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 859646
+      "views": 870113
     }
   ]
 }

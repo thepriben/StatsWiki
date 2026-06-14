@@ -4,7 +4,7 @@
   "title": "Knives_Out",
   "description": "2019 film directed by Rian Johnson",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KnivesOutLogo.png?width=64",
-  "total": 11322341,
+  "total": 11334658,
   "monthly": [
     {
       "period": "2020-02",
@@ -225,6 +225,10 @@
     {
       "period": "2026-05",
       "views": 19277
+    },
+    {
+      "period": "2026-06",
+      "views": 12317
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 310667
+      "views": 322984
     }
   ]
 }
