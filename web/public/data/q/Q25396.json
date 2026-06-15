@@ -1,0 +1,64 @@
+{
+  "qid": "Q25396",
+  "label": "Bonaire",
+  "title": "Bonaire",
+  "description": "island in the Caribbean, part of the Netherlands",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crystal_Clear_waters_of_Bonaire_%2813256547653%29.jpg?width=64",
+  "total": 133494,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 12158
+    },
+    {
+      "period": "2016-12",
+      "views": 11836
+    },
+    {
+      "period": "2017-01",
+      "views": 18008
+    },
+    {
+      "period": "2017-02",
+      "views": 12985
+    },
+    {
+      "period": "2017-05",
+      "views": 11917
+    },
+    {
+      "period": "2017-08",
+      "views": 26436
+    },
+    {
+      "period": "2018-07",
+      "views": 14114
+    },
+    {
+      "period": "2018-08",
+      "views": 12876
+    },
+    {
+      "period": "2026-06",
+      "views": 13164
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 23994
+    },
+    {
+      "period": "2017",
+      "views": 69346
+    },
+    {
+      "period": "2018",
+      "views": 26990
+    },
+    {
+      "period": "2026",
+      "views": 13164
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "qid": "Q6463",
+  "label": "FC St. Pauli",
+  "title": "FC_St._Pauli",
+  "description": "sports club in Hamburg, Germany",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Millerntorstadion_Suedtribuene_by_night.jpeg?width=64",
+  "total": 50845,
+  "monthly": [
+    {
+      "period": "2024-05",
+      "views": 24488
+    },
+    {
+      "period": "2025-08",
+      "views": 8940
+    },
+    {
+      "period": "2026-06",
+      "views": 17417
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 24488
+    },
+    {
+      "period": "2025",
+      "views": 8940
+    },
+    {
+      "period": "2026",
+      "views": 17417
+    }
+  ]
+}

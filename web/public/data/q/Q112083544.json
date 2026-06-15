@@ -1,0 +1,48 @@
+{
+  "qid": "Q112083544",
+  "label": "2022 NBA Finals",
+  "title": "2022_NBA_Finals",
+  "description": "2022 edition of the NBA Finals",
+  "image": "",
+  "total": 328847,
+  "monthly": [
+    {
+      "period": "2022-05",
+      "views": 33402
+    },
+    {
+      "period": "2022-06",
+      "views": 226174
+    },
+    {
+      "period": "2023-05",
+      "views": 33211
+    },
+    {
+      "period": "2024-06",
+      "views": 18759
+    },
+    {
+      "period": "2026-06",
+      "views": 17301
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 259576
+    },
+    {
+      "period": "2023",
+      "views": 33211
+    },
+    {
+      "period": "2024",
+      "views": 18759
+    },
+    {
+      "period": "2026",
+      "views": 17301
+    }
+  ]
+}

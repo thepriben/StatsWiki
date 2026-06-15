@@ -1,0 +1,88 @@
+{
+  "qid": "Q1058864",
+  "label": "NRG Stadium",
+  "title": "NRG_Stadium",
+  "description": "American football and multipurpose stadium in Houston, Texas, USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reliantstadium.jpg?width=64",
+  "total": 674432,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 18684
+    },
+    {
+      "period": "2016-02",
+      "views": 13182
+    },
+    {
+      "period": "2016-04",
+      "views": 84875
+    },
+    {
+      "period": "2016-06",
+      "views": 16698
+    },
+    {
+      "period": "2017-01",
+      "views": 59617
+    },
+    {
+      "period": "2017-02",
+      "views": 281908
+    },
+    {
+      "period": "2019-09",
+      "views": 32191
+    },
+    {
+      "period": "2019-12",
+      "views": 9804
+    },
+    {
+      "period": "2020-01",
+      "views": 12995
+    },
+    {
+      "period": "2023-04",
+      "views": 27499
+    },
+    {
+      "period": "2024-01",
+      "views": 66659
+    },
+    {
+      "period": "2026-06",
+      "views": 50320
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 133439
+    },
+    {
+      "period": "2017",
+      "views": 341525
+    },
+    {
+      "period": "2019",
+      "views": 41995
+    },
+    {
+      "period": "2020",
+      "views": 12995
+    },
+    {
+      "period": "2023",
+      "views": 27499
+    },
+    {
+      "period": "2024",
+      "views": 66659
+    },
+    {
+      "period": "2026",
+      "views": 50320
+    }
+  ]
+}

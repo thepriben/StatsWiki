@@ -4,7 +4,7 @@
   "title": "Fred_Trump",
   "description": "American real estate developer; father of Donald Trump (1905–1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fred_Trump_in_the_1980s.jpg?width=64",
-  "total": 11522054,
+  "total": 11544387,
   "monthly": [
     {
       "period": "2015-07",
@@ -281,6 +281,10 @@
     {
       "period": "2026-04",
       "views": 157923
+    },
+    {
+      "period": "2026-06",
+      "views": 22333
     }
   ],
   "yearly": [
@@ -330,7 +334,7 @@
     },
     {
       "period": "2026",
-      "views": 884814
+      "views": 907147
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "qid": "Q2693",
+  "label": "Parma Calcio 1913",
+  "title": "Parma_Calcio_1913",
+  "description": "Italian professional football club based in Parma, Emilia-Romagna",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg?width=64",
+  "total": 88224,
+  "monthly": [
+    {
+      "period": "2018-05",
+      "views": 42708
+    },
+    {
+      "period": "2021-06",
+      "views": 19040
+    },
+    {
+      "period": "2026-06",
+      "views": 26476
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 42708
+    },
+    {
+      "period": "2021",
+      "views": 19040
+    },
+    {
+      "period": "2026",
+      "views": 26476
+    }
+  ]
+}

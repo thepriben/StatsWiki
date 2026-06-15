@@ -1,0 +1,40 @@
+{
+  "qid": "Q218883",
+  "label": "Urawa Red Diamonds",
+  "title": "Urawa_Red_Diamonds",
+  "description": "Japanese football club",
+  "image": "",
+  "total": 209483,
+  "monthly": [
+    {
+      "period": "2023-05",
+      "views": 14599
+    },
+    {
+      "period": "2023-12",
+      "views": 45426
+    },
+    {
+      "period": "2025-06",
+      "views": 136225
+    },
+    {
+      "period": "2026-06",
+      "views": 13233
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 60025
+    },
+    {
+      "period": "2025",
+      "views": 136225
+    },
+    {
+      "period": "2026",
+      "views": 13233
+    }
+  ]
+}

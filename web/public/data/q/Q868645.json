@@ -1,0 +1,76 @@
+{
+  "qid": "Q868645",
+  "label": "Comrades Marathon",
+  "title": "Comrades_Marathon",
+  "description": "ultramarathon road race between Durban and Pietermaritzburg",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Comrades_ultramarathon_route.png?width=64",
+  "total": 162656,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 22833
+    },
+    {
+      "period": "2017-06",
+      "views": 15733
+    },
+    {
+      "period": "2018-06",
+      "views": 17847
+    },
+    {
+      "period": "2019-06",
+      "views": 18310
+    },
+    {
+      "period": "2023-06",
+      "views": 27172
+    },
+    {
+      "period": "2024-06",
+      "views": 23466
+    },
+    {
+      "period": "2025-06",
+      "views": 26413
+    },
+    {
+      "period": "2026-06",
+      "views": 10882
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 22833
+    },
+    {
+      "period": "2017",
+      "views": 15733
+    },
+    {
+      "period": "2018",
+      "views": 17847
+    },
+    {
+      "period": "2019",
+      "views": 18310
+    },
+    {
+      "period": "2023",
+      "views": 27172
+    },
+    {
+      "period": "2024",
+      "views": 23466
+    },
+    {
+      "period": "2025",
+      "views": 26413
+    },
+    {
+      "period": "2026",
+      "views": 10882
+    }
+  ]
+}

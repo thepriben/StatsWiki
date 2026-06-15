@@ -4,7 +4,7 @@
   "title": "Giannis_Antetokounmpo",
   "description": "Greek basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giannis_Antetokounmpo_%2824845003687%29_%28cropped%29.jpg?width=64",
-  "total": 13760618,
+  "total": 13774379,
   "monthly": [
     {
       "period": "2016-03",
@@ -373,6 +373,10 @@
     {
       "period": "2026-05",
       "views": 29045
+    },
+    {
+      "period": "2026-06",
+      "views": 13761
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 136514
+      "views": 150275
     }
   ]
 }
