@@ -1,0 +1,76 @@
+{
+  "qid": "Q2641",
+  "label": "SSC Napoli",
+  "title": "SSC_Napoli",
+  "description": "Italian professional football club based in Naples",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_Napoli_2024_%28deep_blue_navy%29.svg?width=64",
+  "total": 301796,
+  "monthly": [
+    {
+      "period": "2023-08",
+      "views": 10744
+    },
+    {
+      "period": "2023-09",
+      "views": 34099
+    },
+    {
+      "period": "2023-11",
+      "views": 9953
+    },
+    {
+      "period": "2024-02",
+      "views": 21966
+    },
+    {
+      "period": "2024-03",
+      "views": 12178
+    },
+    {
+      "period": "2024-08",
+      "views": 39296
+    },
+    {
+      "period": "2024-09",
+      "views": 12067
+    },
+    {
+      "period": "2025-04",
+      "views": 9509
+    },
+    {
+      "period": "2025-05",
+      "views": 110678
+    },
+    {
+      "period": "2025-06",
+      "views": 9673
+    },
+    {
+      "period": "2025-09",
+      "views": 21138
+    },
+    {
+      "period": "2026-06",
+      "views": 10495
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 54796
+    },
+    {
+      "period": "2024",
+      "views": 85507
+    },
+    {
+      "period": "2025",
+      "views": 150998
+    },
+    {
+      "period": "2026",
+      "views": 10495
+    }
+  ]
+}

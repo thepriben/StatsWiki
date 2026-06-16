@@ -1,0 +1,64 @@
+{
+  "qid": "Q612736",
+  "label": "Lumen Field",
+  "title": "Lumen_Field",
+  "description": "multi-purpose stadium in Seattle, Washington, USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qwest_Field_North.jpg?width=64",
+  "total": 181871,
+  "monthly": [
+    {
+      "period": "2020-11",
+      "views": 14751
+    },
+    {
+      "period": "2021-10",
+      "views": 14000
+    },
+    {
+      "period": "2022-09",
+      "views": 18910
+    },
+    {
+      "period": "2022-12",
+      "views": 11693
+    },
+    {
+      "period": "2023-12",
+      "views": 16588
+    },
+    {
+      "period": "2026-01",
+      "views": 52255
+    },
+    {
+      "period": "2026-02",
+      "views": 11582
+    },
+    {
+      "period": "2026-06",
+      "views": 42092
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 14751
+    },
+    {
+      "period": "2021",
+      "views": 14000
+    },
+    {
+      "period": "2022",
+      "views": 30603
+    },
+    {
+      "period": "2023",
+      "views": 16588
+    },
+    {
+      "period": "2026",
+      "views": 105929
+    }
+  ]
+}

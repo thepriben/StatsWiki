@@ -1,0 +1,28 @@
+{
+  "qid": "Q221602",
+  "label": "AIK Fotboll",
+  "title": "AIK_Fotboll",
+  "description": "association football club in Solna, Sweden",
+  "image": "",
+  "total": 43672,
+  "monthly": [
+    {
+      "period": "2021-06",
+      "views": 28613
+    },
+    {
+      "period": "2026-06",
+      "views": 15059
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 28613
+    },
+    {
+      "period": "2026",
+      "views": 15059
+    }
+  ]
+}

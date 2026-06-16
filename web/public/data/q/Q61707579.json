@@ -4,7 +4,7 @@
   "title": "OnlyFans",
   "description": "British social media and content distribution platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OnlyFans_logo.svg?width=64",
-  "total": 21527028,
+  "total": 21536891,
   "monthly": [
     {
       "period": "2019-11",
@@ -281,6 +281,10 @@
     {
       "period": "2026-05",
       "views": 84602
+    },
+    {
+      "period": "2026-06",
+      "views": 9863
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 1601388
+      "views": 1611251
     }
   ]
 }

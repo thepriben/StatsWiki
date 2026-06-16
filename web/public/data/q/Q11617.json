@@ -4,7 +4,7 @@
   "title": "Aaliyah",
   "description": "American R&B singer (1979–2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaliyah-02.jpg?width=64",
-  "total": 14814360,
+  "total": 14824206,
   "monthly": [
     {
       "period": "2015-07",
@@ -385,6 +385,10 @@
     {
       "period": "2026-04",
       "views": 8965
+    },
+    {
+      "period": "2026-06",
+      "views": 9846
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 37709
+      "views": 47555
     }
   ]
 }

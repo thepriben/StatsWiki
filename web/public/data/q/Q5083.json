@@ -1,0 +1,56 @@
+{
+  "qid": "Q5083",
+  "label": "Seattle",
+  "title": "Seattle",
+  "description": "city in and county seat of King County, State of Washington, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Space_Needle002.jpg?width=64",
+  "total": 130360,
+  "monthly": [
+    {
+      "period": "2019-03",
+      "views": 11297
+    },
+    {
+      "period": "2019-07",
+      "views": 12592
+    },
+    {
+      "period": "2019-12",
+      "views": 11324
+    },
+    {
+      "period": "2020-06",
+      "views": 41996
+    },
+    {
+      "period": "2026-01",
+      "views": 11339
+    },
+    {
+      "period": "2026-02",
+      "views": 15436
+    },
+    {
+      "period": "2026-04",
+      "views": 13634
+    },
+    {
+      "period": "2026-06",
+      "views": 12742
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 35213
+    },
+    {
+      "period": "2020",
+      "views": 41996
+    },
+    {
+      "period": "2026",
+      "views": 53151
+    }
+  ]
+}

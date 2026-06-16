@@ -1,0 +1,56 @@
+{
+  "qid": "Q830968",
+  "label": "Hartford Whalers",
+  "title": "Hartford_Whalers",
+  "description": "professional ice hockey club in Hartford, Connecticut, USA between 1972–1997",
+  "image": "",
+  "total": 74605,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 9700
+    },
+    {
+      "period": "2018-12",
+      "views": 11412
+    },
+    {
+      "period": "2019-03",
+      "views": 11439
+    },
+    {
+      "period": "2025-05",
+      "views": 16705
+    },
+    {
+      "period": "2025-10",
+      "views": 11749
+    },
+    {
+      "period": "2026-06",
+      "views": 13600
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9700
+    },
+    {
+      "period": "2018",
+      "views": 11412
+    },
+    {
+      "period": "2019",
+      "views": 11439
+    },
+    {
+      "period": "2025",
+      "views": 28454
+    },
+    {
+      "period": "2026",
+      "views": 13600
+    }
+  ]
+}

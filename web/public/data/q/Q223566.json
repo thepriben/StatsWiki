@@ -1,0 +1,56 @@
+{
+  "qid": "Q223566",
+  "label": "Al Ahly SC",
+  "title": "Al_Ahly_SC",
+  "description": "association football club in Cairo, Egypt",
+  "image": "",
+  "total": 205115,
+  "monthly": [
+    {
+      "period": "2021-02",
+      "views": 18166
+    },
+    {
+      "period": "2021-07",
+      "views": 27252
+    },
+    {
+      "period": "2023-02",
+      "views": 22790
+    },
+    {
+      "period": "2023-06",
+      "views": 15575
+    },
+    {
+      "period": "2023-12",
+      "views": 33291
+    },
+    {
+      "period": "2025-06",
+      "views": 71110
+    },
+    {
+      "period": "2026-06",
+      "views": 16931
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 45418
+    },
+    {
+      "period": "2023",
+      "views": 71656
+    },
+    {
+      "period": "2025",
+      "views": 71110
+    },
+    {
+      "period": "2026",
+      "views": 16931
+    }
+  ]
+}
