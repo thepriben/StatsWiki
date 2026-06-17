@@ -1,0 +1,100 @@
+{
+  "qid": "Q34221",
+  "label": "Niagara Falls",
+  "title": "Niagara_Falls",
+  "description": "three waterfalls that straddle the international border between Canada and the United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Niagara_Falls_USA_Canada_from_Skylon_Tower_on_2002-05-28%2C_full_size.jpg?width=64",
+  "total": 219077,
+  "monthly": [
+    {
+      "period": "2017-12",
+      "views": 11364
+    },
+    {
+      "period": "2018-01",
+      "views": 21159
+    },
+    {
+      "period": "2019-11",
+      "views": 22943
+    },
+    {
+      "period": "2019-12",
+      "views": 14399
+    },
+    {
+      "period": "2020-11",
+      "views": 23098
+    },
+    {
+      "period": "2020-12",
+      "views": 18888
+    },
+    {
+      "period": "2021-12",
+      "views": 16601
+    },
+    {
+      "period": "2022-12",
+      "views": 16222
+    },
+    {
+      "period": "2023-12",
+      "views": 19524
+    },
+    {
+      "period": "2024-12",
+      "views": 20359
+    },
+    {
+      "period": "2025-12",
+      "views": 21443
+    },
+    {
+      "period": "2026-06",
+      "views": 13077
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11364
+    },
+    {
+      "period": "2018",
+      "views": 21159
+    },
+    {
+      "period": "2019",
+      "views": 37342
+    },
+    {
+      "period": "2020",
+      "views": 41986
+    },
+    {
+      "period": "2021",
+      "views": 16601
+    },
+    {
+      "period": "2022",
+      "views": 16222
+    },
+    {
+      "period": "2023",
+      "views": 19524
+    },
+    {
+      "period": "2024",
+      "views": 20359
+    },
+    {
+      "period": "2025",
+      "views": 21443
+    },
+    {
+      "period": "2026",
+      "views": 13077
+    }
+  ]
+}

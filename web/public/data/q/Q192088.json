@@ -1,0 +1,48 @@
+{
+  "qid": "Q192088",
+  "label": "Eton College",
+  "title": "Eton_College",
+  "description": "school in Windsor and Maidenhead, UK",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eton_College_Quadrangle.png?width=64",
+  "total": 63401,
+  "monthly": [
+    {
+      "period": "2018-05",
+      "views": 11552
+    },
+    {
+      "period": "2019-07",
+      "views": 11384
+    },
+    {
+      "period": "2022-07",
+      "views": 9842
+    },
+    {
+      "period": "2022-09",
+      "views": 12784
+    },
+    {
+      "period": "2026-06",
+      "views": 17839
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 11552
+    },
+    {
+      "period": "2019",
+      "views": 11384
+    },
+    {
+      "period": "2022",
+      "views": 22626
+    },
+    {
+      "period": "2026",
+      "views": 17839
+    }
+  ]
+}

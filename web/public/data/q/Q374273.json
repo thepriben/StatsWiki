@@ -4,7 +4,7 @@
   "title": "Armie_Hammer",
   "description": "American actor (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Armie_Hammer_Final_Portrait_Red_Carpet_Berlinale_2017.jpg?width=64",
-  "total": 14243133,
+  "total": 14257683,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-05",
       "views": 30746
+    },
+    {
+      "period": "2026-06",
+      "views": 14550
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 57513
+      "views": 72063
     }
   ]
 }

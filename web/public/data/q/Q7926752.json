@@ -1,0 +1,52 @@
+{
+  "qid": "Q7926752",
+  "label": "Victoria Hall stampede",
+  "title": "Victoria_Hall_disaster",
+  "description": "stampede that occurred in Sunderland, England",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoria_Hall_crush.jpg?width=64",
+  "total": 105275,
+  "monthly": [
+    {
+      "period": "2020-01",
+      "views": 18780
+    },
+    {
+      "period": "2021-06",
+      "views": 34487
+    },
+    {
+      "period": "2021-11",
+      "views": 9765
+    },
+    {
+      "period": "2022-10",
+      "views": 13458
+    },
+    {
+      "period": "2026-04",
+      "views": 9873
+    },
+    {
+      "period": "2026-06",
+      "views": 18912
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 18780
+    },
+    {
+      "period": "2021",
+      "views": 44252
+    },
+    {
+      "period": "2022",
+      "views": 13458
+    },
+    {
+      "period": "2026",
+      "views": 28785
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Robert_Lewandowski",
   "description": "Polish association football player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Lewandowski_2018%2C_JAP-POL_%28cropped%29.jpg?width=64",
-  "total": 9255299,
+  "total": 9264623,
   "monthly": [
     {
       "period": "2015-07",
@@ -361,6 +361,10 @@
     {
       "period": "2026-05",
       "views": 335740
+    },
+    {
+      "period": "2026-06",
+      "views": 9324
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 504942
+      "views": 514266
     }
   ]
 }

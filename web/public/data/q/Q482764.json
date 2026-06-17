@@ -4,7 +4,7 @@
   "title": "Al_Nassr_FC",
   "description": "Saudi Arabian association football club",
   "image": "",
-  "total": 10358885,
+  "total": 10524786,
   "monthly": [
     {
       "period": "2022-11",
@@ -113,6 +113,30 @@
     {
       "period": "2025-05",
       "views": 10871
+    },
+    {
+      "period": "2025-07",
+      "views": 8786
+    },
+    {
+      "period": "2025-08",
+      "views": 23192
+    },
+    {
+      "period": "2026-02",
+      "views": 10170
+    },
+    {
+      "period": "2026-04",
+      "views": 9685
+    },
+    {
+      "period": "2026-05",
+      "views": 102862
+    },
+    {
+      "period": "2026-06",
+      "views": 11206
     }
   ],
   "yearly": [
@@ -130,7 +154,11 @@
     },
     {
       "period": "2025",
-      "views": 66658
+      "views": 98636
+    },
+    {
+      "period": "2026",
+      "views": 133923
     }
   ]
 }
