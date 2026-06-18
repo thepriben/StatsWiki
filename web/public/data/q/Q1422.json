@@ -1,0 +1,96 @@
+{
+  "qid": "Q1422",
+  "label": "Juventus FC",
+  "title": "Juventus_FC",
+  "description": "association football club in Turin, Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg?width=64",
+  "total": 429240,
+  "monthly": [
+    {
+      "period": "2023-07",
+      "views": 10500
+    },
+    {
+      "period": "2023-08",
+      "views": 24956
+    },
+    {
+      "period": "2023-09",
+      "views": 11421
+    },
+    {
+      "period": "2024-01",
+      "views": 25530
+    },
+    {
+      "period": "2024-02",
+      "views": 11545
+    },
+    {
+      "period": "2024-04",
+      "views": 18279
+    },
+    {
+      "period": "2024-05",
+      "views": 19343
+    },
+    {
+      "period": "2024-08",
+      "views": 108647
+    },
+    {
+      "period": "2024-09",
+      "views": 23988
+    },
+    {
+      "period": "2024-12",
+      "views": 22089
+    },
+    {
+      "period": "2025-05",
+      "views": 24472
+    },
+    {
+      "period": "2025-06",
+      "views": 40245
+    },
+    {
+      "period": "2025-07",
+      "views": 13854
+    },
+    {
+      "period": "2025-09",
+      "views": 20606
+    },
+    {
+      "period": "2025-10",
+      "views": 9899
+    },
+    {
+      "period": "2026-02",
+      "views": 34145
+    },
+    {
+      "period": "2026-06",
+      "views": 9721
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 46877
+    },
+    {
+      "period": "2024",
+      "views": 229421
+    },
+    {
+      "period": "2025",
+      "views": 109076
+    },
+    {
+      "period": "2026",
+      "views": 43866
+    }
+  ]
+}

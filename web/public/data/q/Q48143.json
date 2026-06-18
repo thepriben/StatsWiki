@@ -1,0 +1,84 @@
+{
+  "qid": "Q48143",
+  "label": "meningitis",
+  "title": "Meningitis",
+  "description": "inflammation of the membranes around the brain and spinal cord",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meninges-en.svg?width=64",
+  "total": 584807,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 64461
+    },
+    {
+      "period": "2016-11",
+      "views": 10769
+    },
+    {
+      "period": "2017-04",
+      "views": 43785
+    },
+    {
+      "period": "2017-10",
+      "views": 17376
+    },
+    {
+      "period": "2018-05",
+      "views": 16973
+    },
+    {
+      "period": "2020-04",
+      "views": 30303
+    },
+    {
+      "period": "2023-01",
+      "views": 160074
+    },
+    {
+      "period": "2023-09",
+      "views": 40044
+    },
+    {
+      "period": "2025-12",
+      "views": 10072
+    },
+    {
+      "period": "2026-03",
+      "views": 95143
+    },
+    {
+      "period": "2026-06",
+      "views": 95807
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 75230
+    },
+    {
+      "period": "2017",
+      "views": 61161
+    },
+    {
+      "period": "2018",
+      "views": 16973
+    },
+    {
+      "period": "2020",
+      "views": 30303
+    },
+    {
+      "period": "2023",
+      "views": 200118
+    },
+    {
+      "period": "2025",
+      "views": 10072
+    },
+    {
+      "period": "2026",
+      "views": 190950
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "qid": "Q6500001",
+  "label": "Austin Powers",
+  "title": "Austin_Powers",
+  "description": "film series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Austin_Powers_logo.png?width=64",
+  "total": 42030,
+  "monthly": [
+    {
+      "period": "2018-04",
+      "views": 20686
+    },
+    {
+      "period": "2022-02",
+      "views": 12045
+    },
+    {
+      "period": "2026-06",
+      "views": 9299
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 20686
+    },
+    {
+      "period": "2022",
+      "views": 12045
+    },
+    {
+      "period": "2026",
+      "views": 9299
+    }
+  ]
+}

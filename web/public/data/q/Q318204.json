@@ -4,7 +4,7 @@
   "title": "Floyd_Mayweather,_Jr.",
   "description": "American boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Floyd_Mayweather%2C_Jr._at_DeWalt_event_%285888721735%29_%28rotated_4%29.jpg?width=64",
-  "total": 21052499,
+  "total": 21062506,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-02",
       "views": 75728
+    },
+    {
+      "period": "2026-06",
+      "views": 10007
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 75728
+      "views": 85735
     }
   ]
 }

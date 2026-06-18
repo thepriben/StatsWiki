@@ -1,0 +1,44 @@
+{
+  "qid": "Q36092",
+  "label": "Lilo & Stitch",
+  "title": "Lilo_&_Stitch",
+  "description": "2002 animated film directed by Chris Sanders and Dean DeBlois",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Lilo_%26_Stitch.svg?width=64",
+  "total": 945507,
+  "monthly": [
+    {
+      "period": "2024-08",
+      "views": 13430
+    },
+    {
+      "period": "2025-03",
+      "views": 53720
+    },
+    {
+      "period": "2025-05",
+      "views": 518481
+    },
+    {
+      "period": "2025-06",
+      "views": 323055
+    },
+    {
+      "period": "2026-06",
+      "views": 36821
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 13430
+    },
+    {
+      "period": "2025",
+      "views": 895256
+    },
+    {
+      "period": "2026",
+      "views": 36821
+    }
+  ]
+}

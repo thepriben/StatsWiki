@@ -1,0 +1,44 @@
+{
+  "qid": "Q5384006",
+  "label": "Epsom Riot",
+  "title": "Epsom_riot",
+  "description": "riot in Surrey",
+  "image": "",
+  "total": 110344,
+  "monthly": [
+    {
+      "period": "2023-08",
+      "views": 69662
+    },
+    {
+      "period": "2024-06",
+      "views": 15953
+    },
+    {
+      "period": "2025-06",
+      "views": 13233
+    },
+    {
+      "period": "2026-06",
+      "views": 11496
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 69662
+    },
+    {
+      "period": "2024",
+      "views": 15953
+    },
+    {
+      "period": "2025",
+      "views": 13233
+    },
+    {
+      "period": "2026",
+      "views": 11496
+    }
+  ]
+}

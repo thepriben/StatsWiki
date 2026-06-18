@@ -1,0 +1,40 @@
+{
+  "qid": "Q25341",
+  "label": "passerines",
+  "title": "Passerine",
+  "description": "order of birds",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pardalotus_with_nesting_material.jpg?width=64",
+  "total": 122139,
+  "monthly": [
+    {
+      "period": "2020-07",
+      "views": 14296
+    },
+    {
+      "period": "2026-03",
+      "views": 38481
+    },
+    {
+      "period": "2026-04",
+      "views": 39979
+    },
+    {
+      "period": "2026-05",
+      "views": 18033
+    },
+    {
+      "period": "2026-06",
+      "views": 11350
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 14296
+    },
+    {
+      "period": "2026",
+      "views": 107843
+    }
+  ]
+}
