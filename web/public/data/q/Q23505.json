@@ -4,7 +4,7 @@
   "title": "George_H._W._Bush",
   "description": "president of the United States from 1989 to 1993 (1924-2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg?width=64",
-  "total": 32331373,
+  "total": 32340331,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-05",
       "views": 16309
+    },
+    {
+      "period": "2026-06",
+      "views": 8958
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 1140477
+      "views": 1149435
     }
   ]
 }

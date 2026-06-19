@@ -1,0 +1,44 @@
+{
+  "qid": "Q859050",
+  "label": "Big Love",
+  "title": "Big_Love",
+  "description": "American television series",
+  "image": "",
+  "total": 138937,
+  "monthly": [
+    {
+      "period": "2017-02",
+      "views": 50410
+    },
+    {
+      "period": "2023-07",
+      "views": 25392
+    },
+    {
+      "period": "2025-06",
+      "views": 52428
+    },
+    {
+      "period": "2026-06",
+      "views": 10707
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 50410
+    },
+    {
+      "period": "2023",
+      "views": 25392
+    },
+    {
+      "period": "2025",
+      "views": 52428
+    },
+    {
+      "period": "2026",
+      "views": 10707
+    }
+  ]
+}

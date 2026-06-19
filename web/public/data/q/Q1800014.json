@@ -1,0 +1,52 @@
+{
+  "qid": "Q1800014",
+  "label": "Phoebus cartel",
+  "title": "Phoebus_cartel",
+  "description": "cartel to control the manufacture and sale of incandescent light bulbs",
+  "image": "",
+  "total": 376658,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 299297
+    },
+    {
+      "period": "2018-07",
+      "views": 10816
+    },
+    {
+      "period": "2019-11",
+      "views": 30666
+    },
+    {
+      "period": "2021-04",
+      "views": 27385
+    },
+    {
+      "period": "2026-06",
+      "views": 8494
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 299297
+    },
+    {
+      "period": "2018",
+      "views": 10816
+    },
+    {
+      "period": "2019",
+      "views": 30666
+    },
+    {
+      "period": "2021",
+      "views": 27385
+    },
+    {
+      "period": "2026",
+      "views": 8494
+    }
+  ]
+}

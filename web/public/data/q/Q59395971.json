@@ -4,7 +4,7 @@
   "title": "Lilo_&_Stitch_(2025_film)",
   "description": "2025 film directed by Dean Fleischer Camp",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lilo_%26_Stitch_%282025%29_logo.svg?width=64",
-  "total": 5402643,
+  "total": 5411486,
   "monthly": [
     {
       "period": "2024-08",
@@ -45,6 +45,10 @@
     {
       "period": "2025-09",
       "views": 219730
+    },
+    {
+      "period": "2026-06",
+      "views": 8843
     }
   ],
   "yearly": [
@@ -55,6 +59,10 @@
     {
       "period": "2025",
       "views": 5362525
+    },
+    {
+      "period": "2026",
+      "views": 8843
     }
   ]
 }

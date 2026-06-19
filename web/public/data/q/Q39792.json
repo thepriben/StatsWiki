@@ -4,7 +4,7 @@
   "title": "Jack_Nicholson",
   "description": "American actor and filmmaker (born 1937)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Nicholson_2001.jpg?width=64",
-  "total": 12967978,
+  "total": 12977574,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-05",
       "views": 28428
+    },
+    {
+      "period": "2026-06",
+      "views": 9596
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 494686
+      "views": 504282
     }
   ]
 }

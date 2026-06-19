@@ -4,7 +4,7 @@
   "title": "Septic_shock",
   "description": "medical condition defined as sepsis that has circulatory, cellular and metabolic abnormalities, is associated with clinical severity and greater risk of dying.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sepsis_%26_Choc_septique.pdf?width=64",
-  "total": 412504,
+  "total": 432435,
   "monthly": [
     {
       "period": "2016-06",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-06",
-      "views": 14590
+      "views": 34521
     }
   ],
   "yearly": [
@@ -30,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 14590
+      "views": 34521
     }
   ]
 }

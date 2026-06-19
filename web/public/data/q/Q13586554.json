@@ -4,17 +4,25 @@
   "title": "Lilo_Pelekai",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 11817,
+  "total": 89190,
   "monthly": [
     {
+      "period": "2025-05",
+      "views": 66693
+    },
+    {
       "period": "2026-06",
-      "views": 11817
+      "views": 22497
     }
   ],
   "yearly": [
     {
+      "period": "2025",
+      "views": 66693
+    },
+    {
       "period": "2026",
-      "views": 11817
+      "views": 22497
     }
   ]
 }

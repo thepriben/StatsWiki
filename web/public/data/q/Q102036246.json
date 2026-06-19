@@ -1,0 +1,64 @@
+{
+  "qid": "Q102036246",
+  "label": "Drishyam 2",
+  "title": "Drishyam_2",
+  "description": "2021 film directed by Jeethu Joseph",
+  "image": "",
+  "total": 1273330,
+  "monthly": [
+    {
+      "period": "2021-02",
+      "views": 595106
+    },
+    {
+      "period": "2021-03",
+      "views": 154055
+    },
+    {
+      "period": "2021-05",
+      "views": 13743
+    },
+    {
+      "period": "2021-11",
+      "views": 24235
+    },
+    {
+      "period": "2022-09",
+      "views": 21343
+    },
+    {
+      "period": "2022-10",
+      "views": 75529
+    },
+    {
+      "period": "2022-11",
+      "views": 299736
+    },
+    {
+      "period": "2022-12",
+      "views": 12150
+    },
+    {
+      "period": "2026-05",
+      "views": 68091
+    },
+    {
+      "period": "2026-06",
+      "views": 9342
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 787139
+    },
+    {
+      "period": "2022",
+      "views": 408758
+    },
+    {
+      "period": "2026",
+      "views": 77433
+    }
+  ]
+}

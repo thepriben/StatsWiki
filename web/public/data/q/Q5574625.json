@@ -1,0 +1,48 @@
+{
+  "qid": "Q5574625",
+  "label": "GoFundMe",
+  "title": "GoFundMe",
+  "description": "crowdfunding platform",
+  "image": "",
+  "total": 182933,
+  "monthly": [
+    {
+      "period": "2022-02",
+      "views": 133301
+    },
+    {
+      "period": "2023-01",
+      "views": 19211
+    },
+    {
+      "period": "2025-07",
+      "views": 8446
+    },
+    {
+      "period": "2025-09",
+      "views": 8982
+    },
+    {
+      "period": "2026-06",
+      "views": 12993
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 133301
+    },
+    {
+      "period": "2023",
+      "views": 19211
+    },
+    {
+      "period": "2025",
+      "views": 17428
+    },
+    {
+      "period": "2026",
+      "views": 12993
+    }
+  ]
+}
