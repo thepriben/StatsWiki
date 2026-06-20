@@ -4,7 +4,7 @@
   "title": "Midsommar_(film)",
   "description": "2019 Swedish-American film directed by Ari Aster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midsommar_%28film%29_Logo.png?width=64",
-  "total": 9673867,
+  "total": 11718471,
   "monthly": [
     {
       "period": "2019-02",
@@ -97,6 +97,122 @@
     {
       "period": "2021-03",
       "views": 72997
+    },
+    {
+      "period": "2021-04",
+      "views": 40228
+    },
+    {
+      "period": "2021-06",
+      "views": 173706
+    },
+    {
+      "period": "2021-07",
+      "views": 456795
+    },
+    {
+      "period": "2021-08",
+      "views": 307584
+    },
+    {
+      "period": "2021-09",
+      "views": 63054
+    },
+    {
+      "period": "2021-10",
+      "views": 128377
+    },
+    {
+      "period": "2021-11",
+      "views": 15464
+    },
+    {
+      "period": "2022-04",
+      "views": 10831
+    },
+    {
+      "period": "2022-05",
+      "views": 10030
+    },
+    {
+      "period": "2022-06",
+      "views": 112030
+    },
+    {
+      "period": "2022-07",
+      "views": 19794
+    },
+    {
+      "period": "2022-08",
+      "views": 64506
+    },
+    {
+      "period": "2022-09",
+      "views": 50981
+    },
+    {
+      "period": "2022-10",
+      "views": 98779
+    },
+    {
+      "period": "2023-02",
+      "views": 14536
+    },
+    {
+      "period": "2023-04",
+      "views": 38833
+    },
+    {
+      "period": "2023-06",
+      "views": 35955
+    },
+    {
+      "period": "2023-07",
+      "views": 10263
+    },
+    {
+      "period": "2023-08",
+      "views": 37150
+    },
+    {
+      "period": "2023-10",
+      "views": 21668
+    },
+    {
+      "period": "2024-02",
+      "views": 91746
+    },
+    {
+      "period": "2024-06",
+      "views": 75660
+    },
+    {
+      "period": "2024-10",
+      "views": 11365
+    },
+    {
+      "period": "2024-11",
+      "views": 9308
+    },
+    {
+      "period": "2025-01",
+      "views": 71275
+    },
+    {
+      "period": "2025-06",
+      "views": 45756
+    },
+    {
+      "period": "2025-10",
+      "views": 9375
+    },
+    {
+      "period": "2025-11",
+      "views": 10673
+    },
+    {
+      "period": "2026-06",
+      "views": 8882
     }
   ],
   "yearly": [
@@ -110,7 +226,27 @@
     },
     {
       "period": "2021",
-      "views": 114214
+      "views": 1299422
+    },
+    {
+      "period": "2022",
+      "views": 366951
+    },
+    {
+      "period": "2023",
+      "views": 158405
+    },
+    {
+      "period": "2024",
+      "views": 188079
+    },
+    {
+      "period": "2025",
+      "views": 137079
+    },
+    {
+      "period": "2026",
+      "views": 8882
     }
   ]
 }

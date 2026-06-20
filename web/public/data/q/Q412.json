@@ -1,0 +1,36 @@
+{
+  "qid": "Q412",
+  "label": "Pioneer plaque",
+  "title": "Pioneer_plaque",
+  "description": "plaque attached to the Pioneer 10 and Pioneer 11 spacecraft in case extraterrestrial life finds them",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GPN-2000-001621-x.jpg?width=64",
+  "total": 221579,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 140391
+    },
+    {
+      "period": "2024-04",
+      "views": 69953
+    },
+    {
+      "period": "2026-06",
+      "views": 11235
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 140391
+    },
+    {
+      "period": "2024",
+      "views": 69953
+    },
+    {
+      "period": "2026",
+      "views": 11235
+    }
+  ]
+}

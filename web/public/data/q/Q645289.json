@@ -1,0 +1,40 @@
+{
+  "qid": "Q645289",
+  "label": "VC-25",
+  "title": "Boeing_VC-25",
+  "description": "presidential transport aircraft by Boeing",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Air_Force_One_over_Mt._Rushmore.jpg?width=64",
+  "total": 66491,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 25729
+    },
+    {
+      "period": "2025-05",
+      "views": 20599
+    },
+    {
+      "period": "2026-01",
+      "views": 9687
+    },
+    {
+      "period": "2026-06",
+      "views": 10476
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 25729
+    },
+    {
+      "period": "2025",
+      "views": 20599
+    },
+    {
+      "period": "2026",
+      "views": 20163
+    }
+  ]
+}

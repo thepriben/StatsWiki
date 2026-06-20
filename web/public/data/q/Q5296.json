@@ -4,7 +4,7 @@
   "title": "Main_Page",
   "description": "main page of a Wikimedia project",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Main_Page.png?width=64",
-  "total": 40746233631,
+  "total": 40753255310,
   "monthly": [
     {
       "period": "2015-07",
@@ -532,7 +532,7 @@
     },
     {
       "period": "2026-06",
-      "views": 134163670
+      "views": 141185349
     }
   ],
   "yearly": [
@@ -582,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1196995095
+      "views": 1204016774
     }
   ]
 }

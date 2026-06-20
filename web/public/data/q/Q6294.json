@@ -4,7 +4,7 @@
   "title": "Hillary_Clinton",
   "description": "American politician and diplomat (born 1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg?width=64",
-  "total": 24432260,
+  "total": 24440980,
   "monthly": [
     {
       "period": "2015-07",
@@ -305,6 +305,10 @@
     {
       "period": "2026-03",
       "views": 176724
+    },
+    {
+      "period": "2026-06",
+      "views": 8720
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 408783
+      "views": 417503
     }
   ]
 }

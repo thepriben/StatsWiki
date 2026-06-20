@@ -4,7 +4,7 @@
   "title": "Rita_Ora",
   "description": "English-Albanian singer and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver_Mark_-_Rita_Ora%2C_Berlin_2018.jpg?width=64",
-  "total": 8204739,
+  "total": 8215074,
   "monthly": [
     {
       "period": "2015-07",
@@ -373,6 +373,10 @@
     {
       "period": "2026-04",
       "views": 9762
+    },
+    {
+      "period": "2026-06",
+      "views": 10335
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 100986
+      "views": 111321
     }
   ]
 }

@@ -1,0 +1,108 @@
+{
+  "qid": "Q7603898",
+  "label": "summer solstice",
+  "title": "Summer_solstice",
+  "description": "astronomical phenomenon that occurs in June in Northern Hemisphere and in December in Southern Hemisphere",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Summer_Solstice_Sunrise_over_Stonehenge_2005.jpg?width=64",
+  "total": 1707271,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 94610
+    },
+    {
+      "period": "2017-06",
+      "views": 199376
+    },
+    {
+      "period": "2017-12",
+      "views": 20924
+    },
+    {
+      "period": "2018-06",
+      "views": 270617
+    },
+    {
+      "period": "2018-12",
+      "views": 44105
+    },
+    {
+      "period": "2019-06",
+      "views": 140406
+    },
+    {
+      "period": "2020-06",
+      "views": 193606
+    },
+    {
+      "period": "2021-06",
+      "views": 117980
+    },
+    {
+      "period": "2022-06",
+      "views": 131025
+    },
+    {
+      "period": "2023-06",
+      "views": 80039
+    },
+    {
+      "period": "2024-06",
+      "views": 231650
+    },
+    {
+      "period": "2025-06",
+      "views": 171721
+    },
+    {
+      "period": "2026-06",
+      "views": 11212
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 94610
+    },
+    {
+      "period": "2017",
+      "views": 220300
+    },
+    {
+      "period": "2018",
+      "views": 314722
+    },
+    {
+      "period": "2019",
+      "views": 140406
+    },
+    {
+      "period": "2020",
+      "views": 193606
+    },
+    {
+      "period": "2021",
+      "views": 117980
+    },
+    {
+      "period": "2022",
+      "views": 131025
+    },
+    {
+      "period": "2023",
+      "views": 80039
+    },
+    {
+      "period": "2024",
+      "views": 231650
+    },
+    {
+      "period": "2025",
+      "views": 171721
+    },
+    {
+      "period": "2026",
+      "views": 11212
+    }
+  ]
+}
