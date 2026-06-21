@@ -1,0 +1,28 @@
+{
+  "qid": "Q1515",
+  "label": "Abidjan",
+  "title": "Abidjan",
+  "description": "major city and economic capital of Côte d'Ivoire",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Plateau_2010%2C_Abidjan.jpg?width=64",
+  "total": 29684,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 18278
+    },
+    {
+      "period": "2026-06",
+      "views": 11406
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 18278
+    },
+    {
+      "period": "2026",
+      "views": 11406
+    }
+  ]
+}

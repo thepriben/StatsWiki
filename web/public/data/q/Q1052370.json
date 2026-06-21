@@ -1,0 +1,40 @@
+{
+  "qid": "Q1052370",
+  "label": "Lincoln Financial Field",
+  "title": "Lincoln_Financial_Field",
+  "description": "American football stadium in Philadelphia, Pennsylvania, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Philly_%2845%29.JPG?width=64",
+  "total": 42275,
+  "monthly": [
+    {
+      "period": "2018-01",
+      "views": 13631
+    },
+    {
+      "period": "2018-12",
+      "views": 9569
+    },
+    {
+      "period": "2019-12",
+      "views": 10505
+    },
+    {
+      "period": "2026-06",
+      "views": 8570
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 23200
+    },
+    {
+      "period": "2019",
+      "views": 10505
+    },
+    {
+      "period": "2026",
+      "views": 8570
+    }
+  ]
+}
