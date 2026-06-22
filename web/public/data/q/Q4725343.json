@@ -4,7 +4,7 @@
   "title": "Alia_Bhatt",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alia_Bhatt_attends_at_the_2026_Cannes_Film_Festival_%28cropped%29_%28cropped%29.jpg?width=64",
-  "total": 37957011,
+  "total": 37968013,
   "monthly": [
     {
       "period": "2015-07",
@@ -405,6 +405,10 @@
     {
       "period": "2025-03",
       "views": 283641
+    },
+    {
+      "period": "2026-06",
+      "views": 11002
     }
   ],
   "yearly": [
@@ -451,6 +455,10 @@
     {
       "period": "2025",
       "views": 1572305
+    },
+    {
+      "period": "2026",
+      "views": 11002
     }
   ]
 }

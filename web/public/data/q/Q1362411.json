@@ -1,0 +1,28 @@
+{
+  "qid": "Q1362411",
+  "label": "USL Championship",
+  "title": "USL_Championship",
+  "description": "professional soccer league in the USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USL_Championship_vert_dark_logo.svg?width=64",
+  "total": 23716,
+  "monthly": [
+    {
+      "period": "2025-03",
+      "views": 10050
+    },
+    {
+      "period": "2026-06",
+      "views": 13666
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 10050
+    },
+    {
+      "period": "2026",
+      "views": 13666
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Stonehenge",
   "description": "Neolithic henge monument in Amesbury, Wiltshire, England, UK",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge_Total.jpg?width=64",
-  "total": 1052868,
+  "total": 1063098,
   "monthly": [
     {
       "period": "2015-09",
@@ -144,7 +144,7 @@
     },
     {
       "period": "2026-06",
-      "views": 9596
+      "views": 19826
     }
   ],
   "yearly": [
@@ -194,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 9596
+      "views": 19826
     }
   ]
 }

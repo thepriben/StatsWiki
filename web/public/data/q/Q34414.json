@@ -1,0 +1,104 @@
+{
+  "qid": "Q34414",
+  "label": "Rear Window",
+  "title": "Rear_Window",
+  "description": "1954 film directed by Alfred Hitchcock",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rearwindow_trailer_3.jpg?width=64",
+  "total": 249350,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 18656
+    },
+    {
+      "period": "2017-06",
+      "views": 17655
+    },
+    {
+      "period": "2017-07",
+      "views": 13190
+    },
+    {
+      "period": "2017-11",
+      "views": 13044
+    },
+    {
+      "period": "2017-12",
+      "views": 14173
+    },
+    {
+      "period": "2020-11",
+      "views": 22253
+    },
+    {
+      "period": "2021-06",
+      "views": 14192
+    },
+    {
+      "period": "2022-12",
+      "views": 14882
+    },
+    {
+      "period": "2023-03",
+      "views": 14874
+    },
+    {
+      "period": "2024-06",
+      "views": 10075
+    },
+    {
+      "period": "2025-10",
+      "views": 10130
+    },
+    {
+      "period": "2025-12",
+      "views": 29104
+    },
+    {
+      "period": "2026-01",
+      "views": 12148
+    },
+    {
+      "period": "2026-04",
+      "views": 34526
+    },
+    {
+      "period": "2026-06",
+      "views": 10448
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 76718
+    },
+    {
+      "period": "2020",
+      "views": 22253
+    },
+    {
+      "period": "2021",
+      "views": 14192
+    },
+    {
+      "period": "2022",
+      "views": 14882
+    },
+    {
+      "period": "2023",
+      "views": 14874
+    },
+    {
+      "period": "2024",
+      "views": 10075
+    },
+    {
+      "period": "2025",
+      "views": 39234
+    },
+    {
+      "period": "2026",
+      "views": 57122
+    }
+  ]
+}

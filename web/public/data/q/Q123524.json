@@ -1,0 +1,148 @@
+{
+  "qid": "Q123524",
+  "label": "solstice",
+  "title": "Solstice",
+  "description": "solar event",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth-lighting-summer-solstice_EN.png?width=64",
+  "total": 609740,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 39744
+    },
+    {
+      "period": "2016-06",
+      "views": 38788
+    },
+    {
+      "period": "2016-12",
+      "views": 27706
+    },
+    {
+      "period": "2017-06",
+      "views": 55276
+    },
+    {
+      "period": "2017-12",
+      "views": 32244
+    },
+    {
+      "period": "2018-06",
+      "views": 34469
+    },
+    {
+      "period": "2018-12",
+      "views": 37233
+    },
+    {
+      "period": "2019-03",
+      "views": 10158
+    },
+    {
+      "period": "2019-06",
+      "views": 34998
+    },
+    {
+      "period": "2019-12",
+      "views": 30010
+    },
+    {
+      "period": "2020-06",
+      "views": 37303
+    },
+    {
+      "period": "2020-12",
+      "views": 25204
+    },
+    {
+      "period": "2021-06",
+      "views": 15489
+    },
+    {
+      "period": "2021-12",
+      "views": 19972
+    },
+    {
+      "period": "2022-06",
+      "views": 16528
+    },
+    {
+      "period": "2022-12",
+      "views": 17697
+    },
+    {
+      "period": "2023-12",
+      "views": 29359
+    },
+    {
+      "period": "2024-06",
+      "views": 25017
+    },
+    {
+      "period": "2024-12",
+      "views": 17810
+    },
+    {
+      "period": "2025-06",
+      "views": 31307
+    },
+    {
+      "period": "2025-12",
+      "views": 20483
+    },
+    {
+      "period": "2026-06",
+      "views": 12945
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 39744
+    },
+    {
+      "period": "2016",
+      "views": 66494
+    },
+    {
+      "period": "2017",
+      "views": 87520
+    },
+    {
+      "period": "2018",
+      "views": 71702
+    },
+    {
+      "period": "2019",
+      "views": 75166
+    },
+    {
+      "period": "2020",
+      "views": 62507
+    },
+    {
+      "period": "2021",
+      "views": 35461
+    },
+    {
+      "period": "2022",
+      "views": 34225
+    },
+    {
+      "period": "2023",
+      "views": 29359
+    },
+    {
+      "period": "2024",
+      "views": 42827
+    },
+    {
+      "period": "2025",
+      "views": 51790
+    },
+    {
+      "period": "2026",
+      "views": 12945
+    }
+  ]
+}
