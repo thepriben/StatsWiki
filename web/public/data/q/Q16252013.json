@@ -1,0 +1,48 @@
+{
+  "qid": "Q16252013",
+  "label": "United Kingdom weather records",
+  "title": "United_Kingdom_weather_records",
+  "description": "aspect of British meteorology",
+  "image": "",
+  "total": 141472,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 13039
+    },
+    {
+      "period": "2019-07",
+      "views": 11503
+    },
+    {
+      "period": "2022-07",
+      "views": 76584
+    },
+    {
+      "period": "2026-05",
+      "views": 26190
+    },
+    {
+      "period": "2026-06",
+      "views": 14156
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 13039
+    },
+    {
+      "period": "2019",
+      "views": 11503
+    },
+    {
+      "period": "2022",
+      "views": 76584
+    },
+    {
+      "period": "2026",
+      "views": 40346
+    }
+  ]
+}

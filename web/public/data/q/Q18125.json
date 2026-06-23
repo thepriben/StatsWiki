@@ -1,0 +1,40 @@
+{
+  "qid": "Q18125",
+  "label": "Manchester",
+  "title": "Manchester",
+  "description": "city in Greater Manchester, England",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_from_the_Sky%2C_2008.jpg?width=64",
+  "total": 363673,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 278148
+    },
+    {
+      "period": "2017-06",
+      "views": 36617
+    },
+    {
+      "period": "2019-07",
+      "views": 10416
+    },
+    {
+      "period": "2026-06",
+      "views": 38492
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 314765
+    },
+    {
+      "period": "2019",
+      "views": 10416
+    },
+    {
+      "period": "2026",
+      "views": 38492
+    }
+  ]
+}

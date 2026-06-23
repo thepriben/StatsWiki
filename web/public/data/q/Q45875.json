@@ -4,7 +4,7 @@
   "title": "A_Song_of_Ice_and_Fire",
   "description": "series of epic fantasy novels by George R. R. Martin",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Song_of_Ice_and_Fire.svg?width=64",
-  "total": 12561017,
+  "total": 12570476,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-02",
       "views": 141623
+    },
+    {
+      "period": "2026-06",
+      "views": 9459
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 183751
+      "views": 193210
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "qid": "Q25052149",
+  "label": "2017 United Kingdom general election",
+  "title": "2017_United_Kingdom_general_election",
+  "description": "general election held in United Kingdom",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2017UKElectionMap.svg?width=64",
+  "total": 1402335,
+  "monthly": [
+    {
+      "period": "2019-05",
+      "views": 10173
+    },
+    {
+      "period": "2019-07",
+      "views": 11212
+    },
+    {
+      "period": "2019-09",
+      "views": 43250
+    },
+    {
+      "period": "2019-10",
+      "views": 65889
+    },
+    {
+      "period": "2019-11",
+      "views": 209087
+    },
+    {
+      "period": "2019-12",
+      "views": 560641
+    },
+    {
+      "period": "2021-05",
+      "views": 11686
+    },
+    {
+      "period": "2022-07",
+      "views": 16058
+    },
+    {
+      "period": "2022-10",
+      "views": 31699
+    },
+    {
+      "period": "2024-05",
+      "views": 40597
+    },
+    {
+      "period": "2024-07",
+      "views": 392957
+    },
+    {
+      "period": "2026-06",
+      "views": 9086
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 900252
+    },
+    {
+      "period": "2021",
+      "views": 11686
+    },
+    {
+      "period": "2022",
+      "views": 47757
+    },
+    {
+      "period": "2024",
+      "views": 433554
+    },
+    {
+      "period": "2026",
+      "views": 9086
+    }
+  ]
+}

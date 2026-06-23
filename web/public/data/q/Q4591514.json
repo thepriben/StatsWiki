@@ -1,0 +1,48 @@
+{
+  "qid": "Q4591514",
+  "label": "1996 Manchester bombing",
+  "title": "1996_Manchester_bombing",
+  "description": "terrorist attack",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corporation_Street%2C_Manchester%2C_14_July_2006.jpg?width=64",
+  "total": 275520,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 22134
+    },
+    {
+      "period": "2017-02",
+      "views": 39536
+    },
+    {
+      "period": "2017-05",
+      "views": 190052
+    },
+    {
+      "period": "2020-06",
+      "views": 13572
+    },
+    {
+      "period": "2026-06",
+      "views": 10226
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 22134
+    },
+    {
+      "period": "2017",
+      "views": 229588
+    },
+    {
+      "period": "2020",
+      "views": 13572
+    },
+    {
+      "period": "2026",
+      "views": 10226
+    }
+  ]
+}

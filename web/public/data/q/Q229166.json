@@ -4,7 +4,7 @@
   "title": "Amber_Heard",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Heard_%2843723454772%29.jpg?width=64",
-  "total": 41884726,
+  "total": 41896310,
   "monthly": [
     {
       "period": "2015-07",
@@ -453,6 +453,10 @@
     {
       "period": "2026-04",
       "views": 34136
+    },
+    {
+      "period": "2026-06",
+      "views": 11584
     }
   ],
   "yearly": [
@@ -502,7 +506,7 @@
     },
     {
       "period": "2026",
-      "views": 34136
+      "views": 45720
     }
   ]
 }

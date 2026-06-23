@@ -4,7 +4,7 @@
   "title": "Michael_Fassbender",
   "description": "German-Irish actor (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Fassbender_Cannes_2009.jpg?width=64",
-  "total": 11850245,
+  "total": 11859405,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-05",
       "views": 48304
+    },
+    {
+      "period": "2026-06",
+      "views": 9160
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 48304
+      "views": 57464
     }
   ]
 }

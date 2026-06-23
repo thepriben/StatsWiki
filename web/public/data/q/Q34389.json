@@ -4,7 +4,7 @@
   "title": "Whitney_Houston",
   "description": "American singer, actress, and film producer (1963–2012)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitney_Houston_%28cropped3%29.JPEG?width=64",
-  "total": 24027792,
+  "total": 24045580,
   "monthly": [
     {
       "period": "2015-07",
@@ -493,6 +493,10 @@
     {
       "period": "2026-05",
       "views": 83254
+    },
+    {
+      "period": "2026-06",
+      "views": 17788
     }
   ],
   "yearly": [
@@ -542,7 +546,7 @@
     },
     {
       "period": "2026",
-      "views": 341362
+      "views": 359150
     }
   ]
 }

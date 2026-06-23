@@ -1,0 +1,44 @@
+{
+  "qid": "Q4823022",
+  "label": "Austin Chick",
+  "title": "Austin_Chick",
+  "description": "American film director, screenwriter and film producer",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Austin_Chick_by_David_Shankbone.jpg?width=64",
+  "total": 103456,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 35209
+    },
+    {
+      "period": "2016-02",
+      "views": 49483
+    },
+    {
+      "period": "2018-05",
+      "views": 9084
+    },
+    {
+      "period": "2026-06",
+      "views": 9680
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 35209
+    },
+    {
+      "period": "2016",
+      "views": 49483
+    },
+    {
+      "period": "2018",
+      "views": 9084
+    },
+    {
+      "period": "2026",
+      "views": 9680
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "qid": "Q23099",
+  "label": "Greater Manchester",
+  "title": "Greater_Manchester",
+  "description": "metropolitan county in North West England",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_from_the_air_%28geograph_6532147%29.jpg?width=64",
+  "total": 82224,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 11430
+    },
+    {
+      "period": "2019-05",
+      "views": 9714
+    },
+    {
+      "period": "2020-07",
+      "views": 35032
+    },
+    {
+      "period": "2020-10",
+      "views": 10939
+    },
+    {
+      "period": "2026-06",
+      "views": 15109
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11430
+    },
+    {
+      "period": "2019",
+      "views": 9714
+    },
+    {
+      "period": "2020",
+      "views": 45971
+    },
+    {
+      "period": "2026",
+      "views": 15109
+    }
+  ]
+}

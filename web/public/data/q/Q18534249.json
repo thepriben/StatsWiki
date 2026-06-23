@@ -4,7 +4,7 @@
   "title": "Halsey_(singer)",
   "description": "American singer-songwriter (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halsey_%40_Hollywood_Forever_10_14_2025_%2854925500921%29.jpg?width=64",
-  "total": 18680449,
+  "total": 18697158,
   "monthly": [
     {
       "period": "2015-07",
@@ -413,6 +413,10 @@
     {
       "period": "2026-02",
       "views": 125384
+    },
+    {
+      "period": "2026-06",
+      "views": 16709
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 125384
+      "views": 142093
     }
   ]
 }
