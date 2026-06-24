@@ -1,0 +1,32 @@
+{
+  "qid": "Q2166088",
+  "label": "Betting exchange",
+  "title": "Betting_exchange",
+  "description": "a marketplace for customers to bet on the outcome of discrete events",
+  "image": "",
+  "total": 202079,
+  "monthly": [
+    {
+      "period": "2025-05",
+      "views": 119820
+    },
+    {
+      "period": "2025-06",
+      "views": 66267
+    },
+    {
+      "period": "2026-06",
+      "views": 15992
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 186087
+    },
+    {
+      "period": "2026",
+      "views": 15992
+    }
+  ]
+}

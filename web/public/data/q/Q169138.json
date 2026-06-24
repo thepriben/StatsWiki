@@ -1,0 +1,92 @@
+{
+  "qid": "Q169138",
+  "label": "Miami Heat",
+  "title": "Miami_Heat",
+  "description": "American professional basketball team based in Miami",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Game_3_of_the_2006_NBA_Finals.jpg?width=64",
+  "total": 730810,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 26721
+    },
+    {
+      "period": "2016-07",
+      "views": 38174
+    },
+    {
+      "period": "2016-12",
+      "views": 9287
+    },
+    {
+      "period": "2017-06",
+      "views": 29234
+    },
+    {
+      "period": "2018-06",
+      "views": 13607
+    },
+    {
+      "period": "2020-05",
+      "views": 23806
+    },
+    {
+      "period": "2020-09",
+      "views": 132202
+    },
+    {
+      "period": "2020-10",
+      "views": 68660
+    },
+    {
+      "period": "2022-05",
+      "views": 65571
+    },
+    {
+      "period": "2023-04",
+      "views": 11497
+    },
+    {
+      "period": "2023-05",
+      "views": 199798
+    },
+    {
+      "period": "2023-06",
+      "views": 85504
+    },
+    {
+      "period": "2026-06",
+      "views": 26749
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 74182
+    },
+    {
+      "period": "2017",
+      "views": 29234
+    },
+    {
+      "period": "2018",
+      "views": 13607
+    },
+    {
+      "period": "2020",
+      "views": 224668
+    },
+    {
+      "period": "2022",
+      "views": 65571
+    },
+    {
+      "period": "2023",
+      "views": 296799
+    },
+    {
+      "period": "2026",
+      "views": 26749
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Amy_Poehler",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Poehler_%288894155873%29_%28cropped%29.jpg?width=64",
-  "total": 3516457,
+  "total": 3525403,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-03",
       "views": 18745
+    },
+    {
+      "period": "2026-06",
+      "views": 8946
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 122050
+      "views": 130996
     }
   ]
 }

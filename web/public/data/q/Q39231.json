@@ -1,0 +1,36 @@
+{
+  "qid": "Q39231",
+  "label": "Mount Fuji",
+  "title": "Mount_Fuji",
+  "description": "volcano in Yamanashi and Shizuoka Prefectures, Japan",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodaki_fuji_frm_shojinko_refurb.jpg?width=64",
+  "total": 42024,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 19426
+    },
+    {
+      "period": "2021-07",
+      "views": 13754
+    },
+    {
+      "period": "2026-06",
+      "views": 8844
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 19426
+    },
+    {
+      "period": "2021",
+      "views": 13754
+    },
+    {
+      "period": "2026",
+      "views": 8844
+    }
+  ]
+}
