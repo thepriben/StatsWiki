@@ -1,0 +1,40 @@
+{
+  "qid": "Q2973954",
+  "label": "New York's congressional districts",
+  "title": "New_York's_congressional_districts",
+  "description": "U.S. House districts in the state of New York",
+  "image": "",
+  "total": 70356,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 9903
+    },
+    {
+      "period": "2018-06",
+      "views": 12765
+    },
+    {
+      "period": "2018-11",
+      "views": 38874
+    },
+    {
+      "period": "2026-06",
+      "views": 8814
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9903
+    },
+    {
+      "period": "2018",
+      "views": 51639
+    },
+    {
+      "period": "2026",
+      "views": 8814
+    }
+  ]
+}

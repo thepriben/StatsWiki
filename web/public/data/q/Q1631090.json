@@ -4,7 +4,7 @@
   "title": "Deadpool",
   "description": "fictional character in Marvel Comics",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deadpool%2C_Georgia_Viaduct%2C_Vancouver%2C_April_6_2015_-_3.jpg?width=64",
-  "total": 14843065,
+  "total": 14856678,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2025-03",
       "views": 14655
+    },
+    {
+      "period": "2026-06",
+      "views": 13613
     }
   ],
   "yearly": [
@@ -167,6 +171,10 @@
     {
       "period": "2025",
       "views": 14655
+    },
+    {
+      "period": "2026",
+      "views": 13613
     }
   ]
 }

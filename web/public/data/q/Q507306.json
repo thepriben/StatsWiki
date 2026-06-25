@@ -4,7 +4,7 @@
   "title": "Nasdaq-100",
   "description": "blue-chip index consisting of the 100 major companies trading on NASDAQ",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NASDAQ_Logo.svg?width=64",
-  "total": 312535,
+  "total": 323554,
   "monthly": [
     {
       "period": "2026-04",
@@ -16,13 +16,13 @@
     },
     {
       "period": "2026-06",
-      "views": 180661
+      "views": 191680
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 312535
+      "views": 323554
     }
   ]
 }

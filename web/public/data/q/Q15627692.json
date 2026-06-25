@@ -4,7 +4,7 @@
   "title": "The_Last_Ship_(TV_series)",
   "description": "American post-apocalyptic drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_Ship.jpg?width=64",
-  "total": 1940231,
+  "total": 1948658,
   "monthly": [
     {
       "period": "2015-07",
@@ -65,6 +65,10 @@
     {
       "period": "2026-02",
       "views": 52678
+    },
+    {
+      "period": "2026-06",
+      "views": 8427
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 52678
+      "views": 61105
     }
   ]
 }

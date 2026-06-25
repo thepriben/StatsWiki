@@ -4,7 +4,7 @@
   "title": "Dragon_(2025_film)",
   "description": "film",
   "image": "",
-  "total": 3048081,
+  "total": 3058158,
   "monthly": [
     {
       "period": "2025-02",
@@ -25,12 +25,20 @@
     {
       "period": "2025-10",
       "views": 114196
+    },
+    {
+      "period": "2026-06",
+      "views": 10077
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 3048081
+    },
+    {
+      "period": "2026",
+      "views": 10077
     }
   ]
 }

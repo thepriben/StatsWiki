@@ -1,0 +1,32 @@
+{
+  "qid": "Q1533",
+  "label": "Caracas",
+  "title": "Caracas",
+  "description": "capital and largest city of Venezuela",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caracas_desde_el_%C3%A1vila.jpg?width=64",
+  "total": 201016,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 11313
+    },
+    {
+      "period": "2026-01",
+      "views": 172098
+    },
+    {
+      "period": "2026-06",
+      "views": 17605
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 11313
+    },
+    {
+      "period": "2026",
+      "views": 189703
+    }
+  ]
+}

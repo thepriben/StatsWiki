@@ -1,0 +1,84 @@
+{
+  "qid": "Q94912",
+  "label": "Rockstar Games",
+  "title": "Rockstar_Games",
+  "description": "American video game publisher",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockstar_Games_Logo.svg?width=64",
+  "total": 608668,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 80305
+    },
+    {
+      "period": "2016-10",
+      "views": 21935
+    },
+    {
+      "period": "2018-10",
+      "views": 58569
+    },
+    {
+      "period": "2020-02",
+      "views": 11276
+    },
+    {
+      "period": "2021-11",
+      "views": 34971
+    },
+    {
+      "period": "2023-11",
+      "views": 20459
+    },
+    {
+      "period": "2023-12",
+      "views": 230958
+    },
+    {
+      "period": "2025-05",
+      "views": 124446
+    },
+    {
+      "period": "2025-11",
+      "views": 15440
+    },
+    {
+      "period": "2026-06",
+      "views": 10309
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 80305
+    },
+    {
+      "period": "2016",
+      "views": 21935
+    },
+    {
+      "period": "2018",
+      "views": 58569
+    },
+    {
+      "period": "2020",
+      "views": 11276
+    },
+    {
+      "period": "2021",
+      "views": 34971
+    },
+    {
+      "period": "2023",
+      "views": 251417
+    },
+    {
+      "period": "2025",
+      "views": 139886
+    },
+    {
+      "period": "2026",
+      "views": 10309
+    }
+  ]
+}
