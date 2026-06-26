@@ -1,0 +1,32 @@
+{
+  "qid": "Q130858129",
+  "label": "Absolute Batman",
+  "title": "Absolute_Batman",
+  "description": "comic book series by DC Comics",
+  "image": "",
+  "total": 123194,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "views": 10938
+    },
+    {
+      "period": "2025-09",
+      "views": 102087
+    },
+    {
+      "period": "2026-06",
+      "views": 10169
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 113025
+    },
+    {
+      "period": "2026",
+      "views": 10169
+    }
+  ]
+}

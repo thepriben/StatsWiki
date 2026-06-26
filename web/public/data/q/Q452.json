@@ -1,0 +1,64 @@
+{
+  "qid": "Q452",
+  "label": "52-hertz whale",
+  "title": "52-hertz_whale",
+  "description": "individual whale which has been detected calling at 52 Hz, far above the normal whale vocal range",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Akblue52a_256_064c.jpg?width=64",
+  "total": 285183,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 39941
+    },
+    {
+      "period": "2016-03",
+      "views": 125830
+    },
+    {
+      "period": "2018-07",
+      "views": 30499
+    },
+    {
+      "period": "2021-05",
+      "views": 26565
+    },
+    {
+      "period": "2022-10",
+      "views": 29482
+    },
+    {
+      "period": "2024-06",
+      "views": 13711
+    },
+    {
+      "period": "2026-06",
+      "views": 19155
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 165771
+    },
+    {
+      "period": "2018",
+      "views": 30499
+    },
+    {
+      "period": "2021",
+      "views": 26565
+    },
+    {
+      "period": "2022",
+      "views": 29482
+    },
+    {
+      "period": "2024",
+      "views": 13711
+    },
+    {
+      "period": "2026",
+      "views": 19155
+    }
+  ]
+}

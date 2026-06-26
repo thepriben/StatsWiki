@@ -4,7 +4,7 @@
   "title": "Avatar:_The_Way_of_Water",
   "description": "2022 film by James Cameron",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Estrena_en_catal%C3%A0_d%27Avatar_El_sentit_de_l%27aigua_3.jpg?width=64",
-  "total": 27227421,
+  "total": 27237354,
   "monthly": [
     {
       "period": "2022-04",
@@ -117,6 +117,10 @@
     {
       "period": "2026-01",
       "views": 623964
+    },
+    {
+      "period": "2026-06",
+      "views": 9933
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 623964
+      "views": 633897
     }
   ]
 }

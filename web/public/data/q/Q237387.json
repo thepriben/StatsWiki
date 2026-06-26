@@ -4,7 +4,7 @@
   "title": "Dulce_María",
   "description": "Mexican actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dulce_Maria_Teleton_4.jpg?width=64",
-  "total": 30791340,
+  "total": 30801366,
   "monthly": [
     {
       "period": "2015-10",
@@ -81,6 +81,10 @@
     {
       "period": "2019-02",
       "views": 16372
+    },
+    {
+      "period": "2026-06",
+      "views": 10026
     }
   ],
   "yearly": [
@@ -103,6 +107,10 @@
     {
       "period": "2019",
       "views": 16372
+    },
+    {
+      "period": "2026",
+      "views": 10026
     }
   ]
 }

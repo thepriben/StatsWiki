@@ -1,0 +1,44 @@
+{
+  "qid": "Q924671",
+  "label": "Operation Ariel",
+  "title": "Operation_Aerial",
+  "description": "Second World War evacuation from ports in western France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Operation_Ariel_1940_map.png?width=64",
+  "total": 50515,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 13332
+    },
+    {
+      "period": "2019-06",
+      "views": 11849
+    },
+    {
+      "period": "2020-06",
+      "views": 15989
+    },
+    {
+      "period": "2026-06",
+      "views": 9345
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 13332
+    },
+    {
+      "period": "2019",
+      "views": 11849
+    },
+    {
+      "period": "2020",
+      "views": 15989
+    },
+    {
+      "period": "2026",
+      "views": 9345
+    }
+  ]
+}

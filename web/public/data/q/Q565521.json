@@ -1,0 +1,60 @@
+{
+  "qid": "Q565521",
+  "label": "Clarence House",
+  "title": "Clarence_House",
+  "description": "official residence of king Charles III, and his wife Camilla",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clarence_house.jpg?width=64",
+  "total": 421841,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 97536
+    },
+    {
+      "period": "2017-11",
+      "views": 11261
+    },
+    {
+      "period": "2018-05",
+      "views": 67932
+    },
+    {
+      "period": "2022-09",
+      "views": 224410
+    },
+    {
+      "period": "2024-02",
+      "views": 10767
+    },
+    {
+      "period": "2026-06",
+      "views": 9935
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 97536
+    },
+    {
+      "period": "2017",
+      "views": 11261
+    },
+    {
+      "period": "2018",
+      "views": 67932
+    },
+    {
+      "period": "2022",
+      "views": 224410
+    },
+    {
+      "period": "2024",
+      "views": 10767
+    },
+    {
+      "period": "2026",
+      "views": 9935
+    }
+  ]
+}

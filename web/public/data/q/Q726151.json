@@ -1,0 +1,64 @@
+{
+  "qid": "Q726151",
+  "label": "quokka",
+  "title": "Quokka",
+  "description": "species of mammal",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rottnest_Quokka_2004_SeanMcClean.jpg?width=64",
+  "total": 468302,
+  "monthly": [
+    {
+      "period": "2017-12",
+      "views": 150688
+    },
+    {
+      "period": "2018-02",
+      "views": 10860
+    },
+    {
+      "period": "2018-07",
+      "views": 13464
+    },
+    {
+      "period": "2018-10",
+      "views": 56654
+    },
+    {
+      "period": "2019-09",
+      "views": 70371
+    },
+    {
+      "period": "2019-10",
+      "views": 141355
+    },
+    {
+      "period": "2023-01",
+      "views": 15826
+    },
+    {
+      "period": "2026-06",
+      "views": 9084
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 150688
+    },
+    {
+      "period": "2018",
+      "views": 80978
+    },
+    {
+      "period": "2019",
+      "views": 211726
+    },
+    {
+      "period": "2023",
+      "views": 15826
+    },
+    {
+      "period": "2026",
+      "views": 9084
+    }
+  ]
+}
