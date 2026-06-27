@@ -4,7 +4,7 @@
   "title": "Shivaji",
   "description": "Indian Maratha king and founder of the Maratha Swaraj (Empire)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shivaji_British_Museum.jpg?width=64",
-  "total": 5083986,
+  "total": 5093404,
   "monthly": [
     {
       "period": "2015-12",
@@ -193,6 +193,10 @@
     {
       "period": "2026-05",
       "views": 46684
+    },
+    {
+      "period": "2026-06",
+      "views": 9418
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 250682
+      "views": 260100
     }
   ]
 }

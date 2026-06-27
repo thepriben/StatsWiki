@@ -4,7 +4,7 @@
   "title": "Ashton_Kutcher",
   "description": "American actor, producer and model (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashton_Kutcher_-_2023_-_P060603-652701_%28cropped%29.jpg?width=64",
-  "total": 24562739,
+  "total": 24572294,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-04",
       "views": 11184
+    },
+    {
+      "period": "2026-06",
+      "views": 9555
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 345305
+      "views": 354860
     }
   ]
 }

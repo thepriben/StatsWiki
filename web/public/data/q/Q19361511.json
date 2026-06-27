@@ -4,7 +4,7 @@
   "title": "Fetty_Wap",
   "description": "American rapper and singer (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fetty_Wap_2015.png?width=64",
-  "total": 6154640,
+  "total": 6165174,
   "monthly": [
     {
       "period": "2015-07",
@@ -117,6 +117,10 @@
     {
       "period": "2026-02",
       "views": 22435
+    },
+    {
+      "period": "2026-06",
+      "views": 10534
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 378448
+      "views": 388982
     }
   ]
 }

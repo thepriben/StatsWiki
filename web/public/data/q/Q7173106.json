@@ -4,7 +4,7 @@
   "title": "Pete_Buttigieg",
   "description": "American politician (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pete_Buttigieg%2C_Secretary_of_Transportation.jpg?width=64",
-  "total": 13321873,
+  "total": 13330852,
   "monthly": [
     {
       "period": "2017-02",
@@ -185,6 +185,10 @@
     {
       "period": "2026-05",
       "views": 8295
+    },
+    {
+      "period": "2026-06",
+      "views": 8979
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 29697
+      "views": 38676
     }
   ]
 }

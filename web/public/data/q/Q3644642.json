@@ -1,0 +1,64 @@
+{
+  "qid": "Q3644642",
+  "label": "Florida Georgia Line",
+  "title": "Florida_Georgia_Line",
+  "description": "American country music duo",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flagaline.jpg?width=64",
+  "total": 117880,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 11840
+    },
+    {
+      "period": "2015-11",
+      "views": 23312
+    },
+    {
+      "period": "2016-05",
+      "views": 9536
+    },
+    {
+      "period": "2018-01",
+      "views": 14358
+    },
+    {
+      "period": "2018-04",
+      "views": 11692
+    },
+    {
+      "period": "2018-11",
+      "views": 9187
+    },
+    {
+      "period": "2020-05",
+      "views": 24183
+    },
+    {
+      "period": "2026-06",
+      "views": 13772
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 35152
+    },
+    {
+      "period": "2016",
+      "views": 9536
+    },
+    {
+      "period": "2018",
+      "views": 35237
+    },
+    {
+      "period": "2020",
+      "views": 24183
+    },
+    {
+      "period": "2026",
+      "views": 13772
+    }
+  ]
+}

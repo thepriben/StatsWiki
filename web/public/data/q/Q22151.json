@@ -1,0 +1,68 @@
+{
+  "qid": "Q22151",
+  "label": "Muse",
+  "title": "Muse_(band)",
+  "description": "English rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muse_2006_003.jpg?width=64",
+  "total": 182318,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 55267
+    },
+    {
+      "period": "2017-05",
+      "views": 9525
+    },
+    {
+      "period": "2017-08",
+      "views": 13256
+    },
+    {
+      "period": "2018-11",
+      "views": 23652
+    },
+    {
+      "period": "2022-06",
+      "views": 13255
+    },
+    {
+      "period": "2022-08",
+      "views": 24909
+    },
+    {
+      "period": "2024-05",
+      "views": 32628
+    },
+    {
+      "period": "2026-06",
+      "views": 9826
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 55267
+    },
+    {
+      "period": "2017",
+      "views": 22781
+    },
+    {
+      "period": "2018",
+      "views": 23652
+    },
+    {
+      "period": "2022",
+      "views": 38164
+    },
+    {
+      "period": "2024",
+      "views": 32628
+    },
+    {
+      "period": "2026",
+      "views": 9826
+    }
+  ]
+}

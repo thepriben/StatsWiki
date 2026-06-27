@@ -1,0 +1,52 @@
+{
+  "qid": "Q190050",
+  "label": "Fight Club",
+  "title": "Fight_Club",
+  "description": "1999 film directed by David Fincher",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fight_Club_logo1.png?width=64",
+  "total": 143465,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 14023
+    },
+    {
+      "period": "2016-03",
+      "views": 11338
+    },
+    {
+      "period": "2022-01",
+      "views": 67979
+    },
+    {
+      "period": "2023-12",
+      "views": 26260
+    },
+    {
+      "period": "2026-04",
+      "views": 7683
+    },
+    {
+      "period": "2026-06",
+      "views": 16182
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 25361
+    },
+    {
+      "period": "2022",
+      "views": 67979
+    },
+    {
+      "period": "2023",
+      "views": 26260
+    },
+    {
+      "period": "2026",
+      "views": 23865
+    }
+  ]
+}

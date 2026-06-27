@@ -1,0 +1,40 @@
+{
+  "qid": "Q386406",
+  "label": "Pretty Ricky",
+  "title": "Pretty_Ricky",
+  "description": "band",
+  "image": "",
+  "total": 115825,
+  "monthly": [
+    {
+      "period": "2018-01",
+      "views": 26170
+    },
+    {
+      "period": "2019-01",
+      "views": 14336
+    },
+    {
+      "period": "2019-02",
+      "views": 17548
+    },
+    {
+      "period": "2026-06",
+      "views": 57771
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 26170
+    },
+    {
+      "period": "2019",
+      "views": 31884
+    },
+    {
+      "period": "2026",
+      "views": 57771
+    }
+  ]
+}

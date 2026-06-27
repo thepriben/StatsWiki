@@ -4,7 +4,7 @@
   "title": "Benson_Boone",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benson_Boone_Press_Copy_Warner_Records_%28cropped%29.png?width=64",
-  "total": 6448724,
+  "total": 6458180,
   "monthly": [
     {
       "period": "2024-03",
@@ -89,6 +89,10 @@
     {
       "period": "2026-02",
       "views": 68461
+    },
+    {
+      "period": "2026-06",
+      "views": 9456
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 90581
+      "views": 100037
     }
   ]
 }

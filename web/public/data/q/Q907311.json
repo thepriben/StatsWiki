@@ -4,7 +4,7 @@
   "title": "Netflix",
   "description": "American subscription video on-demand over-the-top streaming service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_headquarters.jpg?width=64",
-  "total": 46879223,
+  "total": 46888990,
   "monthly": [
     {
       "period": "2015-07",
@@ -516,7 +516,7 @@
     },
     {
       "period": "2026-06",
-      "views": 8474
+      "views": 18241
     }
   ],
   "yearly": [
@@ -566,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 191150
+      "views": 200917
     }
   ]
 }
