@@ -1,0 +1,36 @@
+{
+  "qid": "Q11598",
+  "label": "Arrested Development",
+  "title": "Arrested_Development",
+  "description": "American television sitcom",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arrested_Development.svg?width=64",
+  "total": 105995,
+  "monthly": [
+    {
+      "period": "2020-05",
+      "views": 11157
+    },
+    {
+      "period": "2021-03",
+      "views": 77250
+    },
+    {
+      "period": "2026-06",
+      "views": 17588
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 11157
+    },
+    {
+      "period": "2021",
+      "views": 77250
+    },
+    {
+      "period": "2026",
+      "views": 17588
+    }
+  ]
+}

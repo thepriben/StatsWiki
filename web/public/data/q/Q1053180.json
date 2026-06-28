@@ -1,0 +1,44 @@
+{
+  "qid": "Q1053180",
+  "label": "WWE Night of Champions",
+  "title": "WWE_Night_of_Champions",
+  "description": "WWE pay-per-view",
+  "image": "",
+  "total": 89024,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 14458
+    },
+    {
+      "period": "2016-09",
+      "views": 9811
+    },
+    {
+      "period": "2023-05",
+      "views": 52933
+    },
+    {
+      "period": "2026-06",
+      "views": 11822
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 14458
+    },
+    {
+      "period": "2016",
+      "views": 9811
+    },
+    {
+      "period": "2023",
+      "views": 52933
+    },
+    {
+      "period": "2026",
+      "views": 11822
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Courteney_Cox",
   "description": "American actress and producer (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CourteneyCoxFeb09_%28cropped%29.jpg?width=64",
-  "total": 14952966,
+  "total": 14963282,
   "monthly": [
     {
       "period": "2015-07",
@@ -429,6 +429,10 @@
     {
       "period": "2026-03",
       "views": 34740
+    },
+    {
+      "period": "2026-06",
+      "views": 10316
     }
   ],
   "yearly": [
@@ -478,7 +482,7 @@
     },
     {
       "period": "2026",
-      "views": 91954
+      "views": 102270
     }
   ]
 }

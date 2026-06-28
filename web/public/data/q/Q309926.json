@@ -4,7 +4,7 @@
   "title": "Lemmy",
   "description": "British rock musician (1945–2015)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Motorhead-01.jpg?width=64",
-  "total": 3518273,
+  "total": 3527362,
   "monthly": [
     {
       "period": "2015-09",
@@ -81,6 +81,10 @@
     {
       "period": "2026-03",
       "views": 29577
+    },
+    {
+      "period": "2026-06",
+      "views": 9089
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 29577
+      "views": 38666
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Bella_Ramsey",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bella_Ramsey-3066.jpg?width=64",
-  "total": 11292937,
+  "total": 11303654,
   "monthly": [
     {
       "period": "2016-06",
@@ -129,6 +129,10 @@
     {
       "period": "2026-05",
       "views": 44368
+    },
+    {
+      "period": "2026-06",
+      "views": 10717
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 171451
+      "views": 182168
     }
   ]
 }

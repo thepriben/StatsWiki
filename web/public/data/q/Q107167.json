@@ -1,0 +1,52 @@
+{
+  "qid": "Q107167",
+  "label": "Sleepless in Seattle",
+  "title": "Sleepless_in_Seattle",
+  "description": "1993 film directed by Nora Ephron",
+  "image": "",
+  "total": 108666,
+  "monthly": [
+    {
+      "period": "2019-07",
+      "views": 11911
+    },
+    {
+      "period": "2020-03",
+      "views": 11425
+    },
+    {
+      "period": "2023-01",
+      "views": 11520
+    },
+    {
+      "period": "2025-12",
+      "views": 63240
+    },
+    {
+      "period": "2026-06",
+      "views": 10570
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11911
+    },
+    {
+      "period": "2020",
+      "views": 11425
+    },
+    {
+      "period": "2023",
+      "views": 11520
+    },
+    {
+      "period": "2025",
+      "views": 63240
+    },
+    {
+      "period": "2026",
+      "views": 10570
+    }
+  ]
+}
