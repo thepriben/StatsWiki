@@ -4,7 +4,7 @@
   "title": "Alan_Ritchson",
   "description": "American actor (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lazer_Team_premiere_-_Alan_Ritchson_%2827161983270%29_%28cropped%29.jpg?width=64",
-  "total": 9754021,
+  "total": 9765159,
   "monthly": [
     {
       "period": "2015-07",
@@ -125,6 +125,10 @@
     {
       "period": "2026-04",
       "views": 211631
+    },
+    {
+      "period": "2026-06",
+      "views": 11138
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 1234245
+      "views": 1245383
     }
   ]
 }

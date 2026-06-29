@@ -1,0 +1,100 @@
+{
+  "qid": "Q7876",
+  "label": "Austrian Grand Prix",
+  "title": "Austrian_Grand_Prix",
+  "description": "Formula 1 Grand Prix",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96sterreichring-A1Ring.svg?width=64",
+  "total": 185367,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 12952
+    },
+    {
+      "period": "2017-07",
+      "views": 12543
+    },
+    {
+      "period": "2018-07",
+      "views": 11356
+    },
+    {
+      "period": "2019-06",
+      "views": 12204
+    },
+    {
+      "period": "2020-07",
+      "views": 14123
+    },
+    {
+      "period": "2021-07",
+      "views": 14292
+    },
+    {
+      "period": "2022-07",
+      "views": 27569
+    },
+    {
+      "period": "2023-07",
+      "views": 33420
+    },
+    {
+      "period": "2024-06",
+      "views": 11268
+    },
+    {
+      "period": "2025-06",
+      "views": 25424
+    },
+    {
+      "period": "2026-06",
+      "views": 10216
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12952
+    },
+    {
+      "period": "2017",
+      "views": 12543
+    },
+    {
+      "period": "2018",
+      "views": 11356
+    },
+    {
+      "period": "2019",
+      "views": 12204
+    },
+    {
+      "period": "2020",
+      "views": 14123
+    },
+    {
+      "period": "2021",
+      "views": 14292
+    },
+    {
+      "period": "2022",
+      "views": 27569
+    },
+    {
+      "period": "2023",
+      "views": 33420
+    },
+    {
+      "period": "2024",
+      "views": 11268
+    },
+    {
+      "period": "2025",
+      "views": 25424
+    },
+    {
+      "period": "2026",
+      "views": 10216
+    }
+  ]
+}

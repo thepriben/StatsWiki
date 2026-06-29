@@ -1,0 +1,64 @@
+{
+  "qid": "Q171566",
+  "label": "Red Bull Ring",
+  "title": "Red_Bull_Ring",
+  "description": "motor racing track",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_Autosports_ELMS_Red_Bull_Ring_2017-218.jpg?width=64",
+  "total": 156397,
+  "monthly": [
+    {
+      "period": "2020-07",
+      "views": 25459
+    },
+    {
+      "period": "2021-06",
+      "views": 32740
+    },
+    {
+      "period": "2021-07",
+      "views": 11812
+    },
+    {
+      "period": "2022-07",
+      "views": 39595
+    },
+    {
+      "period": "2023-07",
+      "views": 13245
+    },
+    {
+      "period": "2025-06",
+      "views": 24154
+    },
+    {
+      "period": "2026-06",
+      "views": 9392
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 25459
+    },
+    {
+      "period": "2021",
+      "views": 44552
+    },
+    {
+      "period": "2022",
+      "views": 39595
+    },
+    {
+      "period": "2023",
+      "views": 13245
+    },
+    {
+      "period": "2025",
+      "views": 24154
+    },
+    {
+      "period": "2026",
+      "views": 9392
+    }
+  ]
+}
