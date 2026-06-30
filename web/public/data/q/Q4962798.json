@@ -1,0 +1,28 @@
+{
+  "qid": "Q4962798",
+  "label": "Breyers",
+  "title": "Breyers",
+  "description": "ice cream brand",
+  "image": "",
+  "total": 82923,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 23058
+    },
+    {
+      "period": "2026-06",
+      "views": 59865
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 23058
+    },
+    {
+      "period": "2026",
+      "views": 59865
+    }
+  ]
+}

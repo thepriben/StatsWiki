@@ -1,0 +1,108 @@
+{
+  "qid": "Q957323",
+  "label": "Blazing Saddles",
+  "title": "Blazing_Saddles",
+  "description": "1974 film directed by Mel Brooks",
+  "image": "",
+  "total": 383777,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 131444
+    },
+    {
+      "period": "2016-09",
+      "views": 60373
+    },
+    {
+      "period": "2017-02",
+      "views": 12960
+    },
+    {
+      "period": "2017-03",
+      "views": 30337
+    },
+    {
+      "period": "2017-08",
+      "views": 10159
+    },
+    {
+      "period": "2017-11",
+      "views": 12927
+    },
+    {
+      "period": "2018-04",
+      "views": 12115
+    },
+    {
+      "period": "2020-07",
+      "views": 9292
+    },
+    {
+      "period": "2021-02",
+      "views": 16304
+    },
+    {
+      "period": "2021-06",
+      "views": 16896
+    },
+    {
+      "period": "2022-04",
+      "views": 14120
+    },
+    {
+      "period": "2023-06",
+      "views": 12797
+    },
+    {
+      "period": "2023-12",
+      "views": 16969
+    },
+    {
+      "period": "2024-02",
+      "views": 12871
+    },
+    {
+      "period": "2026-06",
+      "views": 14213
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 191817
+    },
+    {
+      "period": "2017",
+      "views": 66383
+    },
+    {
+      "period": "2018",
+      "views": 12115
+    },
+    {
+      "period": "2020",
+      "views": 9292
+    },
+    {
+      "period": "2021",
+      "views": 33200
+    },
+    {
+      "period": "2022",
+      "views": 14120
+    },
+    {
+      "period": "2023",
+      "views": 29766
+    },
+    {
+      "period": "2024",
+      "views": 12871
+    },
+    {
+      "period": "2026",
+      "views": 14213
+    }
+  ]
+}

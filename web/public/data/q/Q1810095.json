@@ -1,0 +1,36 @@
+{
+  "qid": "Q1810095",
+  "label": "Three Peaks Challenge",
+  "title": "National_Three_Peaks_Challenge",
+  "description": "Hiking event",
+  "image": "",
+  "total": 53540,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 24241
+    },
+    {
+      "period": "2020-06",
+      "views": 16636
+    },
+    {
+      "period": "2026-06",
+      "views": 12663
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 24241
+    },
+    {
+      "period": "2020",
+      "views": 16636
+    },
+    {
+      "period": "2026",
+      "views": 12663
+    }
+  ]
+}

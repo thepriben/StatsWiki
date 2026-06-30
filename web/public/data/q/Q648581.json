@@ -1,0 +1,56 @@
+{
+  "qid": "Q648581",
+  "label": "Soyuz 11",
+  "title": "Soyuz_11",
+  "description": "crewed Soviet space mission to the Salyut 1 Space Station",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soyuz_11_crew.jpg?width=64",
+  "total": 78349,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 8374
+    },
+    {
+      "period": "2019-04",
+      "views": 9422
+    },
+    {
+      "period": "2021-06",
+      "views": 12749
+    },
+    {
+      "period": "2022-10",
+      "views": 9083
+    },
+    {
+      "period": "2026-04",
+      "views": 21385
+    },
+    {
+      "period": "2026-06",
+      "views": 17336
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 8374
+    },
+    {
+      "period": "2019",
+      "views": 9422
+    },
+    {
+      "period": "2021",
+      "views": 12749
+    },
+    {
+      "period": "2022",
+      "views": 9083
+    },
+    {
+      "period": "2026",
+      "views": 38721
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Jim_Carrey",
   "description": "Canadian-American actor and comedian (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jim_Carrey_2020_cropped.jpg?width=64",
-  "total": 31507836,
+  "total": 31523210,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-04",
       "views": 74522
+    },
+    {
+      "period": "2026-06",
+      "views": 15374
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 1354980
+      "views": 1370354
     }
   ]
 }

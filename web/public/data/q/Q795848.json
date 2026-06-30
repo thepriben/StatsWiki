@@ -1,0 +1,100 @@
+{
+  "qid": "Q795848",
+  "label": "BET Awards",
+  "title": "BET_Awards",
+  "description": "American award show",
+  "image": "",
+  "total": 226822,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 10376
+    },
+    {
+      "period": "2016-06",
+      "views": 44120
+    },
+    {
+      "period": "2017-06",
+      "views": 22653
+    },
+    {
+      "period": "2018-06",
+      "views": 17582
+    },
+    {
+      "period": "2019-06",
+      "views": 24523
+    },
+    {
+      "period": "2021-06",
+      "views": 18889
+    },
+    {
+      "period": "2022-06",
+      "views": 17408
+    },
+    {
+      "period": "2023-06",
+      "views": 14418
+    },
+    {
+      "period": "2024-07",
+      "views": 16411
+    },
+    {
+      "period": "2025-03",
+      "views": 13655
+    },
+    {
+      "period": "2025-06",
+      "views": 16014
+    },
+    {
+      "period": "2026-06",
+      "views": 10773
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 54496
+    },
+    {
+      "period": "2017",
+      "views": 22653
+    },
+    {
+      "period": "2018",
+      "views": 17582
+    },
+    {
+      "period": "2019",
+      "views": 24523
+    },
+    {
+      "period": "2021",
+      "views": 18889
+    },
+    {
+      "period": "2022",
+      "views": 17408
+    },
+    {
+      "period": "2023",
+      "views": 14418
+    },
+    {
+      "period": "2024",
+      "views": 16411
+    },
+    {
+      "period": "2025",
+      "views": 29669
+    },
+    {
+      "period": "2026",
+      "views": 10773
+    }
+  ]
+}

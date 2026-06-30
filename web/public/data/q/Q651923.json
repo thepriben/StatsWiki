@@ -1,0 +1,84 @@
+{
+  "qid": "Q651923",
+  "label": "Young Frankenstein",
+  "title": "Young_Frankenstein",
+  "description": "1974 film directed by Mel Brooks",
+  "image": "",
+  "total": 427399,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 16065
+    },
+    {
+      "period": "2016-04",
+      "views": 22609
+    },
+    {
+      "period": "2016-08",
+      "views": 193357
+    },
+    {
+      "period": "2016-09",
+      "views": 53025
+    },
+    {
+      "period": "2016-10",
+      "views": 12812
+    },
+    {
+      "period": "2019-03",
+      "views": 12923
+    },
+    {
+      "period": "2021-01",
+      "views": 15816
+    },
+    {
+      "period": "2021-10",
+      "views": 21621
+    },
+    {
+      "period": "2024-10",
+      "views": 45673
+    },
+    {
+      "period": "2025-02",
+      "views": 11326
+    },
+    {
+      "period": "2025-10",
+      "views": 12307
+    },
+    {
+      "period": "2026-06",
+      "views": 9865
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 297868
+    },
+    {
+      "period": "2019",
+      "views": 12923
+    },
+    {
+      "period": "2021",
+      "views": 37437
+    },
+    {
+      "period": "2024",
+      "views": 45673
+    },
+    {
+      "period": "2025",
+      "views": 23633
+    },
+    {
+      "period": "2026",
+      "views": 9865
+    }
+  ]
+}

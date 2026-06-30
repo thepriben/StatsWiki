@@ -1,0 +1,80 @@
+{
+  "qid": "Q208344",
+  "label": "Armageddon",
+  "title": "Armageddon_(1998_film)",
+  "description": "1998 film directed by Michael Bay",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ArmageddonPremiere98.jpg?width=64",
+  "total": 146156,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 26031
+    },
+    {
+      "period": "2015-09",
+      "views": 9934
+    },
+    {
+      "period": "2016-01",
+      "views": 10581
+    },
+    {
+      "period": "2016-03",
+      "views": 19336
+    },
+    {
+      "period": "2016-07",
+      "views": 15584
+    },
+    {
+      "period": "2017-01",
+      "views": 13535
+    },
+    {
+      "period": "2018-12",
+      "views": 11007
+    },
+    {
+      "period": "2024-01",
+      "views": 12712
+    },
+    {
+      "period": "2025-12",
+      "views": 12432
+    },
+    {
+      "period": "2026-06",
+      "views": 15004
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 35965
+    },
+    {
+      "period": "2016",
+      "views": 45501
+    },
+    {
+      "period": "2017",
+      "views": 13535
+    },
+    {
+      "period": "2018",
+      "views": 11007
+    },
+    {
+      "period": "2024",
+      "views": 12712
+    },
+    {
+      "period": "2025",
+      "views": 12432
+    },
+    {
+      "period": "2026",
+      "views": 15004
+    }
+  ]
+}
