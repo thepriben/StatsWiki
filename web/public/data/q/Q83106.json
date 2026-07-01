@@ -4,7 +4,7 @@
   "title": "Jürgen_Klopp",
   "description": "German association football manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCrgen_Klopp%2C_Liverpool_vs._Chelsea%2C_UEFA_Super_Cup_2019-08-14_04.jpg?width=64",
-  "total": 6848534,
+  "total": 6871636,
   "monthly": [
     {
       "period": "2015-10",
@@ -313,6 +313,10 @@
     {
       "period": "2026-05",
       "views": 22412
+    },
+    {
+      "period": "2026-06",
+      "views": 23102
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 43314
+      "views": 66416
     }
   ]
 }

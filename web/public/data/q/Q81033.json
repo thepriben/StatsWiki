@@ -1,0 +1,28 @@
+{
+  "qid": "Q81033",
+  "label": "Monterrey",
+  "title": "Monterrey",
+  "description": "capital of the State of Nuevo Leon, Mexico",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerro_de_la_Silla.jpg?width=64",
+  "total": 47083,
+  "monthly": [
+    {
+      "period": "2019-12",
+      "views": 11475
+    },
+    {
+      "period": "2026-06",
+      "views": 35608
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11475
+    },
+    {
+      "period": "2026",
+      "views": 35608
+    }
+  ]
+}

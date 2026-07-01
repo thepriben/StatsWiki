@@ -1,0 +1,28 @@
+{
+  "qid": "Q194126",
+  "label": "Calgary Flames",
+  "title": "Calgary_Flames",
+  "description": "hockey team of the National Hockey League",
+  "image": "",
+  "total": 51241,
+  "monthly": [
+    {
+      "period": "2022-05",
+      "views": 31750
+    },
+    {
+      "period": "2026-06",
+      "views": 19491
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 31750
+    },
+    {
+      "period": "2026",
+      "views": 19491
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "qid": "Q20735644",
+  "label": "Me Before You",
+  "title": "Me_Before_You",
+  "description": "2016 film directed by Thea Sharrock",
+  "image": "",
+  "total": 2742073,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 427790
+    },
+    {
+      "period": "2016-03",
+      "views": 46741
+    },
+    {
+      "period": "2016-04",
+      "views": 88231
+    },
+    {
+      "period": "2016-05",
+      "views": 740934
+    },
+    {
+      "period": "2016-06",
+      "views": 899617
+    },
+    {
+      "period": "2016-07",
+      "views": 495517
+    },
+    {
+      "period": "2016-09",
+      "views": 29994
+    },
+    {
+      "period": "2026-06",
+      "views": 13249
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 2728824
+    },
+    {
+      "period": "2026",
+      "views": 13249
+    }
+  ]
+}

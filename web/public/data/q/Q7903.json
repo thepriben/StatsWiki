@@ -1,0 +1,36 @@
+{
+  "qid": "Q7903",
+  "label": "Casablanca",
+  "title": "Casablanca",
+  "description": "largest city of Morocco",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Au_centre_de_Casablanca_%288177200639%29.jpg?width=64",
+  "total": 154316,
+  "monthly": [
+    {
+      "period": "2022-12",
+      "views": 130150
+    },
+    {
+      "period": "2023-09",
+      "views": 12605
+    },
+    {
+      "period": "2026-06",
+      "views": 11561
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 130150
+    },
+    {
+      "period": "2023",
+      "views": 12605
+    },
+    {
+      "period": "2026",
+      "views": 11561
+    }
+  ]
+}
