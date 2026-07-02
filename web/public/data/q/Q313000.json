@@ -4,7 +4,7 @@
   "title": "Mauricio_Pochettino",
   "description": "Argentine association football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg?width=64",
-  "total": 3822338,
+  "total": 3875215,
   "monthly": [
     {
       "period": "2016-02",
@@ -245,6 +245,10 @@
     {
       "period": "2026-06",
       "views": 950062
+    },
+    {
+      "period": "2026-07",
+      "views": 52877
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 1049268
+      "views": 1102145
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "I_Will_Find_You_(miniseries)",
   "description": "American television series",
   "image": "",
-  "total": 1586515,
+  "total": 1655502,
   "monthly": [
     {
       "period": "2026-06",
       "views": 1586515
+    },
+    {
+      "period": "2026-07",
+      "views": 68987
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1586515
+      "views": 1655502
     }
   ]
 }

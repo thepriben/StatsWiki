@@ -4,7 +4,7 @@
   "title": "Eugenie_Bouchard",
   "description": "Canadian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouchard_WM19_%288%29_%2848521872326%29.jpg?width=64",
-  "total": 833284,
+  "total": 843299,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 9382
+    },
+    {
+      "period": "2026-07",
+      "views": 10015
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 9382
+      "views": 19397
     }
   ]
 }

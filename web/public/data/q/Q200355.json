@@ -4,7 +4,7 @@
   "title": "Olivia_Wilde",
   "description": "American actress and film director (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivia_Wilde_in_2022.jpg?width=64",
-  "total": 17788388,
+  "total": 17803314,
   "monthly": [
     {
       "period": "2015-07",
@@ -385,6 +385,10 @@
     {
       "period": "2026-06",
       "views": 339498
+    },
+    {
+      "period": "2026-07",
+      "views": 14926
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 727078
+      "views": 742004
     }
   ]
 }

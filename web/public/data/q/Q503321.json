@@ -4,7 +4,7 @@
   "title": "C.D._Guadalajara",
   "description": "Mexican association football club",
   "image": "",
-  "total": 86113,
+  "total": 95392,
   "monthly": [
     {
       "period": "2017-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 22259
+    },
+    {
+      "period": "2026-07",
+      "views": 9279
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 22259
+      "views": 31538
     }
   ]
 }

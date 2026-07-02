@@ -4,7 +4,7 @@
   "title": "Steve-O",
   "description": "British-American stunt performer (born 1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve-O_by_Gage_Skidmore.jpg?width=64",
-  "total": 937261,
+  "total": 946313,
   "monthly": [
     {
       "period": "2015-08",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 78008
+    },
+    {
+      "period": "2026-07",
+      "views": 9052
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 87115
+      "views": 96167
     }
   ]
 }

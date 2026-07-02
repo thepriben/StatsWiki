@@ -4,7 +4,7 @@
   "title": "Clarence_Thomas",
   "description": "Associate Justice of the Supreme Court of the United States since 1991",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clarence_Thomas_official_SCOTUS_portrait.jpg?width=64",
-  "total": 6950379,
+  "total": 6977146,
   "monthly": [
     {
       "period": "2016-02",
@@ -213,6 +213,10 @@
     {
       "period": "2026-06",
       "views": 31180
+    },
+    {
+      "period": "2026-07",
+      "views": 26767
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 98307
+      "views": 125074
     }
   ]
 }

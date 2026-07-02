@@ -4,7 +4,7 @@
   "title": "Olivia_Rodrigo",
   "description": "American singer-songwriter and actress (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glasto2025-546_%28cropped_2%29.jpg?width=64",
-  "total": 22036798,
+  "total": 22056598,
   "monthly": [
     {
       "period": "2021-01",
@@ -241,6 +241,10 @@
     {
       "period": "2026-06",
       "views": 785099
+    },
+    {
+      "period": "2026-07",
+      "views": 19800
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 1937031
+      "views": 1956831
     }
   ]
 }

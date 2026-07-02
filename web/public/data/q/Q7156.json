@@ -4,7 +4,7 @@
   "title": "FC_Barcelona",
   "description": "multisports club in Barcelona, Spain",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2015_UEFA_Super_Cup_67.jpg?width=64",
-  "total": 37827605,
+  "total": 37845173,
   "monthly": [
     {
       "period": "2015-07",
@@ -525,6 +525,10 @@
     {
       "period": "2026-06",
       "views": 331704
+    },
+    {
+      "period": "2026-07",
+      "views": 17568
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 1065317
+      "views": 1082885
     }
   ]
 }

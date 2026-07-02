@@ -4,7 +4,7 @@
   "title": "Romelu_Lukaku",
   "description": "Belgian footballer (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Romelu_Lukaku_2021.jpg?width=64",
-  "total": 10628610,
+  "total": 10808706,
   "monthly": [
     {
       "period": "2015-08",
@@ -357,6 +357,10 @@
     {
       "period": "2026-06",
       "views": 491621
+    },
+    {
+      "period": "2026-07",
+      "views": 180096
     }
   ],
   "yearly": [
@@ -406,7 +410,7 @@
     },
     {
       "period": "2026",
-      "views": 509862
+      "views": 689958
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Spider-Man:_Brand_New_Day",
   "description": "upcoming film directed by Destin Daniel Cretton",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider_Man_Brand_New_Day_Logo.svg?width=64",
-  "total": 5055312,
+  "total": 5081213,
   "monthly": [
     {
       "period": "2025-04",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 778505
+    },
+    {
+      "period": "2026-07",
+      "views": 25901
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 3336935
+      "views": 3362836
     }
   ]
 }

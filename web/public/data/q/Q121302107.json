@@ -4,7 +4,7 @@
   "title": "KD:_The_Devil",
   "description": "upcoming film directed by Prem",
   "image": "",
-  "total": 343207,
+  "total": 354968,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-06",
       "views": 172740
+    },
+    {
+      "period": "2026-07",
+      "views": 11761
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 343207
+      "views": 354968
     }
   ]
 }

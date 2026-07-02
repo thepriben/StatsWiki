@@ -4,7 +4,7 @@
   "title": "House_of_the_Dragon",
   "description": "American fantasy drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/House_of_the_dragon_logo.png?width=64",
-  "total": 26900230,
+  "total": 26948634,
   "monthly": [
     {
       "period": "2021-05",
@@ -165,6 +165,10 @@
     {
       "period": "2026-06",
       "views": 957959
+    },
+    {
+      "period": "2026-07",
+      "views": 48404
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 1651605
+      "views": 1700009
     }
   ]
 }

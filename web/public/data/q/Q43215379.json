@@ -4,7 +4,7 @@
   "title": "2034_FIFA_World_Cup",
   "description": "25th FIFA World Cup",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIFA_World_Cup_wordmark_%282023%29.svg?width=64",
-  "total": 2098791,
+  "total": 2123524,
   "monthly": [
     {
       "period": "2018-06",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 720021
+    },
+    {
+      "period": "2026-07",
+      "views": 24733
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 731398
+      "views": 756131
     }
   ]
 }

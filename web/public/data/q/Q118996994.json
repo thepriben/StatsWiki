@@ -4,7 +4,7 @@
   "title": "Moana_(2026_film)",
   "description": "upcoming film directed by Thomas Kail",
   "image": "",
-  "total": 418919,
+  "total": 429463,
   "monthly": [
     {
       "period": "2024-11",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 87954
+    },
+    {
+      "period": "2026-07",
+      "views": 10544
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 181841
+      "views": 192385
     }
   ]
 }

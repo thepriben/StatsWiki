@@ -4,7 +4,7 @@
   "title": "The_Sheep_Detectives",
   "description": "2026 film directed by Kyle Balda",
   "image": "",
-  "total": 1977259,
+  "total": 2040197,
   "monthly": [
     {
       "period": "2025-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 829808
+    },
+    {
+      "period": "2026-07",
+      "views": 62938
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 1859431
+      "views": 1922369
     }
   ]
 }

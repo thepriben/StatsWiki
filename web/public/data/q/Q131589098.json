@@ -4,7 +4,7 @@
   "title": "2025_Africa_Cup_of_Nations_final",
   "description": "football match",
   "image": "",
-  "total": 130817,
+  "total": 143949,
   "monthly": [
     {
       "period": "2026-01",
@@ -17,12 +17,16 @@
     {
       "period": "2026-06",
       "views": 20163
+    },
+    {
+      "period": "2026-07",
+      "views": 13132
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 130817
+      "views": 143949
     }
   ]
 }

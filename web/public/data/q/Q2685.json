@@ -4,7 +4,7 @@
   "title": "Arnold_Schwarzenegger",
   "description": "Austrian and American actor, bodybuilder, and politician (born 1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnold_Schwarzenegger_2025_%28cropped%29.jpg?width=64",
-  "total": 69473289,
+  "total": 69483499,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 308727
+    },
+    {
+      "period": "2026-07",
+      "views": 10210
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 2128925
+      "views": 2139135
     }
   ]
 }

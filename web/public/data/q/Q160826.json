@@ -4,7 +4,7 @@
   "title": "Sweden_men's_national_football_team",
   "description": "men's national association football team representing Sweden",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Swedishnationalteam1930.jpg?width=64",
-  "total": 292310,
+  "total": 305095,
   "monthly": [
     {
       "period": "2025-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 232308
+    },
+    {
+      "period": "2026-07",
+      "views": 12785
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 281671
+      "views": 294456
     }
   ]
 }

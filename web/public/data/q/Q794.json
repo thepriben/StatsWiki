@@ -4,7 +4,7 @@
   "title": "Iran",
   "description": "country in Western Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iran_-_Location_Map_%282013%29_-_IRN_-_UNOCHA.svg?width=64",
-  "total": 32467575,
+  "total": 32476717,
   "monthly": [
     {
       "period": "2015-07",
@@ -493,6 +493,10 @@
     {
       "period": "2026-06",
       "views": 385101
+    },
+    {
+      "period": "2026-07",
+      "views": 9142
     }
   ],
   "yearly": [
@@ -542,7 +546,7 @@
     },
     {
       "period": "2026",
-      "views": 6933750
+      "views": 6942892
     }
   ]
 }

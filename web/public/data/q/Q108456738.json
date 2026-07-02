@@ -4,7 +4,7 @@
   "title": "Silo_(TV_series)",
   "description": "science fiction television series",
   "image": "",
-  "total": 6174734,
+  "total": 6186388,
   "monthly": [
     {
       "period": "2023-03",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 86783
+    },
+    {
+      "period": "2026-07",
+      "views": 11654
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 148117
+      "views": 159771
     }
   ]
 }

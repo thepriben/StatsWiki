@@ -4,7 +4,7 @@
   "title": "Paraguay",
   "description": "sovereign state in South America",
   "image": "",
-  "total": 399305,
+  "total": 415689,
   "monthly": [
     {
       "period": "2017-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 345190
+    },
+    {
+      "period": "2026-07",
+      "views": 16384
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 345190
+      "views": 361574
     }
   ]
 }

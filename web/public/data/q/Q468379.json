@@ -4,7 +4,7 @@
   "title": "FIFA_World_Cup_records_and_statistics",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1426008,
+  "total": 1483930,
   "monthly": [
     {
       "period": "2022-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 747167
+    },
+    {
+      "period": "2026-07",
+      "views": 57922
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 747167
+      "views": 805089
     }
   ]
 }

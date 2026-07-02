@@ -4,7 +4,7 @@
   "title": "Paul_Pogba",
   "description": "French footballer (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg?width=64",
-  "total": 8305198,
+  "total": 8319467,
   "monthly": [
     {
       "period": "2015-08",
@@ -349,6 +349,10 @@
     {
       "period": "2026-06",
       "views": 85401
+    },
+    {
+      "period": "2026-07",
+      "views": 14269
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 95484
+      "views": 109753
     }
   ]
 }

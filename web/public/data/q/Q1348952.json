@@ -1,0 +1,64 @@
+{
+  "qid": "Q1348952",
+  "label": "earthquake light",
+  "title": "Earthquake_light",
+  "description": "optical phenomenon",
+  "image": "",
+  "total": 278451,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 14915
+    },
+    {
+      "period": "2017-09",
+      "views": 73279
+    },
+    {
+      "period": "2021-09",
+      "views": 36912
+    },
+    {
+      "period": "2022-03",
+      "views": 11303
+    },
+    {
+      "period": "2023-02",
+      "views": 49188
+    },
+    {
+      "period": "2023-09",
+      "views": 69534
+    },
+    {
+      "period": "2026-07",
+      "views": 23320
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 14915
+    },
+    {
+      "period": "2017",
+      "views": 73279
+    },
+    {
+      "period": "2021",
+      "views": 36912
+    },
+    {
+      "period": "2022",
+      "views": 11303
+    },
+    {
+      "period": "2023",
+      "views": 118722
+    },
+    {
+      "period": "2026",
+      "views": 23320
+    }
+  ]
+}

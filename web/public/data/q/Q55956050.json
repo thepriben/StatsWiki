@@ -4,7 +4,7 @@
   "title": "Oliver_Tree",
   "description": "American singer, record producer, and comedian (1993–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver_Tree_%283x4%29.jpg?width=64",
-  "total": 5062768,
+  "total": 5093139,
   "monthly": [
     {
       "period": "2019-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 4880720
+    },
+    {
+      "period": "2026-07",
+      "views": 30371
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 4888351
+      "views": 4918722
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Roger_Federer",
   "description": "Swiss tennis player (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Federer_WM16_%2837%29_%2828136155830%29.jpg?width=64",
-  "total": 36983214,
+  "total": 36995282,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-06",
       "views": 188010
+    },
+    {
+      "period": "2026-07",
+      "views": 12068
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 694272
+      "views": 706340
     }
   ]
 }

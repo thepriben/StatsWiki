@@ -4,17 +4,21 @@
   "title": "Every_Year_After",
   "description": "American television series",
   "image": "",
-  "total": 517534,
+  "total": 527136,
   "monthly": [
     {
       "period": "2026-06",
       "views": 517534
+    },
+    {
+      "period": "2026-07",
+      "views": 9602
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 517534
+      "views": 527136
     }
   ]
 }

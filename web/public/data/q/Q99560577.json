@@ -4,7 +4,7 @@
   "title": "Louis_Partridge",
   "description": "British actor (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Partridge.jpg?width=64",
-  "total": 1888404,
+  "total": 1910556,
   "monthly": [
     {
       "period": "2020-09",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 125667
+    },
+    {
+      "period": "2026-07",
+      "views": 22152
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 207724
+      "views": 229876
     }
   ]
 }

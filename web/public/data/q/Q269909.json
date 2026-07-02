@@ -4,7 +4,7 @@
   "title": "Andy_Burnham",
   "description": "British politician (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Burnham_on_13_August_2024_%28cropped_2%29.jpg?width=64",
-  "total": 4167868,
+  "total": 4199046,
   "monthly": [
     {
       "period": "2016-04",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 2482566
+    },
+    {
+      "period": "2026-07",
+      "views": 31178
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 3677092
+      "views": 3708270
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Adolf_Hitler",
   "description": "dictator of Germany from 1933 to 1945, main instigator of World War II (1889–1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Hitler_cropped_restored_3x4.jpg?width=64",
-  "total": 90787651,
+  "total": 90805126,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 477164
+    },
+    {
+      "period": "2026-07",
+      "views": 17475
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 3713278
+      "views": 3730753
     }
   ]
 }

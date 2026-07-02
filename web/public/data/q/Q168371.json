@@ -4,7 +4,7 @@
   "title": "Alexi_Lalas",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexi_Lalas_Paley_Center_Fox_Sports_Soccer-7_%28cropped%29.jpg?width=64",
-  "total": 827041,
+  "total": 846930,
   "monthly": [
     {
       "period": "2018-06",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 544565
+    },
+    {
+      "period": "2026-07",
+      "views": 19889
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 564998
+      "views": 584887
     }
   ]
 }

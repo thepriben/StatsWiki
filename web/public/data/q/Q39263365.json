@@ -4,7 +4,7 @@
   "title": "Coco_Gauff",
   "description": "American tennis player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coco_Gauff_%282023_DC_Open%29_03_%28cropped2%29.jpg?width=64",
-  "total": 7427931,
+  "total": 7450024,
   "monthly": [
     {
       "period": "2019-10",
@@ -153,6 +153,10 @@
     {
       "period": "2026-05",
       "views": 54271
+    },
+    {
+      "period": "2026-07",
+      "views": 22093
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 270629
+      "views": 292722
     }
   ]
 }

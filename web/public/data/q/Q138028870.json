@@ -4,7 +4,7 @@
   "title": "Arirang_World_Tour",
   "description": "2026–2027 concert tour by BTS",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BTS_Arirang_Tour_logo.jpg?width=64",
-  "total": 577758,
+  "total": 588702,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-06",
       "views": 69020
+    },
+    {
+      "period": "2026-07",
+      "views": 10944
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 577758
+      "views": 588702
     }
   ]
 }

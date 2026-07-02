@@ -4,7 +4,7 @@
   "title": "Jalen_Duren",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jalen_Duren_Free_Throw_01252026_%28cropped%29_2.jpg?width=64",
-  "total": 155368,
+  "total": 166925,
   "monthly": [
     {
       "period": "2022-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 14259
+    },
+    {
+      "period": "2026-07",
+      "views": 11557
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 65376
+      "views": 76933
     }
   ]
 }

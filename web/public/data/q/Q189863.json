@@ -4,17 +4,21 @@
   "title": "Herzegovina",
   "description": "historical region of Bosnia and Herzegovina",
   "image": "",
-  "total": 26683,
+  "total": 44353,
   "monthly": [
     {
       "period": "2026-06",
       "views": 26683
+    },
+    {
+      "period": "2026-07",
+      "views": 17670
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26683
+      "views": 44353
     }
   ]
 }

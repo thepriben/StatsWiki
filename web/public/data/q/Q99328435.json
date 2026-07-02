@@ -4,7 +4,7 @@
   "title": "Amadou_Onana",
   "description": "Belgian association football player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amadou_Onana_USMNT_v_Belgium_Mar_28_2026-96_%28cropped%29.jpg?width=64",
-  "total": 477084,
+  "total": 511390,
   "monthly": [
     {
       "period": "2022-08",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 13047
+    },
+    {
+      "period": "2026-07",
+      "views": 34306
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 13047
+      "views": 47353
     }
   ]
 }

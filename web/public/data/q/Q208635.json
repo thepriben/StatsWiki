@@ -4,7 +4,7 @@
   "title": "Canada_men's_national_soccer_team",
   "description": "men's national association football team representing Canada",
   "image": "",
-  "total": 1905084,
+  "total": 1915977,
   "monthly": [
     {
       "period": "2015-07",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 536382
+    },
+    {
+      "period": "2026-07",
+      "views": 10893
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 554160
+      "views": 565053
     }
   ]
 }

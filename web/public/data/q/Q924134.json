@@ -4,7 +4,7 @@
   "title": "Pape_Thiaw",
   "description": "Senegalese football manager (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pape_Thiaw.png?width=64",
-  "total": 147881,
+  "total": 186144,
   "monthly": [
     {
       "period": "2025-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 48174
+    },
+    {
+      "period": "2026-07",
+      "views": 38263
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 139205
+      "views": 177468
     }
   ]
 }

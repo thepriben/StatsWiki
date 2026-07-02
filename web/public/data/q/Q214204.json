@@ -4,7 +4,7 @@
   "title": "Eden_Hazard",
   "description": "Belgian footballer (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg?width=64",
-  "total": 5591523,
+  "total": 5607714,
   "monthly": [
     {
       "period": "2015-07",
@@ -257,6 +257,10 @@
     {
       "period": "2026-06",
       "views": 41205
+    },
+    {
+      "period": "2026-07",
+      "views": 16191
     }
   ],
   "yearly": [
@@ -306,7 +310,7 @@
     },
     {
       "period": "2026",
-      "views": 50327
+      "views": 66518
     }
   ]
 }

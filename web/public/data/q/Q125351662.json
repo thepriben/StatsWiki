@@ -4,7 +4,7 @@
   "title": "FIFA_Men's_World_Ranking",
   "description": "world ranking list for men's association football teams",
   "image": "",
-  "total": 7785920,
+  "total": 7935131,
   "monthly": [
     {
       "period": "2022-11",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 2818531
+    },
+    {
+      "period": "2026-07",
+      "views": 149211
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 3051421
+      "views": 3200632
     }
   ]
 }

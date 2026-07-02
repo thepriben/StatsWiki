@@ -4,7 +4,7 @@
   "title": "Bosnia_and_Herzegovina_national_football_team",
   "description": "men's national association football team representing Bosnia and Herzegovina",
   "image": "",
-  "total": 496818,
+  "total": 533774,
   "monthly": [
     {
       "period": "2015-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 332071
+    },
+    {
+      "period": "2026-07",
+      "views": 36956
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 475356
+      "views": 512312
     }
   ]
 }

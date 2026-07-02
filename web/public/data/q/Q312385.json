@@ -4,7 +4,7 @@
   "title": "Matt_Smith",
   "description": "English actor (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt_Smith_at_Los_Angeles_Comic_Con_2023-02.jpg?width=64",
-  "total": 3359969,
+  "total": 3375731,
   "monthly": [
     {
       "period": "2021-10",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 55633
+    },
+    {
+      "period": "2026-07",
+      "views": 15762
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 55633
+      "views": 71395
     }
   ]
 }

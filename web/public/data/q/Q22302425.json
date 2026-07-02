@@ -4,7 +4,7 @@
   "title": "Bronny_James",
   "description": "American basketball player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bronny_James_Jr._%2855095342116%29_%28cropped%29.jpg?width=64",
-  "total": 3600368,
+  "total": 3617714,
   "monthly": [
     {
       "period": "2019-12",
@@ -177,6 +177,10 @@
     {
       "period": "2026-06",
       "views": 18688
+    },
+    {
+      "period": "2026-07",
+      "views": 17346
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 169943
+      "views": 187289
     }
   ]
 }

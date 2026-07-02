@@ -4,7 +4,7 @@
   "title": "Kalidou_Koulibaly",
   "description": "Senegalese-French footballer (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joueur_de_foot.jpg?width=64",
-  "total": 713218,
+  "total": 724276,
   "monthly": [
     {
       "period": "2018-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 59179
+    },
+    {
+      "period": "2026-07",
+      "views": 11058
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 85491
+      "views": 96549
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Mesut_Özil",
   "description": "Turkish-German association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mesut_%C3%96zil_at_Baku_before_2019_UEFA_Europe_League_Final.jpg?width=64",
-  "total": 3429524,
+  "total": 3455716,
   "monthly": [
     {
       "period": "2015-10",
@@ -185,6 +185,10 @@
     {
       "period": "2026-06",
       "views": 81371
+    },
+    {
+      "period": "2026-07",
+      "views": 26192
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 81371
+      "views": 107563
     }
   ]
 }

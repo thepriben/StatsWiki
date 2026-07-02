@@ -4,7 +4,7 @@
   "title": "1986_FIFA_World_Cup",
   "description": "13th FIFA World Cup, held in Mexico",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maradona_cup_azteca.jpg?width=64",
-  "total": 2975435,
+  "total": 3016258,
   "monthly": [
     {
       "period": "2016-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 504547
+    },
+    {
+      "period": "2026-07",
+      "views": 40823
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 512679
+      "views": 553502
     }
   ]
 }

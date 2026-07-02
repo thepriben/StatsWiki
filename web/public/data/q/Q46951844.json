@@ -4,7 +4,7 @@
   "title": "Aurélien_Tchouaméni",
   "description": "French footballer (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aur%C3%A9lien_Tchouam%C3%A9ni.jpg?width=64",
-  "total": 779732,
+  "total": 790492,
   "monthly": [
     {
       "period": "2021-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 40592
+    },
+    {
+      "period": "2026-07",
+      "views": 10760
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 90052
+      "views": 100812
     }
   ]
 }

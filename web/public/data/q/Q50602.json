@@ -4,7 +4,7 @@
   "title": "Manchester_City_F.C.",
   "description": "association football club in Manchester, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg?width=64",
-  "total": 27510656,
+  "total": 27527985,
   "monthly": [
     {
       "period": "2015-07",
@@ -505,6 +505,10 @@
     {
       "period": "2026-06",
       "views": 248294
+    },
+    {
+      "period": "2026-07",
+      "views": 17329
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 1057672
+      "views": 1075001
     }
   ]
 }

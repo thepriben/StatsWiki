@@ -1,0 +1,52 @@
+{
+  "qid": "Q2507328",
+  "label": "list of cocktails",
+  "title": "List_of_cocktails",
+  "description": "Wikimedia list article",
+  "image": "",
+  "total": 139258,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 11325
+    },
+    {
+      "period": "2019-07",
+      "views": 17730
+    },
+    {
+      "period": "2025-01",
+      "views": 15100
+    },
+    {
+      "period": "2025-03",
+      "views": 19206
+    },
+    {
+      "period": "2025-11",
+      "views": 66207
+    },
+    {
+      "period": "2026-07",
+      "views": 9690
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11325
+    },
+    {
+      "period": "2019",
+      "views": 17730
+    },
+    {
+      "period": "2025",
+      "views": 100513
+    },
+    {
+      "period": "2026",
+      "views": 9690
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Minions_(film)",
   "description": "2015 animated film by Pierre Coffin and Kyle Balda",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minions_%28film%29_yellow_logo.svg?width=64",
-  "total": 3681782,
+  "total": 3691091,
   "monthly": [
     {
       "period": "2015-07",
@@ -57,6 +57,10 @@
     {
       "period": "2024-12",
       "views": 11996
+    },
+    {
+      "period": "2026-07",
+      "views": 9309
     }
   ],
   "yearly": [
@@ -75,6 +79,10 @@
     {
       "period": "2024",
       "views": 58525
+    },
+    {
+      "period": "2026",
+      "views": 9309
     }
   ]
 }

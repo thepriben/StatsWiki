@@ -4,7 +4,7 @@
   "title": "Sex",
   "description": "biological system that determines an individual's sexually reproductive functions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cromosomas_X-Y_y_gametos.jpg?width=64",
-  "total": 78059230,
+  "total": 78075142,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-06",
       "views": 447185
+    },
+    {
+      "period": "2026-07",
+      "views": 15912
     }
   ],
   "yearly": [
@@ -494,7 +498,7 @@
     },
     {
       "period": "2026",
-      "views": 3100498
+      "views": 3116410
     }
   ]
 }

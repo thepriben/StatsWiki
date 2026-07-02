@@ -4,7 +4,7 @@
   "title": "Jirès_Kembo_Ekoko",
   "description": "French footballer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kembo.jpg?width=64",
-  "total": 251040,
+  "total": 261891,
   "monthly": [
     {
       "period": "2018-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 33652
+    },
+    {
+      "period": "2026-07",
+      "views": 10851
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 33652
+      "views": 44503
     }
   ]
 }

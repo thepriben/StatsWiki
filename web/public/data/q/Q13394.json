@@ -4,7 +4,7 @@
   "title": "Ligue_1",
   "description": "French professional league for men's association football clubs",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Ligue_1_McDonald%27s_2024.svg?width=64",
-  "total": 1033746,
+  "total": 1047505,
   "monthly": [
     {
       "period": "2017-08",
@@ -97,6 +97,10 @@
     {
       "period": "2026-06",
       "views": 21324
+    },
+    {
+      "period": "2026-07",
+      "views": 13759
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 43937
+      "views": 57696
     }
   ]
 }

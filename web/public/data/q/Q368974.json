@@ -4,7 +4,7 @@
   "title": "FIFA_World_Cup_awards",
   "description": "award",
   "image": "",
-  "total": 1866421,
+  "total": 1882216,
   "monthly": [
     {
       "period": "2015-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 128452
+    },
+    {
+      "period": "2026-07",
+      "views": 15795
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 128452
+      "views": 144247
     }
   ]
 }

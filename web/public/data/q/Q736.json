@@ -4,7 +4,7 @@
   "title": "Ecuador",
   "description": "sovereign state in South America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecuador_Blue_Marble.png?width=64",
-  "total": 1338674,
+  "total": 1394954,
   "monthly": [
     {
       "period": "2016-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 189080
+    },
+    {
+      "period": "2026-07",
+      "views": 56280
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 198957
+      "views": 255237
     }
   ]
 }

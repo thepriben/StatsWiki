@@ -4,7 +4,7 @@
   "title": "Neymar",
   "description": "Brazilian association football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg?width=64",
-  "total": 32541731,
+  "total": 32579583,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-06",
       "views": 1229615
+    },
+    {
+      "period": "2026-07",
+      "views": 37852
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 1866849
+      "views": 1904701
     }
   ]
 }

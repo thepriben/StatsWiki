@@ -4,7 +4,7 @@
   "title": "Jus_soli",
   "description": "right of anyone born in the territory of a state to nationality or citizenship",
   "image": "",
-  "total": 341904,
+  "total": 350730,
   "monthly": [
     {
       "period": "2018-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 11033
+    },
+    {
+      "period": "2026-07",
+      "views": 8826
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 25048
+      "views": 33874
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Graham_Potter",
   "description": "English association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Graham_Potter%2C_Brighton_%26_Hove_Albion_vs_RCD_Espanyol%2C_30_July_2022_%281%29_%28cropped%29.jpg?width=64",
-  "total": 2204165,
+  "total": 2213177,
   "monthly": [
     {
       "period": "2017-12",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 172201
+    },
+    {
+      "period": "2026-07",
+      "views": 9012
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 214538
+      "views": 223550
     }
   ]
 }

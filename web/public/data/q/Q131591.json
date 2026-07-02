@@ -4,7 +4,7 @@
   "title": "1938_FIFA_World_Cup",
   "description": "3rd FIFA World Cup, held in France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1938_fifa_worldcup_poster.jpg?width=64",
-  "total": 1009570,
+  "total": 1019914,
   "monthly": [
     {
       "period": "2018-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 188113
+    },
+    {
+      "period": "2026-07",
+      "views": 10344
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 188113
+      "views": 198457
     }
   ]
 }

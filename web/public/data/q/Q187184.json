@@ -4,7 +4,7 @@
   "title": "Joe_Hart",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Hart_69775.jpg?width=64",
-  "total": 1182068,
+  "total": 1198640,
   "monthly": [
     {
       "period": "2016-06",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 20821
+    },
+    {
+      "period": "2026-07",
+      "views": 16572
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 59645
+      "views": 76217
     }
   ]
 }

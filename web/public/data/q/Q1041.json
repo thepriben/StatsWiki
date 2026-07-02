@@ -4,7 +4,7 @@
   "title": "Senegal",
   "description": "country on the coast of West Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_map_of_Senegal.svg?width=64",
-  "total": 2309462,
+  "total": 2469578,
   "monthly": [
     {
       "period": "2016-01",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 292297
+    },
+    {
+      "period": "2026-07",
+      "views": 160116
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 428439
+      "views": 588555
     }
   ]
 }

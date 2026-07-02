@@ -4,7 +4,7 @@
   "title": "Democratic_Republic_of_the_Congo",
   "description": "country in Central Africa",
   "image": "",
-  "total": 2052836,
+  "total": 2340615,
   "monthly": [
     {
       "period": "2016-08",
@@ -165,6 +165,10 @@
     {
       "period": "2026-06",
       "views": 656305
+    },
+    {
+      "period": "2026-07",
+      "views": 287779
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 854584
+      "views": 1142363
     }
   ]
 }

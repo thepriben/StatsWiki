@@ -4,7 +4,7 @@
   "title": "Emily_Blunt",
   "description": "British actress (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emily_Blunt_at_WWD_Style_Awards_2026-02.jpg?width=64",
-  "total": 37567031,
+  "total": 37577147,
   "monthly": [
     {
       "period": "2015-07",
@@ -525,6 +525,10 @@
     {
       "period": "2026-06",
       "views": 556145
+    },
+    {
+      "period": "2026-07",
+      "views": 10116
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 2434988
+      "views": 2445104
     }
   ]
 }

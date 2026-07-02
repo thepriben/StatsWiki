@@ -4,17 +4,21 @@
   "title": "Not_Alone_(film)",
   "description": "2027 American animated science fiction romantic comedy film",
   "image": "",
-  "total": 13045,
+  "total": 31913,
   "monthly": [
     {
       "period": "2026-06",
       "views": 13045
+    },
+    {
+      "period": "2026-07",
+      "views": 18868
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 13045
+      "views": 31913
     }
   ]
 }

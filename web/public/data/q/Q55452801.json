@@ -4,7 +4,7 @@
   "title": "Rhaenyra_Targaryen",
   "description": "character in A Song of Ice and Fire and House of the Dragon",
   "image": "",
-  "total": 178676,
+  "total": 189040,
   "monthly": [
     {
       "period": "2022-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 73993
+    },
+    {
+      "period": "2026-07",
+      "views": 10364
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 73993
+      "views": 84357
     }
   ]
 }

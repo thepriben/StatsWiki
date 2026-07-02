@@ -4,17 +4,21 @@
   "title": "Alpha_(2026_film)",
   "description": "",
   "image": "",
-  "total": 187625,
+  "total": 201965,
   "monthly": [
     {
       "period": "2026-06",
       "views": 187625
+    },
+    {
+      "period": "2026-07",
+      "views": 14340
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 187625
+      "views": 201965
     }
   ]
 }

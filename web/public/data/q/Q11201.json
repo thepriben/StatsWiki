@@ -4,7 +4,7 @@
   "title": "Supreme_Court_of_the_United_States",
   "description": "highest court of jurisdiction in the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USSupremeCourtWestFacade.JPG?width=64",
-  "total": 7185891,
+  "total": 7196718,
   "monthly": [
     {
       "period": "2015-07",
@@ -233,6 +233,10 @@
     {
       "period": "2026-06",
       "views": 17934
+    },
+    {
+      "period": "2026-07",
+      "views": 10827
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 95009
+      "views": 105836
     }
   ]
 }

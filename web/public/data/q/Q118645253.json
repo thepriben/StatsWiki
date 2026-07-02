@@ -4,7 +4,7 @@
   "title": "Nico_O'Reilly",
   "description": "English association football player (born 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ManCity20240722-020.jpg?width=64",
-  "total": 680901,
+  "total": 704337,
   "monthly": [
     {
       "period": "2024-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 86127
+    },
+    {
+      "period": "2026-07",
+      "views": 23436
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 386895
+      "views": 410331
     }
   ]
 }

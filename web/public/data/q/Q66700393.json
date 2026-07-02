@@ -4,7 +4,7 @@
   "title": "Maduka_Okoye",
   "description": "German football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Okoye_2026.jpg?width=64",
-  "total": 283412,
+  "total": 295667,
   "monthly": [
     {
       "period": "2022-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 268622
+    },
+    {
+      "period": "2026-07",
+      "views": 12255
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 268622
+      "views": 280877
     }
   ]
 }

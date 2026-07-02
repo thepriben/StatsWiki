@@ -4,7 +4,7 @@
   "title": "Landon_Donovan",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WikiLando_%28cropped%29.jpg?width=64",
-  "total": 622804,
+  "total": 633647,
   "monthly": [
     {
       "period": "2016-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 188874
+    },
+    {
+      "period": "2026-07",
+      "views": 10843
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 188874
+      "views": 199717
     }
   ]
 }

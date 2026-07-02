@@ -4,7 +4,7 @@
   "title": "List_of_countries_and_dependencies_by_population",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 14854282,
+  "total": 14867863,
   "monthly": [
     {
       "period": "2015-07",
@@ -313,6 +313,10 @@
     {
       "period": "2026-06",
       "views": 313169
+    },
+    {
+      "period": "2026-07",
+      "views": 13581
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 1777639
+      "views": 1791220
     }
   ]
 }

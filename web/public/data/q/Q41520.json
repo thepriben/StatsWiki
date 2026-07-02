@@ -4,7 +4,7 @@
   "title": "Wimbledon_Championships",
   "description": "tennis tournament held in London",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wimbledon_Court_1.jpg?width=64",
-  "total": 3831500,
+  "total": 3855039,
   "monthly": [
     {
       "period": "2022-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 47296
+    },
+    {
+      "period": "2026-07",
+      "views": 23539
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 66182
+      "views": 89721
     }
   ]
 }

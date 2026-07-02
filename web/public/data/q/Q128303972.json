@@ -4,7 +4,7 @@
   "title": "2026_FIFA_World_Cup_knockout_stage",
   "description": "stage in FIFA World Cup",
   "image": "",
-  "total": 2435757,
+  "total": 2542062,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 2413948
+    },
+    {
+      "period": "2026-07",
+      "views": 106305
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 2413948
+      "views": 2520253
     }
   ]
 }

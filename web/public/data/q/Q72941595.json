@@ -4,7 +4,7 @@
   "title": "Victor_Wembanyama",
   "description": "French basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Victor_Wembanyama.jpg?width=64",
-  "total": 10777908,
+  "total": 10786837,
   "monthly": [
     {
       "period": "2022-06",
@@ -149,6 +149,10 @@
     {
       "period": "2026-06",
       "views": 2015184
+    },
+    {
+      "period": "2026-07",
+      "views": 8929
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 4464307
+      "views": 4473236
     }
   ]
 }

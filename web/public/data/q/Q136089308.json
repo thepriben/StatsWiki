@@ -4,7 +4,7 @@
   "title": "Man_of_Tomorrow_(film)",
   "description": "2027 film in the DC Universe",
   "image": "",
-  "total": 188477,
+  "total": 202319,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 169872
+    },
+    {
+      "period": "2026-07",
+      "views": 13842
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 188477
+      "views": 202319
     }
   ]
 }

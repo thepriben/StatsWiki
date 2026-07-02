@@ -4,7 +4,7 @@
   "title": "The_Odyssey_(2026_film)",
   "description": "upcoming film directed by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TheOdysseyMovie2026Logo.png?width=64",
-  "total": 8963332,
+  "total": 9011324,
   "monthly": [
     {
       "period": "2025-02",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 1012889
+    },
+    {
+      "period": "2026-07",
+      "views": 47992
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 4577901
+      "views": 4625893
     }
   ]
 }

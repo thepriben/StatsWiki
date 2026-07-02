@@ -4,7 +4,7 @@
   "title": "The_Amazing_Digital_Circus",
   "description": "Australian adult animated web series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Amazing_Digital_Circus_-_logo_black.svg?width=64",
-  "total": 1631871,
+  "total": 1644568,
   "monthly": [
     {
       "period": "2024-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 848012
+    },
+    {
+      "period": "2026-07",
+      "views": 12697
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 1322345
+      "views": 1335042
     }
   ]
 }

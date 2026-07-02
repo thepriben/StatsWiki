@@ -4,7 +4,7 @@
   "title": "Nikki_Freeman",
   "description": "2025 film directed by Curry Barker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Obsession_Q%26A_2026_Century_City.jpg?width=64",
-  "total": 10057009,
+  "total": 10240650,
   "monthly": [
     {
       "period": "2025-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 5808608
+    },
+    {
+      "period": "2026-07",
+      "views": 183641
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 10046444
+      "views": 10230085
     }
   ]
 }

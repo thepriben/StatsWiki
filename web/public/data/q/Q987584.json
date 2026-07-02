@@ -3,8 +3,8 @@
   "label": "Ecuador men's national football team",
   "title": "Ecuador_national_football_team",
   "description": "men's national association football team representing Ecuador",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol.svg?width=64",
-  "total": 840591,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg?width=64",
+  "total": 892666,
   "monthly": [
     {
       "period": "2016-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 274305
+    },
+    {
+      "period": "2026-07",
+      "views": 52075
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 274305
+      "views": 326380
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Borussia_Dortmund",
   "description": "German professional sports club based in Dortmund",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Borussia_Dortmund_logo.svg?width=64",
-  "total": 3612599,
+  "total": 3621715,
   "monthly": [
     {
       "period": "2015-08",
@@ -313,6 +313,10 @@
     {
       "period": "2026-06",
       "views": 39230
+    },
+    {
+      "period": "2026-07",
+      "views": 9116
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 39230
+      "views": 48346
     }
   ]
 }

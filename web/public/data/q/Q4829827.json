@@ -4,7 +4,7 @@
   "title": "Awarapan",
   "description": "2007 film by Mohit Suri",
   "image": "",
-  "total": 101817,
+  "total": 116072,
   "monthly": [
     {
       "period": "2025-07",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 53564
+    },
+    {
+      "period": "2026-07",
+      "views": 14255
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 53564
+      "views": 67819
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rohan_Marley",
   "description": "Son of Bob Marley",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CES_2012_-_House_of_Marley_%28Rohan_Marley%29.jpg?width=64",
-  "total": 933137,
+  "total": 944674,
   "monthly": [
     {
       "period": "2017-05",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 73027
+    },
+    {
+      "period": "2026-07",
+      "views": 11537
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 87506
+      "views": 99043
     }
   ]
 }

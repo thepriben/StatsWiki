@@ -4,7 +4,7 @@
   "title": "Diego_Maradona",
   "description": "Argentine football player and manager (1960–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maradona_1986_vs_italy.jpg?width=64",
-  "total": 15879474,
+  "total": 15920522,
   "monthly": [
     {
       "period": "2015-10",
@@ -245,6 +245,10 @@
     {
       "period": "2026-06",
       "views": 821305
+    },
+    {
+      "period": "2026-07",
+      "views": 41048
     }
   ],
   "yearly": [
@@ -294,7 +298,7 @@
     },
     {
       "period": "2026",
-      "views": 855600
+      "views": 896648
     }
   ]
 }

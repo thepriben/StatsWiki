@@ -4,7 +4,7 @@
   "title": "Avatar:_Fire_and_Ash",
   "description": "2025 American film by James Cameron",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avatar_-_Fuoco_e_cenere.png?width=64",
-  "total": 12463621,
+  "total": 12482171,
   "monthly": [
     {
       "period": "2024-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 273330
+    },
+    {
+      "period": "2026-07",
+      "views": 18550
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 5675778
+      "views": 5694328
     }
   ]
 }

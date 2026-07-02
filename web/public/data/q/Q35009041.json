@@ -4,7 +4,7 @@
   "title": "Stephen_Eustáquio",
   "description": "Canadian soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Eustaquio_Canada_v_Qatar_18_June_2026-031.jpg?width=64",
-  "total": 740114,
+  "total": 753159,
   "monthly": [
     {
       "period": "2021-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 601502
+    },
+    {
+      "period": "2026-07",
+      "views": 13045
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 601502
+      "views": 614547
     }
   ]
 }

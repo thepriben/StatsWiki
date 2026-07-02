@@ -4,7 +4,7 @@
   "title": "1978_FIFA_World_Cup",
   "description": "11th FIFA World Cup, held in Argentina",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Festejo_gente_campo_juego.jpg?width=64",
-  "total": 1744442,
+  "total": 1759112,
   "monthly": [
     {
       "period": "2018-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 288288
+    },
+    {
+      "period": "2026-07",
+      "views": 14670
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 288288
+      "views": 302958
     }
   ]
 }

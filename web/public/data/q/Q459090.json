@@ -4,7 +4,7 @@
   "title": "Club_América",
   "description": "Mexican association football club",
   "image": "",
-  "total": 284509,
+  "total": 302210,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 51959
+    },
+    {
+      "period": "2026-07",
+      "views": 17701
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 51959
+      "views": 69660
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jeremy_Clarkson",
   "description": "British broadcaster, journalist and writer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy_Clarkson.jpg?width=64",
-  "total": 4440136,
+  "total": 4451428,
   "monthly": [
     {
       "period": "2015-07",
@@ -153,6 +153,10 @@
     {
       "period": "2026-06",
       "views": 728374
+    },
+    {
+      "period": "2026-07",
+      "views": 11292
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 728374
+      "views": 739666
     }
   ]
 }

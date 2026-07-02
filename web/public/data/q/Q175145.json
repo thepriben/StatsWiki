@@ -4,7 +4,7 @@
   "title": "Ivory_Coast_national_football_team",
   "description": "national association football team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Equipe_de_la_Cote_d%27Ivoire.jpg?width=64",
-  "total": 724122,
+  "total": 737670,
   "monthly": [
     {
       "period": "2022-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 446737
+    },
+    {
+      "period": "2026-07",
+      "views": 13548
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 446737
+      "views": 460285
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "List_of_largest_cities",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1601097,
+  "total": 1611121,
   "monthly": [
     {
       "period": "2017-09",
@@ -173,6 +173,10 @@
     {
       "period": "2026-06",
       "views": 30468
+    },
+    {
+      "period": "2026-07",
+      "views": 10024
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 92815
+      "views": 102839
     }
   ]
 }

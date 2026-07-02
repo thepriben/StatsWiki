@@ -4,7 +4,7 @@
   "title": "Martina_Navratilova",
   "description": "Czech-American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Nederland_tegen_Verenigde_Staten_in_Den_Haag_Navratilova_in_aktie%2C_Bestanddeelnr_930-9118_%28cropped%29.jpg?width=64",
-  "total": 2238612,
+  "total": 2251683,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 107161
+    },
+    {
+      "period": "2026-07",
+      "views": 13071
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 117583
+      "views": 130654
     }
   ]
 }

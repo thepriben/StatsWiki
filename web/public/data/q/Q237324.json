@@ -4,7 +4,7 @@
   "title": "Lisa_Marie_Presley",
   "description": "American singer-songwriter (1968–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisa_Marie_Presley_at_car_race_%28cropped%29.jpg?width=64",
-  "total": 31339336,
+  "total": 31348265,
   "monthly": [
     {
       "period": "2015-07",
@@ -413,6 +413,10 @@
     {
       "period": "2026-06",
       "views": 466943
+    },
+    {
+      "period": "2026-07",
+      "views": 8929
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 2528023
+      "views": 2536952
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Harlan_Coben",
   "description": "American writer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HarlanCoben.jpg?width=64",
-  "total": 2021480,
+  "total": 2035986,
   "monthly": [
     {
       "period": "2020-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 276260
+    },
+    {
+      "period": "2026-07",
+      "views": 14506
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 651406
+      "views": 665912
     }
   ]
 }

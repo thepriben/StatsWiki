@@ -4,7 +4,7 @@
   "title": "Madeleine_Stowe",
   "description": "American actress (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madeleine_Stowe_at_Artists_for_Peace_and_Justice_2014_Festival_Gala_%28cropped%29.jpg?width=64",
-  "total": 350933,
+  "total": 363560,
   "monthly": [
     {
       "period": "2025-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 297653
+    },
+    {
+      "period": "2026-07",
+      "views": 12627
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 297653
+      "views": 310280
     }
   ]
 }

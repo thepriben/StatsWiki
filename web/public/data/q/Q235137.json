@@ -4,7 +4,7 @@
   "title": "Keiko_Fujimori",
   "description": "Peruvian politician (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keiko_Fujimori_em_julho_de_2017.png?width=64",
-  "total": 675093,
+  "total": 685230,
   "monthly": [
     {
       "period": "2016-04",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 355606
+    },
+    {
+      "period": "2026-07",
+      "views": 10137
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 401395
+      "views": 411532
     }
   ]
 }

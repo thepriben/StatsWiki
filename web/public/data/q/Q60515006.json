@@ -4,7 +4,7 @@
   "title": "2025_Africa_Cup_of_Nations",
   "description": "35th edition of the African Cup of Nations",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moulay_Abdellah_Stadium.jpg?width=64",
-  "total": 2804370,
+  "total": 2821852,
   "monthly": [
     {
       "period": "2023-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 79046
+    },
+    {
+      "period": "2026-07",
+      "views": 17482
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 1344543
+      "views": 1362025
     }
   ]
 }

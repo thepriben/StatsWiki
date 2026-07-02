@@ -4,7 +4,7 @@
   "title": "Bhooth_Bangla",
   "description": "2026 film by Priyadarshan",
   "image": "",
-  "total": 2823011,
+  "total": 2834497,
   "monthly": [
     {
       "period": "2026-02",
@@ -25,12 +25,16 @@
     {
       "period": "2026-06",
       "views": 711965
+    },
+    {
+      "period": "2026-07",
+      "views": 11486
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2823011
+      "views": 2834497
     }
   ]
 }

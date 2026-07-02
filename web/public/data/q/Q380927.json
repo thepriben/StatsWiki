@@ -4,7 +4,7 @@
   "title": "Alan_Jackson",
   "description": "American country singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Jackson_1.jpg?width=64",
-  "total": 1279728,
+  "total": 1294156,
   "monthly": [
     {
       "period": "2015-07",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 174557
+    },
+    {
+      "period": "2026-07",
+      "views": 14428
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 185914
+      "views": 200342
     }
   ]
 }

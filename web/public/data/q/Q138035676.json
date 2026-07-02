@@ -4,7 +4,7 @@
   "title": "Jackass:_Best_and_Last",
   "description": "2026 film directed by Jeff Tremaine",
   "image": "",
-  "total": 230478,
+  "total": 249504,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 193401
+    },
+    {
+      "period": "2026-07",
+      "views": 19026
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 230478
+      "views": 249504
     }
   ]
 }

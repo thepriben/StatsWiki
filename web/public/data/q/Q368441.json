@@ -4,7 +4,7 @@
   "title": "James_Rodríguez",
   "description": "Colombian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_al_natural_-_Series%2C_02.jpg?width=64",
-  "total": 4302307,
+  "total": 4314371,
   "monthly": [
     {
       "period": "2015-08",
@@ -209,6 +209,10 @@
     {
       "period": "2026-06",
       "views": 540262
+    },
+    {
+      "period": "2026-07",
+      "views": 12064
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 636485
+      "views": 648549
     }
   ]
 }

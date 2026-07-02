@@ -4,7 +4,7 @@
   "title": "Theodore_Roosevelt",
   "description": "26th President of the United States from 1901 to 1909 (1858–1919)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore_Roosevelt_by_the_Pach_Bros.jpg?width=64",
-  "total": 27954029,
+  "total": 28010548,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-06",
       "views": 319186
+    },
+    {
+      "period": "2026-07",
+      "views": 56519
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1571323
+      "views": 1627842
     }
   ]
 }

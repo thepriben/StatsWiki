@@ -4,7 +4,7 @@
   "title": "List_of_countries_and_dependencies_by_area",
   "description": "Wikimedia ranked list",
   "image": "",
-  "total": 4790400,
+  "total": 4802806,
   "monthly": [
     {
       "period": "2015-08",
@@ -193,6 +193,10 @@
     {
       "period": "2026-06",
       "views": 166669
+    },
+    {
+      "period": "2026-07",
+      "views": 12406
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 1236658
+      "views": 1249064
     }
   ]
 }

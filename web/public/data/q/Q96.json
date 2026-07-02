@@ -4,7 +4,7 @@
   "title": "Mexico",
   "description": "country in North America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/States_of_Mexico.svg?width=64",
-  "total": 24325818,
+  "total": 24353197,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-06",
       "views": 335069
+    },
+    {
+      "period": "2026-07",
+      "views": 27379
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 1034648
+      "views": 1062027
     }
   ]
 }

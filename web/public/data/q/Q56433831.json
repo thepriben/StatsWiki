@@ -4,17 +4,21 @@
   "title": "Luis_Romo",
   "description": "Mexican association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis_Romo.png?width=64",
-  "total": 27660,
+  "total": 38038,
   "monthly": [
     {
       "period": "2026-06",
       "views": 27660
+    },
+    {
+      "period": "2026-07",
+      "views": 10378
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 27660
+      "views": 38038
     }
   ]
 }

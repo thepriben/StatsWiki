@@ -1,0 +1,32 @@
+{
+  "qid": "Q10407",
+  "label": "Unión Deportiva Almería",
+  "title": "UD_Almería",
+  "description": "Spanish football club",
+  "image": "",
+  "total": 67952,
+  "monthly": [
+    {
+      "period": "2022-08",
+      "views": 14026
+    },
+    {
+      "period": "2026-02",
+      "views": 27890
+    },
+    {
+      "period": "2026-07",
+      "views": 26036
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 14026
+    },
+    {
+      "period": "2026",
+      "views": 53926
+    }
+  ]
+}

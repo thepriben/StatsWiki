@@ -4,7 +4,7 @@
   "title": "Lumen_Field",
   "description": "multi-purpose stadium in Seattle, Washington, USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qwest_Field_North.jpg?width=64",
-  "total": 245265,
+  "total": 266835,
   "monthly": [
     {
       "period": "2020-11",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 105486
+    },
+    {
+      "period": "2026-07",
+      "views": 21570
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 169323
+      "views": 190893
     }
   ]
 }

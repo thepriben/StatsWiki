@@ -4,7 +4,7 @@
   "title": "Ella_Langley",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ella_Langley_2026_%28cropped%29.jpg?width=64",
-  "total": 2058307,
+  "total": 2076164,
   "monthly": [
     {
       "period": "2024-11",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 478914
+    },
+    {
+      "period": "2026-07",
+      "views": 17857
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 1793060
+      "views": 1810917
     }
   ]
 }

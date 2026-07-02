@@ -4,7 +4,7 @@
   "title": "Chris_Johnson_(running_back)",
   "description": "American football running back in the NFL (Tennessee Titans)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Johnson_sitting_on_his_helmet.jpg?width=64",
-  "total": 396235,
+  "total": 416829,
   "monthly": [
     {
       "period": "2015-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 225259
+    },
+    {
+      "period": "2026-07",
+      "views": 20594
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 225259
+      "views": 245853
     }
   ]
 }

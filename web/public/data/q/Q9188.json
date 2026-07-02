@@ -1,0 +1,120 @@
+{
+  "qid": "Q9188",
+  "label": "Empire State Building",
+  "title": "Empire_State_Building",
+  "description": "skyscraper located in Midtown Manhattan, New York City, USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Empire_State_Building_%28aerial_view%29.jpg?width=64",
+  "total": 350615,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 50447
+    },
+    {
+      "period": "2016-02",
+      "views": 20515
+    },
+    {
+      "period": "2016-09",
+      "views": 11046
+    },
+    {
+      "period": "2017-06",
+      "views": 39867
+    },
+    {
+      "period": "2018-01",
+      "views": 24648
+    },
+    {
+      "period": "2018-05",
+      "views": 10180
+    },
+    {
+      "period": "2019-05",
+      "views": 23527
+    },
+    {
+      "period": "2020-07",
+      "views": 31711
+    },
+    {
+      "period": "2021-06",
+      "views": 13550
+    },
+    {
+      "period": "2021-09",
+      "views": 26256
+    },
+    {
+      "period": "2021-10",
+      "views": 9351
+    },
+    {
+      "period": "2023-05",
+      "views": 19695
+    },
+    {
+      "period": "2023-11",
+      "views": 10779
+    },
+    {
+      "period": "2024-05",
+      "views": 20485
+    },
+    {
+      "period": "2025-05",
+      "views": 17302
+    },
+    {
+      "period": "2026-07",
+      "views": 21256
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 50447
+    },
+    {
+      "period": "2016",
+      "views": 31561
+    },
+    {
+      "period": "2017",
+      "views": 39867
+    },
+    {
+      "period": "2018",
+      "views": 34828
+    },
+    {
+      "period": "2019",
+      "views": 23527
+    },
+    {
+      "period": "2020",
+      "views": 31711
+    },
+    {
+      "period": "2021",
+      "views": 49157
+    },
+    {
+      "period": "2023",
+      "views": 30474
+    },
+    {
+      "period": "2024",
+      "views": 20485
+    },
+    {
+      "period": "2025",
+      "views": 17302
+    },
+    {
+      "period": "2026",
+      "views": 21256
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Algeria",
   "description": "country in North Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg?width=64",
-  "total": 903353,
+  "total": 913845,
   "monthly": [
     {
       "period": "2016-05",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 282850
+    },
+    {
+      "period": "2026-07",
+      "views": 10492
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 301984
+      "views": 312476
     }
   ]
 }

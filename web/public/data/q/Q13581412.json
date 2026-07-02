@@ -1,0 +1,88 @@
+{
+  "qid": "Q13581412",
+  "label": "Yarnell Hill Fire",
+  "title": "Yarnell_Hill_Fire",
+  "description": "2013 wildfire",
+  "image": "",
+  "total": 646354,
+  "monthly": [
+    {
+      "period": "2017-07",
+      "views": 47750
+    },
+    {
+      "period": "2017-09",
+      "views": 82703
+    },
+    {
+      "period": "2017-10",
+      "views": 140290
+    },
+    {
+      "period": "2018-01",
+      "views": 27033
+    },
+    {
+      "period": "2018-02",
+      "views": 224055
+    },
+    {
+      "period": "2018-06",
+      "views": 38412
+    },
+    {
+      "period": "2019-06",
+      "views": 11983
+    },
+    {
+      "period": "2019-11",
+      "views": 11101
+    },
+    {
+      "period": "2020-01",
+      "views": 11426
+    },
+    {
+      "period": "2021-06",
+      "views": 10160
+    },
+    {
+      "period": "2024-07",
+      "views": 32540
+    },
+    {
+      "period": "2026-07",
+      "views": 8901
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 270743
+    },
+    {
+      "period": "2018",
+      "views": 289500
+    },
+    {
+      "period": "2019",
+      "views": 23084
+    },
+    {
+      "period": "2020",
+      "views": 11426
+    },
+    {
+      "period": "2021",
+      "views": 10160
+    },
+    {
+      "period": "2024",
+      "views": 32540
+    },
+    {
+      "period": "2026",
+      "views": 8901
+    }
+  ]
+}

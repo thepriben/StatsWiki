@@ -4,7 +4,7 @@
   "title": "Thomas_Müller",
   "description": "German association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_M%C3%BCller_2022_%28cropped%29.jpg?width=64",
-  "total": 3358913,
+  "total": 3368734,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-06",
       "views": 162092
+    },
+    {
+      "period": "2026-07",
+      "views": 9821
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 162092
+      "views": 171913
     }
   ]
 }

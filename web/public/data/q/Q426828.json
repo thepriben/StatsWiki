@@ -4,7 +4,7 @@
   "title": "Donnie_Darko",
   "description": "2001 film directed by Richard Kelly",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donnie_Darko_logo.png?width=64",
-  "total": 410854,
+  "total": 421028,
   "monthly": [
     {
       "period": "2016-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 59137
+    },
+    {
+      "period": "2026-07",
+      "views": 10174
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 74249
+      "views": 84423
     }
   ]
 }

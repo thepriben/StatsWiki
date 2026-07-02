@@ -4,7 +4,7 @@
   "title": "Casablanca",
   "description": "largest city of Morocco",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Au_centre_de_Casablanca_%288177200639%29.jpg?width=64",
-  "total": 154316,
+  "total": 171750,
   "monthly": [
     {
       "period": "2022-12",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 11561
+    },
+    {
+      "period": "2026-07",
+      "views": 17434
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 11561
+      "views": 28995
     }
   ]
 }

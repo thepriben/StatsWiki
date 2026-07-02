@@ -4,7 +4,7 @@
   "title": "Gareth_Southgate",
   "description": "English professional football manager and former player (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Southgate_2023.jpg?width=64",
-  "total": 6297060,
+  "total": 6306865,
   "monthly": [
     {
       "period": "2016-06",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 123808
+    },
+    {
+      "period": "2026-07",
+      "views": 9805
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 181544
+      "views": 191349
     }
   ]
 }

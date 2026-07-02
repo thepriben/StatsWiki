@@ -4,7 +4,7 @@
   "title": "Trump_v._Barbara",
   "description": "2026 United States Supreme Court case",
   "image": "",
-  "total": 48377,
+  "total": 67139,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 38739
+    },
+    {
+      "period": "2026-07",
+      "views": 18762
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 48377
+      "views": 67139
     }
   ]
 }

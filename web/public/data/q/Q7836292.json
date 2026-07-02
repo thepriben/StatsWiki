@@ -4,7 +4,7 @@
   "title": "Travis_Kelce",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis_Kelce_%2848086567678%29.jpg?width=64",
-  "total": 23630209,
+  "total": 23644315,
   "monthly": [
     {
       "period": "2015-09",
@@ -289,6 +289,10 @@
     {
       "period": "2026-06",
       "views": 22676
+    },
+    {
+      "period": "2026-07",
+      "views": 14106
     }
   ],
   "yearly": [
@@ -338,7 +342,7 @@
     },
     {
       "period": "2026",
-      "views": 248775
+      "views": 262881
     }
   ]
 }

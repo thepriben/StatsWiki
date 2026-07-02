@@ -4,7 +4,7 @@
   "title": "Argentina_national_football_team",
   "description": "men's national association football team representing Argentina",
   "image": "",
-  "total": 12594291,
+  "total": 12619878,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-06",
       "views": 841219
+    },
+    {
+      "period": "2026-07",
+      "views": 25587
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 967085
+      "views": 992672
     }
   ]
 }

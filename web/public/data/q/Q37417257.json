@@ -4,7 +4,7 @@
   "title": "UEFA_Euro_2028",
   "description": "18th edition of UEFA European Championship",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Euro_2028_logo.svg?width=64",
-  "total": 2215199,
+  "total": 2240580,
   "monthly": [
     {
       "period": "2021-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 469555
+    },
+    {
+      "period": "2026-07",
+      "views": 25381
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 522151
+      "views": 547532
     }
   ]
 }

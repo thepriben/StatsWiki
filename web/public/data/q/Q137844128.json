@@ -4,17 +4,21 @@
   "title": "Teach_You_a_Lesson",
   "description": "2026 South Korean TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Teach_You_a_Lesson.png?width=64",
-  "total": 1085070,
+  "total": 1100507,
   "monthly": [
     {
       "period": "2026-06",
       "views": 1085070
+    },
+    {
+      "period": "2026-07",
+      "views": 15437
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1085070
+      "views": 1100507
     }
   ]
 }

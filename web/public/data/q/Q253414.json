@@ -4,7 +4,7 @@
   "title": "FIFA",
   "description": "international governing body of association football",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Home_of_FIFA_-_front.jpg?width=64",
-  "total": 4245807,
+  "total": 4293244,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 989240
+    },
+    {
+      "period": "2026-07",
+      "views": 47437
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 989240
+      "views": 1036677
     }
   ]
 }

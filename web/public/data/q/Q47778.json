@@ -4,7 +4,7 @@
   "title": "Gary_Lineker",
   "description": "English football pundit and former player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gary_Lineker_%28cropped%29.jpg?width=64",
-  "total": 3261004,
+  "total": 3271199,
   "monthly": [
     {
       "period": "2015-09",
@@ -209,6 +209,10 @@
     {
       "period": "2026-06",
       "views": 101883
+    },
+    {
+      "period": "2026-07",
+      "views": 10195
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 101883
+      "views": 112078
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kiawentiio",
   "description": "Canadian actress and singer",
   "image": "",
-  "total": 793180,
+  "total": 806325,
   "monthly": [
     {
       "period": "2024-02",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 97284
+    },
+    {
+      "period": "2026-07",
+      "views": 13145
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 97284
+      "views": 110429
     }
   ]
 }

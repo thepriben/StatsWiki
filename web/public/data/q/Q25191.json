@@ -4,7 +4,7 @@
   "title": "Christopher_Nolan",
   "description": "British-American filmmaker (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg?width=64",
-  "total": 18411201,
+  "total": 18421041,
   "monthly": [
     {
       "period": "2015-07",
@@ -361,6 +361,10 @@
     {
       "period": "2026-06",
       "views": 254794
+    },
+    {
+      "period": "2026-07",
+      "views": 9840
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 1208647
+      "views": 1218487
     }
   ]
 }

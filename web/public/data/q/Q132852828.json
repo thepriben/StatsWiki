@@ -4,7 +4,7 @@
   "title": "Maximum_Pleasure_Guaranteed",
   "description": "2026 American television series",
   "image": "",
-  "total": 191364,
+  "total": 203396,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 85951
+    },
+    {
+      "period": "2026-07",
+      "views": 12032
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 191364
+      "views": 203396
     }
   ]
 }

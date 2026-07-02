@@ -4,7 +4,7 @@
   "title": "Nigeria",
   "description": "sovereign state in West Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_City_Gate_of_Abuja.jpg?width=64",
-  "total": 8517969,
+  "total": 8531604,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-06",
       "views": 10035
+    },
+    {
+      "period": "2026-07",
+      "views": 13635
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 29475
+      "views": 43110
     }
   ]
 }

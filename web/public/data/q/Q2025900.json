@@ -4,7 +4,7 @@
   "title": "John_Stones",
   "description": "English association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Stones_2018-06-24_1.jpg?width=64",
-  "total": 1247635,
+  "total": 1261247,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 55660
+    },
+    {
+      "period": "2026-07",
+      "views": 13612
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 224200
+      "views": 237812
     }
   ]
 }

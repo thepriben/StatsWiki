@@ -4,17 +4,21 @@
   "title": "Brian_Gutiérrez",
   "description": "Mexican-American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg?width=64",
-  "total": 199180,
+  "total": 239654,
   "monthly": [
     {
       "period": "2026-06",
       "views": 199180
+    },
+    {
+      "period": "2026-07",
+      "views": 40474
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 199180
+      "views": 239654
     }
   ]
 }

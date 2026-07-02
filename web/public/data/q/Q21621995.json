@@ -4,7 +4,7 @@
   "title": "Kylian_Mbappé",
   "description": "French footballer (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg?width=64",
-  "total": 37173304,
+  "total": 37463787,
   "monthly": [
     {
       "period": "2017-02",
@@ -409,6 +409,10 @@
     {
       "period": "2026-06",
       "views": 2485394
+    },
+    {
+      "period": "2026-07",
+      "views": 290483
     }
   ],
   "yearly": [
@@ -450,7 +454,7 @@
     },
     {
       "period": "2026",
-      "views": 3533828
+      "views": 3824311
     }
   ]
 }

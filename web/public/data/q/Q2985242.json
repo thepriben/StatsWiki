@@ -4,7 +4,7 @@
   "title": "Nick_Robinson_(American_actor)",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Robinson_in_an_interview_in_2018.png?width=64",
-  "total": 2292483,
+  "total": 2313030,
   "monthly": [
     {
       "period": "2015-07",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 600358
+    },
+    {
+      "period": "2026-07",
+      "views": 20547
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 609570
+      "views": 630117
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Congo_national_football_team",
   "description": "men's national association football team representing Congo-Brazzaville",
   "image": "",
-  "total": 11203,
+  "total": 20688,
   "monthly": [
     {
       "period": "2026-06",
       "views": 11203
+    },
+    {
+      "period": "2026-07",
+      "views": 9485
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 11203
+      "views": 20688
     }
   ]
 }

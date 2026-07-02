@@ -4,7 +4,7 @@
   "title": "William_Saliba",
   "description": "French footballer (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lens_-_Marseille_%2822-01-2022%29_15.jpg?width=64",
-  "total": 575537,
+  "total": 584813,
   "monthly": [
     {
       "period": "2019-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 43549
+    },
+    {
+      "period": "2026-07",
+      "views": 9276
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 71706
+      "views": 80982
     }
   ]
 }

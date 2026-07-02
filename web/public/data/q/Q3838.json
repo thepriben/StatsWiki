@@ -4,7 +4,7 @@
   "title": "Kinshasa",
   "description": "capital and the largest city of the Democratic Republic of the Congo having the status of a province",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vue_Kinshasa.jpg?width=64",
-  "total": 60448,
+  "total": 81036,
   "monthly": [
     {
       "period": "2020-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 12959
+    },
+    {
+      "period": "2026-07",
+      "views": 20588
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 24958
+      "views": 45546
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Yellowstone_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellowstone_%28American_TV_series%29_logo.png?width=64",
-  "total": 30083537,
+  "total": 30092966,
   "monthly": [
     {
       "period": "2019-06",
@@ -313,6 +313,10 @@
     {
       "period": "2026-06",
       "views": 305085
+    },
+    {
+      "period": "2026-07",
+      "views": 9429
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 1542491
+      "views": 1551920
     }
   ]
 }

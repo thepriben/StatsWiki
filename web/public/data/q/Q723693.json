@@ -4,7 +4,7 @@
   "title": "Ottis_Toole",
   "description": "American serial killer (1947–1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ottis_Toole.jpg?width=64",
-  "total": 140433,
+  "total": 150069,
   "monthly": [
     {
       "period": "2016-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 9693
+    },
+    {
+      "period": "2026-07",
+      "views": 9636
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 9693
+      "views": 19329
     }
   ]
 }

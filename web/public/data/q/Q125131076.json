@@ -4,7 +4,7 @@
   "title": "Backrooms_(film)",
   "description": "2026 film directed by Kane Parsons",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Backrooms%22_logo.svg?width=64",
-  "total": 6542794,
+  "total": 6596488,
   "monthly": [
     {
       "period": "2026-02",
@@ -25,12 +25,16 @@
     {
       "period": "2026-06",
       "views": 3812490
+    },
+    {
+      "period": "2026-07",
+      "views": 53694
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 6542794
+      "views": 6596488
     }
   ]
 }

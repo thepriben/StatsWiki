@@ -4,7 +4,7 @@
   "title": "Cédric_Bakambu",
   "description": "Congolese footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9dric_Bakambu_2016_%28cropped%29.jpg?width=64",
-  "total": 63822,
+  "total": 77488,
   "monthly": [
     {
       "period": "2016-04",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 28795
+    },
+    {
+      "period": "2026-07",
+      "views": 13666
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 28795
+      "views": 42461
     }
   ]
 }

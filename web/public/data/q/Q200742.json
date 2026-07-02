@@ -4,17 +4,21 @@
   "title": "Himno_Nacional_Mexicano",
   "description": "national anthem of the United Mexican States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno_mexicanos_text.jpg?width=64",
-  "total": 55528,
+  "total": 94622,
   "monthly": [
     {
       "period": "2026-06",
       "views": 55528
+    },
+    {
+      "period": "2026-07",
+      "views": 39094
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 55528
+      "views": 94622
     }
   ]
 }

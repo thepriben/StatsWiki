@@ -4,7 +4,7 @@
   "title": "Brandon_Ingram",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandon_Ingram_2020.jpg?width=64",
-  "total": 603738,
+  "total": 613938,
   "monthly": [
     {
       "period": "2016-05",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 11336
+    },
+    {
+      "period": "2026-07",
+      "views": 10200
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 11336
+      "views": 21536
     }
   ]
 }

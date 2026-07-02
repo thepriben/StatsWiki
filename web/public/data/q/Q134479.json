@@ -4,7 +4,7 @@
   "title": "Croatia_national_football_team",
   "description": "men's national association football team representing Croatia",
   "image": "",
-  "total": 4000390,
+  "total": 4011383,
   "monthly": [
     {
       "period": "2016-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 318645
+    },
+    {
+      "period": "2026-07",
+      "views": 10993
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 318645
+      "views": 329638
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Javier_Hernández",
   "description": "Mexican association football player (b. 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hertha_BSC_vs._West_Ham_United_20190731_%28139%29.jpg?width=64",
-  "total": 2199576,
+  "total": 2238263,
   "monthly": [
     {
       "period": "2015-07",
@@ -145,6 +145,10 @@
     {
       "period": "2026-06",
       "views": 160225
+    },
+    {
+      "period": "2026-07",
+      "views": 38687
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 160225
+      "views": 198912
     }
   ]
 }

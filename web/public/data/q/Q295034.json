@@ -4,7 +4,7 @@
   "title": "Johnny_Knoxville",
   "description": "American stunt performer and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny-Knoxville.jpg?width=64",
-  "total": 1701851,
+  "total": 1722641,
   "monthly": [
     {
       "period": "2015-08",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 166427
+    },
+    {
+      "period": "2026-07",
+      "views": 20790
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 294390
+      "views": 315180
     }
   ]
 }

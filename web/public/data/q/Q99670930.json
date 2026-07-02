@@ -4,7 +4,7 @@
   "title": "Bradley_Barcola",
   "description": "French footballer (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradley_Barcola_France_v_Senegal_16_June_2026-398.jpg?width=64",
-  "total": 470986,
+  "total": 500735,
   "monthly": [
     {
       "period": "2023-08",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 121367
+    },
+    {
+      "period": "2026-07",
+      "views": 29749
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 149945
+      "views": 179694
     }
   ]
 }

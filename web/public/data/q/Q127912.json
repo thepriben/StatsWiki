@@ -4,7 +4,7 @@
   "title": "United_States_Declaration_of_Independence",
   "description": "1776 assertion of colonial America's independence from Great Britain",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Declaration_of_Independence.jpg?width=64",
-  "total": 3853435,
+  "total": 3863631,
   "monthly": [
     {
       "period": "2015-07",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 30009
+    },
+    {
+      "period": "2026-07",
+      "views": 10196
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 30009
+      "views": 40205
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "qid": "Q365",
+  "label": "Cologne",
+  "title": "Cologne",
+  "description": "most populous city in North Rhine-Westphalia, Germany",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stadtbild_K%C3%B6ln_%2850MP%29.jpg?width=64",
+  "total": 146336,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 10260
+    },
+    {
+      "period": "2016-12",
+      "views": 17047
+    },
+    {
+      "period": "2017-09",
+      "views": 9765
+    },
+    {
+      "period": "2017-12",
+      "views": 31067
+    },
+    {
+      "period": "2018-12",
+      "views": 15044
+    },
+    {
+      "period": "2019-12",
+      "views": 17302
+    },
+    {
+      "period": "2020-05",
+      "views": 31122
+    },
+    {
+      "period": "2026-07",
+      "views": 14729
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 27307
+    },
+    {
+      "period": "2017",
+      "views": 40832
+    },
+    {
+      "period": "2018",
+      "views": 15044
+    },
+    {
+      "period": "2019",
+      "views": 17302
+    },
+    {
+      "period": "2020",
+      "views": 31122
+    },
+    {
+      "period": "2026",
+      "views": 14729
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "label": "Harry Kane",
   "title": "Harry_Kane",
   "description": "English association football player (born 1993)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Kane_9_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01_%28cropped%29.jpg?width=64",
-  "total": 22195991,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg?width=64",
+  "total": 22563536,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-06",
       "views": 1208399
+    },
+    {
+      "period": "2026-07",
+      "views": 367545
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 2526563
+      "views": 2894108
     }
   ]
 }

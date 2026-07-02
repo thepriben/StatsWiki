@@ -4,7 +4,7 @@
   "title": "John_Cena",
   "description": "American professional wrestler and actor (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Cena_by_Gage_Skidmore.jpg?width=64",
-  "total": 49382814,
+  "total": 49395664,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-06",
       "views": 94071
+    },
+    {
+      "period": "2026-07",
+      "views": 12850
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 331597
+      "views": 344447
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Keke_Palmer",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keke_Palmer_2016_Paleyfest_original.jpg?width=64",
-  "total": 5092236,
+  "total": 5103712,
   "monthly": [
     {
       "period": "2015-07",
@@ -237,6 +237,10 @@
     {
       "period": "2026-06",
       "views": 388099
+    },
+    {
+      "period": "2026-07",
+      "views": 11476
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 870687
+      "views": 882163
     }
   ]
 }

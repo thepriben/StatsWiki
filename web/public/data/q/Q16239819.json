@@ -4,7 +4,7 @@
   "title": "Ivan_Toney",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Toney_2021_%28cropped%29.jpg?width=64",
-  "total": 1737019,
+  "total": 1745783,
   "monthly": [
     {
       "period": "2020-10",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 39370
+    },
+    {
+      "period": "2026-07",
+      "views": 8764
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 144435
+      "views": 153199
     }
   ]
 }

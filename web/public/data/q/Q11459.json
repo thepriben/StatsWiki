@@ -4,7 +4,7 @@
   "title": "Serena_Williams",
   "description": "American tennis player (1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Serena_Williams_at_2013_US_Open.jpg?width=64",
-  "total": 32427314,
+  "total": 32485342,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-06",
       "views": 543722
+    },
+    {
+      "period": "2026-07",
+      "views": 58028
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 749299
+      "views": 807327
     }
   ]
 }

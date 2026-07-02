@@ -4,7 +4,7 @@
   "title": "John_Roberts",
   "description": "Chief Justice of the Supreme Court of the United States since 2005",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_roberts_CJ.jpg?width=64",
-  "total": 3184038,
+  "total": 3196395,
   "monthly": [
     {
       "period": "2015-09",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 17297
+    },
+    {
+      "period": "2026-07",
+      "views": 12357
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 81522
+      "views": 93879
     }
   ]
 }

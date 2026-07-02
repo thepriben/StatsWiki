@@ -4,7 +4,7 @@
   "title": "Morocco_national_football_team",
   "description": "men's national association football team representing Morocco",
   "image": "",
-  "total": 3158898,
+  "total": 3183713,
   "monthly": [
     {
       "period": "2017-11",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 630533
+    },
+    {
+      "period": "2026-07",
+      "views": 24815
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 752606
+      "views": 777421
     }
   ]
 }

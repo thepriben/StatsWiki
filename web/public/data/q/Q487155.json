@@ -4,7 +4,7 @@
   "title": "Hugo_Sánchez",
   "description": "Mexican footballer and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_S%C3%A1nchez_1988_%28cropped%29.jpg?width=64",
-  "total": 33122,
+  "total": 44414,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 19411
+    },
+    {
+      "period": "2026-07",
+      "views": 11292
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 19411
+      "views": 30703
     }
   ]
 }

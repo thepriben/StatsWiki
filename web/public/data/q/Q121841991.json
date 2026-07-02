@@ -4,7 +4,7 @@
   "title": "Terrion_Arnold",
   "description": "American football player (born 2003)",
   "image": "",
-  "total": 236670,
+  "total": 246148,
   "monthly": [
     {
       "period": "2024-04",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 226658
+    },
+    {
+      "period": "2026-07",
+      "views": 9478
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 226658
+      "views": 236136
     }
   ]
 }

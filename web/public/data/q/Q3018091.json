@@ -4,17 +4,21 @@
   "title": "Vozinha",
   "description": "Cape Verdean association football player",
   "image": "",
-  "total": 897224,
+  "total": 907500,
   "monthly": [
     {
       "period": "2026-06",
       "views": 897224
+    },
+    {
+      "period": "2026-07",
+      "views": 10276
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 897224
+      "views": 907500
     }
   ]
 }

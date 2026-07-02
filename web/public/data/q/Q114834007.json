@@ -4,7 +4,7 @@
   "title": "IShowSpeed",
   "description": "American influencer, musician and online streamer (born 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg?width=64",
-  "total": 4634531,
+  "total": 4643497,
   "monthly": [
     {
       "period": "2022-12",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 299012
+    },
+    {
+      "period": "2026-07",
+      "views": 8966
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 1245427
+      "views": 1254393
     }
   ]
 }
