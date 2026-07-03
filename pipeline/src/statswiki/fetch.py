@@ -1,10 +1,95 @@
+import gzip
 import time
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 
 import requests
 
 from statswiki.config import DELAY, FETCH_RETRIES, FETCH_RETRY_WAIT, LANG, START, USER_AGENT
 from statswiki.store import has_day, write_day
+
+# en + en.m ≈ en.wikipedia/all-access (desktop + mobile)
+_DUMP_PROJECTS = frozenset({"en", "en.m"})
+_DUMP_TOP_N = 1000
+_DUMP_WORKERS = 6
+
+
+def _dump_hour_url(day: date, hour: int) -> str:
+    return (
+        f"https://dumps.wikimedia.org/other/pageviews/"
+        f"{day.year}/{day.year}-{day.month:02d}/"
+        f"pageviews-{day:%Y%m%d}-{hour:02d}0000.gz"
+    )
+
+
+def _dumps_available(day: date) -> bool:
+    try:
+        for hour in range(24):
+            r = requests.head(
+                _dump_hour_url(day, hour),
+                headers={"User-Agent": USER_AGENT},
+                timeout=20,
+            )
+            if r.status_code != 200:
+                return False
+        return True
+    except requests.RequestException:
+        return False
+
+
+def _aggregate_dump_hour(day: date, hour: int) -> dict[str, int] | None:
+    views: dict[str, int] = {}
+    url = _dump_hour_url(day, hour)
+    try:
+        with requests.get(
+            url, headers={"User-Agent": USER_AGENT}, timeout=180, stream=True
+        ) as r:
+            if r.status_code != 200:
+                return None
+            r.raw.decode_content = True
+            with gzip.open(r.raw, "rt", encoding="utf-8", errors="replace") as f:
+                for line in f:
+                    parts = line.rstrip("\n").split(" ")
+                    if len(parts) < 3 or parts[0] not in _DUMP_PROJECTS:
+                        continue
+                    title = parts[1]
+                    if title == "-":
+                        continue
+                    views[title] = views.get(title, 0) + int(parts[2])
+        return views
+    except (OSError, ValueError, requests.RequestException) as exc:
+        print(f"  dump hour {hour:02d} failed: {exc}")
+        return None
+
+
+def fetch_day_from_dumps(day: date) -> list[dict] | None:
+    """Build the daily top list from hourly dumps when the REST API is not loaded yet."""
+    if not _dumps_available(day):
+        print(f"  hourly dumps not complete for {day}")
+        return None
+
+    print(f"  REST API unavailable — aggregating {day} from hourly dumps…")
+    merged: dict[str, int] = defaultdict(int)
+    with ThreadPoolExecutor(max_workers=_DUMP_WORKERS) as pool:
+        futures = {pool.submit(_aggregate_dump_hour, day, h): h for h in range(24)}
+        for fut in as_completed(futures):
+            hour = futures[fut]
+            hour_views = fut.result()
+            if hour_views is None:
+                return None
+            for title, count in hour_views.items():
+                merged[title] += count
+            print(f"  dump hour {hour:02d}/23 done")
+
+    if not merged:
+        return None
+
+    ranked = sorted(merged.items(), key=lambda x: -x[1])[:_DUMP_TOP_N]
+    return [
+        {"date": day, "article": article, "views": views, "rank": i + 1}
+        for i, (article, views) in enumerate(ranked)
+    ]
 
 
 def fetch_day(day: date) -> list[dict] | None:
@@ -46,7 +131,7 @@ def fetch_day(day: date) -> list[dict] | None:
         if attempt < FETCH_RETRIES and r.status_code in (404, 429, 500, 502, 503, 504):
             time.sleep(FETCH_RETRY_WAIT * attempt)
 
-    return None
+    return fetch_day_from_dumps(day)
 
 
 def ingest_day(day: date) -> str:

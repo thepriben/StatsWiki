@@ -6,6 +6,8 @@ on:
     - cron: "0 8 * * *"
     # Retry if morning data was not published yet
     - cron: "0 14 * * *"
+    # Evening retry — REST API can lag behind hourly dumps by many hours
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,6 +18,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.daily.outputs.ready }}
     steps:
       - uses: actions/checkout@v5
 
@@ -26,17 +30,18 @@ jobs:
       - run: pip install -e ./pipeline
 
       - name: Fetch pageviews, enrich Wikidata, export JSON
+        id: daily
         run: sw-daily
 
       - name: Post top 5 to Bluesky (@statswiki)
-        if: success()
+        if: success() && steps.daily.outputs.ready == 'true'
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
         run: sw-bsky --top 5
 
       - name: Post top 5 to X (@statswiki)
-        if: success()
+        if: success() && steps.daily.outputs.ready == 'true'
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
@@ -49,7 +54,7 @@ jobs:
         run: sw-tweet --top 5
 
       - name: Post week/month/year summaries to X and Bluesky
-        if: success()
+        if: success() && steps.daily.outputs.ready == 'true'
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
@@ -64,7 +69,7 @@ jobs:
         run: sw-period-posts --top 5
 
       - name: Commit data
-        if: success()
+        if: success() && steps.daily.outputs.ready == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -75,5 +80,5 @@ jobs:
 
   deploy:
     needs: update
-    if: success()
+    if: success() && needs.update.outputs.ready == 'true'
     uses: ./.github/workflows/reusable-deploy.yml
