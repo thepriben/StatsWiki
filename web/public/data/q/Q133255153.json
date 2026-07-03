@@ -1,0 +1,32 @@
+{
+  "qid": "Q133255153",
+  "label": "Jailer 2",
+  "title": "Jailer_2",
+  "description": "film by Nelson Dilipkumar",
+  "image": "",
+  "total": 98444,
+  "monthly": [
+    {
+      "period": "2025-08",
+      "views": 72467
+    },
+    {
+      "period": "2026-02",
+      "views": 11471
+    },
+    {
+      "period": "2026-07",
+      "views": 14506
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 72467
+    },
+    {
+      "period": "2026",
+      "views": 25977
+    }
+  ]
+}

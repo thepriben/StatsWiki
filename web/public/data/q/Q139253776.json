@@ -4,7 +4,7 @@
   "title": "UFC_329",
   "description": "UFC mixed martial arts event in 2026",
   "image": "",
-  "total": 179433,
+  "total": 189198,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 110853
+    },
+    {
+      "period": "2026-07",
+      "views": 9765
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 179433
+      "views": 189198
     }
   ]
 }

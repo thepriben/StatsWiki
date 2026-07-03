@@ -4,7 +4,7 @@
   "title": "Jana_Nayagan",
   "description": "upcoming film by H. Vinoth",
   "image": "",
-  "total": 2979736,
+  "total": 2988405,
   "monthly": [
     {
       "period": "2025-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-05",
       "views": 523074
+    },
+    {
+      "period": "2026-07",
+      "views": 8669
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 2490654
+      "views": 2499323
     }
   ]
 }

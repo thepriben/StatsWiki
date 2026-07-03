@@ -4,7 +4,7 @@
   "title": "Midfielder",
   "description": "association football position",
   "image": "",
-  "total": 37422,
+  "total": 47031,
   "monthly": [
     {
       "period": "2021-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 11306
+    },
+    {
+      "period": "2026-07",
+      "views": 9609
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 11306
+      "views": 20915
     }
   ]
 }

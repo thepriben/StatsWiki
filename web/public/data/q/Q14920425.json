@@ -4,7 +4,7 @@
   "title": "Gone_Girl_(film)",
   "description": "2014 film directed by David Fincher",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gone_Girl_Premiere_at_the_52nd_New_York_Film_Festival_P1070670_%2815184372097%29.jpg?width=64",
-  "total": 3987749,
+  "total": 3996253,
   "monthly": [
     {
       "period": "2015-07",
@@ -269,6 +269,10 @@
     {
       "period": "2026-02",
       "views": 9645
+    },
+    {
+      "period": "2026-07",
+      "views": 8504
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 9645
+      "views": 18149
     }
   ]
 }

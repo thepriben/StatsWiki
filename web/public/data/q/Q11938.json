@@ -4,7 +4,7 @@
   "title": "PSV_Eindhoven",
   "description": "sports club from Eindhoven, the Netherlands",
   "image": "",
-  "total": 721013,
+  "total": 744626,
   "monthly": [
     {
       "period": "2015-08",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 62018
+    },
+    {
+      "period": "2026-07",
+      "views": 23613
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 71572
+      "views": 95185
     }
   ]
 }

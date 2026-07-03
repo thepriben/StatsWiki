@@ -4,7 +4,7 @@
   "title": "Jan_Choinski",
   "description": "British tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023_Roland_Garros_Qualifying_Tournament_-_08.jpg?width=64",
-  "total": 66962,
+  "total": 159409,
   "monthly": [
     {
       "period": "2023-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 12148
+    },
+    {
+      "period": "2026-07",
+      "views": 92447
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 12148
+      "views": 104595
     }
   ]
 }

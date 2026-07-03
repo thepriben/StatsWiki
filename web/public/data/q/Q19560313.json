@@ -4,7 +4,7 @@
   "title": "Dani_Olmo",
   "description": "Spanish association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dani_Olmo_2022.jpg?width=64",
-  "total": 2035698,
+  "total": 2056715,
   "monthly": [
     {
       "period": "2019-06",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 50457
+    },
+    {
+      "period": "2026-07",
+      "views": 21017
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 50457
+      "views": 71474
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Hayden_Hackney",
   "description": "English footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hayden_Hackney_16082025_%283%29.jpg?width=64",
-  "total": 32422,
+  "total": 43620,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 9520
+    },
+    {
+      "period": "2026-07",
+      "views": 11198
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 32422
+      "views": 43620
     }
   ]
 }

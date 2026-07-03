@@ -4,7 +4,7 @@
   "title": "Kosovo",
   "description": "country in southeastern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Geb%C3%A4ude_der_UNMIK_NEW_BORN_SIGN_PRISTINA_KOSOVO_Giv_Owned_Image_23_August_2008.jpg?width=64",
-  "total": 3723405,
+  "total": 3734630,
   "monthly": [
     {
       "period": "2015-07",
@@ -245,6 +245,10 @@
     {
       "period": "2026-06",
       "views": 17846
+    },
+    {
+      "period": "2026-07",
+      "views": 11225
     }
   ],
   "yearly": [
@@ -294,7 +298,7 @@
     },
     {
       "period": "2026",
-      "views": 77349
+      "views": 88574
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Aymeric_Laporte",
   "description": "Spanish-French footballer (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aymeric_Laporte_2023_%28cropped%29_2.jpg?width=64",
-  "total": 1394947,
+  "total": 1412847,
   "monthly": [
     {
       "period": "2018-01",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 36199
+    },
+    {
+      "period": "2026-07",
+      "views": 17900
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 36199
+      "views": 54099
     }
   ]
 }

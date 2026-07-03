@@ -4,7 +4,7 @@
   "title": "Jozy_Altidore",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jozy_Altidore_RedBullNY.jpg?width=64",
-  "total": 486899,
+  "total": 506144,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 40289
+    },
+    {
+      "period": "2026-07",
+      "views": 19245
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 40289
+      "views": 59534
     }
   ]
 }

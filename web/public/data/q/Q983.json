@@ -4,7 +4,7 @@
   "title": "Equatorial_Guinea",
   "description": "sovereign state in Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Equatorialguinea_w1_locator.svg?width=64",
-  "total": 841383,
+  "total": 855215,
   "monthly": [
     {
       "period": "2017-01",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 21377
+    },
+    {
+      "period": "2026-07",
+      "views": 13832
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 21377
+      "views": 35209
     }
   ]
 }

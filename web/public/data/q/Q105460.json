@@ -4,7 +4,7 @@
   "title": "John_Denver",
   "description": "American singer (1943–1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Denver_1975.JPG?width=64",
-  "total": 1552503,
+  "total": 1587039,
   "monthly": [
     {
       "period": "2015-08",
@@ -185,6 +185,10 @@
     {
       "period": "2026-06",
       "views": 41039
+    },
+    {
+      "period": "2026-07",
+      "views": 34536
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 51395
+      "views": 85931
     }
   ]
 }

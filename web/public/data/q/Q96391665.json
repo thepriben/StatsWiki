@@ -3,8 +3,8 @@
   "label": "Malik Tillman",
   "title": "Malik_Tillman",
   "description": "German-American soccer player",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malik_Tillman_USMNT_v_Belgium_Mar_28_2026-70_%28cropped%29.jpg?width=64",
-  "total": 209290,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malik_Tillman_Australia_v_USA_19_June_2026-66.jpg?width=64",
+  "total": 560697,
   "monthly": [
     {
       "period": "2022-05",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 111827
+    },
+    {
+      "period": "2026-07",
+      "views": 351407
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 111827
+      "views": 463234
     }
   ]
 }

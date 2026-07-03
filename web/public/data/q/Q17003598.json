@@ -4,7 +4,7 @@
   "title": "Women's_T20_World_Cup",
   "description": "international women's cricket tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2020_ICC_W_T20_WC_NZ_v_SL_02-22_Perera_%2801%29.jpg?width=64",
-  "total": 338402,
+  "total": 355951,
   "monthly": [
     {
       "period": "2025-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 167382
+    },
+    {
+      "period": "2026-07",
+      "views": 17549
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 180442
+      "views": 197991
     }
   ]
 }

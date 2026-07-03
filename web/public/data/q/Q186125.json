@@ -4,7 +4,7 @@
   "title": "Madison_Square_Garden",
   "description": "multi-purpose indoor arena in New York City, located in Midtown Manhattan between 7th and 8th Avenues from 31st to 33rd Streets",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg?width=64",
-  "total": 300025,
+  "total": 310525,
   "monthly": [
     {
       "period": "2015-09",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 89706
+    },
+    {
+      "period": "2026-07",
+      "views": 10500
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 89706
+      "views": 100206
     }
   ]
 }

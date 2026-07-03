@@ -4,7 +4,7 @@
   "title": "Madison_Keys",
   "description": "US American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madison_Keys_%282023_DC_Open%29_01a_%28cropped2%29.jpg?width=64",
-  "total": 3921872,
+  "total": 3932586,
   "monthly": [
     {
       "period": "2015-07",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 21647
+    },
+    {
+      "period": "2026-07",
+      "views": 10714
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 69479
+      "views": 80193
     }
   ]
 }

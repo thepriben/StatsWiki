@@ -4,7 +4,7 @@
   "title": "Newell's_Old_Boys",
   "description": "Argentine sports club in Rosario",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Newell%27s_escudo_2016.png?width=64",
-  "total": 175897,
+  "total": 184532,
   "monthly": [
     {
       "period": "2020-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 20988
+    },
+    {
+      "period": "2026-07",
+      "views": 8635
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 20988
+      "views": 29623
     }
   ]
 }

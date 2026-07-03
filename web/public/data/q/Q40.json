@@ -4,7 +4,7 @@
   "title": "Austria",
   "description": "country in Central Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oesterreichisches_Woerterbuch_43._Auflage_Deckel.jpg?width=64",
-  "total": 1400174,
+  "total": 1420734,
   "monthly": [
     {
       "period": "2015-08",
@@ -189,6 +189,10 @@
     {
       "period": "2026-06",
       "views": 49430
+    },
+    {
+      "period": "2026-07",
+      "views": 20560
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 49430
+      "views": 69990
     }
   ]
 }

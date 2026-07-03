@@ -4,7 +4,7 @@
   "title": "Nicki_Nicole",
   "description": "Argentine rapper and singer-songwriter (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicki_Nicole_entrevista_03.jpg?width=64",
-  "total": 112550,
+  "total": 128646,
   "monthly": [
     {
       "period": "2025-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 45920
+    },
+    {
+      "period": "2026-07",
+      "views": 16096
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 45920
+      "views": 62016
     }
   ]
 }

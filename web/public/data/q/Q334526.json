@@ -4,7 +4,7 @@
   "title": "United_States_women's_national_soccer_team",
   "description": "women's national association football team representing the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_women%27s_national_soccer_team_logo.svg?width=64",
-  "total": 3179898,
+  "total": 3189345,
   "monthly": [
     {
       "period": "2015-07",
@@ -73,6 +73,10 @@
     {
       "period": "2024-08",
       "views": 91384
+    },
+    {
+      "period": "2026-07",
+      "views": 9447
     }
   ],
   "yearly": [
@@ -103,6 +107,10 @@
     {
       "period": "2024",
       "views": 118431
+    },
+    {
+      "period": "2026",
+      "views": 9447
     }
   ]
 }

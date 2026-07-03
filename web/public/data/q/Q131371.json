@@ -4,7 +4,7 @@
   "title": "Boston_Celtics",
   "description": "NBA team based in Boston",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CelticsWordmark.svg?width=64",
-  "total": 2377510,
+  "total": 2386487,
   "monthly": [
     {
       "period": "2016-04",
@@ -137,6 +137,10 @@
     {
       "period": "2026-06",
       "views": 16181
+    },
+    {
+      "period": "2026-07",
+      "views": 8977
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 27994
+      "views": 36971
     }
   ]
 }

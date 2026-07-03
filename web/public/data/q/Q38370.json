@@ -4,7 +4,7 @@
   "title": "Henry_VIII_of_England",
   "description": "King of England from 1509 to 1547 (1491–1547)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg?width=64",
-  "total": 45316534,
+  "total": 45325273,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 141344
+    },
+    {
+      "period": "2026-07",
+      "views": 8739
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 1544619
+      "views": 1553358
     }
   ]
 }

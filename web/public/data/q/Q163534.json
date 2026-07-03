@@ -4,7 +4,7 @@
   "title": "Austria_national_football_team",
   "description": "men's national association football team representing Austria",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96sterreichische_Fu%C3%9Fballnationalmannschaft_2010-03-03.jpg?width=64",
-  "total": 584534,
+  "total": 624335,
   "monthly": [
     {
       "period": "2016-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 199046
+    },
+    {
+      "period": "2026-07",
+      "views": 39801
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 199046
+      "views": 238847
     }
   ]
 }

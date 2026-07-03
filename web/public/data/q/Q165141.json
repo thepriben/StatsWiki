@@ -4,7 +4,7 @@
   "title": "Switzerland_national_football_team",
   "description": "men's national association football team representing Switzerland",
   "image": "",
-  "total": 1836160,
+  "total": 1844656,
   "monthly": [
     {
       "period": "2015-09",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 181390
+    },
+    {
+      "period": "2026-07",
+      "views": 8496
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 181390
+      "views": 189886
     }
   ]
 }

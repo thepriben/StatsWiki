@@ -1,0 +1,28 @@
+{
+  "qid": "Q1132765",
+  "label": "Mazzy Star",
+  "title": "Mazzy_Star",
+  "description": "American alternative rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mazzy_Star.jpg?width=64",
+  "total": 53363,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 40343
+    },
+    {
+      "period": "2026-07",
+      "views": 13020
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 40343
+    },
+    {
+      "period": "2026",
+      "views": 13020
+    }
+  ]
+}

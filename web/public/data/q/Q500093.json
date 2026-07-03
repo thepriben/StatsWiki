@@ -1,0 +1,44 @@
+{
+  "qid": "Q500093",
+  "label": "Legally Blonde",
+  "title": "Legally_Blonde",
+  "description": "2001 film directed by Robert Luketic",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Legally_Blonde_logo.png?width=64",
+  "total": 42844,
+  "monthly": [
+    {
+      "period": "2021-05",
+      "views": 12566
+    },
+    {
+      "period": "2023-02",
+      "views": 10540
+    },
+    {
+      "period": "2024-04",
+      "views": 10727
+    },
+    {
+      "period": "2026-07",
+      "views": 9011
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 12566
+    },
+    {
+      "period": "2023",
+      "views": 10540
+    },
+    {
+      "period": "2024",
+      "views": 10727
+    },
+    {
+      "period": "2026",
+      "views": 9011
+    }
+  ]
+}

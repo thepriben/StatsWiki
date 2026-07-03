@@ -4,7 +4,7 @@
   "title": "Send_Help",
   "description": "2026 film directed by Sam Raimi",
   "image": "",
-  "total": 4944721,
+  "total": 4957146,
   "monthly": [
     {
       "period": "2025-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 319319
+    },
+    {
+      "period": "2026-07",
+      "views": 12425
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 4887416
+      "views": 4899841
     }
   ]
 }

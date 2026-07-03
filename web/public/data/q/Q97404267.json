@@ -4,7 +4,7 @@
   "title": "Álex_Baena",
   "description": "Spanish association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81lex_Baena_2019.jpg?width=64",
-  "total": 66054,
+  "total": 90951,
   "monthly": [
     {
       "period": "2023-04",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 39531
+    },
+    {
+      "period": "2026-07",
+      "views": 24897
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 39531
+      "views": 64428
     }
   ]
 }

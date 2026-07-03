@@ -4,7 +4,7 @@
   "title": "Ferran_Torres",
   "description": "Spanish association football player also a Barcelona player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferran_Torres_2019.png?width=64",
-  "total": 1073932,
+  "total": 1088376,
   "monthly": [
     {
       "period": "2020-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-06",
       "views": 50335
+    },
+    {
+      "period": "2026-07",
+      "views": 14444
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 86055
+      "views": 100499
     }
   ]
 }

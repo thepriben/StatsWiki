@@ -4,7 +4,7 @@
   "title": "Bob_Dylan",
   "description": "American singer-songwriter (born 1941)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?width=64",
-  "total": 27189686,
+  "total": 27198460,
   "monthly": [
     {
       "period": "2015-07",
@@ -489,6 +489,10 @@
     {
       "period": "2026-06",
       "views": 340497
+    },
+    {
+      "period": "2026-07",
+      "views": 8774
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 1659460
+      "views": 1668234
     }
   ]
 }

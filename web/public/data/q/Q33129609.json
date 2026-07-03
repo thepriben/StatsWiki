@@ -4,7 +4,7 @@
   "title": "Brenden_Aaronson",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg?width=64",
-  "total": 387488,
+  "total": 398498,
   "monthly": [
     {
       "period": "2021-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 42514
+    },
+    {
+      "period": "2026-07",
+      "views": 11010
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 54486
+      "views": 65496
     }
   ]
 }

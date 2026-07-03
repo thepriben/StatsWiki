@@ -4,7 +4,7 @@
   "title": "Soviet_Union",
   "description": "former country in Eurasia (1922–1991)",
   "image": "",
-  "total": 49197067,
+  "total": 49205914,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 190940
+    },
+    {
+      "period": "2026-07",
+      "views": 8847
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 1635747
+      "views": 1644594
     }
   ]
 }

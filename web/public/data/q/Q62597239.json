@@ -3,8 +3,8 @@
   "label": "Ricardo Pepi",
   "title": "Ricardo_Pepi",
   "description": "American soccer player",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Pepi_USMNT_v_Belgium_Mar_28_2026-47.jpg?width=64",
-  "total": 347648,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Pepi_Australia_v_USA_19_June_2026-51_%28cropped%29.jpg?width=64",
+  "total": 407960,
   "monthly": [
     {
       "period": "2021-08",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 136821
+    },
+    {
+      "period": "2026-07",
+      "views": 60312
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 136821
+      "views": 197133
     }
   ]
 }

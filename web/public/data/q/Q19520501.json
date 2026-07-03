@@ -4,7 +4,7 @@
   "title": "SoFi_Stadium",
   "description": "stadium in Inglewood, California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SoFi_Stadium_%2851126606022%29.jpg?width=64",
-  "total": 2920861,
+  "total": 2957487,
   "monthly": [
     {
       "period": "2019-09",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 356430
+    },
+    {
+      "period": "2026-07",
+      "views": 36626
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 368878
+      "views": 405504
     }
   ]
 }

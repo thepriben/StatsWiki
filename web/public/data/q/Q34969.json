@@ -4,7 +4,7 @@
   "title": "Benjamin_Franklin",
   "description": "American polymath and statesman (1706–1790)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg?width=64",
-  "total": 7910648,
+  "total": 7921971,
   "monthly": [
     {
       "period": "2015-07",
@@ -329,6 +329,10 @@
     {
       "period": "2026-05",
       "views": 9819
+    },
+    {
+      "period": "2026-07",
+      "views": 11323
     }
   ],
   "yearly": [
@@ -378,7 +382,7 @@
     },
     {
       "period": "2026",
-      "views": 18368
+      "views": 29691
     }
   ]
 }

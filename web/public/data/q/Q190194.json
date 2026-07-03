@@ -4,7 +4,7 @@
   "title": "NATO_phonetic_alphabet",
   "description": "most widely used spelling alphabet",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAA_Phonetic_and_Morse_Chart2.svg?width=64",
-  "total": 26565893,
+  "total": 26576958,
   "monthly": [
     {
       "period": "2015-07",
@@ -429,6 +429,10 @@
     {
       "period": "2026-06",
       "views": 69140
+    },
+    {
+      "period": "2026-07",
+      "views": 11065
     }
   ],
   "yearly": [
@@ -478,7 +482,7 @@
     },
     {
       "period": "2026",
-      "views": 80135
+      "views": 91200
     }
   ]
 }

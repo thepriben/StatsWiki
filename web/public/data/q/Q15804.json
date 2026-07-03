@@ -4,7 +4,7 @@
   "title": "Serie_A",
   "description": "professional league competition for football clubs located at the top of the Italian football league system",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20231205_100438_Mondo_Milan_Museum.jpg?width=64",
-  "total": 3553099,
+  "total": 3562350,
   "monthly": [
     {
       "period": "2016-04",
@@ -153,6 +153,10 @@
     {
       "period": "2026-06",
       "views": 9191
+    },
+    {
+      "period": "2026-07",
+      "views": 9251
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 62110
+      "views": 71361
     }
   ]
 }

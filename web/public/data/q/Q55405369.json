@@ -4,7 +4,7 @@
   "title": "Morbius_(film)",
   "description": "2022 film directed by Daniel Espinosa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morbius_%28film%29_logo.png?width=64",
-  "total": 7471330,
+  "total": 7480116,
   "monthly": [
     {
       "period": "2020-01",
@@ -69,6 +69,10 @@
     {
       "period": "2024-09",
       "views": 13851
+    },
+    {
+      "period": "2026-07",
+      "views": 8786
     }
   ],
   "yearly": [
@@ -87,6 +91,10 @@
     {
       "period": "2024",
       "views": 108939
+    },
+    {
+      "period": "2026",
+      "views": 8786
     }
   ]
 }

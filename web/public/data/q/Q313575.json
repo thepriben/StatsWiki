@@ -4,7 +4,7 @@
   "title": "Marko_Arnautović",
   "description": "Austrian association football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Marko_Arnautovi%C4%87_850_1633.jpg?width=64",
-  "total": 1316571,
+  "total": 1356223,
   "monthly": [
     {
       "period": "2015-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 123186
+    },
+    {
+      "period": "2026-07",
+      "views": 39652
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 123186
+      "views": 162838
     }
   ]
 }

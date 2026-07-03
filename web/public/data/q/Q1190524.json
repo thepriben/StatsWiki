@@ -1,0 +1,52 @@
+{
+  "qid": "Q1190524",
+  "label": "Cave of the Crystals",
+  "title": "Cave_of_the_Crystals",
+  "description": "cave in Mexico",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristales_cueva_de_Naica.JPG?width=64",
+  "total": 312253,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 21457
+    },
+    {
+      "period": "2017-09",
+      "views": 10492
+    },
+    {
+      "period": "2018-07",
+      "views": 221058
+    },
+    {
+      "period": "2022-08",
+      "views": 48499
+    },
+    {
+      "period": "2026-07",
+      "views": 10747
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21457
+    },
+    {
+      "period": "2017",
+      "views": 10492
+    },
+    {
+      "period": "2018",
+      "views": 221058
+    },
+    {
+      "period": "2022",
+      "views": 48499
+    },
+    {
+      "period": "2026",
+      "views": 10747
+    }
+  ]
+}

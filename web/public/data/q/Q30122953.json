@@ -4,7 +4,7 @@
   "title": "Miles_Robinson_(soccer)",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Miles_Robinson_USMNT_v_Belgium_Mar_28_2026-40_%28cropped%29.jpg?width=64",
-  "total": 70678,
+  "total": 81370,
   "monthly": [
     {
       "period": "2021-08",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 26450
+    },
+    {
+      "period": "2026-07",
+      "views": 10692
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 26450
+      "views": 37142
     }
   ]
 }

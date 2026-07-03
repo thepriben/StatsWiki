@@ -4,7 +4,7 @@
   "title": "AS_Monaco_FC",
   "description": "association football club in Monaco",
   "image": "",
-  "total": 904804,
+  "total": 949224,
   "monthly": [
     {
       "period": "2015-08",
@@ -97,6 +97,10 @@
     {
       "period": "2026-06",
       "views": 56318
+    },
+    {
+      "period": "2026-07",
+      "views": 44420
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 56318
+      "views": 100738
     }
   ]
 }

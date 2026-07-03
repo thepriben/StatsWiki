@@ -4,7 +4,7 @@
   "title": "Charli_XCX",
   "description": "British singer (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charli_XCX-4059_%28cropped_II%29.jpg?width=64",
-  "total": 8380800,
+  "total": 8391783,
   "monthly": [
     {
       "period": "2017-07",
@@ -161,6 +161,10 @@
     {
       "period": "2026-06",
       "views": 55700
+    },
+    {
+      "period": "2026-07",
+      "views": 10983
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 710397
+      "views": 721380
     }
   ]
 }

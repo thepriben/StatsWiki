@@ -1,0 +1,44 @@
+{
+  "qid": "Q11194",
+  "label": "Sarajevo",
+  "title": "Sarajevo",
+  "description": "capital city of Bosnia and Herzegovina",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_City_Panorama.JPG?width=64",
+  "total": 59726,
+  "monthly": [
+    {
+      "period": "2017-03",
+      "views": 12029
+    },
+    {
+      "period": "2021-10",
+      "views": 12219
+    },
+    {
+      "period": "2025-11",
+      "views": 21201
+    },
+    {
+      "period": "2026-07",
+      "views": 14277
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 12029
+    },
+    {
+      "period": "2021",
+      "views": 12219
+    },
+    {
+      "period": "2025",
+      "views": 21201
+    },
+    {
+      "period": "2026",
+      "views": 14277
+    }
+  ]
+}

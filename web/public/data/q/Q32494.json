@@ -1,0 +1,80 @@
+{
+  "qid": "Q32494",
+  "label": "Schalke 04",
+  "title": "FC_Schalke_04",
+  "description": "German football club from the Schalke district of Gelsenkirchen",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Schalke_04_Logo.svg?width=64",
+  "total": 230837,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 9092
+    },
+    {
+      "period": "2018-04",
+      "views": 35728
+    },
+    {
+      "period": "2019-02",
+      "views": 45436
+    },
+    {
+      "period": "2020-05",
+      "views": 44123
+    },
+    {
+      "period": "2020-09",
+      "views": 9676
+    },
+    {
+      "period": "2021-04",
+      "views": 36066
+    },
+    {
+      "period": "2024-04",
+      "views": 13218
+    },
+    {
+      "period": "2024-06",
+      "views": 19104
+    },
+    {
+      "period": "2026-05",
+      "views": 9521
+    },
+    {
+      "period": "2026-07",
+      "views": 8873
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9092
+    },
+    {
+      "period": "2018",
+      "views": 35728
+    },
+    {
+      "period": "2019",
+      "views": 45436
+    },
+    {
+      "period": "2020",
+      "views": 53799
+    },
+    {
+      "period": "2021",
+      "views": 36066
+    },
+    {
+      "period": "2024",
+      "views": 32322
+    },
+    {
+      "period": "2026",
+      "views": 18394
+    }
+  ]
+}

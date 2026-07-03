@@ -4,7 +4,7 @@
   "title": "Fernando_Torres",
   "description": "Spanish association football manager (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernando_Torres_2017.jpg?width=64",
-  "total": 2125832,
+  "total": 2137042,
   "monthly": [
     {
       "period": "2015-09",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 9603
+    },
+    {
+      "period": "2026-07",
+      "views": 11210
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 9603
+      "views": 20813
     }
   ]
 }

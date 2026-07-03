@@ -4,7 +4,7 @@
   "title": "Neil_Diamond",
   "description": "American recording artist; singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neil_Diamond_2.jpg?width=64",
-  "total": 3342745,
+  "total": 3352767,
   "monthly": [
     {
       "period": "2016-09",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 130201
+    },
+    {
+      "period": "2026-07",
+      "views": 10022
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 876011
+      "views": 886033
     }
   ]
 }
