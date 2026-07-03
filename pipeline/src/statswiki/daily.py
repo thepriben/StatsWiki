@@ -17,7 +17,7 @@ def main():
     if status == "failed" and not has_day(yesterday):
         print("Yesterday not available from Wikimedia yet — skipping enrich/export.")
         print("The next scheduled run will retry (08:00 and 14:00 UTC).")
-        sys.exit(1)
+        sys.exit(0)
 
     n = enrich_daily()
     print(f"Wikidata: {n} articles updated")
