@@ -4,7 +4,7 @@
   "title": "Australia_men's_national_soccer_team",
   "description": "men's national association football team representing Australia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Australia_national_football_team_badge.svg?width=64",
-  "total": 1069634,
+  "total": 1155364,
   "monthly": [
     {
       "period": "2022-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 349426
+    },
+    {
+      "period": "2026-07",
+      "views": 85730
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 375465
+      "views": 461195
     }
   ]
 }

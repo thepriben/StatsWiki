@@ -4,7 +4,7 @@
   "title": "Toy_Story",
   "description": "1995 animated film directed by John Lasseter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toy_Story_logo.svg?width=64",
-  "total": 1000345,
+  "total": 1010149,
   "monthly": [
     {
       "period": "2015-10",
@@ -72,7 +72,7 @@
     },
     {
       "period": "2026-07",
-      "views": 19626
+      "views": 29430
     }
   ],
   "yearly": [
@@ -106,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 411320
+      "views": 421124
     }
   ]
 }

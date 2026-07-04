@@ -1,0 +1,40 @@
+{
+  "qid": "Q113659629",
+  "label": "Angel, Inc.",
+  "title": "Angel_Studios",
+  "description": "American video streaming service and media company",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel_Logo.svg?width=64",
+  "total": 98103,
+  "monthly": [
+    {
+      "period": "2023-07",
+      "views": 57802
+    },
+    {
+      "period": "2025-12",
+      "views": 22708
+    },
+    {
+      "period": "2026-04",
+      "views": 8682
+    },
+    {
+      "period": "2026-07",
+      "views": 8911
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 57802
+    },
+    {
+      "period": "2025",
+      "views": 22708
+    },
+    {
+      "period": "2026",
+      "views": 17593
+    }
+  ]
+}

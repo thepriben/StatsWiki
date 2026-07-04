@@ -1,0 +1,40 @@
+{
+  "qid": "Q8823",
+  "label": "Levante UD",
+  "title": "Levante_UD",
+  "description": "Spanish football club",
+  "image": "",
+  "total": 74175,
+  "monthly": [
+    {
+      "period": "2018-04",
+      "views": 33525
+    },
+    {
+      "period": "2018-05",
+      "views": 12417
+    },
+    {
+      "period": "2025-08",
+      "views": 14573
+    },
+    {
+      "period": "2026-07",
+      "views": 13660
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 45942
+    },
+    {
+      "period": "2025",
+      "views": 14573
+    },
+    {
+      "period": "2026",
+      "views": 13660
+    }
+  ]
+}

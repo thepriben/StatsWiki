@@ -4,7 +4,7 @@
   "title": "Abby_Wambach",
   "description": "American soccer player (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abby_Wambach_at_White_House_01.jpg?width=64",
-  "total": 1788374,
+  "total": 1796917,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2025-05",
       "views": 14087
+    },
+    {
+      "period": "2026-07",
+      "views": 8543
     }
   ],
   "yearly": [
@@ -87,6 +91,10 @@
     {
       "period": "2025",
       "views": 14087
+    },
+    {
+      "period": "2026",
+      "views": 8543
     }
   ]
 }

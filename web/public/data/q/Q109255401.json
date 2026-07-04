@@ -4,7 +4,7 @@
   "title": "YRF_Spy_Universe",
   "description": "Indian action media franchise",
   "image": "",
-  "total": 859218,
+  "total": 869281,
   "monthly": [
     {
       "period": "2022-06",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 10624
+    },
+    {
+      "period": "2026-07",
+      "views": 10063
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 10624
+      "views": 20687
     }
   ]
 }

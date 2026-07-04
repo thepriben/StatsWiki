@@ -4,7 +4,7 @@
   "title": "Cape_Fear_(1991_film)",
   "description": "1991 film directed by Martin Scorsese",
   "image": "",
-  "total": 609166,
+  "total": 619837,
   "monthly": [
     {
       "period": "2019-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 471231
+    },
+    {
+      "period": "2026-07",
+      "views": 10671
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 544848
+      "views": 555519
     }
   ]
 }

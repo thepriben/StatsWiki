@@ -2,9 +2,9 @@
   "qid": "Q23",
   "label": "George Washington",
   "title": "George_Washington",
-  "description": "founding Father and first U.S. president; soldier and slave owner (1732–1799)",
+  "description": "Founding Father and first U.S. president; soldier and slave owner (1732–1799)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?width=64",
-  "total": 38926691,
+  "total": 38968774,
   "monthly": [
     {
       "period": "2015-07",
@@ -536,7 +536,7 @@
     },
     {
       "period": "2026-07",
-      "views": 43113
+      "views": 85196
     }
   ],
   "yearly": [
@@ -586,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 1868566
+      "views": 1910649
     }
   ]
 }

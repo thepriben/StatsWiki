@@ -4,7 +4,7 @@
   "title": "Tim_Cahill",
   "description": "Australian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Cahill%2C_New_York_Red_Bulls_vs_CD_FAS_2014.jpg?width=64",
-  "total": 566376,
+  "total": 575760,
   "monthly": [
     {
       "period": "2015-11",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 28919
+    },
+    {
+      "period": "2026-07",
+      "views": 9384
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 38098
+      "views": 47482
     }
   ]
 }

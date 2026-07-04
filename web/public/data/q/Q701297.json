@@ -4,7 +4,7 @@
   "title": "Mateo_Kovačić",
   "description": "Croatian association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chelsea_vs._Arsenal%2C_29_May_2019_18_Kovacic.jpg?width=64",
-  "total": 1004539,
+  "total": 1032480,
   "monthly": [
     {
       "period": "2015-08",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 34556
+    },
+    {
+      "period": "2026-07",
+      "views": 27941
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 45278
+      "views": 73219
     }
   ]
 }

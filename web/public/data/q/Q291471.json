@@ -4,17 +4,21 @@
   "title": "AEL_Limassol",
   "description": "professional association football club based in Limassol",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AEL_Limassol_logo.svg?width=64",
-  "total": 67417,
+  "total": 79052,
   "monthly": [
     {
       "period": "2026-06",
       "views": 67417
+    },
+    {
+      "period": "2026-07",
+      "views": 11635
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 67417
+      "views": 79052
     }
   ]
 }

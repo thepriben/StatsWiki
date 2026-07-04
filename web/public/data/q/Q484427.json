@@ -4,7 +4,7 @@
   "title": "The_Cure",
   "description": "British band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Cure_Live_in_Singapore_2-_1st_August_2007.jpg?width=64",
-  "total": 974913,
+  "total": 983525,
   "monthly": [
     {
       "period": "2019-02",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 110487
+    },
+    {
+      "period": "2026-07",
+      "views": 8612
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 139268
+      "views": 147880
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "AT&T_Stadium",
   "description": "stadium in Arlington, Texas, U.S.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg?width=64",
-  "total": 712621,
+  "total": 729091,
   "monthly": [
     {
       "period": "2015-09",
@@ -109,6 +109,10 @@
     {
       "period": "2026-06",
       "views": 179636
+    },
+    {
+      "period": "2026-07",
+      "views": 16470
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 179636
+      "views": 196106
     }
   ]
 }

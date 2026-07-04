@@ -4,7 +4,7 @@
   "title": "Drake_(rapper)",
   "description": "Canadian-American rapper and singer (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Drake_July_2016.jpg?width=64",
-  "total": 39480830,
+  "total": 39492097,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-06",
       "views": 98479
+    },
+    {
+      "period": "2026-07",
+      "views": 11267
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 697240
+      "views": 708507
     }
   ]
 }

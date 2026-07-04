@@ -4,7 +4,7 @@
   "title": "Alberto_Fujimori",
   "description": "President of Peru from 1990 to 2000",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alberto_Fujimori_en_1991.jpg?width=64",
-  "total": 911410,
+  "total": 934733,
   "monthly": [
     {
       "period": "2016-04",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 151252
+    },
+    {
+      "period": "2026-07",
+      "views": 23323
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 165226
+      "views": 188549
     }
   ]
 }

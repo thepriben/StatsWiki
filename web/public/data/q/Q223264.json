@@ -4,17 +4,21 @@
   "title": "AS_Trenčín",
   "description": "association football club in Trenčín, Slovakia",
   "image": "",
-  "total": 21290,
+  "total": 31269,
   "monthly": [
     {
       "period": "2026-06",
       "views": 21290
+    },
+    {
+      "period": "2026-07",
+      "views": 9979
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21290
+      "views": 31269
     }
   ]
 }

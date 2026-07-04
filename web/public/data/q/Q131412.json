@@ -4,7 +4,7 @@
   "title": "Mary,_Queen_of_Scots",
   "description": "Queen of Scotland from 1542 to 1567 (1542–1587)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Queen_of_Scots_Blairs_Museum.jpg?width=64",
-  "total": 41093201,
+  "total": 41102212,
   "monthly": [
     {
       "period": "2015-08",
@@ -489,6 +489,10 @@
     {
       "period": "2026-03",
       "views": 56820
+    },
+    {
+      "period": "2026-07",
+      "views": 9011
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 105454
+      "views": 114465
     }
   ]
 }

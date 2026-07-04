@@ -4,7 +4,7 @@
   "title": "Lionel_Scaloni",
   "description": "Argentine association football manager (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Scaloni_2022_vs_Colombia.jpg?width=64",
-  "total": 1495193,
+  "total": 1517728,
   "monthly": [
     {
       "period": "2019-06",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 99806
+    },
+    {
+      "period": "2026-07",
+      "views": 22535
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 99806
+      "views": 122341
     }
   ]
 }

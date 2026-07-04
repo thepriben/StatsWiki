@@ -4,7 +4,7 @@
   "title": "Nishan_Velupillay",
   "description": "Australian soccer player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nishan_Velupillay_training_for_Melbourne_Victory_January_2023_%28cropped%29.jpg?width=64",
-  "total": 127483,
+  "total": 136545,
   "monthly": [
     {
       "period": "2024-10",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 101505
+    },
+    {
+      "period": "2026-07",
+      "views": 9062
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 101505
+      "views": 110567
     }
   ]
 }

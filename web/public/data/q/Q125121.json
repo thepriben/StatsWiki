@@ -4,7 +4,7 @@
   "title": "Aretha_Franklin",
   "description": "American singer, songwriter, and pianist (1942–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aretha_Franklin_1968.jpg?width=64",
-  "total": 13363363,
+  "total": 13373471,
   "monthly": [
     {
       "period": "2015-07",
@@ -261,6 +261,10 @@
     {
       "period": "2026-06",
       "views": 9243
+    },
+    {
+      "period": "2026-07",
+      "views": 10108
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 184602
+      "views": 194710
     }
   ]
 }

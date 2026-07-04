@@ -4,7 +4,7 @@
   "title": "Gabriel_Batistuta",
   "description": "Argentine footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_batistuta.jpg?width=64",
-  "total": 350614,
+  "total": 360741,
   "monthly": [
     {
       "period": "2016-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 21319
+    },
+    {
+      "period": "2026-07",
+      "views": 10127
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 31353
+      "views": 41480
     }
   ]
 }

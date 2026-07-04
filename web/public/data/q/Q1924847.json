@@ -4,7 +4,7 @@
   "title": "Margot_Robbie",
   "description": "Australian actress (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SYDNEY%2C_AUSTRALIA_-_JANUARY_23_Margot_Robbie_arrives_at_the_Australian_Premiere_of_%27I%2C_Tonya%27_on_January_23%2C_2018_in_Sydney%2C_Australia_%2825980753838%29_%28cropped%29.jpg?width=64",
-  "total": 50466446,
+  "total": 50476940,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-05",
       "views": 161309
+    },
+    {
+      "period": "2026-07",
+      "views": 10494
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 1883337
+      "views": 1893831
     }
   ]
 }

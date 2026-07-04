@@ -4,7 +4,7 @@
   "title": "Diogo_Costa",
   "description": "Portuguese footballer (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diogo_Costa.jpg?width=64",
-  "total": 533917,
+  "total": 551868,
   "monthly": [
     {
       "period": "2022-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 34050
+    },
+    {
+      "period": "2026-07",
+      "views": 17951
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 34050
+      "views": 52001
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Théo_Zidane",
   "description": "French footballer",
   "image": "",
-  "total": 111529,
+  "total": 121085,
   "monthly": [
     {
       "period": "2023-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 92043
+    },
+    {
+      "period": "2026-07",
+      "views": 9556
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 92043
+      "views": 101599
     }
   ]
 }

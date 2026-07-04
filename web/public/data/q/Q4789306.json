@@ -4,7 +4,7 @@
   "title": "Argentina_at_the_FIFA_World_Cup",
   "description": "Participation of Argentina's national football team in the FIFA World Cup",
   "image": "",
-  "total": 909620,
+  "total": 919689,
   "monthly": [
     {
       "period": "2018-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 25376
+    },
+    {
+      "period": "2026-07",
+      "views": 10069
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 25376
+      "views": 35445
     }
   ]
 }

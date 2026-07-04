@@ -4,7 +4,7 @@
   "title": "List_of_Pixar_films",
   "description": "list of Pixar Animation Studios Films",
   "image": "",
-  "total": 5250588,
+  "total": 5259445,
   "monthly": [
     {
       "period": "2015-07",
@@ -261,6 +261,10 @@
     {
       "period": "2026-06",
       "views": 165010
+    },
+    {
+      "period": "2026-07",
+      "views": 8857
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 348631
+      "views": 357488
     }
   ]
 }

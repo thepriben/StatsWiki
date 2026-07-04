@@ -4,7 +4,7 @@
   "title": "Ice_Spice",
   "description": "American rapper (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice_Spice.jpg?width=64",
-  "total": 5523775,
+  "total": 5538492,
   "monthly": [
     {
       "period": "2022-10",
@@ -93,6 +93,10 @@
     {
       "period": "2026-04",
       "views": 37034
+    },
+    {
+      "period": "2026-07",
+      "views": 14717
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 37034
+      "views": 51751
     }
   ]
 }

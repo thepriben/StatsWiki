@@ -4,7 +4,7 @@
   "title": "John_Souttar",
   "description": "Scottish association football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Souttar_2023.jpg?width=64",
-  "total": 66400,
+  "total": 87586,
   "monthly": [
     {
       "period": "2021-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 23157
+    },
+    {
+      "period": "2026-07",
+      "views": 21186
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 23157
+      "views": 44343
     }
   ]
 }

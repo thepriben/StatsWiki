@@ -4,7 +4,7 @@
   "title": "Johan_Manzambi",
   "description": "Swiss footballer",
   "image": "",
-  "total": 177943,
+  "total": 230124,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 167154
+    },
+    {
+      "period": "2026-07",
+      "views": 52181
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 177943
+      "views": 230124
     }
   ]
 }

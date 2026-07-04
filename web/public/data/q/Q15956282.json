@@ -4,7 +4,7 @@
   "title": "Breel_Embolo",
   "description": "Swiss footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022128160447_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_1422_-_B70I7533_%28cropped%29.jpg?width=64",
-  "total": 1140365,
+  "total": 1199413,
   "monthly": [
     {
       "period": "2016-06",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 108629
+    },
+    {
+      "period": "2026-07",
+      "views": 59048
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 108629
+      "views": 167677
     }
   ]
 }

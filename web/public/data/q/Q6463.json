@@ -4,7 +4,7 @@
   "title": "FC_St._Pauli",
   "description": "sports club in Hamburg, Germany",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Millerntorstadion_Suedtribuene_by_night.jpeg?width=64",
-  "total": 50845,
+  "total": 60423,
   "monthly": [
     {
       "period": "2024-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 17417
+    },
+    {
+      "period": "2026-07",
+      "views": 9578
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 17417
+      "views": 26995
     }
   ]
 }

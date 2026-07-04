@@ -4,7 +4,7 @@
   "title": "Robert_Smith_(musician)",
   "description": "English singer, multi-instrumentalist and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Smith_%28musician%29_crop.jpg?width=64",
-  "total": 608752,
+  "total": 617526,
   "monthly": [
     {
       "period": "2019-04",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 220265
+    },
+    {
+      "period": "2026-07",
+      "views": 8774
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 237908
+      "views": 246682
     }
   ]
 }

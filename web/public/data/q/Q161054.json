@@ -2,9 +2,9 @@
   "qid": "Q161054",
   "label": "Ivan Perišić",
   "title": "Ivan_Perišić",
-  "description": "Croatian association football player",
+  "description": "Croatian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Peri%C5%A1i%C4%87_%28cropped%29.jpg?width=64",
-  "total": 1829405,
+  "total": 1896821,
   "monthly": [
     {
       "period": "2015-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 96268
+    },
+    {
+      "period": "2026-07",
+      "views": 67416
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 96268
+      "views": 163684
     }
   ]
 }

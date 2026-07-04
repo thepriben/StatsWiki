@@ -1,0 +1,52 @@
+{
+  "qid": "Q16896007",
+  "label": "Null Island",
+  "title": "Null_Island",
+  "description": "cartographical marker at 0°N, 0°E",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Null_Island_2017.jpg?width=64",
+  "total": 90823,
+  "monthly": [
+    {
+      "period": "2017-07",
+      "views": 29209
+    },
+    {
+      "period": "2019-12",
+      "views": 11666
+    },
+    {
+      "period": "2021-03",
+      "views": 13665
+    },
+    {
+      "period": "2025-07",
+      "views": 10493
+    },
+    {
+      "period": "2026-07",
+      "views": 25790
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 29209
+    },
+    {
+      "period": "2019",
+      "views": 11666
+    },
+    {
+      "period": "2021",
+      "views": 13665
+    },
+    {
+      "period": "2025",
+      "views": 10493
+    },
+    {
+      "period": "2026",
+      "views": 25790
+    }
+  ]
+}

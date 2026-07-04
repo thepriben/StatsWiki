@@ -1,0 +1,52 @@
+{
+  "qid": "Q6373",
+  "label": "British Museum",
+  "title": "British_Museum",
+  "description": "national museum in London, United Kingdom",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/British_Museum_from_NE_2_%28cropped%29.JPG?width=64",
+  "total": 70511,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 14405
+    },
+    {
+      "period": "2017-01",
+      "views": 21508
+    },
+    {
+      "period": "2018-12",
+      "views": 13699
+    },
+    {
+      "period": "2024-10",
+      "views": 12193
+    },
+    {
+      "period": "2026-07",
+      "views": 8706
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 14405
+    },
+    {
+      "period": "2017",
+      "views": 21508
+    },
+    {
+      "period": "2018",
+      "views": 13699
+    },
+    {
+      "period": "2024",
+      "views": 12193
+    },
+    {
+      "period": "2026",
+      "views": 8706
+    }
+  ]
+}

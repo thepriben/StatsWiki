@@ -4,7 +4,7 @@
   "title": "Tuner_(film)",
   "description": "2025 film directed by Daniel Roher",
   "image": "",
-  "total": 118505,
+  "total": 127612,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 85034
+    },
+    {
+      "period": "2026-07",
+      "views": 9107
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 118505
+      "views": 127612
     }
   ]
 }

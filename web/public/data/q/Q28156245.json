@@ -4,7 +4,7 @@
   "title": "The_Best_FIFA_Men's_Player",
   "description": "international football award",
   "image": "",
-  "total": 707779,
+  "total": 717250,
   "monthly": [
     {
       "period": "2017-10",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 33780
+    },
+    {
+      "period": "2026-07",
+      "views": 9471
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 33780
+      "views": 43251
     }
   ]
 }

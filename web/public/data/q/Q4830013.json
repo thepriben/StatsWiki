@@ -3,8 +3,8 @@
   "label": "Awer Mabil",
   "title": "Awer_Mabil",
   "description": "Australian association football player",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Awer_Mabil_for_Australia_against_Syria_15_January_2019_Asian_Cup.jpg?width=64",
-  "total": 64857,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Awer_Mabil_Australia_v_USA_19_June_2026-19.jpg?width=64",
+  "total": 97215,
   "monthly": [
     {
       "period": "2022-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 13638
+    },
+    {
+      "period": "2026-07",
+      "views": 32358
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 13638
+      "views": 45996
     }
   ]
 }

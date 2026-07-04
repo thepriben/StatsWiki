@@ -4,7 +4,7 @@
   "title": "Leonardo_DiCaprio",
   "description": "American actor and producer (born 1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_DiCaprio_-_BFI_Southbank_3_%28crop%29.jpg?width=64",
-  "total": 73415565,
+  "total": 73424534,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 114895
+    },
+    {
+      "period": "2026-07",
+      "views": 8969
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 2579027
+      "views": 2587996
     }
   ]
 }

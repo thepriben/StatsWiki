@@ -4,7 +4,7 @@
   "title": "Aziz_Behich",
   "description": "Australian footballer (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aziz_Behich.jpg?width=64",
-  "total": 157171,
+  "total": 182042,
   "monthly": [
     {
       "period": "2018-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 23682
+    },
+    {
+      "period": "2026-07",
+      "views": 24871
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 23682
+      "views": 48553
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Undertone_(film)",
   "description": "2025 film directed by Ian Tuason",
   "image": "",
-  "total": 478134,
+  "total": 487095,
   "monthly": [
     {
       "period": "2026-02",
@@ -21,12 +21,16 @@
     {
       "period": "2026-06",
       "views": 41699
+    },
+    {
+      "period": "2026-07",
+      "views": 8961
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 478134
+      "views": 487095
     }
   ]
 }

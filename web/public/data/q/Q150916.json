@@ -4,7 +4,7 @@
   "title": "Jon_Bon_Jovi",
   "description": "American musician (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Bon_Jovi_at_Health_Datapalooza_Event.jpg?width=64",
-  "total": 4811081,
+  "total": 4820356,
   "monthly": [
     {
       "period": "2016-03",
@@ -225,6 +225,10 @@
     {
       "period": "2026-06",
       "views": 9853
+    },
+    {
+      "period": "2026-07",
+      "views": 9275
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 242529
+      "views": 251804
     }
   ]
 }

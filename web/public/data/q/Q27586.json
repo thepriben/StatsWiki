@@ -1,0 +1,52 @@
+{
+  "qid": "Q27586",
+  "label": "Ferrari",
+  "title": "Ferrari",
+  "description": "Italian luxury sports car manufacturer",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D_%2836309429124%29.jpg?width=64",
+  "total": 115736,
+  "monthly": [
+    {
+      "period": "2018-07",
+      "views": 9639
+    },
+    {
+      "period": "2019-11",
+      "views": 11890
+    },
+    {
+      "period": "2024-02",
+      "views": 20992
+    },
+    {
+      "period": "2024-03",
+      "views": 24066
+    },
+    {
+      "period": "2026-05",
+      "views": 21082
+    },
+    {
+      "period": "2026-07",
+      "views": 28067
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 9639
+    },
+    {
+      "period": "2019",
+      "views": 11890
+    },
+    {
+      "period": "2024",
+      "views": 45058
+    },
+    {
+      "period": "2026",
+      "views": 49149
+    }
+  ]
+}

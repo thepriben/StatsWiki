@@ -4,7 +4,7 @@
   "title": "Australia_at_the_FIFA_World_Cup",
   "description": "Participation of Australia's national football team in the FIFA World Cup",
   "image": "",
-  "total": 109486,
+  "total": 125238,
   "monthly": [
     {
       "period": "2017-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 18162
+    },
+    {
+      "period": "2026-07",
+      "views": 15752
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 18162
+      "views": 33914
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "qid": "Q220728",
+  "label": "Flatiron Building",
+  "title": "Flatiron_Building",
+  "description": "skyscraper in New York City",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg?width=64",
+  "total": 84065,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 10569
+    },
+    {
+      "period": "2020-09",
+      "views": 11997
+    },
+    {
+      "period": "2023-02",
+      "views": 25745
+    },
+    {
+      "period": "2024-03",
+      "views": 11794
+    },
+    {
+      "period": "2026-07",
+      "views": 23960
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 10569
+    },
+    {
+      "period": "2020",
+      "views": 11997
+    },
+    {
+      "period": "2023",
+      "views": 25745
+    },
+    {
+      "period": "2024",
+      "views": 11794
+    },
+    {
+      "period": "2026",
+      "views": 23960
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Fatboy_Slim",
   "description": "British musician (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fatboy_Slim_in_2004.jpg?width=64",
-  "total": 313426,
+  "total": 324027,
   "monthly": [
     {
       "period": "2019-06",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 26327
+    },
+    {
+      "period": "2026-07",
+      "views": 10601
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 68464
+      "views": 79065
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Elyaz_Zidane",
   "description": "French footballer",
   "image": "",
-  "total": 101587,
+  "total": 111013,
   "monthly": [
     {
       "period": "2025-10",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 90501
+    },
+    {
+      "period": "2026-07",
+      "views": 9426
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 90501
+      "views": 99927
     }
   ]
 }

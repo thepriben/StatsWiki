@@ -4,7 +4,7 @@
   "title": "Egypt_national_football_team",
   "description": "Men's association football team",
   "image": "",
-  "total": 1043545,
+  "total": 1117047,
   "monthly": [
     {
       "period": "2017-02",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 181326
+    },
+    {
+      "period": "2026-07",
+      "views": 73502
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 228027
+      "views": 301529
     }
   ]
 }
