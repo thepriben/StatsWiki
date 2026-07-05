@@ -4,17 +4,21 @@
   "title": "Willy_Semedo",
   "description": "French and Cape Verdean association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg?width=64",
-  "total": 13920,
+  "total": 25639,
   "monthly": [
     {
       "period": "2026-06",
       "views": 13920
+    },
+    {
+      "period": "2026-07",
+      "views": 11719
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 13920
+      "views": 25639
     }
   ]
 }

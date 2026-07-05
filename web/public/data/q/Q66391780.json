@@ -4,7 +4,7 @@
   "title": "Zachary_Svajda",
   "description": "American tennis player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Svajda_RGQ23.jpg?width=64",
-  "total": 187008,
+  "total": 205858,
   "monthly": [
     {
       "period": "2019-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 36272
+    },
+    {
+      "period": "2026-07",
+      "views": 18850
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 93278
+      "views": 112128
     }
   ]
 }

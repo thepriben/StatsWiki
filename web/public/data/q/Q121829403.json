@@ -4,17 +4,21 @@
   "title": "Luc_de_Fougerolles",
   "description": "Canadian soccer player",
   "image": "",
-  "total": 51847,
+  "total": 78166,
   "monthly": [
     {
       "period": "2026-06",
       "views": 51847
+    },
+    {
+      "period": "2026-07",
+      "views": 26319
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 51847
+      "views": 78166
     }
   ]
 }

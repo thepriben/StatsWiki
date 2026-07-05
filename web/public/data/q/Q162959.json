@@ -4,7 +4,7 @@
   "title": "Blake_Lively",
   "description": "American actress (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blake_Lively_2020.jpg?width=64",
-  "total": 52419089,
+  "total": 52430613,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-06",
       "views": 28080
+    },
+    {
+      "period": "2026-07",
+      "views": 11524
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 617215
+      "views": 628739
     }
   ]
 }

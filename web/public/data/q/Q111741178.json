@@ -4,7 +4,7 @@
   "title": "Ali_Ahmed_(soccer)",
   "description": "Canadian soccer player",
   "image": "",
-  "total": 118316,
+  "total": 146614,
   "monthly": [
     {
       "period": "2024-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 82762
+    },
+    {
+      "period": "2026-07",
+      "views": 28298
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 82762
+      "views": 111060
     }
   ]
 }

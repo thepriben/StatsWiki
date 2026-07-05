@@ -4,7 +4,7 @@
   "title": "Praia",
   "description": "capital of Cape Verde",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia_aerial.jpg?width=64",
-  "total": 73687,
+  "total": 102681,
   "monthly": [
     {
       "period": "2026-06",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-07",
-      "views": 12375
+      "views": 41369
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 73687
+      "views": 102681
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "War_2_(film)",
   "description": "2025 film by Ayan Mukerji",
   "image": "",
-  "total": 4952160,
+  "total": 4961711,
   "monthly": [
     {
       "period": "2025-07",
@@ -21,12 +21,20 @@
     {
       "period": "2025-10",
       "views": 567360
+    },
+    {
+      "period": "2026-07",
+      "views": 9551
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 4952160
+    },
+    {
+      "period": "2026",
+      "views": 9551
     }
   ]
 }

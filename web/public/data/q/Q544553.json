@@ -4,7 +4,7 @@
   "title": "Arrowhead_Stadium",
   "description": "home venue of the Kansas City Chiefs",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GEHA_Field_at_Arrowhead.svg?width=64",
-  "total": 645826,
+  "total": 658622,
   "monthly": [
     {
       "period": "2015-09",
@@ -97,6 +97,10 @@
     {
       "period": "2026-06",
       "views": 22828
+    },
+    {
+      "period": "2026-07",
+      "views": 12796
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 22828
+      "views": 35624
     }
   ]
 }

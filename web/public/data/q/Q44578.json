@@ -4,7 +4,7 @@
   "title": "Titanic_(1997_film)",
   "description": "1997 film by James Cameron",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titanic.png?width=64",
-  "total": 17341763,
+  "total": 17353466,
   "monthly": [
     {
       "period": "2015-07",
@@ -437,6 +437,10 @@
     {
       "period": "2026-04",
       "views": 8293
+    },
+    {
+      "period": "2026-07",
+      "views": 11703
     }
   ],
   "yearly": [
@@ -486,7 +490,7 @@
     },
     {
       "period": "2026",
-      "views": 121098
+      "views": 132801
     }
   ]
 }

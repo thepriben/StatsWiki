@@ -4,7 +4,7 @@
   "title": "Mike_Maignan",
   "description": "French footballer (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Maignan_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg?width=64",
-  "total": 314068,
+  "total": 336730,
   "monthly": [
     {
       "period": "2019-12",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 56817
+    },
+    {
+      "period": "2026-07",
+      "views": 22662
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 56817
+      "views": 79479
     }
   ]
 }

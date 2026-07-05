@@ -4,7 +4,7 @@
   "title": "Jennifer_Grey",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Grey_at_the_2024_New_York_Film_Festival_1_%28cropped%29.jpg?width=64",
-  "total": 2607396,
+  "total": 2618596,
   "monthly": [
     {
       "period": "2015-08",
@@ -281,6 +281,10 @@
     {
       "period": "2026-06",
       "views": 9208
+    },
+    {
+      "period": "2026-07",
+      "views": 11200
     }
   ],
   "yearly": [
@@ -330,7 +334,7 @@
     },
     {
       "period": "2026",
-      "views": 33177
+      "views": 44377
     }
   ]
 }

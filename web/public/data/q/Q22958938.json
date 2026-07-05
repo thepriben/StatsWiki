@@ -4,7 +4,7 @@
   "title": "Alex_de_Minaur",
   "description": "Australian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/De_Minaur_RG19_%2823%29_%2848199315646%29.jpg?width=64",
-  "total": 2843288,
+  "total": 2855651,
   "monthly": [
     {
       "period": "2018-01",
@@ -137,6 +137,10 @@
     {
       "period": "2026-06",
       "views": 12451
+    },
+    {
+      "period": "2026-07",
+      "views": 12363
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 364818
+      "views": 377181
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Northrop_B-2_Spirit",
   "description": "bomber aircraft family manufactured by Northrop",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg?width=64",
-  "total": 3159212,
+  "total": 3168564,
   "monthly": [
     {
       "period": "2024-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-04",
       "views": 9874
+    },
+    {
+      "period": "2026-07",
+      "views": 9352
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 331466
+      "views": 340818
     }
   ]
 }

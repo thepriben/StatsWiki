@@ -4,7 +4,7 @@
   "title": "Aadhaar",
   "description": "12-digit unique identity number for residents of India",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_sample_of_Aadhaar_card.jpg?width=64",
-  "total": 7292290,
+  "total": 7305519,
   "monthly": [
     {
       "period": "2018-09",
@@ -132,7 +132,7 @@
     },
     {
       "period": "2026-07",
-      "views": 9318
+      "views": 22547
     }
   ],
   "yearly": [
@@ -154,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 75347
+      "views": 88576
     }
   ]
 }

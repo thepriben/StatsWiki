@@ -4,7 +4,7 @@
   "title": "Chicago_(band)",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago_band_1973.jpg?width=64",
-  "total": 506707,
+  "total": 526898,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 28485
+    },
+    {
+      "period": "2026-07",
+      "views": 20191
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 28485
+      "views": 48676
     }
   ]
 }

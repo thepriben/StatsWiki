@@ -4,7 +4,7 @@
   "title": "André_Ayew",
   "description": "Ghanaian footballer (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20150331_Mali_vs_Ghana_170.jpg?width=64",
-  "total": 548282,
+  "total": 558952,
   "monthly": [
     {
       "period": "2015-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 53103
+    },
+    {
+      "period": "2026-07",
+      "views": 10670
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 53103
+      "views": 63773
     }
   ]
 }

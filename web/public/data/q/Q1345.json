@@ -1,0 +1,120 @@
+{
+  "qid": "Q1345",
+  "label": "Philadelphia",
+  "title": "Philadelphia",
+  "description": "largest city in the U.S. state of Pennsylvania and seat of Philadelphia County",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Philadelphia_skyline_20240528_%28cropped%29.jpg?width=64",
+  "total": 493462,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 12737
+    },
+    {
+      "period": "2016-07",
+      "views": 19024
+    },
+    {
+      "period": "2016-11",
+      "views": 10471
+    },
+    {
+      "period": "2018-01",
+      "views": 13366
+    },
+    {
+      "period": "2018-02",
+      "views": 73367
+    },
+    {
+      "period": "2018-11",
+      "views": 13437
+    },
+    {
+      "period": "2019-07",
+      "views": 10991
+    },
+    {
+      "period": "2019-08",
+      "views": 12302
+    },
+    {
+      "period": "2020-01",
+      "views": 13193
+    },
+    {
+      "period": "2020-10",
+      "views": 24135
+    },
+    {
+      "period": "2020-11",
+      "views": 97227
+    },
+    {
+      "period": "2022-06",
+      "views": 11791
+    },
+    {
+      "period": "2023-02",
+      "views": 17130
+    },
+    {
+      "period": "2024-11",
+      "views": 32920
+    },
+    {
+      "period": "2025-02",
+      "views": 41737
+    },
+    {
+      "period": "2025-03",
+      "views": 74560
+    },
+    {
+      "period": "2026-07",
+      "views": 15074
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12737
+    },
+    {
+      "period": "2016",
+      "views": 29495
+    },
+    {
+      "period": "2018",
+      "views": 100170
+    },
+    {
+      "period": "2019",
+      "views": 23293
+    },
+    {
+      "period": "2020",
+      "views": 134555
+    },
+    {
+      "period": "2022",
+      "views": 11791
+    },
+    {
+      "period": "2023",
+      "views": 17130
+    },
+    {
+      "period": "2024",
+      "views": 32920
+    },
+    {
+      "period": "2025",
+      "views": 116297
+    },
+    {
+      "period": "2026",
+      "views": 15074
+    }
+  ]
+}

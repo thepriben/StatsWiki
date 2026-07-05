@@ -4,7 +4,7 @@
   "title": "Major_League_Soccer",
   "description": "professional soccer league in the USA and Canada",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FCC_02_%2846722198394%29.jpg?width=64",
-  "total": 2311347,
+  "total": 2324689,
   "monthly": [
     {
       "period": "2015-07",
@@ -216,7 +216,7 @@
     },
     {
       "period": "2026-07",
-      "views": 23477
+      "views": 36819
     }
   ],
   "yearly": [
@@ -266,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 166895
+      "views": 180237
     }
   ]
 }

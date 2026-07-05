@@ -4,7 +4,7 @@
   "title": "NRG_Stadium",
   "description": "American football and multipurpose stadium in Houston, Texas, USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reliantstadium.jpg?width=64",
-  "total": 749049,
+  "total": 768353,
   "monthly": [
     {
       "period": "2016-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 124937
+    },
+    {
+      "period": "2026-07",
+      "views": 19304
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 124937
+      "views": 144241
     }
   ]
 }

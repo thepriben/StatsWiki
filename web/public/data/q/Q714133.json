@@ -4,7 +4,7 @@
   "title": "Nicholas_Braun",
   "description": "American actor (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicholas_Braun_2017.jpg?width=64",
-  "total": 450326,
+  "total": 460162,
   "monthly": [
     {
       "period": "2019-10",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 67053
+    },
+    {
+      "period": "2026-07",
+      "views": 9836
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 76122
+      "views": 85958
     }
   ]
 }

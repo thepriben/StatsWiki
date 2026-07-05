@@ -4,7 +4,7 @@
   "title": "Sean_Hannity",
   "description": "American television host and political commentator (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean_Hannity_2020.jpg?width=64",
-  "total": 1298550,
+  "total": 1309008,
   "monthly": [
     {
       "period": "2016-09",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 8645
+    },
+    {
+      "period": "2026-07",
+      "views": 10458
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 8645
+      "views": 19103
     }
   ]
 }

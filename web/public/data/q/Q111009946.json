@@ -4,7 +4,7 @@
   "title": "Ismaël_Koné",
   "description": "Canadian soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isma%C3%ABl_Kon%C3%A9_WC2022_%28cropped_2%29.jpg?width=64",
-  "total": 487287,
+  "total": 499101,
   "monthly": [
     {
       "period": "2024-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 368029
+    },
+    {
+      "period": "2026-07",
+      "views": 11814
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 368029
+      "views": 379843
     }
   ]
 }

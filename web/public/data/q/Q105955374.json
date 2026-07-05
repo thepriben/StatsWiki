@@ -4,17 +4,21 @@
   "title": "Bilal_El_Khannouss",
   "description": "association football player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ElKhannouss_%28cropped%29.jpg?width=64",
-  "total": 42390,
+  "total": 53954,
   "monthly": [
     {
       "period": "2026-06",
       "views": 42390
+    },
+    {
+      "period": "2026-07",
+      "views": 11564
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 42390
+      "views": 53954
     }
   ]
 }

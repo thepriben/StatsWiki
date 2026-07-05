@@ -4,7 +4,7 @@
   "title": "President_of_the_United_States",
   "description": "head of state and head of government of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?width=64",
-  "total": 27963585,
+  "total": 27973587,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-06",
       "views": 12848
+    },
+    {
+      "period": "2026-07",
+      "views": 10002
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 1176222
+      "views": 1186224
     }
   ]
 }

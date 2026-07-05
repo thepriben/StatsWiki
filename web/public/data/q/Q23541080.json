@@ -4,17 +4,21 @@
   "title": "Jamiro_Monteiro",
   "description": "Cape Verdean footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamiro_Monteiro_Philadelphia_Union_2019.jpg?width=64",
-  "total": 11168,
+  "total": 21443,
   "monthly": [
     {
       "period": "2026-06",
       "views": 11168
+    },
+    {
+      "period": "2026-07",
+      "views": 10275
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 11168
+      "views": 21443
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Null_Island",
   "description": "cartographical marker at 0°N, 0°E",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Null_Island_2017.jpg?width=64",
-  "total": 90823,
+  "total": 101558,
   "monthly": [
     {
       "period": "2017-07",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-07",
-      "views": 25790
+      "views": 36525
     }
   ],
   "yearly": [
@@ -46,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 25790
+      "views": 36525
     }
   ]
 }

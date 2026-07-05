@@ -4,7 +4,7 @@
   "title": "Moïse_Bombito",
   "description": "Canadian soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bombito_asse_ogcn_2425.png?width=64",
-  "total": 70756,
+  "total": 83592,
   "monthly": [
     {
       "period": "2024-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 43899
+    },
+    {
+      "period": "2026-07",
+      "views": 12836
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 43899
+      "views": 56735
     }
   ]
 }

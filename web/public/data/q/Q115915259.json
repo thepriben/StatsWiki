@@ -4,7 +4,7 @@
   "title": "2026_FIFA_World_Cup_qualification_(CAF)",
   "description": "international football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026_World_Cup_CAF_qualification.svg?width=64",
-  "total": 2263930,
+  "total": 2274430,
   "monthly": [
     {
       "period": "2023-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 64427
+    },
+    {
+      "period": "2026-07",
+      "views": 10500
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 64427
+      "views": 74927
     }
   ]
 }

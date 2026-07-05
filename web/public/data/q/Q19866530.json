@@ -4,7 +4,7 @@
   "title": "Maxime_Crépeau",
   "description": "Canadian soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxime_Cr%C3%A9peau_and_James_Pantemis_Portland_Timbers_2024_%28cropped%29.jpg?width=64",
-  "total": 72454,
+  "total": 88959,
   "monthly": [
     {
       "period": "2024-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 33480
+    },
+    {
+      "period": "2026-07",
+      "views": 16505
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 33480
+      "views": 49985
     }
   ]
 }

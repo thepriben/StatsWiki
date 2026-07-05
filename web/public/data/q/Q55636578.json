@@ -2,9 +2,9 @@
   "qid": "Q55636578",
   "label": "United States Semiquincentennial",
   "title": "United_States_Semiquincentennial",
-  "description": "upcoming 250th anniversary of the United States in 2026",
+  "description": "250th anniversary of the United States in 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/America250_logo.svg?width=64",
-  "total": 103141,
+  "total": 151291,
   "monthly": [
     {
       "period": "2025-07",
@@ -20,7 +20,7 @@
     },
     {
       "period": "2026-07",
-      "views": 46297
+      "views": 94447
     }
   ],
   "yearly": [
@@ -30,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 89546
+      "views": 137696
     }
   ]
 }

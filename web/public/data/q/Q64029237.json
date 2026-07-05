@@ -3,8 +3,8 @@
   "label": "Manu Koné",
   "title": "Manu_Koné",
   "description": "French footballer (born 2001)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kouadio_Manu_Kon%C3%A9_%282019-08-31%29_%28cropped%29.jpg?width=64",
-  "total": 106919,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manu_Kone_France_v_Senegal_16_June_2026-406_%28cropped%29.jpg?width=64",
+  "total": 155494,
   "monthly": [
     {
       "period": "2023-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 58112
+    },
+    {
+      "period": "2026-07",
+      "views": 48575
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 58112
+      "views": 106687
     }
   ]
 }

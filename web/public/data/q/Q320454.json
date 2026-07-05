@@ -4,7 +4,7 @@
   "title": "Estadio_Azteca",
   "description": "football stadium in Mexico City, Mexico",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg?width=64",
-  "total": 860483,
+  "total": 908687,
   "monthly": [
     {
       "period": "2016-11",
@@ -36,7 +36,7 @@
     },
     {
       "period": "2026-07",
-      "views": 217395
+      "views": 265599
     }
   ],
   "yearly": [
@@ -58,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 612670
+      "views": 660874
     }
   ]
 }
