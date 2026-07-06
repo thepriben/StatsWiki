@@ -8,9 +8,12 @@ permissions:
   pages: write
   id-token: write
 
+# Allow one Pages deployment at a time and let it finish; queue any others
+# instead of cancelling, which previously caused "Deployment failed, try again
+# later" when two runs raced on the Pages backend.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:

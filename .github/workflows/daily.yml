@@ -15,6 +15,12 @@ permissions:
   pages: write
   id-token: write
 
+# Never let two daily runs (e.g. a manual dispatch during a scheduled run)
+# race on the same git branch or the Pages deployment.
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -33,15 +39,47 @@ jobs:
         id: daily
         run: sw-daily
 
-      - name: Post top 5 to Bluesky (@statswiki)
+      - name: Commit data
         if: success() && steps.daily.outputs.ready == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ web/public/data/
+          git diff --staged --quiet || git commit -m "Daily update $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push
+
+  # Publish the site BEFORE announcing anything, so social posts always link
+  # to a page that is already live. Runs only when new data was produced.
+  deploy:
+    needs: update
+    if: needs.update.outputs.ready == 'true'
+    uses: ./.github/workflows/reusable-deploy.yml
+
+  # Social posts run last: only after the page is deployed successfully.
+  # If deploy fails, this job is skipped and nothing is announced.
+  social:
+    needs: [update, deploy]
+    if: needs.update.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -e ./pipeline
+
+      - name: Post top 5 to Bluesky (@statswiki)
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
         run: sw-bsky --top 5
 
       - name: Post top 5 to X (@statswiki)
-        if: success() && steps.daily.outputs.ready == 'true'
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
@@ -54,7 +92,6 @@ jobs:
         run: sw-tweet --top 5
 
       - name: Post week/month/year summaries to X and Bluesky
-        if: success() && steps.daily.outputs.ready == 'true'
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
@@ -68,17 +105,13 @@ jobs:
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
         run: sw-period-posts --top 5
 
-      - name: Commit data
-        if: success() && steps.daily.outputs.ready == 'true'
+      # Persist the "already posted" logs so the next run does not repost.
+      - name: Commit social post logs
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ web/public/data/
-          git diff --staged --quiet || git commit -m "Daily update $(date -u +%Y-%m-%d)"
+          git add data/tweet_log.json data/bsky_log.json
+          git diff --staged --quiet || git commit -m "Social post logs $(date -u +%Y-%m-%d)"
           git pull --rebase origin main
           git push
-
-  deploy:
-    needs: update
-    if: success() && needs.update.outputs.ready == 'true'
-    uses: ./.github/workflows/reusable-deploy.yml
