@@ -4,7 +4,7 @@
   "title": "Bruce_Springsteen",
   "description": "American rock singer (born 1949)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Springsteen_2025.jpg?width=64",
-  "total": 9638250,
+  "total": 9648242,
   "monthly": [
     {
       "period": "2015-08",
@@ -385,6 +385,10 @@
     {
       "period": "2026-06",
       "views": 22294
+    },
+    {
+      "period": "2026-07",
+      "views": 9992
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 1298693
+      "views": 1308685
     }
   ]
 }

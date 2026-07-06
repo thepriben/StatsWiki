@@ -4,7 +4,7 @@
   "title": "Rockwell_B-1_Lancer",
   "description": "strategic bomber aircraft family by Rockwell, later Boeing",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/B-1B.jpg?width=64",
-  "total": 1696640,
+  "total": 1708046,
   "monthly": [
     {
       "period": "2015-10",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 29412
+    },
+    {
+      "period": "2026-07",
+      "views": 11406
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 484284
+      "views": 495690
     }
   ]
 }

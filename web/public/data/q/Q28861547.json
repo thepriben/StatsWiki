@@ -4,7 +4,7 @@
   "title": "Raphinha",
   "description": "Brazilian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael_Dias_Belloli_2023.jpg?width=64",
-  "total": 1694416,
+  "total": 1706163,
   "monthly": [
     {
       "period": "2022-07",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 69501
+    },
+    {
+      "period": "2026-07",
+      "views": 11747
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 161118
+      "views": 172865
     }
   ]
 }

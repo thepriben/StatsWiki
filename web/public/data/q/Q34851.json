@@ -4,7 +4,7 @@
   "title": "Elizabeth_Taylor",
   "description": "British-American actress (1932–2011)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Taylor_with_Kennedy_award.jpg?width=64",
-  "total": 10100734,
+  "total": 10110442,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-06",
       "views": 72507
+    },
+    {
+      "period": "2026-07",
+      "views": 9708
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 805487
+      "views": 815195
     }
   ]
 }

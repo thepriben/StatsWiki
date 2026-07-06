@@ -4,7 +4,7 @@
   "title": "Lee_Greenwood",
   "description": "American country music artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee_Greenwood_March_2026.jpg?width=64",
-  "total": 545678,
+  "total": 599183,
   "monthly": [
     {
       "period": "2017-01",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 19975
+    },
+    {
+      "period": "2026-07",
+      "views": 53505
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 19975
+      "views": 73480
     }
   ]
 }

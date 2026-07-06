@@ -4,7 +4,7 @@
   "title": "River_Phoenix",
   "description": "American actor and musician (1970–1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RIVERP1989.jpg?width=64",
-  "total": 14339602,
+  "total": 14352011,
   "monthly": [
     {
       "period": "2015-07",
@@ -497,6 +497,10 @@
     {
       "period": "2026-05",
       "views": 9662
+    },
+    {
+      "period": "2026-07",
+      "views": 12409
     }
   ],
   "yearly": [
@@ -546,7 +550,7 @@
     },
     {
       "period": "2026",
-      "views": 120757
+      "views": 133166
     }
   ]
 }

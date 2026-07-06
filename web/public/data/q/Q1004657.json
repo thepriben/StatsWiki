@@ -4,7 +4,7 @@
   "title": "Bully_(2001_film)",
   "description": "2001 film directed by Larry Clark",
   "image": "",
-  "total": 57325,
+  "total": 75554,
   "monthly": [
     {
       "period": "2015-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 31635
+    },
+    {
+      "period": "2026-07",
+      "views": 18229
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 31635
+      "views": 49864
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "qid": "Q730046",
+  "label": "Goo Goo Dolls",
+  "title": "Goo_Goo_Dolls",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Goo_goo_dolls_slide.JPG?width=64",
+  "total": 234200,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 16072
+    },
+    {
+      "period": "2019-12",
+      "views": 38311
+    },
+    {
+      "period": "2020-11",
+      "views": 29466
+    },
+    {
+      "period": "2021-01",
+      "views": 42524
+    },
+    {
+      "period": "2025-05",
+      "views": 24867
+    },
+    {
+      "period": "2025-11",
+      "views": 35869
+    },
+    {
+      "period": "2026-01",
+      "views": 37312
+    },
+    {
+      "period": "2026-07",
+      "views": 9779
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 16072
+    },
+    {
+      "period": "2019",
+      "views": 38311
+    },
+    {
+      "period": "2020",
+      "views": 29466
+    },
+    {
+      "period": "2021",
+      "views": 42524
+    },
+    {
+      "period": "2025",
+      "views": 60736
+    },
+    {
+      "period": "2026",
+      "views": 47091
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Faith_Hill",
   "description": "American country singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Faith_Hill_by_John_Mathew_Smith.jpg?width=64",
-  "total": 793884,
+  "total": 810488,
   "monthly": [
     {
       "period": "2016-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 10175
+    },
+    {
+      "period": "2026-07",
+      "views": 16604
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 10175
+      "views": 26779
     }
   ]
 }

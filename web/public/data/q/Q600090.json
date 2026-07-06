@@ -4,7 +4,7 @@
   "title": "Ellyse_Perry",
   "description": "Born 1990, Australian sportswoman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ellyse_Perry_2014.jpg?width=64",
-  "total": 738420,
+  "total": 748151,
   "monthly": [
     {
       "period": "2017-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 10927
+    },
+    {
+      "period": "2026-07",
+      "views": 9731
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 10927
+      "views": 20658
     }
   ]
 }

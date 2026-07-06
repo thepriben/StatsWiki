@@ -4,7 +4,7 @@
   "title": "Nigel_Farage",
   "description": "British right-wing politician (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nigel_Farage_%2845718080574%29_%28cropped%29.jpg?width=64",
-  "total": 4746802,
+  "total": 4756613,
   "monthly": [
     {
       "period": "2016-06",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 86217
+    },
+    {
+      "period": "2026-07",
+      "views": 9811
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 466189
+      "views": 476000
     }
   ]
 }

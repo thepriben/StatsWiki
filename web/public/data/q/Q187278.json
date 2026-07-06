@@ -4,7 +4,7 @@
   "title": "Toy_Story_3",
   "description": "2010 animated film directed by Lee Unkrich",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toy_Story_3_logo.png?width=64",
-  "total": 463699,
+  "total": 473402,
   "monthly": [
     {
       "period": "2017-09",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 237219
+    },
+    {
+      "period": "2026-07",
+      "views": 9703
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 237219
+      "views": 246922
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "John_McEnroe",
   "description": "American former tennis player (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_McEnroe_WTT.jpg?width=64",
-  "total": 4485070,
+  "total": 4499098,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-06",
       "views": 30471
+    },
+    {
+      "period": "2026-07",
+      "views": 14028
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 58421
+      "views": 72449
     }
   ]
 }

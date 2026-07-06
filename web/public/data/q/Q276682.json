@@ -1,0 +1,104 @@
+{
+  "qid": "Q276682",
+  "label": "WTA Tour records",
+  "title": "WTA_Tour_records",
+  "description": "Wikipedia list article",
+  "image": "",
+  "total": 373677,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 15828
+    },
+    {
+      "period": "2017-07",
+      "views": 9943
+    },
+    {
+      "period": "2018-01",
+      "views": 11191
+    },
+    {
+      "period": "2018-07",
+      "views": 12182
+    },
+    {
+      "period": "2019-07",
+      "views": 43667
+    },
+    {
+      "period": "2021-07",
+      "views": 18730
+    },
+    {
+      "period": "2022-01",
+      "views": 16636
+    },
+    {
+      "period": "2022-09",
+      "views": 28075
+    },
+    {
+      "period": "2024-06",
+      "views": 13973
+    },
+    {
+      "period": "2025-01",
+      "views": 15338
+    },
+    {
+      "period": "2025-06",
+      "views": 33170
+    },
+    {
+      "period": "2025-07",
+      "views": 68464
+    },
+    {
+      "period": "2025-09",
+      "views": 35206
+    },
+    {
+      "period": "2026-01",
+      "views": 40953
+    },
+    {
+      "period": "2026-07",
+      "views": 10321
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 25771
+    },
+    {
+      "period": "2018",
+      "views": 23373
+    },
+    {
+      "period": "2019",
+      "views": 43667
+    },
+    {
+      "period": "2021",
+      "views": 18730
+    },
+    {
+      "period": "2022",
+      "views": 44711
+    },
+    {
+      "period": "2024",
+      "views": 13973
+    },
+    {
+      "period": "2025",
+      "views": 152178
+    },
+    {
+      "period": "2026",
+      "views": 51274
+    }
+  ]
+}

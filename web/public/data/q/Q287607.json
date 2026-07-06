@@ -4,7 +4,7 @@
   "title": "Rob_Reiner",
   "description": "American filmmaker and actor (1947–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rob_Reiner_MFF_2016.jpg?width=64",
-  "total": 14737630,
+  "total": 14748299,
   "monthly": [
     {
       "period": "2016-04",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 69732
+    },
+    {
+      "period": "2026-07",
+      "views": 10669
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 904986
+      "views": 915655
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jay-Z",
   "description": "American rapper, record producer, and entrepreneur (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg?width=64",
-  "total": 10474123,
+  "total": 10488938,
   "monthly": [
     {
       "period": "2017-06",
@@ -333,6 +333,10 @@
     {
       "period": "2026-06",
       "views": 22531
+    },
+    {
+      "period": "2026-07",
+      "views": 14815
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 186859
+      "views": 201674
     }
   ]
 }

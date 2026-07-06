@@ -4,7 +4,7 @@
   "title": "Vikings",
   "description": "Norse people, farmers, merchants, explorers, raiders and pirates",
   "image": "",
-  "total": 739726,
+  "total": 750817,
   "monthly": [
     {
       "period": "2016-02",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 20668
+    },
+    {
+      "period": "2026-07",
+      "views": 11091
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 20668
+      "views": 31759
     }
   ]
 }

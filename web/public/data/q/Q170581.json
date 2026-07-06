@@ -4,7 +4,7 @@
   "title": "Nancy_Pelosi",
   "description": "American politician (born 1940)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=64",
-  "total": 22971329,
+  "total": 22981523,
   "monthly": [
     {
       "period": "2015-09",
@@ -361,6 +361,10 @@
     {
       "period": "2026-02",
       "views": 37793
+    },
+    {
+      "period": "2026-07",
+      "views": 10194
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 37793
+      "views": 47987
     }
   ]
 }

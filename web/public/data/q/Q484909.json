@@ -4,7 +4,7 @@
   "title": "Clarence_Seedorf",
   "description": "Dutch association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clarence_Seedorf_2021.jpg?width=64",
-  "total": 356839,
+  "total": 367171,
   "monthly": [
     {
       "period": "2015-11",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 41815
+    },
+    {
+      "period": "2026-07",
+      "views": 10332
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 62663
+      "views": 72995
     }
   ]
 }

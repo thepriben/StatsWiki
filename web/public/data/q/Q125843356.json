@@ -4,7 +4,7 @@
   "title": "Good_Luck,_Have_Fun,_Don't_Die",
   "description": "2025 film directed by Gore Verbinski",
   "image": "",
-  "total": 943652,
+  "total": 953756,
   "monthly": [
     {
       "period": "2025-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 139170
+    },
+    {
+      "period": "2026-07",
+      "views": 10104
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 898286
+      "views": 908390
     }
   ]
 }

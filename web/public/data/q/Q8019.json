@@ -1,0 +1,100 @@
+{
+  "qid": "Q8019",
+  "label": "British Grand Prix",
+  "title": "British_Grand_Prix",
+  "description": "auto race held in the United Kingdom",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Silverstone_2011.svg?width=64",
+  "total": 216726,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 14096
+    },
+    {
+      "period": "2016-07",
+      "views": 11061
+    },
+    {
+      "period": "2017-07",
+      "views": 12702
+    },
+    {
+      "period": "2019-07",
+      "views": 10836
+    },
+    {
+      "period": "2020-08",
+      "views": 12676
+    },
+    {
+      "period": "2021-07",
+      "views": 18548
+    },
+    {
+      "period": "2022-07",
+      "views": 18002
+    },
+    {
+      "period": "2023-07",
+      "views": 18088
+    },
+    {
+      "period": "2024-07",
+      "views": 34502
+    },
+    {
+      "period": "2025-07",
+      "views": 52321
+    },
+    {
+      "period": "2026-07",
+      "views": 13894
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 14096
+    },
+    {
+      "period": "2016",
+      "views": 11061
+    },
+    {
+      "period": "2017",
+      "views": 12702
+    },
+    {
+      "period": "2019",
+      "views": 10836
+    },
+    {
+      "period": "2020",
+      "views": 12676
+    },
+    {
+      "period": "2021",
+      "views": 18548
+    },
+    {
+      "period": "2022",
+      "views": 18002
+    },
+    {
+      "period": "2023",
+      "views": 18088
+    },
+    {
+      "period": "2024",
+      "views": 34502
+    },
+    {
+      "period": "2025",
+      "views": 52321
+    },
+    {
+      "period": "2026",
+      "views": 13894
+    }
+  ]
+}

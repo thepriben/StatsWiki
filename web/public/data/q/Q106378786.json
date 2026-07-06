@@ -4,7 +4,7 @@
   "title": "Lainey_Wilson",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lainey_Wilson_2020.jpg?width=64",
-  "total": 3284638,
+  "total": 3301373,
   "monthly": [
     {
       "period": "2021-09",
@@ -161,6 +161,10 @@
     {
       "period": "2026-06",
       "views": 17520
+    },
+    {
+      "period": "2026-07",
+      "views": 16735
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 162121
+      "views": 178856
     }
   ]
 }

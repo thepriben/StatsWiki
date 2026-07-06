@@ -4,7 +4,7 @@
   "title": "Women's_Cricket_World_Cup",
   "description": "international women's cricket tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qanita_Jalil_Bowling_against_England.jpg?width=64",
-  "total": 3227656,
+  "total": 3240865,
   "monthly": [
     {
       "period": "2017-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 14821
+    },
+    {
+      "period": "2026-07",
+      "views": 13209
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 14821
+      "views": 28030
     }
   ]
 }

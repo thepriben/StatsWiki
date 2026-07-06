@@ -4,7 +4,7 @@
   "title": "Reborn_Rookie",
   "description": "2026 South Korean television series",
   "image": "",
-  "total": 32986,
+  "total": 42833,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 23332
+    },
+    {
+      "period": "2026-07",
+      "views": 9847
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 32986
+      "views": 42833
     }
   ]
 }

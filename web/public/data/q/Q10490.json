@@ -4,7 +4,7 @@
   "title": "Ayrton_Senna",
   "description": "Brazilian racing driver (1960-1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ayrton_Senna_9_-_Cropped.jpg?width=64",
-  "total": 4224749,
+  "total": 4234613,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-06",
       "views": 19488
+    },
+    {
+      "period": "2026-07",
+      "views": 9864
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 55848
+      "views": 65712
     }
   ]
 }

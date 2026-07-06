@@ -4,7 +4,7 @@
   "title": "John_Krasinski",
   "description": "American actor and filmmaker (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Krasinski_and_Josh_Wood_%28cropped%29.jpg?width=64",
-  "total": 23575923,
+  "total": 23585637,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-06",
       "views": 233904
+    },
+    {
+      "period": "2026-07",
+      "views": 9714
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 879702
+      "views": 889416
     }
   ]
 }

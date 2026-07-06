@@ -4,7 +4,7 @@
   "title": "2026_FIA_Formula_3_Championship",
   "description": "motor racing championship held in 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile_wordmark.svg?width=64",
-  "total": 21896,
+  "total": 34280,
   "monthly": [
     {
       "period": "2026-03",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 9192
+    },
+    {
+      "period": "2026-07",
+      "views": 12384
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21896
+      "views": 34280
     }
   ]
 }
