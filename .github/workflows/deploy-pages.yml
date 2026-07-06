@@ -1,13 +1,13 @@
 name: Deploy Pages
 
 on:
+  # Only for frontend code changes. Data publishing is handled by the
+  # "Daily update" workflow, so we don't deploy here on data/** pushes — that
+  # avoids two workflows racing on the GitHub Pages backend.
   push:
     branches: [main]
     paths:
       - "web/**"
-      - "data/**"
-      - ".github/workflows/deploy-pages.yml"
-      - ".github/workflows/reusable-deploy.yml"
   workflow_dispatch:
 
 permissions:
