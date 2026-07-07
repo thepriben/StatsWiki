@@ -4,7 +4,7 @@
   "title": "Pedro_Neto",
   "description": "Portuguese footballer (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg?width=64",
-  "total": 270086,
+  "total": 285336,
   "monthly": [
     {
       "period": "2020-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 10389
+    },
+    {
+      "period": "2026-07",
+      "views": 15250
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 10389
+      "views": 25639
     }
   ]
 }

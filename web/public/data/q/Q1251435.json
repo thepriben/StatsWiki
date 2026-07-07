@@ -4,7 +4,7 @@
   "title": "Double_Fine",
   "description": "American video game developer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Double_Fine_logo_black.svg?width=64",
-  "total": 39119,
+  "total": 60741,
   "monthly": [
     {
       "period": "2019-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 28091
+    },
+    {
+      "period": "2026-07",
+      "views": 21622
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 28091
+      "views": 49713
     }
   ]
 }

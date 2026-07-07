@@ -4,7 +4,7 @@
   "title": "Eusébio",
   "description": "Portuguese footballer (1942–2014)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eusebio_en_1973.jpg?width=64",
-  "total": 65456,
+  "total": 75253,
   "monthly": [
     {
       "period": "2016-07",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 16113
+    },
+    {
+      "period": "2026-07",
+      "views": 9797
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 26829
+      "views": 36626
     }
   ]
 }

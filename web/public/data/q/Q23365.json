@@ -4,7 +4,7 @@
   "title": "Jeremy_Renner",
   "description": "American actor, producer, and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy_Renner_at_TIFF_2025_%28cropped%29.jpg?width=64",
-  "total": 8984502,
+  "total": 8998106,
   "monthly": [
     {
       "period": "2015-07",
@@ -265,6 +265,10 @@
     {
       "period": "2026-01",
       "views": 107009
+    },
+    {
+      "period": "2026-07",
+      "views": 13604
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 107009
+      "views": 120613
     }
   ]
 }

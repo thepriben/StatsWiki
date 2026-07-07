@@ -4,7 +4,7 @@
   "title": "Cameron_Boyce",
   "description": "American actor (1999–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameron_Boyce_in_october_2017.jpg?width=64",
-  "total": 14046597,
+  "total": 14057714,
   "monthly": [
     {
       "period": "2015-08",
@@ -217,6 +217,10 @@
     {
       "period": "2026-05",
       "views": 76750
+    },
+    {
+      "period": "2026-07",
+      "views": 11117
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 98566
+      "views": 109683
     }
   ]
 }

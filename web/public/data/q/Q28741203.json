@@ -4,7 +4,7 @@
   "title": "LaMelo_Ball",
   "description": "American basketball player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LaMelo_Ball_Drew_League_2.jpg?width=64",
-  "total": 3177468,
+  "total": 3189378,
   "monthly": [
     {
       "period": "2017-02",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 195658
+    },
+    {
+      "period": "2026-07",
+      "views": 11910
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 270321
+      "views": 282231
     }
   ]
 }

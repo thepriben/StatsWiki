@@ -4,7 +4,7 @@
   "title": "Microsoft_Office",
   "description": "series of office programmes developed by Microsoft",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_365_app_logos.svg?width=64",
-  "total": 61402234,
+  "total": 61420030,
   "monthly": [
     {
       "period": "2019-08",
@@ -293,6 +293,10 @@
     {
       "period": "2026-06",
       "views": 40432
+    },
+    {
+      "period": "2026-07",
+      "views": 17796
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 228751
+      "views": 246547
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Compulsion_Games",
   "description": "Canadian video game developer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Compulsion_Games_Logo.svg?width=64",
-  "total": 45870,
+  "total": 65017,
   "monthly": [
     {
       "period": "2018-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 33541
+    },
+    {
+      "period": "2026-07",
+      "views": 19147
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 33541
+      "views": 52688
     }
   ]
 }

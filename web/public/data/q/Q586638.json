@@ -4,7 +4,7 @@
   "title": "List_of_stadiums_by_capacity",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 585224,
+  "total": 601397,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 54843
+    },
+    {
+      "period": "2026-07",
+      "views": 16173
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 54843
+      "views": 71016
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rafael_Márquez",
   "description": "Mexican association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mex-Kor_%2851%29.jpg?width=64",
-  "total": 765893,
+  "total": 786870,
   "monthly": [
     {
       "period": "2015-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 12406
+    },
+    {
+      "period": "2026-07",
+      "views": 20977
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 12406
+      "views": 33383
     }
   ]
 }

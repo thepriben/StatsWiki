@@ -4,7 +4,7 @@
   "title": "Dustin_Poirier",
   "description": "American mixed martial artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DustinPoirier.png?width=64",
-  "total": 6642024,
+  "total": 6651532,
   "monthly": [
     {
       "period": "2016-01",
@@ -185,6 +185,10 @@
     {
       "period": "2026-06",
       "views": 177112
+    },
+    {
+      "period": "2026-07",
+      "views": 9508
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 193410
+      "views": 202918
     }
   ]
 }

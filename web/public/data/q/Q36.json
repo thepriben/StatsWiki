@@ -4,7 +4,7 @@
   "title": "Poland",
   "description": "country in Central Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Poland_topo.jpg?width=64",
-  "total": 10962764,
+  "total": 10972158,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-04",
       "views": 17857
+    },
+    {
+      "period": "2026-07",
+      "views": 9394
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 17857
+      "views": 27251
     }
   ]
 }

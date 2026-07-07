@@ -4,7 +4,7 @@
   "title": "Mexico_City",
   "description": "capital and largest city of Mexico",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sobrevuelos_CDMX_HJ2A5091_%2840386338731%29.jpg?width=64",
-  "total": 470227,
+  "total": 529675,
   "monthly": [
     {
       "period": "2016-11",
@@ -52,7 +52,7 @@
     },
     {
       "period": "2026-07",
-      "views": 98405
+      "views": 157853
     }
   ],
   "yearly": [
@@ -82,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 166516
+      "views": 225964
     }
   ]
 }

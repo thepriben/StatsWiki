@@ -4,7 +4,7 @@
   "title": "Mark_Bellingham",
   "description": "English footballer (born 1976)",
   "image": "",
-  "total": 185099,
+  "total": 239288,
   "monthly": [
     {
       "period": "2024-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 9386
+    },
+    {
+      "period": "2026-07",
+      "views": 54189
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 9386
+      "views": 63575
     }
   ]
 }

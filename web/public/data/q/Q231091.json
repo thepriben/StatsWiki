@@ -4,7 +4,7 @@
   "title": "Morena_Baccarin",
   "description": "Brazilian-American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morena_Baccarin_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 9883247,
+  "total": 9892798,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-06",
       "views": 371499
+    },
+    {
+      "period": "2026-07",
+      "views": 9551
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 2018629
+      "views": 2028180
     }
   ]
 }

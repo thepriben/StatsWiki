@@ -4,7 +4,7 @@
   "title": "Linda_Nosková",
   "description": "Czech tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg?width=64",
-  "total": 173730,
+  "total": 192383,
   "monthly": [
     {
       "period": "2022-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 34542
+    },
+    {
+      "period": "2026-07",
+      "views": 18653
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 45863
+      "views": 64516
     }
   ]
 }

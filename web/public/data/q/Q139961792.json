@@ -4,7 +4,7 @@
   "title": "2026_European_heatwaves",
   "description": "heat waves affecting Europe in 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_surfaces_during_Europe%27s_heatwave_%27seen%27_by_Sentinel-3_ESA522397.jpg?width=64",
-  "total": 287240,
+  "total": 302723,
   "monthly": [
     {
       "period": "2026-06",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-07",
-      "views": 151095
+      "views": 166578
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 287240
+      "views": 302723
     }
   ]
 }

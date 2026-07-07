@@ -1,0 +1,52 @@
+{
+  "qid": "Q1196082",
+  "label": "history of the FIFA World Cup",
+  "title": "History_of_the_FIFA_World_Cup",
+  "description": "aspect of history",
+  "image": "",
+  "total": 2720934,
+  "monthly": [
+    {
+      "period": "2017-04",
+      "views": 688178
+    },
+    {
+      "period": "2017-05",
+      "views": 1547691
+    },
+    {
+      "period": "2018-06",
+      "views": 258209
+    },
+    {
+      "period": "2018-07",
+      "views": 179771
+    },
+    {
+      "period": "2022-12",
+      "views": 36803
+    },
+    {
+      "period": "2026-07",
+      "views": 10282
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 2235869
+    },
+    {
+      "period": "2018",
+      "views": 437980
+    },
+    {
+      "period": "2022",
+      "views": 36803
+    },
+    {
+      "period": "2026",
+      "views": 10282
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Pan_(2015_film)",
   "description": "2015 film directed by Joe Wright",
   "image": "",
-  "total": 1360076,
+  "total": 1378029,
   "monthly": [
     {
       "period": "2015-07",
@@ -37,6 +37,10 @@
     {
       "period": "2016-09",
       "views": 12791
+    },
+    {
+      "period": "2026-07",
+      "views": 17953
     }
   ],
   "yearly": [
@@ -47,6 +51,10 @@
     {
       "period": "2016",
       "views": 166456
+    },
+    {
+      "period": "2026",
+      "views": 17953
     }
   ]
 }

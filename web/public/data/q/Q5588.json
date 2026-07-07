@@ -4,7 +4,7 @@
   "title": "Frida_Kahlo",
   "description": "Mexican painter (1907–1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frida_Kahlo%2C_by_Guillermo_Kahlo_%28cropped%29.jpg?width=64",
-  "total": 7572032,
+  "total": 7581558,
   "monthly": [
     {
       "period": "2015-07",
@@ -333,6 +333,10 @@
     {
       "period": "2026-06",
       "views": 28343
+    },
+    {
+      "period": "2026-07",
+      "views": 9526
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 54568
+      "views": 64094
     }
   ]
 }

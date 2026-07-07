@@ -4,7 +4,7 @@
   "title": "Rivaldo",
   "description": "Brazilian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rivaldo_bunyodkor_2010.jpg?width=64",
-  "total": 231995,
+  "total": 242128,
   "monthly": [
     {
       "period": "2015-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 11009
+    },
+    {
+      "period": "2026-07",
+      "views": 10133
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 11009
+      "views": 21142
     }
   ]
 }

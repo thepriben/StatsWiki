@@ -4,7 +4,7 @@
   "title": "Gareth_Bale",
   "description": "Welsh association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gareth_Bale_2015_%281%29.jpg?width=64",
-  "total": 8015252,
+  "total": 8029463,
   "monthly": [
     {
       "period": "2015-08",
@@ -309,6 +309,10 @@
     {
       "period": "2026-06",
       "views": 38582
+    },
+    {
+      "period": "2026-07",
+      "views": 14211
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 166783
+      "views": 180994
     }
   ]
 }

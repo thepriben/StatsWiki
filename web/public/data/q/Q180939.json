@@ -4,7 +4,7 @@
   "title": "Peter_Crouch",
   "description": "English association football player (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chelsea_3_Stoke_0_%2813677350585%29_-_Peter_Crouch_%28cropped%29.jpg?width=64",
-  "total": 1362663,
+  "total": 1392661,
   "monthly": [
     {
       "period": "2015-11",
@@ -165,6 +165,10 @@
     {
       "period": "2026-06",
       "views": 14663
+    },
+    {
+      "period": "2026-07",
+      "views": 29998
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 52391
+      "views": 82389
     }
   ]
 }

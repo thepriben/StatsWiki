@@ -4,7 +4,7 @@
   "title": "Kelly_Cates",
   "description": "Scottish television presenter",
   "image": "",
-  "total": 198938,
+  "total": 223766,
   "monthly": [
     {
       "period": "2020-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 49068
+    },
+    {
+      "period": "2026-07",
+      "views": 24828
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 49068
+      "views": 73896
     }
   ]
 }

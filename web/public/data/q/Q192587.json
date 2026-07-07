@@ -4,7 +4,7 @@
   "title": "Duffy_(singer)",
   "description": "Welsh singer (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duffy_2010_erdoedy.jpg?width=64",
-  "total": 676596,
+  "total": 686048,
   "monthly": [
     {
       "period": "2015-11",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 71646
+    },
+    {
+      "period": "2026-07",
+      "views": 9452
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 165734
+      "views": 175186
     }
   ]
 }

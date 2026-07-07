@@ -4,7 +4,7 @@
   "title": "Ninja_Theory",
   "description": "video game development studio based in Cambridge, England, United Kingdom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ninja_Theory_wordmark.svg?width=64",
-  "total": 198031,
+  "total": 212551,
   "monthly": [
     {
       "period": "2017-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 73340
+    },
+    {
+      "period": "2026-07",
+      "views": 14520
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 73340
+      "views": 87860
     }
   ]
 }

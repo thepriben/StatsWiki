@@ -1,0 +1,92 @@
+{
+  "qid": "Q41506",
+  "label": "Stanford University",
+  "title": "Stanford_University",
+  "description": "private research university in Stanford, California, USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanford_Oval_May_2011_panorama.jpg?width=64",
+  "total": 231291,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 11559
+    },
+    {
+      "period": "2015-11",
+      "views": 23969
+    },
+    {
+      "period": "2016-01",
+      "views": 39177
+    },
+    {
+      "period": "2016-09",
+      "views": 10228
+    },
+    {
+      "period": "2016-10",
+      "views": 11271
+    },
+    {
+      "period": "2017-11",
+      "views": 14433
+    },
+    {
+      "period": "2018-09",
+      "views": 10044
+    },
+    {
+      "period": "2019-10",
+      "views": 11610
+    },
+    {
+      "period": "2019-11",
+      "views": 10743
+    },
+    {
+      "period": "2022-10",
+      "views": 55288
+    },
+    {
+      "period": "2024-07",
+      "views": 20225
+    },
+    {
+      "period": "2026-07",
+      "views": 12744
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 35528
+    },
+    {
+      "period": "2016",
+      "views": 60676
+    },
+    {
+      "period": "2017",
+      "views": 14433
+    },
+    {
+      "period": "2018",
+      "views": 10044
+    },
+    {
+      "period": "2019",
+      "views": 22353
+    },
+    {
+      "period": "2022",
+      "views": 55288
+    },
+    {
+      "period": "2024",
+      "views": 20225
+    },
+    {
+      "period": "2026",
+      "views": 12744
+    }
+  ]
+}

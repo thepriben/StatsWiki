@@ -4,7 +4,7 @@
   "title": "Evonne_Goolagong_Cawley",
   "description": "Australian Aboriginal tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internationale_tenniskampioenschappen_bij_Melkhuisje_te_Hilversum%2C_Evonne_Goolag%2C_Bestanddeelnr_924-7659.jpg?width=64",
-  "total": 1117838,
+  "total": 1129991,
   "monthly": [
     {
       "period": "2016-01",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 102816
+    },
+    {
+      "period": "2026-07",
+      "views": 12153
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 321232
+      "views": 333385
     }
   ]
 }
