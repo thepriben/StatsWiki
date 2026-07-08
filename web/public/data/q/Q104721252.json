@@ -4,7 +4,7 @@
   "title": "Reform_UK",
   "description": "right-wing populist political party",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reform_UK_Party_Ballot_Logo.png?width=64",
-  "total": 2231494,
+  "total": 2242988,
   "monthly": [
     {
       "period": "2021-05",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 55249
+    },
+    {
+      "period": "2026-07",
+      "views": 11494
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 797450
+      "views": 808944
     }
   ]
 }

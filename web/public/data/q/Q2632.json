@@ -4,7 +4,7 @@
   "title": "Ringo_Starr",
   "description": "British musician, drummer for the Beatles (born 1940)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ringo_2024_%28cropped_2x2%29.jpg?width=64",
-  "total": 4978354,
+  "total": 5001182,
   "monthly": [
     {
       "period": "2015-07",
@@ -333,6 +333,10 @@
     {
       "period": "2026-06",
       "views": 17773
+    },
+    {
+      "period": "2026-07",
+      "views": 22828
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 331833
+      "views": 354661
     }
   ]
 }

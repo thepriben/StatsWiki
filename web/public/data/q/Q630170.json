@@ -4,7 +4,7 @@
   "title": "Leandro_Paredes",
   "description": "Argentine footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leandro_Paredes_2018_%28cropped%29.jpg?width=64",
-  "total": 411625,
+  "total": 429985,
   "monthly": [
     {
       "period": "2019-01",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 12071
+    },
+    {
+      "period": "2026-07",
+      "views": 18360
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 12071
+      "views": 30431
     }
   ]
 }

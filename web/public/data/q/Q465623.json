@@ -4,7 +4,7 @@
   "title": "Duncan_Ferguson",
   "description": "Scottish association football player and manager (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duncan_Ferguson%2C_November_2019.jpg?width=64",
-  "total": 795884,
+  "total": 808887,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 93063
+    },
+    {
+      "period": "2026-07",
+      "views": 13003
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 93063
+      "views": 106066
     }
   ]
 }

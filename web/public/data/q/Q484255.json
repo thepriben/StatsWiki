@@ -1,0 +1,60 @@
+{
+  "qid": "Q484255",
+  "label": "Alice in Chains",
+  "title": "Alice_in_Chains",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice_in_Chains_-_2019-06-07_Rock_am_Ring_%28cropped%29.jpg?width=64",
+  "total": 224013,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 12745
+    },
+    {
+      "period": "2017-05",
+      "views": 108728
+    },
+    {
+      "period": "2018-05",
+      "views": 19379
+    },
+    {
+      "period": "2018-08",
+      "views": 22397
+    },
+    {
+      "period": "2025-07",
+      "views": 27098
+    },
+    {
+      "period": "2026-03",
+      "views": 18043
+    },
+    {
+      "period": "2026-07",
+      "views": 15623
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12745
+    },
+    {
+      "period": "2017",
+      "views": 108728
+    },
+    {
+      "period": "2018",
+      "views": 41776
+    },
+    {
+      "period": "2025",
+      "views": 27098
+    },
+    {
+      "period": "2026",
+      "views": 33666
+    }
+  ]
+}

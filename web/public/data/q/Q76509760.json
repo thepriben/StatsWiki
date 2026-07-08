@@ -4,7 +4,7 @@
   "title": "Count_Binface",
   "description": "satirical election candidate the United Kingdom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Binface.jpg?width=64",
-  "total": 455608,
+  "total": 518188,
   "monthly": [
     {
       "period": "2019-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 154256
+    },
+    {
+      "period": "2026-07",
+      "views": 62580
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 154256
+      "views": 216836
     }
   ]
 }

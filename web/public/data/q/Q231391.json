@@ -4,7 +4,7 @@
   "title": "Bernadette_Peters",
   "description": "American actress and singer (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernadette_Peters_Shankbone_2009_Tribeca.jpg?width=64",
-  "total": 898988,
+  "total": 908763,
   "monthly": [
     {
       "period": "2015-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 19238
+    },
+    {
+      "period": "2026-07",
+      "views": 9775
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 30461
+      "views": 40236
     }
   ]
 }

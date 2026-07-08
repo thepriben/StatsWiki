@@ -1,0 +1,48 @@
+{
+  "qid": "Q921605",
+  "label": "Evil Dead",
+  "title": "Evil_Dead",
+  "description": "horror film franchise",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Evil_Dead_logo.svg?width=64",
+  "total": 734871,
+  "monthly": [
+    {
+      "period": "2022-05",
+      "views": 20249
+    },
+    {
+      "period": "2023-01",
+      "views": 36373
+    },
+    {
+      "period": "2023-04",
+      "views": 413161
+    },
+    {
+      "period": "2023-05",
+      "views": 243644
+    },
+    {
+      "period": "2026-05",
+      "views": 11779
+    },
+    {
+      "period": "2026-07",
+      "views": 9665
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 20249
+    },
+    {
+      "period": "2023",
+      "views": 693178
+    },
+    {
+      "period": "2026",
+      "views": 21444
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Totenkopf",
   "description": "German military symbol",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Totenkopf_2.svg?width=64",
-  "total": 320393,
+  "total": 341015,
   "monthly": [
     {
       "period": "2016-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 129605
+    },
+    {
+      "period": "2026-07",
+      "views": 20622
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 129605
+      "views": 150227
     }
   ]
 }

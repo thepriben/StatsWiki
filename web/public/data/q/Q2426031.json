@@ -4,7 +4,7 @@
   "title": "Thomas_Massie",
   "description": "American politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?width=64",
-  "total": 2413200,
+  "total": 2425802,
   "monthly": [
     {
       "period": "2019-02",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 9746
+    },
+    {
+      "period": "2026-07",
+      "views": 12602
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 1142282
+      "views": 1154884
     }
   ]
 }

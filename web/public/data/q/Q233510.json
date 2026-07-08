@@ -4,7 +4,7 @@
   "title": "Alex_Morgan",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NC_Courage_v_San_Diego_Wave_%28Oct_2023%29_014_%28Morgan%29.jpg?width=64",
-  "total": 4549637,
+  "total": 4559913,
   "monthly": [
     {
       "period": "2015-07",
@@ -117,6 +117,10 @@
     {
       "period": "2026-06",
       "views": 16067
+    },
+    {
+      "period": "2026-07",
+      "views": 10276
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 16067
+      "views": 26343
     }
   ]
 }

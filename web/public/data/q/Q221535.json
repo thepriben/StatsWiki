@@ -4,7 +4,7 @@
   "title": "Eddie_Vedder",
   "description": "American singer and guitarist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eddie_Vedder_2018_-2.jpg?width=64",
-  "total": 1366177,
+  "total": 1410272,
   "monthly": [
     {
       "period": "2015-10",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 25668
+    },
+    {
+      "period": "2026-07",
+      "views": 44095
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 25668
+      "views": 69763
     }
   ]
 }

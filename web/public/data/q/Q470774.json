@@ -4,7 +4,7 @@
   "title": "MS_Dhoni",
   "description": "Indian cricket player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahendra_Singh_Dhoni_receiving_Padma_Bhushan.jpg?width=64",
-  "total": 15418046,
+  "total": 15432482,
   "monthly": [
     {
       "period": "2017-02",
@@ -321,6 +321,10 @@
     {
       "period": "2026-05",
       "views": 21944
+    },
+    {
+      "period": "2026-07",
+      "views": 14436
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 76846
+      "views": 91282
     }
   ]
 }

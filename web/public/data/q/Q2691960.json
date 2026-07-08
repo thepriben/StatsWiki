@@ -4,7 +4,7 @@
   "title": "Penalty_shoot-out_(association_football)",
   "description": "method used in association football to decide the winner of a drawn match",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Penalty_kick_Lahm_Cech_Champions_League_Final_2012.jpg?width=64",
-  "total": 346309,
+  "total": 356375,
   "monthly": [
     {
       "period": "2016-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 13597
+    },
+    {
+      "period": "2026-07",
+      "views": 10066
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 13597
+      "views": 23663
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "qid": "Q6691",
+  "label": "Homer",
+  "title": "Homer",
+  "description": "reputed author of the Iliad and the Odyssey",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Homer_bust%2C_Farnese_collection_%28Naples%29.jpg?width=64",
+  "total": 142843,
+  "monthly": [
+    {
+      "period": "2022-05",
+      "views": 14656
+    },
+    {
+      "period": "2024-12",
+      "views": 16656
+    },
+    {
+      "period": "2025-03",
+      "views": 22706
+    },
+    {
+      "period": "2025-12",
+      "views": 32849
+    },
+    {
+      "period": "2026-05",
+      "views": 44384
+    },
+    {
+      "period": "2026-07",
+      "views": 11592
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 14656
+    },
+    {
+      "period": "2024",
+      "views": 16656
+    },
+    {
+      "period": "2025",
+      "views": 55555
+    },
+    {
+      "period": "2026",
+      "views": 55976
+    }
+  ]
+}

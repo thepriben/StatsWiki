@@ -4,7 +4,7 @@
   "title": "Yann_Sommer",
   "description": "Swiss association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann_Sommer_%28cropped%29.jpg?width=64",
-  "total": 1316626,
+  "total": 1328517,
   "monthly": [
     {
       "period": "2016-06",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 12286
+    },
+    {
+      "period": "2026-07",
+      "views": 11891
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 12286
+      "views": 24177
     }
   ]
 }

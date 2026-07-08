@@ -1,0 +1,28 @@
+{
+  "qid": "Q136287298",
+  "label": "Pfizer Building",
+  "title": "Pfizer_Building",
+  "description": "building in Manhattan, New York",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/235_E42_St_2025_jeh.jpg?width=64",
+  "total": 59332,
+  "monthly": [
+    {
+      "period": "2025-11",
+      "views": 17077
+    },
+    {
+      "period": "2026-07",
+      "views": 42255
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 17077
+    },
+    {
+      "period": "2026",
+      "views": 42255
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Minnesota_United_FC",
   "description": "American professional soccer club based in Saint Paul, Minnesota, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minnesota_United_FC_wordmark_dark.svg?width=64",
-  "total": 45212,
+  "total": 58654,
   "monthly": [
     {
       "period": "2017-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 21167
+    },
+    {
+      "period": "2026-07",
+      "views": 13442
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 21167
+      "views": 34609
     }
   ]
 }

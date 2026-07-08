@@ -4,7 +4,7 @@
   "title": "Johan_Cruyff",
   "description": "Dutch footballer and manager (1947–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan_Cruijff_%281974%29.jpg?width=64",
-  "total": 1753846,
+  "total": 1763556,
   "monthly": [
     {
       "period": "2015-10",
@@ -109,6 +109,10 @@
     {
       "period": "2026-06",
       "views": 41190
+    },
+    {
+      "period": "2026-07",
+      "views": 9710
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 57503
+      "views": 67213
     }
   ]
 }

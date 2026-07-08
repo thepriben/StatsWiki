@@ -4,7 +4,7 @@
   "title": "Davinson_Sánchez",
   "description": "Colombian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A1vinson_S%C3%A1nchez%2C_POL_vs_COL%3B_FWC_2018.jpg?width=64",
-  "total": 164973,
+  "total": 199282,
   "monthly": [
     {
       "period": "2017-05",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 10438
+    },
+    {
+      "period": "2026-07",
+      "views": 34309
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 10438
+      "views": 44747
     }
   ]
 }

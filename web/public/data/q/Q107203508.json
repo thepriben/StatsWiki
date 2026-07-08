@@ -1,0 +1,80 @@
+{
+  "qid": "Q107203508",
+  "label": "Evil Dead Rise",
+  "title": "Evil_Dead_Rise",
+  "description": "2023 film directed by Lee Cronin",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Evil_Dead_Rise_Logo.svg?width=64",
+  "total": 4917395,
+  "monthly": [
+    {
+      "period": "2022-08",
+      "views": 11903
+    },
+    {
+      "period": "2022-10",
+      "views": 13024
+    },
+    {
+      "period": "2023-01",
+      "views": 235885
+    },
+    {
+      "period": "2023-03",
+      "views": 183943
+    },
+    {
+      "period": "2023-04",
+      "views": 2049491
+    },
+    {
+      "period": "2023-05",
+      "views": 1328171
+    },
+    {
+      "period": "2023-06",
+      "views": 575426
+    },
+    {
+      "period": "2023-07",
+      "views": 342848
+    },
+    {
+      "period": "2023-09",
+      "views": 50359
+    },
+    {
+      "period": "2024-09",
+      "views": 9051
+    },
+    {
+      "period": "2026-04",
+      "views": 74300
+    },
+    {
+      "period": "2026-05",
+      "views": 33642
+    },
+    {
+      "period": "2026-07",
+      "views": 9352
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 24927
+    },
+    {
+      "period": "2023",
+      "views": 4766123
+    },
+    {
+      "period": "2024",
+      "views": 9051
+    },
+    {
+      "period": "2026",
+      "views": 117294
+    }
+  ]
+}

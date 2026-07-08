@@ -4,7 +4,7 @@
   "title": "Greenland",
   "description": "autonomous territory of the Kingdom of Denmark and world's largest island",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuuk_%282013%29.jpg?width=64",
-  "total": 12835335,
+  "total": 12846548,
   "monthly": [
     {
       "period": "2015-10",
@@ -285,6 +285,10 @@
     {
       "period": "2026-05",
       "views": 17137
+    },
+    {
+      "period": "2026-07",
+      "views": 11213
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 3733713
+      "views": 3744926
     }
   ]
 }
