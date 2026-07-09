@@ -4,7 +4,7 @@
   "title": "Giorgia_Meloni",
   "description": "Prime Minister of Italy since 2022",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?width=64",
-  "total": 6108839,
+  "total": 6122962,
   "monthly": [
     {
       "period": "2022-07",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 366296
+    },
+    {
+      "period": "2026-07",
+      "views": 14123
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 1147674
+      "views": 1161797
     }
   ]
 }

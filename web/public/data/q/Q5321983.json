@@ -4,7 +4,7 @@
   "title": "E._Jean_Carroll",
   "description": "American journalist (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ejean-two_hands_%28cropped%29.jpg?width=64",
-  "total": 1737253,
+  "total": 1747083,
   "monthly": [
     {
       "period": "2019-06",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 32783
+    },
+    {
+      "period": "2026-07",
+      "views": 9830
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 74081
+      "views": 83911
     }
   ]
 }

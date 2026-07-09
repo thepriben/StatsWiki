@@ -4,7 +4,7 @@
   "title": "Ben_Affleck",
   "description": "American film actor, director and screenwriter (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Affleck_by_Gage_Skidmore_3.jpg?width=64",
-  "total": 42830949,
+  "total": 42841196,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-06",
       "views": 58236
+    },
+    {
+      "period": "2026-07",
+      "views": 10247
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1086963
+      "views": 1097210
     }
   ]
 }

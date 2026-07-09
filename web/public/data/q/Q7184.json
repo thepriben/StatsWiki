@@ -4,7 +4,7 @@
   "title": "NATO",
   "description": "intergovernmental military alliance between 32 member states",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%90%D0%A2%D0%9E_%D0%A1%D0%B0%D0%BC%D0%B8%D1%82_2021_NATO_Summit_2021_-14.06.2021-_%2851245988182%29.jpg?width=64",
-  "total": 19560740,
+  "total": 19572919,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-04",
       "views": 119317
+    },
+    {
+      "period": "2026-07",
+      "views": 12179
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 621151
+      "views": 633330
     }
   ]
 }

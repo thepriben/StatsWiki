@@ -4,7 +4,7 @@
   "title": "Official_Monster_Raving_Loony_Party",
   "description": "frivolous political party established in the United Kingdom in 1983",
   "image": "",
-  "total": 342869,
+  "total": 370464,
   "monthly": [
     {
       "period": "2017-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 10454
+    },
+    {
+      "period": "2026-07",
+      "views": 27595
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 25377
+      "views": 52972
     }
   ]
 }

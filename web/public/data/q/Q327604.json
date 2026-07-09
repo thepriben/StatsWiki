@@ -1,0 +1,60 @@
+{
+  "qid": "Q327604",
+  "label": "The Evil Dead",
+  "title": "The_Evil_Dead",
+  "description": "1981 film by Sam Raimi",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Theevildead-logo.svg?width=64",
+  "total": 344609,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 10189
+    },
+    {
+      "period": "2015-10",
+      "views": 19108
+    },
+    {
+      "period": "2015-11",
+      "views": 31196
+    },
+    {
+      "period": "2022-05",
+      "views": 20950
+    },
+    {
+      "period": "2023-01",
+      "views": 28695
+    },
+    {
+      "period": "2023-04",
+      "views": 199173
+    },
+    {
+      "period": "2023-05",
+      "views": 24210
+    },
+    {
+      "period": "2026-07",
+      "views": 11088
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 60493
+    },
+    {
+      "period": "2022",
+      "views": 20950
+    },
+    {
+      "period": "2023",
+      "views": 252078
+    },
+    {
+      "period": "2026",
+      "views": 11088
+    }
+  ]
+}

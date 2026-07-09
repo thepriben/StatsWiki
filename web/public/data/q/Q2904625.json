@@ -1,0 +1,36 @@
+{
+  "qid": "Q2904625",
+  "label": "Fulton surface-to-air recovery system",
+  "title": "Fulton_surface-to-air_recovery_system",
+  "description": "retrieve persons on the ground using an aircraft",
+  "image": "",
+  "total": 285923,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 255227
+    },
+    {
+      "period": "2020-03",
+      "views": 9757
+    },
+    {
+      "period": "2026-07",
+      "views": 20939
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 255227
+    },
+    {
+      "period": "2020",
+      "views": 9757
+    },
+    {
+      "period": "2026",
+      "views": 20939
+    }
+  ]
+}

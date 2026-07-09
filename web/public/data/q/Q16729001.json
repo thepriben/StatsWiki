@@ -1,0 +1,64 @@
+{
+  "qid": "Q16729001",
+  "label": "Markiplier",
+  "title": "Markiplier",
+  "description": "American YouTuber and Internet personality",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Markiplier_by_Gage_Skidmore.jpg?width=64",
+  "total": 500061,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 21564
+    },
+    {
+      "period": "2020-11",
+      "views": 19131
+    },
+    {
+      "period": "2021-12",
+      "views": 11584
+    },
+    {
+      "period": "2025-10",
+      "views": 16731
+    },
+    {
+      "period": "2025-12",
+      "views": 33418
+    },
+    {
+      "period": "2026-01",
+      "views": 87017
+    },
+    {
+      "period": "2026-02",
+      "views": 300580
+    },
+    {
+      "period": "2026-07",
+      "views": 10036
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 21564
+    },
+    {
+      "period": "2020",
+      "views": 19131
+    },
+    {
+      "period": "2021",
+      "views": 11584
+    },
+    {
+      "period": "2025",
+      "views": 50149
+    },
+    {
+      "period": "2026",
+      "views": 397633
+    }
+  ]
+}

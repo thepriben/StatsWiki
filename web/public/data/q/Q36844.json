@@ -4,7 +4,7 @@
   "title": "Rihanna",
   "description": "Barbadian singer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rihanna_visits_U.S._Embassy_in_Barbados_2024_%28cropped%29.jpg?width=64",
-  "total": 49940736,
+  "total": 49950557,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-06",
       "views": 8049
+    },
+    {
+      "period": "2026-07",
+      "views": 9821
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1111763
+      "views": 1121584
     }
   ]
 }

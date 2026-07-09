@@ -4,7 +4,7 @@
   "title": "Your_Friends_&_Neighbors_(TV_series)",
   "description": "American television series",
   "image": "",
-  "total": 2549957,
+  "total": 2558713,
   "monthly": [
     {
       "period": "2025-04",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 345101
+    },
+    {
+      "period": "2026-07",
+      "views": 8756
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 1255957
+      "views": 1264713
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Eminem",
   "description": "American rapper (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eminem_live_at_D.C._2014_%28cropped%29.jpg?width=64",
-  "total": 69918986,
+  "total": 69929151,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 24631
+    },
+    {
+      "period": "2026-07",
+      "views": 10165
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 731022
+      "views": 741187
     }
   ]
 }

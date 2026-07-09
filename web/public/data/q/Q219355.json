@@ -4,7 +4,7 @@
   "title": "Roswell_incident",
   "description": "1947 unspecified object crash near Corona, New Mexico, US",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RoswellDailyRecordJuly8%2C1947.jpg?width=64",
-  "total": 204965,
+  "total": 220415,
   "monthly": [
     {
       "period": "2021-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 20080
+    },
+    {
+      "period": "2026-07",
+      "views": 15450
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 20080
+      "views": 35530
     }
   ]
 }
