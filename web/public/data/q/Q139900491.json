@@ -4,7 +4,7 @@
   "title": "Chand_Mera_Dil",
   "description": "2026 film by Vivek Soni",
   "image": "",
-  "total": 147300,
+  "total": 157784,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 16911
+    },
+    {
+      "period": "2026-07",
+      "views": 10484
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 147300
+      "views": 157784
     }
   ]
 }

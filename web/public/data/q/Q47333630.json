@@ -4,7 +4,7 @@
   "title": "Thomas_Dundon",
   "description": "American businessman",
   "image": "",
-  "total": 231835,
+  "total": 248998,
   "monthly": [
     {
       "period": "2019-02",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 24706
+    },
+    {
+      "period": "2026-07",
+      "views": 17163
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 70826
+      "views": 87989
     }
   ]
 }

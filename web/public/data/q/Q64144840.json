@@ -1,0 +1,116 @@
+{
+  "qid": "Q64144840",
+  "label": "AEW World Championship",
+  "title": "AEW_World_Championship",
+  "description": "Wrestling Championship from the All Elite Wrestling promotion",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WMC_AEWOMEGA-CHAMP.jpg?width=64",
+  "total": 382343,
+  "monthly": [
+    {
+      "period": "2019-05",
+      "views": 29580
+    },
+    {
+      "period": "2019-09",
+      "views": 19741
+    },
+    {
+      "period": "2020-03",
+      "views": 21652
+    },
+    {
+      "period": "2021-11",
+      "views": 19116
+    },
+    {
+      "period": "2022-05",
+      "views": 27729
+    },
+    {
+      "period": "2022-06",
+      "views": 36974
+    },
+    {
+      "period": "2022-08",
+      "views": 17216
+    },
+    {
+      "period": "2022-09",
+      "views": 58607
+    },
+    {
+      "period": "2022-11",
+      "views": 14266
+    },
+    {
+      "period": "2023-08",
+      "views": 35866
+    },
+    {
+      "period": "2024-04",
+      "views": 17136
+    },
+    {
+      "period": "2024-08",
+      "views": 10868
+    },
+    {
+      "period": "2024-10",
+      "views": 16732
+    },
+    {
+      "period": "2025-07",
+      "views": 14108
+    },
+    {
+      "period": "2025-11",
+      "views": 9861
+    },
+    {
+      "period": "2026-04",
+      "views": 13568
+    },
+    {
+      "period": "2026-05",
+      "views": 10363
+    },
+    {
+      "period": "2026-07",
+      "views": 8960
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 49321
+    },
+    {
+      "period": "2020",
+      "views": 21652
+    },
+    {
+      "period": "2021",
+      "views": 19116
+    },
+    {
+      "period": "2022",
+      "views": 154792
+    },
+    {
+      "period": "2023",
+      "views": 35866
+    },
+    {
+      "period": "2024",
+      "views": 44736
+    },
+    {
+      "period": "2025",
+      "views": 23969
+    },
+    {
+      "period": "2026",
+      "views": 32891
+    }
+  ]
+}

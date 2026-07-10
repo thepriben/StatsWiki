@@ -4,7 +4,7 @@
   "title": "Malo_Gusto",
   "description": "French footballer (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg?width=64",
-  "total": 216078,
+  "total": 227253,
   "monthly": [
     {
       "period": "2023-01",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 8555
+    },
+    {
+      "period": "2026-07",
+      "views": 11175
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 8555
+      "views": 19730
     }
   ]
 }

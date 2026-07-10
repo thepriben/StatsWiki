@@ -4,7 +4,7 @@
   "title": "Jared_Leto",
   "description": "American actor, singer, musician and songwriter (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jared_Leto%2C_San_Diego_Comic_Con_2016_%282%29.jpg?width=64",
-  "total": 14700655,
+  "total": 14711481,
   "monthly": [
     {
       "period": "2015-07",
@@ -373,6 +373,10 @@
     {
       "period": "2026-06",
       "views": 71228
+    },
+    {
+      "period": "2026-07",
+      "views": 10826
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 181195
+      "views": 192021
     }
   ]
 }

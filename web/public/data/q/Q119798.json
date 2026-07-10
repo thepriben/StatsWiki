@@ -4,7 +4,7 @@
   "title": "Michael_Douglas",
   "description": "American actor, producer and activist (born 1944)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/59th_Karlovy_Vary_International_Film_Festival%2C_Michael_Douglas_07_%28cropped%29.jpg?width=64",
-  "total": 12477166,
+  "total": 12490203,
   "monthly": [
     {
       "period": "2015-07",
@@ -425,6 +425,10 @@
     {
       "period": "2026-06",
       "views": 9049
+    },
+    {
+      "period": "2026-07",
+      "views": 13037
     }
   ],
   "yearly": [
@@ -474,7 +478,7 @@
     },
     {
       "period": "2026",
-      "views": 37772
+      "views": 50809
     }
   ]
 }

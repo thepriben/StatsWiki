@@ -4,7 +4,7 @@
   "title": "Mali",
   "description": "country in West Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mali_-_Location_Map_%282013%29_-_MLI_-_UNOCHA.svg?width=64",
-  "total": 1311938,
+  "total": 1327299,
   "monthly": [
     {
       "period": "2015-11",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 14977
+    },
+    {
+      "period": "2026-07",
+      "views": 15361
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 135404
+      "views": 150765
     }
   ]
 }

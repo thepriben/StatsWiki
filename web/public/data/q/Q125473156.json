@@ -4,7 +4,7 @@
   "title": "Martha_Lillard",
   "description": "last living iron lung user (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martha_Lillard.jpg?width=64",
-  "total": 98436,
+  "total": 129353,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 14287
+    },
+    {
+      "period": "2026-07",
+      "views": 30917
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 98436
+      "views": 129353
     }
   ]
 }

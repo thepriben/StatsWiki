@@ -4,7 +4,7 @@
   "title": "Mick_Jagger",
   "description": "British singer and songwriter; vocalist of The Rolling Stones",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolling_Stones_04.jpg?width=64",
-  "total": 7851306,
+  "total": 7862210,
   "monthly": [
     {
       "period": "2015-07",
@@ -357,6 +357,10 @@
     {
       "period": "2026-06",
       "views": 45859
+    },
+    {
+      "period": "2026-07",
+      "views": 10904
     }
   ],
   "yearly": [
@@ -406,7 +410,7 @@
     },
     {
       "period": "2026",
-      "views": 116042
+      "views": 126946
     }
   ]
 }

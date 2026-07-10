@@ -1,0 +1,56 @@
+{
+  "qid": "Q56043819",
+  "label": "Ben Curran",
+  "title": "Ben_Curran",
+  "description": "cricketer (born 1996)",
+  "image": "",
+  "total": 152728,
+  "monthly": [
+    {
+      "period": "2019-09",
+      "views": 10786
+    },
+    {
+      "period": "2020-09",
+      "views": 49119
+    },
+    {
+      "period": "2021-03",
+      "views": 14409
+    },
+    {
+      "period": "2021-04",
+      "views": 21322
+    },
+    {
+      "period": "2025-05",
+      "views": 43369
+    },
+    {
+      "period": "2026-07",
+      "views": 13723
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 10786
+    },
+    {
+      "period": "2020",
+      "views": 49119
+    },
+    {
+      "period": "2021",
+      "views": 35731
+    },
+    {
+      "period": "2025",
+      "views": 43369
+    },
+    {
+      "period": "2026",
+      "views": 13723
+    }
+  ]
+}

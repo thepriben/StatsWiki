@@ -4,7 +4,7 @@
   "title": "Prabhas",
   "description": "Indian film actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prabhas_at_Baahubali_media_meet%2C_day_2_%28cropped%29.jpg?width=64",
-  "total": 8896602,
+  "total": 8907653,
   "monthly": [
     {
       "period": "2015-07",
@@ -193,6 +193,10 @@
     {
       "period": "2026-01",
       "views": 115762
+    },
+    {
+      "period": "2026-07",
+      "views": 11051
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 115762
+      "views": 126813
     }
   ]
 }

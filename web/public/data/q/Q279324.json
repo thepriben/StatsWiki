@@ -1,0 +1,28 @@
+{
+  "qid": "Q279324",
+  "label": "gastrointestinal perforation",
+  "title": "Perforated_intestine",
+  "description": "perforation in the wall of part of the gastrointestinal tract.",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Free_air2010.JPG?width=64",
+  "total": 71647,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 18513
+    },
+    {
+      "period": "2026-07",
+      "views": 53134
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 18513
+    },
+    {
+      "period": "2026",
+      "views": 53134
+    }
+  ]
+}

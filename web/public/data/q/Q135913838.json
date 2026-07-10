@@ -4,17 +4,21 @@
   "title": "Dhamaal_4",
   "description": "2026 indian upcoming film by Ajay Devgn",
   "image": "",
-  "total": 23082,
+  "total": 36746,
   "monthly": [
     {
       "period": "2026-06",
       "views": 23082
+    },
+    {
+      "period": "2026-07",
+      "views": 13664
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 23082
+      "views": 36746
     }
   ]
 }

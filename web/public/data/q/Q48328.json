@@ -1,0 +1,80 @@
+{
+  "qid": "Q48328",
+  "label": "Beowulf",
+  "title": "Beowulf",
+  "description": "Old English heroic epic poem",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg?width=64",
+  "total": 147577,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 12585
+    },
+    {
+      "period": "2016-01",
+      "views": 53982
+    },
+    {
+      "period": "2017-12",
+      "views": 8875
+    },
+    {
+      "period": "2018-05",
+      "views": 10658
+    },
+    {
+      "period": "2019-11",
+      "views": 10763
+    },
+    {
+      "period": "2022-02",
+      "views": 18144
+    },
+    {
+      "period": "2022-10",
+      "views": 10417
+    },
+    {
+      "period": "2023-02",
+      "views": 13123
+    },
+    {
+      "period": "2026-07",
+      "views": 9030
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12585
+    },
+    {
+      "period": "2016",
+      "views": 53982
+    },
+    {
+      "period": "2017",
+      "views": 8875
+    },
+    {
+      "period": "2018",
+      "views": 10658
+    },
+    {
+      "period": "2019",
+      "views": 10763
+    },
+    {
+      "period": "2022",
+      "views": 28561
+    },
+    {
+      "period": "2023",
+      "views": 13123
+    },
+    {
+      "period": "2026",
+      "views": 9030
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Théo_Hernandez",
   "description": "French footballer (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_Th%C3%A9o_Hernandez.jpg?width=64",
-  "total": 403826,
+  "total": 416513,
   "monthly": [
     {
       "period": "2022-12",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 68245
+    },
+    {
+      "period": "2026-07",
+      "views": 12687
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 68245
+      "views": 80932
     }
   ]
 }

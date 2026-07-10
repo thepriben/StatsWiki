@@ -4,7 +4,7 @@
   "title": "Narendra_Modi",
   "description": "Prime Minister of India since 2014",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png?width=64",
-  "total": 38818589,
+  "total": 38828860,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 100950
+    },
+    {
+      "period": "2026-07",
+      "views": 10271
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 754012
+      "views": 764283
     }
   ]
 }

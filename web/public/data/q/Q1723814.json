@@ -1,0 +1,44 @@
+{
+  "qid": "Q1723814",
+  "label": "Kanlaon Volcano",
+  "title": "Kanlaon",
+  "description": "active stratovolcano on the island of Negros, Philippines",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Canlaon.JPG?width=64",
+  "total": 265978,
+  "monthly": [
+    {
+      "period": "2024-06",
+      "views": 79741
+    },
+    {
+      "period": "2024-12",
+      "views": 117447
+    },
+    {
+      "period": "2025-04",
+      "views": 20372
+    },
+    {
+      "period": "2025-10",
+      "views": 36019
+    },
+    {
+      "period": "2026-07",
+      "views": 12399
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 197188
+    },
+    {
+      "period": "2025",
+      "views": 56391
+    },
+    {
+      "period": "2026",
+      "views": 12399
+    }
+  ]
+}

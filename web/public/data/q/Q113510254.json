@@ -4,7 +4,7 @@
   "title": "Chemsdine_Talbi",
   "description": "Moroccan footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chemsdine_Talbi_warming_up_with_Morocco_%28cropped%29.jpg?width=64",
-  "total": 40390,
+  "total": 62950,
   "monthly": [
     {
       "period": "2025-02",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 18188
+    },
+    {
+      "period": "2026-07",
+      "views": 22560
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 18188
+      "views": 40748
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Walking_Dead_(TV_series)",
   "description": "American post-apocalyptic horror drama zombie television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Walking_Dead_%28Fernsehserie%29_logo.svg?width=64",
-  "total": 44707615,
+  "total": 44716470,
   "monthly": [
     {
       "period": "2015-07",
@@ -445,6 +445,10 @@
     {
       "period": "2025-09",
       "views": 16413
+    },
+    {
+      "period": "2026-07",
+      "views": 8855
     }
   ],
   "yearly": [
@@ -491,6 +495,10 @@
     {
       "period": "2025",
       "views": 108098
+    },
+    {
+      "period": "2026",
+      "views": 8855
     }
   ]
 }

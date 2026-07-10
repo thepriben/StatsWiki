@@ -4,7 +4,7 @@
   "title": "Iron_lung",
   "description": "negative-pressure mechanically functioning respirator",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iron_Lung_%28PSF%29.png?width=64",
-  "total": 1360674,
+  "total": 1398010,
   "monthly": [
     {
       "period": "2015-11",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 8970
+    },
+    {
+      "period": "2026-07",
+      "views": 37336
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 42860
+      "views": 80196
     }
   ]
 }

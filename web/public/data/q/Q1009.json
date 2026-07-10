@@ -4,7 +4,7 @@
   "title": "Cameroon",
   "description": "sovereign state in West-Central Africa",
   "image": "",
-  "total": 502936,
+  "total": 514656,
   "monthly": [
     {
       "period": "2018-04",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 8680
+    },
+    {
+      "period": "2026-07",
+      "views": 11720
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 16833
+      "views": 28553
     }
   ]
 }

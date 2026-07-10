@@ -4,7 +4,7 @@
   "title": "Moana_2",
   "description": "2024 animated film directed by Jason Hand, Dana Ledoux Miller and David Derrick Jr.",
   "image": "",
-  "total": 5748229,
+  "total": 5756997,
   "monthly": [
     {
       "period": "2024-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-03",
       "views": 8689
+    },
+    {
+      "period": "2026-07",
+      "views": 8768
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 8689
+      "views": 17457
     }
   ]
 }
