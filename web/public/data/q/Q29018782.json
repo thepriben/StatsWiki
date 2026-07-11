@@ -4,7 +4,7 @@
   "title": "Mike_Boynton",
   "description": "American basketball player and coach (born 1982)",
   "image": "",
-  "total": 32561,
+  "total": 43311,
   "monthly": [
     {
       "period": "2021-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 21354
+    },
+    {
+      "period": "2026-07",
+      "views": 10750
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 21354
+      "views": 32104
     }
   ]
 }

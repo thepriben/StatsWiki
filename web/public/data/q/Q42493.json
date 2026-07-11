@@ -4,7 +4,7 @@
   "title": "Katy_Perry",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg?width=64",
-  "total": 28159900,
+  "total": 28173328,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-06",
       "views": 419777
+    },
+    {
+      "period": "2026-07",
+      "views": 13428
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 1236823
+      "views": 1250251
     }
   ]
 }

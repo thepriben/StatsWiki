@@ -4,7 +4,7 @@
   "title": "Nikola_Tesla",
   "description": "Serbian-American engineer and inventor (1856–1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tesla_circa_1890.jpeg?width=64",
-  "total": 27352940,
+  "total": 27363262,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-05",
       "views": 8756
+    },
+    {
+      "period": "2026-07",
+      "views": 10322
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 60311
+      "views": 70633
     }
   ]
 }

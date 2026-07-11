@@ -4,7 +4,7 @@
   "title": "Sophia_Thomalla",
   "description": "German media personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophia-Thomalla-3.jpg?width=64",
-  "total": 242605,
+  "total": 259097,
   "monthly": [
     {
       "period": "2022-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 62548
+    },
+    {
+      "period": "2026-07",
+      "views": 16492
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 76694
+      "views": 93186
     }
   ]
 }

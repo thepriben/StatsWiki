@@ -4,7 +4,7 @@
   "title": "Big_Brother_27_(American_season)",
   "description": "season of television series",
   "image": "",
-  "total": 2827401,
+  "total": 2837542,
   "monthly": [
     {
       "period": "2025-07",
@@ -25,12 +25,20 @@
     {
       "period": "2025-12",
       "views": 10444
+    },
+    {
+      "period": "2026-07",
+      "views": 10141
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 2827401
+    },
+    {
+      "period": "2026",
+      "views": 10141
     }
   ]
 }

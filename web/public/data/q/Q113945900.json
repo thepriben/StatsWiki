@@ -4,17 +4,21 @@
   "title": "Smoking_Behind_the_Supermarket_with_You",
   "description": "Japanese manga series by Jinushi",
   "image": "",
-  "total": 146703,
+  "total": 155725,
   "monthly": [
     {
       "period": "2026-06",
       "views": 146703
+    },
+    {
+      "period": "2026-07",
+      "views": 9022
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 146703
+      "views": 155725
     }
   ]
 }

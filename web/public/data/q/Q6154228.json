@@ -1,0 +1,36 @@
+{
+  "qid": "Q6154228",
+  "label": "Janice Dean",
+  "title": "Janice_Dean",
+  "description": "Canadian weather presenter",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Janice_Dean_2019.jpg?width=64",
+  "total": 36832,
+  "monthly": [
+    {
+      "period": "2019-03",
+      "views": 9384
+    },
+    {
+      "period": "2023-01",
+      "views": 11170
+    },
+    {
+      "period": "2026-07",
+      "views": 16278
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 9384
+    },
+    {
+      "period": "2023",
+      "views": 11170
+    },
+    {
+      "period": "2026",
+      "views": 16278
+    }
+  ]
+}

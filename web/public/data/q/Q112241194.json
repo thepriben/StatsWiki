@@ -4,7 +4,7 @@
   "title": "Benoît_Saint_Denis",
   "description": "French MMA fighter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benoit_Saint_Denis_2023.png?width=64",
-  "total": 513943,
+  "total": 529986,
   "monthly": [
     {
       "period": "2024-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 11078
+    },
+    {
+      "period": "2026-07",
+      "views": 16043
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 78271
+      "views": 94314
     }
   ]
 }

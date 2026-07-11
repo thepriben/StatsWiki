@@ -4,7 +4,7 @@
   "title": "Andre_Agassi",
   "description": "American tennis player (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andre_Agassi_%282011%29.jpg?width=64",
-  "total": 3513294,
+  "total": 3582251,
   "monthly": [
     {
       "period": "2015-07",
@@ -209,6 +209,10 @@
     {
       "period": "2026-06",
       "views": 25390
+    },
+    {
+      "period": "2026-07",
+      "views": 68957
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 99808
+      "views": 168765
     }
   ]
 }

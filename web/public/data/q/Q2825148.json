@@ -4,7 +4,7 @@
   "title": "Adrien_Broner",
   "description": "American boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adrien_Broner_2012.jpg?width=64",
-  "total": 1544877,
+  "total": 1556953,
   "monthly": [
     {
       "period": "2015-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 152720
+    },
+    {
+      "period": "2026-07",
+      "views": 12076
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 258060
+      "views": 270136
     }
   ]
 }

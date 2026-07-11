@@ -1,0 +1,40 @@
+{
+  "qid": "Q51934238",
+  "label": "Southwest Airlines Flight 1380",
+  "title": "Southwest_Airlines_Flight_1380",
+  "description": "aviation accident",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Southwest_Airlines_Flight_1380_NTSB_Engine_Inspection_3_PHL_KPHL.jpg?width=64",
+  "total": 160709,
+  "monthly": [
+    {
+      "period": "2018-04",
+      "views": 104805
+    },
+    {
+      "period": "2018-07",
+      "views": 13505
+    },
+    {
+      "period": "2022-01",
+      "views": 28324
+    },
+    {
+      "period": "2026-07",
+      "views": 14075
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 118310
+    },
+    {
+      "period": "2022",
+      "views": 28324
+    },
+    {
+      "period": "2026",
+      "views": 14075
+    }
+  ]
+}

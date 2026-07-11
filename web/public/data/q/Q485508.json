@@ -4,7 +4,7 @@
   "title": "Charles_Manson",
   "description": "American criminal and cult leader (1934–2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MansonB33920_8-14-17_%28cropped%29.jpg?width=64",
-  "total": 46527130,
+  "total": 46537056,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-05",
       "views": 16478
+    },
+    {
+      "period": "2026-07",
+      "views": 9926
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 95963
+      "views": 105889
     }
   ]
 }

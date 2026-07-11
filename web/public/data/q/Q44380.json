@@ -4,7 +4,7 @@
   "title": "Cameron_Diaz",
   "description": "American actress and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameron_Diaz_at_WWD_Style_Awards_2026-1998.jpg?width=64",
-  "total": 19730612,
+  "total": 19739779,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-05",
       "views": 280576
+    },
+    {
+      "period": "2026-07",
+      "views": 9167
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 462511
+      "views": 471678
     }
   ]
 }
