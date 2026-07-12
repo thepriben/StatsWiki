@@ -4,21 +4,69 @@
   "title": "Saturday_Night's_Main_Event_XLV",
   "description": "WWE television programs",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saturday_Nights_Main_Event_Logo_2006.png?width=64",
-  "total": 75422,
+  "total": 2433239,
   "monthly": [
+    {
+      "period": "2024-12",
+      "views": 409658
+    },
+    {
+      "period": "2025-01",
+      "views": 208988
+    },
+    {
+      "period": "2025-05",
+      "views": 367328
+    },
+    {
+      "period": "2025-06",
+      "views": 14563
+    },
+    {
+      "period": "2025-07",
+      "views": 329573
+    },
+    {
+      "period": "2025-10",
+      "views": 167209
+    },
+    {
+      "period": "2025-11",
+      "views": 268157
+    },
+    {
+      "period": "2025-12",
+      "views": 217526
+    },
+    {
+      "period": "2026-01",
+      "views": 158736
+    },
+    {
+      "period": "2026-05",
+      "views": 191460
+    },
     {
       "period": "2026-06",
       "views": 55960
     },
     {
       "period": "2026-07",
-      "views": 19462
+      "views": 44081
     }
   ],
   "yearly": [
     {
+      "period": "2024",
+      "views": 409658
+    },
+    {
+      "period": "2025",
+      "views": 1573344
+    },
+    {
       "period": "2026",
-      "views": 75422
+      "views": 450237
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "James_Earl_Jones",
   "description": "American actor (1931–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Earl_Jones_Baltimore.jpg?width=64",
-  "total": 7798034,
+  "total": 7807204,
   "monthly": [
     {
       "period": "2015-08",
@@ -185,6 +185,10 @@
     {
       "period": "2025-03",
       "views": 36045
+    },
+    {
+      "period": "2026-07",
+      "views": 9170
     }
   ],
   "yearly": [
@@ -231,6 +235,10 @@
     {
       "period": "2025",
       "views": 36045
+    },
+    {
+      "period": "2026",
+      "views": 9170
     }
   ]
 }

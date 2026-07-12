@@ -4,7 +4,7 @@
   "title": "James_Marsden",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Marsden_at_the_World_Premiere_of_Robot_and_Frank%2C_January_2012.jpg?width=64",
-  "total": 5194649,
+  "total": 5204657,
   "monthly": [
     {
       "period": "2015-08",
@@ -173,6 +173,10 @@
     {
       "period": "2026-06",
       "views": 74396
+    },
+    {
+      "period": "2026-07",
+      "views": 10008
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 889483
+      "views": 899491
     }
   ]
 }

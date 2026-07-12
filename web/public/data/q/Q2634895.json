@@ -1,0 +1,44 @@
+{
+  "qid": "Q2634895",
+  "label": "Nigeria Airways Flight 2120",
+  "title": "Nigeria_Airways_Flight_2120",
+  "description": "Flight which crashed shortly after takeoff on 11 July 1991",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Douglas_DC-8-61%2C_Nationair_Canada_JP52501.jpg?width=64",
+  "total": 55023,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 13562
+    },
+    {
+      "period": "2018-07",
+      "views": 10281
+    },
+    {
+      "period": "2019-07",
+      "views": 16823
+    },
+    {
+      "period": "2026-07",
+      "views": 14357
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 13562
+    },
+    {
+      "period": "2018",
+      "views": 10281
+    },
+    {
+      "period": "2019",
+      "views": 16823
+    },
+    {
+      "period": "2026",
+      "views": 14357
+    }
+  ]
+}

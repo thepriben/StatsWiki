@@ -4,7 +4,7 @@
   "title": "Bobby_Moore",
   "description": "English association football player (1941–1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bobby_moore_elgrafico_1970.jpg?width=64",
-  "total": 2004223,
+  "total": 2014434,
   "monthly": [
     {
       "period": "2016-05",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 18622
+    },
+    {
+      "period": "2026-07",
+      "views": 10211
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 18622
+      "views": 28833
     }
   ]
 }

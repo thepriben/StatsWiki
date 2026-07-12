@@ -4,7 +4,7 @@
   "title": "The_Beekeeper_(2024_film)",
   "description": "2024 film directed by David Ayer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Beekeeper_%28film%29_-_logo.png?width=64",
-  "total": 6403510,
+  "total": 6415143,
   "monthly": [
     {
       "period": "2023-10",
@@ -41,6 +41,10 @@
     {
       "period": "2025-01",
       "views": 10692
+    },
+    {
+      "period": "2026-07",
+      "views": 11633
     }
   ],
   "yearly": [
@@ -55,6 +59,10 @@
     {
       "period": "2025",
       "views": 10692
+    },
+    {
+      "period": "2026",
+      "views": 11633
     }
   ]
 }

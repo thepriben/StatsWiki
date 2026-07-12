@@ -4,7 +4,7 @@
   "title": "New_Zealand",
   "description": "island country in the southwest Pacific Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Zealand_Topography.jpg?width=64",
-  "total": 39174633,
+  "total": 39185889,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-06",
       "views": 91571
+    },
+    {
+      "period": "2026-07",
+      "views": 11256
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 381857
+      "views": 393113
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Magnus_Carlsen",
   "description": "Norwegian chess player (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlsen_Magnus_%2830238051906%29.jpg?width=64",
-  "total": 5346262,
+  "total": 5372646,
   "monthly": [
     {
       "period": "2015-09",
@@ -205,6 +205,10 @@
     {
       "period": "2026-06",
       "views": 8007
+    },
+    {
+      "period": "2026-07",
+      "views": 26384
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 175283
+      "views": 201667
     }
   ]
 }

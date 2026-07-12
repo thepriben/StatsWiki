@@ -4,7 +4,7 @@
   "title": "Carlo_Acutis",
   "description": "Italian Catholic saint",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covent_Garden%2C_Corpus_Christi_Catholic_Church%2C_Carlo_Acutis_memorial.jpg?width=64",
-  "total": 4673520,
+  "total": 4713142,
   "monthly": [
     {
       "period": "2020-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-04",
       "views": 9599
+    },
+    {
+      "period": "2026-07",
+      "views": 39622
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 9599
+      "views": 49221
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Keith_Richards",
   "description": "British musician, guitarist of the Rolling Stones",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keith_Richards_2_Berlinale_2008.jpg?width=64",
-  "total": 2178631,
+  "total": 2187902,
   "monthly": [
     {
       "period": "2015-08",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 20236
+    },
+    {
+      "period": "2026-07",
+      "views": 9271
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 64930
+      "views": 74201
     }
   ]
 }

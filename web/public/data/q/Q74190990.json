@@ -1,0 +1,84 @@
+{
+  "qid": "Q74190990",
+  "label": "Wrath of Man",
+  "title": "Wrath_of_Man",
+  "description": "2021 film directed by Guy Ritchie",
+  "image": "",
+  "total": 2119447,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 68394
+    },
+    {
+      "period": "2021-04",
+      "views": 34448
+    },
+    {
+      "period": "2021-05",
+      "views": 784576
+    },
+    {
+      "period": "2021-06",
+      "views": 462890
+    },
+    {
+      "period": "2021-07",
+      "views": 303358
+    },
+    {
+      "period": "2021-08",
+      "views": 118959
+    },
+    {
+      "period": "2021-12",
+      "views": 177260
+    },
+    {
+      "period": "2022-04",
+      "views": 10824
+    },
+    {
+      "period": "2025-01",
+      "views": 24129
+    },
+    {
+      "period": "2025-04",
+      "views": 21677
+    },
+    {
+      "period": "2025-08",
+      "views": 21339
+    },
+    {
+      "period": "2025-12",
+      "views": 71978
+    },
+    {
+      "period": "2026-05",
+      "views": 10029
+    },
+    {
+      "period": "2026-07",
+      "views": 9586
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 1949885
+    },
+    {
+      "period": "2022",
+      "views": 10824
+    },
+    {
+      "period": "2025",
+      "views": 139123
+    },
+    {
+      "period": "2026",
+      "views": 19615
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "qid": "Q12195",
+  "label": "poliomyelitis",
+  "title": "Polio",
+  "description": "human disease",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polio_sequelle.jpg?width=64",
+  "total": 315957,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 16302
+    },
+    {
+      "period": "2019-09",
+      "views": 51895
+    },
+    {
+      "period": "2020-03",
+      "views": 22436
+    },
+    {
+      "period": "2020-08",
+      "views": 23540
+    },
+    {
+      "period": "2022-06",
+      "views": 30848
+    },
+    {
+      "period": "2022-07",
+      "views": 24671
+    },
+    {
+      "period": "2022-08",
+      "views": 37616
+    },
+    {
+      "period": "2024-03",
+      "views": 90324
+    },
+    {
+      "period": "2024-09",
+      "views": 8728
+    },
+    {
+      "period": "2026-07",
+      "views": 9597
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 16302
+    },
+    {
+      "period": "2019",
+      "views": 51895
+    },
+    {
+      "period": "2020",
+      "views": 45976
+    },
+    {
+      "period": "2022",
+      "views": 93135
+    },
+    {
+      "period": "2024",
+      "views": 99052
+    },
+    {
+      "period": "2026",
+      "views": 9597
+    }
+  ]
+}

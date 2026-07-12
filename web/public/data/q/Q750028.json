@@ -1,0 +1,48 @@
+{
+  "qid": "Q750028",
+  "label": "Evil Dead II",
+  "title": "Evil_Dead_II",
+  "description": "1987 film by Sam Raimi",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Evil_Dead_II_Logo.png?width=64",
+  "total": 89433,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 11938
+    },
+    {
+      "period": "2015-11",
+      "views": 11568
+    },
+    {
+      "period": "2023-04",
+      "views": 40905
+    },
+    {
+      "period": "2024-11",
+      "views": 15603
+    },
+    {
+      "period": "2026-07",
+      "views": 9419
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 23506
+    },
+    {
+      "period": "2023",
+      "views": 40905
+    },
+    {
+      "period": "2024",
+      "views": 15603
+    },
+    {
+      "period": "2026",
+      "views": 9419
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "South_Africa_national_soccer_team",
   "description": "men's national association football team representing South Africa",
   "image": "",
-  "total": 474882,
+  "total": 488186,
   "monthly": [
     {
       "period": "2024-01",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 278409
+    },
+    {
+      "period": "2026-07",
+      "views": 13304
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 278409
+      "views": 291713
     }
   ]
 }
