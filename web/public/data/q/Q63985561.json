@@ -4,7 +4,7 @@
   "title": "Tenet_(film)",
   "description": "2020 film directed by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenet_logo.svg?width=64",
-  "total": 19660859,
+  "total": 19673088,
   "monthly": [
     {
       "period": "2019-05",
@@ -193,6 +193,10 @@
     {
       "period": "2025-12",
       "views": 22022
+    },
+    {
+      "period": "2026-07",
+      "views": 12229
     }
   ],
   "yearly": [
@@ -223,6 +227,10 @@
     {
       "period": "2025",
       "views": 85187
+    },
+    {
+      "period": "2026",
+      "views": 12229
     }
   ]
 }

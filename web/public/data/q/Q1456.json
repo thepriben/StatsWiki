@@ -1,0 +1,56 @@
+{
+  "qid": "Q1456",
+  "label": "South Carolina",
+  "title": "South_Carolina",
+  "description": "state of the United States of America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravenel_Bridge_at_night_from_Mt_Pleasant.jpg?width=64",
+  "total": 97915,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 9088
+    },
+    {
+      "period": "2016-02",
+      "views": 12217
+    },
+    {
+      "period": "2018-09",
+      "views": 19488
+    },
+    {
+      "period": "2020-02",
+      "views": 10515
+    },
+    {
+      "period": "2020-03",
+      "views": 17677
+    },
+    {
+      "period": "2026-07",
+      "views": 28930
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9088
+    },
+    {
+      "period": "2016",
+      "views": 12217
+    },
+    {
+      "period": "2018",
+      "views": 19488
+    },
+    {
+      "period": "2020",
+      "views": 28192
+    },
+    {
+      "period": "2026",
+      "views": 28930
+    }
+  ]
+}

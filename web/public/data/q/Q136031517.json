@@ -4,7 +4,7 @@
   "title": "UFC_Freedom_250",
   "description": "mixed martial arts event in 2026",
   "image": "",
-  "total": 2097009,
+  "total": 2108053,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-06",
       "views": 1443328
+    },
+    {
+      "period": "2026-07",
+      "views": 11044
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2097009
+      "views": 2108053
     }
   ]
 }

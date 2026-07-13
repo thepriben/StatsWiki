@@ -4,7 +4,7 @@
   "title": "Grand_Slam_(tennis)",
   "description": "the four most important tennis tournaments",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Racket_and_Balls.jpg?width=64",
-  "total": 5620189,
+  "total": 5637452,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-06",
       "views": 11872
+    },
+    {
+      "period": "2026-07",
+      "views": 17263
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 174636
+      "views": 191899
     }
   ]
 }

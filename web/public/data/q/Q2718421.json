@@ -4,7 +4,7 @@
   "title": "Joe_Rogan",
   "description": "American broadcaster, comedian, and actor (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026_Joe_Rogan_at_the_White_House_%28cropped%29.jpg?width=64",
-  "total": 12886796,
+  "total": 12899730,
   "monthly": [
     {
       "period": "2015-08",
@@ -401,6 +401,10 @@
     {
       "period": "2026-06",
       "views": 19656
+    },
+    {
+      "period": "2026-07",
+      "views": 12934
     }
   ],
   "yearly": [
@@ -450,7 +454,7 @@
     },
     {
       "period": "2026",
-      "views": 126643
+      "views": 139577
     }
   ]
 }

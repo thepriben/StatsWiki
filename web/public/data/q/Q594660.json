@@ -1,0 +1,64 @@
+{
+  "qid": "Q594660",
+  "label": "aortic dissection",
+  "title": "Aortic_dissection",
+  "description": "injury to the innermost layer of the aorta",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AoDissekt_scheme_StanfordB.png?width=64",
+  "total": 283779,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 8757
+    },
+    {
+      "period": "2017-11",
+      "views": 76934
+    },
+    {
+      "period": "2020-03",
+      "views": 9014
+    },
+    {
+      "period": "2021-05",
+      "views": 47662
+    },
+    {
+      "period": "2021-08",
+      "views": 12690
+    },
+    {
+      "period": "2021-11",
+      "views": 81292
+    },
+    {
+      "period": "2023-10",
+      "views": 19538
+    },
+    {
+      "period": "2026-07",
+      "views": 27892
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 85691
+    },
+    {
+      "period": "2020",
+      "views": 9014
+    },
+    {
+      "period": "2021",
+      "views": 141644
+    },
+    {
+      "period": "2023",
+      "views": 19538
+    },
+    {
+      "period": "2026",
+      "views": 27892
+    }
+  ]
+}

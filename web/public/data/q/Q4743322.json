@@ -1,0 +1,44 @@
+{
+  "qid": "Q4743322",
+  "label": "American Century Celebrity Golf Classic",
+  "title": "American_Century_Championship",
+  "description": "celebrity golf tournament in Nevada, United States",
+  "image": "",
+  "total": 111233,
+  "monthly": [
+    {
+      "period": "2022-07",
+      "views": 11739
+    },
+    {
+      "period": "2023-07",
+      "views": 63719
+    },
+    {
+      "period": "2025-07",
+      "views": 25185
+    },
+    {
+      "period": "2026-07",
+      "views": 10590
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 11739
+    },
+    {
+      "period": "2023",
+      "views": 63719
+    },
+    {
+      "period": "2025",
+      "views": 25185
+    },
+    {
+      "period": "2026",
+      "views": 10590
+    }
+  ]
+}

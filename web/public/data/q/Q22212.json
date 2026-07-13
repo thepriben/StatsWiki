@@ -2,9 +2,9 @@
   "qid": "Q22212",
   "label": "Lindsey Graham",
   "title": "Lindsey_Graham",
-  "description": "American lawyer and politician (born 1955)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lindsey_Graham_Berlin_2025.jpg?width=64",
-  "total": 4260787,
+  "description": "American lawyer and politician (1955–2026)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress.jpg?width=64",
+  "total": 6913625,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 11436
+    },
+    {
+      "period": "2026-07",
+      "views": 2652838
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 340469
+      "views": 2993307
     }
   ]
 }

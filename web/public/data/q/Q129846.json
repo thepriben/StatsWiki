@@ -1,0 +1,52 @@
+{
+  "qid": "Q129846",
+  "label": "St. Basil's Cathedral",
+  "title": "Saint_Basil's_Cathedral",
+  "description": "church in Moscow",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg?width=64",
+  "total": 82803,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 10451
+    },
+    {
+      "period": "2017-07",
+      "views": 16050
+    },
+    {
+      "period": "2020-07",
+      "views": 11879
+    },
+    {
+      "period": "2020-08",
+      "views": 11615
+    },
+    {
+      "period": "2023-07",
+      "views": 21908
+    },
+    {
+      "period": "2026-07",
+      "views": 10900
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 26501
+    },
+    {
+      "period": "2020",
+      "views": 23494
+    },
+    {
+      "period": "2023",
+      "views": 21908
+    },
+    {
+      "period": "2026",
+      "views": 10900
+    }
+  ]
+}

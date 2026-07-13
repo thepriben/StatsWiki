@@ -4,7 +4,7 @@
   "title": "Charles_Oliveira",
   "description": "Brazilian martial artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Oliveira_do_Bronxs.jpg?width=64",
-  "total": 4103968,
+  "total": 4115900,
   "monthly": [
     {
       "period": "2015-08",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 52555
+    },
+    {
+      "period": "2026-07",
+      "views": 11932
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 223203
+      "views": 235135
     }
   ]
 }

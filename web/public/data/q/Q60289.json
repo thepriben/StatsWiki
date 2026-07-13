@@ -4,7 +4,7 @@
   "title": "Mischa_Zverev",
   "description": "German tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zverev_M._WMQ16_%287%29_%2828177277456%29.jpg?width=64",
-  "total": 523726,
+  "total": 540865,
   "monthly": [
     {
       "period": "2016-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 36944
+    },
+    {
+      "period": "2026-07",
+      "views": 17139
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 59292
+      "views": 76431
     }
   ]
 }

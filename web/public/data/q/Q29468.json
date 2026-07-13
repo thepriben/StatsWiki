@@ -4,7 +4,7 @@
   "title": "Republican_Party_(United_States)",
   "description": "American political party",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GOP_logo.svg?width=64",
-  "total": 19771701,
+  "total": 19785330,
   "monthly": [
     {
       "period": "2015-08",
@@ -473,6 +473,10 @@
     {
       "period": "2026-06",
       "views": 17307
+    },
+    {
+      "period": "2026-07",
+      "views": 13629
     }
   ],
   "yearly": [
@@ -522,7 +526,7 @@
     },
     {
       "period": "2026",
-      "views": 707068
+      "views": 720697
     }
   ]
 }

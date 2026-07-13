@@ -4,7 +4,7 @@
   "title": "Brooke_Henderson",
   "description": "Canadian professional golfer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brooke_Henderson_2018_Canadian_Open.jpg?width=64",
-  "total": 216165,
+  "total": 228916,
   "monthly": [
     {
       "period": "2016-06",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 19921
+    },
+    {
+      "period": "2026-07",
+      "views": 12751
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 19921
+      "views": 32672
     }
   ]
 }

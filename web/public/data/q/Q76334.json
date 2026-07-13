@@ -4,7 +4,7 @@
   "title": "Boris_Becker",
   "description": "German tennis player (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris_Becker_-_2019102190927_2019-04-12_Radio_Regenbogen_Award_2019_-_Sven_-_1D_X_MK_II_-_0283_-_B70I6481-2.jpg?width=64",
-  "total": 1986272,
+  "total": 1999008,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 12468
+    },
+    {
+      "period": "2026-07",
+      "views": 12736
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 12468
+      "views": 25204
     }
   ]
 }

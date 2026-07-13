@@ -1,0 +1,72 @@
+{
+  "qid": "Q1486",
+  "label": "Buenos Aires",
+  "title": "Buenos_Aires",
+  "description": "capital and largest city of Argentina",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_a%C3%A9rea_de_la_Plaza_del_Congreso_10.jpg?width=64",
+  "total": 672327,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 11229
+    },
+    {
+      "period": "2020-11",
+      "views": 11297
+    },
+    {
+      "period": "2022-12",
+      "views": 147190
+    },
+    {
+      "period": "2023-11",
+      "views": 13415
+    },
+    {
+      "period": "2024-04",
+      "views": 441100
+    },
+    {
+      "period": "2024-10",
+      "views": 24357
+    },
+    {
+      "period": "2025-04",
+      "views": 13580
+    },
+    {
+      "period": "2026-07",
+      "views": 10159
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11229
+    },
+    {
+      "period": "2020",
+      "views": 11297
+    },
+    {
+      "period": "2022",
+      "views": 147190
+    },
+    {
+      "period": "2023",
+      "views": 13415
+    },
+    {
+      "period": "2024",
+      "views": 465457
+    },
+    {
+      "period": "2025",
+      "views": 13580
+    },
+    {
+      "period": "2026",
+      "views": 10159
+    }
+  ]
+}

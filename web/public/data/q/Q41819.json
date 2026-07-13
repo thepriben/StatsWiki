@@ -4,7 +4,7 @@
   "title": "Kansas_City,_Missouri",
   "description": "city in Missouri, United States, that is one of two county seats of Jackson County and the largest city in Missouri",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg?width=64",
-  "total": 1211938,
+  "total": 1229074,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 11445
+    },
+    {
+      "period": "2026-07",
+      "views": 17136
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 11445
+      "views": 28581
     }
   ]
 }

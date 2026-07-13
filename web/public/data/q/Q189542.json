@@ -1,0 +1,80 @@
+{
+  "qid": "Q189542",
+  "label": "Stefan Edberg",
+  "title": "Stefan_Edberg",
+  "description": "Swedish tennis player",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Edberg_2012-04-25_001.jpg?width=64",
+  "total": 216526,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 70141
+    },
+    {
+      "period": "2015-09",
+      "views": 15104
+    },
+    {
+      "period": "2016-07",
+      "views": 11771
+    },
+    {
+      "period": "2017-07",
+      "views": 36755
+    },
+    {
+      "period": "2019-07",
+      "views": 27098
+    },
+    {
+      "period": "2021-07",
+      "views": 14136
+    },
+    {
+      "period": "2023-07",
+      "views": 16683
+    },
+    {
+      "period": "2025-07",
+      "views": 12595
+    },
+    {
+      "period": "2026-07",
+      "views": 12243
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 85245
+    },
+    {
+      "period": "2016",
+      "views": 11771
+    },
+    {
+      "period": "2017",
+      "views": 36755
+    },
+    {
+      "period": "2019",
+      "views": 27098
+    },
+    {
+      "period": "2021",
+      "views": 14136
+    },
+    {
+      "period": "2023",
+      "views": 16683
+    },
+    {
+      "period": "2025",
+      "views": 12595
+    },
+    {
+      "period": "2026",
+      "views": 12243
+    }
+  ]
+}

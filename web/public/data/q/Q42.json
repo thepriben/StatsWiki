@@ -1,0 +1,40 @@
+{
+  "qid": "Q42",
+  "label": "Douglas Adams",
+  "title": "Douglas_Adams",
+  "description": "British science fiction writer and humorist (1952–2001)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Douglas_adams_portrait.jpg?width=64",
+  "total": 57999,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 9316
+    },
+    {
+      "period": "2021-03",
+      "views": 15381
+    },
+    {
+      "period": "2021-05",
+      "views": 11058
+    },
+    {
+      "period": "2026-07",
+      "views": 22244
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9316
+    },
+    {
+      "period": "2021",
+      "views": 26439
+    },
+    {
+      "period": "2026",
+      "views": 22244
+    }
+  ]
+}

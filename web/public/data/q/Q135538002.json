@@ -3,18 +3,22 @@
   "label": "Annie L. Andrews",
   "title": "Annie_Andrews_(physician)",
   "description": "American pediatrician and political activist",
-  "image": "",
-  "total": 9647,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annie_Andrews_Greenville_%28cropped%29.jpg?width=64",
+  "total": 58366,
   "monthly": [
     {
       "period": "2026-06",
       "views": 9647
+    },
+    {
+      "period": "2026-07",
+      "views": 48719
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9647
+      "views": 58366
     }
   ]
 }

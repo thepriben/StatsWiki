@@ -4,7 +4,7 @@
   "title": "Hayden_Panettiere",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hayden_Panettiere_in_2011_09_%28cropped%29.jpg?width=64",
-  "total": 5937462,
+  "total": 5948464,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-05",
       "views": 662128
+    },
+    {
+      "period": "2026-07",
+      "views": 11002
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 662128
+      "views": 673130
     }
   ]
 }
