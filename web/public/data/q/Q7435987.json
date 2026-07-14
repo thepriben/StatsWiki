@@ -4,7 +4,7 @@
   "title": "Scott_Bessent",
   "description": "United States Secretary of the Treasury",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Treasury_Secretary_Scott_Bessent.jpg?width=64",
-  "total": 4746495,
+  "total": 4755062,
   "monthly": [
     {
       "period": "2024-11",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 55945
+    },
+    {
+      "period": "2026-07",
+      "views": 8567
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 773054
+      "views": 781621
     }
   ]
 }

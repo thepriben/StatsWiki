@@ -4,7 +4,7 @@
   "title": "Chuck_Norris",
   "description": "American martial artist and action actor (1940–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chuck_Norris_May_2015.jpg?width=64",
-  "total": 9630463,
+  "total": 9639672,
   "monthly": [
     {
       "period": "2015-09",
@@ -213,6 +213,10 @@
     {
       "period": "2026-04",
       "views": 327552
+    },
+    {
+      "period": "2026-07",
+      "views": 9209
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 6546985
+      "views": 6556194
     }
   ]
 }

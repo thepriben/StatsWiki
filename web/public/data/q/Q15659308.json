@@ -4,7 +4,7 @@
   "title": "Rick_and_Morty",
   "description": "American animated television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick_and_Morty.svg?width=64",
-  "total": 14031340,
+  "total": 14041075,
   "monthly": [
     {
       "period": "2015-07",
@@ -265,6 +265,10 @@
     {
       "period": "2026-06",
       "views": 9513
+    },
+    {
+      "period": "2026-07",
+      "views": 9735
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 43213
+      "views": 52948
     }
   ]
 }

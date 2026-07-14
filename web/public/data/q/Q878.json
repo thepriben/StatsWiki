@@ -4,7 +4,7 @@
   "title": "United_Arab_Emirates",
   "description": "country in Western Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Souq_Al_Bahar_From_Burj_Khalifa%2C_Dubai_%287997597156%29.jpg?width=64",
-  "total": 34427177,
+  "total": 34436352,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-06",
       "views": 9520
+    },
+    {
+      "period": "2026-07",
+      "views": 9175
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1832180
+      "views": 1841355
     }
   ]
 }

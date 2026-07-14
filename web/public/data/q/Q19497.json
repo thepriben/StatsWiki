@@ -4,7 +4,7 @@
   "title": "Oscar_(footballer,_born_1991)",
   "description": "Brazilian association football player (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20141118_AUTBRA_5023.jpg?width=64",
-  "total": 222182,
+  "total": 232128,
   "monthly": [
     {
       "period": "2016-12",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 15020
+    },
+    {
+      "period": "2026-07",
+      "views": 9946
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 15020
+      "views": 24966
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "USL_Championship",
   "description": "professional soccer league in the USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USL_Championship_vert_dark_logo.svg?width=64",
-  "total": 23716,
+  "total": 35230,
   "monthly": [
     {
       "period": "2025-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 13666
+    },
+    {
+      "period": "2026-07",
+      "views": 11514
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 13666
+      "views": 25180
     }
   ]
 }

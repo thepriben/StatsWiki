@@ -4,7 +4,7 @@
   "title": "Julius_and_Ethel_Rosenberg",
   "description": "American couple executed for spying for the Soviet Union",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julius_and_Ethel_Rosenberg_NYWTS.jpg?width=64",
-  "total": 673743,
+  "total": 683195,
   "monthly": [
     {
       "period": "2016-10",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 23909
+    },
+    {
+      "period": "2026-07",
+      "views": 9452
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 23909
+      "views": 33361
     }
   ]
 }

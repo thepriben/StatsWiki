@@ -4,7 +4,7 @@
   "title": "Jurassic_World_Dominion",
   "description": "2022 American film directed by Colin Trevorrow",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DeWanda_Wise_%26_Mamoudou_Athie.jpg?width=64",
-  "total": 8219548,
+  "total": 8249444,
   "monthly": [
     {
       "period": "2022-02",
@@ -105,6 +105,10 @@
     {
       "period": "2026-03",
       "views": 12241
+    },
+    {
+      "period": "2026-07",
+      "views": 29896
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 12241
+      "views": 42137
     }
   ]
 }

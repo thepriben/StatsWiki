@@ -4,7 +4,7 @@
   "title": "Wikipedia",
   "description": "free multilingual online encyclopedia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Portal_Screenshot_%282022%29.svg?width=64",
-  "total": 159049066,
+  "total": 159077668,
   "monthly": [
     {
       "period": "2015-07",
@@ -536,7 +536,7 @@
     },
     {
       "period": "2026-07",
-      "views": 353942
+      "views": 382544
     }
   ],
   "yearly": [
@@ -586,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 5909663
+      "views": 5938265
     }
   ]
 }

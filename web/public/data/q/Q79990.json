@@ -1,0 +1,36 @@
+{
+  "qid": "Q79990",
+  "label": "Christchurch",
+  "title": "Christchurch",
+  "description": "largest city in the South Island of New Zealand",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christchurch_City.jpg?width=64",
+  "total": 339091,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 12485
+    },
+    {
+      "period": "2019-03",
+      "views": 317954
+    },
+    {
+      "period": "2026-07",
+      "views": 8652
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12485
+    },
+    {
+      "period": "2019",
+      "views": 317954
+    },
+    {
+      "period": "2026",
+      "views": 8652
+    }
+  ]
+}

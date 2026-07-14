@@ -4,7 +4,7 @@
   "title": "Wuthering_Heights_(2026_film)",
   "description": "2026 film directed by Emerald Fennell",
   "image": "",
-  "total": 5003806,
+  "total": 5014346,
   "monthly": [
     {
       "period": "2025-03",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 83727
+    },
+    {
+      "period": "2026-07",
+      "views": 10540
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 4576145
+      "views": 4586685
     }
   ]
 }

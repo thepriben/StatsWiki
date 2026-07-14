@@ -4,7 +4,7 @@
   "title": "Yukio_Mishima",
   "description": "Japanese author (1925–1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg?width=64",
-  "total": 382906,
+  "total": 392311,
   "monthly": [
     {
       "period": "2016-11",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 9724
+    },
+    {
+      "period": "2026-07",
+      "views": 9405
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 132716
+      "views": 142121
     }
   ]
 }

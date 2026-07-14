@@ -4,7 +4,7 @@
   "title": "Jurassic_World_Rebirth",
   "description": "2025 film directed by Gareth Edwards",
   "image": "",
-  "total": 9457251,
+  "total": 9470689,
   "monthly": [
     {
       "period": "2024-08",
@@ -77,6 +77,10 @@
     {
       "period": "2026-03",
       "views": 288185
+    },
+    {
+      "period": "2026-07",
+      "views": 13438
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 490776
+      "views": 504214
     }
   ]
 }

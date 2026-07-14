@@ -4,7 +4,7 @@
   "title": "Margaret_Thatcher",
   "description": "British stateswoman and prime minister (1925–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?width=64",
-  "total": 18147520,
+  "total": 18156840,
   "monthly": [
     {
       "period": "2015-09",
@@ -409,6 +409,10 @@
     {
       "period": "2026-06",
       "views": 56777
+    },
+    {
+      "period": "2026-07",
+      "views": 9320
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 386543
+      "views": 395863
     }
   ]
 }

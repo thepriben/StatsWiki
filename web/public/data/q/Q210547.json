@@ -4,7 +4,7 @@
   "title": "Aubrey_Plaza",
   "description": "American actress, producer, comedian (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aubrey_Plaza_at_the_2024_Cannes_Film_Festival_%28head_shot%29.jpg?width=64",
-  "total": 17372012,
+  "total": 17381841,
   "monthly": [
     {
       "period": "2015-07",
@@ -373,6 +373,10 @@
     {
       "period": "2026-06",
       "views": 158398
+    },
+    {
+      "period": "2026-07",
+      "views": 9829
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 977400
+      "views": 987229
     }
   ]
 }

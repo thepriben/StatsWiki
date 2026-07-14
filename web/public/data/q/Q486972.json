@@ -1,0 +1,28 @@
+{
+  "qid": "Q486972",
+  "label": "human settlement",
+  "title": "Human_settlement",
+  "description": "place of any size, in which people permanently live",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flora_OR_-_aerial.jpg?width=64",
+  "total": 100900,
+  "monthly": [
+    {
+      "period": "2025-09",
+      "views": 88832
+    },
+    {
+      "period": "2026-07",
+      "views": 12068
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 88832
+    },
+    {
+      "period": "2026",
+      "views": 12068
+    }
+  ]
+}

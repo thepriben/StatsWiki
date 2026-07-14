@@ -4,7 +4,7 @@
   "title": "Mastodon_(band)",
   "description": "American metal band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ursynalia_2012%2C_Mastodon_12.jpg?width=64",
-  "total": 284373,
+  "total": 300180,
   "monthly": [
     {
       "period": "2021-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 9693
+    },
+    {
+      "period": "2026-07",
+      "views": 15807
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 9693
+      "views": 25500
     }
   ]
 }

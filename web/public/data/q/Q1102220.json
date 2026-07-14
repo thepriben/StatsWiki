@@ -1,0 +1,68 @@
+{
+  "qid": "Q1102220",
+  "label": "Jurassic Park III",
+  "title": "Jurassic_Park_III",
+  "description": "2001 film directed by Joe Johnston",
+  "image": "",
+  "total": 552495,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 91189
+    },
+    {
+      "period": "2015-08",
+      "views": 11395
+    },
+    {
+      "period": "2016-06",
+      "views": 11649
+    },
+    {
+      "period": "2018-06",
+      "views": 116662
+    },
+    {
+      "period": "2018-07",
+      "views": 68059
+    },
+    {
+      "period": "2022-06",
+      "views": 146831
+    },
+    {
+      "period": "2025-07",
+      "views": 95284
+    },
+    {
+      "period": "2026-07",
+      "views": 11426
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 102584
+    },
+    {
+      "period": "2016",
+      "views": 11649
+    },
+    {
+      "period": "2018",
+      "views": 184721
+    },
+    {
+      "period": "2022",
+      "views": 146831
+    },
+    {
+      "period": "2025",
+      "views": 95284
+    },
+    {
+      "period": "2026",
+      "views": 11426
+    }
+  ]
+}

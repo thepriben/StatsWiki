@@ -4,7 +4,7 @@
   "title": "Spider-Man:_No_Way_Home",
   "description": "2021 film directed by Jon Watts",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider_Man_No_Way_Home_Logo.svg?width=64",
-  "total": 30567469,
+  "total": 30576127,
   "monthly": [
     {
       "period": "2021-02",
@@ -165,6 +165,10 @@
     {
       "period": "2026-06",
       "views": 20582
+    },
+    {
+      "period": "2026-07",
+      "views": 8658
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 161301
+      "views": 169959
     }
   ]
 }

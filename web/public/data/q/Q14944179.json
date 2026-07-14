@@ -4,7 +4,7 @@
   "title": "Peaky_Blinders_(TV_series)",
   "description": "British period drama television series (2013–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peaky_Blinders_Logo.png?width=64",
-  "total": 45019102,
+  "total": 45037856,
   "monthly": [
     {
       "period": "2015-09",
@@ -457,6 +457,10 @@
     {
       "period": "2026-05",
       "views": 44025
+    },
+    {
+      "period": "2026-07",
+      "views": 18754
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 1831805
+      "views": 1850559
     }
   ]
 }
