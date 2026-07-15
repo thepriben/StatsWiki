@@ -4,7 +4,7 @@
   "title": "Gurnoor_Brar",
   "description": "Indian cricketer",
   "image": "",
-  "total": 114817,
+  "total": 151488,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 53846
+    },
+    {
+      "period": "2026-07",
+      "views": 36671
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 114817
+      "views": 151488
     }
   ]
 }

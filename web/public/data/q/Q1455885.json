@@ -4,7 +4,7 @@
   "title": "Friendship_paradox",
   "description": "phenomenon that most people have fewer friends than their friends have, on average",
   "image": "",
-  "total": 40873,
+  "total": 55200,
   "monthly": [
     {
       "period": "2017-10",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 9128
+    },
+    {
+      "period": "2026-07",
+      "views": 14327
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 9128
+      "views": 23455
     }
   ]
 }

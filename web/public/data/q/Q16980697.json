@@ -4,7 +4,7 @@
   "title": "Kyle_Schwarber",
   "description": "American professional baseball player (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle_Schwarber_on_April_8%2C_2023_%282%29.jpg?width=64",
-  "total": 1017631,
+  "total": 1080445,
   "monthly": [
     {
       "period": "2015-07",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 21018
+    },
+    {
+      "period": "2026-07",
+      "views": 62814
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 30573
+      "views": 93387
     }
   ]
 }

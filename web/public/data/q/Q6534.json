@@ -4,7 +4,7 @@
   "title": "French_Revolution",
   "description": "revolution in France from 1789 to 1799",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg?width=64",
-  "total": 3589650,
+  "total": 3605884,
   "monthly": [
     {
       "period": "2015-07",
@@ -245,6 +245,10 @@
     {
       "period": "2025-07",
       "views": 13145
+    },
+    {
+      "period": "2026-07",
+      "views": 16234
     }
   ],
   "yearly": [
@@ -291,6 +295,10 @@
     {
       "period": "2025",
       "views": 23120
+    },
+    {
+      "period": "2026",
+      "views": 16234
     }
   ]
 }

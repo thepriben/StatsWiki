@@ -1,0 +1,76 @@
+{
+  "qid": "Q241864",
+  "label": "UEFA Euro 2008",
+  "title": "UEFA_Euro_2008",
+  "description": "13th European association football championship",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro2008_venues_en.svg?width=64",
+  "total": 1862795,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 420607
+    },
+    {
+      "period": "2016-07",
+      "views": 179963
+    },
+    {
+      "period": "2018-06",
+      "views": 18595
+    },
+    {
+      "period": "2018-07",
+      "views": 78067
+    },
+    {
+      "period": "2020-06",
+      "views": 28763
+    },
+    {
+      "period": "2021-06",
+      "views": 365034
+    },
+    {
+      "period": "2021-07",
+      "views": 272462
+    },
+    {
+      "period": "2024-06",
+      "views": 267929
+    },
+    {
+      "period": "2024-07",
+      "views": 222682
+    },
+    {
+      "period": "2026-07",
+      "views": 8693
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 600570
+    },
+    {
+      "period": "2018",
+      "views": 96662
+    },
+    {
+      "period": "2020",
+      "views": 28763
+    },
+    {
+      "period": "2021",
+      "views": 637496
+    },
+    {
+      "period": "2024",
+      "views": 490611
+    },
+    {
+      "period": "2026",
+      "views": 8693
+    }
+  ]
+}

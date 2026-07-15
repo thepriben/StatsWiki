@@ -4,7 +4,7 @@
   "title": "Michael_Buffer",
   "description": "American ring announcer for boxing and professional wrestling matches",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Buffer_Fight_For_Children_Washington_DC_Nov_2007.JPG?width=64",
-  "total": 593314,
+  "total": 617670,
   "monthly": [
     {
       "period": "2017-01",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 10815
+    },
+    {
+      "period": "2026-07",
+      "views": 24356
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 25629
+      "views": 49985
     }
   ]
 }

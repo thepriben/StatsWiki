@@ -4,7 +4,7 @@
   "title": "Thomas_Meunier",
   "description": "Belgian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Meunier_USMNT_v_Belgium_Mar_28_2026-16_%28cropped%29.jpg?width=64",
-  "total": 277937,
+  "total": 295647,
   "monthly": [
     {
       "period": "2016-06",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 12795
+    },
+    {
+      "period": "2026-07",
+      "views": 17710
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 12795
+      "views": 30505
     }
   ]
 }

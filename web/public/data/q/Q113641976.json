@@ -4,7 +4,7 @@
   "title": "Olivia_Miles",
   "description": "American basketball player (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UNC_vs_ND_%28Jan_2025%29_23_%28cropped%29.jpg?width=64",
-  "total": 54658,
+  "total": 63190,
   "monthly": [
     {
       "period": "2025-04",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 18404
+    },
+    {
+      "period": "2026-07",
+      "views": 8532
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 44177
+      "views": 52709
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sully_Sullenberger",
   "description": "American commercial airline pilot",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/C.B._Sullenberger%2C_U.S._Representative_%28cropped%29.jpg?width=64",
-  "total": 343906,
+  "total": 367414,
   "monthly": [
     {
       "period": "2021-05",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 9811
+    },
+    {
+      "period": "2026-07",
+      "views": 23508
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 9811
+      "views": 33319
     }
   ]
 }

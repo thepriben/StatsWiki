@@ -4,7 +4,7 @@
   "title": "Joe_Root",
   "description": "England cricketer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Root_on_Yorkshire_debut.jpg?width=64",
-  "total": 3084673,
+  "total": 3097298,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 51620
+    },
+    {
+      "period": "2026-07",
+      "views": 12625
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 197707
+      "views": 210332
     }
   ]
 }

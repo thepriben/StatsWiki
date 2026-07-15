@@ -1,0 +1,40 @@
+{
+  "qid": "Q72387958",
+  "label": "UEFA Euro 2020 finals",
+  "title": "UEFA_Euro_2020_final",
+  "description": "final match of the UEFA Euro 2020",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/London_Wembley_stadium_with_Italian_flag.jpg?width=64",
+  "total": 735595,
+  "monthly": [
+    {
+      "period": "2023-02",
+      "views": 29047
+    },
+    {
+      "period": "2024-06",
+      "views": 285507
+    },
+    {
+      "period": "2024-07",
+      "views": 411633
+    },
+    {
+      "period": "2026-07",
+      "views": 9408
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 29047
+    },
+    {
+      "period": "2024",
+      "views": 697140
+    },
+    {
+      "period": "2026",
+      "views": 9408
+    }
+  ]
+}
