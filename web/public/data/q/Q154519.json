@@ -4,7 +4,7 @@
   "title": "Brigitte_Nielsen",
   "description": "Danish actress, model and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brigitte_Nielsen.jpg?width=64",
-  "total": 1199305,
+  "total": 1210156,
   "monthly": [
     {
       "period": "2016-01",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 19763
+    },
+    {
+      "period": "2026-07",
+      "views": 10851
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 19763
+      "views": 30614
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Major_League_Baseball_All-Star_Game",
   "description": "exhibition game played by Major League Baseball players representing each league",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2009_MLB_All-Star_Players.jpg?width=64",
-  "total": 561854,
+  "total": 584813,
   "monthly": [
     {
       "period": "2015-07",
@@ -48,7 +48,7 @@
     },
     {
       "period": "2026-07",
-      "views": 12774
+      "views": 35733
     }
   ],
   "yearly": [
@@ -94,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 12774
+      "views": 35733
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "qid": "Q7776212",
+  "label": "The Worst Movie Ever!",
+  "title": "The_Worst_Movie_Ever!",
+  "description": "2011 film by Glenn Berggoetz",
+  "image": "",
+  "total": 61050,
+  "monthly": [
+    {
+      "period": "2024-06",
+      "views": 9875
+    },
+    {
+      "period": "2025-03",
+      "views": 18964
+    },
+    {
+      "period": "2026-07",
+      "views": 32211
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 9875
+    },
+    {
+      "period": "2025",
+      "views": 18964
+    },
+    {
+      "period": "2026",
+      "views": 32211
+    }
+  ]
+}

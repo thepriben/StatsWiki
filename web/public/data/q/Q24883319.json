@@ -4,7 +4,7 @@
   "title": "Phoebe_Bridgers",
   "description": "American musician (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BoygeniusKingstonEarly240823_%2829_of_45%29_%2853138924957%29_Cropped.jpg?width=64",
-  "total": 1965191,
+  "total": 1975443,
   "monthly": [
     {
       "period": "2019-02",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 34950
+    },
+    {
+      "period": "2026-07",
+      "views": 10252
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 43896
+      "views": 54148
     }
   ]
 }

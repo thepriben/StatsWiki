@@ -4,17 +4,21 @@
   "title": "2026_FIVB_Men's_Volleyball_Nations_League",
   "description": "interview volleyball event",
   "image": "",
-  "total": 154657,
+  "total": 171505,
   "monthly": [
     {
       "period": "2026-06",
       "views": 154657
+    },
+    {
+      "period": "2026-07",
+      "views": 16848
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 154657
+      "views": 171505
     }
   ]
 }

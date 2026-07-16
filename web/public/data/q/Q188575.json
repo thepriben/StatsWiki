@@ -1,0 +1,48 @@
+{
+  "qid": "Q188575",
+  "label": "IMAX",
+  "title": "IMAX",
+  "description": "large-screen film format",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IMAX_blue_logo.svg?width=64",
+  "total": 228692,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 12682
+    },
+    {
+      "period": "2015-12",
+      "views": 67089
+    },
+    {
+      "period": "2017-07",
+      "views": 22818
+    },
+    {
+      "period": "2023-07",
+      "views": 114089
+    },
+    {
+      "period": "2026-07",
+      "views": 12014
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 79771
+    },
+    {
+      "period": "2017",
+      "views": 22818
+    },
+    {
+      "period": "2023",
+      "views": 114089
+    },
+    {
+      "period": "2026",
+      "views": 12014
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "qid": "Q35086",
+  "label": "South Georgia and the South Sandwich Islands",
+  "title": "South_Georgia_and_the_South_Sandwich_Islands",
+  "description": "British overseas territory in the Southern Atlantic Ocean",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/South_Georgia_Island_as_seen_by_Sentinel-2.jpg?width=64",
+  "total": 230117,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 37071
+    },
+    {
+      "period": "2018-05",
+      "views": 9749
+    },
+    {
+      "period": "2020-11",
+      "views": 14153
+    },
+    {
+      "period": "2021-05",
+      "views": 27232
+    },
+    {
+      "period": "2023-01",
+      "views": 80729
+    },
+    {
+      "period": "2024-05",
+      "views": 29293
+    },
+    {
+      "period": "2024-11",
+      "views": 22722
+    },
+    {
+      "period": "2026-07",
+      "views": 9168
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 37071
+    },
+    {
+      "period": "2018",
+      "views": 9749
+    },
+    {
+      "period": "2020",
+      "views": 14153
+    },
+    {
+      "period": "2021",
+      "views": 27232
+    },
+    {
+      "period": "2023",
+      "views": 80729
+    },
+    {
+      "period": "2024",
+      "views": 52015
+    },
+    {
+      "period": "2026",
+      "views": 9168
+    }
+  ]
+}

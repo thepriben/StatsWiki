@@ -4,7 +4,7 @@
   "title": "Valentín_Barco",
   "description": "Argentine asociation football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2813%29_%28cropped%29_%28cropped%29.jpg?width=64",
-  "total": 100737,
+  "total": 124588,
   "monthly": [
     {
       "period": "2024-04",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 60833
+    },
+    {
+      "period": "2026-07",
+      "views": 23851
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 87609
+      "views": 111460
     }
   ]
 }

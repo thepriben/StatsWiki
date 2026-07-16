@@ -4,7 +4,7 @@
   "title": "Robbie_Avila",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robbie_Avila_2024.jpg?width=64",
-  "total": 206294,
+  "total": 224227,
   "monthly": [
     {
       "period": "2024-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 56139
+    },
+    {
+      "period": "2026-07",
+      "views": 17933
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 181930
+      "views": 199863
     }
   ]
 }

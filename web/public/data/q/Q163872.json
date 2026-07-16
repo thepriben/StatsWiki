@@ -1,0 +1,60 @@
+{
+  "qid": "Q163872",
+  "label": "The Dark Knight",
+  "title": "The_Dark_Knight",
+  "description": "2008 film directed by Christopher Nolan",
+  "image": "",
+  "total": 702184,
+  "monthly": [
+    {
+      "period": "2023-07",
+      "views": 377314
+    },
+    {
+      "period": "2023-08",
+      "views": 185967
+    },
+    {
+      "period": "2023-09",
+      "views": 45066
+    },
+    {
+      "period": "2024-03",
+      "views": 31239
+    },
+    {
+      "period": "2024-10",
+      "views": 21330
+    },
+    {
+      "period": "2025-05",
+      "views": 20568
+    },
+    {
+      "period": "2025-12",
+      "views": 9861
+    },
+    {
+      "period": "2026-07",
+      "views": 10839
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 608347
+    },
+    {
+      "period": "2024",
+      "views": 52569
+    },
+    {
+      "period": "2025",
+      "views": 30429
+    },
+    {
+      "period": "2026",
+      "views": 10839
+    }
+  ]
+}

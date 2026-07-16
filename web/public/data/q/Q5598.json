@@ -1,0 +1,64 @@
+{
+  "qid": "Q5598",
+  "label": "Rembrandt",
+  "title": "Rembrandt",
+  "description": "Dutch painter and printmaker (1606–1669)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg?width=64",
+  "total": 82180,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 10069
+    },
+    {
+      "period": "2016-10",
+      "views": 9830
+    },
+    {
+      "period": "2016-11",
+      "views": 12930
+    },
+    {
+      "period": "2017-12",
+      "views": 9646
+    },
+    {
+      "period": "2019-02",
+      "views": 9502
+    },
+    {
+      "period": "2019-07",
+      "views": 12037
+    },
+    {
+      "period": "2025-09",
+      "views": 9597
+    },
+    {
+      "period": "2026-07",
+      "views": 8569
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 32829
+    },
+    {
+      "period": "2017",
+      "views": 9646
+    },
+    {
+      "period": "2019",
+      "views": 21539
+    },
+    {
+      "period": "2025",
+      "views": 9597
+    },
+    {
+      "period": "2026",
+      "views": 8569
+    }
+  ]
+}

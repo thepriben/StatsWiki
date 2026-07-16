@@ -4,7 +4,7 @@
   "title": "Bobby_Charlton",
   "description": "English association football player and manager (1937–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bobby_Charlton_en_1966_160.jpg?width=64",
-  "total": 2422892,
+  "total": 2434026,
   "monthly": [
     {
       "period": "2015-09",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 20596
+    },
+    {
+      "period": "2026-07",
+      "views": 11134
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 20596
+      "views": 31730
     }
   ]
 }
