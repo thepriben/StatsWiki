@@ -1,0 +1,68 @@
+{
+  "qid": "Q2364111",
+  "label": "air quality index",
+  "title": "Air_quality_index",
+  "description": "measure of pollution",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%2C_2012_-_Air_quality_monitoring_station.jpg?width=64",
+  "total": 444598,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 10094
+    },
+    {
+      "period": "2018-11",
+      "views": 27344
+    },
+    {
+      "period": "2019-11",
+      "views": 36454
+    },
+    {
+      "period": "2020-09",
+      "views": 179268
+    },
+    {
+      "period": "2023-02",
+      "views": 70095
+    },
+    {
+      "period": "2023-03",
+      "views": 82649
+    },
+    {
+      "period": "2023-06",
+      "views": 30008
+    },
+    {
+      "period": "2026-07",
+      "views": 8686
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10094
+    },
+    {
+      "period": "2018",
+      "views": 27344
+    },
+    {
+      "period": "2019",
+      "views": 36454
+    },
+    {
+      "period": "2020",
+      "views": 179268
+    },
+    {
+      "period": "2023",
+      "views": 182752
+    },
+    {
+      "period": "2026",
+      "views": 8686
+    }
+  ]
+}

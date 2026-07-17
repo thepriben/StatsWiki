@@ -1,0 +1,80 @@
+{
+  "qid": "Q81000",
+  "label": "Richard II of England",
+  "title": "Richard_II_of_England",
+  "description": "King of England from 1377 to 1399",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_II_of_England_large_02.jpg?width=64",
+  "total": 231994,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 12020
+    },
+    {
+      "period": "2017-08",
+      "views": 71614
+    },
+    {
+      "period": "2019-11",
+      "views": 48059
+    },
+    {
+      "period": "2020-07",
+      "views": 17000
+    },
+    {
+      "period": "2022-02",
+      "views": 17054
+    },
+    {
+      "period": "2022-07",
+      "views": 10947
+    },
+    {
+      "period": "2023-10",
+      "views": 12561
+    },
+    {
+      "period": "2024-07",
+      "views": 17081
+    },
+    {
+      "period": "2026-07",
+      "views": 25658
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12020
+    },
+    {
+      "period": "2017",
+      "views": 71614
+    },
+    {
+      "period": "2019",
+      "views": 48059
+    },
+    {
+      "period": "2020",
+      "views": 17000
+    },
+    {
+      "period": "2022",
+      "views": 28001
+    },
+    {
+      "period": "2023",
+      "views": 12561
+    },
+    {
+      "period": "2024",
+      "views": 17081
+    },
+    {
+      "period": "2026",
+      "views": 25658
+    }
+  ]
+}

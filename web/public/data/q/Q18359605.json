@@ -4,7 +4,7 @@
   "title": "Lucas_Scaglia",
   "description": "Argentine footballer",
   "image": "",
-  "total": 103208,
+  "total": 113849,
   "monthly": [
     {
       "period": "2022-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 10407
+    },
+    {
+      "period": "2026-07",
+      "views": 10641
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10407
+      "views": 21048
     }
   ]
 }

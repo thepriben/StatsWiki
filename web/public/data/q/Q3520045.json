@@ -4,7 +4,7 @@
   "title": "Rohit_Sharma",
   "description": "Indian cricketer (Captain)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rohit_Sharma_in_PMO_New_Delhi.jpg?width=64",
-  "total": 9285640,
+  "total": 9294092,
   "monthly": [
     {
       "period": "2015-10",
@@ -345,6 +345,10 @@
     {
       "period": "2026-06",
       "views": 29203
+    },
+    {
+      "period": "2026-07",
+      "views": 8452
     }
   ],
   "yearly": [
@@ -394,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 62568
+      "views": 71020
     }
   ]
 }

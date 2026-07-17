@@ -1,0 +1,36 @@
+{
+  "qid": "Q1248395",
+  "label": "Sanford and Son",
+  "title": "Sanford_and_Son",
+  "description": "American sitcom television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Redd_Foxx_Demond_Wilson_Sanford_and_Son_1972.JPG?width=64",
+  "total": 63222,
+  "monthly": [
+    {
+      "period": "2019-03",
+      "views": 11185
+    },
+    {
+      "period": "2026-01",
+      "views": 24219
+    },
+    {
+      "period": "2026-02",
+      "views": 18007
+    },
+    {
+      "period": "2026-07",
+      "views": 9811
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11185
+    },
+    {
+      "period": "2026",
+      "views": 52037
+    }
+  ]
+}

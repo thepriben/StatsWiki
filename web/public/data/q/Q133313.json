@@ -4,7 +4,7 @@
   "title": "Jake_Gyllenhaal",
   "description": "American actor (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 26401189,
+  "total": 26410298,
   "monthly": [
     {
       "period": "2015-07",
@@ -517,6 +517,10 @@
     {
       "period": "2026-06",
       "views": 36379
+    },
+    {
+      "period": "2026-07",
+      "views": 9109
     }
   ],
   "yearly": [
@@ -566,7 +570,7 @@
     },
     {
       "period": "2026",
-      "views": 569554
+      "views": 578663
     }
   ]
 }

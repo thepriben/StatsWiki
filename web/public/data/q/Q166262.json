@@ -1,0 +1,84 @@
+{
+  "qid": "Q166262",
+  "label": "Batman Begins",
+  "title": "Batman_Begins",
+  "description": "2005 film by Christopher Nolan",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batman_Begins_logo.png?width=64",
+  "total": 682960,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 21187
+    },
+    {
+      "period": "2016-03",
+      "views": 72676
+    },
+    {
+      "period": "2018-02",
+      "views": 17346
+    },
+    {
+      "period": "2019-07",
+      "views": 9751
+    },
+    {
+      "period": "2019-10",
+      "views": 120813
+    },
+    {
+      "period": "2022-03",
+      "views": 207648
+    },
+    {
+      "period": "2022-04",
+      "views": 23188
+    },
+    {
+      "period": "2023-07",
+      "views": 186966
+    },
+    {
+      "period": "2024-03",
+      "views": 14098
+    },
+    {
+      "period": "2026-07",
+      "views": 9287
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 21187
+    },
+    {
+      "period": "2016",
+      "views": 72676
+    },
+    {
+      "period": "2018",
+      "views": 17346
+    },
+    {
+      "period": "2019",
+      "views": 130564
+    },
+    {
+      "period": "2022",
+      "views": 230836
+    },
+    {
+      "period": "2023",
+      "views": 186966
+    },
+    {
+      "period": "2024",
+      "views": 14098
+    },
+    {
+      "period": "2026",
+      "views": 9287
+    }
+  ]
+}

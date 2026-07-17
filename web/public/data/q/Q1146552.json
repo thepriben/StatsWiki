@@ -1,0 +1,72 @@
+{
+  "qid": "Q1146552",
+  "label": "Point Break",
+  "title": "Point_Break",
+  "description": "1991 film by Kathryn Bigelow",
+  "image": "",
+  "total": 241124,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 134575
+    },
+    {
+      "period": "2016-01",
+      "views": 26591
+    },
+    {
+      "period": "2020-05",
+      "views": 11258
+    },
+    {
+      "period": "2020-07",
+      "views": 12905
+    },
+    {
+      "period": "2022-08",
+      "views": 19763
+    },
+    {
+      "period": "2023-08",
+      "views": 17527
+    },
+    {
+      "period": "2025-08",
+      "views": 10226
+    },
+    {
+      "period": "2026-07",
+      "views": 8279
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 134575
+    },
+    {
+      "period": "2016",
+      "views": 26591
+    },
+    {
+      "period": "2020",
+      "views": 24163
+    },
+    {
+      "period": "2022",
+      "views": 19763
+    },
+    {
+      "period": "2023",
+      "views": 17527
+    },
+    {
+      "period": "2025",
+      "views": 10226
+    },
+    {
+      "period": "2026",
+      "views": 8279
+    }
+  ]
+}

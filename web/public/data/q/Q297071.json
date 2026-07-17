@@ -4,7 +4,7 @@
   "title": "Jamie_Bell",
   "description": "English actor (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Bell_in_2019.jpg?width=64",
-  "total": 2731746,
+  "total": 2740212,
   "monthly": [
     {
       "period": "2015-08",
@@ -209,6 +209,10 @@
     {
       "period": "2026-06",
       "views": 28360
+    },
+    {
+      "period": "2026-07",
+      "views": 8466
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 450660
+      "views": 459126
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Chloe_Kim",
   "description": "American snowboarder",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chloe_Kim_PCSFN_Headshot_2023.jpg?width=64",
-  "total": 2110308,
+  "total": 2129942,
   "monthly": [
     {
       "period": "2018-02",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 27470
+    },
+    {
+      "period": "2026-07",
+      "views": 19634
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 807608
+      "views": 827242
     }
   ]
 }

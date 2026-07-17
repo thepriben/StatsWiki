@@ -1,0 +1,56 @@
+{
+  "qid": "Q822057",
+  "label": "Primal Fear",
+  "title": "Primal_Fear_(film)",
+  "description": "1996 film directed by Gregory Hoblit",
+  "image": "",
+  "total": 335713,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 26522
+    },
+    {
+      "period": "2020-02",
+      "views": 9030
+    },
+    {
+      "period": "2025-10",
+      "views": 69237
+    },
+    {
+      "period": "2025-11",
+      "views": 174199
+    },
+    {
+      "period": "2025-12",
+      "views": 27422
+    },
+    {
+      "period": "2026-01",
+      "views": 19040
+    },
+    {
+      "period": "2026-07",
+      "views": 10263
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 26522
+    },
+    {
+      "period": "2020",
+      "views": 9030
+    },
+    {
+      "period": "2025",
+      "views": 270858
+    },
+    {
+      "period": "2026",
+      "views": 29303
+    }
+  ]
+}

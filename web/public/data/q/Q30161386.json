@@ -4,7 +4,7 @@
   "title": "Scottie_Scheffler",
   "description": "American professional golfer (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scottie_Scheffler_Ryder_Cup_2025_%28cropped%29.jpg?width=64",
-  "total": 9082737,
+  "total": 9091741,
   "monthly": [
     {
       "period": "2020-08",
@@ -145,6 +145,10 @@
     {
       "period": "2026-06",
       "views": 116102
+    },
+    {
+      "period": "2026-07",
+      "views": 9004
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 816726
+      "views": 825730
     }
   ]
 }

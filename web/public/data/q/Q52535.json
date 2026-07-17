@@ -4,7 +4,7 @@
   "title": "Rosario",
   "description": "city in Argentina",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Montaje_Rosario_01.jpg?width=64",
-  "total": 22421,
+  "total": 34692,
   "monthly": [
     {
       "period": "2026-06",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-07",
-      "views": 10433
+      "views": 22704
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 22421
+      "views": 34692
     }
   ]
 }

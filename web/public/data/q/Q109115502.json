@@ -1,0 +1,52 @@
+{
+  "qid": "Q109115502",
+  "label": "2022 Finalissima",
+  "title": "2022_Finalissima",
+  "description": "association football match",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentina_vs._Italy_at_Wembley_Stadium_%282022%29.jpg?width=64",
+  "total": 988859,
+  "monthly": [
+    {
+      "period": "2022-05",
+      "views": 73253
+    },
+    {
+      "period": "2022-06",
+      "views": 408430
+    },
+    {
+      "period": "2022-12",
+      "views": 274597
+    },
+    {
+      "period": "2023-04",
+      "views": 42647
+    },
+    {
+      "period": "2024-07",
+      "views": 178844
+    },
+    {
+      "period": "2026-07",
+      "views": 11088
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 756280
+    },
+    {
+      "period": "2023",
+      "views": 42647
+    },
+    {
+      "period": "2024",
+      "views": 178844
+    },
+    {
+      "period": "2026",
+      "views": 11088
+    }
+  ]
+}

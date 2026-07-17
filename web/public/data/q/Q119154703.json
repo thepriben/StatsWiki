@@ -1,0 +1,36 @@
+{
+  "qid": "Q119154703",
+  "label": "2023 Canadian wildfires",
+  "title": "2023_Canadian_wildfires",
+  "description": "series of wildfires affecting Canada in 2023",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Enterprise_after_2023_wildfires_%284%29.jpg?width=64",
+  "total": 394254,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 364953
+    },
+    {
+      "period": "2023-07",
+      "views": 10586
+    },
+    {
+      "period": "2023-08",
+      "views": 9823
+    },
+    {
+      "period": "2026-07",
+      "views": 8892
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 385362
+    },
+    {
+      "period": "2026",
+      "views": 8892
+    }
+  ]
+}

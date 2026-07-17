@@ -4,7 +4,7 @@
   "title": "AC/DC",
   "description": "Australian-British hard rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AC_DC_at_London%27s_Olympic_Stadium.jpg?width=64",
-  "total": 5722465,
+  "total": 5730772,
   "monthly": [
     {
       "period": "2015-07",
@@ -249,6 +249,10 @@
     {
       "period": "2025-11",
       "views": 168965
+    },
+    {
+      "period": "2026-07",
+      "views": 8307
     }
   ],
   "yearly": [
@@ -295,6 +299,10 @@
     {
       "period": "2025",
       "views": 733111
+    },
+    {
+      "period": "2026",
+      "views": 8307
     }
   ]
 }

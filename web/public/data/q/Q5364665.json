@@ -4,7 +4,7 @@
   "title": "Elle_King",
   "description": "American singer, songwriter, and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elle_King_at_the_2015_Interstellar_Rodeo.jpg?width=64",
-  "total": 3540244,
+  "total": 3553210,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-01",
       "views": 41137
+    },
+    {
+      "period": "2026-07",
+      "views": 12966
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 41137
+      "views": 54103
     }
   ]
 }

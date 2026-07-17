@@ -4,7 +4,7 @@
   "title": "John_Fetterman",
   "description": "American politician (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lt._Gov._John_Fetterman_Portrait_%2846874790005%29.jpg?width=64",
-  "total": 5748754,
+  "total": 5759273,
   "monthly": [
     {
       "period": "2020-12",
@@ -173,6 +173,10 @@
     {
       "period": "2026-06",
       "views": 9343
+    },
+    {
+      "period": "2026-07",
+      "views": 10519
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 312653
+      "views": 323172
     }
   ]
 }
