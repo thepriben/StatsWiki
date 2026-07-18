@@ -1,0 +1,88 @@
+{
+  "qid": "Q908717",
+  "label": "TWA Flight 800",
+  "title": "TWA_Flight_800",
+  "description": "Flight that exploded and crashed in 1996 off the coast of New York",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TWA_flight_800_reconstruction_by_the_National_Transportation_Safety_Board_was_used_as_a_training_aid_for_about_20_years_until_2021_at_the_NTSB%E2%80%99s_Training_Center_in_Ashburn%2C_Virginia_01.jpg?width=64",
+  "total": 411980,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 37035
+    },
+    {
+      "period": "2019-07",
+      "views": 9732
+    },
+    {
+      "period": "2020-01",
+      "views": 10542
+    },
+    {
+      "period": "2020-07",
+      "views": 10214
+    },
+    {
+      "period": "2021-07",
+      "views": 142998
+    },
+    {
+      "period": "2023-07",
+      "views": 28067
+    },
+    {
+      "period": "2023-12",
+      "views": 45631
+    },
+    {
+      "period": "2024-07",
+      "views": 12498
+    },
+    {
+      "period": "2025-01",
+      "views": 24888
+    },
+    {
+      "period": "2025-07",
+      "views": 66655
+    },
+    {
+      "period": "2026-07",
+      "views": 23720
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 37035
+    },
+    {
+      "period": "2019",
+      "views": 9732
+    },
+    {
+      "period": "2020",
+      "views": 20756
+    },
+    {
+      "period": "2021",
+      "views": 142998
+    },
+    {
+      "period": "2023",
+      "views": 73698
+    },
+    {
+      "period": "2024",
+      "views": 12498
+    },
+    {
+      "period": "2025",
+      "views": 91543
+    },
+    {
+      "period": "2026",
+      "views": 23720
+    }
+  ]
+}

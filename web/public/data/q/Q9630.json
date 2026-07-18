@@ -4,7 +4,7 @@
   "title": "Labour_Party_(UK)",
   "description": "centrist social democratic political party in the United Kingdom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keir_Starmer%2C_2020_Labour_Party_leadership_election_hustings%2C_Bristol_1.jpg?width=64",
-  "total": 2350806,
+  "total": 2363766,
   "monthly": [
     {
       "period": "2015-09",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 76133
+    },
+    {
+      "period": "2026-07",
+      "views": 12960
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 186526
+      "views": 199486
     }
   ]
 }

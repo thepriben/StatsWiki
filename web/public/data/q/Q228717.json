@@ -4,7 +4,7 @@
   "title": "Rose_Byrne",
   "description": "Australian actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_Byrne_Blue_Moon-21_%28cropped%29.jpg?width=64",
-  "total": 6778631,
+  "total": 6788530,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-06",
       "views": 10986
+    },
+    {
+      "period": "2026-07",
+      "views": 9899
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 1417172
+      "views": 1427071
     }
   ]
 }

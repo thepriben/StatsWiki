@@ -4,7 +4,7 @@
   "title": "Air_quality_index",
   "description": "measure of pollution",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%2C_2012_-_Air_quality_monitoring_station.jpg?width=64",
-  "total": 444598,
+  "total": 454363,
   "monthly": [
     {
       "period": "2016-08",
@@ -36,7 +36,7 @@
     },
     {
       "period": "2026-07",
-      "views": 8686
+      "views": 18451
     }
   ],
   "yearly": [
@@ -62,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 8686
+      "views": 18451
     }
   ]
 }

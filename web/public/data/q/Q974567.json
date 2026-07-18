@@ -4,7 +4,7 @@
   "title": "Claude_Lemieux",
   "description": "Canadian ice hockey player (1965-2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude-Lemieux-circa-1999-2000.jpg?width=64",
-  "total": 1065616,
+  "total": 1078684,
   "monthly": [
     {
       "period": "2021-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 88095
+    },
+    {
+      "period": "2026-07",
+      "views": 13068
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 1035794
+      "views": 1048862
     }
   ]
 }

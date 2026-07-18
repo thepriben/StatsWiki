@@ -4,7 +4,7 @@
   "title": "Harry_Kewell",
   "description": "Australian association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HarryKewell.jpg?width=64",
-  "total": 105398,
+  "total": 118314,
   "monthly": [
     {
       "period": "2021-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 28983
+    },
+    {
+      "period": "2026-07",
+      "views": 12916
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 28983
+      "views": 41899
     }
   ]
 }

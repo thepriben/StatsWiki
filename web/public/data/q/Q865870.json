@@ -1,0 +1,52 @@
+{
+  "qid": "Q865870",
+  "label": "TAM Airlines Flight 3054",
+  "title": "TAM_Airlines_Flight_3054",
+  "description": "aviation accident",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TAM3054.png?width=64",
+  "total": 159643,
+  "monthly": [
+    {
+      "period": "2019-07",
+      "views": 11223
+    },
+    {
+      "period": "2023-07",
+      "views": 13450
+    },
+    {
+      "period": "2024-08",
+      "views": 14419
+    },
+    {
+      "period": "2025-04",
+      "views": 110113
+    },
+    {
+      "period": "2026-07",
+      "views": 10438
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11223
+    },
+    {
+      "period": "2023",
+      "views": 13450
+    },
+    {
+      "period": "2024",
+      "views": 14419
+    },
+    {
+      "period": "2025",
+      "views": 110113
+    },
+    {
+      "period": "2026",
+      "views": 10438
+    }
+  ]
+}

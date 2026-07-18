@@ -1,0 +1,28 @@
+{
+  "qid": "Q34374",
+  "label": "Crete",
+  "title": "Crete",
+  "description": "island of Greece",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crete_Nasa.jpg?width=64",
+  "total": 36168,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 27978
+    },
+    {
+      "period": "2026-07",
+      "views": 8190
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 27978
+    },
+    {
+      "period": "2026",
+      "views": 8190
+    }
+  ]
+}

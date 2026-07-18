@@ -4,7 +4,7 @@
   "title": "J._J._Watt",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JJWatt.jpg?width=64",
-  "total": 5883390,
+  "total": 5891769,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-01",
       "views": 39707
+    },
+    {
+      "period": "2026-07",
+      "views": 8379
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 39707
+      "views": 48086
     }
   ]
 }

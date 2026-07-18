@@ -4,7 +4,7 @@
   "title": "Eric_Bana",
   "description": "Australian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric_Bana_at_the_2009_Tribeca_Film_Festival.jpg?width=64",
-  "total": 1675387,
+  "total": 1684042,
   "monthly": [
     {
       "period": "2016-04",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 66794
+    },
+    {
+      "period": "2026-07",
+      "views": 8655
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 254546
+      "views": 263201
     }
   ]
 }

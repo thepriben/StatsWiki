@@ -1,0 +1,52 @@
+{
+  "qid": "Q1373024",
+  "label": "Jeff Garcia",
+  "title": "Jeff_Garcia",
+  "description": "American football player",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Garcia_Eagles.jpg?width=64",
+  "total": 95990,
+  "monthly": [
+    {
+      "period": "2017-12",
+      "views": 10204
+    },
+    {
+      "period": "2020-10",
+      "views": 15554
+    },
+    {
+      "period": "2022-01",
+      "views": 42407
+    },
+    {
+      "period": "2025-12",
+      "views": 12711
+    },
+    {
+      "period": "2026-07",
+      "views": 15114
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 10204
+    },
+    {
+      "period": "2020",
+      "views": 15554
+    },
+    {
+      "period": "2022",
+      "views": 42407
+    },
+    {
+      "period": "2025",
+      "views": 12711
+    },
+    {
+      "period": "2026",
+      "views": 15114
+    }
+  ]
+}

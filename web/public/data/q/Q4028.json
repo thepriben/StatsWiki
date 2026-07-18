@@ -4,7 +4,7 @@
   "title": "Paul_Simon",
   "description": "American singer-songwriter (born 1941)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Simon_at_the_9-30_Club_%28b%29.jpg?width=64",
-  "total": 3314419,
+  "total": 3322716,
   "monthly": [
     {
       "period": "2015-08",
@@ -217,6 +217,10 @@
     {
       "period": "2026-06",
       "views": 10058
+    },
+    {
+      "period": "2026-07",
+      "views": 8297
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 99271
+      "views": 107568
     }
   ]
 }

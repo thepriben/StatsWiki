@@ -4,7 +4,7 @@
   "title": "Marty_Supreme",
   "description": "2025 film directed by Josh Safdie",
   "image": "",
-  "total": 9233324,
+  "total": 9242977,
   "monthly": [
     {
       "period": "2025-03",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 174109
+    },
+    {
+      "period": "2026-07",
+      "views": 9653
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 6116120
+      "views": 6125773
     }
   ]
 }
