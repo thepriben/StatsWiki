@@ -4,7 +4,7 @@
   "title": "Morgan_Wallen",
   "description": "American country musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morgan_Wallen_performing_at_Bank_of_America_Stadium.png?width=64",
-  "total": 4422259,
+  "total": 4432340,
   "monthly": [
     {
       "period": "2020-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-06",
       "views": 50249
+    },
+    {
+      "period": "2026-07",
+      "views": 10081
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 176490
+      "views": 186571
     }
   ]
 }

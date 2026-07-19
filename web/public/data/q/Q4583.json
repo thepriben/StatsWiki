@@ -4,7 +4,7 @@
   "title": "Anne_Frank",
   "description": "German-born Dutch Jewish diarist and Holocaust victim (1929–1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Frank_%28cropped%29.jpg?width=64",
-  "total": 7893184,
+  "total": 7904211,
   "monthly": [
     {
       "period": "2015-07",
@@ -385,6 +385,10 @@
     {
       "period": "2026-06",
       "views": 8999
+    },
+    {
+      "period": "2026-07",
+      "views": 11027
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 167181
+      "views": 178208
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Nelson_Mandela",
   "description": "President of South Africa and anti-apartheid activist (1918–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelson_Mandela_1994.jpg?width=64",
-  "total": 21545651,
+  "total": 21559626,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-02",
       "views": 22042
+    },
+    {
+      "period": "2026-07",
+      "views": 13975
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 22042
+      "views": 36017
     }
   ]
 }

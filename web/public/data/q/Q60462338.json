@@ -4,7 +4,7 @@
   "title": "Andor_(TV_series)",
   "description": "2022–2025 Star Wars television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andor.svg?width=64",
-  "total": 11286868,
+  "total": 11296798,
   "monthly": [
     {
       "period": "2020-12",
@@ -85,6 +85,10 @@
     {
       "period": "2025-09",
       "views": 109797
+    },
+    {
+      "period": "2026-07",
+      "views": 9930
     }
   ],
   "yearly": [
@@ -103,6 +107,10 @@
     {
       "period": "2025",
       "views": 5503221
+    },
+    {
+      "period": "2026",
+      "views": 9930
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Andy_Richter",
   "description": "American actor and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Richter_at_the_2013_Final_Four_in_Atlanta_Georgia_02_%28cropped%29.jpg?width=64",
-  "total": 528986,
+  "total": 538779,
   "monthly": [
     {
       "period": "2021-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 27817
+    },
+    {
+      "period": "2026-07",
+      "views": 9793
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 146733
+      "views": 156526
     }
   ]
 }

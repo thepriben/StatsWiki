@@ -1,0 +1,28 @@
+{
+  "qid": "Q943635",
+  "label": "mile run",
+  "title": "Mile_run",
+  "description": "common middle-distance running event",
+  "image": "",
+  "total": 23854,
+  "monthly": [
+    {
+      "period": "2025-03",
+      "views": 12724
+    },
+    {
+      "period": "2026-07",
+      "views": 11130
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 12724
+    },
+    {
+      "period": "2026",
+      "views": 11130
+    }
+  ]
+}

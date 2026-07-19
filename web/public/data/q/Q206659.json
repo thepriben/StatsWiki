@@ -4,7 +4,7 @@
   "title": "Brendan_Gleeson",
   "description": "Irish actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brendan_Gleeson.jpg?width=64",
-  "total": 1697374,
+  "total": 1706473,
   "monthly": [
     {
       "period": "2015-11",
@@ -117,6 +117,10 @@
     {
       "period": "2026-06",
       "views": 19339
+    },
+    {
+      "period": "2026-07",
+      "views": 9099
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 93410
+      "views": 102509
     }
   ]
 }

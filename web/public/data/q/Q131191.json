@@ -1,0 +1,56 @@
+{
+  "qid": "Q131191",
+  "label": "body mass index",
+  "title": "Body_mass_index",
+  "description": "measure of relative weight based on an individual's mass and height",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Body_mass_index.png?width=64",
+  "total": 628641,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 11929
+    },
+    {
+      "period": "2018-01",
+      "views": 10491
+    },
+    {
+      "period": "2018-02",
+      "views": 58744
+    },
+    {
+      "period": "2018-03",
+      "views": 192616
+    },
+    {
+      "period": "2018-04",
+      "views": 304220
+    },
+    {
+      "period": "2022-10",
+      "views": 15433
+    },
+    {
+      "period": "2026-07",
+      "views": 35208
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11929
+    },
+    {
+      "period": "2018",
+      "views": 566071
+    },
+    {
+      "period": "2022",
+      "views": 15433
+    },
+    {
+      "period": "2026",
+      "views": 35208
+    }
+  ]
+}

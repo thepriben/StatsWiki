@@ -1,0 +1,48 @@
+{
+  "qid": "Q1132393",
+  "label": "Mercenary War",
+  "title": "Mercenary_War",
+  "description": "revolt of mercenaries",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guerra_mercenaria.png?width=64",
+  "total": 92870,
+  "monthly": [
+    {
+      "period": "2021-01",
+      "views": 49405
+    },
+    {
+      "period": "2021-04",
+      "views": 9405
+    },
+    {
+      "period": "2024-12",
+      "views": 9258
+    },
+    {
+      "period": "2025-10",
+      "views": 10220
+    },
+    {
+      "period": "2026-07",
+      "views": 14582
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 58810
+    },
+    {
+      "period": "2024",
+      "views": 9258
+    },
+    {
+      "period": "2025",
+      "views": 10220
+    },
+    {
+      "period": "2026",
+      "views": 14582
+    }
+  ]
+}
