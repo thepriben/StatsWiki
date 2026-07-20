@@ -1,0 +1,28 @@
+{
+  "qid": "Q62823",
+  "label": "Barranquilla",
+  "title": "Barranquilla",
+  "description": "capital district of Atlántico Department in Colombia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barranquilla_Montage.jpg?width=64",
+  "total": 59692,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 49379
+    },
+    {
+      "period": "2026-07",
+      "views": 10313
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 49379
+    },
+    {
+      "period": "2026",
+      "views": 10313
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "qid": "Q7743",
+  "label": "home",
+  "title": "Home",
+  "description": "dwelling-place used as a permanent or semi-permanent residence",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SearsHouse115.jpg?width=64",
+  "total": 1123612,
+  "monthly": [
+    {
+      "period": "2018-03",
+      "views": 13311
+    },
+    {
+      "period": "2018-05",
+      "views": 306675
+    },
+    {
+      "period": "2018-09",
+      "views": 12381
+    },
+    {
+      "period": "2018-11",
+      "views": 19214
+    },
+    {
+      "period": "2018-12",
+      "views": 9938
+    },
+    {
+      "period": "2019-02",
+      "views": 13185
+    },
+    {
+      "period": "2019-04",
+      "views": 341922
+    },
+    {
+      "period": "2019-10",
+      "views": 103671
+    },
+    {
+      "period": "2019-11",
+      "views": 63140
+    },
+    {
+      "period": "2019-12",
+      "views": 11672
+    },
+    {
+      "period": "2020-02",
+      "views": 17283
+    },
+    {
+      "period": "2020-04",
+      "views": 196838
+    },
+    {
+      "period": "2026-07",
+      "views": 14382
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 361519
+    },
+    {
+      "period": "2019",
+      "views": 533590
+    },
+    {
+      "period": "2020",
+      "views": 214121
+    },
+    {
+      "period": "2026",
+      "views": 14382
+    }
+  ]
+}

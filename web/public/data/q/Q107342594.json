@@ -1,0 +1,56 @@
+{
+  "qid": "Q107342594",
+  "label": "Luma Energy",
+  "title": "LUMA_Energy",
+  "description": "power company responsible for power distribution and power transmission in Puerto Rico",
+  "image": "",
+  "total": 116157,
+  "monthly": [
+    {
+      "period": "2024-08",
+      "views": 13485
+    },
+    {
+      "period": "2024-09",
+      "views": 20809
+    },
+    {
+      "period": "2024-10",
+      "views": 9145
+    },
+    {
+      "period": "2024-12",
+      "views": 20217
+    },
+    {
+      "period": "2025-01",
+      "views": 15752
+    },
+    {
+      "period": "2025-04",
+      "views": 9450
+    },
+    {
+      "period": "2025-09",
+      "views": 15097
+    },
+    {
+      "period": "2026-07",
+      "views": 12202
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 63656
+    },
+    {
+      "period": "2025",
+      "views": 40299
+    },
+    {
+      "period": "2026",
+      "views": 12202
+    }
+  ]
+}

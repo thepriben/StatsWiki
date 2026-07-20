@@ -1,0 +1,60 @@
+{
+  "qid": "Q1408",
+  "label": "New Jersey",
+  "title": "New_Jersey",
+  "description": "state of the United States of America",
+  "image": "",
+  "total": 208956,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 9631
+    },
+    {
+      "period": "2016-08",
+      "views": 109206
+    },
+    {
+      "period": "2017-11",
+      "views": 24498
+    },
+    {
+      "period": "2021-11",
+      "views": 29798
+    },
+    {
+      "period": "2025-11",
+      "views": 21745
+    },
+    {
+      "period": "2026-07",
+      "views": 14078
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9631
+    },
+    {
+      "period": "2016",
+      "views": 109206
+    },
+    {
+      "period": "2017",
+      "views": 24498
+    },
+    {
+      "period": "2021",
+      "views": 29798
+    },
+    {
+      "period": "2025",
+      "views": 21745
+    },
+    {
+      "period": "2026",
+      "views": 14078
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "qid": "Q105387376",
+  "label": "UEFA Euro 2032",
+  "title": "UEFA_Euro_2032",
+  "description": "19th edition of UEFA European Championship",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Euro_2032_logo.svg?width=64",
+  "total": 285684,
+  "monthly": [
+    {
+      "period": "2023-10",
+      "views": 50349
+    },
+    {
+      "period": "2024-06",
+      "views": 145964
+    },
+    {
+      "period": "2024-07",
+      "views": 78450
+    },
+    {
+      "period": "2026-07",
+      "views": 10921
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 50349
+    },
+    {
+      "period": "2024",
+      "views": 224414
+    },
+    {
+      "period": "2026",
+      "views": 10921
+    }
+  ]
+}

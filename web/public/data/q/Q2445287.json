@@ -1,0 +1,44 @@
+{
+  "qid": "Q2445287",
+  "label": "North Wilkesboro Speedway",
+  "title": "North_Wilkesboro_Speedway",
+  "description": "motorsport track in the United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Wilksboro_Speedway_April_2011.jpg?width=64",
+  "total": 105586,
+  "monthly": [
+    {
+      "period": "2023-05",
+      "views": 69783
+    },
+    {
+      "period": "2024-05",
+      "views": 12104
+    },
+    {
+      "period": "2025-05",
+      "views": 9246
+    },
+    {
+      "period": "2026-07",
+      "views": 14453
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 69783
+    },
+    {
+      "period": "2024",
+      "views": 12104
+    },
+    {
+      "period": "2025",
+      "views": 9246
+    },
+    {
+      "period": "2026",
+      "views": 14453
+    }
+  ]
+}

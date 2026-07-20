@@ -1,0 +1,68 @@
+{
+  "qid": "Q104864362",
+  "label": "Major League Cricket",
+  "title": "Major_League_Cricket",
+  "description": "main American Twenty20 cricket league",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Major_League_Cricket_logo.svg?width=64",
+  "total": 615511,
+  "monthly": [
+    {
+      "period": "2023-03",
+      "views": 37851
+    },
+    {
+      "period": "2023-05",
+      "views": 29091
+    },
+    {
+      "period": "2023-06",
+      "views": 87553
+    },
+    {
+      "period": "2023-07",
+      "views": 356892
+    },
+    {
+      "period": "2023-08",
+      "views": 17262
+    },
+    {
+      "period": "2024-06",
+      "views": 9532
+    },
+    {
+      "period": "2024-07",
+      "views": 13643
+    },
+    {
+      "period": "2025-06",
+      "views": 36258
+    },
+    {
+      "period": "2025-07",
+      "views": 16772
+    },
+    {
+      "period": "2026-07",
+      "views": 10657
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 528649
+    },
+    {
+      "period": "2024",
+      "views": 23175
+    },
+    {
+      "period": "2025",
+      "views": 53030
+    },
+    {
+      "period": "2026",
+      "views": 10657
+    }
+  ]
+}

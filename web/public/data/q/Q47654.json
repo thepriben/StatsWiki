@@ -1,0 +1,60 @@
+{
+  "qid": "Q47654",
+  "label": "Saturday Night Fever",
+  "title": "Saturday_Night_Fever",
+  "description": "1977 film directed by John Badham",
+  "image": "",
+  "total": 115741,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 36298
+    },
+    {
+      "period": "2017-04",
+      "views": 15999
+    },
+    {
+      "period": "2017-12",
+      "views": 16763
+    },
+    {
+      "period": "2018-01",
+      "views": 12236
+    },
+    {
+      "period": "2021-08",
+      "views": 12377
+    },
+    {
+      "period": "2022-08",
+      "views": 11730
+    },
+    {
+      "period": "2026-07",
+      "views": 10338
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 69060
+    },
+    {
+      "period": "2018",
+      "views": 12236
+    },
+    {
+      "period": "2021",
+      "views": 12377
+    },
+    {
+      "period": "2022",
+      "views": 11730
+    },
+    {
+      "period": "2026",
+      "views": 10338
+    }
+  ]
+}

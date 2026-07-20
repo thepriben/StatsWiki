@@ -4,7 +4,7 @@
   "title": "Lily_James",
   "description": "British actress (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lilly_James_%2835036323024%29.jpg?width=64",
-  "total": 15624418,
+  "total": 15635922,
   "monthly": [
     {
       "period": "2015-09",
@@ -405,6 +405,10 @@
     {
       "period": "2026-05",
       "views": 18362
+    },
+    {
+      "period": "2026-07",
+      "views": 11504
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 40934
+      "views": 52438
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2024_NBA_draft",
   "description": "78th edition of the draft",
   "image": "",
-  "total": 1409331,
+  "total": 1428297,
   "monthly": [
     {
       "period": "2024-05",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 23700
+    },
+    {
+      "period": "2026-07",
+      "views": 18966
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 114497
+      "views": 133463
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Marco_Antonelli",
   "description": "Italian race car driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/International_GT_Open_2022_Spielberg_Nr._17_%281%29.jpg?width=64",
-  "total": 262323,
+  "total": 276085,
   "monthly": [
     {
       "period": "2024-08",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 45237
+    },
+    {
+      "period": "2026-07",
+      "views": 13762
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 183243
+      "views": 197005
     }
   ]
 }
