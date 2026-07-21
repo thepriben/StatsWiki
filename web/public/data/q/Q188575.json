@@ -4,7 +4,7 @@
   "title": "IMAX",
   "description": "large-screen film format",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IMAX_blue_logo.svg?width=64",
-  "total": 320958,
+  "total": 343135,
   "monthly": [
     {
       "period": "2015-11",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-07",
-      "views": 104280
+      "views": 126457
     }
   ],
   "yearly": [
@@ -42,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 104280
+      "views": 126457
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rick_and_Morty_season_9",
   "description": "season of television series",
   "image": "",
-  "total": 48823,
+  "total": 60061,
   "monthly": [
     {
       "period": "2026-06",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-07",
-      "views": 31487
+      "views": 42725
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 48823
+      "views": 60061
     }
   ]
 }

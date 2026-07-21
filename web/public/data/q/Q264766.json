@@ -4,7 +4,7 @@
   "title": "Theresa_May",
   "description": "Prime Minister of the United Kingdom from 2016 to 2019",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg?width=64",
-  "total": 10913976,
+  "total": 10925300,
   "monthly": [
     {
       "period": "2015-10",
@@ -201,6 +201,10 @@
     {
       "period": "2026-06",
       "views": 60944
+    },
+    {
+      "period": "2026-07",
+      "views": 11324
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 60944
+      "views": 72268
     }
   ]
 }

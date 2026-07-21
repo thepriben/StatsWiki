@@ -4,7 +4,7 @@
   "title": "Harold_Wilson",
   "description": "Prime Minister of the United Kingdom from 1964-1970 and 1974-1976 (1916–1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold_Wilson_%281967%29.jpg?width=64",
-  "total": 4072137,
+  "total": 4081325,
   "monthly": [
     {
       "period": "2016-07",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 14629
+    },
+    {
+      "period": "2026-07",
+      "views": 9188
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 33187
+      "views": 42375
     }
   ]
 }

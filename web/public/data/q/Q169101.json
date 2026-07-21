@@ -4,7 +4,7 @@
   "title": "10_Downing_Street",
   "description": "headquarters of His Majesty's Government",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/10_Downing_Street._MOD_45155532_%28cropped%29.jpg?width=64",
-  "total": 587992,
+  "total": 597331,
   "monthly": [
     {
       "period": "2016-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 11432
+    },
+    {
+      "period": "2026-07",
+      "views": 9339
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 11432
+      "views": 20771
     }
   ]
 }

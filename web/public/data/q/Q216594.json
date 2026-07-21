@@ -4,7 +4,7 @@
   "title": "Ed_Miliband",
   "description": "British politician (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Rt_Hon_Edward_Miliband_MP_crop_2.jpg?width=64",
-  "total": 424954,
+  "total": 496744,
   "monthly": [
     {
       "period": "2015-09",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 26274
+    },
+    {
+      "period": "2026-07",
+      "views": 71790
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 82328
+      "views": 154118
     }
   ]
 }

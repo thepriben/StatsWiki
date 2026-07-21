@@ -4,7 +4,7 @@
   "title": "Álvaro_Morata",
   "description": "Spanish association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81lvaro_Morata.jpg?width=64",
-  "total": 3742839,
+  "total": 3754336,
   "monthly": [
     {
       "period": "2016-03",
@@ -165,6 +165,10 @@
     {
       "period": "2026-06",
       "views": 10381
+    },
+    {
+      "period": "2026-07",
+      "views": 11497
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 10381
+      "views": 21878
     }
   ]
 }

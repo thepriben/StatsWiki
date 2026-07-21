@@ -1,0 +1,28 @@
+{
+  "qid": "Q2807",
+  "label": "Madrid",
+  "title": "Madrid",
+  "description": "capital of Spain",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madrid_%2838624991251%29.jpg?width=64",
+  "total": 74026,
+  "monthly": [
+    {
+      "period": "2020-04",
+      "views": 64261
+    },
+    {
+      "period": "2026-07",
+      "views": 9765
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 64261
+    },
+    {
+      "period": "2026",
+      "views": 9765
+    }
+  ]
+}

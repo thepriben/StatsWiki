@@ -2,9 +2,9 @@
   "qid": "Q152832",
   "label": "Kevin Keegan",
   "title": "Kevin_Keegan",
-  "description": "English association football player and manager",
+  "description": "English association football player and manager (1951–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_keegan_panini_card_%28cropped%29.jpg?width=64",
-  "total": 316069,
+  "total": 1004866,
   "monthly": [
     {
       "period": "2018-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 141579
+    },
+    {
+      "period": "2026-07",
+      "views": 688797
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 233951
+      "views": 922748
     }
   ]
 }

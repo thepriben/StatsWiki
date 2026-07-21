@@ -4,7 +4,7 @@
   "title": "The_Celestial_Toymaker",
   "description": "1966 Doctor Who serial",
   "image": "",
-  "total": 76271,
+  "total": 86810,
   "monthly": [
     {
       "period": "2023-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 9969
+    },
+    {
+      "period": "2026-07",
+      "views": 10539
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 9969
+      "views": 20508
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Fantastic_Four:_First_Steps",
   "description": "2025 film directed by Matt Shakman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Fantastic_Four_First_Steps_-_Logo.png?width=64",
-  "total": 10374777,
+  "total": 10387814,
   "monthly": [
     {
       "period": "2024-07",
@@ -65,6 +65,10 @@
     {
       "period": "2026-01",
       "views": 92254
+    },
+    {
+      "period": "2026-07",
+      "views": 13037
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 92254
+      "views": 105291
     }
   ]
 }

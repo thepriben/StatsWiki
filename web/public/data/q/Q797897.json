@@ -4,17 +4,21 @@
   "title": "Fitzwilliam_College,_Cambridge",
   "description": "college of the University of Cambridge",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2003_0607_170338AA.jpg?width=64",
-  "total": 10664,
+  "total": 20003,
   "monthly": [
     {
       "period": "2026-06",
       "views": 10664
+    },
+    {
+      "period": "2026-07",
+      "views": 9339
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 10664
+      "views": 20003
     }
   ]
 }

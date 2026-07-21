@@ -1,0 +1,116 @@
+{
+  "qid": "Q159848",
+  "label": "Camp Nou",
+  "title": "Camp_Nou",
+  "description": "football stadium in Barcelona, Catalonia, Spain",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Camp_Nou_aerial_%28cropped%29.jpg?width=64",
+  "total": 246592,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 11669
+    },
+    {
+      "period": "2016-04",
+      "views": 10951
+    },
+    {
+      "period": "2016-12",
+      "views": 10639
+    },
+    {
+      "period": "2017-11",
+      "views": 18470
+    },
+    {
+      "period": "2018-03",
+      "views": 9660
+    },
+    {
+      "period": "2019-04",
+      "views": 11030
+    },
+    {
+      "period": "2019-05",
+      "views": 18475
+    },
+    {
+      "period": "2019-12",
+      "views": 11153
+    },
+    {
+      "period": "2023-05",
+      "views": 11127
+    },
+    {
+      "period": "2023-10",
+      "views": 15487
+    },
+    {
+      "period": "2024-04",
+      "views": 24190
+    },
+    {
+      "period": "2025-03",
+      "views": 14391
+    },
+    {
+      "period": "2025-04",
+      "views": 27884
+    },
+    {
+      "period": "2025-05",
+      "views": 18119
+    },
+    {
+      "period": "2025-11",
+      "views": 11714
+    },
+    {
+      "period": "2026-03",
+      "views": 11948
+    },
+    {
+      "period": "2026-07",
+      "views": 9685
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 11669
+    },
+    {
+      "period": "2016",
+      "views": 21590
+    },
+    {
+      "period": "2017",
+      "views": 18470
+    },
+    {
+      "period": "2018",
+      "views": 9660
+    },
+    {
+      "period": "2019",
+      "views": 40658
+    },
+    {
+      "period": "2023",
+      "views": 26614
+    },
+    {
+      "period": "2024",
+      "views": 24190
+    },
+    {
+      "period": "2025",
+      "views": 72108
+    },
+    {
+      "period": "2026",
+      "views": 21633
+    }
+  ]
+}

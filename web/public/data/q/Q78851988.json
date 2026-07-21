@@ -4,7 +4,7 @@
   "title": "2024_United_Kingdom_general_election",
   "description": "election to the 59th United Kingdom House of Commons",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024_United_Kingdom_general_election_-_Result.svg?width=64",
-  "total": 5236402,
+  "total": 5246002,
   "monthly": [
     {
       "period": "2024-05",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 82056
+    },
+    {
+      "period": "2026-07",
+      "views": 9600
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 260190
+      "views": 269790
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Thunderbolts*",
   "description": "2025 film directed by Jake Schreier",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thunderbolts%2A_Logo.png?width=64",
-  "total": 12749044,
+  "total": 12763859,
   "monthly": [
     {
       "period": "2024-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-01",
       "views": 9035
+    },
+    {
+      "period": "2026-07",
+      "views": 14815
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 9035
+      "views": 23850
     }
   ]
 }

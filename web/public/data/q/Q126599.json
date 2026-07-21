@@ -4,7 +4,7 @@
   "title": "Kristen_Stewart",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristen_Stewart_at_WWD_Style_Awards_2026.jpg?width=64",
-  "total": 21011544,
+  "total": 21022477,
   "monthly": [
     {
       "period": "2015-07",
@@ -453,6 +453,10 @@
     {
       "period": "2026-02",
       "views": 20439
+    },
+    {
+      "period": "2026-07",
+      "views": 10933
     }
   ],
   "yearly": [
@@ -502,7 +506,7 @@
     },
     {
       "period": "2026",
-      "views": 81348
+      "views": 92281
     }
   ]
 }

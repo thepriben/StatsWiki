@@ -4,7 +4,7 @@
   "title": "Marvel_Cinematic_Universe:_Phase_Five",
   "description": "group of superhero films and television series",
   "image": "",
-  "total": 6250109,
+  "total": 6259833,
   "monthly": [
     {
       "period": "2022-07",
@@ -145,6 +145,10 @@
     {
       "period": "2025-08",
       "views": 43576
+    },
+    {
+      "period": "2026-07",
+      "views": 9724
     }
   ],
   "yearly": [
@@ -163,6 +167,10 @@
     {
       "period": "2025",
       "views": 1008046
+    },
+    {
+      "period": "2026",
+      "views": 9724
     }
   ]
 }

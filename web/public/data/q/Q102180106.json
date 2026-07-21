@@ -4,7 +4,7 @@
   "title": "Deadpool_&_Wolverine",
   "description": "2024 Marvel Studios film by Shawn Levy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Concord_Pacific_Master_Plan_Area.jpg?width=64",
-  "total": 21058034,
+  "total": 21068444,
   "monthly": [
     {
       "period": "2024-02",
@@ -77,6 +77,10 @@
     {
       "period": "2025-08",
       "views": 19388
+    },
+    {
+      "period": "2026-07",
+      "views": 10410
     }
   ],
   "yearly": [
@@ -87,6 +91,10 @@
     {
       "period": "2025",
       "views": 953091
+    },
+    {
+      "period": "2026",
+      "views": 10410
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "qid": "Q862872",
+  "label": "fatal familial insomnia",
+  "title": "Fatal_familial_insomnia",
+  "description": "Prion disease of the human brain",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cranial_imaging_of_a_FFI_patient.jpg?width=64",
+  "total": 277094,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 32255
+    },
+    {
+      "period": "2016-03",
+      "views": 112087
+    },
+    {
+      "period": "2016-05",
+      "views": 50312
+    },
+    {
+      "period": "2018-01",
+      "views": 70148
+    },
+    {
+      "period": "2026-07",
+      "views": 12292
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 194654
+    },
+    {
+      "period": "2018",
+      "views": 70148
+    },
+    {
+      "period": "2026",
+      "views": 12292
+    }
+  ]
+}

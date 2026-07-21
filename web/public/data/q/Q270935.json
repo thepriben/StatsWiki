@@ -4,7 +4,7 @@
   "title": "Chris_Cornell",
   "description": "American musician (1964–2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChrisCornell2013.jpg?width=64",
-  "total": 12014105,
+  "total": 12029434,
   "monthly": [
     {
       "period": "2015-09",
@@ -289,6 +289,10 @@
     {
       "period": "2026-06",
       "views": 26163
+    },
+    {
+      "period": "2026-07",
+      "views": 15329
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 197800
+      "views": 213129
     }
   ]
 }
