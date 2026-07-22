@@ -4,7 +4,7 @@
   "title": "Lok_Sabha",
   "description": "Lower house of Indian Legislature",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ParliamentOfIndia.jpg?width=64",
-  "total": 6792070,
+  "total": 6801230,
   "monthly": [
     {
       "period": "2017-03",
@@ -205,6 +205,10 @@
     {
       "period": "2026-06",
       "views": 376115
+    },
+    {
+      "period": "2026-07",
+      "views": 9160
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 572883
+      "views": 582043
     }
   ]
 }

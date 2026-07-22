@@ -1,0 +1,64 @@
+{
+  "qid": "Q472166",
+  "label": "Secret Wars",
+  "title": "Secret_Wars",
+  "description": "1984 American comic book limited series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvel_secret_wars_logo.png?width=64",
+  "total": 570619,
+  "monthly": [
+    {
+      "period": "2018-11",
+      "views": 25369
+    },
+    {
+      "period": "2019-04",
+      "views": 50498
+    },
+    {
+      "period": "2019-05",
+      "views": 12624
+    },
+    {
+      "period": "2020-07",
+      "views": 51889
+    },
+    {
+      "period": "2022-07",
+      "views": 350106
+    },
+    {
+      "period": "2024-07",
+      "views": 70429
+    },
+    {
+      "period": "2026-07",
+      "views": 9704
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 25369
+    },
+    {
+      "period": "2019",
+      "views": 63122
+    },
+    {
+      "period": "2020",
+      "views": 51889
+    },
+    {
+      "period": "2022",
+      "views": 350106
+    },
+    {
+      "period": "2024",
+      "views": 70429
+    },
+    {
+      "period": "2026",
+      "views": 9704
+    }
+  ]
+}

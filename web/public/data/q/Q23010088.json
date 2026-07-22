@@ -4,7 +4,7 @@
   "title": "Spider-Man:_Homecoming",
   "description": "2017 film directed by Jon Watts",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-man-homecoming-logo.svg?width=64",
-  "total": 19698787,
+  "total": 19708210,
   "monthly": [
     {
       "period": "2016-04",
@@ -229,6 +229,10 @@
     {
       "period": "2026-03",
       "views": 24382
+    },
+    {
+      "period": "2026-07",
+      "views": 9423
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 24382
+      "views": 33805
     }
   ]
 }

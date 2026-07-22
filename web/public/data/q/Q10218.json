@@ -4,7 +4,7 @@
   "title": "Rahul_Gandhi",
   "description": "Indian politician (1970-present)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rahul_Gandhi.png?width=64",
-  "total": 4280888,
+  "total": 4297119,
   "monthly": [
     {
       "period": "2017-10",
@@ -177,6 +177,10 @@
     {
       "period": "2026-06",
       "views": 12549
+    },
+    {
+      "period": "2026-07",
+      "views": 16231
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 74264
+      "views": 90495
     }
   ]
 }

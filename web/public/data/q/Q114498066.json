@@ -4,7 +4,7 @@
   "title": "D4vd",
   "description": "American singer-songwriter (born 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Anthony_Burke_mugshot_2026.jpg?width=64",
-  "total": 4679856,
+  "total": 4694985,
   "monthly": [
     {
       "period": "2025-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-05",
       "views": 436307
+    },
+    {
+      "period": "2026-07",
+      "views": 15129
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 1649789
+      "views": 1664918
     }
   ]
 }
