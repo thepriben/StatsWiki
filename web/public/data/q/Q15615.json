@@ -4,7 +4,7 @@
   "title": "Lil_Wayne",
   "description": "American rapper (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lil_Wayne_Feb._2020.jpg?width=64",
-  "total": 10350966,
+  "total": 10362214,
   "monthly": [
     {
       "period": "2015-07",
@@ -325,6 +325,10 @@
     {
       "period": "2025-07",
       "views": 12000
+    },
+    {
+      "period": "2026-07",
+      "views": 11248
     }
   ],
   "yearly": [
@@ -371,6 +375,10 @@
     {
       "period": "2025",
       "views": 286581
+    },
+    {
+      "period": "2026",
+      "views": 11248
     }
   ]
 }

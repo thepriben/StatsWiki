@@ -1,0 +1,48 @@
+{
+  "qid": "Q16226012",
+  "label": "Katie Hobbs",
+  "title": "Katie_Hobbs",
+  "description": "Governor of Arizona since 2023",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katie_Hobbs_by_Gage_Skidmore.jpg?width=64",
+  "total": 281566,
+  "monthly": [
+    {
+      "period": "2020-11",
+      "views": 64479
+    },
+    {
+      "period": "2022-08",
+      "views": 13457
+    },
+    {
+      "period": "2022-11",
+      "views": 165190
+    },
+    {
+      "period": "2023-09",
+      "views": 29877
+    },
+    {
+      "period": "2026-07",
+      "views": 8563
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 64479
+    },
+    {
+      "period": "2022",
+      "views": 178647
+    },
+    {
+      "period": "2023",
+      "views": 29877
+    },
+    {
+      "period": "2026",
+      "views": 8563
+    }
+  ]
+}

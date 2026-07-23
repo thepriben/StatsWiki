@@ -1,0 +1,80 @@
+{
+  "qid": "Q178340",
+  "label": "Commonwealth Games",
+  "title": "Commonwealth_Games",
+  "description": "multi-sport event involving athletes from the Commonwealth of Nations",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Birmingham_2022_Opening_Ceremony.jpg?width=64",
+  "total": 2526419,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 9200
+    },
+    {
+      "period": "2018-04",
+      "views": 962553
+    },
+    {
+      "period": "2021-07",
+      "views": 94206
+    },
+    {
+      "period": "2021-08",
+      "views": 160685
+    },
+    {
+      "period": "2022-07",
+      "views": 298033
+    },
+    {
+      "period": "2022-08",
+      "views": 881446
+    },
+    {
+      "period": "2022-09",
+      "views": 24553
+    },
+    {
+      "period": "2023-07",
+      "views": 47090
+    },
+    {
+      "period": "2024-08",
+      "views": 38611
+    },
+    {
+      "period": "2026-07",
+      "views": 10042
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9200
+    },
+    {
+      "period": "2018",
+      "views": 962553
+    },
+    {
+      "period": "2021",
+      "views": 254891
+    },
+    {
+      "period": "2022",
+      "views": 1204032
+    },
+    {
+      "period": "2023",
+      "views": 47090
+    },
+    {
+      "period": "2024",
+      "views": 38611
+    },
+    {
+      "period": "2026",
+      "views": 10042
+    }
+  ]
+}

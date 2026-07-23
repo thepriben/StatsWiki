@@ -4,7 +4,7 @@
   "title": "Marc_Anthony",
   "description": "American singer (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Interview_with_Marc_Anthony_%28cropped%29.png?width=64",
-  "total": 1886603,
+  "total": 1900551,
   "monthly": [
     {
       "period": "2016-03",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 32370
+    },
+    {
+      "period": "2026-07",
+      "views": 13948
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 130249
+      "views": 144197
     }
   ]
 }

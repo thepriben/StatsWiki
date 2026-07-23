@@ -1,0 +1,44 @@
+{
+  "qid": "Q16199304",
+  "label": "Andy Biggs",
+  "title": "Andy_Biggs",
+  "description": "American politician (born 1958)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biggs%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg?width=64",
+  "total": 139971,
+  "monthly": [
+    {
+      "period": "2021-01",
+      "views": 14562
+    },
+    {
+      "period": "2023-01",
+      "views": 87548
+    },
+    {
+      "period": "2023-10",
+      "views": 12044
+    },
+    {
+      "period": "2026-01",
+      "views": 9679
+    },
+    {
+      "period": "2026-07",
+      "views": 16138
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 14562
+    },
+    {
+      "period": "2023",
+      "views": 99592
+    },
+    {
+      "period": "2026",
+      "views": 25817
+    }
+  ]
+}

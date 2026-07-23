@@ -4,7 +4,7 @@
   "title": "Ridley_Scott",
   "description": "English filmmaker (born 1937)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg?width=64",
-  "total": 3261760,
+  "total": 3269948,
   "monthly": [
     {
       "period": "2015-09",
@@ -149,6 +149,10 @@
     {
       "period": "2026-06",
       "views": 10513
+    },
+    {
+      "period": "2026-07",
+      "views": 8188
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 19796
+      "views": 27984
     }
   ]
 }

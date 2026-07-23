@@ -1,0 +1,52 @@
+{
+  "qid": "Q183066",
+  "label": "The Hurt Locker",
+  "title": "The_Hurt_Locker",
+  "description": "2008 film directed by Kathryn Bigelow",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_hurt_locker.svg?width=64",
+  "total": 54470,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 11087
+    },
+    {
+      "period": "2017-02",
+      "views": 10620
+    },
+    {
+      "period": "2020-06",
+      "views": 12578
+    },
+    {
+      "period": "2021-04",
+      "views": 11853
+    },
+    {
+      "period": "2026-07",
+      "views": 8332
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11087
+    },
+    {
+      "period": "2017",
+      "views": 10620
+    },
+    {
+      "period": "2020",
+      "views": 12578
+    },
+    {
+      "period": "2021",
+      "views": 11853
+    },
+    {
+      "period": "2026",
+      "views": 8332
+    }
+  ]
+}

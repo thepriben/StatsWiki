@@ -1,0 +1,44 @@
+{
+  "qid": "Q8272",
+  "label": "Epic of Gilgamesh",
+  "title": "Epic_of_Gilgamesh",
+  "description": "epic poem from Mesopotamia, is amongst the earliest surviving works of literature",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GilgameshTablet.jpg?width=64",
+  "total": 85949,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 39073
+    },
+    {
+      "period": "2021-07",
+      "views": 19653
+    },
+    {
+      "period": "2021-09",
+      "views": 9561
+    },
+    {
+      "period": "2026-02",
+      "views": 8993
+    },
+    {
+      "period": "2026-07",
+      "views": 8669
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 39073
+    },
+    {
+      "period": "2021",
+      "views": 29214
+    },
+    {
+      "period": "2026",
+      "views": 17662
+    }
+  ]
+}

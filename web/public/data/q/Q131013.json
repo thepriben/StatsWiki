@@ -1,0 +1,36 @@
+{
+  "qid": "Q131013",
+  "label": "Acropolis of Athens",
+  "title": "Acropolis_of_Athens",
+  "description": "ancient citadel above the city of Athens",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg?width=64",
+  "total": 38424,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 12582
+    },
+    {
+      "period": "2024-05",
+      "views": 15941
+    },
+    {
+      "period": "2026-07",
+      "views": 9901
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 12582
+    },
+    {
+      "period": "2024",
+      "views": 15941
+    },
+    {
+      "period": "2026",
+      "views": 9901
+    }
+  ]
+}
