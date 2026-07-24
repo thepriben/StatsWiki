@@ -4,7 +4,7 @@
   "title": "Masters_of_the_Universe",
   "description": "American media franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skeletor_and_He-Man.jpg?width=64",
-  "total": 206867,
+  "total": 215823,
   "monthly": [
     {
       "period": "2021-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 89887
+    },
+    {
+      "period": "2026-07",
+      "views": 8956
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 156387
+      "views": 165343
     }
   ]
 }

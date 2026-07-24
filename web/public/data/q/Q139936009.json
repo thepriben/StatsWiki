@@ -4,7 +4,7 @@
   "title": "AEW_Redemption",
   "description": "all Elite Wrestling pay-per-view and livestreaming event",
   "image": "",
-  "total": 25907,
+  "total": 42502,
   "monthly": [
     {
       "period": "2026-06",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-07",
-      "views": 15097
+      "views": 31692
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 25907
+      "views": 42502
     }
   ]
 }

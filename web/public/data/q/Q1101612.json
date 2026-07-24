@@ -1,0 +1,48 @@
+{
+  "qid": "Q1101612",
+  "label": "Clint Howard",
+  "title": "Clint_Howard",
+  "description": "American actor",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clint_Howard_Photo_Op_GalaxyCon_Richmond_2022.jpg?width=64",
+  "total": 220711,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 66561
+    },
+    {
+      "period": "2021-10",
+      "views": 118443
+    },
+    {
+      "period": "2021-11",
+      "views": 10628
+    },
+    {
+      "period": "2024-06",
+      "views": 9123
+    },
+    {
+      "period": "2026-07",
+      "views": 15956
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 66561
+    },
+    {
+      "period": "2021",
+      "views": 129071
+    },
+    {
+      "period": "2024",
+      "views": 9123
+    },
+    {
+      "period": "2026",
+      "views": 15956
+    }
+  ]
+}

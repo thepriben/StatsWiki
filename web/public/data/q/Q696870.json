@@ -4,7 +4,7 @@
   "title": "He-Man_and_the_Masters_of_the_Universe",
   "description": "1983 American animated television series produced by Filmation",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/He-Man_and_the_Masters_of_the_Universe_%28Filmation_animated_series%29_logo.svg?width=64",
-  "total": 158227,
+  "total": 166072,
   "monthly": [
     {
       "period": "2021-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 71038
+    },
+    {
+      "period": "2026-07",
+      "views": 7845
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 92350
+      "views": 100195
     }
   ]
 }

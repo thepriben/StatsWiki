@@ -1,0 +1,60 @@
+{
+  "qid": "Q106392679",
+  "label": "Coyote vs. Acme",
+  "title": "Coyote_vs._Acme",
+  "description": "upcoming film directed by Dave Green",
+  "image": "",
+  "total": 500215,
+  "monthly": [
+    {
+      "period": "2023-11",
+      "views": 98400
+    },
+    {
+      "period": "2024-02",
+      "views": 63931
+    },
+    {
+      "period": "2024-03",
+      "views": 12711
+    },
+    {
+      "period": "2025-03",
+      "views": 58858
+    },
+    {
+      "period": "2025-04",
+      "views": 21115
+    },
+    {
+      "period": "2025-07",
+      "views": 45401
+    },
+    {
+      "period": "2026-04",
+      "views": 185861
+    },
+    {
+      "period": "2026-07",
+      "views": 13938
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 98400
+    },
+    {
+      "period": "2024",
+      "views": 76642
+    },
+    {
+      "period": "2025",
+      "views": 125374
+    },
+    {
+      "period": "2026",
+      "views": 199799
+    }
+  ]
+}

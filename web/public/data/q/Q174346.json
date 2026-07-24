@@ -4,7 +4,7 @@
   "title": "Katie_Holmes",
   "description": "American actress, director, and producer (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katie_Holmes_WHCAD_%28cropped%29.jpg?width=64",
-  "total": 5330420,
+  "total": 5338240,
   "monthly": [
     {
       "period": "2015-07",
@@ -313,6 +313,10 @@
     {
       "period": "2026-06",
       "views": 18378
+    },
+    {
+      "period": "2026-07",
+      "views": 7820
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 168188
+      "views": 176008
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Filmy",
   "description": "Indian movie channel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahara-filmi-tv-logo.svg?width=64",
-  "total": 56531,
+  "total": 74830,
   "monthly": [
     {
       "period": "2026-05",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-07",
-      "views": 33376
+      "views": 51675
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 56531
+      "views": 74830
     }
   ]
 }

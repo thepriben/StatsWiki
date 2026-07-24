@@ -4,17 +4,21 @@
   "title": "Halo:_Campaign_Evolved",
   "description": "2026 remake of the video game Halo: Combat Evolved developed by Halo Studios",
   "image": "",
-  "total": 67974,
+  "total": 85711,
   "monthly": [
     {
       "period": "2026-06",
       "views": 67974
+    },
+    {
+      "period": "2026-07",
+      "views": 17737
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 67974
+      "views": 85711
     }
   ]
 }

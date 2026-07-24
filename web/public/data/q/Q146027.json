@@ -4,7 +4,7 @@
   "title": "One_Direction",
   "description": "English-Irish musical group; boy band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OnedirectionWWATchile_%28cropped%29.jpg?width=64",
-  "total": 10643111,
+  "total": 10657771,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-03",
       "views": 15275
+    },
+    {
+      "period": "2026-07",
+      "views": 14660
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 15275
+      "views": 29935
     }
   ]
 }

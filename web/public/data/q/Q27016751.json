@@ -4,7 +4,7 @@
   "title": "2026_Asian_Games",
   "description": "20th edition of Asian games",
   "image": "",
-  "total": 64582,
+  "total": 73408,
   "monthly": [
     {
       "period": "2018-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 37900
+    },
+    {
+      "period": "2026-07",
+      "views": 8826
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 37900
+      "views": 46726
     }
   ]
 }

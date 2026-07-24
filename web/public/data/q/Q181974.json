@@ -1,0 +1,36 @@
+{
+  "qid": "Q181974",
+  "label": "French Republican calendar",
+  "title": "French_Republican_calendar",
+  "description": "calendar",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Musee-historique-lausanne-img_0143.jpg?width=64",
+  "total": 110019,
+  "monthly": [
+    {
+      "period": "2020-11",
+      "views": 11863
+    },
+    {
+      "period": "2024-09",
+      "views": 90003
+    },
+    {
+      "period": "2026-07",
+      "views": 8153
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 11863
+    },
+    {
+      "period": "2024",
+      "views": 90003
+    },
+    {
+      "period": "2026",
+      "views": 8153
+    }
+  ]
+}

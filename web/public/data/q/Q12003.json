@@ -4,7 +4,7 @@
   "title": "Cher",
   "description": "American singer, actress and television personality (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cher_%2850537941963%29_%28cropped%29.jpg?width=64",
-  "total": 27508846,
+  "total": 27516786,
   "monthly": [
     {
       "period": "2015-08",
@@ -525,6 +525,10 @@
     {
       "period": "2026-06",
       "views": 8722
+    },
+    {
+      "period": "2026-07",
+      "views": 7940
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 1132180
+      "views": 1140120
     }
   ]
 }

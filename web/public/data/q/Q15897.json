@@ -4,7 +4,7 @@
   "title": "Amy_Winehouse",
   "description": "British singer-songwriter (1983–2011)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Winehouse_f4962007_crop.jpg?width=64",
-  "total": 18907008,
+  "total": 18925884,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-06",
       "views": 51047
+    },
+    {
+      "period": "2026-07",
+      "views": 18876
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 419256
+      "views": 438132
     }
   ]
 }

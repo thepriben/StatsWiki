@@ -1,0 +1,68 @@
+{
+  "qid": "Q69854",
+  "label": "Comet Hale-Bopp",
+  "title": "Comet_Hale–Bopp",
+  "description": "long-period comet",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Comet_Hale-Bopp_1995O1.jpg?width=64",
+  "total": 229760,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 12553
+    },
+    {
+      "period": "2016-07",
+      "views": 10861
+    },
+    {
+      "period": "2016-10",
+      "views": 16917
+    },
+    {
+      "period": "2017-08",
+      "views": 9051
+    },
+    {
+      "period": "2020-07",
+      "views": 143961
+    },
+    {
+      "period": "2022-07",
+      "views": 12806
+    },
+    {
+      "period": "2026-03",
+      "views": 12894
+    },
+    {
+      "period": "2026-07",
+      "views": 10717
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12553
+    },
+    {
+      "period": "2016",
+      "views": 27778
+    },
+    {
+      "period": "2017",
+      "views": 9051
+    },
+    {
+      "period": "2020",
+      "views": 143961
+    },
+    {
+      "period": "2022",
+      "views": 12806
+    },
+    {
+      "period": "2026",
+      "views": 23611
+    }
+  ]
+}

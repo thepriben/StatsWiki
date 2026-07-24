@@ -1,0 +1,64 @@
+{
+  "qid": "Q101069738",
+  "label": "Resident Evil: Welcome to Raccoon City",
+  "title": "Resident_Evil:_Welcome_to_Raccoon_City",
+  "description": "2021 film directed by Johannes Roberts",
+  "image": "",
+  "total": 1420222,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 27991
+    },
+    {
+      "period": "2021-08",
+      "views": 43870
+    },
+    {
+      "period": "2021-10",
+      "views": 164625
+    },
+    {
+      "period": "2021-11",
+      "views": 337941
+    },
+    {
+      "period": "2021-12",
+      "views": 502313
+    },
+    {
+      "period": "2022-01",
+      "views": 140802
+    },
+    {
+      "period": "2022-07",
+      "views": 164513
+    },
+    {
+      "period": "2026-04",
+      "views": 16654
+    },
+    {
+      "period": "2026-05",
+      "views": 12792
+    },
+    {
+      "period": "2026-07",
+      "views": 8721
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 1076740
+    },
+    {
+      "period": "2022",
+      "views": 305315
+    },
+    {
+      "period": "2026",
+      "views": 38167
+    }
+  ]
+}
