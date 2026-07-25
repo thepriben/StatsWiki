@@ -4,7 +4,7 @@
   "title": "Banana_Ball",
   "description": "exhibition baseball league",
   "image": "",
-  "total": 382136,
+  "total": 390645,
   "monthly": [
     {
       "period": "2025-04",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 67005
+    },
+    {
+      "period": "2026-07",
+      "views": 8509
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 140666
+      "views": 149175
     }
   ]
 }

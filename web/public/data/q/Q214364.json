@@ -1,0 +1,44 @@
+{
+  "qid": "Q214364",
+  "label": "Alpe d'Huez",
+  "title": "Alpe_d'Huez",
+  "description": "ski resort in France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_central_Alpe_d%27Huez_from_C%C3%B4tes_Souveraines%2C_Huez%2C_2026.jpg?width=64",
+  "total": 76461,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 25021
+    },
+    {
+      "period": "2018-07",
+      "views": 22446
+    },
+    {
+      "period": "2022-07",
+      "views": 16641
+    },
+    {
+      "period": "2026-07",
+      "views": 12353
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 25021
+    },
+    {
+      "period": "2018",
+      "views": 22446
+    },
+    {
+      "period": "2022",
+      "views": 16641
+    },
+    {
+      "period": "2026",
+      "views": 12353
+    }
+  ]
+}

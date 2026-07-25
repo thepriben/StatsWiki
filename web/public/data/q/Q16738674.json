@@ -4,7 +4,7 @@
   "title": "Daisy_Ridley",
   "description": "English actress (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daisy_Ridley_Our_Movie_Guide_2024.png?width=64",
-  "total": 10664151,
+  "total": 10681015,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-05",
       "views": 10879
+    },
+    {
+      "period": "2026-07",
+      "views": 16864
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 10879
+      "views": 27743
     }
   ]
 }

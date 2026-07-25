@@ -4,7 +4,7 @@
   "title": "Tyla",
   "description": "South African singer, songwriter, and dancer (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyla_at_KCAs_2025_01.png?width=64",
-  "total": 272265,
+  "total": 294250,
   "monthly": [
     {
       "period": "2024-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 31646
+    },
+    {
+      "period": "2026-07",
+      "views": 21985
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 74318
+      "views": 96303
     }
   ]
 }

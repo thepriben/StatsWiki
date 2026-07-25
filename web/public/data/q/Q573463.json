@@ -4,7 +4,7 @@
   "title": "Anthony_Joshua",
   "description": "British boxer (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Joshua_2017.png?width=64",
-  "total": 22158648,
+  "total": 22169307,
   "monthly": [
     {
       "period": "2015-09",
@@ -337,6 +337,10 @@
     {
       "period": "2026-05",
       "views": 33213
+    },
+    {
+      "period": "2026-07",
+      "views": 10659
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 394551
+      "views": 405210
     }
   ]
 }

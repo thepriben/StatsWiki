@@ -1,0 +1,28 @@
+{
+  "qid": "Q338071",
+  "label": "euro banknote",
+  "title": "Euro_banknotes",
+  "description": "banknote of the European currency euro",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro_Series_Banknotes_%282019%29_-_centered.png?width=64",
+  "total": 38437,
+  "monthly": [
+    {
+      "period": "2021-02",
+      "views": 29468
+    },
+    {
+      "period": "2026-07",
+      "views": 8969
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 29468
+    },
+    {
+      "period": "2026",
+      "views": 8969
+    }
+  ]
+}

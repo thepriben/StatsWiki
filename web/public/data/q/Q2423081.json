@@ -4,7 +4,7 @@
   "title": "Bindi_Irwin",
   "description": "Australian conservationist and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bindi_Irwin_in_June_2013.jpg?width=64",
-  "total": 2885254,
+  "total": 2896910,
   "monthly": [
     {
       "period": "2015-08",
@@ -153,6 +153,10 @@
     {
       "period": "2025-12",
       "views": 9783
+    },
+    {
+      "period": "2026-07",
+      "views": 11656
     }
   ],
   "yearly": [
@@ -191,6 +195,10 @@
     {
       "period": "2025",
       "views": 416616
+    },
+    {
+      "period": "2026",
+      "views": 11656
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Colony_(2026_film)",
   "description": "upcoming film directed by Yeon Sang-ho",
   "image": "",
-  "total": 360156,
+  "total": 369703,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 151797
+    },
+    {
+      "period": "2026-07",
+      "views": 9547
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 360156
+      "views": 369703
     }
   ]
 }

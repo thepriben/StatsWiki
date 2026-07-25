@@ -1,0 +1,44 @@
+{
+  "qid": "Q17410088",
+  "label": "Air Algérie Flight 5017",
+  "title": "Air_Algérie_Flight_5017",
+  "description": "flight crashed on July 24, 2014",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/McDonnell_Douglas_MD-83_Swiftair_EC-LTV_%288415403452%29.jpg?width=64",
+  "total": 51263,
+  "monthly": [
+    {
+      "period": "2018-07",
+      "views": 13098
+    },
+    {
+      "period": "2022-07",
+      "views": 11625
+    },
+    {
+      "period": "2024-07",
+      "views": 14357
+    },
+    {
+      "period": "2026-07",
+      "views": 12183
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 13098
+    },
+    {
+      "period": "2022",
+      "views": 11625
+    },
+    {
+      "period": "2024",
+      "views": 14357
+    },
+    {
+      "period": "2026",
+      "views": 12183
+    }
+  ]
+}

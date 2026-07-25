@@ -1,0 +1,36 @@
+{
+  "qid": "Q110556821",
+  "label": "Lanterns",
+  "title": "Lanterns_(TV_series)",
+  "description": "upcoming HBO television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lanterns_%28TV_series%29_logo.png?width=64",
+  "total": 243439,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "views": 110817
+    },
+    {
+      "period": "2026-03",
+      "views": 85453
+    },
+    {
+      "period": "2026-05",
+      "views": 33979
+    },
+    {
+      "period": "2026-07",
+      "views": 13190
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 110817
+    },
+    {
+      "period": "2026",
+      "views": 132622
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Kevin_Hart",
   "description": "American comedian and actor (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_Hart_2014_%28cropped_2%29.jpg?width=64",
-  "total": 10438569,
+  "total": 10448727,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-06",
       "views": 9248
+    },
+    {
+      "period": "2026-07",
+      "views": 10158
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 332882
+      "views": 343040
     }
   ]
 }
