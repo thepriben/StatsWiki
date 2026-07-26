@@ -1,0 +1,44 @@
+{
+  "qid": "Q43999",
+  "label": "St. James the Elder",
+  "title": "James_the_Great",
+  "description": "one of the Twelve Apostles of Jesus",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dijon_fine_arts_museum_mg_1626.jpg?width=64",
+  "total": 49768,
+  "monthly": [
+    {
+      "period": "2020-07",
+      "views": 13110
+    },
+    {
+      "period": "2024-07",
+      "views": 13566
+    },
+    {
+      "period": "2025-07",
+      "views": 13341
+    },
+    {
+      "period": "2026-07",
+      "views": 9751
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 13110
+    },
+    {
+      "period": "2024",
+      "views": 13566
+    },
+    {
+      "period": "2025",
+      "views": 13341
+    },
+    {
+      "period": "2026",
+      "views": 9751
+    }
+  ]
+}

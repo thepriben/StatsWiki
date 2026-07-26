@@ -4,7 +4,7 @@
   "title": "Daizen_Maeda",
   "description": "Japanese association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Celtic-20240722-018_%28cropped%29.jpg?width=64",
-  "total": 197280,
+  "total": 208850,
   "monthly": [
     {
       "period": "2021-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 53728
+    },
+    {
+      "period": "2026-07",
+      "views": 11570
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 86936
+      "views": 98506
     }
   ]
 }

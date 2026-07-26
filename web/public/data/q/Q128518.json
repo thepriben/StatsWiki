@@ -4,7 +4,7 @@
   "title": "Gladiator_(2000_film)",
   "description": "2000 film by Ridley Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gladiator_logo.svg?width=64",
-  "total": 6575422,
+  "total": 6598337,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2025-08",
       "views": 41711
+    },
+    {
+      "period": "2026-07",
+      "views": 22915
     }
   ],
   "yearly": [
@@ -343,6 +347,10 @@
     {
       "period": "2025",
       "views": 1112670
+    },
+    {
+      "period": "2026",
+      "views": 22915
     }
   ]
 }

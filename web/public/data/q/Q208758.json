@@ -1,0 +1,28 @@
+{
+  "qid": "Q208758",
+  "label": "Las Meninas",
+  "title": "Las_Meninas",
+  "description": "1656 painting by Diego Velázquez",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg?width=64",
+  "total": 55571,
+  "monthly": [
+    {
+      "period": "2022-11",
+      "views": 18209
+    },
+    {
+      "period": "2026-07",
+      "views": 37362
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 18209
+    },
+    {
+      "period": "2026",
+      "views": 37362
+    }
+  ]
+}

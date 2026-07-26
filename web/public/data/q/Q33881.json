@@ -4,7 +4,7 @@
   "title": "Tour_de_France",
   "description": "multiple-stage bicycle race primarily held in France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellow_jersey_TDF.jpg?width=64",
-  "total": 4330578,
+  "total": 4344070,
   "monthly": [
     {
       "period": "2015-07",
@@ -88,7 +88,7 @@
     },
     {
       "period": "2026-07",
-      "views": 37371
+      "views": 50863
     }
   ],
   "yearly": [
@@ -138,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 37371
+      "views": 50863
     }
   ]
 }

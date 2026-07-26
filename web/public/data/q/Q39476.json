@@ -4,7 +4,7 @@
   "title": "Emma_Watson",
   "description": "English model, activist, and former actress (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma_Watson_2013.jpg?width=64",
-  "total": 42293710,
+  "total": 42304051,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-06",
       "views": 32274
+    },
+    {
+      "period": "2026-07",
+      "views": 10341
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 200518
+      "views": 210859
     }
   ]
 }

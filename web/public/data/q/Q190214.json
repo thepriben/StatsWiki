@@ -4,7 +4,7 @@
   "title": "The_Lord_of_the_Rings_(film_series)",
   "description": "2001-2003 three films directed by Peter Jackson",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LotR21.png?width=64",
-  "total": 9426817,
+  "total": 9436676,
   "monthly": [
     {
       "period": "2015-07",
@@ -381,6 +381,10 @@
     {
       "period": "2026-06",
       "views": 30047
+    },
+    {
+      "period": "2026-07",
+      "views": 9859
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 579475
+      "views": 589334
     }
   ]
 }

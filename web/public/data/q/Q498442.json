@@ -4,7 +4,7 @@
   "title": "Spaceballs",
   "description": "1987 film directed by Mel Brooks",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spaceballs_helmet.JPG?width=64",
-  "total": 357790,
+  "total": 368020,
   "monthly": [
     {
       "period": "2015-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 9252
+    },
+    {
+      "period": "2026-07",
+      "views": 10230
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 35166
+      "views": 45396
     }
   ]
 }

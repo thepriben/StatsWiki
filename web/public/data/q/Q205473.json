@@ -1,0 +1,80 @@
+{
+  "qid": "Q205473",
+  "label": "Girls Aloud",
+  "title": "Girls_Aloud",
+  "description": "British girl group",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Girls_Aloud_%40_The_O2%2C_2024.jpg?width=64",
+  "total": 536308,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 16485
+    },
+    {
+      "period": "2020-08",
+      "views": 12486
+    },
+    {
+      "period": "2021-03",
+      "views": 10950
+    },
+    {
+      "period": "2021-09",
+      "views": 190587
+    },
+    {
+      "period": "2023-09",
+      "views": 33431
+    },
+    {
+      "period": "2023-11",
+      "views": 64290
+    },
+    {
+      "period": "2024-04",
+      "views": 12658
+    },
+    {
+      "period": "2024-05",
+      "views": 10952
+    },
+    {
+      "period": "2024-08",
+      "views": 33895
+    },
+    {
+      "period": "2024-10",
+      "views": 45505
+    },
+    {
+      "period": "2024-11",
+      "views": 96188
+    },
+    {
+      "period": "2026-07",
+      "views": 8881
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 28971
+    },
+    {
+      "period": "2021",
+      "views": 201537
+    },
+    {
+      "period": "2023",
+      "views": 97721
+    },
+    {
+      "period": "2024",
+      "views": 199198
+    },
+    {
+      "period": "2026",
+      "views": 8881
+    }
+  ]
+}

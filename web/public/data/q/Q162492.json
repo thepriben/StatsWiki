@@ -4,7 +4,7 @@
   "title": "Colin_Firth",
   "description": "English actor and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colin_Firth_by_Gage_Skidmore.jpg?width=64",
-  "total": 1567326,
+  "total": 1576175,
   "monthly": [
     {
       "period": "2015-08",
@@ -129,6 +129,10 @@
     {
       "period": "2026-06",
       "views": 102773
+    },
+    {
+      "period": "2026-07",
+      "views": 8849
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 127567
+      "views": 136416
     }
   ]
 }

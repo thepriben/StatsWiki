@@ -4,7 +4,7 @@
   "title": "Jacqui_Heinrich",
   "description": "American news correspondent and anchor (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacqui_Heinrich_at_Jean-Pierre_press_briefing.jpg?width=64",
-  "total": 131834,
+  "total": 169306,
   "monthly": [
     {
       "period": "2025-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 12993
+    },
+    {
+      "period": "2026-07",
+      "views": 37472
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 97329
+      "views": 134801
     }
   ]
 }

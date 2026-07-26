@@ -4,7 +4,7 @@
   "title": "The_Lord_of_the_Rings:_The_Rings_of_Power",
   "description": "2022 television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A.hatalom.gyurui.png?width=64",
-  "total": 11084716,
+  "total": 11093929,
   "monthly": [
     {
       "period": "2022-01",
@@ -69,6 +69,10 @@
     {
       "period": "2025-04",
       "views": 43871
+    },
+    {
+      "period": "2026-07",
+      "views": 9213
     }
   ],
   "yearly": [
@@ -87,6 +91,10 @@
     {
       "period": "2025",
       "views": 43871
+    },
+    {
+      "period": "2026",
+      "views": 9213
     }
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "qid": "Q218941",
+  "label": "Year 2000 problem",
+  "title": "Year_2000_problem",
+  "description": "class of computer bugs related to dates beginning in the year 2000",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bug_de_l%27an_2000.jpg?width=64",
+  "total": 256259,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 9276
+    },
+    {
+      "period": "2018-12",
+      "views": 19496
+    },
+    {
+      "period": "2019-12",
+      "views": 15836
+    },
+    {
+      "period": "2020-01",
+      "views": 36059
+    },
+    {
+      "period": "2020-05",
+      "views": 70108
+    },
+    {
+      "period": "2022-01",
+      "views": 13392
+    },
+    {
+      "period": "2024-01",
+      "views": 29509
+    },
+    {
+      "period": "2024-07",
+      "views": 34158
+    },
+    {
+      "period": "2025-01",
+      "views": 12181
+    },
+    {
+      "period": "2026-07",
+      "views": 16244
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9276
+    },
+    {
+      "period": "2018",
+      "views": 19496
+    },
+    {
+      "period": "2019",
+      "views": 15836
+    },
+    {
+      "period": "2020",
+      "views": 106167
+    },
+    {
+      "period": "2022",
+      "views": 13392
+    },
+    {
+      "period": "2024",
+      "views": 63667
+    },
+    {
+      "period": "2025",
+      "views": 12181
+    },
+    {
+      "period": "2026",
+      "views": 16244
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Frank_Sinatra",
   "description": "American singer and actor (1915–1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Sinatra_%2757.jpg?width=64",
-  "total": 26810180,
+  "total": 26819695,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-06",
       "views": 42626
+    },
+    {
+      "period": "2026-07",
+      "views": 9515
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 228613
+      "views": 238128
     }
   ]
 }

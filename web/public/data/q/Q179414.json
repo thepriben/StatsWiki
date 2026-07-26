@@ -4,7 +4,7 @@
   "title": "Kate_Beckinsale",
   "description": "English actress (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate_Beckinsale_Comic-Con_2011_%28Cropped%29.jpg?width=64",
-  "total": 18153873,
+  "total": 18165677,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-05",
       "views": 10742
+    },
+    {
+      "period": "2026-07",
+      "views": 11804
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 80150
+      "views": 91954
     }
   ]
 }

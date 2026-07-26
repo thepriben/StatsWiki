@@ -4,7 +4,7 @@
   "title": "Hunter_Biden",
   "description": "American businessman and lobbyist (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hunter_Biden_September_30%2C_2014.jpg?width=64",
-  "total": 15703332,
+  "total": 15718843,
   "monthly": [
     {
       "period": "2015-09",
@@ -265,6 +265,10 @@
     {
       "period": "2026-06",
       "views": 138608
+    },
+    {
+      "period": "2026-07",
+      "views": 15511
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 149435
+      "views": 164946
     }
   ]
 }
