@@ -1,0 +1,76 @@
+{
+  "qid": "Q47221",
+  "label": "Taxi Driver",
+  "title": "Taxi_Driver",
+  "description": "1976 film directed by Martin Scorsese",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taxi_Driver_logo.svg?width=64",
+  "total": 405492,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 71146
+    },
+    {
+      "period": "2019-10",
+      "views": 212905
+    },
+    {
+      "period": "2021-06",
+      "views": 14302
+    },
+    {
+      "period": "2021-07",
+      "views": 13808
+    },
+    {
+      "period": "2022-06",
+      "views": 17832
+    },
+    {
+      "period": "2024-02",
+      "views": 15565
+    },
+    {
+      "period": "2024-07",
+      "views": 13369
+    },
+    {
+      "period": "2024-10",
+      "views": 12303
+    },
+    {
+      "period": "2025-04",
+      "views": 11029
+    },
+    {
+      "period": "2026-07",
+      "views": 23233
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 284051
+    },
+    {
+      "period": "2021",
+      "views": 28110
+    },
+    {
+      "period": "2022",
+      "views": 17832
+    },
+    {
+      "period": "2024",
+      "views": 41237
+    },
+    {
+      "period": "2025",
+      "views": 11029
+    },
+    {
+      "period": "2026",
+      "views": 23233
+    }
+  ]
+}

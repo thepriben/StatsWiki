@@ -1,0 +1,76 @@
+{
+  "qid": "Q9233",
+  "label": "Hungarian Grand Prix",
+  "title": "Hungarian_Grand_Prix",
+  "description": "Formula 1 Grand Prix",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hungaroring.svg?width=64",
+  "total": 116236,
+  "monthly": [
+    {
+      "period": "2018-07",
+      "views": 11429
+    },
+    {
+      "period": "2020-07",
+      "views": 12088
+    },
+    {
+      "period": "2021-08",
+      "views": 15741
+    },
+    {
+      "period": "2022-07",
+      "views": 17577
+    },
+    {
+      "period": "2023-07",
+      "views": 21176
+    },
+    {
+      "period": "2024-07",
+      "views": 14461
+    },
+    {
+      "period": "2025-08",
+      "views": 13699
+    },
+    {
+      "period": "2026-07",
+      "views": 10065
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 11429
+    },
+    {
+      "period": "2020",
+      "views": 12088
+    },
+    {
+      "period": "2021",
+      "views": 15741
+    },
+    {
+      "period": "2022",
+      "views": 17577
+    },
+    {
+      "period": "2023",
+      "views": 21176
+    },
+    {
+      "period": "2024",
+      "views": 14461
+    },
+    {
+      "period": "2025",
+      "views": 13699
+    },
+    {
+      "period": "2026",
+      "views": 10065
+    }
+  ]
+}

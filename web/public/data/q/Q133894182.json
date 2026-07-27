@@ -1,0 +1,32 @@
+{
+  "qid": "Q133894182",
+  "label": "Star Wars: Starfighter",
+  "title": "Star_Wars:_Starfighter",
+  "description": "upcoming film directed by Shawn Levy",
+  "image": "",
+  "total": 81049,
+  "monthly": [
+    {
+      "period": "2025-04",
+      "views": 16067
+    },
+    {
+      "period": "2026-01",
+      "views": 20979
+    },
+    {
+      "period": "2026-07",
+      "views": 44003
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 16067
+    },
+    {
+      "period": "2026",
+      "views": 64982
+    }
+  ]
+}

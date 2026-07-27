@@ -1,0 +1,28 @@
+{
+  "qid": "Q8082",
+  "label": "Malaysian Grand Prix",
+  "title": "Malaysian_Grand_Prix",
+  "description": "Formula 1 Grand Prix",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sepang.svg?width=64",
+  "total": 32579,
+  "monthly": [
+    {
+      "period": "2017-10",
+      "views": 13932
+    },
+    {
+      "period": "2026-07",
+      "views": 18647
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 13932
+    },
+    {
+      "period": "2026",
+      "views": 18647
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Helen_Mirren",
   "description": "English actress (born 1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Helen_Mirren-2208.jpg?width=64",
-  "total": 6273814,
+  "total": 6292267,
   "monthly": [
     {
       "period": "2015-07",
@@ -281,6 +281,10 @@
     {
       "period": "2026-06",
       "views": 19926
+    },
+    {
+      "period": "2026-07",
+      "views": 18453
     }
   ],
   "yearly": [
@@ -330,7 +334,7 @@
     },
     {
       "period": "2026",
-      "views": 335383
+      "views": 353836
     }
   ]
 }

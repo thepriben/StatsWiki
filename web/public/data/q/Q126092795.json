@@ -1,0 +1,32 @@
+{
+  "qid": "Q126092795",
+  "label": "VisionQuest",
+  "title": "VisionQuest",
+  "description": "upcoming superhero television miniseries",
+  "image": "",
+  "total": 30574,
+  "monthly": [
+    {
+      "period": "2025-10",
+      "views": 11095
+    },
+    {
+      "period": "2026-05",
+      "views": 9679
+    },
+    {
+      "period": "2026-07",
+      "views": 9800
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 11095
+    },
+    {
+      "period": "2026",
+      "views": 19479
+    }
+  ]
+}

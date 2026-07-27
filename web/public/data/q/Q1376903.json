@@ -1,0 +1,48 @@
+{
+  "qid": "Q1376903",
+  "label": "Andruw Jones",
+  "title": "Andruw_Jones",
+  "description": "Major League Baseball center fielder",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andruw_Jones_2011.jpg?width=64",
+  "total": 123815,
+  "monthly": [
+    {
+      "period": "2019-10",
+      "views": 12193
+    },
+    {
+      "period": "2022-07",
+      "views": 29057
+    },
+    {
+      "period": "2023-09",
+      "views": 12256
+    },
+    {
+      "period": "2026-01",
+      "views": 54897
+    },
+    {
+      "period": "2026-07",
+      "views": 15412
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 12193
+    },
+    {
+      "period": "2022",
+      "views": 29057
+    },
+    {
+      "period": "2023",
+      "views": 12256
+    },
+    {
+      "period": "2026",
+      "views": 70309
+    }
+  ]
+}

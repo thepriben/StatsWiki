@@ -1,0 +1,44 @@
+{
+  "qid": "Q204632",
+  "label": "Gaelic football",
+  "title": "Gaelic_football",
+  "description": "Irish team sport, form of football",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aidan_O%27Mahony_%26_Eoin_Bradley.jpg?width=64",
+  "total": 70992,
+  "monthly": [
+    {
+      "period": "2017-09",
+      "views": 10161
+    },
+    {
+      "period": "2023-07",
+      "views": 25009
+    },
+    {
+      "period": "2024-07",
+      "views": 20107
+    },
+    {
+      "period": "2026-07",
+      "views": 15715
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 10161
+    },
+    {
+      "period": "2023",
+      "views": 25009
+    },
+    {
+      "period": "2024",
+      "views": 20107
+    },
+    {
+      "period": "2026",
+      "views": 15715
+    }
+  ]
+}

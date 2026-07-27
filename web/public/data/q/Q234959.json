@@ -4,7 +4,7 @@
   "title": "Hayley_Atwell",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HVFFLondon2017Cap-ALS-29_%2835183142201%29_Cropped.jpg?width=64",
-  "total": 4313066,
+  "total": 4323825,
   "monthly": [
     {
       "period": "2015-07",
@@ -189,6 +189,10 @@
     {
       "period": "2026-06",
       "views": 18617
+    },
+    {
+      "period": "2026-07",
+      "views": 10759
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 28821
+      "views": 39580
     }
   ]
 }
