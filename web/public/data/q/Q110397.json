@@ -1,0 +1,44 @@
+{
+  "qid": "Q110397",
+  "label": "True Lies",
+  "title": "True_Lies",
+  "description": "1994 film by James Cameron",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/True_lies_de.svg?width=64",
+  "total": 112605,
+  "monthly": [
+    {
+      "period": "2017-02",
+      "views": 32058
+    },
+    {
+      "period": "2018-01",
+      "views": 41163
+    },
+    {
+      "period": "2022-12",
+      "views": 24244
+    },
+    {
+      "period": "2026-07",
+      "views": 15140
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 32058
+    },
+    {
+      "period": "2018",
+      "views": 41163
+    },
+    {
+      "period": "2022",
+      "views": 24244
+    },
+    {
+      "period": "2026",
+      "views": 15140
+    }
+  ]
+}

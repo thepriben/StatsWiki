@@ -4,7 +4,7 @@
   "title": "Charlie_Chaplin",
   "description": "English comic actor and filmmaker (1889–1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Chaplin_portrait_Getty_1739411952.jpg?width=64",
-  "total": 12909205,
+  "total": 12917889,
   "monthly": [
     {
       "period": "2015-07",
@@ -505,6 +505,10 @@
     {
       "period": "2026-06",
       "views": 15064
+    },
+    {
+      "period": "2026-07",
+      "views": 8684
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 571305
+      "views": 579989
     }
   ]
 }

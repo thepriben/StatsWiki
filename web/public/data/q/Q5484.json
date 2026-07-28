@@ -1,0 +1,76 @@
+{
+  "qid": "Q5484",
+  "label": "Caspian Sea",
+  "title": "Caspian_Sea",
+  "description": "largest landlocked salt lake, located between Europe and Asia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspian_Sea_from_orbit.jpg?width=64",
+  "total": 165273,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 67949
+    },
+    {
+      "period": "2016-05",
+      "views": 13900
+    },
+    {
+      "period": "2016-06",
+      "views": 10517
+    },
+    {
+      "period": "2018-08",
+      "views": 15489
+    },
+    {
+      "period": "2023-06",
+      "views": 10333
+    },
+    {
+      "period": "2024-03",
+      "views": 11315
+    },
+    {
+      "period": "2024-10",
+      "views": 12590
+    },
+    {
+      "period": "2025-06",
+      "views": 11199
+    },
+    {
+      "period": "2026-07",
+      "views": 11981
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 67949
+    },
+    {
+      "period": "2016",
+      "views": 24417
+    },
+    {
+      "period": "2018",
+      "views": 15489
+    },
+    {
+      "period": "2023",
+      "views": 10333
+    },
+    {
+      "period": "2024",
+      "views": 23905
+    },
+    {
+      "period": "2025",
+      "views": 11199
+    },
+    {
+      "period": "2026",
+      "views": 11981
+    }
+  ]
+}

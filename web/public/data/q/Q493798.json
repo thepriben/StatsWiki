@@ -1,0 +1,64 @@
+{
+  "qid": "Q493798",
+  "label": "SS Andrea Doria",
+  "title": "SS_Andrea_Doria",
+  "description": "ocean liner",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TN_Andrea_Doria.jpg?width=64",
+  "total": 216607,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 17227
+    },
+    {
+      "period": "2016-05",
+      "views": 9548
+    },
+    {
+      "period": "2016-06",
+      "views": 17698
+    },
+    {
+      "period": "2017-07",
+      "views": 9765
+    },
+    {
+      "period": "2023-06",
+      "views": 74033
+    },
+    {
+      "period": "2025-06",
+      "views": 76627
+    },
+    {
+      "period": "2026-07",
+      "views": 11709
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 17227
+    },
+    {
+      "period": "2016",
+      "views": 27246
+    },
+    {
+      "period": "2017",
+      "views": 9765
+    },
+    {
+      "period": "2023",
+      "views": 74033
+    },
+    {
+      "period": "2025",
+      "views": 76627
+    },
+    {
+      "period": "2026",
+      "views": 11709
+    }
+  ]
+}

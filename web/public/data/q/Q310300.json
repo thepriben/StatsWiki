@@ -4,7 +4,7 @@
   "title": "James_Taylor",
   "description": "American singer and guitarist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Taylor_at_Tanglewood.jpg?width=64",
-  "total": 1564238,
+  "total": 1582425,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 24144
+    },
+    {
+      "period": "2026-07",
+      "views": 18187
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 138900
+      "views": 157087
     }
   ]
 }

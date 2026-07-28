@@ -4,17 +4,21 @@
   "title": "All_In_(2026)",
   "description": "all Elite Wrestling pay-per-view event",
   "image": "",
-  "total": 14797,
+  "total": 32133,
   "monthly": [
     {
       "period": "2026-06",
       "views": 14797
+    },
+    {
+      "period": "2026-07",
+      "views": 17336
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 14797
+      "views": 32133
     }
   ]
 }

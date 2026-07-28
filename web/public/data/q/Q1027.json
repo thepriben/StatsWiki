@@ -4,7 +4,7 @@
   "title": "Mauritius",
   "description": "island sovereign state off of East Africa in the Indian Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauritius_23.08.2009_11-42-31.jpg?width=64",
-  "total": 4275779,
+  "total": 4284852,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-06",
       "views": 9651
+    },
+    {
+      "period": "2026-07",
+      "views": 9073
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 289505
+      "views": 298578
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Ian_Fleming",
   "description": "British author (1908–1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ian_Fleming_c._1958.jpg?width=64",
-  "total": 975337,
+  "total": 989094,
   "monthly": [
     {
       "period": "2015-10",
@@ -117,6 +117,10 @@
     {
       "period": "2026-06",
       "views": 9044
+    },
+    {
+      "period": "2026-07",
+      "views": 13757
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 40486
+      "views": 54243
     }
   ]
 }

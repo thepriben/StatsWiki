@@ -4,7 +4,7 @@
   "title": "Korean_War",
   "description": "war between North and South Korea, 1950–1953",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_War_Montage_2.png?width=64",
-  "total": 9900229,
+  "total": 9909121,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-06",
       "views": 8351
+    },
+    {
+      "period": "2026-07",
+      "views": 8892
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 158809
+      "views": 167701
     }
   ]
 }

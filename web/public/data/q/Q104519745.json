@@ -4,7 +4,7 @@
   "title": "FitGirl_Repacks",
   "description": "video game repacker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FitGirl_logo.png?width=64",
-  "total": 101517,
+  "total": 113024,
   "monthly": [
     {
       "period": "2022-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 10501
+    },
+    {
+      "period": "2026-07",
+      "views": 11507
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 38179
+      "views": 49686
     }
   ]
 }

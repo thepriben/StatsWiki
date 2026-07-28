@@ -4,17 +4,21 @@
   "title": "Onslaught_(film)",
   "description": "upcoming film directed by Adam Wingard",
   "image": "",
-  "total": 28901,
+  "total": 40564,
   "monthly": [
     {
       "period": "2026-06",
       "views": 28901
+    },
+    {
+      "period": "2026-07",
+      "views": 11663
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 28901
+      "views": 40564
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "qid": "Q113838713",
+  "label": "The Walking Dead: Dead City",
+  "title": "The_Walking_Dead:_Dead_City",
+  "description": "American television series",
+  "image": "",
+  "total": 699522,
+  "monthly": [
+    {
+      "period": "2022-11",
+      "views": 12159
+    },
+    {
+      "period": "2023-06",
+      "views": 267861
+    },
+    {
+      "period": "2023-07",
+      "views": 291991
+    },
+    {
+      "period": "2025-05",
+      "views": 58864
+    },
+    {
+      "period": "2025-06",
+      "views": 58056
+    },
+    {
+      "period": "2026-07",
+      "views": 10591
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 12159
+    },
+    {
+      "period": "2023",
+      "views": 559852
+    },
+    {
+      "period": "2025",
+      "views": 116920
+    },
+    {
+      "period": "2026",
+      "views": 10591
+    }
+  ]
+}

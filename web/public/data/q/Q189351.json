@@ -4,7 +4,7 @@
   "title": "Sean_Astin",
   "description": "American actor (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean_Astin_2_SDCC_2014.jpg?width=64",
-  "total": 3928485,
+  "total": 3941806,
   "monthly": [
     {
       "period": "2015-10",
@@ -185,6 +185,10 @@
     {
       "period": "2026-06",
       "views": 30058
+    },
+    {
+      "period": "2026-07",
+      "views": 13321
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 283776
+      "views": 297097
     }
   ]
 }

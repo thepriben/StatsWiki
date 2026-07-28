@@ -4,7 +4,7 @@
   "title": "Amanda_Bynes",
   "description": "American actress and fashion designer (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amanda_Bynes_on_the_Red_Carpet_%28cropped2%29.jpg?width=64",
-  "total": 6193782,
+  "total": 6202444,
   "monthly": [
     {
       "period": "2015-07",
@@ -265,6 +265,10 @@
     {
       "period": "2026-06",
       "views": 15676
+    },
+    {
+      "period": "2026-07",
+      "views": 8662
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 195924
+      "views": 204586
     }
   ]
 }

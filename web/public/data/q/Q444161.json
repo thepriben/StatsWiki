@@ -1,0 +1,32 @@
+{
+  "qid": "Q444161",
+  "label": "Ogallala Aquifer",
+  "title": "Ogallala_Aquifer",
+  "description": "Shallow Aquifer",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogallala_saturated_thickness_1997-sattk97-v2.svg?width=64",
+  "total": 45158,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 13288
+    },
+    {
+      "period": "2016-11",
+      "views": 16192
+    },
+    {
+      "period": "2026-07",
+      "views": 15678
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 29480
+    },
+    {
+      "period": "2026",
+      "views": 15678
+    }
+  ]
+}
