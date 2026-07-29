@@ -4,7 +4,7 @@
   "title": "Adria_Arjona",
   "description": "American actress (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adria_Arjona-7303_%28cropped%29.jpg?width=64",
-  "total": 3205080,
+  "total": 3215585,
   "monthly": [
     {
       "period": "2017-01",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 45552
+    },
+    {
+      "period": "2026-07",
+      "views": 10505
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 275106
+      "views": 285611
     }
   ]
 }

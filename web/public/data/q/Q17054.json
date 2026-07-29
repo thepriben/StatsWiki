@@ -1,0 +1,60 @@
+{
+  "qid": "Q17054",
+  "label": "Martinique",
+  "title": "Martinique",
+  "description": "island in the Lesser Antilles, overseas region and department of France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martinique_14.6346N_61.0051W_Landsat7.jpg?width=64",
+  "total": 216112,
+  "monthly": [
+    {
+      "period": "2017-07",
+      "views": 66742
+    },
+    {
+      "period": "2019-06",
+      "views": 45019
+    },
+    {
+      "period": "2021-07",
+      "views": 31192
+    },
+    {
+      "period": "2022-07",
+      "views": 21254
+    },
+    {
+      "period": "2024-08",
+      "views": 43887
+    },
+    {
+      "period": "2026-07",
+      "views": 8018
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 66742
+    },
+    {
+      "period": "2019",
+      "views": 45019
+    },
+    {
+      "period": "2021",
+      "views": 31192
+    },
+    {
+      "period": "2022",
+      "views": 21254
+    },
+    {
+      "period": "2024",
+      "views": 43887
+    },
+    {
+      "period": "2026",
+      "views": 8018
+    }
+  ]
+}

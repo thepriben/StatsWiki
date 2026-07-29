@@ -4,7 +4,7 @@
   "title": "Watts_family_murders",
   "description": "murders by Chris Watts of his wife and daughters in Colorado in 2018",
   "image": "",
-  "total": 7156788,
+  "total": 7165345,
   "monthly": [
     {
       "period": "2019-10",
@@ -233,6 +233,10 @@
     {
       "period": "2026-06",
       "views": 40294
+    },
+    {
+      "period": "2026-07",
+      "views": 8557
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 140795
+      "views": 149352
     }
   ]
 }

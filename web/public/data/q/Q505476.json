@@ -4,7 +4,7 @@
   "title": "Avicii",
   "description": "Swedish electronic music producer (1989–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avicii_2014_003cr.jpg?width=64",
-  "total": 17504960,
+  "total": 17547982,
   "monthly": [
     {
       "period": "2015-07",
@@ -273,6 +273,10 @@
     {
       "period": "2026-04",
       "views": 36023
+    },
+    {
+      "period": "2026-07",
+      "views": 43022
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 46240
+      "views": 89262
     }
   ]
 }

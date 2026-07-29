@@ -4,7 +4,7 @@
   "title": "Gavin_Newsom",
   "description": "40th governor of California since 2019",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gavin_Newsom_official_photo.jpg?width=64",
-  "total": 12612086,
+  "total": 12623765,
   "monthly": [
     {
       "period": "2015-11",
@@ -301,6 +301,10 @@
     {
       "period": "2026-06",
       "views": 119334
+    },
+    {
+      "period": "2026-07",
+      "views": 11679
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 1569177
+      "views": 1580856
     }
   ]
 }

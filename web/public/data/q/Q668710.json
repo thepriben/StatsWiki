@@ -1,0 +1,56 @@
+{
+  "qid": "Q668710",
+  "label": "Washington National Cathedral",
+  "title": "Washington_National_Cathedral",
+  "description": "Neo-Gothic cathedral located in Washington, D.C.",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12-07-12-Washington_National_Cathedral-RalfR-N3S_5678-5694.jpg?width=64",
+  "total": 358538,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 27734
+    },
+    {
+      "period": "2018-09",
+      "views": 85362
+    },
+    {
+      "period": "2018-12",
+      "views": 102995
+    },
+    {
+      "period": "2021-11",
+      "views": 12214
+    },
+    {
+      "period": "2025-01",
+      "views": 120976
+    },
+    {
+      "period": "2026-07",
+      "views": 9257
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 27734
+    },
+    {
+      "period": "2018",
+      "views": 188357
+    },
+    {
+      "period": "2021",
+      "views": 12214
+    },
+    {
+      "period": "2025",
+      "views": 120976
+    },
+    {
+      "period": "2026",
+      "views": 9257
+    }
+  ]
+}

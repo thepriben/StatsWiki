@@ -4,7 +4,7 @@
   "title": "Fritzl_case",
   "description": "criminal case",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haus_familie_f.jpg?width=64",
-  "total": 6678968,
+  "total": 6688198,
   "monthly": [
     {
       "period": "2015-08",
@@ -273,6 +273,10 @@
     {
       "period": "2026-06",
       "views": 32330
+    },
+    {
+      "period": "2026-07",
+      "views": 9230
     }
   ],
   "yearly": [
@@ -322,7 +326,7 @@
     },
     {
       "period": "2026",
-      "views": 124252
+      "views": 133482
     }
   ]
 }

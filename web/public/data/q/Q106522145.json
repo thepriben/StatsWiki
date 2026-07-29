@@ -4,7 +4,7 @@
   "title": "Max_Miller_(politician)",
   "description": "American politician (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Miller%2C_official_portrait_%28119th_Congress%29.jpg?width=64",
-  "total": 69869,
+  "total": 83878,
   "monthly": [
     {
       "period": "2023-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 8864
+    },
+    {
+      "period": "2026-07",
+      "views": 14009
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 8864
+      "views": 22873
     }
   ]
 }

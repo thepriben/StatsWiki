@@ -1,0 +1,28 @@
+{
+  "qid": "Q23825118",
+  "label": "2016 Kumamoto earthquakes",
+  "title": "2016_Kumamoto_earthquakes",
+  "description": "natural disaster in Japan",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Destroyed_house_by_2016_Kumamoto_earthquake.jpg?width=64",
+  "total": 154082,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 143266
+    },
+    {
+      "period": "2026-07",
+      "views": 10816
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 143266
+    },
+    {
+      "period": "2026",
+      "views": 10816
+    }
+  ]
+}
