@@ -1,0 +1,48 @@
+{
+  "qid": "Q2464643",
+  "label": "solar eclipse of August 12, 2026",
+  "title": "Solar_eclipse_of_August_12,_2026",
+  "description": "astronomical event",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE2026Aug12T.gif?width=64",
+  "total": 172611,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 28943
+    },
+    {
+      "period": "2024-04",
+      "views": 115022
+    },
+    {
+      "period": "2025-03",
+      "views": 10024
+    },
+    {
+      "period": "2026-03",
+      "views": 10147
+    },
+    {
+      "period": "2026-07",
+      "views": 8475
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 28943
+    },
+    {
+      "period": "2024",
+      "views": 115022
+    },
+    {
+      "period": "2025",
+      "views": 10024
+    },
+    {
+      "period": "2026",
+      "views": 18622
+    }
+  ]
+}

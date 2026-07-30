@@ -4,7 +4,7 @@
   "title": "The_Devil_Wears_Prada_(film)",
   "description": "2006 film directed by David Frankel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_devil_wears_prada_logotipo.jpg?width=64",
-  "total": 2194717,
+  "total": 2205599,
   "monthly": [
     {
       "period": "2018-08",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 18564
+    },
+    {
+      "period": "2026-07",
+      "views": 10882
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 1882650
+      "views": 1893532
     }
   ]
 }

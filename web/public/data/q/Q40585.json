@@ -1,0 +1,76 @@
+{
+  "qid": "Q40585",
+  "label": "30 Seconds to Mars",
+  "title": "Thirty_Seconds_to_Mars",
+  "description": "American rock band from California",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thirty_Seconds_to_Mars%2C_Moscow_%283%29.jpg?width=64",
+  "total": 368101,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 8619
+    },
+    {
+      "period": "2017-08",
+      "views": 30993
+    },
+    {
+      "period": "2018-04",
+      "views": 26927
+    },
+    {
+      "period": "2022-04",
+      "views": 23516
+    },
+    {
+      "period": "2023-09",
+      "views": 92716
+    },
+    {
+      "period": "2023-10",
+      "views": 12067
+    },
+    {
+      "period": "2023-11",
+      "views": 46200
+    },
+    {
+      "period": "2024-01",
+      "views": 106217
+    },
+    {
+      "period": "2026-07",
+      "views": 20846
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 8619
+    },
+    {
+      "period": "2017",
+      "views": 30993
+    },
+    {
+      "period": "2018",
+      "views": 26927
+    },
+    {
+      "period": "2022",
+      "views": 23516
+    },
+    {
+      "period": "2023",
+      "views": 150983
+    },
+    {
+      "period": "2024",
+      "views": 106217
+    },
+    {
+      "period": "2026",
+      "views": 20846
+    }
+  ]
+}

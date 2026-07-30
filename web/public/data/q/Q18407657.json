@@ -4,7 +4,7 @@
   "title": "Captain_America:_Civil_War",
   "description": "2016 film by Anthony and Joe Russo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian-lynch-premiere-captain-america-civil-war-01.jpg?width=64",
-  "total": 27852629,
+  "total": 27860731,
   "monthly": [
     {
       "period": "2015-07",
@@ -217,6 +217,10 @@
     {
       "period": "2025-02",
       "views": 16492
+    },
+    {
+      "period": "2026-07",
+      "views": 8102
     }
   ],
   "yearly": [
@@ -255,6 +259,10 @@
     {
       "period": "2025",
       "views": 16492
+    },
+    {
+      "period": "2026",
+      "views": 8102
     }
   ]
 }

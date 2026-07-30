@@ -4,7 +4,7 @@
   "title": "Wikipedia:Citation_needed",
   "description": "Wikipedia information page",
   "image": "",
-  "total": 38405336,
+  "total": 38413031,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-06",
       "views": 87851
+    },
+    {
+      "period": "2026-07",
+      "views": 7695
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 427233
+      "views": 434928
     }
   ]
 }

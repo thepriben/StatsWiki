@@ -4,7 +4,7 @@
   "title": "James_VI_and_I",
   "description": "King of Scotland from 1566 to 1625, King of England and Ireland from 1603 to 1625",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_de_Critz_-_James_VI_and_I%2C_1566_-_1625._King_of_Scotland_1567_-_1625._King_of_England_and_Ireland_1603_-_1625_-_PG_561_-_National_Galleries_of_Scotland.jpg?width=64",
-  "total": 5402803,
+  "total": 5419316,
   "monthly": [
     {
       "period": "2015-09",
@@ -241,6 +241,10 @@
     {
       "period": "2026-06",
       "views": 12214
+    },
+    {
+      "period": "2026-07",
+      "views": 16513
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 21420
+      "views": 37933
     }
   ]
 }

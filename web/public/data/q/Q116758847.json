@@ -4,7 +4,7 @@
   "title": "Anthropic",
   "description": "American artificial intelligence corporation",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg?width=64",
-  "total": 2198045,
+  "total": 2206634,
   "monthly": [
     {
       "period": "2023-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 295440
+    },
+    {
+      "period": "2026-07",
+      "views": 8589
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 2146331
+      "views": 2154920
     }
   ]
 }

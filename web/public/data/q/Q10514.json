@@ -4,7 +4,7 @@
   "title": "Fernando_Alonso",
   "description": "Spanish racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alonso_2016.jpg?width=64",
-  "total": 2266855,
+  "total": 2275660,
   "monthly": [
     {
       "period": "2016-03",
@@ -189,6 +189,10 @@
     {
       "period": "2026-06",
       "views": 22987
+    },
+    {
+      "period": "2026-07",
+      "views": 8805
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 90937
+      "views": 99742
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Benito_Mussolini",
   "description": "dictator of Italy from 1922 to 1945",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mussolini_mezzobusto.jpg?width=64",
-  "total": 4988643,
+  "total": 4996503,
   "monthly": [
     {
       "period": "2015-12",
@@ -333,6 +333,10 @@
     {
       "period": "2026-06",
       "views": 8942
+    },
+    {
+      "period": "2026-07",
+      "views": 7860
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 179107
+      "views": 186967
     }
   ]
 }

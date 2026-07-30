@@ -1,0 +1,52 @@
+{
+  "qid": "Q3520498",
+  "label": "Dallas Buyers Club",
+  "title": "Dallas_Buyers_Club",
+  "description": "2013 film by Jean-Marc Vallée",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Buyers_Club_logo.png?width=64",
+  "total": 96865,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 27330
+    },
+    {
+      "period": "2017-01",
+      "views": 28308
+    },
+    {
+      "period": "2021-12",
+      "views": 16249
+    },
+    {
+      "period": "2024-12",
+      "views": 16611
+    },
+    {
+      "period": "2026-07",
+      "views": 8367
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 27330
+    },
+    {
+      "period": "2017",
+      "views": 28308
+    },
+    {
+      "period": "2021",
+      "views": 16249
+    },
+    {
+      "period": "2024",
+      "views": 16611
+    },
+    {
+      "period": "2026",
+      "views": 8367
+    }
+  ]
+}

@@ -4,17 +4,21 @@
   "title": "Jumanji_(film)",
   "description": "1995 film directed by Joe Johnston",
   "image": "",
-  "total": 33652,
+  "total": 47277,
   "monthly": [
     {
       "period": "2026-06",
       "views": 33652
+    },
+    {
+      "period": "2026-07",
+      "views": 13625
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 33652
+      "views": 47277
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Stan_Lee",
   "description": "American comic book writer, editor, publisher, and producer (1922–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stan_Lee_December_2016.jpg?width=64",
-  "total": 17873456,
+  "total": 17881945,
   "monthly": [
     {
       "period": "2015-07",
@@ -301,6 +301,10 @@
     {
       "period": "2025-11",
       "views": 11621
+    },
+    {
+      "period": "2026-07",
+      "views": 8489
     }
   ],
   "yearly": [
@@ -347,6 +351,10 @@
     {
       "period": "2025",
       "views": 71164
+    },
+    {
+      "period": "2026",
+      "views": 8489
     }
   ]
 }
