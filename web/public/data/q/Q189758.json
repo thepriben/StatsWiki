@@ -4,7 +4,7 @@
   "title": "Marvin_Gaye",
   "description": "American R&B and soul singer (1939–1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvin_Gaye_%281973_publicity_photo%29.jpg?width=64",
-  "total": 2681831,
+  "total": 2753630,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-04",
       "views": 75704
+    },
+    {
+      "period": "2026-07",
+      "views": 71799
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 75704
+      "views": 147503
     }
   ]
 }

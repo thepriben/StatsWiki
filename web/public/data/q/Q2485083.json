@@ -4,7 +4,7 @@
   "title": "Suicide_methods",
   "description": "means by which a person completes suicide",
   "image": "",
-  "total": 10721414,
+  "total": 10729425,
   "monthly": [
     {
       "period": "2019-03",
@@ -221,6 +221,10 @@
     {
       "period": "2026-06",
       "views": 43065
+    },
+    {
+      "period": "2026-07",
+      "views": 8011
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 731695
+      "views": 739706
     }
   ]
 }

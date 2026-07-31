@@ -4,7 +4,7 @@
   "title": "Wayne_Newton",
   "description": "American singer and entertainer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wayne_Newton_in_Washington_D.C.jpg?width=64",
-  "total": 767783,
+  "total": 777473,
   "monthly": [
     {
       "period": "2015-09",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 17182
+    },
+    {
+      "period": "2026-07",
+      "views": 9690
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 17182
+      "views": 26872
     }
   ]
 }

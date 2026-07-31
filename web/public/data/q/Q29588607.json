@@ -4,7 +4,7 @@
   "title": "Spider-Man:_Into_the_Spider-Verse",
   "description": "2018 animated film directed by Bob Persichetti, Peter Ramsey and Rodney Rothman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-Man_ITSV.png?width=64",
-  "total": 11436903,
+  "total": 11445496,
   "monthly": [
     {
       "period": "2017-12",
@@ -137,6 +137,10 @@
     {
       "period": "2025-04",
       "views": 9416
+    },
+    {
+      "period": "2026-07",
+      "views": 8593
     }
   ],
   "yearly": [
@@ -171,6 +175,10 @@
     {
       "period": "2025",
       "views": 9416
+    },
+    {
+      "period": "2026",
+      "views": 8593
     }
   ]
 }

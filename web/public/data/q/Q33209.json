@@ -1,0 +1,100 @@
+{
+  "qid": "Q33209",
+  "label": "Mary Celeste",
+  "title": "Mary_Celeste",
+  "description": "Ship found abandoned in the Atlantic Ocean in 1872",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Celeste_as_Amazon_in_1861.jpg?width=64",
+  "total": 440156,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 104671
+    },
+    {
+      "period": "2016-07",
+      "views": 14604
+    },
+    {
+      "period": "2016-08",
+      "views": 11108
+    },
+    {
+      "period": "2016-12",
+      "views": 35683
+    },
+    {
+      "period": "2017-03",
+      "views": 11339
+    },
+    {
+      "period": "2017-08",
+      "views": 18985
+    },
+    {
+      "period": "2017-11",
+      "views": 15135
+    },
+    {
+      "period": "2019-01",
+      "views": 62238
+    },
+    {
+      "period": "2019-12",
+      "views": 32456
+    },
+    {
+      "period": "2020-02",
+      "views": 10460
+    },
+    {
+      "period": "2020-06",
+      "views": 24604
+    },
+    {
+      "period": "2023-12",
+      "views": 28785
+    },
+    {
+      "period": "2024-12",
+      "views": 26196
+    },
+    {
+      "period": "2026-07",
+      "views": 43892
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 104671
+    },
+    {
+      "period": "2016",
+      "views": 61395
+    },
+    {
+      "period": "2017",
+      "views": 45459
+    },
+    {
+      "period": "2019",
+      "views": 94694
+    },
+    {
+      "period": "2020",
+      "views": 35064
+    },
+    {
+      "period": "2023",
+      "views": 28785
+    },
+    {
+      "period": "2024",
+      "views": 26196
+    },
+    {
+      "period": "2026",
+      "views": 43892
+    }
+  ]
+}

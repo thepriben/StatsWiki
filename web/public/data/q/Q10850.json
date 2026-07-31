@@ -4,7 +4,7 @@
   "title": "Rodent",
   "description": "order of mammals",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamias_striatus_CT.jpg?width=64",
-  "total": 145381,
+  "total": 153178,
   "monthly": [
     {
       "period": "2017-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 46374
+    },
+    {
+      "period": "2026-07",
+      "views": 7797
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 82836
+      "views": 90633
     }
   ]
 }

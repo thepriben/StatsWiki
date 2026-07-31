@@ -1,0 +1,44 @@
+{
+  "qid": "Q229808",
+  "label": "The Amazing Spider-Man",
+  "title": "The_Amazing_Spider-Man_(film)",
+  "description": "2012 film directed by Marc Webb",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_amazing_Spider-Man.svg?width=64",
+  "total": 997516,
+  "monthly": [
+    {
+      "period": "2021-08",
+      "views": 102627
+    },
+    {
+      "period": "2021-11",
+      "views": 53363
+    },
+    {
+      "period": "2021-12",
+      "views": 597689
+    },
+    {
+      "period": "2022-01",
+      "views": 235022
+    },
+    {
+      "period": "2026-07",
+      "views": 8815
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 753679
+    },
+    {
+      "period": "2022",
+      "views": 235022
+    },
+    {
+      "period": "2026",
+      "views": 8815
+    }
+  ]
+}

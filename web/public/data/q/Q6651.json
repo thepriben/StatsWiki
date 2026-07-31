@@ -1,0 +1,28 @@
+{
+  "qid": "Q6651",
+  "label": "Brescia Calcio",
+  "title": "Brescia_Calcio",
+  "description": "Italian football club based in Brescia, Lombardy",
+  "image": "",
+  "total": 52082,
+  "monthly": [
+    {
+      "period": "2019-08",
+      "views": 42583
+    },
+    {
+      "period": "2026-07",
+      "views": 9499
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 42583
+    },
+    {
+      "period": "2026",
+      "views": 9499
+    }
+  ]
+}

@@ -4,17 +4,21 @@
   "title": "2026_Greater_Manchester_mayoral_by-election",
   "description": "mayoral by-election in Greater Manchester, England",
   "image": "",
-  "total": 12840,
+  "total": 29698,
   "monthly": [
     {
       "period": "2026-06",
       "views": 12840
+    },
+    {
+      "period": "2026-07",
+      "views": 16858
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 12840
+      "views": 29698
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Asian_Football_Confederation",
   "description": "governing body of association football, beach soccer, and futsal in most countries and territories in Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian_Football_Confederation_emblem.svg?width=64",
-  "total": 143627,
+  "total": 153349,
   "monthly": [
     {
       "period": "2017-06",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 8468
+    },
+    {
+      "period": "2026-07",
+      "views": 9722
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 8468
+      "views": 18190
     }
   ]
 }
