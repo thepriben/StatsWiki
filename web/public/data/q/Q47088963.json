@@ -4,7 +4,7 @@
   "title": "Zac_Brown",
   "description": "American country musician, singer and guitarist of the Zac Brown Band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zac_Brown_USO_tour.jpg?width=64",
-  "total": 323374,
+  "total": 337510,
   "monthly": [
     {
       "period": "2023-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 12048
+    },
+    {
+      "period": "2026-07",
+      "views": 14136
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 91343
+      "views": 105479
     }
   ]
 }

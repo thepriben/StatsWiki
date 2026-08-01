@@ -4,7 +4,7 @@
   "title": "Eric_André",
   "description": "American comedian and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shades_of_Black_at_Julep_7-5-07MG_0075_%28738405804%29_%28cropped_to_Eric_Andre%29.jpg?width=64",
-  "total": 342863,
+  "total": 351195,
   "monthly": [
     {
       "period": "2016-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 86255
+    },
+    {
+      "period": "2026-07",
+      "views": 8332
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 94740
+      "views": 103072
     }
   ]
 }

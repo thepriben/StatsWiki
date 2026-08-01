@@ -4,7 +4,7 @@
   "title": "Stellan_Skarsgård",
   "description": "Swedish actor (born 1951)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stellan_Skarsg%C3%A5rd_at_the_2017_Berlinalevds.jpg?width=64",
-  "total": 8470122,
+  "total": 8479211,
   "monthly": [
     {
       "period": "2015-10",
@@ -261,6 +261,10 @@
     {
       "period": "2026-03",
       "views": 244457
+    },
+    {
+      "period": "2026-07",
+      "views": 9089
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 1369045
+      "views": 1378134
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Nelly_Korda",
   "description": "American golfer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelly_Korda_%28cropped%29.jpg?width=64",
-  "total": 1517395,
+  "total": 1527969,
   "monthly": [
     {
       "period": "2019-02",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 202261
+    },
+    {
+      "period": "2026-07",
+      "views": 10574
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 369977
+      "views": 380551
     }
   ]
 }

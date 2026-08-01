@@ -1,0 +1,112 @@
+{
+  "qid": "Q1969730",
+  "label": "Schengen Area",
+  "title": "Schengen_Area",
+  "description": "area of 29 European states without mutual border controls",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grenzschild_Danmark_2011.jpg?width=64",
+  "total": 1244085,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 121250
+    },
+    {
+      "period": "2015-11",
+      "views": 91420
+    },
+    {
+      "period": "2016-03",
+      "views": 9518
+    },
+    {
+      "period": "2016-06",
+      "views": 176148
+    },
+    {
+      "period": "2016-07",
+      "views": 14401
+    },
+    {
+      "period": "2017-08",
+      "views": 55884
+    },
+    {
+      "period": "2019-03",
+      "views": 11393
+    },
+    {
+      "period": "2020-03",
+      "views": 240261
+    },
+    {
+      "period": "2022-12",
+      "views": 37043
+    },
+    {
+      "period": "2023-01",
+      "views": 132114
+    },
+    {
+      "period": "2024-03",
+      "views": 10870
+    },
+    {
+      "period": "2024-04",
+      "views": 27128
+    },
+    {
+      "period": "2024-12",
+      "views": 56945
+    },
+    {
+      "period": "2025-01",
+      "views": 238037
+    },
+    {
+      "period": "2026-07",
+      "views": 21673
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 212670
+    },
+    {
+      "period": "2016",
+      "views": 200067
+    },
+    {
+      "period": "2017",
+      "views": 55884
+    },
+    {
+      "period": "2019",
+      "views": 11393
+    },
+    {
+      "period": "2020",
+      "views": 240261
+    },
+    {
+      "period": "2022",
+      "views": 37043
+    },
+    {
+      "period": "2023",
+      "views": 132114
+    },
+    {
+      "period": "2024",
+      "views": 94943
+    },
+    {
+      "period": "2025",
+      "views": 238037
+    },
+    {
+      "period": "2026",
+      "views": 21673
+    }
+  ]
+}

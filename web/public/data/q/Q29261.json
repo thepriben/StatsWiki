@@ -4,7 +4,7 @@
   "title": "Lockheed_Martin_F-35_Lightning_II",
   "description": "2006 multi-role combat aircraft family by Lockheed Martin",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F-35_at_Edwards.jpg?width=64",
-  "total": 11315979,
+  "total": 11326281,
   "monthly": [
     {
       "period": "2015-07",
@@ -437,6 +437,10 @@
     {
       "period": "2026-04",
       "views": 93515
+    },
+    {
+      "period": "2026-07",
+      "views": 10302
     }
   ],
   "yearly": [
@@ -486,7 +490,7 @@
     },
     {
       "period": "2026",
-      "views": 548673
+      "views": 558975
     }
   ]
 }
