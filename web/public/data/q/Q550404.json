@@ -4,7 +4,7 @@
   "title": "He-Man",
   "description": "fictional character from the Masters of the Universe universe",
   "image": "",
-  "total": 503153,
+  "total": 512315,
   "monthly": [
     {
       "period": "2016-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 124393
+    },
+    {
+      "period": "2026-08",
+      "views": 9162
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 351180
+      "views": 360342
     }
   ]
 }

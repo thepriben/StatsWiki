@@ -4,7 +4,7 @@
   "title": "Sea_Peoples",
   "description": "purported historical ethnic group",
   "image": "",
-  "total": 545511,
+  "total": 561732,
   "monthly": [
     {
       "period": "2015-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 362580
+    },
+    {
+      "period": "2026-08",
+      "views": 16221
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 362580
+      "views": 378801
     }
   ]
 }

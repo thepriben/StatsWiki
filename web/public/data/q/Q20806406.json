@@ -4,7 +4,7 @@
   "title": "2026_Commonwealth_Games",
   "description": "multi-sport event in Glasgow, Scotland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Launch_Commonwealth_Games_2026_with_First_Minister_Swinney_in_Glasgow%2C_Scotland_on_22_October_2024_-_10.jpg?width=64",
-  "total": 1752688,
+  "total": 2068407,
   "monthly": [
     {
       "period": "2018-04",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 1357862
+    },
+    {
+      "period": "2026-08",
+      "views": 315719
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 1357862
+      "views": 1673581
     }
   ]
 }

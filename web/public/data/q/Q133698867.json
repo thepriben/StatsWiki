@@ -4,7 +4,7 @@
   "title": "Yan_Diomande",
   "description": "Ivorian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yan_Diomande_Cote_D%27Ivoire_v_Ecuador_14_June_2026-17_%28cropped%29.jpg?width=64",
-  "total": 809421,
+  "total": 818315,
   "monthly": [
     {
       "period": "2026-01",
@@ -25,12 +25,16 @@
     {
       "period": "2026-07",
       "views": 358321
+    },
+    {
+      "period": "2026-08",
+      "views": 8894
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 809421
+      "views": 818315
     }
   ]
 }

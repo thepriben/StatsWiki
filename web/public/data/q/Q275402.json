@@ -4,7 +4,7 @@
   "title": "Sam_Raimi",
   "description": "American filmmaker (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Raimi_%2853896379405%29_%28cropped%29.jpg?width=64",
-  "total": 1407970,
+  "total": 1416350,
   "monthly": [
     {
       "period": "2015-11",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 29017
+    },
+    {
+      "period": "2026-08",
+      "views": 8380
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 257434
+      "views": 265814
     }
   ]
 }

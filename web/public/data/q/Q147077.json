@@ -4,7 +4,7 @@
   "title": "Emma_Stone",
   "description": "American actress and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma_Stone_at_the_2025_Cannes_Film_Festival_04.jpg?width=64",
-  "total": 28688598,
+  "total": 28708108,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-07",
       "views": 104267
+    },
+    {
+      "period": "2026-08",
+      "views": 19510
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 1289039
+      "views": 1308549
     }
   ]
 }

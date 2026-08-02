@@ -4,7 +4,7 @@
   "title": "Simon_Baker",
   "description": "Australian actor and director (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon_Baker_2013_4.jpg?width=64",
-  "total": 946980,
+  "total": 956890,
   "monthly": [
     {
       "period": "2018-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 52066
+    },
+    {
+      "period": "2026-08",
+      "views": 9910
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 843286
+      "views": 853196
     }
   ]
 }

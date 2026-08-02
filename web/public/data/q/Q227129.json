@@ -4,7 +4,7 @@
   "title": "Zoë_Kravitz",
   "description": "American actress, director, singer and model (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zoe_Kravitz_2020_dvna_studio.jpg?width=64",
-  "total": 19032045,
+  "total": 19040435,
   "monthly": [
     {
       "period": "2015-07",
@@ -441,6 +441,10 @@
     {
       "period": "2026-07",
       "views": 139313
+    },
+    {
+      "period": "2026-08",
+      "views": 8390
     }
   ],
   "yearly": [
@@ -490,7 +494,7 @@
     },
     {
       "period": "2026",
-      "views": 1266279
+      "views": 1274669
     }
   ]
 }

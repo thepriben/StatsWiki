@@ -4,17 +4,21 @@
   "title": "Basil_I",
   "description": "Byzantine emperor from 867 to 886",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solidus-Basil_I.jpg?width=64",
-  "total": 12451,
+  "total": 28234,
   "monthly": [
     {
       "period": "2026-07",
       "views": 12451
+    },
+    {
+      "period": "2026-08",
+      "views": 15783
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 12451
+      "views": 28234
     }
   ]
 }

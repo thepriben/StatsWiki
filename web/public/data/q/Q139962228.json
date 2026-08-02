@@ -4,7 +4,7 @@
   "title": "Governor_(film)",
   "description": "upcoming Indian Hindi-language financial thriller film directed by Chinmay D. Mandlekar",
   "image": "",
-  "total": 56476,
+  "total": 66539,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 21875
+    },
+    {
+      "period": "2026-08",
+      "views": 10063
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 56476
+      "views": 66539
     }
   ]
 }

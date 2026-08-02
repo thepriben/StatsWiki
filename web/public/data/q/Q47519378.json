@@ -4,7 +4,7 @@
   "title": "JSDelivr",
   "description": "free open-source CDN for developers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JsDelivr_Logo.svg?width=64",
-  "total": 348932,
+  "total": 366718,
   "monthly": [
     {
       "period": "2023-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 184035
+    },
+    {
+      "period": "2026-08",
+      "views": 17786
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 336053
+      "views": 353839
     }
   ]
 }

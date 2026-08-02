@@ -4,7 +4,7 @@
   "title": "Avengers:_Infinity_War",
   "description": "2018 film by Anthony Russo and Joe Russo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avengers-infinity-war-logo.svg?width=64",
-  "total": 42944157,
+  "total": 42954741,
   "monthly": [
     {
       "period": "2017-01",
@@ -193,6 +193,10 @@
     {
       "period": "2026-07",
       "views": 17441
+    },
+    {
+      "period": "2026-08",
+      "views": 10584
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 17441
+      "views": 28025
     }
   ]
 }

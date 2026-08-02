@@ -4,7 +4,7 @@
   "title": "Friendship_Day",
   "description": "day for celebrating friendship",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HAPPY_FRIENDSHIP_DAY.jpg?width=64",
-  "total": 3024184,
+  "total": 3033707,
   "monthly": [
     {
       "period": "2015-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 11806
+    },
+    {
+      "period": "2026-08",
+      "views": 9523
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 11806
+      "views": 21329
     }
   ]
 }

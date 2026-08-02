@@ -4,7 +4,7 @@
   "title": "Freddie_Mercury",
   "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?width=64",
-  "total": 97038620,
+  "total": 97048392,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 291821
+    },
+    {
+      "period": "2026-08",
+      "views": 9772
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 3070086
+      "views": 3079858
     }
   ]
 }

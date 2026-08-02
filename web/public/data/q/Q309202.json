@@ -4,7 +4,7 @@
   "title": "Camp_David",
   "description": "country retreat of the President of the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exterior_of_Camp_David_lodge_with_swimming_pool_in_foreground._-_NARA_-_194350.tif?width=64",
-  "total": 887242,
+  "total": 901281,
   "monthly": [
     {
       "period": "2017-01",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 26333
+    },
+    {
+      "period": "2026-08",
+      "views": 14039
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 67434
+      "views": 81473
     }
   ]
 }

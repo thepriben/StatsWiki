@@ -4,7 +4,7 @@
   "title": "Lola_Petticrew",
   "description": "Northern Irish actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lola_Petticrew_on_AMFM_STUDIOS.jpg?width=64",
-  "total": 128961,
+  "total": 141240,
   "monthly": [
     {
       "period": "2025-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 74121
+    },
+    {
+      "period": "2026-08",
+      "views": 12279
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 74121
+      "views": 86400
     }
   ]
 }

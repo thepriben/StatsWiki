@@ -4,7 +4,7 @@
   "title": "The_Sopranos",
   "description": "American crime drama television series (1999–2007)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony_Soprano_%28The_Sopranos_Family_Tree%29.jpg?width=64",
-  "total": 4550617,
+  "total": 4565562,
   "monthly": [
     {
       "period": "2016-09",
@@ -189,6 +189,10 @@
     {
       "period": "2026-06",
       "views": 9089
+    },
+    {
+      "period": "2026-08",
+      "views": 14945
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 17269
+      "views": 32214
     }
   ]
 }

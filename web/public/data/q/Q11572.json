@@ -4,7 +4,7 @@
   "title": "Avatar:_The_Last_Airbender",
   "description": "American animated television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avatar_The_Last_Airbender_logo_2012.svg?width=64",
-  "total": 6004320,
+  "total": 6016332,
   "monthly": [
     {
       "period": "2018-09",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 311584
+    },
+    {
+      "period": "2026-08",
+      "views": 12012
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 590170
+      "views": 602182
     }
   ]
 }

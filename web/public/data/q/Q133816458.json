@@ -4,7 +4,7 @@
   "title": "The_Thomas_Crown_Affair_(2027_film)",
   "description": "upcoming film directed by Michael B. Jordan",
   "image": "",
-  "total": 102315,
+  "total": 111103,
   "monthly": [
     {
       "period": "2026-03",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 79981
+    },
+    {
+      "period": "2026-08",
+      "views": 8788
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 102315
+      "views": 111103
     }
   ]
 }

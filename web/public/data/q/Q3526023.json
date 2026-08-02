@@ -4,7 +4,7 @@
   "title": "Khabib_Nurmagomedov",
   "description": "Russian professional mixed martial artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khabib_nurmagomedov.jpg?width=64",
-  "total": 21950709,
+  "total": 21959230,
   "monthly": [
     {
       "period": "2015-12",
@@ -405,6 +405,10 @@
     {
       "period": "2026-07",
       "views": 71180
+    },
+    {
+      "period": "2026-08",
+      "views": 8521
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 184408
+      "views": 192929
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Polyphemus",
   "description": "giant son of Poseidon and Thoosa in Greek mythology",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Jordaens_009.jpg?width=64",
-  "total": 460996,
+  "total": 477684,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 436269
+    },
+    {
+      "period": "2026-08",
+      "views": 16688
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 436269
+      "views": 452957
     }
   ]
 }

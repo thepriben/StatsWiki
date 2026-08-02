@@ -4,7 +4,7 @@
   "title": "Simone_Ashley",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simone_Ashley_en_2022.jpg?width=64",
-  "total": 3455366,
+  "total": 3465722,
   "monthly": [
     {
       "period": "2021-09",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 18700
+    },
+    {
+      "period": "2026-08",
+      "views": 10356
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 405769
+      "views": 416125
     }
   ]
 }

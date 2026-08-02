@@ -4,7 +4,7 @@
   "title": "Laura_Ingalls_Wilder",
   "description": "American children's writer, diarist, and journalist (1867-1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laura_Ingalls_Wilder.jpg?width=64",
-  "total": 701651,
+  "total": 713721,
   "monthly": [
     {
       "period": "2017-12",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 619273
+    },
+    {
+      "period": "2026-08",
+      "views": 12070
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 619273
+      "views": 631343
     }
   ]
 }

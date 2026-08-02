@@ -4,7 +4,7 @@
   "title": "14_Peaks:_Nothing_Is_Impossible",
   "description": "2021 film directed by Torquil Jones",
   "image": "",
-  "total": 93254,
+  "total": 114949,
   "monthly": [
     {
       "period": "2021-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 10567
+    },
+    {
+      "period": "2026-08",
+      "views": 21695
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 10567
+      "views": 32262
     }
   ]
 }

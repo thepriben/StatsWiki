@@ -4,7 +4,7 @@
   "title": "The_Dark_Knight",
   "description": "2008 film directed by Christopher Nolan",
   "image": "",
-  "total": 968232,
+  "total": 981098,
   "monthly": [
     {
       "period": "2023-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 276887
+    },
+    {
+      "period": "2026-08",
+      "views": 12866
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 276887
+      "views": 289753
     }
   ]
 }

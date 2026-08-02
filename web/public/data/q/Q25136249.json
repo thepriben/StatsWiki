@@ -4,7 +4,7 @@
   "title": "XXX_(franchise)",
   "description": "film series by Rich Wilkes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xxx-movie-logo.png?width=64",
-  "total": 113220298,
+  "total": 113249734,
   "monthly": [
     {
       "period": "2016-11",
@@ -389,6 +389,10 @@
     {
       "period": "2026-07",
       "views": 1249349
+    },
+    {
+      "period": "2026-08",
+      "views": 29436
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 8747719
+      "views": 8777155
     }
   ]
 }

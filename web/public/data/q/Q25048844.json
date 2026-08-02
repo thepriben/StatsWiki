@@ -4,7 +4,7 @@
   "title": "Dynatrace",
   "description": "software technology company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dynatrace_office_Linz_%28Austria%29.jpg?width=64",
-  "total": 6210626,
+  "total": 6224256,
   "monthly": [
     {
       "period": "2025-07",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 454088
+    },
+    {
+      "period": "2026-08",
+      "views": 13630
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 4204082
+      "views": 4217712
     }
   ]
 }

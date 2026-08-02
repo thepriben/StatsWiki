@@ -4,7 +4,7 @@
   "title": "Doctor_Doom",
   "description": "fictional character in Marvel Comics",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr_Doom_cosplay.jpg?width=64",
-  "total": 2265486,
+  "total": 2278497,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 293027
+    },
+    {
+      "period": "2026-08",
+      "views": 13011
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 301895
+      "views": 314906
     }
   ]
 }

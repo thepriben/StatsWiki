@@ -4,7 +4,7 @@
   "title": "Interstellar_(film)",
   "description": "2014 film by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Interstellar-logo.jpg?width=64",
-  "total": 28400720,
+  "total": 28424745,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 632782
+    },
+    {
+      "period": "2026-08",
+      "views": 24025
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 2016433
+      "views": 2040458
     }
   ]
 }

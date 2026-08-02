@@ -4,7 +4,7 @@
   "title": "Katseye",
   "description": "American girl group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025-12-13_Katseye_Beautiful_Chaos_Tour_02_%28cropped%29.jpg?width=64",
-  "total": 5518595,
+  "total": 5527422,
   "monthly": [
     {
       "period": "2024-08",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 57951
+    },
+    {
+      "period": "2026-08",
+      "views": 8827
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 1570783
+      "views": 1579610
     }
   ]
 }

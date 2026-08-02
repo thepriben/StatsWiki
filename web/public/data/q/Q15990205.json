@@ -4,7 +4,7 @@
   "title": "James_Norton_(actor)",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Norton_at_Cambridge.jpg?width=64",
-  "total": 3296626,
+  "total": 3305313,
   "monthly": [
     {
       "period": "2016-01",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 324558
+    },
+    {
+      "period": "2026-08",
+      "views": 8687
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 392074
+      "views": 400761
     }
   ]
 }

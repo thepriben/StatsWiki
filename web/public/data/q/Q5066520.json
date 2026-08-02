@@ -4,7 +4,7 @@
   "title": "Chadwick_Boseman",
   "description": "American actor (1976–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg?width=64",
-  "total": 31098516,
+  "total": 31108058,
   "monthly": [
     {
       "period": "2015-11",
@@ -301,6 +301,10 @@
     {
       "period": "2026-07",
       "views": 149596
+    },
+    {
+      "period": "2026-08",
+      "views": 9542
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 223974
+      "views": 233516
     }
   ]
 }

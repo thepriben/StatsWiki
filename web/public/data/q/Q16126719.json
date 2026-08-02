@@ -4,7 +4,7 @@
   "title": "Perrie_Edwards",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Perrie_13-02-24.jpg?width=64",
-  "total": 625315,
+  "total": 643191,
   "monthly": [
     {
       "period": "2020-09",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 30160
+    },
+    {
+      "period": "2026-08",
+      "views": 17876
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 44710
+      "views": 62586
     }
   ]
 }

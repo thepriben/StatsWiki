@@ -1,10 +1,10 @@
 {
   "qid": "Q66241169",
-  "label": "Jude Bellingham",
+  "label": "Jude Belligoal",
   "title": "Jude_Bellingham",
   "description": "English footballer (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg?width=64",
-  "total": 15497966,
+  "total": 15524691,
   "monthly": [
     {
       "period": "2020-03",
@@ -213,6 +213,10 @@
     {
       "period": "2026-07",
       "views": 4626480
+    },
+    {
+      "period": "2026-08",
+      "views": 26725
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 5365370
+      "views": 5392095
     }
   ]
 }

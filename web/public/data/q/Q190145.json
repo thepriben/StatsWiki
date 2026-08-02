@@ -4,7 +4,7 @@
   "title": "Spider-Man_2",
   "description": "2004 American film directed by Sam Raimi",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-Man_2-Logo.svg?width=64",
-  "total": 797267,
+  "total": 809123,
   "monthly": [
     {
       "period": "2017-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 18288
+    },
+    {
+      "period": "2026-08",
+      "views": 11856
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 18288
+      "views": 30144
     }
   ]
 }

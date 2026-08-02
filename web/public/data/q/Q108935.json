@@ -4,7 +4,7 @@
   "title": "Mary_Steenburgen",
   "description": "American actress, singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MarySteenburgenDec09_%28square-trim%29.jpg?width=64",
-  "total": 3198901,
+  "total": 3213983,
   "monthly": [
     {
       "period": "2015-10",
@@ -201,6 +201,10 @@
     {
       "period": "2026-07",
       "views": 135579
+    },
+    {
+      "period": "2026-08",
+      "views": 15082
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 272957
+      "views": 288039
     }
   ]
 }

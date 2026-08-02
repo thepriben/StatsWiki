@@ -4,7 +4,7 @@
   "title": "Dolores_O'Riordan",
   "description": "Irish musician (1971–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolores_O%27Riordan_2016_%28cropped%29.jpeg?width=64",
-  "total": 7086928,
+  "total": 7097228,
   "monthly": [
     {
       "period": "2018-01",
@@ -197,6 +197,10 @@
     {
       "period": "2026-07",
       "views": 45628
+    },
+    {
+      "period": "2026-08",
+      "views": 10300
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 244982
+      "views": 255282
     }
   ]
 }

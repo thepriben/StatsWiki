@@ -4,17 +4,21 @@
   "title": "Sara_Grey",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 34224,
+  "total": 43047,
   "monthly": [
     {
       "period": "2026-07",
       "views": 34224
+    },
+    {
+      "period": "2026-08",
+      "views": 8823
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 34224
+      "views": 43047
     }
   ]
 }

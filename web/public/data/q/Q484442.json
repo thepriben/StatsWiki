@@ -4,7 +4,7 @@
   "title": "Spider-Man_(2002_film)",
   "description": "2002 film directed by Sam Raimi",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-Man-Logo.svg?width=64",
-  "total": 2832756,
+  "total": 2851502,
   "monthly": [
     {
       "period": "2017-07",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 36410
+    },
+    {
+      "period": "2026-08",
+      "views": 18746
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 36410
+      "views": 55156
     }
   ]
 }

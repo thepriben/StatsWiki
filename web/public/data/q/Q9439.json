@@ -4,7 +4,7 @@
   "title": "Queen_Victoria",
   "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=64",
-  "total": 88764017,
+  "total": 88776203,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 393519
+    },
+    {
+      "period": "2026-08",
+      "views": 12186
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 4041602
+      "views": 4053788
     }
   ]
 }

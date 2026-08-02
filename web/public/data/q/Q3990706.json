@@ -4,7 +4,7 @@
   "title": "Baron_Corbin",
   "description": "American professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baron_Corbin_as_United_States_Champion.jpg?width=64",
-  "total": 778625,
+  "total": 788171,
   "monthly": [
     {
       "period": "2015-09",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 29584
+    },
+    {
+      "period": "2026-08",
+      "views": 9546
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 29584
+      "views": 39130
     }
   ]
 }

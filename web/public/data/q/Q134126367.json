@@ -4,7 +4,7 @@
   "title": "Cape_Fear_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape_Fear_%28tv_series_logo%29.svg?width=64",
-  "total": 1244965,
+  "total": 1271112,
   "monthly": [
     {
       "period": "2026-03",
@@ -25,12 +25,16 @@
     {
       "period": "2026-07",
       "views": 523152
+    },
+    {
+      "period": "2026-08",
+      "views": 26147
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1244965
+      "views": 1271112
     }
   ]
 }

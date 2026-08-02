@@ -4,7 +4,7 @@
   "title": "X-Men_'97",
   "description": "American animated television series, revival of 1992–1997 series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/X-Men_97_logo.png?width=64",
-  "total": 3381050,
+  "total": 3391239,
   "monthly": [
     {
       "period": "2021-11",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 453360
+    },
+    {
+      "period": "2026-08",
+      "views": 10189
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 470806
+      "views": 480995
     }
   ]
 }

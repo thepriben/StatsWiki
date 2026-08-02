@@ -3,18 +3,22 @@
   "label": "Bev Craig",
   "title": "Bev_Craig",
   "description": "Labour Politician- Leader of the City of Manchester",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bev_Craig%2C_Leader_of_Manchester_City_Council.jpg?width=64",
-  "total": 45636,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Councillor_Bev_Craig_Leader_MCC_2026_%283x4_crop%29.jpg?width=64",
+  "total": 163791,
   "monthly": [
     {
       "period": "2026-07",
       "views": 45636
+    },
+    {
+      "period": "2026-08",
+      "views": 118155
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 45636
+      "views": 163791
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lee_Cronin's_The_Mummy",
   "description": "2026 horror film directed by Lee Cronin",
   "image": "",
-  "total": 2869210,
+  "total": 2879448,
   "monthly": [
     {
       "period": "2026-01",
@@ -33,12 +33,16 @@
     {
       "period": "2026-07",
       "views": 602358
+    },
+    {
+      "period": "2026-08",
+      "views": 10238
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2869210
+      "views": 2879448
     }
   ]
 }

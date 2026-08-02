@@ -4,7 +4,7 @@
   "title": "Emma_Frost",
   "description": "fictional character in Marvel Comics",
   "image": "",
-  "total": 96008,
+  "total": 107329,
   "monthly": [
     {
       "period": "2016-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 9933
+    },
+    {
+      "period": "2026-08",
+      "views": 11321
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 9933
+      "views": 21254
     }
   ]
 }

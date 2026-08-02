@@ -4,7 +4,7 @@
   "title": "Emmy_Rossum",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EmmyRossum-byPhilipRomano2.jpg?width=64",
-  "total": 2847657,
+  "total": 2868593,
   "monthly": [
     {
       "period": "2015-09",
@@ -149,6 +149,10 @@
     {
       "period": "2026-07",
       "views": 378628
+    },
+    {
+      "period": "2026-08",
+      "views": 20936
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 378628
+      "views": 399564
     }
   ]
 }

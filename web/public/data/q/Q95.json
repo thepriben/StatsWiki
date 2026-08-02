@@ -4,7 +4,7 @@
   "title": "Google",
   "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex_HQ_%28cropped%29.jpg?width=64",
-  "total": 110853636,
+  "total": 110869074,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 867062
+    },
+    {
+      "period": "2026-08",
+      "views": 15438
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 4505215
+      "views": 4520653
     }
   ]
 }

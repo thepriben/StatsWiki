@@ -4,7 +4,7 @@
   "title": "Elvis_Presley",
   "description": "American singer and actor (1935–1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elvis_Presley_1973_RCA_Records_and_Tapes_publicity_2_-_cropped.png?width=64",
-  "total": 81360168,
+  "total": 81373418,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 356072
+    },
+    {
+      "period": "2026-08",
+      "views": 13250
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 3202183
+      "views": 3215433
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Punisher_(TV_series)",
   "description": "American superhero television series (2017-2019)",
   "image": "",
-  "total": 4010829,
+  "total": 4026852,
   "monthly": [
     {
       "period": "2017-03",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 21406
+    },
+    {
+      "period": "2026-08",
+      "views": 16023
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 98631
+      "views": 114654
     }
   ]
 }

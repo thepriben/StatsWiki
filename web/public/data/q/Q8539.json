@@ -4,7 +4,7 @@
   "title": "The_Big_Bang_Theory",
   "description": "American television sitcom (2007–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cast_of_The_Big_Bang_Theory_05.jpg?width=64",
-  "total": 34337657,
+  "total": 34347593,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-07",
       "views": 83776
+    },
+    {
+      "period": "2026-08",
+      "views": 9936
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 137397
+      "views": 147333
     }
   ]
 }

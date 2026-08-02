@@ -4,7 +4,7 @@
   "title": "The_Drama_(film)",
   "description": "2026 film directed by Kristoffer Borgli",
   "image": "",
-  "total": 4188614,
+  "total": 4235469,
   "monthly": [
     {
       "period": "2025-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 294708
+    },
+    {
+      "period": "2026-08",
+      "views": 46855
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 4022774
+      "views": 4069629
     }
   ]
 }

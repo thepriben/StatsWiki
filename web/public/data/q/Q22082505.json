@@ -4,7 +4,7 @@
   "title": "Marc_Cucurella",
   "description": "Spanish association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc_Cucurella_Argentina_v_Spain_19_July_2026-064_%28cropped%29.jpg?width=64",
-  "total": 2947021,
+  "total": 2958062,
   "monthly": [
     {
       "period": "2018-11",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 1374654
+    },
+    {
+      "period": "2026-08",
+      "views": 11041
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 1727980
+      "views": 1739021
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Boy_George",
   "description": "British musician (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boy_George_by_Dean_Stockings.jpg?width=64",
-  "total": 3178927,
+  "total": 3194902,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-07",
       "views": 113964
+    },
+    {
+      "period": "2026-08",
+      "views": 15975
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 213845
+      "views": 229820
     }
   ]
 }

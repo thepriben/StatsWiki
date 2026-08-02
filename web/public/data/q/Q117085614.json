@@ -4,7 +4,7 @@
   "title": "One_Battle_After_Another",
   "description": "2025 film directed by Paul Thomas Anderson",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_Theater_Presenting_One_Battle_After_Another_in_VistaVision_Sign.jpg?width=64",
-  "total": 16700311,
+  "total": 16711205,
   "monthly": [
     {
       "period": "2025-03",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 164416
+    },
+    {
+      "period": "2026-08",
+      "views": 10894
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 7942649
+      "views": 7953543
     }
   ]
 }

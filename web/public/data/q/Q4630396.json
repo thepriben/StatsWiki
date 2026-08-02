@@ -4,7 +4,7 @@
   "title": "2022_Commonwealth_Games",
   "description": "multi-sport event in Birmingham, England",
   "image": "",
-  "total": 4933828,
+  "total": 4964443,
   "monthly": [
     {
       "period": "2018-04",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 112304
+    },
+    {
+      "period": "2026-08",
+      "views": 30615
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 112304
+      "views": 142919
     }
   ]
 }

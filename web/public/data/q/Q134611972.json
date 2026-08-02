@@ -4,7 +4,7 @@
   "title": "The_Devil_Wears_Prada_2",
   "description": "2026 film directed by David Frankel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22.jpg?width=64",
-  "total": 4598697,
+  "total": 4674272,
   "monthly": [
     {
       "period": "2025-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 619338
+    },
+    {
+      "period": "2026-08",
+      "views": 75575
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 4285024
+      "views": 4360599
     }
   ]
 }

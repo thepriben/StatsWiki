@@ -4,7 +4,7 @@
   "title": "List_of_WWE_pay-per-view_and_livestreaming_supercards",
   "description": "All is mine",
   "image": "",
-  "total": 2611438,
+  "total": 2621744,
   "monthly": [
     {
       "period": "2023-05",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 10498
+    },
+    {
+      "period": "2026-08",
+      "views": 10306
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 429019
+      "views": 439325
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Charlie_Kirk",
   "description": "American political activist (1993–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg?width=64",
-  "total": 47130576,
+  "total": 47140758,
   "monthly": [
     {
       "period": "2024-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-07",
       "views": 492110
+    },
+    {
+      "period": "2026-08",
+      "views": 10182
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 4109261
+      "views": 4119443
     }
   ]
 }

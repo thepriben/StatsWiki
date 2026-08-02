@@ -4,17 +4,21 @@
   "title": "Marvel_Cinematic_Universe_timeline",
   "description": "fictional timeline of media",
   "image": "",
-  "total": 17156,
+  "total": 28543,
   "monthly": [
     {
       "period": "2026-07",
       "views": 17156
+    },
+    {
+      "period": "2026-08",
+      "views": 11387
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 17156
+      "views": 28543
     }
   ]
 }

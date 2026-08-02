@@ -4,7 +4,7 @@
   "title": "Batman_Begins",
   "description": "2005 film by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batman_Begins_logo.png?width=64",
-  "total": 862995,
+  "total": 872329,
   "monthly": [
     {
       "period": "2015-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 189322
+    },
+    {
+      "period": "2026-08",
+      "views": 9334
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 189322
+      "views": 198656
     }
   ]
 }

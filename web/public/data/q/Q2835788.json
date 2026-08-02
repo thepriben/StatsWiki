@@ -4,7 +4,7 @@
   "title": "Himesh_Patel",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HimeshPatel-byPhilipRomano.jpg?width=64",
-  "total": 1338110,
+  "total": 1356238,
   "monthly": [
     {
       "period": "2019-02",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 641404
+    },
+    {
+      "period": "2026-08",
+      "views": 18128
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 659700
+      "views": 677828
     }
   ]
 }

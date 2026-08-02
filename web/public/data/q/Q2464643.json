@@ -4,7 +4,7 @@
   "title": "Solar_eclipse_of_August_12,_2026",
   "description": "astronomical event",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE2026Aug12T.gif?width=64",
-  "total": 190122,
+  "total": 202501,
   "monthly": [
     {
       "period": "2017-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 25986
+    },
+    {
+      "period": "2026-08",
+      "views": 12379
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 36133
+      "views": 48512
     }
   ]
 }

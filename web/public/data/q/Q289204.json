@@ -4,7 +4,7 @@
   "title": "Lost_Highway_(film)",
   "description": "1997 film by David Lynch",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lost_Highway_Filmlogo.png?width=64",
-  "total": 704446,
+  "total": 713728,
   "monthly": [
     {
       "period": "2023-03",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 300446
+    },
+    {
+      "period": "2026-08",
+      "views": 9282
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 415319
+      "views": 424601
     }
   ]
 }

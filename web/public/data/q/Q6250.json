@@ -4,7 +4,7 @@
   "title": "Western_Sahara",
   "description": "territory in North and West Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gouffre_akhfenir_western_sahara.jpg?width=64",
-  "total": 450531,
+  "total": 471672,
   "monthly": [
     {
       "period": "2016-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 66380
+    },
+    {
+      "period": "2026-08",
+      "views": 21141
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 77763
+      "views": 98904
     }
   ]
 }

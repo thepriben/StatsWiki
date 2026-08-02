@@ -4,7 +4,7 @@
   "title": "Superman_(2025_film)",
   "description": "2025 film directed by James Gunn",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Superman_%282025%29_text_logo.svg?width=64",
-  "total": 17981090,
+  "total": 17991019,
   "monthly": [
     {
       "period": "2024-03",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 137832
+    },
+    {
+      "period": "2026-08",
+      "views": 9929
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 534516
+      "views": 544445
     }
   ]
 }

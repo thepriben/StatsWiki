@@ -4,7 +4,7 @@
   "title": "2026–27_UEFA_Conference_League",
   "description": "european club football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vodafone_Park.jpg?width=64",
-  "total": 592237,
+  "total": 601759,
   "monthly": [
     {
       "period": "2026-05",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 270104
+    },
+    {
+      "period": "2026-08",
+      "views": 9522
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 592237
+      "views": 601759
     }
   ]
 }

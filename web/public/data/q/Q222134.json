@@ -4,7 +4,7 @@
   "title": "Ted_Kaczynski",
   "description": "American domestic terrorist, mathematician and anarchist (1942–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Young_theodore_kaczynski.jpeg?width=64",
-  "total": 27822473,
+  "total": 27833423,
   "monthly": [
     {
       "period": "2015-09",
@@ -441,6 +441,10 @@
     {
       "period": "2026-07",
       "views": 36266
+    },
+    {
+      "period": "2026-08",
+      "views": 10950
     }
   ],
   "yearly": [
@@ -490,7 +494,7 @@
     },
     {
       "period": "2026",
-      "views": 306813
+      "views": 317763
     }
   ]
 }

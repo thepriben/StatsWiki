@@ -4,7 +4,7 @@
   "title": "Val_Kilmer",
   "description": "American actor (1959–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Val_Kilmer_Cannes.jpg?width=64",
-  "total": 29137302,
+  "total": 29147968,
   "monthly": [
     {
       "period": "2015-08",
@@ -381,6 +381,10 @@
     {
       "period": "2026-07",
       "views": 102673
+    },
+    {
+      "period": "2026-08",
+      "views": 10666
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 1420671
+      "views": 1431337
     }
   ]
 }

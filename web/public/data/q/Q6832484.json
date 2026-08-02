@@ -4,7 +4,7 @@
   "title": "Michael_Mando",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Mando_by_Gage_Skidmore.jpg?width=64",
-  "total": 417308,
+  "total": 436249,
   "monthly": [
     {
       "period": "2017-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 99331
+    },
+    {
+      "period": "2026-08",
+      "views": 18941
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 140569
+      "views": 159510
     }
   ]
 }

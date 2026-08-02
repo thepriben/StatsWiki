@@ -4,7 +4,7 @@
   "title": "Amy_Adams",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Adams_UK_Nocturnal_Animals_Premiere_%28cropped%29.jpg?width=64",
-  "total": 8874915,
+  "total": 8888894,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-07",
       "views": 68563
+    },
+    {
+      "period": "2026-08",
+      "views": 13979
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 419594
+      "views": 433573
     }
   ]
 }

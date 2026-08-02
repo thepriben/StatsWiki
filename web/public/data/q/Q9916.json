@@ -4,7 +4,7 @@
   "title": "Dwight_D._Eisenhower",
   "description": "president of the United States from 1953 to 1961 (1890–1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg?width=64",
-  "total": 11825171,
+  "total": 11836175,
   "monthly": [
     {
       "period": "2015-08",
@@ -453,6 +453,10 @@
     {
       "period": "2026-07",
       "views": 249073
+    },
+    {
+      "period": "2026-08",
+      "views": 11004
     }
   ],
   "yearly": [
@@ -502,7 +506,7 @@
     },
     {
       "period": "2026",
-      "views": 1227874
+      "views": 1238878
     }
   ]
 }

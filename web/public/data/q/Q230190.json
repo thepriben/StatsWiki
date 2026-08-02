@@ -4,7 +4,7 @@
   "title": "Samantha_Morton",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SamanthaMorton-byPhilipRomano.jpg?width=64",
-  "total": 1830385,
+  "total": 1851116,
   "monthly": [
     {
       "period": "2016-11",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 871415
+    },
+    {
+      "period": "2026-08",
+      "views": 20731
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 871415
+      "views": 892146
     }
   ]
 }

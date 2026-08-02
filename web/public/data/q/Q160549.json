@@ -4,7 +4,7 @@
   "title": "CONCACAF",
   "description": "international sport governing body",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Concacaf_logo.svg?width=64",
-  "total": 1032565,
+  "total": 1044816,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 240564
+    },
+    {
+      "period": "2026-08",
+      "views": 12251
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 375215
+      "views": 387466
     }
   ]
 }

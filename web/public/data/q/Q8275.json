@@ -4,7 +4,7 @@
   "title": "Iliad",
   "description": "epic poem attributed to Homer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/P._Oxy._221.jpg?width=64",
-  "total": 1219027,
+  "total": 1251452,
   "monthly": [
     {
       "period": "2024-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 1083423
+    },
+    {
+      "period": "2026-08",
+      "views": 32425
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1125472
+      "views": 1157897
     }
   ]
 }

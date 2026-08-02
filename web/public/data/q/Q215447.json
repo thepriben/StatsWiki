@@ -4,7 +4,7 @@
   "title": "CM_Punk",
   "description": "American professional wrestler, actor, and retired mixed martial artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CM_Punk_on_ring_apron.jpg?width=64",
-  "total": 5272792,
+  "total": 5282473,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 51426
+    },
+    {
+      "period": "2026-08",
+      "views": 9681
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 291019
+      "views": 300700
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Matt_Damon",
   "description": "American actor (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MattDamon-byPhilipRomano2.jpg?width=64",
-  "total": 21214289,
+  "total": 21251848,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-07",
       "views": 1516311
+    },
+    {
+      "period": "2026-08",
+      "views": 37559
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 2701902
+      "views": 2739461
     }
   ]
 }

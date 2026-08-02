@@ -4,7 +4,7 @@
   "title": "Albert_Einstein",
   "description": "german-born theoretical physicist (1879–1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein_1921_by_F_Schmutzer_-_restoration.jpg?width=64",
-  "total": 66025264,
+  "total": 66034218,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 222423
+    },
+    {
+      "period": "2026-08",
+      "views": 8954
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 2578726
+      "views": 2587680
     }
   ]
 }

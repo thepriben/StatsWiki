@@ -4,7 +4,7 @@
   "title": "Teetotalism",
   "description": "abstinence from the consumption of alcohol",
   "image": "",
-  "total": 822961,
+  "total": 832784,
   "monthly": [
     {
       "period": "2016-02",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 55227
+    },
+    {
+      "period": "2026-08",
+      "views": 9823
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 143324
+      "views": 153147
     }
   ]
 }

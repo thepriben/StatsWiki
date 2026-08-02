@@ -4,7 +4,7 @@
   "title": "Destin_Daniel_Cretton",
   "description": "film director and screenwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Destin_Daniel_Cretton.jpg?width=64",
-  "total": 667669,
+  "total": 716142,
   "monthly": [
     {
       "period": "2019-03",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 150287
+    },
+    {
+      "period": "2026-08",
+      "views": 48473
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 183406
+      "views": 231879
     }
   ]
 }

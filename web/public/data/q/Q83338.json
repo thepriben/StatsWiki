@@ -4,7 +4,7 @@
   "title": "Robin_Williams",
   "description": "American actor and comedian (1951–2014)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robin_Williams_2011a_%282%29.jpg?width=64",
-  "total": 52916897,
+  "total": 52930645,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 387563
+    },
+    {
+      "period": "2026-08",
+      "views": 13748
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 2580358
+      "views": 2594106
     }
   ]
 }

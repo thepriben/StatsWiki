@@ -4,17 +4,21 @@
   "title": "Wonder_Man_(TV_series)",
   "description": "Marvel Studios television series",
   "image": "",
-  "total": 42850,
+  "total": 59308,
   "monthly": [
     {
       "period": "2026-07",
       "views": 42850
+    },
+    {
+      "period": "2026-08",
+      "views": 16458
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 42850
+      "views": 59308
     }
   ]
 }

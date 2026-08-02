@@ -4,7 +4,7 @@
   "title": "Stuart_Fails_to_Save_the_Universe",
   "description": "2026 US science fiction television series",
   "image": "",
-  "total": 415145,
+  "total": 451176,
   "monthly": [
     {
       "period": "2026-04",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 303008
+    },
+    {
+      "period": "2026-08",
+      "views": 36031
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 415145
+      "views": 451176
     }
   ]
 }

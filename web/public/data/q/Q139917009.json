@@ -4,17 +4,21 @@
   "title": "Stella_Lefty",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stella_Lefty_%40_Moroccan_Lounge.jpg?width=64",
-  "total": 645729,
+  "total": 656182,
   "monthly": [
     {
       "period": "2026-07",
       "views": 645729
+    },
+    {
+      "period": "2026-08",
+      "views": 10453
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 645729
+      "views": 656182
     }
   ]
 }

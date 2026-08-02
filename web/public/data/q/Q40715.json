@@ -4,7 +4,7 @@
   "title": "Jennifer_Lopez",
   "description": "American singer and actress (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?width=64",
-  "total": 56787805,
+  "total": 56798435,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 335652
+    },
+    {
+      "period": "2026-08",
+      "views": 10630
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1715423
+      "views": 1726053
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Gatta_Kusthi",
   "description": "2022 film directed by Chella Ayyavu",
   "image": "",
-  "total": 277070,
+  "total": 292396,
   "monthly": [
     {
       "period": "2022-12",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 27644
+    },
+    {
+      "period": "2026-08",
+      "views": 15326
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 27644
+      "views": 42970
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Erin_Brockovich",
   "description": "American environmental activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erin_Brockovich.jpg?width=64",
-  "total": 1602300,
+  "total": 1618365,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 27812
+    },
+    {
+      "period": "2026-08",
+      "views": 16065
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 119946
+      "views": 136011
     }
   ]
 }

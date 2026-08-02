@@ -4,7 +4,7 @@
   "title": "Youtube",
   "description": "American video-sharing platform owned by Alphabet Inc.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_results_screenshot.jpg?width=64",
-  "total": 240935511,
+  "total": 241009597,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 1653764
+    },
+    {
+      "period": "2026-08",
+      "views": 74086
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 9679601
+      "views": 9753687
     }
   ]
 }

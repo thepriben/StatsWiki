@@ -4,7 +4,7 @@
   "title": "Petal_(album)",
   "description": "2026 studio album by Ariana Grande",
   "image": "",
-  "total": 141913,
+  "total": 180330,
   "monthly": [
     {
       "period": "2026-04",
@@ -21,12 +21,16 @@
     {
       "period": "2026-07",
       "views": 97615
+    },
+    {
+      "period": "2026-08",
+      "views": 38417
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 141913
+      "views": 180330
     }
   ]
 }

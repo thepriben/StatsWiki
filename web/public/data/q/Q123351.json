@@ -4,7 +4,7 @@
   "title": "Michael_Caine",
   "description": "English actor (born 1933)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Caine_-_Viennale_2012_a_%28cropped%29.jpg?width=64",
-  "total": 6153113,
+  "total": 6161840,
   "monthly": [
     {
       "period": "2015-08",
@@ -341,6 +341,10 @@
     {
       "period": "2026-07",
       "views": 106036
+    },
+    {
+      "period": "2026-08",
+      "views": 8727
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 267964
+      "views": 276691
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Instagram",
   "description": "photo and video sharing social network owned by Meta Platforms",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Instagram_screenshot.png?width=64",
-  "total": 98418648,
+  "total": 98447107,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-07",
       "views": 936442
+    },
+    {
+      "period": "2026-08",
+      "views": 28459
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 8199206
+      "views": 8227665
     }
   ]
 }

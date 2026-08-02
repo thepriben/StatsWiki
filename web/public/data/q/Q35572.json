@@ -4,7 +4,7 @@
   "title": "UEFA",
   "description": "international governing body for association football in Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA-aerial-4.jpg?width=64",
-  "total": 741123,
+  "total": 756013,
   "monthly": [
     {
       "period": "2016-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 312349
+    },
+    {
+      "period": "2026-08",
+      "views": 14890
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 320924
+      "views": 335814
     }
   ]
 }

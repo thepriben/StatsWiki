@@ -1,0 +1,72 @@
+{
+  "qid": "Q889643",
+  "label": "Lollapalooza",
+  "title": "Lollapalooza",
+  "description": "music festival in the United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lollapalooza_2015.JPG?width=64",
+  "total": 202528,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 9422
+    },
+    {
+      "period": "2015-08",
+      "views": 41383
+    },
+    {
+      "period": "2019-08",
+      "views": 21430
+    },
+    {
+      "period": "2021-07",
+      "views": 11623
+    },
+    {
+      "period": "2021-08",
+      "views": 38328
+    },
+    {
+      "period": "2022-08",
+      "views": 13272
+    },
+    {
+      "period": "2025-03",
+      "views": 24383
+    },
+    {
+      "period": "2025-08",
+      "views": 33263
+    },
+    {
+      "period": "2026-08",
+      "views": 9424
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 50805
+    },
+    {
+      "period": "2019",
+      "views": 21430
+    },
+    {
+      "period": "2021",
+      "views": 49951
+    },
+    {
+      "period": "2022",
+      "views": 13272
+    },
+    {
+      "period": "2025",
+      "views": 57646
+    },
+    {
+      "period": "2026",
+      "views": 9424
+    }
+  ]
+}

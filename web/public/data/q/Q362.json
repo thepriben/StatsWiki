@@ -4,7 +4,7 @@
   "title": "World_War_II",
   "description": "1939–1945 global conflict",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Infobox_collage_for_WWII.PNG?width=64",
-  "total": 101194741,
+  "total": 101213930,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 679481
+    },
+    {
+      "period": "2026-08",
+      "views": 19189
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 5351370
+      "views": 5370559
     }
   ]
 }

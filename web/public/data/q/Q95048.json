@@ -4,7 +4,7 @@
   "title": "Tim_Robbins",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TimRobbinsTIFFSept2012.jpg?width=64",
-  "total": 351473,
+  "total": 362495,
   "monthly": [
     {
       "period": "2015-08",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 50815
+    },
+    {
+      "period": "2026-08",
+      "views": 11022
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 50815
+      "views": 61837
     }
   ]
 }

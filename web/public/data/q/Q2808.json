@@ -4,7 +4,7 @@
   "title": "Elton_John",
   "description": "British singer, songwriter and musician (born 1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elton_John_2023.jpg?width=64",
-  "total": 34549678,
+  "total": 34558249,
   "monthly": [
     {
       "period": "2015-08",
@@ -489,6 +489,10 @@
     {
       "period": "2026-05",
       "views": 54846
+    },
+    {
+      "period": "2026-08",
+      "views": 8571
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 254508
+      "views": 263079
     }
   ]
 }

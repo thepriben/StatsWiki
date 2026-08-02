@@ -4,17 +4,21 @@
   "title": "Giuseppe_Baresi",
   "description": "Italian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe_Baresi_-_Inter_Mailand_%281%29.jpg?width=64",
-  "total": 36895,
+  "total": 46830,
   "monthly": [
     {
       "period": "2026-07",
       "views": 36895
+    },
+    {
+      "period": "2026-08",
+      "views": 9935
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 36895
+      "views": 46830
     }
   ]
 }

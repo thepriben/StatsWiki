@@ -4,7 +4,7 @@
   "title": "Jodie_Foster",
   "description": "American actress and filmmaker (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jodie_Foster_in_Baltimore_%28cropped%29.jpg?width=64",
-  "total": 9064626,
+  "total": 9076818,
   "monthly": [
     {
       "period": "2015-08",
@@ -353,6 +353,10 @@
     {
       "period": "2026-07",
       "views": 33212
+    },
+    {
+      "period": "2026-08",
+      "views": 12192
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 334740
+      "views": 346932
     }
   ]
 }

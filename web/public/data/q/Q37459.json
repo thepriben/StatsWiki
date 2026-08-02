@@ -4,7 +4,7 @@
   "title": "Nicole_Kidman",
   "description": "Australian-American actress, producer, and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicole_Kidman-66060_%28cropped%29.jpg?width=64",
-  "total": 39950644,
+  "total": 39961552,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-07",
       "views": 191913
+    },
+    {
+      "period": "2026-08",
+      "views": 10908
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1651677
+      "views": 1662585
     }
   ]
 }

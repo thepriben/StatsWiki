@@ -4,7 +4,7 @@
   "title": "Slipknot_(band)",
   "description": "American band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Slipknot_at_Roskilde_Festival_2013.jpg?width=64",
-  "total": 2948397,
+  "total": 3036468,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 20796
+    },
+    {
+      "period": "2026-08",
+      "views": 88071
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 20796
+      "views": 108867
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Zendaya",
   "description": "American actress and singer (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zendaya-byPhilipRomano.jpg?width=64",
-  "total": 60202950,
+  "total": 60405397,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-07",
       "views": 2191872
+    },
+    {
+      "period": "2026-08",
+      "views": 202447
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 7457393
+      "views": 7659840
     }
   ]
 }

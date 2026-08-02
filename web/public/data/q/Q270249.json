@@ -4,7 +4,7 @@
   "title": "Elina_Svitolina",
   "description": "Ukrainian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukraine_at_the_2020_Summer_Olympics016.jpg?width=64",
-  "total": 2331589,
+  "total": 2340059,
   "monthly": [
     {
       "period": "2017-05",
@@ -149,6 +149,10 @@
     {
       "period": "2026-07",
       "views": 9302
+    },
+    {
+      "period": "2026-08",
+      "views": 8470
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 556256
+      "views": 564726
     }
   ]
 }

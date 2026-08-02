@@ -4,7 +4,7 @@
   "title": "Commonwealth_of_Nations",
   "description": "political association of mostly former British Empire territories",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marlborough_House.jpg?width=64",
-  "total": 4035340,
+  "total": 4048146,
   "monthly": [
     {
       "period": "2015-09",
@@ -165,6 +165,10 @@
     {
       "period": "2026-07",
       "views": 94362
+    },
+    {
+      "period": "2026-08",
+      "views": 12806
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 94362
+      "views": 107168
     }
   ]
 }

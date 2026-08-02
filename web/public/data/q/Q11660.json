@@ -4,7 +4,7 @@
   "title": "Artificial_intelligence",
   "description": "field of computer science that develops and studies software enabling machines to exhibit intelligent behavior",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png?width=64",
-  "total": 25352874,
+  "total": 25362364,
   "monthly": [
     {
       "period": "2015-07",
@@ -409,6 +409,10 @@
     {
       "period": "2026-07",
       "views": 243169
+    },
+    {
+      "period": "2026-08",
+      "views": 9490
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 1952086
+      "views": 1961576
     }
   ]
 }

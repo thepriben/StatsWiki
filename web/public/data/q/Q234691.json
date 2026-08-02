@@ -4,7 +4,7 @@
   "title": "Stevie_Nicks",
   "description": "American singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stevie_Nicks_-_In_Your_Dreams_Premiere_March_2013_%28cropped%29.jpg?width=64",
-  "total": 9725742,
+  "total": 9734182,
   "monthly": [
     {
       "period": "2015-08",
@@ -429,6 +429,10 @@
     {
       "period": "2026-07",
       "views": 46913
+    },
+    {
+      "period": "2026-08",
+      "views": 8440
     }
   ],
   "yearly": [
@@ -478,7 +482,7 @@
     },
     {
       "period": "2026",
-      "views": 429116
+      "views": 437556
     }
   ]
 }

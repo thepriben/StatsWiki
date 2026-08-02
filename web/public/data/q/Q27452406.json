@@ -4,7 +4,7 @@
   "title": "Sadie_Sink",
   "description": "American actress (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sadie_Sink%2C_September_2022.jpg?width=64",
-  "total": 7785035,
+  "total": 7890540,
   "monthly": [
     {
       "period": "2017-10",
@@ -117,6 +117,10 @@
     {
       "period": "2026-07",
       "views": 398805
+    },
+    {
+      "period": "2026-08",
+      "views": 105505
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 1536042
+      "views": 1641547
     }
   ]
 }

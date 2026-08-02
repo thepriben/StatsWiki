@@ -4,7 +4,7 @@
   "title": "The_Death_of_Robin_Hood",
   "description": "2026 film directed by Michael Sarnoski",
   "image": "",
-  "total": 643601,
+  "total": 653920,
   "monthly": [
     {
       "period": "2025-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 160779
+    },
+    {
+      "period": "2026-08",
+      "views": 10319
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 633556
+      "views": 643875
     }
   ]
 }

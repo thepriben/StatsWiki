@@ -4,7 +4,7 @@
   "title": "Tony_Sirico",
   "description": "American actor (1942–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony_Sirico_2000.jpg?width=64",
-  "total": 815271,
+  "total": 825712,
   "monthly": [
     {
       "period": "2019-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 9191
+    },
+    {
+      "period": "2026-08",
+      "views": 10441
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 9191
+      "views": 19632
     }
   ]
 }

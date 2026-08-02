@@ -4,17 +4,21 @@
   "title": "Scylla",
   "description": "nymph transformed into a sea monster by Circe in Greek mythology",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scylla_Louvre_CA1341.jpg?width=64",
-  "total": 313077,
+  "total": 325086,
   "monthly": [
     {
       "period": "2026-07",
       "views": 313077
+    },
+    {
+      "period": "2026-08",
+      "views": 12009
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 313077
+      "views": 325086
     }
   ]
 }

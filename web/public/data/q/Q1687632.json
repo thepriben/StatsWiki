@@ -4,7 +4,7 @@
   "title": "Jeremy_Shockey",
   "description": "player of American football",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy_Shockey.jpg?width=64",
-  "total": 48661,
+  "total": 60457,
   "monthly": [
     {
       "period": "2015-10",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 26249
+    },
+    {
+      "period": "2026-08",
+      "views": 11796
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 26249
+      "views": 38045
     }
   ]
 }

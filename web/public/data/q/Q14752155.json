@@ -4,7 +4,7 @@
   "title": "Pedro_Pascal",
   "description": "Chilean and American actor (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro_Pascal_by_Gage_Skidmore.jpg?width=64",
-  "total": 29149221,
+  "total": 29158217,
   "monthly": [
     {
       "period": "2015-08",
@@ -325,6 +325,10 @@
     {
       "period": "2026-07",
       "views": 81920
+    },
+    {
+      "period": "2026-08",
+      "views": 8996
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 1743835
+      "views": 1752831
     }
   ]
 }

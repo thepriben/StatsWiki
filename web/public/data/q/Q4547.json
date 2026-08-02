@@ -4,7 +4,7 @@
   "title": "Daniel_Craig",
   "description": "English actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Craig-62900.jpg?width=64",
-  "total": 20741081,
+  "total": 20754715,
   "monthly": [
     {
       "period": "2015-07",
@@ -489,6 +489,10 @@
     {
       "period": "2026-06",
       "views": 27829
+    },
+    {
+      "period": "2026-08",
+      "views": 13634
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 518625
+      "views": 532259
     }
   ]
 }

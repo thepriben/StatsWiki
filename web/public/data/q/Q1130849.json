@@ -4,7 +4,7 @@
   "title": "Liverpool_F.C.",
   "description": "association football club in Liverpool, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liverpool_6_ucl_trophies.jpg?width=64",
-  "total": 36593455,
+  "total": 36602571,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-07",
       "views": 420003
+    },
+    {
+      "period": "2026-08",
+      "views": 9116
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 1106130
+      "views": 1115246
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Minka_Kelly",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minka_Kelly_in_2020.png?width=64",
-  "total": 3678923,
+  "total": 3702109,
   "monthly": [
     {
       "period": "2015-07",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 320349
+    },
+    {
+      "period": "2026-08",
+      "views": 23186
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 320349
+      "views": 343535
     }
   ]
 }

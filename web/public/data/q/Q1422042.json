@@ -4,7 +4,7 @@
   "title": "Women's_Africa_Cup_of_Nations",
   "description": "biennial international women's football tournament in Africa",
   "image": "",
-  "total": 112997,
+  "total": 124590,
   "monthly": [
     {
       "period": "2022-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 57249
+    },
+    {
+      "period": "2026-08",
+      "views": 11593
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 57249
+      "views": 68842
     }
   ]
 }

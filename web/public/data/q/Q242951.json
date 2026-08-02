@@ -4,7 +4,7 @@
   "title": "Emma_Thomas",
   "description": "British film producer (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EmmaThomas-byPhilipRomano.jpg?width=64",
-  "total": 1912777,
+  "total": 1932491,
   "monthly": [
     {
       "period": "2017-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 774519
+    },
+    {
+      "period": "2026-08",
+      "views": 19714
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 796905
+      "views": 816619
     }
   ]
 }

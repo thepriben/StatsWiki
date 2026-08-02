@@ -4,7 +4,7 @@
   "title": "Patti_Smith",
   "description": "American singer, songwriter, author and poet (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patti_Smith_at_the_81st_Venice_International_Film_Festival_in_2024.jpg?width=64",
-  "total": 818873,
+  "total": 836216,
   "monthly": [
     {
       "period": "2016-12",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 13134
+    },
+    {
+      "period": "2026-08",
+      "views": 17343
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 32566
+      "views": 49909
     }
   ]
 }

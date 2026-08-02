@@ -4,7 +4,7 @@
   "title": "Deebo_Samuel",
   "description": "American football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deebo_Samuel_2025_week_1.jpg?width=64",
-  "total": 1329787,
+  "total": 1342403,
   "monthly": [
     {
       "period": "2019-04",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 37612
+    },
+    {
+      "period": "2026-08",
+      "views": 12616
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 37612
+      "views": 50228
     }
   ]
 }

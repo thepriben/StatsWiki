@@ -4,7 +4,7 @@
   "title": "Chris_Pratt",
   "description": "American actor (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Pratt_2018.jpg?width=64",
-  "total": 37918999,
+  "total": 37928904,
   "monthly": [
     {
       "period": "2015-07",
@@ -525,6 +525,10 @@
     {
       "period": "2026-07",
       "views": 44643
+    },
+    {
+      "period": "2026-08",
+      "views": 9905
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 1403056
+      "views": 1412961
     }
   ]
 }

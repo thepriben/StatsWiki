@@ -4,17 +4,21 @@
   "title": "Mokksha",
   "description": "Indian film actress and classical dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mokksha_actress_2024.jpg?width=64",
-  "total": 7842,
+  "total": 22643,
   "monthly": [
     {
       "period": "2026-07",
       "views": 7842
+    },
+    {
+      "period": "2026-08",
+      "views": 14801
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 7842
+      "views": 22643
     }
   ]
 }

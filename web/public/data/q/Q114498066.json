@@ -4,7 +4,7 @@
   "title": "D4vd",
   "description": "American singer (born 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/D4vd_interviewed_for_POVJOV_04.png?width=64",
-  "total": 5091555,
+  "total": 5105189,
   "monthly": [
     {
       "period": "2025-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 411699
+    },
+    {
+      "period": "2026-08",
+      "views": 13634
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 2061488
+      "views": 2075122
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Inception",
   "description": "2010 film directed by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/InceptionCast2July10.jpg?width=64",
-  "total": 3885040,
+  "total": 3899988,
   "monthly": [
     {
       "period": "2015-07",
@@ -173,6 +173,10 @@
     {
       "period": "2026-07",
       "views": 353156
+    },
+    {
+      "period": "2026-08",
+      "views": 14948
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 353156
+      "views": 368104
     }
   ]
 }

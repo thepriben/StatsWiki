@@ -4,7 +4,7 @@
   "title": "Andrew_Garfield",
   "description": "British-American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Garfield.jpg?width=64",
-  "total": 13471359,
+  "total": 13503070,
   "monthly": [
     {
       "period": "2015-07",
@@ -305,6 +305,10 @@
     {
       "period": "2026-07",
       "views": 234584
+    },
+    {
+      "period": "2026-08",
+      "views": 31711
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 416530
+      "views": 448241
     }
   ]
 }

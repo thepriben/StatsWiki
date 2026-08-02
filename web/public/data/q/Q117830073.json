@@ -4,7 +4,7 @@
   "title": "Mortal_Kombat_II_(film)",
   "description": "2026 American film directed by Simon McQuoid",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mortal_Kombat_II_Movie_Logo.jpg?width=64",
-  "total": 3283728,
+  "total": 3303993,
   "monthly": [
     {
       "period": "2025-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 254104
+    },
+    {
+      "period": "2026-08",
+      "views": 20265
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 3025080
+      "views": 3045345
     }
   ]
 }

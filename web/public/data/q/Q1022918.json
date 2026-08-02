@@ -4,7 +4,7 @@
   "title": "Kowloon_Walled_City",
   "description": "human settlement in Kowloon City, Hong Kong",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kowloon_Walled_City_Early_Stage_Model_in_History_Museum.jpg?width=64",
-  "total": 733535,
+  "total": 770210,
   "monthly": [
     {
       "period": "2015-10",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 28751
+    },
+    {
+      "period": "2026-08",
+      "views": 36675
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 41888
+      "views": 78563
     }
   ]
 }

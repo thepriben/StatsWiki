@@ -4,7 +4,7 @@
   "title": "Tom_Hiddleston",
   "description": "English actor (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Hiddleston_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?width=64",
-  "total": 10851652,
+  "total": 10860862,
   "monthly": [
     {
       "period": "2015-07",
@@ -261,6 +261,10 @@
     {
       "period": "2026-07",
       "views": 136091
+    },
+    {
+      "period": "2026-08",
+      "views": 9210
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 1241391
+      "views": 1250601
     }
   ]
 }

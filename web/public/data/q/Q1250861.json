@@ -4,7 +4,7 @@
   "title": "Karen_Carpenter",
   "description": "American singer and drummer (1950–1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karen_Carpenter_in_1972_White_House.png?width=64",
-  "total": 2711922,
+  "total": 2756500,
   "monthly": [
     {
       "period": "2015-11",
@@ -217,6 +217,10 @@
     {
       "period": "2026-06",
       "views": 98689
+    },
+    {
+      "period": "2026-08",
+      "views": 44578
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 128648
+      "views": 173226
     }
   ]
 }

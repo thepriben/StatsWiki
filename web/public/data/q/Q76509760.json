@@ -4,7 +4,7 @@
   "title": "Count_Binface",
   "description": "Brtitsh satirical election candidate",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Binface_%28portrait_crop%29.jpg?width=64",
-  "total": 2086156,
+  "total": 2099192,
   "monthly": [
     {
       "period": "2019-12",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 1630548
+    },
+    {
+      "period": "2026-08",
+      "views": 13036
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 1784804
+      "views": 1797840
     }
   ]
 }

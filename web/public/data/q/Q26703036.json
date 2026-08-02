@@ -4,7 +4,7 @@
   "title": "Monica_Barbaro",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monica_Barbaro_%28cropped%29.jpg?width=64",
-  "total": 2794427,
+  "total": 2810699,
   "monthly": [
     {
       "period": "2018-09",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 126052
+    },
+    {
+      "period": "2026-08",
+      "views": 16272
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 444495
+      "views": 460767
     }
   ]
 }

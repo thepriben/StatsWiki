@@ -4,7 +4,7 @@
   "title": "Schengen_Area",
   "description": "area of 29 European states without mutual border controls",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grenzschild_Danmark_2011.jpg?width=64",
-  "total": 1244085,
+  "total": 1259859,
   "monthly": [
     {
       "period": "2015-09",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 21673
+    },
+    {
+      "period": "2026-08",
+      "views": 15774
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 21673
+      "views": 37447
     }
   ]
 }

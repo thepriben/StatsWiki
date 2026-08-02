@@ -4,7 +4,7 @@
   "title": "Disappearance_of_Nancy_Guthrie",
   "description": "2026 U.S. missing persons case",
   "image": "",
-  "total": 3483562,
+  "total": 3517331,
   "monthly": [
     {
       "period": "2026-02",
@@ -29,12 +29,16 @@
     {
       "period": "2026-07",
       "views": 56550
+    },
+    {
+      "period": "2026-08",
+      "views": 33769
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 3483562
+      "views": 3517331
     }
   ]
 }

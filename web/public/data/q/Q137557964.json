@@ -4,7 +4,7 @@
   "title": "Leviticus_(film)",
   "description": "2026 film by Adrian Chiarella",
   "image": "",
-  "total": 400211,
+  "total": 412567,
   "monthly": [
     {
       "period": "2026-04",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 93318
+    },
+    {
+      "period": "2026-08",
+      "views": 12356
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 400211
+      "views": 412567
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Pedro_Sánchez",
   "description": "Prime Minister of Spain since 2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Obisk_%C5%A1panskega_predsednika_vlade_v_Sloveniji_%2853658605930%29_%28cropped%29.jpg?width=64",
-  "total": 336314,
+  "total": 353869,
   "monthly": [
     {
       "period": "2023-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 129414
+    },
+    {
+      "period": "2026-08",
+      "views": 17555
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 216333
+      "views": 233888
     }
   ]
 }

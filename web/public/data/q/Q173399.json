@@ -4,7 +4,7 @@
   "title": "Elliot_Page",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ElliotPage-byPhilipRomano2.jpg?width=64",
-  "total": 18080562,
+  "total": 18110766,
   "monthly": [
     {
       "period": "2020-12",
@@ -241,6 +241,10 @@
     {
       "period": "2026-07",
       "views": 1475460
+    },
+    {
+      "period": "2026-08",
+      "views": 30204
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 2163915
+      "views": 2194119
     }
   ]
 }

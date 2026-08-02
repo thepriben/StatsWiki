@@ -1,0 +1,44 @@
+{
+  "qid": "Q185552",
+  "label": "eight-thousander",
+  "title": "Eight-thousander",
+  "description": "14 peaks over 8,000 m (26,247 ft)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flight_over_himalaya_annotated.jpg?width=64",
+  "total": 245659,
+  "monthly": [
+    {
+      "period": "2021-10",
+      "views": 83922
+    },
+    {
+      "period": "2021-11",
+      "views": 14796
+    },
+    {
+      "period": "2021-12",
+      "views": 99262
+    },
+    {
+      "period": "2022-08",
+      "views": 32785
+    },
+    {
+      "period": "2026-08",
+      "views": 14894
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 197980
+    },
+    {
+      "period": "2022",
+      "views": 32785
+    },
+    {
+      "period": "2026",
+      "views": 14894
+    }
+  ]
+}

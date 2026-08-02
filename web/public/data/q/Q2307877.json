@@ -4,7 +4,7 @@
   "title": "Spider-Man_in_film",
   "description": "depictions of Spider-Man in the film medium",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-Man-Logo.svg?width=64",
-  "total": 2771177,
+  "total": 2842623,
   "monthly": [
     {
       "period": "2016-03",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 243623
+    },
+    {
+      "period": "2026-08",
+      "views": 71446
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 280407
+      "views": 351853
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Bernie_Moreno",
   "description": "American politician and businessman (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sen._Bernie_Moreno_official_photo%2C_119th_Congress_%28HR%29.jpg?width=64",
-  "total": 472130,
+  "total": 491618,
   "monthly": [
     {
       "period": "2024-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 155615
+    },
+    {
+      "period": "2026-08",
+      "views": 19488
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 155615
+      "views": 175103
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Charles,_Prince_of_Wales",
   "description": "King of the United Kingdom since 2022 (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Charles_III_2025-09-17_%28cropped%29.jpg?width=64",
-  "total": 99619601,
+  "total": 99633825,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-07",
       "views": 457116
+    },
+    {
+      "period": "2026-08",
+      "views": 14224
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 3681984
+      "views": 3696208
     }
   ]
 }

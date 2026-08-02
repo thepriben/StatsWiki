@@ -4,7 +4,7 @@
   "title": "Jake_Johnson",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jake_Johnson_-_Maximum_Pleasure_Guaranteed.jpg?width=64",
-  "total": 510951,
+  "total": 520429,
   "monthly": [
     {
       "period": "2016-12",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 77041
+    },
+    {
+      "period": "2026-08",
+      "views": 9478
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 84984
+      "views": 94462
     }
   ]
 }

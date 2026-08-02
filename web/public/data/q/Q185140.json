@@ -4,7 +4,7 @@
   "title": "Joaquin_Phoenix",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joaquin_Phoenix_in_2018.jpg?width=64",
-  "total": 31616166,
+  "total": 31626395,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-07",
       "views": 30394
+    },
+    {
+      "period": "2026-08",
+      "views": 10229
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 63102
+      "views": 73331
     }
   ]
 }

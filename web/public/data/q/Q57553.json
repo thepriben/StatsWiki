@@ -4,7 +4,7 @@
   "title": "Mohammed_VI_of_Morocco",
   "description": "King of Morocco since 1999",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Mohammed_VI_%28cropped%29.jpg?width=64",
-  "total": 247641,
+  "total": 257593,
   "monthly": [
     {
       "period": "2017-01",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 31356
+    },
+    {
+      "period": "2026-08",
+      "views": 9952
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 40990
+      "views": 50942
     }
   ]
 }

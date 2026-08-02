@@ -4,7 +4,7 @@
   "title": "Adipurush",
   "description": "2023 film directed by Om Raut",
   "image": "",
-  "total": 7343533,
+  "total": 7353726,
   "monthly": [
     {
       "period": "2021-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 31239
+    },
+    {
+      "period": "2026-08",
+      "views": 10193
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 49944
+      "views": 60137
     }
   ]
 }

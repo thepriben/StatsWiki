@@ -4,7 +4,7 @@
   "title": "Memento_(film)",
   "description": "2000 film by Christopher Nolan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Memento.svg?width=64",
-  "total": 1292673,
+  "total": 1305412,
   "monthly": [
     {
       "period": "2015-11",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 343144
+    },
+    {
+      "period": "2026-08",
+      "views": 12739
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 354846
+      "views": 367585
     }
   ]
 }

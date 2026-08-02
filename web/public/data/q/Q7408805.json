@@ -4,7 +4,7 @@
   "title": "Samara_Weaving",
   "description": "Australian actress and model (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samara_Weaving_2015_%28cropped%29.jpg?width=64",
-  "total": 3028540,
+  "total": 3067886,
   "monthly": [
     {
       "period": "2017-10",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 141161
+    },
+    {
+      "period": "2026-08",
+      "views": 39346
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 930827
+      "views": 970173
     }
   ]
 }

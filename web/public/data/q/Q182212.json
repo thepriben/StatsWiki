@@ -4,7 +4,7 @@
   "title": "Spider-Man_3",
   "description": "2007 American film directed by Sam Raimi",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spider-Man_3-Logo.svg?width=64",
-  "total": 1391444,
+  "total": 1404747,
   "monthly": [
     {
       "period": "2017-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 19016
+    },
+    {
+      "period": "2026-08",
+      "views": 13303
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 30949
+      "views": 44252
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Andrea_Yates",
   "description": "American filicide",
   "image": "",
-  "total": 849361,
+  "total": 867443,
   "monthly": [
     {
       "period": "2016-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 90803
+    },
+    {
+      "period": "2026-08",
+      "views": 18082
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 495850
+      "views": 513932
     }
   ]
 }

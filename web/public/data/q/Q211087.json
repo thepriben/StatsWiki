@@ -4,7 +4,7 @@
   "title": "Pan_Am_Flight_103",
   "description": "US transatlantic flight, bombed in 1988 over Scotland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pan_Am_Flight_103._Crashed_Lockerbie%2C_Scotland%2C_21_December_1988.jpg?width=64",
-  "total": 3839873,
+  "total": 4003451,
   "monthly": [
     {
       "period": "2015-09",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 219180
+    },
+    {
+      "period": "2026-08",
+      "views": 163578
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 267619
+      "views": 431197
     }
   ]
 }

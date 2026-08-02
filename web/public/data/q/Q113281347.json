@@ -1,10 +1,10 @@
 {
   "qid": "Q113281347",
   "label": "Marvel Cinematic Universe Phase Six",
-  "title": "Marvel_Cinematic_Universe:_Phase_Six",
+  "title": "Avengers:_Secret_Wars",
   "description": "group of superhero films and television series",
   "image": "",
-  "total": 3500048,
+  "total": 3559607,
   "monthly": [
     {
       "period": "2022-07",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 412148
+    },
+    {
+      "period": "2026-08",
+      "views": 59559
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 572356
+      "views": 631915
     }
   ]
 }

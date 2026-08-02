@@ -4,17 +4,21 @@
   "title": "Furious_(TV_series)",
   "description": "2026 American crime drama series",
   "image": "",
-  "total": 194832,
+  "total": 233640,
   "monthly": [
     {
       "period": "2026-07",
       "views": 194832
+    },
+    {
+      "period": "2026-08",
+      "views": 38808
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 194832
+      "views": 233640
     }
   ]
 }

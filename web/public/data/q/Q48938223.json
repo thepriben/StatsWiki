@@ -4,7 +4,7 @@
   "title": "TikTok",
   "description": "video-focused social media platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiktok_logo_text.svg?width=64",
-  "total": 43339557,
+  "total": 43348256,
   "monthly": [
     {
       "period": "2018-09",
@@ -381,6 +381,10 @@
     {
       "period": "2026-07",
       "views": 192131
+    },
+    {
+      "period": "2026-08",
+      "views": 8699
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 2321661
+      "views": 2330360
     }
   ]
 }

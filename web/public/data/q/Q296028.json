@@ -4,7 +4,7 @@
   "title": "Alfred_Molina",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AlfredMolinaByJustinHoch2009.jpg?width=64",
-  "total": 2068320,
+  "total": 2076953,
   "monthly": [
     {
       "period": "2020-04",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 182960
+    },
+    {
+      "period": "2026-08",
+      "views": 8633
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 648231
+      "views": 656864
     }
   ]
 }

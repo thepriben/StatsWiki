@@ -4,7 +4,7 @@
   "title": "Cooper_Hoffman",
   "description": "American film actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CooperHoffmanWikiPic.jpg?width=64",
-  "total": 470264,
+  "total": 495601,
   "monthly": [
     {
       "period": "2021-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 91749
+    },
+    {
+      "period": "2026-08",
+      "views": 25337
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 91749
+      "views": 117086
     }
   ]
 }

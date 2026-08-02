@@ -4,7 +4,7 @@
   "title": "Doris_Day",
   "description": "American actress and singer (1922–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Doris_Day_1958_crop.jpg?width=64",
-  "total": 5059990,
+  "total": 5078093,
   "monthly": [
     {
       "period": "2015-08",
@@ -293,6 +293,10 @@
     {
       "period": "2026-07",
       "views": 12975
+    },
+    {
+      "period": "2026-08",
+      "views": 18103
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 32485
+      "views": 50588
     }
   ]
 }

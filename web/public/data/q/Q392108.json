@@ -4,7 +4,7 @@
   "title": "List_of_highest-grossing_films",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 95765003,
+  "total": 95795617,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 428598
+    },
+    {
+      "period": "2026-08",
+      "views": 30614
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 3380831
+      "views": 3411445
     }
   ]
 }

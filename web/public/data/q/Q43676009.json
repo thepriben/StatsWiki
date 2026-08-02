@@ -4,7 +4,7 @@
   "title": "Benny_Safdie",
   "description": "American filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BennySafdie-byPhilipRomano2.jpg?width=64",
-  "total": 2378988,
+  "total": 2407522,
   "monthly": [
     {
       "period": "2022-05",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 733457
+    },
+    {
+      "period": "2026-08",
+      "views": 28534
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 1015749
+      "views": 1044283
     }
   ]
 }

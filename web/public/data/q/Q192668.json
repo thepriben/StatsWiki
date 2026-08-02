@@ -4,7 +4,7 @@
   "title": "Nick_Cave",
   "description": "Australian musician and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Cave_%282021%29.jpg?width=64",
-  "total": 1241719,
+  "total": 1251482,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 7821
+    },
+    {
+      "period": "2026-08",
+      "views": 9763
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 80646
+      "views": 90409
     }
   ]
 }

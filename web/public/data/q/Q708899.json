@@ -4,17 +4,21 @@
   "title": "Gregg_Araki",
   "description": "American film director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gregg_Araki_-_Mysterious_Skin.jpg?width=64",
-  "total": 9921,
+  "total": 19674,
   "monthly": [
     {
       "period": "2026-07",
       "views": 9921
+    },
+    {
+      "period": "2026-08",
+      "views": 9753
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9921
+      "views": 19674
     }
   ]
 }

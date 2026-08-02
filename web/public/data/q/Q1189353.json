@@ -4,7 +4,7 @@
   "title": "Laurence_Fox",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LaurenceFox-Oxford-20080918.jpg?width=64",
-  "total": 2029104,
+  "total": 2037950,
   "monthly": [
     {
       "period": "2015-07",
@@ -173,6 +173,10 @@
     {
       "period": "2026-07",
       "views": 58536
+    },
+    {
+      "period": "2026-08",
+      "views": 8846
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 67403
+      "views": 76249
     }
   ]
 }

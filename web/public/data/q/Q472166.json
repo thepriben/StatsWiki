@@ -4,7 +4,7 @@
   "title": "Secret_Wars",
   "description": "1984 American comic book limited series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvel_secret_wars_logo.png?width=64",
-  "total": 578490,
+  "total": 587609,
   "monthly": [
     {
       "period": "2018-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 17575
+    },
+    {
+      "period": "2026-08",
+      "views": 9119
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 17575
+      "views": 26694
     }
   ]
 }

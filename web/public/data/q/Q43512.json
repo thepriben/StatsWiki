@@ -4,7 +4,7 @@
   "title": "K2",
   "description": "2nd-highest mountain on Earth",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/K2_2006b.jpg?width=64",
-  "total": 991801,
+  "total": 1008467,
   "monthly": [
     {
       "period": "2015-09",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 9051
+    },
+    {
+      "period": "2026-08",
+      "views": 16666
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 19107
+      "views": 35773
     }
   ]
 }
