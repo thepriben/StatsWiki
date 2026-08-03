@@ -1,0 +1,44 @@
+{
+  "qid": "Q1140649",
+  "label": "The Wicker Man",
+  "title": "The_Wicker_Man",
+  "description": "1973 film directed by Robin Hardy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Wicker_Man_%281973%29_US_trailer_-_Title_1.png?width=64",
+  "total": 92576,
+  "monthly": [
+    {
+      "period": "2023-05",
+      "views": 19414
+    },
+    {
+      "period": "2023-12",
+      "views": 14582
+    },
+    {
+      "period": "2025-07",
+      "views": 13146
+    },
+    {
+      "period": "2026-04",
+      "views": 36415
+    },
+    {
+      "period": "2026-08",
+      "views": 9019
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 33996
+    },
+    {
+      "period": "2025",
+      "views": 13146
+    },
+    {
+      "period": "2026",
+      "views": 45434
+    }
+  ]
+}

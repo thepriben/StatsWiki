@@ -4,7 +4,7 @@
   "title": "Bill_Irwin",
   "description": "American actor, clown, and comedian (born 1950)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BillIrwin-byPhilipRomano2.jpg?width=64",
-  "total": 279303,
+  "total": 288898,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 257560
+    },
+    {
+      "period": "2026-08",
+      "views": 9595
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 257560
+      "views": 267155
     }
   ]
 }

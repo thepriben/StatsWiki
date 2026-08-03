@@ -4,7 +4,7 @@
   "title": "Steel_Magnolias",
   "description": "1989 film directed by Herbert Ross",
   "image": "",
-  "total": 163168,
+  "total": 174976,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 9901
+    },
+    {
+      "period": "2026-08",
+      "views": 11808
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 9901
+      "views": 21709
     }
   ]
 }

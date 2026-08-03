@@ -4,7 +4,7 @@
   "title": "Daredevil:_Born_Again",
   "description": "Marvel Studios television series",
   "image": "",
-  "total": 5250884,
+  "total": 5260536,
   "monthly": [
     {
       "period": "2022-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-05",
       "views": 319180
+    },
+    {
+      "period": "2026-08",
+      "views": 9652
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 1264629
+      "views": 1274281
     }
   ]
 }

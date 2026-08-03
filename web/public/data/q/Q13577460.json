@@ -4,7 +4,7 @@
   "title": "TNT_Sports_(United_Kingdom)",
   "description": "group of sports television channels",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_%282023%29.svg?width=64",
-  "total": 3163528,
+  "total": 3175605,
   "monthly": [
     {
       "period": "2025-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 121073
+    },
+    {
+      "period": "2026-08",
+      "views": 12077
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 1569949
+      "views": 1582026
     }
   ]
 }

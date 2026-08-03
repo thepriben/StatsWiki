@@ -1,0 +1,112 @@
+{
+  "qid": "Q59284",
+  "label": "SummerSlam",
+  "title": "SummerSlam",
+  "description": "WWE pay-per-view",
+  "image": "",
+  "total": 319608,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 16618
+    },
+    {
+      "period": "2016-08",
+      "views": 21221
+    },
+    {
+      "period": "2017-06",
+      "views": 12395
+    },
+    {
+      "period": "2017-07",
+      "views": 20626
+    },
+    {
+      "period": "2017-08",
+      "views": 11807
+    },
+    {
+      "period": "2018-07",
+      "views": 72746
+    },
+    {
+      "period": "2018-08",
+      "views": 12412
+    },
+    {
+      "period": "2020-08",
+      "views": 10101
+    },
+    {
+      "period": "2021-08",
+      "views": 17305
+    },
+    {
+      "period": "2022-07",
+      "views": 18003
+    },
+    {
+      "period": "2023-08",
+      "views": 41455
+    },
+    {
+      "period": "2024-08",
+      "views": 15006
+    },
+    {
+      "period": "2025-08",
+      "views": 35601
+    },
+    {
+      "period": "2026-08",
+      "views": 14312
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 16618
+    },
+    {
+      "period": "2016",
+      "views": 21221
+    },
+    {
+      "period": "2017",
+      "views": 44828
+    },
+    {
+      "period": "2018",
+      "views": 85158
+    },
+    {
+      "period": "2020",
+      "views": 10101
+    },
+    {
+      "period": "2021",
+      "views": 17305
+    },
+    {
+      "period": "2022",
+      "views": 18003
+    },
+    {
+      "period": "2023",
+      "views": 41455
+    },
+    {
+      "period": "2024",
+      "views": 15006
+    },
+    {
+      "period": "2025",
+      "views": 35601
+    },
+    {
+      "period": "2026",
+      "views": 14312
+    }
+  ]
+}

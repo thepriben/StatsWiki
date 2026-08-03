@@ -4,7 +4,7 @@
   "title": "Euphoria_(American_TV_series)",
   "description": "2019 American teen drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euphoria_promotional_logo.svg?width=64",
-  "total": 22575715,
+  "total": 22584660,
   "monthly": [
     {
       "period": "2019-06",
@@ -241,6 +241,10 @@
     {
       "period": "2026-07",
       "views": 52599
+    },
+    {
+      "period": "2026-08",
+      "views": 8945
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 6451616
+      "views": 6460561
     }
   ]
 }

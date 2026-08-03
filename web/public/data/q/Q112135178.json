@@ -4,7 +4,7 @@
   "title": "Lash_Legend",
   "description": "American professional wrestler and basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lash_Legend_at_FOS_2026_%28cropped%29.png?width=64",
-  "total": 215137,
+  "total": 227056,
   "monthly": [
     {
       "period": "2024-03",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 9584
+    },
+    {
+      "period": "2026-08",
+      "views": 11919
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 61053
+      "views": 72972
     }
   ]
 }

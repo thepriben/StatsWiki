@@ -4,7 +4,7 @@
   "title": "Columbine_High_School_massacre",
   "description": "school shooting at Columbine High School in Columbine, Colorado, United States on April 20, 1999",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbine_Shooting_Security_Camera.jpg?width=64",
-  "total": 11496676,
+  "total": 11506874,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-06",
       "views": 64742
+    },
+    {
+      "period": "2026-08",
+      "views": 10198
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 435851
+      "views": 446049
     }
   ]
 }

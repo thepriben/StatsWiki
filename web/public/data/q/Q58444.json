@@ -4,7 +4,7 @@
   "title": "Liam_Neeson",
   "description": "actor from Northern Ireland (born 1952)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liam_Neeson_Deauville_2012.jpg?width=64",
-  "total": 25731335,
+  "total": 25741544,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-07",
       "views": 40353
+    },
+    {
+      "period": "2026-08",
+      "views": 10209
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 490221
+      "views": 500430
     }
   ]
 }

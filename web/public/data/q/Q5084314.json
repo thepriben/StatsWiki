@@ -4,7 +4,7 @@
   "title": "Charley_Hull",
   "description": "English professional golfer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2013_Women%27s_British_Open_%E2%80%93_Charley_Hull_%286%29.jpg?width=64",
-  "total": 331366,
+  "total": 340733,
   "monthly": [
     {
       "period": "2021-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 23144
+    },
+    {
+      "period": "2026-08",
+      "views": 9367
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 64964
+      "views": 74331
     }
   ]
 }

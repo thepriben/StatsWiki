@@ -1,0 +1,52 @@
+{
+  "qid": "Q23708951",
+  "label": "WWE Women's Championship",
+  "title": "WWE_Women's_Championship",
+  "description": "championship created and promoted by the American professional wrestling promotion WWE",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexa_Bliss_as_Raw_Women%27s_Champion.jpg?width=64",
+  "total": 218150,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 96623
+    },
+    {
+      "period": "2016-07",
+      "views": 24072
+    },
+    {
+      "period": "2016-08",
+      "views": 28431
+    },
+    {
+      "period": "2023-06",
+      "views": 15885
+    },
+    {
+      "period": "2023-08",
+      "views": 28763
+    },
+    {
+      "period": "2026-04",
+      "views": 8630
+    },
+    {
+      "period": "2026-08",
+      "views": 15746
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 149126
+    },
+    {
+      "period": "2023",
+      "views": 44648
+    },
+    {
+      "period": "2026",
+      "views": 24376
+    }
+  ]
+}

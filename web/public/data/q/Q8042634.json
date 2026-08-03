@@ -4,7 +4,7 @@
   "title": "XXXX",
   "description": "Disambiguation page providing links to topics that could be referred to by the same search term",
   "image": "",
-  "total": 104461066,
+  "total": 104469924,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-07",
       "views": 126135
+    },
+    {
+      "period": "2026-08",
+      "views": 8858
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 1226410
+      "views": 1235268
     }
   ]
 }

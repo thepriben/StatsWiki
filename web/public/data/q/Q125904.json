@@ -4,7 +4,7 @@
   "title": "Edward_Norton",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg?width=64",
-  "total": 2267860,
+  "total": 2276978,
   "monthly": [
     {
       "period": "2015-08",
@@ -133,6 +133,10 @@
     {
       "period": "2026-07",
       "views": 60273
+    },
+    {
+      "period": "2026-08",
+      "views": 9118
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 168013
+      "views": 177131
     }
   ]
 }

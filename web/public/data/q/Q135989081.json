@@ -4,7 +4,7 @@
   "title": "The_Eternal_Sunshine_Tour",
   "description": "2026 concert tour by Ariana Grande",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eternal_Sunshine_Tour_logo.png?width=64",
-  "total": 119831,
+  "total": 130670,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 7941
+    },
+    {
+      "period": "2026-08",
+      "views": 10839
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 119831
+      "views": 130670
     }
   ]
 }

@@ -2,9 +2,9 @@
   "qid": "Q124109792",
   "label": "Oba Femi",
   "title": "Oba_Femi",
-  "description": "Nigerian professional wrestler and shot putter",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oba_Femi_2024.jpg?width=64",
-  "total": 788449,
+  "description": "Nigerian professional wrestler",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oba_Femi_2024_%28cropped%29.jpg?width=64",
+  "total": 829293,
   "monthly": [
     {
       "period": "2024-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 26445
+    },
+    {
+      "period": "2026-08",
+      "views": 40844
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 599646
+      "views": 640490
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Charlie_Puth",
   "description": "American singer, songwriter, and record producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Puth_2017_%28cropped%29.jpg?width=64",
-  "total": 4035636,
+  "total": 4045185,
   "monthly": [
     {
       "period": "2015-07",
@@ -233,6 +233,10 @@
     {
       "period": "2026-07",
       "views": 9771
+    },
+    {
+      "period": "2026-08",
+      "views": 9549
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 730864
+      "views": 740413
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "William_Shakespeare",
   "description": "English playwright and poet (1564–1616)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakespeare.jpg?width=64",
-  "total": 46847542,
+  "total": 46856842,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-07",
       "views": 100774
+    },
+    {
+      "period": "2026-08",
+      "views": 9300
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 2759524
+      "views": 2768824
     }
   ]
 }

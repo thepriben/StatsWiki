@@ -4,7 +4,7 @@
   "title": "Nauru",
   "description": "country in Oceania",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coral_reef_on_Nauru.jpg?width=64",
-  "total": 593183,
+  "total": 603691,
   "monthly": [
     {
       "period": "2016-01",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 32548
+    },
+    {
+      "period": "2026-08",
+      "views": 10508
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 85065
+      "views": 95573
     }
   ]
 }

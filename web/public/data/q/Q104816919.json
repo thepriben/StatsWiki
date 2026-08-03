@@ -4,17 +4,21 @@
   "title": "Danhausen",
   "description": "American professional wrestler (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danhausen_in_2019.jpg?width=64",
-  "total": 18521,
+  "total": 33676,
   "monthly": [
     {
       "period": "2026-07",
       "views": 18521
+    },
+    {
+      "period": "2026-08",
+      "views": 15155
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 18521
+      "views": 33676
     }
   ]
 }

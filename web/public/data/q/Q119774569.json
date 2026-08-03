@@ -4,7 +4,7 @@
   "title": "My_Adventures_with_Superman",
   "description": "American animated superhero television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/My_Adventures_with_Superman_%28Adult_Swim%29_logo.svg?width=64",
-  "total": 753825,
+  "total": 768573,
   "monthly": [
     {
       "period": "2023-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 65894
+    },
+    {
+      "period": "2026-08",
+      "views": 14748
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 98560
+      "views": 113308
     }
   ]
 }

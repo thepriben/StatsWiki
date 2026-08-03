@@ -4,7 +4,7 @@
   "title": "Nymph",
   "description": "minor female nature deity in Greek and Roman mythology; personifications of nature",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rape_Hylas_Massimo.jpg?width=64",
-  "total": 266064,
+  "total": 275395,
   "monthly": [
     {
       "period": "2022-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 230622
+    },
+    {
+      "period": "2026-08",
+      "views": 9331
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 230622
+      "views": 239953
     }
   ]
 }

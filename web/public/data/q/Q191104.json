@@ -4,7 +4,7 @@
   "title": "Sean_Bean",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AV0A6306_Sean_Bean_%28cropped%29.jpg?width=64",
-  "total": 2358713,
+  "total": 2367667,
   "monthly": [
     {
       "period": "2015-07",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 107618
+    },
+    {
+      "period": "2026-08",
+      "views": 8954
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 107618
+      "views": 116572
     }
   ]
 }

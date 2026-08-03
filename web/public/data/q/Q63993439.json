@@ -4,7 +4,7 @@
   "title": "Ruth_Madeley",
   "description": "British actress",
   "image": "",
-  "total": 308633,
+  "total": 320251,
   "monthly": [
     {
       "period": "2020-12",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 149574
+    },
+    {
+      "period": "2026-08",
+      "views": 11618
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 149574
+      "views": 161192
     }
   ]
 }

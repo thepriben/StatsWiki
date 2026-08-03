@@ -4,7 +4,7 @@
   "title": "Trick_Williams",
   "description": "American professional wrestler (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trick_Williams_FOS_2026_%28cropped%29.png?width=64",
-  "total": 307746,
+  "total": 320333,
   "monthly": [
     {
       "period": "2024-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 12946
+    },
+    {
+      "period": "2026-08",
+      "views": 12587
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 192648
+      "views": 205235
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kurt_Cobain",
   "description": "American rock musician (1967–1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nirvana_around_1992_%28cropped%29.jpg?width=64",
-  "total": 15249583,
+  "total": 15258664,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-07",
       "views": 10247
+    },
+    {
+      "period": "2026-08",
+      "views": 9081
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 284957
+      "views": 294038
     }
   ]
 }

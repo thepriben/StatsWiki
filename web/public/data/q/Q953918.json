@@ -4,7 +4,7 @@
   "title": "Mumford_&_Sons",
   "description": "British folk rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mumford_%26_Sons%2C_performing_at_Aviemore%2C_Scotland_2015.jpg?width=64",
-  "total": 706029,
+  "total": 714880,
   "monthly": [
     {
       "period": "2015-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 18220
+    },
+    {
+      "period": "2026-08",
+      "views": 8851
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 230444
+      "views": 239295
     }
   ]
 }

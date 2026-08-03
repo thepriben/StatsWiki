@@ -1,0 +1,32 @@
+{
+  "qid": "Q1205312",
+  "label": "In-N-Out Burger",
+  "title": "In-N-Out_Burger",
+  "description": "American chain of fast food restaurants",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UC_Irvine_University_Tower.jpg?width=64",
+  "total": 51041,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "views": 19058
+    },
+    {
+      "period": "2026-04",
+      "views": 22322
+    },
+    {
+      "period": "2026-08",
+      "views": 9661
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 19058
+    },
+    {
+      "period": "2026",
+      "views": 31983
+    }
+  ]
+}
