@@ -4,7 +4,7 @@
   "title": "Bradley_Cooper",
   "description": "American actor (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradley_Cooper.jpg?width=64",
-  "total": 35046541,
+  "total": 35060911,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-07",
       "views": 92637
+    },
+    {
+      "period": "2026-08",
+      "views": 14370
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 301538
+      "views": 315908
     }
   ]
 }

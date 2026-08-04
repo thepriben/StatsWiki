@@ -4,7 +4,7 @@
   "title": "Help:Introduction",
   "description": "Wikimedia project page",
   "image": "",
-  "total": 1827734,
+  "total": 1837242,
   "monthly": [
     {
       "period": "2022-03",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 260341
+    },
+    {
+      "period": "2026-08",
+      "views": 9508
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 576726
+      "views": 586234
     }
   ]
 }

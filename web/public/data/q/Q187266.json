@@ -4,7 +4,7 @@
   "title": "Toy_Story_2",
   "description": "1999 animated film",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toy_Story_2_logo.svg?width=64",
-  "total": 339252,
+  "total": 358876,
   "monthly": [
     {
       "period": "2017-01",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 153211
+    },
+    {
+      "period": "2026-08",
+      "views": 19624
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 153211
+      "views": 172835
     }
   ]
 }

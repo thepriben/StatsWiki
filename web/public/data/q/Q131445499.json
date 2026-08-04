@@ -4,17 +4,21 @@
   "title": "2026_Women's_Africa_Cup_of_Nations",
   "description": "2025 edition of the Women's Africa Cup of Nations",
   "image": "",
-  "total": 38000,
+  "total": 46951,
   "monthly": [
     {
       "period": "2026-07",
       "views": 38000
+    },
+    {
+      "period": "2026-08",
+      "views": 8951
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 38000
+      "views": 46951
     }
   ]
 }

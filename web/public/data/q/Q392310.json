@@ -1,0 +1,52 @@
+{
+  "qid": "Q392310",
+  "label": "LASK Linz",
+  "title": "LASK",
+  "description": "association football club in Austria",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LASK-Logo_2023.svg?width=64",
+  "total": 206917,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 52578
+    },
+    {
+      "period": "2020-03",
+      "views": 27689
+    },
+    {
+      "period": "2020-08",
+      "views": 16306
+    },
+    {
+      "period": "2020-10",
+      "views": 12646
+    },
+    {
+      "period": "2023-09",
+      "views": 68098
+    },
+    {
+      "period": "2023-11",
+      "views": 16573
+    },
+    {
+      "period": "2026-08",
+      "views": 13027
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 109219
+    },
+    {
+      "period": "2023",
+      "views": 84671
+    },
+    {
+      "period": "2026",
+      "views": 13027
+    }
+  ]
+}

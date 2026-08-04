@@ -4,7 +4,7 @@
   "title": "Ryan_Hurst",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ryan_Hurst_%2849134501047%29.jpg?width=64",
-  "total": 582570,
+  "total": 591702,
   "monthly": [
     {
       "period": "2019-03",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 175616
+    },
+    {
+      "period": "2026-08",
+      "views": 9132
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 315515
+      "views": 324647
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Your_Mother_Your_Mother_Your_Mother",
   "description": "upcoming film directed by Bassam Tariq",
   "image": "",
-  "total": 19559,
+  "total": 29370,
   "monthly": [
     {
       "period": "2026-06",
       "views": 19559
+    },
+    {
+      "period": "2026-08",
+      "views": 9811
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 19559
+      "views": 29370
     }
   ]
 }

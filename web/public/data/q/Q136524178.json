@@ -4,7 +4,7 @@
   "title": "Dutton_Ranch",
   "description": "American television series",
   "image": "",
-  "total": 2403265,
+  "total": 2411560,
   "monthly": [
     {
       "period": "2026-05",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 606622
+    },
+    {
+      "period": "2026-08",
+      "views": 8295
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2403265
+      "views": 2411560
     }
   ]
 }

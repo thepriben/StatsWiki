@@ -4,7 +4,7 @@
   "title": "2026–27_UEFA_Champions_League_qualifying",
   "description": "football tournament qualification stage",
   "image": "",
-  "total": 140787,
+  "total": 158447,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 130213
+    },
+    {
+      "period": "2026-08",
+      "views": 17660
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 140787
+      "views": 158447
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "qid": "Q203635",
+  "label": "myrrh",
+  "title": "Myrrh",
+  "description": "resin produced by the Commiphora myrrha tree",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Myrrh.JPG?width=64",
+  "total": 147406,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 32376
+    },
+    {
+      "period": "2025-06",
+      "views": 13279
+    },
+    {
+      "period": "2025-12",
+      "views": 92476
+    },
+    {
+      "period": "2026-08",
+      "views": 9275
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 32376
+    },
+    {
+      "period": "2025",
+      "views": 105755
+    },
+    {
+      "period": "2026",
+      "views": 9275
+    }
+  ]
+}

@@ -4,17 +4,21 @@
   "title": "Flock_Safety",
   "description": "American video surveillance company",
   "image": "",
-  "total": 51366,
+  "total": 60759,
   "monthly": [
     {
       "period": "2026-07",
       "views": 51366
+    },
+    {
+      "period": "2026-08",
+      "views": 9393
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 51366
+      "views": 60759
     }
   ]
 }

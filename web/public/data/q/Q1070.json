@@ -1,0 +1,60 @@
+{
+  "qid": "Q1070",
+  "label": "Ahmedabad",
+  "title": "Ahmedabad",
+  "description": "city in the state of Gujarat, India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amdavad_Aerial.jpg?width=64",
+  "total": 292044,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 11456
+    },
+    {
+      "period": "2021-02",
+      "views": 17013
+    },
+    {
+      "period": "2023-05",
+      "views": 28143
+    },
+    {
+      "period": "2023-10",
+      "views": 27891
+    },
+    {
+      "period": "2023-11",
+      "views": 53665
+    },
+    {
+      "period": "2025-06",
+      "views": 143641
+    },
+    {
+      "period": "2026-08",
+      "views": 10235
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 11456
+    },
+    {
+      "period": "2021",
+      "views": 17013
+    },
+    {
+      "period": "2023",
+      "views": 109699
+    },
+    {
+      "period": "2025",
+      "views": 143641
+    },
+    {
+      "period": "2026",
+      "views": 10235
+    }
+  ]
+}

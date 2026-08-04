@@ -4,7 +4,7 @@
   "title": "Charlie_Sheen",
   "description": "American actor (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Sheen_2012.jpg?width=64",
-  "total": 26250970,
+  "total": 26260376,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-07",
       "views": 8658
+    },
+    {
+      "period": "2026-08",
+      "views": 9406
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 236987
+      "views": 246393
     }
   ]
 }

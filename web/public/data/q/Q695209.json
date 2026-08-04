@@ -4,7 +4,7 @@
   "title": "The_Mist_(film)",
   "description": "2007 film by Frank Darabont",
   "image": "",
-  "total": 534403,
+  "total": 550087,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 24522
+    },
+    {
+      "period": "2026-08",
+      "views": 15684
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 50350
+      "views": 66034
     }
   ]
 }

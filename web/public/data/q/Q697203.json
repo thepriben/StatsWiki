@@ -4,17 +4,21 @@
   "title": "The_Odyssey_(1997_miniseries)",
   "description": "1997 television miniseries directed by Andrei Konchalovsky",
   "image": "",
-  "total": 193233,
+  "total": 201535,
   "monthly": [
     {
       "period": "2026-07",
       "views": 193233
+    },
+    {
+      "period": "2026-08",
+      "views": 8302
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 193233
+      "views": 201535
     }
   ]
 }

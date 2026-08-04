@@ -4,7 +4,7 @@
   "title": "Noah_Kahan",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Noah_Kahan_2024_01_%28cropped%29.jpg?width=64",
-  "total": 1673783,
+  "total": 1682708,
   "monthly": [
     {
       "period": "2023-06",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 365120
+    },
+    {
+      "period": "2026-08",
+      "views": 8925
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 1053944
+      "views": 1062869
     }
   ]
 }

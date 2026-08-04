@@ -4,7 +4,7 @@
   "title": "English_language",
   "description": "West Germanic language",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Webster_Orthography_1828_%284-14%29.jpg?width=64",
-  "total": 35858864,
+  "total": 35867523,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 91823
+    },
+    {
+      "period": "2026-08",
+      "views": 8659
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 946450
+      "views": 955109
     }
   ]
 }

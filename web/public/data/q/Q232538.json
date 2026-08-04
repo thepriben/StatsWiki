@@ -4,7 +4,7 @@
   "title": "Patty_Duke",
   "description": "American actress (1946–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patty_Duke_1975.JPG?width=64",
-  "total": 2082879,
+  "total": 2093523,
   "monthly": [
     {
       "period": "2016-03",
@@ -117,6 +117,10 @@
     {
       "period": "2026-07",
       "views": 24847
+    },
+    {
+      "period": "2026-08",
+      "views": 10644
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 64358
+      "views": 75002
     }
   ]
 }

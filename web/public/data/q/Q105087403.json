@@ -1,0 +1,48 @@
+{
+  "qid": "Q105087403",
+  "label": "Fighting Dinosaurs",
+  "title": "Fighting_Dinosaurs",
+  "description": "fossil specimen of two dinosaurs in combat",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fighting_dinosaurs_%282%29.jpg?width=64",
+  "total": 63448,
+  "monthly": [
+    {
+      "period": "2022-06",
+      "views": 8878
+    },
+    {
+      "period": "2023-03",
+      "views": 12205
+    },
+    {
+      "period": "2023-10",
+      "views": 13318
+    },
+    {
+      "period": "2024-08",
+      "views": 12777
+    },
+    {
+      "period": "2026-08",
+      "views": 16270
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 8878
+    },
+    {
+      "period": "2023",
+      "views": 25523
+    },
+    {
+      "period": "2024",
+      "views": 12777
+    },
+    {
+      "period": "2026",
+      "views": 16270
+    }
+  ]
+}

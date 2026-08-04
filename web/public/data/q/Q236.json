@@ -4,7 +4,7 @@
   "title": "Montenegro",
   "description": "country in southeastern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R-1_regional_road_%28Montenegro%29_07.jpg?width=64",
-  "total": 1927131,
+  "total": 1935795,
   "monthly": [
     {
       "period": "2015-09",
@@ -217,6 +217,10 @@
     {
       "period": "2026-07",
       "views": 10121
+    },
+    {
+      "period": "2026-08",
+      "views": 8664
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 18227
+      "views": 26891
     }
   ]
 }

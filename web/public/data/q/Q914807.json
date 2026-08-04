@@ -4,7 +4,7 @@
   "title": "Help:Contents",
   "description": "Wikimedia help page",
   "image": "",
-  "total": 1819656,
+  "total": 1835707,
   "monthly": [
     {
       "period": "2015-07",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 251787
+    },
+    {
+      "period": "2026-08",
+      "views": 16051
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 470270
+      "views": 486321
     }
   ]
 }

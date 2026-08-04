@@ -4,7 +4,7 @@
   "title": "Randal_Kolo_Muani",
   "description": "French footballer (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Randal_Kolo_Muani_2020.jpg?width=64",
-  "total": 867771,
+  "total": 875966,
   "monthly": [
     {
       "period": "2022-11",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 10195
+    },
+    {
+      "period": "2026-08",
+      "views": 8195
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 27405
+      "views": 35600
     }
   ]
 }

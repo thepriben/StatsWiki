@@ -4,7 +4,7 @@
   "title": "Lina_Medina",
   "description": "Peruvian woman, youngest confirmed mother in medical history",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lina_Medina.jpg?width=64",
-  "total": 2578923,
+  "total": 2590128,
   "monthly": [
     {
       "period": "2015-07",
@@ -217,6 +217,10 @@
     {
       "period": "2026-07",
       "views": 22194
+    },
+    {
+      "period": "2026-08",
+      "views": 11205
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 72173
+      "views": 83378
     }
   ]
 }

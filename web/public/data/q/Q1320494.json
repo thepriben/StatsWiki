@@ -4,7 +4,7 @@
   "title": "Scott_Eastwood",
   "description": "American actor (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scott_Eastwood_2025.jpg?width=64",
-  "total": 5266445,
+  "total": 5284590,
   "monthly": [
     {
       "period": "2015-07",
@@ -205,6 +205,10 @@
     {
       "period": "2026-06",
       "views": 40208
+    },
+    {
+      "period": "2026-08",
+      "views": 18145
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 50845
+      "views": 68990
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Newcastle_United_F.C.",
   "description": "association football club in Newcastle upon Tyne, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Newcastle_United_vs_Watford%2C_19_September_2015_%2801%29.JPG?width=64",
-  "total": 4996509,
+  "total": 5006266,
   "monthly": [
     {
       "period": "2015-07",
@@ -273,6 +273,10 @@
     {
       "period": "2026-07",
       "views": 38900
+    },
+    {
+      "period": "2026-08",
+      "views": 9757
     }
   ],
   "yearly": [
@@ -322,7 +326,7 @@
     },
     {
       "period": "2026",
-      "views": 60004
+      "views": 69761
     }
   ]
 }

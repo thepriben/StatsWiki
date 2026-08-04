@@ -4,7 +4,7 @@
   "title": "Edward_VIII",
   "description": "King of the United Kingdom in 1936",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_and_Duchess_of_Windsor_-_Google_Art_Project_%28Duke_cropped%29.jpg?width=64",
-  "total": 54531645,
+  "total": 54539852,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-07",
       "views": 41091
+    },
+    {
+      "period": "2026-08",
+      "views": 8207
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 1619898
+      "views": 1628105
     }
   ]
 }

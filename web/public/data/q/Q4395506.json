@@ -4,7 +4,7 @@
   "title": "Portal:Contents",
   "description": "list of Wikipedia's tables of contents",
   "image": "",
-  "total": 23687043,
+  "total": 23698446,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-06",
       "views": 78552
+    },
+    {
+      "period": "2026-08",
+      "views": 11403
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 78552
+      "views": 89955
     }
   ]
 }

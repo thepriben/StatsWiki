@@ -4,7 +4,7 @@
   "title": "Keli_Lane",
   "description": "Australian convicted murderer",
   "image": "",
-  "total": 77755,
+  "total": 95342,
   "monthly": [
     {
       "period": "2018-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 22201
+    },
+    {
+      "period": "2026-08",
+      "views": 17587
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 32893
+      "views": 50480
     }
   ]
 }

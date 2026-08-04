@@ -1,0 +1,52 @@
+{
+  "qid": "Q2068768",
+  "label": "Heart Attack Grill",
+  "title": "Heart_Attack_Grill",
+  "description": "restaurant",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heart_Attack_Grill%2C_Las_Vegas.JPG?width=64",
+  "total": 219967,
+  "monthly": [
+    {
+      "period": "2017-07",
+      "views": 8481
+    },
+    {
+      "period": "2018-03",
+      "views": 103765
+    },
+    {
+      "period": "2018-05",
+      "views": 11462
+    },
+    {
+      "period": "2018-07",
+      "views": 17296
+    },
+    {
+      "period": "2021-06",
+      "views": 26315
+    },
+    {
+      "period": "2026-08",
+      "views": 52648
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 8481
+    },
+    {
+      "period": "2018",
+      "views": 132523
+    },
+    {
+      "period": "2021",
+      "views": 26315
+    },
+    {
+      "period": "2026",
+      "views": 52648
+    }
+  ]
+}

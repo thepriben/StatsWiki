@@ -4,7 +4,7 @@
   "title": "Wildberries",
   "description": "largest Russian online retailer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildberries_2023_Pink.svg?width=64",
-  "total": 159192,
+  "total": 172928,
   "monthly": [
     {
       "period": "2024-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 146104
+    },
+    {
+      "period": "2026-08",
+      "views": 13736
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 146104
+      "views": 159840
     }
   ]
 }
