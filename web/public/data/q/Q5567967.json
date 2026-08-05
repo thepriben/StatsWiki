@@ -4,7 +4,7 @@
   "title": "Glen_Powell",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glen_Powell_at_CinemaCon_2025_06_%28cropped%29.jpg?width=64",
-  "total": 11147480,
+  "total": 11157075,
   "monthly": [
     {
       "period": "2015-09",
@@ -201,6 +201,10 @@
     {
       "period": "2026-07",
       "views": 18685
+    },
+    {
+      "period": "2026-08",
+      "views": 9595
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 403380
+      "views": 412975
     }
   ]
 }

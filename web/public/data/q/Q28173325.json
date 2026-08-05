@@ -4,7 +4,7 @@
   "title": "Jungle_(2017_film)",
   "description": "2017 film by Greg McLean",
   "image": "",
-  "total": 250789,
+  "total": 276058,
   "monthly": [
     {
       "period": "2017-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 12111
+    },
+    {
+      "period": "2026-08",
+      "views": 25269
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 12111
+      "views": 37380
     }
   ]
 }

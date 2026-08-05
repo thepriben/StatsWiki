@@ -4,7 +4,7 @@
   "title": "Kendra_Scott",
   "description": "American businesswoman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kendra_Scott_Speaking_in_NYC_2012.jpg?width=64",
-  "total": 315726,
+  "total": 327072,
   "monthly": [
     {
       "period": "2020-10",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 18141
+    },
+    {
+      "period": "2026-08",
+      "views": 11346
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 67150
+      "views": 78496
     }
   ]
 }

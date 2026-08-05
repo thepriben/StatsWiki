@@ -4,7 +4,7 @@
   "title": "Tom_Selleck",
   "description": "American actor (born 1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Selleck_at_Los_Angeles_Times_Festival_of_Books_2026_05.jpg?width=64",
-  "total": 10496420,
+  "total": 10504371,
   "monthly": [
     {
       "period": "2015-07",
@@ -413,6 +413,10 @@
     {
       "period": "2026-07",
       "views": 8064
+    },
+    {
+      "period": "2026-08",
+      "views": 7951
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 19446
+      "views": 27397
     }
   ]
 }

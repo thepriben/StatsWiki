@@ -4,7 +4,7 @@
   "title": "Hundred_Years'_War",
   "description": "series of conflicts and wars between England and France between 1337 and 1453",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_crecy_froissart.jpg?width=64",
-  "total": 798398,
+  "total": 811026,
   "monthly": [
     {
       "period": "2016-05",
@@ -165,6 +165,10 @@
     {
       "period": "2026-07",
       "views": 10080
+    },
+    {
+      "period": "2026-08",
+      "views": 12628
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 37707
+      "views": 50335
     }
   ]
 }

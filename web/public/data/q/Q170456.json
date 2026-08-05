@@ -1,0 +1,56 @@
+{
+  "qid": "Q170456",
+  "label": "Pripyat",
+  "title": "Pripyat",
+  "description": "abandoned city in Kyiv Oblast, Ukraine",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pripyat_montage.jpg?width=64",
+  "total": 1030575,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 36278
+    },
+    {
+      "period": "2019-05",
+      "views": 396398
+    },
+    {
+      "period": "2019-06",
+      "views": 446897
+    },
+    {
+      "period": "2022-02",
+      "views": 115284
+    },
+    {
+      "period": "2022-03",
+      "views": 14061
+    },
+    {
+      "period": "2026-04",
+      "views": 8927
+    },
+    {
+      "period": "2026-08",
+      "views": 12730
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 36278
+    },
+    {
+      "period": "2019",
+      "views": 843295
+    },
+    {
+      "period": "2022",
+      "views": 129345
+    },
+    {
+      "period": "2026",
+      "views": 21657
+    }
+  ]
+}

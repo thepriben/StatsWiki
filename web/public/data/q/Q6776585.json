@@ -4,7 +4,7 @@
   "title": "Martin_Shkreli",
   "description": "American businessman and convicted felon",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Shkreli_2016.jpg?width=64",
-  "total": 6995445,
+  "total": 7005911,
   "monthly": [
     {
       "period": "2015-09",
@@ -193,6 +193,10 @@
     {
       "period": "2026-01",
       "views": 39198
+    },
+    {
+      "period": "2026-08",
+      "views": 10466
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 39198
+      "views": 49664
     }
   ]
 }

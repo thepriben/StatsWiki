@@ -4,7 +4,7 @@
   "title": "Louis_Armstrong",
   "description": "American jazz musician, trumpeter and singer (1901–1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Armstrong%2C_by_Harry_Warnecke_and_Gus_Schoenbaechler%2C_1947.jpg?width=64",
-  "total": 842991,
+  "total": 859205,
   "monthly": [
     {
       "period": "2015-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 8749
+    },
+    {
+      "period": "2026-08",
+      "views": 16214
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 8749
+      "views": 24963
     }
   ]
 }

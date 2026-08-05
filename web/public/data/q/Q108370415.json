@@ -4,7 +4,7 @@
   "title": "Dead_Internet_theory",
   "description": "conspiracy theory about the World Wide Web",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Facebook_AI_slop%2C_%22Shrimp_Jesus%22_1.jpg?width=64",
-  "total": 1559339,
+  "total": 1569780,
   "monthly": [
     {
       "period": "2023-04",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 49949
+    },
+    {
+      "period": "2026-08",
+      "views": 10441
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 49949
+      "views": 60390
     }
   ]
 }

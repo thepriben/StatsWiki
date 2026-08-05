@@ -1,0 +1,56 @@
+{
+  "qid": "Q40629",
+  "label": "Myspace",
+  "title": "Myspace",
+  "description": "American social networking website",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Myspace_T-shirt_%282406126656%29.jpg?width=64",
+  "total": 99099,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 12385
+    },
+    {
+      "period": "2016-04",
+      "views": 22695
+    },
+    {
+      "period": "2018-04",
+      "views": 20226
+    },
+    {
+      "period": "2019-03",
+      "views": 21740
+    },
+    {
+      "period": "2020-07",
+      "views": 14204
+    },
+    {
+      "period": "2026-08",
+      "views": 7849
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 35080
+    },
+    {
+      "period": "2018",
+      "views": 20226
+    },
+    {
+      "period": "2019",
+      "views": 21740
+    },
+    {
+      "period": "2020",
+      "views": 14204
+    },
+    {
+      "period": "2026",
+      "views": 7849
+    }
+  ]
+}

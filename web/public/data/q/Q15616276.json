@@ -4,7 +4,7 @@
   "title": "Telegram_(software)",
   "description": "instant messaging service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Telegram_Android_screenshot_%28v_3.3%2C_English%29.png?width=64",
-  "total": 10686500,
+  "total": 10694202,
   "monthly": [
     {
       "period": "2020-02",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 17655
+    },
+    {
+      "period": "2026-08",
+      "views": 7702
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 778520
+      "views": 786222
     }
   ]
 }

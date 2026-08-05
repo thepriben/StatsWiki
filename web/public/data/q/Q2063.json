@@ -1,0 +1,68 @@
+{
+  "qid": "Q2063",
+  "label": "JSON",
+  "title": "JSON",
+  "description": "text-based open standard designed for human-readable data interchange",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Combox_respuesta_JSON.jpg?width=64",
+  "total": 461123,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 9903
+    },
+    {
+      "period": "2019-10",
+      "views": 68150
+    },
+    {
+      "period": "2020-07",
+      "views": 9492
+    },
+    {
+      "period": "2020-09",
+      "views": 104729
+    },
+    {
+      "period": "2020-10",
+      "views": 76790
+    },
+    {
+      "period": "2022-04",
+      "views": 55148
+    },
+    {
+      "period": "2022-06",
+      "views": 11603
+    },
+    {
+      "period": "2022-10",
+      "views": 117340
+    },
+    {
+      "period": "2026-08",
+      "views": 7968
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9903
+    },
+    {
+      "period": "2019",
+      "views": 68150
+    },
+    {
+      "period": "2020",
+      "views": 191011
+    },
+    {
+      "period": "2022",
+      "views": 184091
+    },
+    {
+      "period": "2026",
+      "views": 7968
+    }
+  ]
+}

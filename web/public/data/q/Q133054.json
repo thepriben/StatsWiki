@@ -4,7 +4,7 @@
   "title": "Sylvia_Plath",
   "description": "American poet and writer (1932–1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvia_Plath.jpg?width=64",
-  "total": 853539,
+  "total": 861234,
   "monthly": [
     {
       "period": "2015-10",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 12739
+    },
+    {
+      "period": "2026-08",
+      "views": 7695
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 37894
+      "views": 45589
     }
   ]
 }

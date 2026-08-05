@@ -1,0 +1,108 @@
+{
+  "qid": "Q4675",
+  "label": "Mount St. Helens",
+  "title": "Mount_St._Helens",
+  "description": "volcano in Washington state",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg?width=64",
+  "total": 444434,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 11346
+    },
+    {
+      "period": "2016-05",
+      "views": 81232
+    },
+    {
+      "period": "2017-05",
+      "views": 11522
+    },
+    {
+      "period": "2018-05",
+      "views": 27306
+    },
+    {
+      "period": "2018-06",
+      "views": 26322
+    },
+    {
+      "period": "2019-03",
+      "views": 9992
+    },
+    {
+      "period": "2020-05",
+      "views": 133458
+    },
+    {
+      "period": "2021-05",
+      "views": 36163
+    },
+    {
+      "period": "2022-05",
+      "views": 23607
+    },
+    {
+      "period": "2023-05",
+      "views": 27550
+    },
+    {
+      "period": "2025-05",
+      "views": 23989
+    },
+    {
+      "period": "2026-05",
+      "views": 23351
+    },
+    {
+      "period": "2026-08",
+      "views": 8596
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 11346
+    },
+    {
+      "period": "2016",
+      "views": 81232
+    },
+    {
+      "period": "2017",
+      "views": 11522
+    },
+    {
+      "period": "2018",
+      "views": 53628
+    },
+    {
+      "period": "2019",
+      "views": 9992
+    },
+    {
+      "period": "2020",
+      "views": 133458
+    },
+    {
+      "period": "2021",
+      "views": 36163
+    },
+    {
+      "period": "2022",
+      "views": 23607
+    },
+    {
+      "period": "2023",
+      "views": 27550
+    },
+    {
+      "period": "2025",
+      "views": 23989
+    },
+    {
+      "period": "2026",
+      "views": 31947
+    }
+  ]
+}

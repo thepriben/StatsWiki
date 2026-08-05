@@ -4,7 +4,7 @@
   "title": "Terry_Pegula",
   "description": "American businessman (born 1951)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Terry_Pegula_2015.jpg?width=64",
-  "total": 960974,
+  "total": 970795,
   "monthly": [
     {
       "period": "2021-02",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 10980
+    },
+    {
+      "period": "2026-08",
+      "views": 9821
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 162881
+      "views": 172702
     }
   ]
 }

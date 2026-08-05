@@ -4,7 +4,7 @@
   "title": "Yossi_Ghinsberg",
   "description": "adventurer, author and speaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yossi_Ghinsberg.jpg?width=64",
-  "total": 108098,
+  "total": 118546,
   "monthly": [
     {
       "period": "2017-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 14845
+    },
+    {
+      "period": "2026-08",
+      "views": 10448
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 14845
+      "views": 25293
     }
   ]
 }

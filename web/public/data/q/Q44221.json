@@ -4,7 +4,7 @@
   "title": "Sean_Penn",
   "description": "American actor and filmmaker (born 1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Superpower_%282023%29-60535.jpg?width=64",
-  "total": 8272073,
+  "total": 8280681,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-07",
       "views": 48581
+    },
+    {
+      "period": "2026-08",
+      "views": 8608
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 1779051
+      "views": 1787659
     }
   ]
 }

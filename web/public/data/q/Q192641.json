@@ -4,7 +4,7 @@
   "title": "Trabzonspor",
   "description": "Turkish association football club",
   "image": "",
-  "total": 99838,
+  "total": 120667,
   "monthly": [
     {
       "period": "2019-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 50066
+    },
+    {
+      "period": "2026-08",
+      "views": 20829
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 50066
+      "views": 70895
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Microsoft_Word",
   "description": "word processor software part of Microsoft 365",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Word_%282025%E2%80%93present%29.svg?width=64",
-  "total": 266304,
+  "total": 275466,
   "monthly": [
     {
       "period": "2017-03",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 8176
+    },
+    {
+      "period": "2026-08",
+      "views": 9162
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 40529
+      "views": 49691
     }
   ]
 }

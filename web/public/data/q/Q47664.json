@@ -4,7 +4,7 @@
   "title": "Catherine_Zeta-Jones",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_Zeta-Jones_VF_2012_Shankbone.jpg?width=64",
-  "total": 9122088,
+  "total": 9129934,
   "monthly": [
     {
       "period": "2015-07",
@@ -373,6 +373,10 @@
     {
       "period": "2026-07",
       "views": 57498
+    },
+    {
+      "period": "2026-08",
+      "views": 7846
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 57498
+      "views": 65344
     }
   ]
 }

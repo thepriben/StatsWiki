@@ -4,17 +4,21 @@
   "title": "Siren_(mythology)",
   "description": "creatures half bird and half woman who lured sailors by the sweetness of her song",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NAMA_Sir%C3%A8ne.jpg?width=64",
-  "total": 26650,
+  "total": 35140,
   "monthly": [
     {
       "period": "2026-07",
       "views": 26650
+    },
+    {
+      "period": "2026-08",
+      "views": 8490
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26650
+      "views": 35140
     }
   ]
 }

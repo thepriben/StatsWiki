@@ -4,17 +4,21 @@
   "title": "The_Frames",
   "description": "Irish rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Frames_2015.jpg?width=64",
-  "total": 57377,
+  "total": 67168,
   "monthly": [
     {
       "period": "2026-07",
       "views": 57377
+    },
+    {
+      "period": "2026-08",
+      "views": 9791
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 57377
+      "views": 67168
     }
   ]
 }
