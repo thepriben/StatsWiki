@@ -4,7 +4,7 @@
   "title": "AC_Milan",
   "description": "football club in Milan, Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coreografia_Curva_Sud_Banditi.jpg?width=64",
-  "total": 986086,
+  "total": 994221,
   "monthly": [
     {
       "period": "2023-06",
@@ -97,6 +97,10 @@
     {
       "period": "2026-07",
       "views": 292628
+    },
+    {
+      "period": "2026-08",
+      "views": 8135
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 448572
+      "views": 456707
     }
   ]
 }

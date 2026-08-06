@@ -4,7 +4,7 @@
   "title": "Warren_Beatty",
   "description": "American actor and filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Warren_Beatty.jpg?width=64",
-  "total": 2581421,
+  "total": 2588954,
   "monthly": [
     {
       "period": "2015-11",
@@ -185,6 +185,10 @@
     {
       "period": "2026-06",
       "views": 68682
+    },
+    {
+      "period": "2026-08",
+      "views": 7533
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 188564
+      "views": 196097
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Democratic_Party_(United_States)",
   "description": "American political party",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Democratic_Party_2025_logo_%28positive%29.svg?width=64",
-  "total": 15388098,
+  "total": 15399897,
   "monthly": [
     {
       "period": "2015-08",
@@ -405,6 +405,10 @@
     {
       "period": "2026-05",
       "views": 8777
+    },
+    {
+      "period": "2026-08",
+      "views": 11799
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 395125
+      "views": 406924
     }
   ]
 }

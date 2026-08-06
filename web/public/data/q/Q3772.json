@@ -4,7 +4,7 @@
   "title": "Quentin_Tarantino",
   "description": "American filmmaker and actor (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quentin_Tarantino_by_Gage_Skidmore.jpg?width=64",
-  "total": 23509206,
+  "total": 23516695,
   "monthly": [
     {
       "period": "2015-07",
@@ -493,6 +493,10 @@
     {
       "period": "2026-05",
       "views": 13991
+    },
+    {
+      "period": "2026-08",
+      "views": 7489
     }
   ],
   "yearly": [
@@ -542,7 +546,7 @@
     },
     {
       "period": "2026",
-      "views": 213090
+      "views": 220579
     }
   ]
 }

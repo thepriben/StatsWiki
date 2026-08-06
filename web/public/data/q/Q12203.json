@@ -4,7 +4,7 @@
   "title": "QR_code",
   "description": "type of matrix barcode (trademarked name)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/QR_code_for_mobile_English_Wikipedia.svg?width=64",
-  "total": 6407933,
+  "total": 6416198,
   "monthly": [
     {
       "period": "2017-03",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 17526
+    },
+    {
+      "period": "2026-08",
+      "views": 8265
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 2414058
+      "views": 2422323
     }
   ]
 }

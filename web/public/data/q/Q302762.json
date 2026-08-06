@@ -4,7 +4,7 @@
   "title": "Barry_Manilow",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BarryManilow.jpg?width=64",
-  "total": 1756376,
+  "total": 1765429,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 65078
+    },
+    {
+      "period": "2026-08",
+      "views": 9053
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 86016
+      "views": 95069
     }
   ]
 }

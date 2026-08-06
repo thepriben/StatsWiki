@@ -4,7 +4,7 @@
   "title": "Guardians_of_the_Galaxy_Vol._3",
   "description": "2023 Marvel Studios film by James Gunn",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guardians_of_the_Galaxy_Volume_3_Logo.svg?width=64",
-  "total": 11966542,
+  "total": 11974189,
   "monthly": [
     {
       "period": "2021-10",
@@ -97,6 +97,10 @@
     {
       "period": "2025-09",
       "views": 11244
+    },
+    {
+      "period": "2026-08",
+      "views": 7647
     }
   ],
   "yearly": [
@@ -119,6 +123,10 @@
     {
       "period": "2025",
       "views": 42536
+    },
+    {
+      "period": "2026",
+      "views": 7647
     }
   ]
 }

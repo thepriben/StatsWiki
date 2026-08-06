@@ -4,7 +4,7 @@
   "title": "Süper_Lig",
   "description": "top tier of association football in Turkey",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%BCper_Lig_logo.svg?width=64",
-  "total": 24865,
+  "total": 35191,
   "monthly": [
     {
       "period": "2021-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 14173
+    },
+    {
+      "period": "2026-08",
+      "views": 10326
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 14173
+      "views": 24499
     }
   ]
 }

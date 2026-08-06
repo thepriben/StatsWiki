@@ -4,7 +4,7 @@
   "title": "Stanley_Kubrick",
   "description": "American filmmaker (1928–1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg?width=64",
-  "total": 1543575,
+  "total": 1551990,
   "monthly": [
     {
       "period": "2015-08",
@@ -169,6 +169,10 @@
     {
       "period": "2026-06",
       "views": 9052
+    },
+    {
+      "period": "2026-08",
+      "views": 8415
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 430904
+      "views": 439319
     }
   ]
 }

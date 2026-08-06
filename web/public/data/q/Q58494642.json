@@ -4,7 +4,7 @@
   "title": "Mallory_McMorrow",
   "description": "American politician (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallory_McMorrow_%28cropped%29.jpg?width=64",
-  "total": 225808,
+  "total": 265037,
   "monthly": [
     {
       "period": "2022-04",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 41559
+    },
+    {
+      "period": "2026-08",
+      "views": 39229
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 61028
+      "views": 100257
     }
   ]
 }

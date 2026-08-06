@@ -1,0 +1,28 @@
+{
+  "qid": "Q45301",
+  "label": "Trabzon",
+  "title": "Trabzon",
+  "description": "city in Turkey",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trabzon%2Charbour.jpg?width=64",
+  "total": 42082,
+  "monthly": [
+    {
+      "period": "2020-08",
+      "views": 22006
+    },
+    {
+      "period": "2026-08",
+      "views": 20076
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 22006
+    },
+    {
+      "period": "2026",
+      "views": 20076
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "qid": "Q111939316",
+  "label": "Spoiler Alert",
+  "title": "Spoiler_Alert_(film)",
+  "description": "2022 film directed by Michael Showalter",
+  "image": "",
+  "total": 49172,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 12897
+    },
+    {
+      "period": "2022-11",
+      "views": 11401
+    },
+    {
+      "period": "2022-12",
+      "views": 10594
+    },
+    {
+      "period": "2026-08",
+      "views": 14280
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 34892
+    },
+    {
+      "period": "2026",
+      "views": 14280
+    }
+  ]
+}

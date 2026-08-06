@@ -1,0 +1,48 @@
+{
+  "qid": "Q173941",
+  "label": "Electronic Arts",
+  "title": "Electronic_Arts",
+  "description": "American video game company",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EA_Building_RedwoodShores.JPG?width=64",
+  "total": 403355,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 248857
+    },
+    {
+      "period": "2022-01",
+      "views": 13021
+    },
+    {
+      "period": "2025-09",
+      "views": 97847
+    },
+    {
+      "period": "2025-10",
+      "views": 32836
+    },
+    {
+      "period": "2026-08",
+      "views": 10794
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 248857
+    },
+    {
+      "period": "2022",
+      "views": 13021
+    },
+    {
+      "period": "2025",
+      "views": 130683
+    },
+    {
+      "period": "2026",
+      "views": 10794
+    }
+  ]
+}

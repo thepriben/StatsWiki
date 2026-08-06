@@ -4,7 +4,7 @@
   "title": "UD_Almería",
   "description": "Spanish football club",
   "image": "",
-  "total": 67952,
+  "total": 75567,
   "monthly": [
     {
       "period": "2022-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 26036
+    },
+    {
+      "period": "2026-08",
+      "views": 7615
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 53926
+      "views": 61541
     }
   ]
 }

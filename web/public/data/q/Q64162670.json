@@ -1,0 +1,80 @@
+{
+  "qid": "Q64162670",
+  "label": "Leagues Cup",
+  "title": "Leagues_Cup",
+  "description": "soccer competition between MLS and Liga MX teamss",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leagues_Cup_logo_white-on-black.svg?width=64",
+  "total": 1054597,
+  "monthly": [
+    {
+      "period": "2019-07",
+      "views": 10007
+    },
+    {
+      "period": "2021-08",
+      "views": 11645
+    },
+    {
+      "period": "2022-08",
+      "views": 9696
+    },
+    {
+      "period": "2023-07",
+      "views": 225605
+    },
+    {
+      "period": "2023-08",
+      "views": 635204
+    },
+    {
+      "period": "2024-08",
+      "views": 8649
+    },
+    {
+      "period": "2025-07",
+      "views": 27507
+    },
+    {
+      "period": "2025-08",
+      "views": 94027
+    },
+    {
+      "period": "2025-09",
+      "views": 19599
+    },
+    {
+      "period": "2026-08",
+      "views": 12658
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 10007
+    },
+    {
+      "period": "2021",
+      "views": 11645
+    },
+    {
+      "period": "2022",
+      "views": 9696
+    },
+    {
+      "period": "2023",
+      "views": 860809
+    },
+    {
+      "period": "2024",
+      "views": 8649
+    },
+    {
+      "period": "2025",
+      "views": 141133
+    },
+    {
+      "period": "2026",
+      "views": 12658
+    }
+  ]
+}

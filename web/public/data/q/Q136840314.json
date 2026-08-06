@@ -4,7 +4,7 @@
   "title": "2026_Pacific_typhoon_season",
   "description": "tropical cyclone formation period in the western Pacific Ocean in 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026_Pacific_typhoon_season_summary.png?width=64",
-  "total": 70915,
+  "total": 78563,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 49000
+    },
+    {
+      "period": "2026-08",
+      "views": 7648
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 70915
+      "views": 78563
     }
   ]
 }

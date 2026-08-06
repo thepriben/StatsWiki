@@ -4,7 +4,7 @@
   "title": "Pete_Crow-Armstrong",
   "description": "American professional baseball player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pete_Crow-Armstrong_%2853104160703%29_%28cropped%29.jpg?width=64",
-  "total": 374287,
+  "total": 389579,
   "monthly": [
     {
       "period": "2021-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 12642
+    },
+    {
+      "period": "2026-08",
+      "views": 15292
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 63323
+      "views": 78615
     }
   ]
 }

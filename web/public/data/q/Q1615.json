@@ -4,7 +4,7 @@
   "title": "Neil_Armstrong",
   "description": "American astronaut and lunar explorer (1930–2012)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neil_Armstrong_pose.jpg?width=64",
-  "total": 11935630,
+  "total": 11952884,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-04",
       "views": 426110
+    },
+    {
+      "period": "2026-08",
+      "views": 17254
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 473775
+      "views": 491029
     }
   ]
 }

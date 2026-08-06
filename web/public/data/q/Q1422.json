@@ -4,7 +4,7 @@
   "title": "Juventus_FC",
   "description": "association football club in Turin, Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg?width=64",
-  "total": 655731,
+  "total": 663392,
   "monthly": [
     {
       "period": "2023-07",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 164078
+    },
+    {
+      "period": "2026-08",
+      "views": 7661
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 270357
+      "views": 278018
     }
   ]
 }

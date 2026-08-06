@@ -4,7 +4,7 @@
   "title": "Jim_Parsons",
   "description": "American actor (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JimParsons-byPhilipRomano.jpg?width=64",
-  "total": 2047074,
+  "total": 2056329,
   "monthly": [
     {
       "period": "2015-07",
@@ -189,6 +189,10 @@
     {
       "period": "2026-07",
       "views": 30974
+    },
+    {
+      "period": "2026-08",
+      "views": 9255
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 49750
+      "views": 59005
     }
   ]
 }

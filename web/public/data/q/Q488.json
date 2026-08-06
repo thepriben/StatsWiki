@@ -4,7 +4,7 @@
   "title": "Atomic_bombings_of_Hiroshima_and_Nagasaki",
   "description": "1945 use of nuclear weapons against Japan in World War II",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atomic_bombing_of_Japan.jpg?width=64",
-  "total": 26034231,
+  "total": 26043941,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-07",
       "views": 8017
+    },
+    {
+      "period": "2026-08",
+      "views": 9710
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 624597
+      "views": 634307
     }
   ]
 }
