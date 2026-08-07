@@ -4,7 +4,7 @@
   "title": "Michelle_Buteau",
   "description": "American stand-up comedian, actress, and podcast host",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MichelleButeau-byPhilipRomano.jpg?width=64",
-  "total": 270328,
+  "total": 278550,
   "monthly": [
     {
       "period": "2019-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 10667
+    },
+    {
+      "period": "2026-08",
+      "views": 8222
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 10667
+      "views": 18889
     }
   ]
 }

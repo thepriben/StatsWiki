@@ -4,7 +4,7 @@
   "title": "Nicole_Scherzinger",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicole_Scherzinger_2012.jpg?width=64",
-  "total": 8747249,
+  "total": 8757548,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-07",
       "views": 72090
+    },
+    {
+      "period": "2026-08",
+      "views": 10299
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 533043
+      "views": 543342
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Christina_Pazsitzky",
   "description": "American comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christina_Pazsitzky.jpg?width=64",
-  "total": 183801,
+  "total": 197136,
   "monthly": [
     {
       "period": "2017-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 43085
+    },
+    {
+      "period": "2026-08",
+      "views": 13335
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 43085
+      "views": 56420
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Martha_Stewart",
   "description": "American businesswoman, writer, TV personality (born 1941)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martha_Stewart_2011_Shankbone.JPG?width=64",
-  "total": 4222067,
+  "total": 4229929,
   "monthly": [
     {
       "period": "2015-08",
@@ -237,6 +237,10 @@
     {
       "period": "2026-06",
       "views": 31017
+    },
+    {
+      "period": "2026-08",
+      "views": 7862
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 49004
+      "views": 56866
     }
   ]
 }

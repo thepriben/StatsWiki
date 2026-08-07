@@ -4,17 +4,21 @@
   "title": "Lowe's",
   "description": "American home improvement retail chain",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loweswarehouse.jpg?width=64",
-  "total": 16490,
+  "total": 24022,
   "monthly": [
     {
       "period": "2026-06",
       "views": 16490
+    },
+    {
+      "period": "2026-08",
+      "views": 7532
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 16490
+      "views": 24022
     }
   ]
 }

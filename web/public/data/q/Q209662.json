@@ -4,7 +4,7 @@
   "title": "Lucille_Ball",
   "description": "American actress (1911–1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LDBALL1950s.jpg?width=64",
-  "total": 6184147,
+  "total": 6202199,
   "monthly": [
     {
       "period": "2015-07",
@@ -265,6 +265,10 @@
     {
       "period": "2026-07",
       "views": 12013
+    },
+    {
+      "period": "2026-08",
+      "views": 18052
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 21071
+      "views": 39123
     }
   ]
 }

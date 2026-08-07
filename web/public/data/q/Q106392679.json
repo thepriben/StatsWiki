@@ -4,7 +4,7 @@
   "title": "Coyote_vs._Acme",
   "description": "upcoming film directed by Dave Green",
   "image": "",
-  "total": 547103,
+  "total": 558524,
   "monthly": [
     {
       "period": "2023-11",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 60826
+    },
+    {
+      "period": "2026-08",
+      "views": 11421
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 246687
+      "views": 258108
     }
   ]
 }

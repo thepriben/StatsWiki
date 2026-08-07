@@ -4,7 +4,7 @@
   "title": "O._J._Simpson",
   "description": "American football player and actor (1947–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?width=64",
-  "total": 53449954,
+  "total": 53458591,
   "monthly": [
     {
       "period": "2015-07",
@@ -505,6 +505,10 @@
     {
       "period": "2026-07",
       "views": 18388
+    },
+    {
+      "period": "2026-08",
+      "views": 8637
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 474668
+      "views": 483305
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kit_Connor",
   "description": "British actor (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kit_Connor_en_2022.jpg?width=64",
-  "total": 2049703,
+  "total": 2118675,
   "monthly": [
     {
       "period": "2022-04",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 62319
+    },
+    {
+      "period": "2026-08",
+      "views": 68972
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 74396
+      "views": 143368
     }
   ]
 }

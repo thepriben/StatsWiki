@@ -4,7 +4,7 @@
   "title": "Heartstopper_(TV_series)",
   "description": "2022 British teen television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heartstopper.png?width=64",
-  "total": 1996811,
+  "total": 2004622,
   "monthly": [
     {
       "period": "2022-04",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 53234
+    },
+    {
+      "period": "2026-08",
+      "views": 7811
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 53234
+      "views": 61045
     }
   ]
 }

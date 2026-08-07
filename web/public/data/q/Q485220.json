@@ -1,0 +1,64 @@
+{
+  "qid": "Q485220",
+  "label": "Good Charlotte",
+  "title": "Good_Charlotte",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2017_Nova_Rock_Good_Charlotte_%28cropped%29.jpg?width=64",
+  "total": 190185,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 78761
+    },
+    {
+      "period": "2016-07",
+      "views": 13232
+    },
+    {
+      "period": "2018-10",
+      "views": 21505
+    },
+    {
+      "period": "2020-01",
+      "views": 16511
+    },
+    {
+      "period": "2025-05",
+      "views": 29400
+    },
+    {
+      "period": "2025-08",
+      "views": 22476
+    },
+    {
+      "period": "2026-08",
+      "views": 8300
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 78761
+    },
+    {
+      "period": "2016",
+      "views": 13232
+    },
+    {
+      "period": "2018",
+      "views": 21505
+    },
+    {
+      "period": "2020",
+      "views": 16511
+    },
+    {
+      "period": "2025",
+      "views": 51876
+    },
+    {
+      "period": "2026",
+      "views": 8300
+    }
+  ]
+}

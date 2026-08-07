@@ -4,7 +4,7 @@
   "title": "Carey_Lowell",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carey_Lowell_2011_Shankbone.JPG?width=64",
-  "total": 261360,
+  "total": 271265,
   "monthly": [
     {
       "period": "2016-04",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 23540
+    },
+    {
+      "period": "2026-08",
+      "views": 9905
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 23540
+      "views": 33445
     }
   ]
 }

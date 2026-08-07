@@ -4,7 +4,7 @@
   "title": "Awarapan_2",
   "description": "2026 Indian film by Nitin Kakkar",
   "image": "",
-  "total": 27763,
+  "total": 44596,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 19046
+    },
+    {
+      "period": "2026-08",
+      "views": 16833
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 27763
+      "views": 44596
     }
   ]
 }

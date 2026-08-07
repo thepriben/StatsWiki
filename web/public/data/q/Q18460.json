@@ -4,7 +4,7 @@
   "title": "Salford_City_F.C.",
   "description": "association football club in Salford, England",
   "image": "",
-  "total": 1919551,
+  "total": 1927449,
   "monthly": [
     {
       "period": "2015-10",
@@ -101,6 +101,10 @@
     {
       "period": "2026-05",
       "views": 22522
+    },
+    {
+      "period": "2026-08",
+      "views": 7898
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 41312
+      "views": 49210
     }
   ]
 }

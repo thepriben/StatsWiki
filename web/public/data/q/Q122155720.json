@@ -4,7 +4,7 @@
   "title": "Pluribus_(TV_series)",
   "description": "2025 television series created by Vince Gilligan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pluribus_Logo.svg?width=64",
-  "total": 9700057,
+  "total": 9707624,
   "monthly": [
     {
       "period": "2025-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 78613
+    },
+    {
+      "period": "2026-08",
+      "views": 7567
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 2407456
+      "views": 2415023
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "James_Trafford",
   "description": "English footballer (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Trafford_England_v_Ghana_23_June_2026-027.jpg?width=64",
-  "total": 652687,
+  "total": 668300,
   "monthly": [
     {
       "period": "2023-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 33718
+    },
+    {
+      "period": "2026-08",
+      "views": 15613
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 96515
+      "views": 112128
     }
   ]
 }

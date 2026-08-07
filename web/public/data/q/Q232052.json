@@ -4,7 +4,7 @@
   "title": "Asia_Argento",
   "description": "Italian actress and filmmaker (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asia_Argento_in_2019.jpg?width=64",
-  "total": 3916641,
+  "total": 3924167,
   "monthly": [
     {
       "period": "2017-05",
@@ -113,6 +113,10 @@
     {
       "period": "2026-06",
       "views": 17640
+    },
+    {
+      "period": "2026-08",
+      "views": 7526
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 97504
+      "views": 105030
     }
   ]
 }

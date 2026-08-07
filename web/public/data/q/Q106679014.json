@@ -4,7 +4,7 @@
   "title": "The_White_Lotus",
   "description": "2021 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The-white-lotus-s2-1888x300.png?width=64",
-  "total": 23093233,
+  "total": 23100837,
   "monthly": [
     {
       "period": "2021-07",
@@ -173,6 +173,10 @@
     {
       "period": "2026-05",
       "views": 62216
+    },
+    {
+      "period": "2026-08",
+      "views": 7604
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 636095
+      "views": 643699
     }
   ]
 }
