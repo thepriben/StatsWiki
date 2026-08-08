@@ -4,7 +4,7 @@
   "title": "Larry_Fitzgerald",
   "description": "American football player (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larry_Fitzgerald_2017.jpg?width=64",
-  "total": 1228206,
+  "total": 1253084,
   "monthly": [
     {
       "period": "2015-10",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 9862
+    },
+    {
+      "period": "2026-08",
+      "views": 24878
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 33700
+      "views": 58578
     }
   ]
 }

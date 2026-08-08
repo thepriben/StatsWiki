@@ -4,7 +4,7 @@
   "title": "Ken_Jennings",
   "description": "American game show contestant, host, and writer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KenJenningsByPhilKonstantin.jpg?width=64",
-  "total": 3239952,
+  "total": 3278750,
   "monthly": [
     {
       "period": "2015-10",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 10131
+    },
+    {
+      "period": "2026-08",
+      "views": 38798
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 104081
+      "views": 142879
     }
   ]
 }

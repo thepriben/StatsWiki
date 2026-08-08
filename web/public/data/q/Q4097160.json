@@ -1,0 +1,48 @@
+{
+  "qid": "Q4097160",
+  "label": "Charlie Brooks",
+  "title": "Charlie_Brooks",
+  "description": "British actress",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Brooks_2020_%28cropped%29.jpg?width=64",
+  "total": 65513,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 14029
+    },
+    {
+      "period": "2021-01",
+      "views": 12973
+    },
+    {
+      "period": "2025-01",
+      "views": 12573
+    },
+    {
+      "period": "2025-02",
+      "views": 15936
+    },
+    {
+      "period": "2026-08",
+      "views": 10002
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 14029
+    },
+    {
+      "period": "2021",
+      "views": 12973
+    },
+    {
+      "period": "2025",
+      "views": 28509
+    },
+    {
+      "period": "2026",
+      "views": 10002
+    }
+  ]
+}

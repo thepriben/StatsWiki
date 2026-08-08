@@ -4,7 +4,7 @@
   "title": "Ivan_Toney",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg?width=64",
-  "total": 1864497,
+  "total": 1876327,
   "monthly": [
     {
       "period": "2020-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 127478
+    },
+    {
+      "period": "2026-08",
+      "views": 11830
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 271913
+      "views": 283743
     }
   ]
 }

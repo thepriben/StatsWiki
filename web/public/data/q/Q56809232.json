@@ -4,7 +4,7 @@
   "title": "Brandon_Clarke",
   "description": "Canadian basketball player (1996–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandon_Clarke_in_2020.jpg?width=64",
-  "total": 1166992,
+  "total": 1182768,
   "monthly": [
     {
       "period": "2019-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 11612
+    },
+    {
+      "period": "2026-08",
+      "views": 15776
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 1102877
+      "views": 1118653
     }
   ]
 }

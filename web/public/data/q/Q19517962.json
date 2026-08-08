@@ -4,7 +4,7 @@
   "title": "Greta_Lee",
   "description": "American actress (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greta_Lee%2C_Berlinale_2023_%28cropped%29.jpg?width=64",
-  "total": 811074,
+  "total": 832569,
   "monthly": [
     {
       "period": "2019-02",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 222602
+    },
+    {
+      "period": "2026-08",
+      "views": 21495
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 233431
+      "views": 254926
     }
   ]
 }

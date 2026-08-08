@@ -4,7 +4,7 @@
   "title": "Andy_Ogles",
   "description": "American politician (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Congressman_Andy_Ogles_2022.jpg?width=64",
-  "total": 190984,
+  "total": 227826,
   "monthly": [
     {
       "period": "2023-03",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 11469
+    },
+    {
+      "period": "2026-08",
+      "views": 36842
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 50200
+      "views": 87042
     }
   ]
 }

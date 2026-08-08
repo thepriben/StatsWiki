@@ -4,7 +4,7 @@
   "title": "A24",
   "description": "American independent entertainment company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A24_logo.svg?width=64",
-  "total": 795054,
+  "total": 803756,
   "monthly": [
     {
       "period": "2022-05",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 166782
+    },
+    {
+      "period": "2026-08",
+      "views": 8702
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 284737
+      "views": 293439
     }
   ]
 }

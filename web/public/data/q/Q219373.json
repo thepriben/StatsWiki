@@ -4,7 +4,7 @@
   "title": "Elizabeth_Banks",
   "description": "American actress and director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Banks_during_interview_in_2019.png?width=64",
-  "total": 6408993,
+  "total": 6421799,
   "monthly": [
     {
       "period": "2015-07",
@@ -329,6 +329,10 @@
     {
       "period": "2026-07",
       "views": 42994
+    },
+    {
+      "period": "2026-08",
+      "views": 12806
     }
   ],
   "yearly": [
@@ -378,7 +382,7 @@
     },
     {
       "period": "2026",
-      "views": 345426
+      "views": 358232
     }
   ]
 }

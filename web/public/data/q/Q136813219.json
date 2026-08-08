@@ -4,7 +4,7 @@
   "title": "Heated_Rivalry",
   "description": "Canadian sports romance television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Heated_Rivalry.svg?width=64",
-  "total": 7858621,
+  "total": 7867653,
   "monthly": [
     {
       "period": "2025-11",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 41498
+    },
+    {
+      "period": "2026-08",
+      "views": 9032
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 4696250
+      "views": 4705282
     }
   ]
 }

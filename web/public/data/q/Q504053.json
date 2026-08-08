@@ -1,0 +1,44 @@
+{
+  "qid": "Q504053",
+  "label": "Ocean's Twelve",
+  "title": "Ocean's_Twelve",
+  "description": "2004 American film directed by Steven Soderbergh",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pitt_Clooney_Damon.jpg?width=64",
+  "total": 85496,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 16354
+    },
+    {
+      "period": "2018-06",
+      "views": 40021
+    },
+    {
+      "period": "2020-04",
+      "views": 16396
+    },
+    {
+      "period": "2026-08",
+      "views": 12725
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 16354
+    },
+    {
+      "period": "2018",
+      "views": 40021
+    },
+    {
+      "period": "2020",
+      "views": 16396
+    },
+    {
+      "period": "2026",
+      "views": 12725
+    }
+  ]
+}

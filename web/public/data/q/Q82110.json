@@ -4,7 +4,7 @@
   "title": "Steven_Seagal",
   "description": "American actor, martial artist, and film producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steven_Seagal_November_2016.jpg?width=64",
-  "total": 4643802,
+  "total": 4651501,
   "monthly": [
     {
       "period": "2015-07",
@@ -305,6 +305,10 @@
     {
       "period": "2026-06",
       "views": 27764
+    },
+    {
+      "period": "2026-08",
+      "views": 7699
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 50214
+      "views": 57913
     }
   ]
 }

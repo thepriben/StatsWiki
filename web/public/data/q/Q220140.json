@@ -4,7 +4,7 @@
   "title": "Travis_Barker",
   "description": "American drummer (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis_Barker_%2828132648375%29.jpg?width=64",
-  "total": 7954354,
+  "total": 7964182,
   "monthly": [
     {
       "period": "2015-10",
@@ -197,6 +197,10 @@
     {
       "period": "2026-04",
       "views": 19361
+    },
+    {
+      "period": "2026-08",
+      "views": 9828
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 31919
+      "views": 41747
     }
   ]
 }

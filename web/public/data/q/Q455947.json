@@ -4,7 +4,7 @@
   "title": "Dana_Hill",
   "description": "American actress (1964–1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Child_actor_Dana_Hill_%2827193732978%29.jpg?width=64",
-  "total": 307745,
+  "total": 316255,
   "monthly": [
     {
       "period": "2015-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 53352
+    },
+    {
+      "period": "2026-08",
+      "views": 8510
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 53352
+      "views": 61862
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Shelter_(2026_film)",
   "description": "2026 film directed by Ric Roman Waugh",
   "image": "",
-  "total": 539418,
+  "total": 549743,
   "monthly": [
     {
       "period": "2025-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 53739
+    },
+    {
+      "period": "2026-08",
+      "views": 10325
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 518989
+      "views": 529314
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Hereditary_(film)",
   "description": "2018 horror film by Ari Aster",
   "image": "",
-  "total": 9290232,
+  "total": 9302374,
   "monthly": [
     {
       "period": "2018-01",
@@ -253,6 +253,10 @@
     {
       "period": "2026-06",
       "views": 18673
+    },
+    {
+      "period": "2026-08",
+      "views": 12142
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 18673
+      "views": 30815
     }
   ]
 }

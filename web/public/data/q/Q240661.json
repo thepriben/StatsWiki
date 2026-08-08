@@ -1,0 +1,100 @@
+{
+  "qid": "Q240661",
+  "label": "International Beer Day",
+  "title": "International_Beer_Day",
+  "description": "world day",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aufse%C3%9F_Bier.JPG?width=64",
+  "total": 267759,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 73299
+    },
+    {
+      "period": "2016-08",
+      "views": 27483
+    },
+    {
+      "period": "2017-08",
+      "views": 19892
+    },
+    {
+      "period": "2018-08",
+      "views": 28821
+    },
+    {
+      "period": "2019-08",
+      "views": 19153
+    },
+    {
+      "period": "2020-08",
+      "views": 23943
+    },
+    {
+      "period": "2021-08",
+      "views": 18688
+    },
+    {
+      "period": "2022-08",
+      "views": 15851
+    },
+    {
+      "period": "2023-08",
+      "views": 12847
+    },
+    {
+      "period": "2025-08",
+      "views": 18749
+    },
+    {
+      "period": "2026-08",
+      "views": 9033
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 73299
+    },
+    {
+      "period": "2016",
+      "views": 27483
+    },
+    {
+      "period": "2017",
+      "views": 19892
+    },
+    {
+      "period": "2018",
+      "views": 28821
+    },
+    {
+      "period": "2019",
+      "views": 19153
+    },
+    {
+      "period": "2020",
+      "views": 23943
+    },
+    {
+      "period": "2021",
+      "views": 18688
+    },
+    {
+      "period": "2022",
+      "views": 15851
+    },
+    {
+      "period": "2023",
+      "views": 12847
+    },
+    {
+      "period": "2025",
+      "views": 18749
+    },
+    {
+      "period": "2026",
+      "views": 9033
+    }
+  ]
+}
