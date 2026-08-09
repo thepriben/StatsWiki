@@ -4,7 +4,7 @@
   "title": "Morgan_Freeman",
   "description": "American actor and producer (born 1937)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Academy_Award-winning_actor_Morgan_Freeman_narrates_for_the_opening_ceremony_%2826904746425%29_%28cropped%29_3.jpg?width=64",
-  "total": 10923560,
+  "total": 10933052,
   "monthly": [
     {
       "period": "2015-07",
@@ -437,6 +437,10 @@
     {
       "period": "2026-07",
       "views": 31660
+    },
+    {
+      "period": "2026-08",
+      "views": 9492
     }
   ],
   "yearly": [
@@ -486,7 +490,7 @@
     },
     {
       "period": "2026",
-      "views": 205849
+      "views": 215341
     }
   ]
 }

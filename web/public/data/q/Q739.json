@@ -4,7 +4,7 @@
   "title": "Colombia",
   "description": "country in South America",
   "image": "",
-  "total": 2762255,
+  "total": 2770878,
   "monthly": [
     {
       "period": "2015-08",
@@ -205,6 +205,10 @@
     {
       "period": "2026-07",
       "views": 104617
+    },
+    {
+      "period": "2026-08",
+      "views": 8623
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 361478
+      "views": 370101
     }
   ]
 }

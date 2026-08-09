@@ -4,7 +4,7 @@
   "title": "Dustin_Hoffman",
   "description": "American actor (born 1937)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dustin_Hoffman_-_1968.jpg?width=64",
-  "total": 1182559,
+  "total": 1194078,
   "monthly": [
     {
       "period": "2015-12",
@@ -165,6 +165,10 @@
     {
       "period": "2026-07",
       "views": 32260
+    },
+    {
+      "period": "2026-08",
+      "views": 11519
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 82484
+      "views": 94003
     }
   ]
 }

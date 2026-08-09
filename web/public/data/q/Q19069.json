@@ -4,7 +4,7 @@
   "title": "The_Magnificent_Seven",
   "description": "1960 American western film directed by John Sturges",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Magnificent_Seven_cast_publicity_photo.jpg?width=64",
-  "total": 1584830,
+  "total": 1593847,
   "monthly": [
     {
       "period": "2015-12",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 11842
+    },
+    {
+      "period": "2026-08",
+      "views": 9017
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 35520
+      "views": 44537
     }
   ]
 }

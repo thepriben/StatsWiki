@@ -1,0 +1,32 @@
+{
+  "qid": "Q267672",
+  "label": "Superman II",
+  "title": "Superman_II",
+  "description": "1980 film directed by Richard Lester",
+  "image": "",
+  "total": 65882,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "views": 37580
+    },
+    {
+      "period": "2025-08",
+      "views": 18933
+    },
+    {
+      "period": "2026-08",
+      "views": 9369
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 56513
+    },
+    {
+      "period": "2026",
+      "views": 9369
+    }
+  ]
+}

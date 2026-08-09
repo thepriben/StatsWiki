@@ -4,7 +4,7 @@
   "title": "John_Goodman",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Goodman_2014.jpg?width=64",
-  "total": 2046727,
+  "total": 2063224,
   "monthly": [
     {
       "period": "2015-07",
@@ -169,6 +169,10 @@
     {
       "period": "2026-07",
       "views": 19434
+    },
+    {
+      "period": "2026-08",
+      "views": 16497
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 31580
+      "views": 48077
     }
   ]
 }

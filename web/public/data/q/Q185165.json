@@ -4,7 +4,7 @@
   "title": "Olivia_Newton-John",
   "description": "British–Australian singer (1948–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivia_Newton_John_%286707495311%29_%28cropped_to_look_large%29.jpg?width=64",
-  "total": 9525695,
+  "total": 9542411,
   "monthly": [
     {
       "period": "2015-08",
@@ -309,6 +309,10 @@
     {
       "period": "2026-06",
       "views": 8847
+    },
+    {
+      "period": "2026-08",
+      "views": 16716
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 36530
+      "views": 53246
     }
   ]
 }

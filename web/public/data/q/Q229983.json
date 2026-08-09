@@ -4,7 +4,7 @@
   "title": "Ali_MacGraw",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ali_MacGraw_-_1972.jpg?width=64",
-  "total": 701897,
+  "total": 712500,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 9642
+    },
+    {
+      "period": "2026-08",
+      "views": 10603
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 9642
+      "views": 20245
     }
   ]
 }

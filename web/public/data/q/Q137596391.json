@@ -4,7 +4,7 @@
   "title": "Mike_Sardina",
   "description": "American entertainer",
   "image": "",
-  "total": 152650,
+  "total": 161203,
   "monthly": [
     {
       "period": "2025-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 103623
+    },
+    {
+      "period": "2026-08",
+      "views": 8553
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 141457
+      "views": 150010
     }
   ]
 }

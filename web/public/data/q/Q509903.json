@@ -4,7 +4,7 @@
   "title": "Belinda_Bencic",
   "description": "Swiss tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Belinda_Bencic_%282023_US_Open%29_09.jpg?width=64",
-  "total": 1195521,
+  "total": 1223741,
   "monthly": [
     {
       "period": "2015-08",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 30388
+    },
+    {
+      "period": "2026-08",
+      "views": 28220
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 73377
+      "views": 101597
     }
   ]
 }

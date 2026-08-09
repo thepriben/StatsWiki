@@ -4,7 +4,7 @@
   "title": "Cliff_Richard",
   "description": "British singer (born 1940)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cliff_Richard_-_Old_Royal_Naval_Yard_Greenwich_-_Saturday_1st_July_2017_CliffGreenwich010717-43_%2835672276090%29_%28cropped%29.jpg?width=64",
-  "total": 1043255,
+  "total": 1051559,
   "monthly": [
     {
       "period": "2015-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 14991
+    },
+    {
+      "period": "2026-08",
+      "views": 8304
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 14991
+      "views": 23295
     }
   ]
 }
