@@ -4,7 +4,7 @@
   "title": "Danny_Masterson",
   "description": "American former actor and convicted sex offender",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danny_Masterson_TyLiner.jpg?width=64",
-  "total": 10568813,
+  "total": 10579077,
   "monthly": [
     {
       "period": "2015-07",
@@ -261,6 +261,10 @@
     {
       "period": "2026-06",
       "views": 31973
+    },
+    {
+      "period": "2026-08",
+      "views": 10264
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 548598
+      "views": 558862
     }
   ]
 }

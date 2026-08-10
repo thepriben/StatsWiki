@@ -4,7 +4,7 @@
   "title": "Michelle_Williams_(actress)",
   "description": "American actress (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelle_Williams_UK_Manchester_By_the_Sea_Premiere.jpg?width=64",
-  "total": 9112459,
+  "total": 9122343,
   "monthly": [
     {
       "period": "2015-07",
@@ -365,6 +365,10 @@
     {
       "period": "2026-07",
       "views": 18285
+    },
+    {
+      "period": "2026-08",
+      "views": 9884
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 322330
+      "views": 332214
     }
   ]
 }

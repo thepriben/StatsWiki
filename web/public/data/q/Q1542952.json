@@ -1,0 +1,28 @@
+{
+  "qid": "Q1542952",
+  "label": "Tour de France Femmes",
+  "title": "Tour_de_France_Femmes",
+  "description": "women's cycling stage race",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-07-30_16-52-26_TDFF-Willer-sur-Thur.jpg?width=64",
+  "total": 21130,
+  "monthly": [
+    {
+      "period": "2022-07",
+      "views": 11413
+    },
+    {
+      "period": "2026-08",
+      "views": 9717
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 11413
+    },
+    {
+      "period": "2026",
+      "views": 9717
+    }
+  ]
+}

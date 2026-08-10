@@ -4,7 +4,7 @@
   "title": "Bugonia_(film)",
   "description": "2025 film directed by Yorgos Lanthimos",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bugonia_Gala_Premiere_-_BFI_LFF_Royal_Festival_Hall_-_Friday_10th_October_2025.jpg?width=64",
-  "total": 7011489,
+  "total": 7021554,
   "monthly": [
     {
       "period": "2025-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 67253
+    },
+    {
+      "period": "2026-08",
+      "views": 10065
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 3565259
+      "views": 3575324
     }
   ]
 }

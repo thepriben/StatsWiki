@@ -4,7 +4,7 @@
   "title": "Marcus_Rashford",
   "description": "English footballer (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Rashford_England_v_Panama_27_June_26-047.jpg?width=64",
-  "total": 8035985,
+  "total": 8047779,
   "monthly": [
     {
       "period": "2016-02",
@@ -337,6 +337,10 @@
     {
       "period": "2026-07",
       "views": 284898
+    },
+    {
+      "period": "2026-08",
+      "views": 11794
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 832420
+      "views": 844214
     }
   ]
 }

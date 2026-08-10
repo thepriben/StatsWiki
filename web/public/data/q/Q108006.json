@@ -4,7 +4,7 @@
   "title": "Speed_(1994_film)",
   "description": "1994 film directed by Jan de Bont",
   "image": "",
-  "total": 140177,
+  "total": 150151,
   "monthly": [
     {
       "period": "2019-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 14636
+    },
+    {
+      "period": "2026-08",
+      "views": 9974
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 14636
+      "views": 24610
     }
   ]
 }

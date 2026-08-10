@@ -4,7 +4,7 @@
   "title": "Savannah_Bananas",
   "description": "exhibition barnstorming baseball team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Savannah_Bananas_logo_wordmark_color.png?width=64",
-  "total": 678541,
+  "total": 691883,
   "monthly": [
     {
       "period": "2021-08",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 9504
+    },
+    {
+      "period": "2026-08",
+      "views": 13342
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 73818
+      "views": 87160
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Good_Boy_(2025_Komasa_film)",
   "description": "2025 film directed by Jan Komasa",
   "image": "",
-  "total": 464556,
+  "total": 475951,
   "monthly": [
     {
       "period": "2026-03",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 43333
+    },
+    {
+      "period": "2026-08",
+      "views": 11395
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 464556
+      "views": 475951
     }
   ]
 }

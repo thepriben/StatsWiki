@@ -4,7 +4,7 @@
   "title": "Willie_Nelson",
   "description": "American country musician (born 1933)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Willie_UK2K7_2.JPG?width=64",
-  "total": 5685432,
+  "total": 5695471,
   "monthly": [
     {
       "period": "2015-08",
@@ -365,6 +365,10 @@
     {
       "period": "2026-06",
       "views": 27407
+    },
+    {
+      "period": "2026-08",
+      "views": 10039
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 71639
+      "views": 81678
     }
   ]
 }

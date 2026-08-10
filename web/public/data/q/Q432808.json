@@ -4,7 +4,7 @@
   "title": "Karl_Bushby",
   "description": "British pedestrian circumnavigator of the globe",
   "image": "",
-  "total": 719082,
+  "total": 728035,
   "monthly": [
     {
       "period": "2016-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 12120
+    },
+    {
+      "period": "2026-08",
+      "views": 8953
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 55282
+      "views": 64235
     }
   ]
 }

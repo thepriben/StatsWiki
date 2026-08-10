@@ -4,7 +4,7 @@
   "title": "Kiara_Advani",
   "description": "Indian film actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg?width=64",
-  "total": 8936375,
+  "total": 8951582,
   "monthly": [
     {
       "period": "2016-08",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 30425
+    },
+    {
+      "period": "2026-08",
+      "views": 15207
     }
   ],
   "yearly": [
@@ -294,7 +298,7 @@
     },
     {
       "period": "2026",
-      "views": 58621
+      "views": 73828
     }
   ]
 }

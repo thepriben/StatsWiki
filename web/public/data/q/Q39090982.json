@@ -4,7 +4,7 @@
   "title": "UFC_rankings",
   "description": "Overview of UFC athletic rankings",
   "image": "",
-  "total": 1969132,
+  "total": 1978936,
   "monthly": [
     {
       "period": "2024-06",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 42598
+    },
+    {
+      "period": "2026-08",
+      "views": 9804
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 377323
+      "views": 387127
     }
   ]
 }
