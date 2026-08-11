@@ -4,7 +4,7 @@
   "title": "Venom:_The_Last_Dance",
   "description": "2024 film directed by Kelly Marcel",
   "image": "",
-  "total": 5328691,
+  "total": 5337131,
   "monthly": [
     {
       "period": "2024-03",
@@ -41,6 +41,10 @@
     {
       "period": "2025-03",
       "views": 232506
+    },
+    {
+      "period": "2026-08",
+      "views": 8440
     }
   ],
   "yearly": [
@@ -51,6 +55,10 @@
     {
       "period": "2025",
       "views": 762277
+    },
+    {
+      "period": "2026",
+      "views": 8440
     }
   ]
 }

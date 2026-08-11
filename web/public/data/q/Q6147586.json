@@ -4,7 +4,7 @@
   "title": "Jamie_Vardy",
   "description": "English association football player (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Vardy_2018.jpg?width=64",
-  "total": 8786531,
+  "total": 8797126,
   "monthly": [
     {
       "period": "2015-09",
@@ -321,6 +321,10 @@
     {
       "period": "2026-07",
       "views": 10399
+    },
+    {
+      "period": "2026-08",
+      "views": 10595
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 957709
+      "views": 968304
     }
   ]
 }

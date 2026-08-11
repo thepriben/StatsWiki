@@ -4,7 +4,7 @@
   "title": "Roger_Black",
   "description": "British sprinter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Black_2011.jpg?width=64",
-  "total": 81204,
+  "total": 89311,
   "monthly": [
     {
       "period": "2024-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 10098
+    },
+    {
+      "period": "2026-08",
+      "views": 8107
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 26368
+      "views": 34475
     }
   ]
 }

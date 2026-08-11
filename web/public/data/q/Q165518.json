@@ -4,7 +4,7 @@
   "title": "Ewan_McGregor",
   "description": "Scottish actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg?width=64",
-  "total": 9820743,
+  "total": 9830997,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-07",
       "views": 11206
+    },
+    {
+      "period": "2026-08",
+      "views": 10254
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 91564
+      "views": 101818
     }
   ]
 }

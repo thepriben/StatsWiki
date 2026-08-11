@@ -4,7 +4,7 @@
   "title": "Nancy_Mace",
   "description": "American politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nancy_Mace.jpg?width=64",
-  "total": 3165685,
+  "total": 3174250,
   "monthly": [
     {
       "period": "2021-01",
@@ -161,6 +161,10 @@
     {
       "period": "2026-07",
       "views": 49432
+    },
+    {
+      "period": "2026-08",
+      "views": 8565
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 440150
+      "views": 448715
     }
   ]
 }

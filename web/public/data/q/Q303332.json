@@ -4,7 +4,7 @@
   "title": "Freddie_Fox_(actor)",
   "description": "British actor (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Fox_2015.jpg?width=64",
-  "total": 156937,
+  "total": 166492,
   "monthly": [
     {
       "period": "2018-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 21990
+    },
+    {
+      "period": "2026-08",
+      "views": 9555
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 53874
+      "views": 63429
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Crowded_Room",
   "description": "American drama anthology television series",
   "image": "",
-  "total": 1283321,
+  "total": 1291961,
   "monthly": [
     {
       "period": "2023-05",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 10496
+    },
+    {
+      "period": "2026-08",
+      "views": 8640
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 10496
+      "views": 19136
     }
   ]
 }

@@ -1,0 +1,172 @@
+{
+  "qid": "Q3887",
+  "label": "solar eclipse",
+  "title": "Solar_eclipse",
+  "description": "natural phenomenon wherein the Sun is obscured by the Moon",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_eclipse_1999_4.jpg?width=64",
+  "total": 4373286,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 56543
+    },
+    {
+      "period": "2016-03",
+      "views": 119435
+    },
+    {
+      "period": "2016-09",
+      "views": 19961
+    },
+    {
+      "period": "2017-07",
+      "views": 10278
+    },
+    {
+      "period": "2017-08",
+      "views": 1900906
+    },
+    {
+      "period": "2018-01",
+      "views": 34870
+    },
+    {
+      "period": "2018-02",
+      "views": 46157
+    },
+    {
+      "period": "2018-07",
+      "views": 47614
+    },
+    {
+      "period": "2019-01",
+      "views": 16819
+    },
+    {
+      "period": "2019-07",
+      "views": 19272
+    },
+    {
+      "period": "2019-12",
+      "views": 219815
+    },
+    {
+      "period": "2020-06",
+      "views": 286383
+    },
+    {
+      "period": "2020-12",
+      "views": 12455
+    },
+    {
+      "period": "2021-06",
+      "views": 45675
+    },
+    {
+      "period": "2021-11",
+      "views": 9364
+    },
+    {
+      "period": "2022-05",
+      "views": 17375
+    },
+    {
+      "period": "2022-10",
+      "views": 194423
+    },
+    {
+      "period": "2022-11",
+      "views": 30048
+    },
+    {
+      "period": "2023-04",
+      "views": 52822
+    },
+    {
+      "period": "2023-10",
+      "views": 82526
+    },
+    {
+      "period": "2024-03",
+      "views": 156612
+    },
+    {
+      "period": "2024-04",
+      "views": 898310
+    },
+    {
+      "period": "2024-06",
+      "views": 12297
+    },
+    {
+      "period": "2024-07",
+      "views": 10759
+    },
+    {
+      "period": "2025-03",
+      "views": 27982
+    },
+    {
+      "period": "2025-09",
+      "views": 23806
+    },
+    {
+      "period": "2026-03",
+      "views": 10170
+    },
+    {
+      "period": "2026-08",
+      "views": 10609
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 56543
+    },
+    {
+      "period": "2016",
+      "views": 139396
+    },
+    {
+      "period": "2017",
+      "views": 1911184
+    },
+    {
+      "period": "2018",
+      "views": 128641
+    },
+    {
+      "period": "2019",
+      "views": 255906
+    },
+    {
+      "period": "2020",
+      "views": 298838
+    },
+    {
+      "period": "2021",
+      "views": 55039
+    },
+    {
+      "period": "2022",
+      "views": 241846
+    },
+    {
+      "period": "2023",
+      "views": 135348
+    },
+    {
+      "period": "2024",
+      "views": 1077978
+    },
+    {
+      "period": "2025",
+      "views": 51788
+    },
+    {
+      "period": "2026",
+      "views": 20779
+    }
+  ]
+}

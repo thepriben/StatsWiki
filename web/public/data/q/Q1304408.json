@@ -1,0 +1,52 @@
+{
+  "qid": "Q1304408",
+  "label": "The Dukes of Hazzard",
+  "title": "The_Dukes_of_Hazzard",
+  "description": "1979-1985 American television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/General_lee.jpg?width=64",
+  "total": 136232,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 70922
+    },
+    {
+      "period": "2017-08",
+      "views": 12514
+    },
+    {
+      "period": "2023-12",
+      "views": 10421
+    },
+    {
+      "period": "2025-06",
+      "views": 16809
+    },
+    {
+      "period": "2026-08",
+      "views": 25566
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 70922
+    },
+    {
+      "period": "2017",
+      "views": 12514
+    },
+    {
+      "period": "2023",
+      "views": 10421
+    },
+    {
+      "period": "2025",
+      "views": 16809
+    },
+    {
+      "period": "2026",
+      "views": 25566
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "qid": "Q1281799",
+  "label": "solar eclipse of August 11, 1999",
+  "title": "Solar_eclipse_of_August_11,_1999",
+  "description": "solar eclipse",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE1999Aug11T.gif?width=64",
+  "total": 115120,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 86536
+    },
+    {
+      "period": "2024-04",
+      "views": 20340
+    },
+    {
+      "period": "2026-08",
+      "views": 8244
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 86536
+    },
+    {
+      "period": "2024",
+      "views": 20340
+    },
+    {
+      "period": "2026",
+      "views": 8244
+    }
+  ]
+}

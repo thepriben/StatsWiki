@@ -2,9 +2,9 @@
   "qid": "Q35332",
   "label": "Brad Pitt",
   "title": "Brad_Pitt",
-  "description": "American actor and filmmaker (born 1963)",
+  "description": "American actor (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad_Pitt_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 59694903,
+  "total": 59716113,
   "monthly": [
     {
       "period": "2015-07",
@@ -540,7 +540,7 @@
     },
     {
       "period": "2026-08",
-      "views": 113248
+      "views": 134458
     }
   ],
   "yearly": [
@@ -590,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 2618304
+      "views": 2639514
     }
   ]
 }

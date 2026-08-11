@@ -4,7 +4,7 @@
   "title": "Ben_Simmons",
   "description": "Australian basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Simmons_for_the_Brooklyn_Nets_%28cropped%29.jpg?width=64",
-  "total": 3523979,
+  "total": 3535553,
   "monthly": [
     {
       "period": "2015-11",
@@ -221,6 +221,10 @@
     {
       "period": "2026-06",
       "views": 21212
+    },
+    {
+      "period": "2026-08",
+      "views": 11574
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 45099
+      "views": 56673
     }
   ]
 }

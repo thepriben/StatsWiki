@@ -4,7 +4,7 @@
   "title": "Stockard_Channing",
   "description": "American actress (born 1944)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stockard_Channing_1984_crop.JPG?width=64",
-  "total": 819223,
+  "total": 828142,
   "monthly": [
     {
       "period": "2015-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 8686
+    },
+    {
+      "period": "2026-08",
+      "views": 8919
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 27939
+      "views": 36858
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Rob_Sand",
   "description": "American lawyer and politician and Auditor of Iowa since 2019 (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rob_Sand_For_Iowa_2_%28cropped%29_%28cropped%29.jpg?width=64",
-  "total": 15431,
+  "total": 26665,
   "monthly": [
     {
       "period": "2026-06",
       "views": 15431
+    },
+    {
+      "period": "2026-08",
+      "views": 11234
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 15431
+      "views": 26665
     }
   ]
 }
