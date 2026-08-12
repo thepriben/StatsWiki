@@ -4,7 +4,7 @@
   "title": "Derinkuyu_underground_city",
   "description": "ancient city in Turkey",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Derinkuyu_Underground_City_9831_Nevit_Enhancer.jpg?width=64",
-  "total": 576213,
+  "total": 590766,
   "monthly": [
     {
       "period": "2017-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 13485
+    },
+    {
+      "period": "2026-08",
+      "views": 14553
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 39509
+      "views": 54062
     }
   ]
 }

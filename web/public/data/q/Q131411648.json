@@ -4,7 +4,7 @@
   "title": "Luigi_Mangione",
   "description": "American suspect of the assassination of Brian Thompson",
   "image": "",
-  "total": 4176718,
+  "total": 4188521,
   "monthly": [
     {
       "period": "2024-12",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 30344
+    },
+    {
+      "period": "2026-08",
+      "views": 11803
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 306529
+      "views": 318332
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Air_Force_One",
   "description": "official United States presidential aircraft",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Air_Force_One_over_Mt._Rushmore.jpg?width=64",
-  "total": 541531,
+  "total": 549235,
   "monthly": [
     {
       "period": "2015-07",
@@ -85,6 +85,10 @@
     {
       "period": "2026-07",
       "views": 9612
+    },
+    {
+      "period": "2026-08",
+      "views": 7704
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 70449
+      "views": 78153
     }
   ]
 }

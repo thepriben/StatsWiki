@@ -4,7 +4,7 @@
   "title": "Rande_Gerber",
   "description": "American businessman and former model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rande_Gerber.jpg?width=64",
-  "total": 86591,
+  "total": 94794,
   "monthly": [
     {
       "period": "2016-01",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 21124
+    },
+    {
+      "period": "2026-08",
+      "views": 8203
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 21124
+      "views": 29327
     }
   ]
 }

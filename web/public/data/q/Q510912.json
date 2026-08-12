@@ -1,0 +1,56 @@
+{
+  "qid": "Q510912",
+  "label": "triple X syndrome",
+  "title": "Trisomy_X",
+  "description": "presence of 47XXX chromosomes rather than the typical 46XX",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXXSyndromeB.png?width=64",
+  "total": 219253,
+  "monthly": [
+    {
+      "period": "2021-06",
+      "views": 12610
+    },
+    {
+      "period": "2022-08",
+      "views": 9690
+    },
+    {
+      "period": "2022-10",
+      "views": 95197
+    },
+    {
+      "period": "2024-08",
+      "views": 25627
+    },
+    {
+      "period": "2025-05",
+      "views": 27474
+    },
+    {
+      "period": "2026-08",
+      "views": 48655
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 12610
+    },
+    {
+      "period": "2022",
+      "views": 104887
+    },
+    {
+      "period": "2024",
+      "views": 25627
+    },
+    {
+      "period": "2025",
+      "views": 27474
+    },
+    {
+      "period": "2026",
+      "views": 48655
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "qid": "Q818048",
   "label": "Benny Blanco",
   "title": "Benny_Blanco",
-  "description": "American record producer (born 1988)",
+  "description": "American pop music producer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benny_Bowtie_2018.jpg?width=64",
-  "total": 7629934,
+  "total": 7659814,
   "monthly": [
     {
       "period": "2020-04",
@@ -133,6 +133,10 @@
     {
       "period": "2026-03",
       "views": 40573
+    },
+    {
+      "period": "2026-08",
+      "views": 29880
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 101018
+      "views": 130898
     }
   ]
 }

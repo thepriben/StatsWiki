@@ -4,7 +4,7 @@
   "title": "Ring_of_Fire",
   "description": "region at edges of Pacific Ocean known for tectonic activity",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific_Ring_of_Fire.svg?width=64",
-  "total": 368433,
+  "total": 378194,
   "monthly": [
     {
       "period": "2016-04",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 26994
+    },
+    {
+      "period": "2026-08",
+      "views": 9761
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 26994
+      "views": 36755
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "qid": "Q1376252",
+  "label": "Internet pornography",
+  "title": "Internet_pornography",
+  "description": "pornography that is accessible over the Internet",
+  "image": "",
+  "total": 371556,
+  "monthly": [
+    {
+      "period": "2024-10",
+      "views": 12142
+    },
+    {
+      "period": "2025-08",
+      "views": 64396
+    },
+    {
+      "period": "2025-09",
+      "views": 11875
+    },
+    {
+      "period": "2025-10",
+      "views": 23850
+    },
+    {
+      "period": "2025-11",
+      "views": 77910
+    },
+    {
+      "period": "2025-12",
+      "views": 173908
+    },
+    {
+      "period": "2026-08",
+      "views": 7475
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 12142
+    },
+    {
+      "period": "2025",
+      "views": 351939
+    },
+    {
+      "period": "2026",
+      "views": 7475
+    }
+  ]
+}

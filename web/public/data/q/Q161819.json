@@ -4,7 +4,7 @@
   "title": "Julie_Andrews",
   "description": "British actress, singer and author (born 1935)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie_Andrews_Park_Hyatt%2C_Sydney%2C_Australia_2013.jpg?width=64",
-  "total": 10053566,
+  "total": 10063167,
   "monthly": [
     {
       "period": "2015-08",
@@ -385,6 +385,10 @@
     {
       "period": "2026-07",
       "views": 12407
+    },
+    {
+      "period": "2026-08",
+      "views": 9601
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 352112
+      "views": 361713
     }
   ]
 }

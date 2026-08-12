@@ -4,7 +4,7 @@
   "title": "Practical_Magic",
   "description": "1998 film directed by Griffin Dunne",
   "image": "",
-  "total": 221376,
+  "total": 231582,
   "monthly": [
     {
       "period": "2024-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 12181
+    },
+    {
+      "period": "2026-08",
+      "views": 10206
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 152254
+      "views": 162460
     }
   ]
 }

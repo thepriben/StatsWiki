@@ -1,0 +1,28 @@
+{
+  "qid": "Q14930",
+  "label": "geocaching",
+  "title": "Geocaching",
+  "description": "outdoor recreational activity",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Geocaching_in_Norway.jpg?width=64",
+  "total": 45657,
+  "monthly": [
+    {
+      "period": "2019-06",
+      "views": 37864
+    },
+    {
+      "period": "2026-08",
+      "views": 7793
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 37864
+    },
+    {
+      "period": "2026",
+      "views": 7793
+    }
+  ]
+}

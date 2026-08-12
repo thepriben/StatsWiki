@@ -4,7 +4,7 @@
   "title": "Mahatma_Gandhi",
   "description": "Indian independence activist (1869–1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C_studio%2C_1931.jpg?width=64",
-  "total": 61803586,
+  "total": 61811306,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-07",
       "views": 16090
+    },
+    {
+      "period": "2026-08",
+      "views": 7720
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 516573
+      "views": 524293
     }
   ]
 }

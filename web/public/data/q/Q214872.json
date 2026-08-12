@@ -4,7 +4,7 @@
   "title": "Lists_of_earthquakes",
   "description": "Wikimedia list of historical events",
   "image": "",
-  "total": 1590984,
+  "total": 1600071,
   "monthly": [
     {
       "period": "2015-09",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 72718
+    },
+    {
+      "period": "2026-08",
+      "views": 9087
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 72718
+      "views": 81805
     }
   ]
 }

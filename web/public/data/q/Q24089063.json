@@ -4,7 +4,7 @@
   "title": "The_Bloodline_(professional_wrestling)",
   "description": "professional wrestling stable",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thebloodlinelogo.png?width=64",
-  "total": 918755,
+  "total": 927915,
   "monthly": [
     {
       "period": "2022-09",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 18873
+    },
+    {
+      "period": "2026-08",
+      "views": 9160
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 43499
+      "views": 52659
     }
   ]
 }

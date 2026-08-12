@@ -4,7 +4,7 @@
   "title": "Chicxulub_crater",
   "description": "prehistoric impact crater buried underneath the Yucatán Peninsula in Mexico",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicxulub.jpg?width=64",
-  "total": 1217585,
+  "total": 1231945,
   "monthly": [
     {
       "period": "2015-10",
@@ -161,6 +161,10 @@
     {
       "period": "2026-06",
       "views": 15564
+    },
+    {
+      "period": "2026-08",
+      "views": 14360
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 15564
+      "views": 29924
     }
   ]
 }

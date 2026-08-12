@@ -1,0 +1,44 @@
+{
+  "qid": "Q117662601",
+  "label": "Harry Potter",
+  "title": "Harry_Potter_(TV_series)",
+  "description": "upcoming HBO TV series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Potter_TV_series_logo.png?width=64",
+  "total": 629221,
+  "monthly": [
+    {
+      "period": "2025-07",
+      "views": 51833
+    },
+    {
+      "period": "2025-08",
+      "views": 23629
+    },
+    {
+      "period": "2025-09",
+      "views": 22323
+    },
+    {
+      "period": "2026-03",
+      "views": 391122
+    },
+    {
+      "period": "2026-04",
+      "views": 132729
+    },
+    {
+      "period": "2026-08",
+      "views": 7585
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 97785
+    },
+    {
+      "period": "2026",
+      "views": 531436
+    }
+  ]
+}

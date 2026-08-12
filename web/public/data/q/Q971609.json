@@ -1,0 +1,60 @@
+{
+  "qid": "Q971609",
+  "label": "Dacia",
+  "title": "Roman_Dacia",
+  "description": "Roman province (106–275)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Gothic_Walls_Romania_Plain.svg?width=64",
+  "total": 68936,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 12571
+    },
+    {
+      "period": "2017-08",
+      "views": 10018
+    },
+    {
+      "period": "2021-08",
+      "views": 11633
+    },
+    {
+      "period": "2022-08",
+      "views": 11469
+    },
+    {
+      "period": "2025-08",
+      "views": 11874
+    },
+    {
+      "period": "2026-08",
+      "views": 11371
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12571
+    },
+    {
+      "period": "2017",
+      "views": 10018
+    },
+    {
+      "period": "2021",
+      "views": 11633
+    },
+    {
+      "period": "2022",
+      "views": 11469
+    },
+    {
+      "period": "2025",
+      "views": 11874
+    },
+    {
+      "period": "2026",
+      "views": 11371
+    }
+  ]
+}
