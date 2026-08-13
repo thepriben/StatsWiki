@@ -4,7 +4,7 @@
   "title": "Dušan_Vlahović",
   "description": "Serbian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dusan_Vlahovic_%28cropped%29.jpg?width=64",
-  "total": 647060,
+  "total": 659448,
   "monthly": [
     {
       "period": "2021-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 27142
+    },
+    {
+      "period": "2026-08",
+      "views": 12388
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 27142
+      "views": 39530
     }
   ]
 }

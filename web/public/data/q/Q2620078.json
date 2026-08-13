@@ -1,0 +1,52 @@
+{
+  "qid": "Q2620078",
+  "label": "solar eclipse of April 8, 2024",
+  "title": "Solar_eclipse_of_April_8,_2024",
+  "description": "total solar eclipse passing over North America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_eclipse_of_April_2024_from_Indianapolis.jpg?width=64",
+  "total": 3295079,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 835889
+    },
+    {
+      "period": "2023-10",
+      "views": 29213
+    },
+    {
+      "period": "2024-02",
+      "views": 81244
+    },
+    {
+      "period": "2024-03",
+      "views": 723439
+    },
+    {
+      "period": "2024-04",
+      "views": 1609699
+    },
+    {
+      "period": "2026-08",
+      "views": 15595
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 835889
+    },
+    {
+      "period": "2023",
+      "views": 29213
+    },
+    {
+      "period": "2024",
+      "views": 2414382
+    },
+    {
+      "period": "2026",
+      "views": 15595
+    }
+  ]
+}

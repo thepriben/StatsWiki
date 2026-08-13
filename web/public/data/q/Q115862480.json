@@ -4,7 +4,7 @@
   "title": "2026_United_States_gubernatorial_elections",
   "description": "gubernatorial elections in the United States",
   "image": "",
-  "total": 44063,
+  "total": 56290,
   "monthly": [
     {
       "period": "2025-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 11742
+    },
+    {
+      "period": "2026-08",
+      "views": 12227
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 11742
+      "views": 23969
     }
   ]
 }

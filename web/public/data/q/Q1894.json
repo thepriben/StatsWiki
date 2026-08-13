@@ -4,7 +4,7 @@
   "title": "Memphis_Depay",
   "description": "Dutch association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Memphis_Depay_2019.jpg?width=64",
-  "total": 3376977,
+  "total": 3391445,
   "monthly": [
     {
       "period": "2015-07",
@@ -169,6 +169,10 @@
     {
       "period": "2026-06",
       "views": 153495
+    },
+    {
+      "period": "2026-08",
+      "views": 14468
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 153495
+      "views": 167963
     }
   ]
 }

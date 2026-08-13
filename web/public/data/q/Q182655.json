@@ -4,7 +4,7 @@
   "title": "Rod_Stewart",
   "description": "English singer and songwriter (born 1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rod_stewart_05111976_12_400.jpg?width=64",
-  "total": 5277810,
+  "total": 5296937,
   "monthly": [
     {
       "period": "2015-07",
@@ -273,6 +273,10 @@
     {
       "period": "2026-06",
       "views": 163982
+    },
+    {
+      "period": "2026-08",
+      "views": 19127
     }
   ],
   "yearly": [
@@ -322,7 +326,7 @@
     },
     {
       "period": "2026",
-      "views": 569736
+      "views": 588863
     }
   ]
 }

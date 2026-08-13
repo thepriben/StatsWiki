@@ -4,7 +4,7 @@
   "title": "Cesc_Fàbregas",
   "description": "Spanish professional footballer player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023_-_Cesc_Fabregas_%28cropped%29.jpg?width=64",
-  "total": 1394473,
+  "total": 1402468,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 30138
+    },
+    {
+      "period": "2026-08",
+      "views": 7995
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 46910
+      "views": 54905
     }
   ]
 }

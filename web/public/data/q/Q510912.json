@@ -4,7 +4,7 @@
   "title": "Trisomy_X",
   "description": "presence of 47XXX chromosomes rather than the typical 46XX",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXXSyndromeB.png?width=64",
-  "total": 219253,
+  "total": 235788,
   "monthly": [
     {
       "period": "2021-06",
@@ -28,7 +28,7 @@
     },
     {
       "period": "2026-08",
-      "views": 48655
+      "views": 65190
     }
   ],
   "yearly": [
@@ -50,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 48655
+      "views": 65190
     }
   ]
 }

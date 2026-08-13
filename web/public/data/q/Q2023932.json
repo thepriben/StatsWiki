@@ -1,0 +1,36 @@
+{
+  "qid": "Q2023932",
+  "label": "solar eclipse of March 30, 2033",
+  "title": "Solar_eclipse_of_March_30,_2033",
+  "description": "future total solar eclipse",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE2033Mar30T.gif?width=64",
+  "total": 33669,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 8989
+    },
+    {
+      "period": "2024-04",
+      "views": 16463
+    },
+    {
+      "period": "2026-08",
+      "views": 8217
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 8989
+    },
+    {
+      "period": "2024",
+      "views": 16463
+    },
+    {
+      "period": "2026",
+      "views": 8217
+    }
+  ]
+}

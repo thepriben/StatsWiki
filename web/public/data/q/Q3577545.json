@@ -1,0 +1,36 @@
+{
+  "qid": "Q3577545",
+  "label": "solar eclipse of July 22, 2028",
+  "title": "Solar_eclipse_of_July_22,_2028",
+  "description": "future total solar eclipse",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE2028Jul22T.gif?width=64",
+  "total": 72055,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 11385
+    },
+    {
+      "period": "2024-04",
+      "views": 35469
+    },
+    {
+      "period": "2026-08",
+      "views": 25201
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11385
+    },
+    {
+      "period": "2024",
+      "views": 35469
+    },
+    {
+      "period": "2026",
+      "views": 25201
+    }
+  ]
+}

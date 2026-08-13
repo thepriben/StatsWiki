@@ -4,17 +4,21 @@
   "title": "Young_Washington",
   "description": "2026 film directed by Jon Erwin",
   "image": "",
-  "total": 401943,
+  "total": 409543,
   "monthly": [
     {
       "period": "2026-07",
       "views": 401943
+    },
+    {
+      "period": "2026-08",
+      "views": 7600
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 401943
+      "views": 409543
     }
   ]
 }

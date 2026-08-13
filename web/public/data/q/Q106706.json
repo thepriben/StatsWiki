@@ -4,7 +4,7 @@
   "title": "Jeff_Goldblum",
   "description": "American actor and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Goldblum_by_Gage_Skidmore.jpg?width=64",
-  "total": 6797756,
+  "total": 6807846,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-07",
       "views": 86460
+    },
+    {
+      "period": "2026-08",
+      "views": 10090
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 199488
+      "views": 209578
     }
   ]
 }

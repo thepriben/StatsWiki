@@ -1,0 +1,28 @@
+{
+  "qid": "Q105000",
+  "label": "meteor shower",
+  "title": "Meteor_shower",
+  "description": "celestial event caused by streams of meteoroids entering Earth's atmosphere",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andromedid_meteors%2C_November_1872.jpg?width=64",
+  "total": 19452,
+  "monthly": [
+    {
+      "period": "2018-12",
+      "views": 9166
+    },
+    {
+      "period": "2026-08",
+      "views": 10286
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 9166
+    },
+    {
+      "period": "2026",
+      "views": 10286
+    }
+  ]
+}

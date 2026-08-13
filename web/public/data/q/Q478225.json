@@ -1,0 +1,28 @@
+{
+  "qid": "Q478225",
+  "label": "Croke Park",
+  "title": "Croke_Park",
+  "description": "sports venue in Dublin, Ireland",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Croke_Park_from_the_Hill_-_2004_All-Ireland_Football_Championship_Final.jpg?width=64",
+  "total": 32004,
+  "monthly": [
+    {
+      "period": "2025-09",
+      "views": 22380
+    },
+    {
+      "period": "2026-08",
+      "views": 9624
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 22380
+    },
+    {
+      "period": "2026",
+      "views": 9624
+    }
+  ]
+}

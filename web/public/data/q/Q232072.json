@@ -4,7 +4,7 @@
   "title": "Julia_Louis-Dreyfus",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julia_Louis-Dreyfus_2019_%282%29.jpg?width=64",
-  "total": 6742303,
+  "total": 6750455,
   "monthly": [
     {
       "period": "2015-09",
@@ -365,6 +365,10 @@
     {
       "period": "2026-07",
       "views": 30485
+    },
+    {
+      "period": "2026-08",
+      "views": 8152
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 181754
+      "views": 189906
     }
   ]
 }

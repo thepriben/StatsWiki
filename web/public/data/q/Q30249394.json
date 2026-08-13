@@ -4,7 +4,7 @@
   "title": "Lord_Buckethead",
   "description": "fictional character from the movie Hyperspace, embodied from time to time by British satirical political candidates",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Buckethead_2020.png?width=64",
-  "total": 855940,
+  "total": 864438,
   "monthly": [
     {
       "period": "2017-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 325749
+    },
+    {
+      "period": "2026-08",
+      "views": 8498
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 338503
+      "views": 347001
     }
   ]
 }

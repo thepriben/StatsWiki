@@ -4,7 +4,7 @@
   "title": "Magic_Johnson",
   "description": "American basketball player and entrepreneur (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg?width=64",
-  "total": 11117445,
+  "total": 11127397,
   "monthly": [
     {
       "period": "2015-08",
@@ -381,6 +381,10 @@
     {
       "period": "2026-06",
       "views": 37990
+    },
+    {
+      "period": "2026-08",
+      "views": 9952
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 127741
+      "views": 137693
     }
   ]
 }

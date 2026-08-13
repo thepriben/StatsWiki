@@ -1,0 +1,48 @@
+{
+  "qid": "Q110938009",
+  "label": "Arthur the King",
+  "title": "Arthur_the_King",
+  "description": "2024 film directed by Simon Cellan Jones",
+  "image": "",
+  "total": 810692,
+  "monthly": [
+    {
+      "period": "2023-11",
+      "views": 65136
+    },
+    {
+      "period": "2024-03",
+      "views": 208317
+    },
+    {
+      "period": "2024-04",
+      "views": 315395
+    },
+    {
+      "period": "2024-05",
+      "views": 202361
+    },
+    {
+      "period": "2024-06",
+      "views": 10775
+    },
+    {
+      "period": "2026-08",
+      "views": 8708
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 65136
+    },
+    {
+      "period": "2024",
+      "views": 736848
+    },
+    {
+      "period": "2026",
+      "views": 8708
+    }
+  ]
+}

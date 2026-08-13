@@ -4,7 +4,7 @@
   "title": "Tyga",
   "description": "American rapper",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyga_-_Openair_Frauenfeld_2019_02.jpg?width=64",
-  "total": 4715071,
+  "total": 4726052,
   "monthly": [
     {
       "period": "2015-07",
@@ -145,6 +145,10 @@
     {
       "period": "2025-03",
       "views": 57835
+    },
+    {
+      "period": "2026-08",
+      "views": 10981
     }
   ],
   "yearly": [
@@ -183,6 +187,10 @@
     {
       "period": "2025",
       "views": 161653
+    },
+    {
+      "period": "2026",
+      "views": 10981
     }
   ]
 }

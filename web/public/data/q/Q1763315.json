@@ -4,7 +4,7 @@
   "title": "Doordarshan",
   "description": "India's public service broadcaster",
   "image": "",
-  "total": 9110165,
+  "total": 9118315,
   "monthly": [
     {
       "period": "2017-06",
@@ -205,6 +205,10 @@
     {
       "period": "2026-07",
       "views": 112865
+    },
+    {
+      "period": "2026-08",
+      "views": 8150
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 913346
+      "views": 921496
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "qid": "Q202712",
+  "label": "IBM Personal Computer",
+  "title": "IBM_Personal_Computer",
+  "description": "personal computer model released in 1981",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IBM_PC_5150.jpg?width=64",
+  "total": 79842,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 61530
+    },
+    {
+      "period": "2017-08",
+      "views": 10628
+    },
+    {
+      "period": "2026-08",
+      "views": 7684
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 61530
+    },
+    {
+      "period": "2017",
+      "views": 10628
+    },
+    {
+      "period": "2026",
+      "views": 7684
+    }
+  ]
+}

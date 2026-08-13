@@ -1,0 +1,36 @@
+{
+  "qid": "Q3577537",
+  "label": "solar eclipse of August 12, 2045",
+  "title": "Solar_eclipse_of_August_12,_2045",
+  "description": "Total solar eclipse over North America",
+  "image": "",
+  "total": 268841,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 188379
+    },
+    {
+      "period": "2024-04",
+      "views": 72923
+    },
+    {
+      "period": "2026-08",
+      "views": 7539
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 188379
+    },
+    {
+      "period": "2024",
+      "views": 72923
+    },
+    {
+      "period": "2026",
+      "views": 7539
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Los_Angeles_Lakers",
   "description": "American professional basketball team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Angeles_Lakers_logo.svg?width=64",
-  "total": 5613085,
+  "total": 5636232,
   "monthly": [
     {
       "period": "2015-11",
@@ -277,6 +277,10 @@
     {
       "period": "2026-07",
       "views": 11345
+    },
+    {
+      "period": "2026-08",
+      "views": 23147
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 45117
+      "views": 68264
     }
   ]
 }

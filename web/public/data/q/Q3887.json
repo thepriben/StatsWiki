@@ -4,7 +4,7 @@
   "title": "Solar_eclipse",
   "description": "natural phenomenon wherein the Sun is obscured by the Moon",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_eclipse_1999_4.jpg?width=64",
-  "total": 4394966,
+  "total": 4492818,
   "monthly": [
     {
       "period": "2015-09",
@@ -116,7 +116,7 @@
     },
     {
       "period": "2026-08",
-      "views": 32289
+      "views": 130141
     }
   ],
   "yearly": [
@@ -166,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 42459
+      "views": 140311
     }
   ]
 }

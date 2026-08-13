@@ -4,7 +4,7 @@
   "title": "South_Africa",
   "description": "country in southern Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciudad_del_Cabo_desde_Cabeza_de_Le%C3%B3n%2C_Sud%C3%A1frica%2C_2018-07-22%2C_DD_34.jpg?width=64",
-  "total": 37374872,
+  "total": 37384059,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-07",
       "views": 36869
+    },
+    {
+      "period": "2026-08",
+      "views": 9187
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 389656
+      "views": 398843
     }
   ]
 }
