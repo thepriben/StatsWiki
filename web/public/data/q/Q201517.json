@@ -4,7 +4,7 @@
   "title": "Ryan_Lochte",
   "description": "American swimmer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/London_2012_200m_backstroke_IMG_5105_%287737962738%29_%28Lochte%29.jpg?width=64",
-  "total": 2891073,
+  "total": 2899383,
   "monthly": [
     {
       "period": "2016-06",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 8007
+    },
+    {
+      "period": "2026-08",
+      "views": 8310
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 8007
+      "views": 16317
     }
   ]
 }

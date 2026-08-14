@@ -1,10 +1,10 @@
 {
   "qid": "Q2464643",
-  "label": "solar eclipse of August 12, 2026",
+  "label": "solar eclipse of 12 August 2026",
   "title": "Solar_eclipse_of_August_12,_2026",
   "description": "astronomical event in the northern hemisphere",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE2026Aug12T.gif?width=64",
-  "total": 710331,
+  "total": 757465,
   "monthly": [
     {
       "period": "2017-08",
@@ -28,7 +28,7 @@
     },
     {
       "period": "2026-08",
-      "views": 520209
+      "views": 567343
     }
   ],
   "yearly": [
@@ -46,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 556342
+      "views": 603476
     }
   ]
 }

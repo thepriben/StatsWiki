@@ -1,0 +1,100 @@
+{
+  "qid": "Q101505",
+  "label": "Deep Purple",
+  "title": "Deep_Purple",
+  "description": "English rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deep_Purple_in_2004.jpg?width=64",
+  "total": 200877,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 13103
+    },
+    {
+      "period": "2015-09",
+      "views": 10981
+    },
+    {
+      "period": "2015-12",
+      "views": 43437
+    },
+    {
+      "period": "2016-05",
+      "views": 9367
+    },
+    {
+      "period": "2017-11",
+      "views": 23140
+    },
+    {
+      "period": "2020-08",
+      "views": 11337
+    },
+    {
+      "period": "2021-07",
+      "views": 12011
+    },
+    {
+      "period": "2021-10",
+      "views": 10879
+    },
+    {
+      "period": "2022-05",
+      "views": 10678
+    },
+    {
+      "period": "2024-10",
+      "views": 12034
+    },
+    {
+      "period": "2025-07",
+      "views": 13490
+    },
+    {
+      "period": "2026-04",
+      "views": 9236
+    },
+    {
+      "period": "2026-08",
+      "views": 21184
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 67521
+    },
+    {
+      "period": "2016",
+      "views": 9367
+    },
+    {
+      "period": "2017",
+      "views": 23140
+    },
+    {
+      "period": "2020",
+      "views": 11337
+    },
+    {
+      "period": "2021",
+      "views": 22890
+    },
+    {
+      "period": "2022",
+      "views": 10678
+    },
+    {
+      "period": "2024",
+      "views": 12034
+    },
+    {
+      "period": "2025",
+      "views": 13490
+    },
+    {
+      "period": "2026",
+      "views": 30420
+    }
+  ]
+}

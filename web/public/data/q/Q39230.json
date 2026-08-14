@@ -4,7 +4,7 @@
   "title": "Marquinhos",
   "description": "Brazilian association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg?width=64",
-  "total": 510748,
+  "total": 518371,
   "monthly": [
     {
       "period": "2020-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 11955
+    },
+    {
+      "period": "2026-08",
+      "views": 7623
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 187508
+      "views": 195131
     }
   ]
 }

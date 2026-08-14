@@ -4,7 +4,7 @@
   "title": "Bangladesh",
   "description": "country in South Asia",
   "image": "",
-  "total": 28950993,
+  "total": 28959064,
   "monthly": [
     {
       "period": "2015-07",
@@ -525,6 +525,10 @@
     {
       "period": "2026-06",
       "views": 21060
+    },
+    {
+      "period": "2026-08",
+      "views": 8071
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 187937
+      "views": 196008
     }
   ]
 }

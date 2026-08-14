@@ -4,7 +4,7 @@
   "title": "United_Kingdom_weather_records",
   "description": "aspect of British meteorology",
   "image": "",
-  "total": 208534,
+  "total": 218344,
   "monthly": [
     {
       "period": "2017-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 81218
+    },
+    {
+      "period": "2026-08",
+      "views": 9810
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 107408
+      "views": 117218
     }
   ]
 }

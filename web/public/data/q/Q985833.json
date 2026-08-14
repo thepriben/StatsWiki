@@ -4,7 +4,7 @@
   "title": "Clacton-on-Sea",
   "description": "town in Essex, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clacton-on-Sea.jpg?width=64",
-  "total": 78119,
+  "total": 85999,
   "monthly": [
     {
       "period": "2024-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 48104
+    },
+    {
+      "period": "2026-08",
+      "views": 7880
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 48104
+      "views": 55984
     }
   ]
 }

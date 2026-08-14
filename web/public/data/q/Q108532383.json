@@ -4,7 +4,7 @@
   "title": "Ben_Shelton",
   "description": "American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shelton_MCM23_%2827%29_%2852883150181%29.jpg?width=64",
-  "total": 2120170,
+  "total": 2133057,
   "monthly": [
     {
       "period": "2024-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 37974
+    },
+    {
+      "period": "2026-08",
+      "views": 12887
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 282572
+      "views": 295459
     }
   ]
 }

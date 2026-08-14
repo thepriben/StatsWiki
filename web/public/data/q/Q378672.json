@@ -4,7 +4,7 @@
   "title": "Jerry_O'Connell",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JerryO%27ConnellHWOFJune2013.jpg?width=64",
-  "total": 1265270,
+  "total": 1275443,
   "monthly": [
     {
       "period": "2016-06",
@@ -177,6 +177,10 @@
     {
       "period": "2026-07",
       "views": 30371
+    },
+    {
+      "period": "2026-08",
+      "views": 10173
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 190414
+      "views": 200587
     }
   ]
 }

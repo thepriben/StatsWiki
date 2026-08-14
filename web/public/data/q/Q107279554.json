@@ -4,7 +4,7 @@
   "title": "Reclaim_Party",
   "description": "political party in the United Kingdom",
   "image": "",
-  "total": 55776,
+  "total": 65821,
   "monthly": [
     {
       "period": "2023-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 36802
+    },
+    {
+      "period": "2026-08",
+      "views": 10045
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 36802
+      "views": 46847
     }
   ]
 }

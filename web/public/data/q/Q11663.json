@@ -4,7 +4,7 @@
   "title": "Weather",
   "description": "state of the atmosphere",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikinews_weather.png?width=64",
-  "total": 1783764,
+  "total": 1795062,
   "monthly": [
     {
       "period": "2019-11",
@@ -48,7 +48,7 @@
     },
     {
       "period": "2026-08",
-      "views": 113148
+      "views": 124446
     }
   ],
   "yearly": [
@@ -62,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 1618484
+      "views": 1629782
     }
   ]
 }

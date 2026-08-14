@@ -4,7 +4,7 @@
   "title": "Mariska_Hargitay",
   "description": "American actress, producer, and philanthropist (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mariska_Hargitay_Woodstock_Film_Festival.jpg?width=64",
-  "total": 8638616,
+  "total": 8651550,
   "monthly": [
     {
       "period": "2015-08",
@@ -417,6 +417,10 @@
     {
       "period": "2026-07",
       "views": 101888
+    },
+    {
+      "period": "2026-08",
+      "views": 12934
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 870615
+      "views": 883549
     }
   ]
 }

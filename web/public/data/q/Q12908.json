@@ -4,7 +4,7 @@
   "title": "George_Soros",
   "description": "Hungarian-American investor and philanthropist (born 1930)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Soros_-_May_31%2C_2017.jpg?width=64",
-  "total": 16139126,
+  "total": 16147267,
   "monthly": [
     {
       "period": "2016-01",
@@ -429,6 +429,10 @@
     {
       "period": "2026-04",
       "views": 15315
+    },
+    {
+      "period": "2026-08",
+      "views": 8141
     }
   ],
   "yearly": [
@@ -474,7 +478,7 @@
     },
     {
       "period": "2026",
-      "views": 48108
+      "views": 56249
     }
   ]
 }

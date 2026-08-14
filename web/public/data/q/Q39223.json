@@ -1,0 +1,44 @@
+{
+  "qid": "Q39223",
+  "label": "Turnspit Dog",
+  "title": "Turnspit_dog",
+  "description": "extinct dog breed",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Turnspitdog-1862.jpg?width=64",
+  "total": 528534,
+  "monthly": [
+    {
+      "period": "2017-02",
+      "views": 429747
+    },
+    {
+      "period": "2018-11",
+      "views": 29262
+    },
+    {
+      "period": "2022-10",
+      "views": 23421
+    },
+    {
+      "period": "2026-08",
+      "views": 46104
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 429747
+    },
+    {
+      "period": "2018",
+      "views": 29262
+    },
+    {
+      "period": "2022",
+      "views": 23421
+    },
+    {
+      "period": "2026",
+      "views": 46104
+    }
+  ]
+}

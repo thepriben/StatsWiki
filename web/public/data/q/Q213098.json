@@ -1,0 +1,80 @@
+{
+  "qid": "Q213098",
+  "label": "progeria",
+  "title": "Progeria",
+  "description": "genetic disorder that causes early aging",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hutchinson-Gilford_Progeria_Syndrome.png?width=64",
+  "total": 282822,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 34301
+    },
+    {
+      "period": "2016-05",
+      "views": 23914
+    },
+    {
+      "period": "2016-09",
+      "views": 22271
+    },
+    {
+      "period": "2016-12",
+      "views": 9626
+    },
+    {
+      "period": "2017-03",
+      "views": 102591
+    },
+    {
+      "period": "2017-04",
+      "views": 12742
+    },
+    {
+      "period": "2022-01",
+      "views": 42067
+    },
+    {
+      "period": "2023-06",
+      "views": 11176
+    },
+    {
+      "period": "2024-11",
+      "views": 14862
+    },
+    {
+      "period": "2026-08",
+      "views": 9272
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 34301
+    },
+    {
+      "period": "2016",
+      "views": 55811
+    },
+    {
+      "period": "2017",
+      "views": 115333
+    },
+    {
+      "period": "2022",
+      "views": 42067
+    },
+    {
+      "period": "2023",
+      "views": 11176
+    },
+    {
+      "period": "2024",
+      "views": 14862
+    },
+    {
+      "period": "2026",
+      "views": 9272
+    }
+  ]
+}

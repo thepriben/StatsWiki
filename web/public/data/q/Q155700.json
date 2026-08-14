@@ -4,7 +4,7 @@
   "title": "Chris_Brown",
   "description": "American singer and rapper (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Brown_in_Tampa%2C_2015.jpg?width=64",
-  "total": 5978397,
+  "total": 5993436,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-07",
       "views": 18801
+    },
+    {
+      "period": "2026-08",
+      "views": 15039
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 97277
+      "views": 112316
     }
   ]
 }

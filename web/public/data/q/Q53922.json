@@ -4,7 +4,7 @@
   "title": "American_Horror_Story",
   "description": "American anthology horror television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Horror_Story.svg?width=64",
-  "total": 29264415,
+  "total": 29287914,
   "monthly": [
     {
       "period": "2015-07",
@@ -361,6 +361,10 @@
     {
       "period": "2026-07",
       "views": 47634
+    },
+    {
+      "period": "2026-08",
+      "views": 23499
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 152373
+      "views": 175872
     }
   ]
 }

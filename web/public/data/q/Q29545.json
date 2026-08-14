@@ -4,7 +4,7 @@
   "title": "Kevin_Durant",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_Durant_Feb_2014.jpg?width=64",
-  "total": 16305282,
+  "total": 16312963,
   "monthly": [
     {
       "period": "2015-12",
@@ -413,6 +413,10 @@
     {
       "period": "2026-06",
       "views": 23798
+    },
+    {
+      "period": "2026-08",
+      "views": 7681
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 357122
+      "views": 364803
     }
   ]
 }
