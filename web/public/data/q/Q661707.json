@@ -4,7 +4,7 @@
   "title": "Stourbridge",
   "description": "town in the Metropolitan Borough of Dudley, in the West Midlands of England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Foster_Street%2C_Stourbridge_-_geograph.org.uk_-_907117.jpg?width=64",
-  "total": 131485,
+  "total": 139650,
   "monthly": [
     {
       "period": "2024-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 110956
+    },
+    {
+      "period": "2026-08",
+      "views": 8165
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 110956
+      "views": 119121
     }
   ]
 }

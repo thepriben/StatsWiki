@@ -4,7 +4,7 @@
   "title": "Kathy_Hilton",
   "description": "American actress and television personality (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kathy_Hilton.jpg?width=64",
-  "total": 546885,
+  "total": 558364,
   "monthly": [
     {
       "period": "2015-07",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 14562
+    },
+    {
+      "period": "2026-08",
+      "views": 11479
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 83283
+      "views": 94762
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kevin_Costner",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_Costner_2016.jpg?width=64",
-  "total": 14576653,
+  "total": 14584656,
   "monthly": [
     {
       "period": "2015-07",
@@ -393,6 +393,10 @@
     {
       "period": "2026-05",
       "views": 8573
+    },
+    {
+      "period": "2026-08",
+      "views": 8003
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 45734
+      "views": 53737
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Don_Mattingly",
   "description": "American baseball player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Mattingly_Strikes_Out.jpg?width=64",
-  "total": 599908,
+  "total": 614539,
   "monthly": [
     {
       "period": "2015-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 8824
+    },
+    {
+      "period": "2026-08",
+      "views": 14631
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 139975
+      "views": 154606
     }
   ]
 }

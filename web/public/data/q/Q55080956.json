@@ -4,8 +4,32 @@
   "title": "Anna_Sorokin",
   "description": "Russian-born German fraudster (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AnnaDelvey-byPhilipRomano.jpg?width=64",
-  "total": 15795774,
+  "total": 16689548,
   "monthly": [
+    {
+      "period": "2018-08",
+      "views": 34915
+    },
+    {
+      "period": "2019-01",
+      "views": 287332
+    },
+    {
+      "period": "2019-02",
+      "views": 36781
+    },
+    {
+      "period": "2019-03",
+      "views": 60827
+    },
+    {
+      "period": "2019-04",
+      "views": 131982
+    },
+    {
+      "period": "2019-05",
+      "views": 83616
+    },
     {
       "period": "2019-12",
       "views": 11984
@@ -32,7 +56,7 @@
     },
     {
       "period": "2022-02",
-      "views": 6657803
+      "views": 6806910
     },
     {
       "period": "2022-03",
@@ -105,12 +129,36 @@
     {
       "period": "2025-04",
       "views": 27641
+    },
+    {
+      "period": "2025-05",
+      "views": 18798
+    },
+    {
+      "period": "2025-08",
+      "views": 42320
+    },
+    {
+      "period": "2026-04",
+      "views": 8613
+    },
+    {
+      "period": "2026-05",
+      "views": 30581
+    },
+    {
+      "period": "2026-08",
+      "views": 8902
     }
   ],
   "yearly": [
     {
+      "period": "2018",
+      "views": 34915
+    },
+    {
       "period": "2019",
-      "views": 11984
+      "views": 612522
     },
     {
       "period": "2021",
@@ -118,7 +166,7 @@
     },
     {
       "period": "2022",
-      "views": 13400776
+      "views": 13549883
     },
     {
       "period": "2023",
@@ -130,7 +178,11 @@
     },
     {
       "period": "2025",
-      "views": 27641
+      "views": 88759
+    },
+    {
+      "period": "2026",
+      "views": 48096
     }
   ]
 }

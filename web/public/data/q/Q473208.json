@@ -1,0 +1,80 @@
+{
+  "qid": "Q473208",
+  "label": "Roger Clemens",
+  "title": "Roger_Clemens",
+  "description": "American baseball player",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_clemens_2004.jpg?width=64",
+  "total": 178548,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 9334
+    },
+    {
+      "period": "2018-06",
+      "views": 9663
+    },
+    {
+      "period": "2019-01",
+      "views": 12115
+    },
+    {
+      "period": "2021-01",
+      "views": 15233
+    },
+    {
+      "period": "2022-01",
+      "views": 65179
+    },
+    {
+      "period": "2022-06",
+      "views": 13001
+    },
+    {
+      "period": "2025-05",
+      "views": 24261
+    },
+    {
+      "period": "2025-08",
+      "views": 9053
+    },
+    {
+      "period": "2026-05",
+      "views": 9287
+    },
+    {
+      "period": "2026-08",
+      "views": 11422
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9334
+    },
+    {
+      "period": "2018",
+      "views": 9663
+    },
+    {
+      "period": "2019",
+      "views": 12115
+    },
+    {
+      "period": "2021",
+      "views": 15233
+    },
+    {
+      "period": "2022",
+      "views": 78180
+    },
+    {
+      "period": "2025",
+      "views": 33314
+    },
+    {
+      "period": "2026",
+      "views": 20709
+    }
+  ]
+}

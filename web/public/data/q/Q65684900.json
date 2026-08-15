@@ -4,7 +4,7 @@
   "title": "Kate_O'Connor_(athlete)",
   "description": "Irish athlete",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate_O%27Connor_2023_%28cropped%29.jpg?width=64",
-  "total": 60821,
+  "total": 86580,
   "monthly": [
     {
       "period": "2025-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 21377
+    },
+    {
+      "period": "2026-08",
+      "views": 25759
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 21377
+      "views": 47136
     }
   ]
 }

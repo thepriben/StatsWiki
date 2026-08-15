@@ -4,17 +4,21 @@
   "title": "2026_FIFA_ASEAN_Cup",
   "description": "1st edition of the FIFA ASEAN Cup",
   "image": "",
-  "total": 12614,
+  "total": 24082,
   "monthly": [
     {
       "period": "2026-07",
       "views": 12614
+    },
+    {
+      "period": "2026-08",
+      "views": 11468
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 12614
+      "views": 24082
     }
   ]
 }

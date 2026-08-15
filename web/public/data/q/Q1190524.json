@@ -4,7 +4,7 @@
   "title": "Cave_of_the_Crystals",
   "description": "cave in Mexico",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristales_cueva_de_Naica.JPG?width=64",
-  "total": 312253,
+  "total": 328372,
   "monthly": [
     {
       "period": "2016-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 10747
+    },
+    {
+      "period": "2026-08",
+      "views": 16119
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 10747
+      "views": 26866
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Howling_Laud_Hope",
   "description": "British politician (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_%27Howling_Laud%27_Hope.jpg?width=64",
-  "total": 27331,
+  "total": 35845,
   "monthly": [
     {
       "period": "2017-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 8421
+    },
+    {
+      "period": "2026-08",
+      "views": 8514
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 17342
+      "views": 25856
     }
   ]
 }

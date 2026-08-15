@@ -1,0 +1,60 @@
+{
+  "qid": "Q2066538",
+  "label": "Villasur expedition",
+  "title": "Villasur_expedition",
+  "description": "Spanish military expedition in North America",
+  "image": "",
+  "total": 89683,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 17210
+    },
+    {
+      "period": "2019-08",
+      "views": 19760
+    },
+    {
+      "period": "2020-08",
+      "views": 12315
+    },
+    {
+      "period": "2023-08",
+      "views": 14218
+    },
+    {
+      "period": "2025-08",
+      "views": 15458
+    },
+    {
+      "period": "2026-08",
+      "views": 10722
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 17210
+    },
+    {
+      "period": "2019",
+      "views": 19760
+    },
+    {
+      "period": "2020",
+      "views": 12315
+    },
+    {
+      "period": "2023",
+      "views": 14218
+    },
+    {
+      "period": "2025",
+      "views": 15458
+    },
+    {
+      "period": "2026",
+      "views": 10722
+    }
+  ]
+}
