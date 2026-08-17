@@ -4,7 +4,7 @@
   "title": "Max_Greenfield",
   "description": "American actor (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Greenfield_-_LA_Times_Festival_of_Books_2025.jpg?width=64",
-  "total": 207764,
+  "total": 218622,
   "monthly": [
     {
       "period": "2015-08",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 12262
+    },
+    {
+      "period": "2026-08",
+      "views": 10858
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 22203
+      "views": 33061
     }
   ]
 }

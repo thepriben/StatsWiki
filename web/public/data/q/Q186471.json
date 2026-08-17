@@ -4,7 +4,7 @@
   "title": "Ultimate_Fighting_Championship",
   "description": "American mixed martial arts (MMA) promotion company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Former_HP_Pavillion_In_San_Jose_During_a_UFC_event.jpg?width=64",
-  "total": 3426058,
+  "total": 3440204,
   "monthly": [
     {
       "period": "2015-07",
@@ -373,6 +373,10 @@
     {
       "period": "2026-07",
       "views": 14547
+    },
+    {
+      "period": "2026-08",
+      "views": 14146
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 131053
+      "views": 145199
     }
   ]
 }

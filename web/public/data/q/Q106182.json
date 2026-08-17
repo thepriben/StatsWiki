@@ -1,0 +1,52 @@
+{
+  "qid": "Q106182",
+  "label": "X-Men",
+  "title": "X-Men_(film)",
+  "description": "2000 film directed by Bryan Singer",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/X-Men_movie_logo.png?width=64",
+  "total": 458075,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 134657
+    },
+    {
+      "period": "2016-06",
+      "views": 9059
+    },
+    {
+      "period": "2017-03",
+      "views": 156121
+    },
+    {
+      "period": "2024-07",
+      "views": 69359
+    },
+    {
+      "period": "2024-08",
+      "views": 75686
+    },
+    {
+      "period": "2026-08",
+      "views": 13193
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 143716
+    },
+    {
+      "period": "2017",
+      "views": 156121
+    },
+    {
+      "period": "2024",
+      "views": 145045
+    },
+    {
+      "period": "2026",
+      "views": 13193
+    }
+  ]
+}

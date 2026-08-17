@@ -4,7 +4,7 @@
   "title": "Jack_Grealish",
   "description": "English association football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ManCity20240722-017_%28cropped%29.jpg?width=64",
-  "total": 4744576,
+  "total": 4770578,
   "monthly": [
     {
       "period": "2015-09",
@@ -205,6 +205,10 @@
     {
       "period": "2026-07",
       "views": 32188
+    },
+    {
+      "period": "2026-08",
+      "views": 26002
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 81935
+      "views": 107937
     }
   ]
 }

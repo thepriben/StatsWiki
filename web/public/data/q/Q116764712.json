@@ -4,7 +4,7 @@
   "title": "Zootopia_2",
   "description": "2025 animated film directed by Jared Bush and Byron Howard",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zootropolis_2_logo.png?width=64",
-  "total": 6298667,
+  "total": 6308436,
   "monthly": [
     {
       "period": "2025-05",
@@ -53,6 +53,10 @@
     {
       "period": "2026-05",
       "views": 17232
+    },
+    {
+      "period": "2026-08",
+      "views": 9769
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 2554145
+      "views": 2563914
     }
   ]
 }

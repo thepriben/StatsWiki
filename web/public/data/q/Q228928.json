@@ -4,7 +4,7 @@
   "title": "Eva_Marie_Saint",
   "description": "American actress (born 1924)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Marie_Saint_Promo_Portrait%2C_c._1951.jpg?width=64",
-  "total": 967620,
+  "total": 977607,
   "monthly": [
     {
       "period": "2017-03",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 24784
+    },
+    {
+      "period": "2026-08",
+      "views": 9987
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 24784
+      "views": 34771
     }
   ]
 }

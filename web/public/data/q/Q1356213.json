@@ -4,7 +4,7 @@
   "title": "Mission:_Impossible_(film_series)",
   "description": "film series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mission_-_Impossible_film_series_logo.svg?width=64",
-  "total": 18762466,
+  "total": 18772471,
   "monthly": [
     {
       "period": "2015-07",
@@ -325,6 +325,10 @@
     {
       "period": "2026-04",
       "views": 48590
+    },
+    {
+      "period": "2026-08",
+      "views": 10005
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 197288
+      "views": 207293
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "qid": "Q204496",
+  "label": "Millennium Stadium",
+  "title": "Millennium_Stadium",
+  "description": "national stadium of Wales",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Principality_Stadium_May_3%2C_2016.jpg?width=64",
+  "total": 197816,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 12098
+    },
+    {
+      "period": "2016-05",
+      "views": 11179
+    },
+    {
+      "period": "2017-03",
+      "views": 9125
+    },
+    {
+      "period": "2017-05",
+      "views": 30591
+    },
+    {
+      "period": "2017-06",
+      "views": 93894
+    },
+    {
+      "period": "2018-03",
+      "views": 10477
+    },
+    {
+      "period": "2022-09",
+      "views": 13937
+    },
+    {
+      "period": "2026-08",
+      "views": 16515
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 23277
+    },
+    {
+      "period": "2017",
+      "views": 133610
+    },
+    {
+      "period": "2018",
+      "views": 10477
+    },
+    {
+      "period": "2022",
+      "views": 13937
+    },
+    {
+      "period": "2026",
+      "views": 16515
+    }
+  ]
+}

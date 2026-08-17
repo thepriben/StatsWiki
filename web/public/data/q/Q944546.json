@@ -4,7 +4,7 @@
   "title": "Sunny_Deol",
   "description": "Indian actor and politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunny_deol_2012.jpg?width=64",
-  "total": 2625877,
+  "total": 2635797,
   "monthly": [
     {
       "period": "2016-01",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 9702
+    },
+    {
+      "period": "2026-08",
+      "views": 9920
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 84629
+      "views": 94549
     }
   ]
 }

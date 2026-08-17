@@ -4,7 +4,7 @@
   "title": "Avengers:_Age_of_Ultron",
   "description": "2015 film directed by Joss Whedon",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avengers-age-of-ultron-logo.svg?width=64",
-  "total": 10693387,
+  "total": 10702498,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2021-03",
       "views": 123341
+    },
+    {
+      "period": "2026-08",
+      "views": 9111
     }
   ],
   "yearly": [
@@ -215,6 +219,10 @@
     {
       "period": "2021",
       "views": 319069
+    },
+    {
+      "period": "2026",
+      "views": 9111
     }
   ]
 }

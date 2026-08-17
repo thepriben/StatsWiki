@@ -1,0 +1,76 @@
+{
+  "qid": "Q2256",
+  "label": "Birmingham",
+  "title": "Birmingham",
+  "description": "city in the West Midlands, England",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Birmingham-Skyline-from-Edgbaston-crop.jpg?width=64",
+  "total": 571140,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 16418
+    },
+    {
+      "period": "2018-04",
+      "views": 12888
+    },
+    {
+      "period": "2022-07",
+      "views": 46083
+    },
+    {
+      "period": "2022-08",
+      "views": 112696
+    },
+    {
+      "period": "2023-09",
+      "views": 20848
+    },
+    {
+      "period": "2024-06",
+      "views": 196696
+    },
+    {
+      "period": "2024-07",
+      "views": 108188
+    },
+    {
+      "period": "2025-07",
+      "views": 47316
+    },
+    {
+      "period": "2026-08",
+      "views": 10007
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 16418
+    },
+    {
+      "period": "2018",
+      "views": 12888
+    },
+    {
+      "period": "2022",
+      "views": 158779
+    },
+    {
+      "period": "2023",
+      "views": 20848
+    },
+    {
+      "period": "2024",
+      "views": 304884
+    },
+    {
+      "period": "2025",
+      "views": 47316
+    },
+    {
+      "period": "2026",
+      "views": 10007
+    }
+  ]
+}

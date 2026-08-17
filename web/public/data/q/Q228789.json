@@ -4,7 +4,7 @@
   "title": "Lena_Headey",
   "description": "British actress (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Headey%2C_Lena_%282007%29_%28headshot%29.jpg?width=64",
-  "total": 6991920,
+  "total": 7001225,
   "monthly": [
     {
       "period": "2015-07",
@@ -165,6 +165,10 @@
     {
       "period": "2026-07",
       "views": 27545
+    },
+    {
+      "period": "2026-08",
+      "views": 9305
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 27545
+      "views": 36850
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Shannon_Elizabeth",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shannon_Elizabeth_Photo_Op_GalaxyCon_Richmond_2020.jpg?width=64",
-  "total": 547984,
+  "total": 557352,
   "monthly": [
     {
       "period": "2015-11",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 12419
+    },
+    {
+      "period": "2026-08",
+      "views": 9368
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 141706
+      "views": 151074
     }
   ]
 }

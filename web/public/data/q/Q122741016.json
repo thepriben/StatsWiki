@@ -4,7 +4,7 @@
   "title": "Hamnet_(film)",
   "description": "2025 film directed by Chloé Zhao",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamnet_logo.svg?width=64",
-  "total": 5645983,
+  "total": 5655427,
   "monthly": [
     {
       "period": "2025-08",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 58242
+    },
+    {
+      "period": "2026-08",
+      "views": 9444
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 4445005
+      "views": 4454449
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Hollywood_Vampires_(band)",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollywood_Vampires_at_Gr%C3%B6na_Lund%2C_Stockholm.jpg?width=64",
-  "total": 640333,
+  "total": 651354,
   "monthly": [
     {
       "period": "2016-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 10238
+    },
+    {
+      "period": "2026-08",
+      "views": 11021
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 10238
+      "views": 21259
     }
   ]
 }

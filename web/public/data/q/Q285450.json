@@ -4,7 +4,7 @@
   "title": "Jon_Jones",
   "description": "American mixed martial arts fighter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Jones_in_2014_%28cropped%29.jpg?width=64",
-  "total": 14126587,
+  "total": 14138889,
   "monthly": [
     {
       "period": "2015-08",
@@ -385,6 +385,10 @@
     {
       "period": "2026-07",
       "views": 20866
+    },
+    {
+      "period": "2026-08",
+      "views": 12302
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 135025
+      "views": 147327
     }
   ]
 }

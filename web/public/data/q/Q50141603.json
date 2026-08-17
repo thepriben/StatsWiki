@@ -4,7 +4,7 @@
   "title": "Sam_Burns",
   "description": "American golfer (1996-)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Burns_2021.png?width=64",
-  "total": 902977,
+  "total": 913435,
   "monthly": [
     {
       "period": "2021-02",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 130022
+    },
+    {
+      "period": "2026-08",
+      "views": 10458
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 380734
+      "views": 391192
     }
   ]
 }

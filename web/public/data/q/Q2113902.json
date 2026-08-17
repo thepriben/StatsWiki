@@ -4,7 +4,7 @@
   "title": "Elena_Delle_Donne",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elena_Delle_Donne_1.jpg?width=64",
-  "total": 561296,
+  "total": 573650,
   "monthly": [
     {
       "period": "2015-07",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 12731
+    },
+    {
+      "period": "2026-08",
+      "views": 12354
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 12731
+      "views": 25085
     }
   ]
 }
