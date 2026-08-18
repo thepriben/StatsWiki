@@ -4,7 +4,7 @@
   "title": "Pamela_Adlon",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-03-08_SXSW-2024_Variety-comedy-awards_04899_%28cropped%29.jpg?width=64",
-  "total": 1029928,
+  "total": 1039875,
   "monthly": [
     {
       "period": "2016-09",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 25801
+    },
+    {
+      "period": "2026-08",
+      "views": 9947
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 286556
+      "views": 296503
     }
   ]
 }

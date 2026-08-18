@@ -4,7 +4,7 @@
   "title": "Kingdom_Hearts_III",
   "description": "2019 video game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kingdom_Hearts_wordmark.png?width=64",
-  "total": 1525815,
+  "total": 1534603,
   "monthly": [
     {
       "period": "2015-08",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 8658
+    },
+    {
+      "period": "2026-08",
+      "views": 8788
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 8658
+      "views": 17446
     }
   ]
 }

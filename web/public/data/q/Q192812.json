@@ -4,7 +4,7 @@
   "title": "Hayden_Christensen",
   "description": "Canadian actor (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hayden-cfda2010-0004%281%29_%28cropped%29.jpg?width=64",
-  "total": 6859863,
+  "total": 6868819,
   "monthly": [
     {
       "period": "2015-08",
@@ -277,6 +277,10 @@
     {
       "period": "2026-05",
       "views": 8738
+    },
+    {
+      "period": "2026-08",
+      "views": 8956
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 18988
+      "views": 27944
     }
   ]
 }

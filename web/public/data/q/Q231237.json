@@ -4,7 +4,7 @@
   "title": "Karen_Gillan",
   "description": "Scottish actress and filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karen_Gillan_%2853197567618%29.jpg?width=64",
-  "total": 7685571,
+  "total": 7696851,
   "monthly": [
     {
       "period": "2016-09",
@@ -273,6 +273,10 @@
     {
       "period": "2026-07",
       "views": 21176
+    },
+    {
+      "period": "2026-08",
+      "views": 11280
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 53953
+      "views": 65233
     }
   ]
 }

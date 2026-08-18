@@ -1,0 +1,44 @@
+{
+  "qid": "Q874586",
+  "label": "Peyronie's disease",
+  "title": "Peyronie's_disease",
+  "description": "Human disease",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Curved_and_bent_penis_due_to_peyronies_disease_6.jpg?width=64",
+  "total": 100302,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 32337
+    },
+    {
+      "period": "2021-11",
+      "views": 21907
+    },
+    {
+      "period": "2024-08",
+      "views": 20292
+    },
+    {
+      "period": "2026-08",
+      "views": 25766
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 32337
+    },
+    {
+      "period": "2021",
+      "views": 21907
+    },
+    {
+      "period": "2024",
+      "views": 20292
+    },
+    {
+      "period": "2026",
+      "views": 25766
+    }
+  ]
+}

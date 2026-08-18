@@ -4,7 +4,7 @@
   "title": "Kanye_West",
   "description": "American rapper and record producer (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg?width=64",
-  "total": 62638299,
+  "total": 62647286,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 45755
+    },
+    {
+      "period": "2026-08",
+      "views": 8987
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1723604
+      "views": 1732591
     }
   ]
 }

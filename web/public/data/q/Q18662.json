@@ -1,0 +1,100 @@
+{
+  "qid": "Q18662",
+  "label": "Cardiff City F.C.",
+  "title": "Cardiff_City_F.C.",
+  "description": "association football club in Cardiff, Wales",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiff_City_Stadium-front.jpg?width=64",
+  "total": 324055,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 46428
+    },
+    {
+      "period": "2018-01",
+      "views": 16103
+    },
+    {
+      "period": "2018-05",
+      "views": 32112
+    },
+    {
+      "period": "2018-08",
+      "views": 40620
+    },
+    {
+      "period": "2018-09",
+      "views": 17494
+    },
+    {
+      "period": "2018-12",
+      "views": 23300
+    },
+    {
+      "period": "2019-01",
+      "views": 50200
+    },
+    {
+      "period": "2019-04",
+      "views": 11565
+    },
+    {
+      "period": "2019-11",
+      "views": 26464
+    },
+    {
+      "period": "2020-01",
+      "views": 10870
+    },
+    {
+      "period": "2022-02",
+      "views": 14023
+    },
+    {
+      "period": "2023-01",
+      "views": 12399
+    },
+    {
+      "period": "2025-12",
+      "views": 11613
+    },
+    {
+      "period": "2026-08",
+      "views": 10864
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 46428
+    },
+    {
+      "period": "2018",
+      "views": 129629
+    },
+    {
+      "period": "2019",
+      "views": 88229
+    },
+    {
+      "period": "2020",
+      "views": 10870
+    },
+    {
+      "period": "2022",
+      "views": 14023
+    },
+    {
+      "period": "2023",
+      "views": 12399
+    },
+    {
+      "period": "2025",
+      "views": 11613
+    },
+    {
+      "period": "2026",
+      "views": 10864
+    }
+  ]
+}

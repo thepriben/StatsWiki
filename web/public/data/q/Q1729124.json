@@ -1,0 +1,28 @@
+{
+  "qid": "Q1729124",
+  "label": "cardiomegaly",
+  "title": "Cardiomegaly",
+  "description": "medical condition in which the heart is enlarged",
+  "image": "",
+  "total": 225036,
+  "monthly": [
+    {
+      "period": "2024-09",
+      "views": 9148
+    },
+    {
+      "period": "2026-08",
+      "views": 215888
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 9148
+    },
+    {
+      "period": "2026",
+      "views": 215888
+    }
+  ]
+}

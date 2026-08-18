@@ -1,0 +1,100 @@
+{
+  "qid": "Q112183099",
+  "label": "Scream VI",
+  "title": "Scream_VI",
+  "description": "2023 film directed by Matt Bettinelli-Olpin and Tyler Gillett",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scream_6.png?width=64",
+  "total": 3848442,
+  "monthly": [
+    {
+      "period": "2022-12",
+      "views": 61553
+    },
+    {
+      "period": "2023-01",
+      "views": 144122
+    },
+    {
+      "period": "2023-02",
+      "views": 117399
+    },
+    {
+      "period": "2023-03",
+      "views": 1849354
+    },
+    {
+      "period": "2023-04",
+      "views": 729227
+    },
+    {
+      "period": "2023-05",
+      "views": 407921
+    },
+    {
+      "period": "2023-08",
+      "views": 31091
+    },
+    {
+      "period": "2023-09",
+      "views": 10797
+    },
+    {
+      "period": "2023-10",
+      "views": 65169
+    },
+    {
+      "period": "2023-11",
+      "views": 92782
+    },
+    {
+      "period": "2024-10",
+      "views": 22744
+    },
+    {
+      "period": "2024-11",
+      "views": 11834
+    },
+    {
+      "period": "2025-10",
+      "views": 34765
+    },
+    {
+      "period": "2025-11",
+      "views": 12762
+    },
+    {
+      "period": "2026-02",
+      "views": 92779
+    },
+    {
+      "period": "2026-03",
+      "views": 123595
+    },
+    {
+      "period": "2026-08",
+      "views": 40548
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 61553
+    },
+    {
+      "period": "2023",
+      "views": 3447862
+    },
+    {
+      "period": "2024",
+      "views": 34578
+    },
+    {
+      "period": "2025",
+      "views": 47527
+    },
+    {
+      "period": "2026",
+      "views": 256922
+    }
+  ]
+}

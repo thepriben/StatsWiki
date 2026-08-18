@@ -4,7 +4,7 @@
   "title": "Provo_Canyon_School",
   "description": "boarding school in Springville, Utah, United States",
   "image": "",
-  "total": 36789,
+  "total": 51541,
   "monthly": [
     {
       "period": "2020-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 13925
+    },
+    {
+      "period": "2026-08",
+      "views": 14752
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 13925
+      "views": 28677
     }
   ]
 }

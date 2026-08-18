@@ -4,7 +4,7 @@
   "title": "Alan_Tudyk",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Tudyk_%2853771747157%29%281%29_cropped.jpg?width=64",
-  "total": 1267096,
+  "total": 1277458,
   "monthly": [
     {
       "period": "2015-10",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 10570
+    },
+    {
+      "period": "2026-08",
+      "views": 10362
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 21763
+      "views": 32125
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Scream_7",
   "description": "2026 film directed by Kevin Williamson",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scream_7_Logo.svg?width=64",
-  "total": 3145094,
+  "total": 3158511,
   "monthly": [
     {
       "period": "2025-01",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 109598
+    },
+    {
+      "period": "2026-08",
+      "views": 13417
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 2907914
+      "views": 2921331
     }
   ]
 }

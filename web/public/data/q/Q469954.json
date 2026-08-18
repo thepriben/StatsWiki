@@ -4,7 +4,7 @@
   "title": "Austin_Butler",
   "description": "American actor (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Austin_Butler_at_the_2025_Cannes_Film_Festival_02.jpg?width=64",
-  "total": 12048090,
+  "total": 12060773,
   "monthly": [
     {
       "period": "2015-08",
@@ -181,6 +181,10 @@
     {
       "period": "2025-12",
       "views": 93477
+    },
+    {
+      "period": "2026-08",
+      "views": 12683
     }
   ],
   "yearly": [
@@ -223,6 +227,10 @@
     {
       "period": "2025",
       "views": 553876
+    },
+    {
+      "period": "2026",
+      "views": 12683
     }
   ]
 }

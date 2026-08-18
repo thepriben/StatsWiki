@@ -4,7 +4,7 @@
   "title": "Human_penis_size",
   "description": "measurement of the human penis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erect_penis_measurement.svg?width=64",
-  "total": 5641693,
+  "total": 5651966,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-07",
       "views": 69223
+    },
+    {
+      "period": "2026-08",
+      "views": 10273
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 160425
+      "views": 170698
     }
   ]
 }

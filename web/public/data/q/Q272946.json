@@ -4,7 +4,7 @@
   "title": "Joan_Cusack",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan_Cusack_%28h%29.jpg?width=64",
-  "total": 754961,
+  "total": 771064,
   "monthly": [
     {
       "period": "2016-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 350904
+    },
+    {
+      "period": "2026-08",
+      "views": 16103
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 464449
+      "views": 480552
     }
   ]
 }

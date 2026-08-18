@@ -1,0 +1,28 @@
+{
+  "qid": "Q32884",
+  "label": "Green Lantern",
+  "title": "Green_Lantern",
+  "description": "multiple superheroes from the DC universe",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_Lantern_%28Six_Flags_Great_Adventure%29.jpg?width=64",
+  "total": 27446,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 10328
+    },
+    {
+      "period": "2026-08",
+      "views": 17118
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 10328
+    },
+    {
+      "period": "2026",
+      "views": 17118
+    }
+  ]
+}

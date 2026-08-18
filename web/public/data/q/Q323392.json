@@ -1,0 +1,72 @@
+{
+  "qid": "Q323392",
+  "label": "Scream 4",
+  "title": "Scream_4",
+  "description": "2011 film directed by Wes Craven",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scre4m.png?width=64",
+  "total": 471124,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 9921
+    },
+    {
+      "period": "2015-08",
+      "views": 19212
+    },
+    {
+      "period": "2021-10",
+      "views": 47819
+    },
+    {
+      "period": "2022-01",
+      "views": 167404
+    },
+    {
+      "period": "2023-03",
+      "views": 141117
+    },
+    {
+      "period": "2025-10",
+      "views": 10386
+    },
+    {
+      "period": "2026-02",
+      "views": 23982
+    },
+    {
+      "period": "2026-03",
+      "views": 24573
+    },
+    {
+      "period": "2026-08",
+      "views": 26710
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 29133
+    },
+    {
+      "period": "2021",
+      "views": 47819
+    },
+    {
+      "period": "2022",
+      "views": 167404
+    },
+    {
+      "period": "2023",
+      "views": 141117
+    },
+    {
+      "period": "2025",
+      "views": 10386
+    },
+    {
+      "period": "2026",
+      "views": 75265
+    }
+  ]
+}

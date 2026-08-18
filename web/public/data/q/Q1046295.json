@@ -1,0 +1,60 @@
+{
+  "qid": "Q1046295",
+  "label": "The Princess Diaries",
+  "title": "The_Princess_Diaries_(film)",
+  "description": "2001 film directed by Garry Marshall",
+  "image": "",
+  "total": 109977,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 11132
+    },
+    {
+      "period": "2016-11",
+      "views": 11228
+    },
+    {
+      "period": "2020-05",
+      "views": 12877
+    },
+    {
+      "period": "2024-08",
+      "views": 18817
+    },
+    {
+      "period": "2024-10",
+      "views": 24473
+    },
+    {
+      "period": "2025-08",
+      "views": 14171
+    },
+    {
+      "period": "2026-08",
+      "views": 17279
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 22360
+    },
+    {
+      "period": "2020",
+      "views": 12877
+    },
+    {
+      "period": "2024",
+      "views": 43290
+    },
+    {
+      "period": "2025",
+      "views": 14171
+    },
+    {
+      "period": "2026",
+      "views": 17279
+    }
+  ]
+}
