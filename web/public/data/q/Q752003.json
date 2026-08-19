@@ -4,7 +4,7 @@
   "title": "Pole_of_inaccessibility",
   "description": "point on land or at sea that is the most distant from any coastline, either for an entire planet, or for a given landmass or body of water",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Distancia_a_la_costa.png?width=64",
-  "total": 356093,
+  "total": 365214,
   "monthly": [
     {
       "period": "2016-12",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 10786
+    },
+    {
+      "period": "2026-08",
+      "views": 9121
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 86678
+      "views": 95799
     }
   ]
 }

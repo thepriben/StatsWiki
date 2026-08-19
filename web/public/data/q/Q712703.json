@@ -1,0 +1,80 @@
+{
+  "qid": "Q712703",
+  "label": "USS Pueblo",
+  "title": "USS_Pueblo_(AGER-2)",
+  "description": "1944 Banner-class environmental research ship",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USS_Pueblo_%28AGER-2%29.jpg?width=64",
+  "total": 256183,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 15880
+    },
+    {
+      "period": "2016-08",
+      "views": 25549
+    },
+    {
+      "period": "2018-01",
+      "views": 66046
+    },
+    {
+      "period": "2019-06",
+      "views": 50523
+    },
+    {
+      "period": "2019-11",
+      "views": 27103
+    },
+    {
+      "period": "2021-12",
+      "views": 11766
+    },
+    {
+      "period": "2024-06",
+      "views": 14349
+    },
+    {
+      "period": "2026-01",
+      "views": 21111
+    },
+    {
+      "period": "2026-05",
+      "views": 10868
+    },
+    {
+      "period": "2026-08",
+      "views": 12988
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 15880
+    },
+    {
+      "period": "2016",
+      "views": 25549
+    },
+    {
+      "period": "2018",
+      "views": 66046
+    },
+    {
+      "period": "2019",
+      "views": 77626
+    },
+    {
+      "period": "2021",
+      "views": 11766
+    },
+    {
+      "period": "2024",
+      "views": 14349
+    },
+    {
+      "period": "2026",
+      "views": 44967
+    }
+  ]
+}

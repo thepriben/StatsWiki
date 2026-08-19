@@ -1,0 +1,96 @@
+{
+  "qid": "Q16547881",
+  "label": "It Follows",
+  "title": "It_Follows",
+  "description": "2014 film directed by David Robert Mitchell",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/It_Follows_Title.png?width=64",
+  "total": 868760,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 343417
+    },
+    {
+      "period": "2015-08",
+      "views": 114836
+    },
+    {
+      "period": "2015-10",
+      "views": 110025
+    },
+    {
+      "period": "2015-11",
+      "views": 34528
+    },
+    {
+      "period": "2016-04",
+      "views": 10363
+    },
+    {
+      "period": "2017-01",
+      "views": 53031
+    },
+    {
+      "period": "2017-02",
+      "views": 25643
+    },
+    {
+      "period": "2017-08",
+      "views": 30372
+    },
+    {
+      "period": "2020-10",
+      "views": 47136
+    },
+    {
+      "period": "2023-10",
+      "views": 49823
+    },
+    {
+      "period": "2023-11",
+      "views": 14046
+    },
+    {
+      "period": "2025-11",
+      "views": 9143
+    },
+    {
+      "period": "2026-04",
+      "views": 17842
+    },
+    {
+      "period": "2026-08",
+      "views": 8555
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 602806
+    },
+    {
+      "period": "2016",
+      "views": 10363
+    },
+    {
+      "period": "2017",
+      "views": 109046
+    },
+    {
+      "period": "2020",
+      "views": 47136
+    },
+    {
+      "period": "2023",
+      "views": 63869
+    },
+    {
+      "period": "2025",
+      "views": 9143
+    },
+    {
+      "period": "2026",
+      "views": 26397
+    }
+  ]
+}

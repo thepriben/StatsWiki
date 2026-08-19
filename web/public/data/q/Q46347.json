@@ -4,7 +4,7 @@
   "title": "Patrick_Vieira",
   "description": "French football manager (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Vieira_NYCFC.JPG?width=64",
-  "total": 942286,
+  "total": 955649,
   "monthly": [
     {
       "period": "2015-11",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 29591
+    },
+    {
+      "period": "2026-08",
+      "views": 13363
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 73308
+      "views": 86671
     }
   ]
 }

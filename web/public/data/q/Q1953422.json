@@ -1,0 +1,52 @@
+{
+  "qid": "Q1953422",
+  "label": "The Muppets",
+  "title": "The_Muppets",
+  "description": "puppet characters created by Jim Henson",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muppets_-_first_Disney_logo.svg?width=64",
+  "total": 121612,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 13444
+    },
+    {
+      "period": "2023-09",
+      "views": 40210
+    },
+    {
+      "period": "2023-11",
+      "views": 15239
+    },
+    {
+      "period": "2024-03",
+      "views": 26177
+    },
+    {
+      "period": "2026-03",
+      "views": 18520
+    },
+    {
+      "period": "2026-08",
+      "views": 8022
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 13444
+    },
+    {
+      "period": "2023",
+      "views": 55449
+    },
+    {
+      "period": "2024",
+      "views": 26177
+    },
+    {
+      "period": "2026",
+      "views": 26542
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "qid": "Q136591",
+  "label": "ZZ Top",
+  "title": "ZZ_Top",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ZZ_Top_performing_in_San_Antonio%2C_Texas_2015.jpg?width=64",
+  "total": 1280395,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 17961
+    },
+    {
+      "period": "2016-06",
+      "views": 123576
+    },
+    {
+      "period": "2017-03",
+      "views": 8962
+    },
+    {
+      "period": "2019-07",
+      "views": 13737
+    },
+    {
+      "period": "2020-03",
+      "views": 154428
+    },
+    {
+      "period": "2020-12",
+      "views": 11089
+    },
+    {
+      "period": "2021-03",
+      "views": 10754
+    },
+    {
+      "period": "2021-07",
+      "views": 564198
+    },
+    {
+      "period": "2021-08",
+      "views": 201023
+    },
+    {
+      "period": "2022-01",
+      "views": 11026
+    },
+    {
+      "period": "2022-10",
+      "views": 50841
+    },
+    {
+      "period": "2024-06",
+      "views": 11867
+    },
+    {
+      "period": "2026-08",
+      "views": 100933
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 141537
+    },
+    {
+      "period": "2017",
+      "views": 8962
+    },
+    {
+      "period": "2019",
+      "views": 13737
+    },
+    {
+      "period": "2020",
+      "views": 165517
+    },
+    {
+      "period": "2021",
+      "views": 775975
+    },
+    {
+      "period": "2022",
+      "views": 61867
+    },
+    {
+      "period": "2024",
+      "views": 11867
+    },
+    {
+      "period": "2026",
+      "views": 100933
+    }
+  ]
+}

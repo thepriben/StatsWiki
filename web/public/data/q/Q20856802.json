@@ -4,7 +4,7 @@
   "title": "La_La_Land",
   "description": "2016 film directed by Damien Chazelle",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_La_Land_Logo.svg?width=64",
-  "total": 199395,
+  "total": 211595,
   "monthly": [
     {
       "period": "2024-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 19914
+    },
+    {
+      "period": "2026-08",
+      "views": 12200
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 19914
+      "views": 32114
     }
   ]
 }

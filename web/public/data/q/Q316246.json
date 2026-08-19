@@ -4,7 +4,7 @@
   "title": "Phil_Jackson",
   "description": "American basketball player, coach and executive",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phil_Jackson_3_cropped.jpg?width=64",
-  "total": 3917684,
+  "total": 3930432,
   "monthly": [
     {
       "period": "2016-02",
@@ -133,6 +133,10 @@
     {
       "period": "2026-06",
       "views": 41294
+    },
+    {
+      "period": "2026-08",
+      "views": 12748
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 41294
+      "views": 54042
     }
   ]
 }

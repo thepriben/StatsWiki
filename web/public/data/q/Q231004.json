@@ -4,7 +4,7 @@
   "title": "Patricia_Heaton",
   "description": "American actress (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patricia_Heaton_2021.jpg?width=64",
-  "total": 473934,
+  "total": 482755,
   "monthly": [
     {
       "period": "2015-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 34800
+    },
+    {
+      "period": "2026-08",
+      "views": 8821
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 62274
+      "views": 71095
     }
   ]
 }

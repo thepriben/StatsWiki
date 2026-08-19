@@ -1,0 +1,64 @@
+{
+  "qid": "Q223703",
+  "label": "MTV Video Music Awards",
+  "title": "MTV_Video_Music_Awards",
+  "description": "American music video awards (1984–present)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_Video_Music_Awards_logo_3.svg?width=64",
+  "total": 324743,
+  "monthly": [
+    {
+      "period": "2021-09",
+      "views": 32521
+    },
+    {
+      "period": "2022-08",
+      "views": 36246
+    },
+    {
+      "period": "2023-09",
+      "views": 81691
+    },
+    {
+      "period": "2024-09",
+      "views": 72356
+    },
+    {
+      "period": "2025-08",
+      "views": 11384
+    },
+    {
+      "period": "2025-09",
+      "views": 74461
+    },
+    {
+      "period": "2026-08",
+      "views": 16084
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 32521
+    },
+    {
+      "period": "2022",
+      "views": 36246
+    },
+    {
+      "period": "2023",
+      "views": 81691
+    },
+    {
+      "period": "2024",
+      "views": 72356
+    },
+    {
+      "period": "2025",
+      "views": 85845
+    },
+    {
+      "period": "2026",
+      "views": 16084
+    }
+  ]
+}

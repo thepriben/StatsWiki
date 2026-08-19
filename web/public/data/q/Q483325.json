@@ -4,7 +4,7 @@
   "title": "Ellen_DeGeneres",
   "description": "American comedian, television host, actress, and writer (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ellen_DeGeneres_2011.jpg?width=64",
-  "total": 16268641,
+  "total": 16277958,
   "monthly": [
     {
       "period": "2015-08",
@@ -333,6 +333,10 @@
     {
       "period": "2026-02",
       "views": 85815
+    },
+    {
+      "period": "2026-08",
+      "views": 9317
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 85815
+      "views": 95132
     }
   ]
 }

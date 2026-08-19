@@ -1,0 +1,60 @@
+{
+  "qid": "Q53719",
+  "label": "Looper",
+  "title": "Looper_(film)",
+  "description": "2012 film directed by Rian Johnson",
+  "image": "",
+  "total": 131707,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 23458
+    },
+    {
+      "period": "2015-08",
+      "views": 9969
+    },
+    {
+      "period": "2015-11",
+      "views": 26503
+    },
+    {
+      "period": "2016-01",
+      "views": 29155
+    },
+    {
+      "period": "2021-12",
+      "views": 24592
+    },
+    {
+      "period": "2025-02",
+      "views": 9177
+    },
+    {
+      "period": "2026-08",
+      "views": 8853
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 59930
+    },
+    {
+      "period": "2016",
+      "views": 29155
+    },
+    {
+      "period": "2021",
+      "views": 24592
+    },
+    {
+      "period": "2025",
+      "views": 9177
+    },
+    {
+      "period": "2026",
+      "views": 8853
+    }
+  ]
+}

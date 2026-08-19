@@ -4,7 +4,7 @@
   "title": "Breaking_Bad",
   "description": "American crime drama television series (2008–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breaking_Bad_logo.svg?width=64",
-  "total": 32180933,
+  "total": 32188987,
   "monthly": [
     {
       "period": "2015-07",
@@ -473,6 +473,10 @@
     {
       "period": "2026-05",
       "views": 7942
+    },
+    {
+      "period": "2026-08",
+      "views": 8054
     }
   ],
   "yearly": [
@@ -522,7 +526,7 @@
     },
     {
       "period": "2026",
-      "views": 355549
+      "views": 363603
     }
   ]
 }

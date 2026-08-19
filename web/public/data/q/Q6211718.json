@@ -1,0 +1,44 @@
+{
+  "qid": "Q6211718",
+  "label": "Joe Pasquale",
+  "title": "Joe_Pasquale",
+  "description": "English comedian",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Pasquale_at_BingoLotto_launch.jpg?width=64",
+  "total": 89916,
+  "monthly": [
+    {
+      "period": "2019-05",
+      "views": 53773
+    },
+    {
+      "period": "2021-12",
+      "views": 13976
+    },
+    {
+      "period": "2023-11",
+      "views": 14169
+    },
+    {
+      "period": "2026-08",
+      "views": 7998
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 53773
+    },
+    {
+      "period": "2021",
+      "views": 13976
+    },
+    {
+      "period": "2023",
+      "views": 14169
+    },
+    {
+      "period": "2026",
+      "views": 7998
+    }
+  ]
+}

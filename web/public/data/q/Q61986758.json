@@ -4,7 +4,7 @@
   "title": "Mason_Greenwood",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greenwood_asse_om_2425.png?width=64",
-  "total": 3475410,
+  "total": 3484248,
   "monthly": [
     {
       "period": "2019-03",
@@ -189,6 +189,10 @@
     {
       "period": "2026-07",
       "views": 36283
+    },
+    {
+      "period": "2026-08",
+      "views": 8838
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 150855
+      "views": 159693
     }
   ]
 }
