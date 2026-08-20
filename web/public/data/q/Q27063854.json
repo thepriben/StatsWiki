@@ -4,7 +4,7 @@
   "title": "Ezri_Konsa",
   "description": "English footballer (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ezri_Konsa_England_v_Panama_27_June_26-259_%28cropped%29.jpg?width=64",
-  "total": 519609,
+  "total": 589610,
   "monthly": [
     {
       "period": "2019-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 194204
+    },
+    {
+      "period": "2026-08",
+      "views": 70001
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 302001
+      "views": 372002
     }
   ]
 }

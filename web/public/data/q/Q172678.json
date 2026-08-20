@@ -4,7 +4,7 @@
   "title": "Samuel_L._Jackson",
   "description": "American actor (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SamuelLJackson.jpg?width=64",
-  "total": 7876741,
+  "total": 7884025,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-07",
       "views": 12549
+    },
+    {
+      "period": "2026-08",
+      "views": 7284
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 22623
+      "views": 29907
     }
   ]
 }

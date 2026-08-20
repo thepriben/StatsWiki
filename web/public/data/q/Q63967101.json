@@ -4,7 +4,7 @@
   "title": "Marina_Mabrey",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marina_Mabrey_%28cropped%29.jpg?width=64",
-  "total": 150337,
+  "total": 161350,
   "monthly": [
     {
       "period": "2024-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 10355
+    },
+    {
+      "period": "2026-08",
+      "views": 11013
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 55533
+      "views": 66546
     }
   ]
 }

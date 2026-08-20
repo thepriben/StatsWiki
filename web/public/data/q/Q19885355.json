@@ -4,7 +4,7 @@
   "title": "Ollie_Robinson",
   "description": "British cricketer (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ollie_Robinson%2C_2023_%28cropped%29.jpg?width=64",
-  "total": 57992,
+  "total": 68473,
   "monthly": [
     {
       "period": "2023-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 33937
+    },
+    {
+      "period": "2026-08",
+      "views": 10481
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 33937
+      "views": 44418
     }
   ]
 }

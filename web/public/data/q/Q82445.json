@@ -4,7 +4,7 @@
   "title": "Henri_de_Toulouse-Lautrec",
   "description": "French painter and illustrator (1864–1901)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg?width=64",
-  "total": 137849,
+  "total": 149844,
   "monthly": [
     {
       "period": "2016-03",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 8673
+    },
+    {
+      "period": "2026-08",
+      "views": 11995
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 8673
+      "views": 20668
     }
   ]
 }

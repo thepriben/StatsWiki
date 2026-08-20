@@ -4,7 +4,7 @@
   "title": "KPop_Demon_Hunters",
   "description": "2025 animated film directed by Maggie Kang and Chris Appelhans",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KPDH_logo_black.png?width=64",
-  "total": 13687385,
+  "total": 13695085,
   "monthly": [
     {
       "period": "2025-05",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 128658
+    },
+    {
+      "period": "2026-08",
+      "views": 7700
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 2729693
+      "views": 2737393
     }
   ]
 }

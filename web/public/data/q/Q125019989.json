@@ -4,7 +4,7 @@
   "title": "Heat_2",
   "description": "novel by Michael Mann and Meg Gardiner",
   "image": "",
-  "total": 67669,
+  "total": 76754,
   "monthly": [
     {
       "period": "2026-02",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 13459
+    },
+    {
+      "period": "2026-08",
+      "views": 9085
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 67669
+      "views": 76754
     }
   ]
 }

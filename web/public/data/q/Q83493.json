@@ -4,7 +4,7 @@
   "title": "Susan_Boyle",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Susan_Boyle_Nov_2009.jpg?width=64",
-  "total": 905179,
+  "total": 919643,
   "monthly": [
     {
       "period": "2015-08",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 8290
+    },
+    {
+      "period": "2026-08",
+      "views": 14464
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 62272
+      "views": 76736
     }
   ]
 }

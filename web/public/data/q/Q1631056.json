@@ -1,0 +1,100 @@
+{
+  "qid": "Q1631056",
+  "label": "Keystone Pipeline",
+  "title": "Keystone_Pipeline",
+  "description": "oil pipeline in North America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keystone_XL_Logo.png?width=64",
+  "total": 2299589,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 11366
+    },
+    {
+      "period": "2015-11",
+      "views": 87700
+    },
+    {
+      "period": "2016-11",
+      "views": 56769
+    },
+    {
+      "period": "2017-01",
+      "views": 108472
+    },
+    {
+      "period": "2017-03",
+      "views": 17535
+    },
+    {
+      "period": "2017-11",
+      "views": 52350
+    },
+    {
+      "period": "2021-01",
+      "views": 1171835
+    },
+    {
+      "period": "2021-02",
+      "views": 99673
+    },
+    {
+      "period": "2021-03",
+      "views": 9696
+    },
+    {
+      "period": "2021-05",
+      "views": 26374
+    },
+    {
+      "period": "2021-06",
+      "views": 21406
+    },
+    {
+      "period": "2022-02",
+      "views": 106305
+    },
+    {
+      "period": "2022-03",
+      "views": 500575
+    },
+    {
+      "period": "2025-02",
+      "views": 18982
+    },
+    {
+      "period": "2026-08",
+      "views": 10551
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 99066
+    },
+    {
+      "period": "2016",
+      "views": 56769
+    },
+    {
+      "period": "2017",
+      "views": 178357
+    },
+    {
+      "period": "2021",
+      "views": 1328984
+    },
+    {
+      "period": "2022",
+      "views": 606880
+    },
+    {
+      "period": "2025",
+      "views": 18982
+    },
+    {
+      "period": "2026",
+      "views": 10551
+    }
+  ]
+}

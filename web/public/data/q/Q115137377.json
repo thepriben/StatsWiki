@@ -4,7 +4,7 @@
   "title": "Cory_Mills",
   "description": "American businessman and politician (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Representative_Cory_Mills_Cropped_Portrait.jpg?width=64",
-  "total": 331211,
+  "total": 361596,
   "monthly": [
     {
       "period": "2023-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 8144
+    },
+    {
+      "period": "2026-08",
+      "views": 30385
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 128586
+      "views": 158971
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Celtic_F.C.",
   "description": "association football club in Glasgow, Scotland",
   "image": "",
-  "total": 1581646,
+  "total": 1592229,
   "monthly": [
     {
       "period": "2015-08",
@@ -257,6 +257,10 @@
     {
       "period": "2026-06",
       "views": 8691
+    },
+    {
+      "period": "2026-08",
+      "views": 10583
     }
   ],
   "yearly": [
@@ -306,7 +310,7 @@
     },
     {
       "period": "2026",
-      "views": 133935
+      "views": 144518
     }
   ]
 }

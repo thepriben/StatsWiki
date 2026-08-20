@@ -4,7 +4,7 @@
   "title": "Atlético_Madrid",
   "description": "Spanish professional football club in Madrid",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madrid_-_Estadio_Wanda_Metropolitano_25.jpg?width=64",
-  "total": 2932714,
+  "total": 2942267,
   "monthly": [
     {
       "period": "2015-07",
@@ -269,6 +269,10 @@
     {
       "period": "2026-07",
       "views": 113927
+    },
+    {
+      "period": "2026-08",
+      "views": 9553
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 306370
+      "views": 315923
     }
   ]
 }

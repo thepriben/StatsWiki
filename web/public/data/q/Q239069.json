@@ -4,7 +4,7 @@
   "title": "Jean_Smart",
   "description": "American actress (born 1951)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Smart_%282008%29.jpg?width=64",
-  "total": 2574054,
+  "total": 2592206,
   "monthly": [
     {
       "period": "2015-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-06",
       "views": 9752
+    },
+    {
+      "period": "2026-08",
+      "views": 18152
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 197707
+      "views": 215859
     }
   ]
 }

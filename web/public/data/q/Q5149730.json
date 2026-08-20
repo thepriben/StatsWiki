@@ -1,0 +1,28 @@
+{
+  "qid": "Q5149730",
+  "label": "Columbia House",
+  "title": "Columbia_House",
+  "description": "Mail-order music club brand by Columbia Records",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbia_House_logo.svg?width=64",
+  "total": 18278,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 8960
+    },
+    {
+      "period": "2026-08",
+      "views": 9318
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 8960
+    },
+    {
+      "period": "2026",
+      "views": 9318
+    }
+  ]
+}

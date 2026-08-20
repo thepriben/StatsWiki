@@ -4,7 +4,7 @@
   "title": "Julián_Alvarez",
   "description": "Argentine footballer (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_Alvarez_Argentina_v_Egypt_7_July_2026-056.jpg?width=64",
-  "total": 783070,
+  "total": 791141,
   "monthly": [
     {
       "period": "2024-11",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 347403
+    },
+    {
+      "period": "2026-08",
+      "views": 8071
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 620360
+      "views": 628431
     }
   ]
 }

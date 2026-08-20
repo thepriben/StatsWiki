@@ -4,7 +4,7 @@
   "title": "Jordan_Cox_(cricketer)",
   "description": "English cricketer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JordanCox.jpg?width=64",
-  "total": 19034,
+  "total": 28742,
   "monthly": [
     {
       "period": "2025-08",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 10193
+    },
+    {
+      "period": "2026-08",
+      "views": 9708
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10193
+      "views": 19901
     }
   ]
 }

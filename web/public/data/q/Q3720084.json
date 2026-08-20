@@ -4,7 +4,7 @@
   "title": "Nick_Kyrgios",
   "description": "Australian tennis player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Kyrgios_%2834585313873%29.jpg?width=64",
-  "total": 8241222,
+  "total": 8279253,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-06",
       "views": 26381
+    },
+    {
+      "period": "2026-08",
+      "views": 38031
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 56417
+      "views": 94448
     }
   ]
 }

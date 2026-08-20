@@ -4,7 +4,7 @@
   "title": "Will_Smith",
   "description": "American actor, film producer and rapper (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Will_Smith_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 43982879,
+  "total": 43990736,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-07",
       "views": 10185
+    },
+    {
+      "period": "2026-08",
+      "views": 7857
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 224029
+      "views": 231886
     }
   ]
 }

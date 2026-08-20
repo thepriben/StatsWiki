@@ -4,7 +4,7 @@
   "title": "Celine_Dion",
   "description": "Canadian singer (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9line_Dion_2012.jpg?width=64",
-  "total": 19728445,
+  "total": 19736111,
   "monthly": [
     {
       "period": "2015-08",
@@ -409,6 +409,10 @@
     {
       "period": "2026-06",
       "views": 21727
+    },
+    {
+      "period": "2026-08",
+      "views": 7666
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 228088
+      "views": 235754
     }
   ]
 }

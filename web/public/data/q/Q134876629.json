@@ -4,17 +4,21 @@
   "title": "Whalefall_(film)",
   "description": "upcoming film directed by Brian Duffield",
   "image": "",
-  "total": 184861,
+  "total": 199591,
   "monthly": [
     {
       "period": "2026-06",
       "views": 184861
+    },
+    {
+      "period": "2026-08",
+      "views": 14730
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 184861
+      "views": 199591
     }
   ]
 }
