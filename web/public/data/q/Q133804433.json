@@ -4,17 +4,21 @@
   "title": "The_Duskbloods",
   "description": "2026 video game developed by FromSoftware",
   "image": "",
-  "total": 12023,
+  "total": 25045,
   "monthly": [
     {
       "period": "2026-06",
       "views": 12023
+    },
+    {
+      "period": "2026-08",
+      "views": 13022
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 12023
+      "views": 25045
     }
   ]
 }

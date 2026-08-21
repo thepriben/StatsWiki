@@ -4,7 +4,7 @@
   "title": "Austin_Abrams",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Austin_Abrams_2018.png?width=64",
-  "total": 658241,
+  "total": 666259,
   "monthly": [
     {
       "period": "2020-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 27817
+    },
+    {
+      "period": "2026-08",
+      "views": 8018
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 114387
+      "views": 122405
     }
   ]
 }

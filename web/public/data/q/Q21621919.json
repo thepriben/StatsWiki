@@ -4,7 +4,7 @@
   "title": "Post_Malone",
   "description": "American musician (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Post_Malone_at_the_2019_American_Music_Awards.png?width=64",
-  "total": 30760840,
+  "total": 30776189,
   "monthly": [
     {
       "period": "2015-12",
@@ -417,6 +417,10 @@
     {
       "period": "2026-07",
       "views": 47869
+    },
+    {
+      "period": "2026-08",
+      "views": 15349
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 130967
+      "views": 146316
     }
   ]
 }

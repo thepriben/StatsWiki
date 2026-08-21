@@ -4,7 +4,7 @@
   "title": "James_Harden",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harden_dribbling_midcourt%2C_Cavaliers_vs_Nets_on_January_17%2C_2022_%28cropped%29.jpg?width=64",
-  "total": 5438504,
+  "total": 5446969,
   "monthly": [
     {
       "period": "2015-07",
@@ -301,6 +301,10 @@
     {
       "period": "2026-06",
       "views": 27575
+    },
+    {
+      "period": "2026-08",
+      "views": 8465
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 678313
+      "views": 686778
     }
   ]
 }

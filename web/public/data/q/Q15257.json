@@ -4,7 +4,7 @@
   "title": "Ron_Paul",
   "description": "American politician (born 1935)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_Paul%2C_official_Congressional_photo_portrait%2C_2007.jpg?width=64",
-  "total": 511307,
+  "total": 520804,
   "monthly": [
     {
       "period": "2015-08",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 22379
+    },
+    {
+      "period": "2026-08",
+      "views": 9497
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 32310
+      "views": 41807
     }
   ]
 }

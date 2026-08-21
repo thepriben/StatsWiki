@@ -1,0 +1,52 @@
+{
+  "qid": "Q1027289",
+  "label": "O-Bahn Busway",
+  "title": "O-Bahn_Busway",
+  "description": "Guided busway in Adelaide, Australia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz_O_305_on_guided_busway_in_Adelaide.jpg?width=64",
+  "total": 70069,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 16915
+    },
+    {
+      "period": "2018-12",
+      "views": 11203
+    },
+    {
+      "period": "2019-08",
+      "views": 16517
+    },
+    {
+      "period": "2025-08",
+      "views": 12973
+    },
+    {
+      "period": "2026-08",
+      "views": 12461
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 16915
+    },
+    {
+      "period": "2018",
+      "views": 11203
+    },
+    {
+      "period": "2019",
+      "views": 16517
+    },
+    {
+      "period": "2025",
+      "views": 12973
+    },
+    {
+      "period": "2026",
+      "views": 12461
+    }
+  ]
+}

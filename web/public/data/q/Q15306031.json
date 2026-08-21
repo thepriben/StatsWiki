@@ -4,7 +4,7 @@
   "title": "Awkwafina",
   "description": "American actress, comedian, and rapper",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Awkwafina_by_Gage_Skidmore.jpg?width=64",
-  "total": 11351678,
+  "total": 11365236,
   "monthly": [
     {
       "period": "2016-08",
@@ -245,6 +245,10 @@
     {
       "period": "2025-06",
       "views": 12130
+    },
+    {
+      "period": "2026-08",
+      "views": 13558
     }
   ],
   "yearly": [
@@ -287,6 +291,10 @@
     {
       "period": "2025",
       "views": 147755
+    },
+    {
+      "period": "2026",
+      "views": 13558
     }
   ]
 }

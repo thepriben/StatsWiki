@@ -4,7 +4,7 @@
   "title": "Barry_Bannan",
   "description": "Scottish footballer (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barry_Bannan_14032026_%284%29.jpg?width=64",
-  "total": 166863,
+  "total": 177196,
   "monthly": [
     {
       "period": "2023-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 8689
+    },
+    {
+      "period": "2026-08",
+      "views": 10333
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 60315
+      "views": 70648
     }
   ]
 }

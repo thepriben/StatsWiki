@@ -1,0 +1,40 @@
+{
+  "qid": "Q1138777",
+  "label": "United States public debt",
+  "title": "National_debt_of_the_United_States",
+  "description": "cumulative face value of all outstanding U.S. Treasury securities",
+  "image": "",
+  "total": 60579,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 10820
+    },
+    {
+      "period": "2016-11",
+      "views": 25962
+    },
+    {
+      "period": "2019-02",
+      "views": 13304
+    },
+    {
+      "period": "2026-08",
+      "views": 10493
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 36782
+    },
+    {
+      "period": "2019",
+      "views": 13304
+    },
+    {
+      "period": "2026",
+      "views": 10493
+    }
+  ]
+}

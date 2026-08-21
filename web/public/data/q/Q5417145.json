@@ -1,0 +1,56 @@
+{
+  "qid": "Q5417145",
+  "label": "Evergrande Group",
+  "title": "Evergrande_Group",
+  "description": "Chinese property developer",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Evergrande_Center.jpg?width=64",
+  "total": 675800,
+  "monthly": [
+    {
+      "period": "2021-09",
+      "views": 516011
+    },
+    {
+      "period": "2021-10",
+      "views": 13304
+    },
+    {
+      "period": "2021-11",
+      "views": 19408
+    },
+    {
+      "period": "2021-12",
+      "views": 8708
+    },
+    {
+      "period": "2023-08",
+      "views": 45273
+    },
+    {
+      "period": "2024-01",
+      "views": 53272
+    },
+    {
+      "period": "2026-08",
+      "views": 19824
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 557431
+    },
+    {
+      "period": "2023",
+      "views": 45273
+    },
+    {
+      "period": "2024",
+      "views": 53272
+    },
+    {
+      "period": "2026",
+      "views": 19824
+    }
+  ]
+}

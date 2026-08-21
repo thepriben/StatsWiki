@@ -4,7 +4,7 @@
   "title": "Rajiv_Gandhi",
   "description": "Prime Minister of India (1984-1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajiv_Gandhi_%28cropped%29.jpg?width=64",
-  "total": 1502837,
+  "total": 1514770,
   "monthly": [
     {
       "period": "2015-08",
@@ -177,6 +177,10 @@
     {
       "period": "2026-07",
       "views": 9382
+    },
+    {
+      "period": "2026-08",
+      "views": 11933
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 32039
+      "views": 43972
     }
   ]
 }
