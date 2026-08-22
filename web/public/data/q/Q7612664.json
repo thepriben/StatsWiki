@@ -4,7 +4,7 @@
   "title": "Steve_Gleason",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Gleason_%28cropped%29.jpg?width=64",
-  "total": 1643342,
+  "total": 1656129,
   "monthly": [
     {
       "period": "2015-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 20068
+    },
+    {
+      "period": "2026-08",
+      "views": 12787
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 20068
+      "views": 32855
     }
   ]
 }

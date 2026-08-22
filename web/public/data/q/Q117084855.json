@@ -1,0 +1,36 @@
+{
+  "qid": "Q117084855",
+  "label": "Kick",
+  "title": "Kick_(service)",
+  "description": "Australian livestreaming site",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kick_logo.svg?width=64",
+  "total": 40084,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 11382
+    },
+    {
+      "period": "2025-08",
+      "views": 19002
+    },
+    {
+      "period": "2026-08",
+      "views": 9700
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 11382
+    },
+    {
+      "period": "2025",
+      "views": 19002
+    },
+    {
+      "period": "2026",
+      "views": 9700
+    }
+  ]
+}

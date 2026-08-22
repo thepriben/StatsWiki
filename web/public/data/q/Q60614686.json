@@ -4,7 +4,7 @@
   "title": "The_Gentlemen_(2019_film)",
   "description": "2019 film directed by Guy Ritchie",
   "image": "",
-  "total": 4273622,
+  "total": 4281165,
   "monthly": [
     {
       "period": "2020-01",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 10373
+    },
+    {
+      "period": "2026-08",
+      "views": 7543
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 10373
+      "views": 17916
     }
   ]
 }

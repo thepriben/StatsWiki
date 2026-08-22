@@ -4,7 +4,7 @@
   "title": "Queen_(band)",
   "description": "British musical group; rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?width=64",
-  "total": 20765627,
+  "total": 20776428,
   "monthly": [
     {
       "period": "2015-07",
@@ -381,6 +381,10 @@
     {
       "period": "2026-06",
       "views": 10545
+    },
+    {
+      "period": "2026-08",
+      "views": 10801
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 105476
+      "views": 116277
     }
   ]
 }

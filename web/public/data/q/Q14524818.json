@@ -4,7 +4,7 @@
   "title": "El_Niño",
   "description": "irregularly periodic variation in winds and sea surface temperatures over the tropical eastern Pacific Ocean",
   "image": "",
-  "total": 1397407,
+  "total": 1412499,
   "monthly": [
     {
       "period": "2015-07",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 50446
+    },
+    {
+      "period": "2026-08",
+      "views": 15092
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 98140
+      "views": 113232
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Crystal_Palace_F.C.",
   "description": "association football club in London, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Selhurst_Park_Holmesdale_Stand.jpg?width=64",
-  "total": 2469558,
+  "total": 2477095,
   "monthly": [
     {
       "period": "2015-07",
@@ -209,6 +209,10 @@
     {
       "period": "2026-07",
       "views": 49419
+    },
+    {
+      "period": "2026-08",
+      "views": 7537
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 241720
+      "views": 249257
     }
   ]
 }

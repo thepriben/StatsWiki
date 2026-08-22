@@ -4,7 +4,7 @@
   "title": "The_Game_(rapper)",
   "description": "American rapper, record producer and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Game_2016.jpg?width=64",
-  "total": 941471,
+  "total": 955202,
   "monthly": [
     {
       "period": "2015-08",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 9657
+    },
+    {
+      "period": "2026-08",
+      "views": 13731
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 9657
+      "views": 23388
     }
   ]
 }

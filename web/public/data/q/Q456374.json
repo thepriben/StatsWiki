@@ -4,7 +4,7 @@
   "title": "DeMar_DeRozan",
   "description": "American basketball player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DeMar_DeRozan_2022.jpg?width=64",
-  "total": 1442705,
+  "total": 1451749,
   "monthly": [
     {
       "period": "2016-02",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 34737
+    },
+    {
+      "period": "2026-08",
+      "views": 9044
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 34737
+      "views": 43781
     }
   ]
 }

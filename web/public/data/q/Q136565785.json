@@ -4,7 +4,7 @@
   "title": "Resident_Evil_(2026_film)",
   "description": "2026 film directed by Zach Cregger based on the eponymous video game series",
   "image": "",
-  "total": 452014,
+  "total": 459579,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-07",
       "views": 170855
+    },
+    {
+      "period": "2026-08",
+      "views": 7565
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 452014
+      "views": 459579
     }
   ]
 }

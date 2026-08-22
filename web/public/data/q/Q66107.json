@@ -2,9 +2,9 @@
   "qid": "Q66107",
   "label": "Henry Kissinger",
   "title": "Henry_Kissinger",
-  "description": "American politician and diplomat and geopolitical advisor, served as U.S. Secretary of State from 1973 to 1977 (1923–2023)",
+  "description": "American diplomat and geopolitical advisor, served as U.S. Secretary of State from 1973 to 1977 (1923–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg?width=64",
-  "total": 8475448,
+  "total": 8503050,
   "monthly": [
     {
       "period": "2016-02",
@@ -233,6 +233,10 @@
     {
       "period": "2026-06",
       "views": 11743
+    },
+    {
+      "period": "2026-08",
+      "views": 27602
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 11743
+      "views": 39345
     }
   ]
 }

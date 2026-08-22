@@ -4,7 +4,7 @@
   "title": "Shawn_Hatosy",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shawn_Hatosy_2011.jpg?width=64",
-  "total": 897586,
+  "total": 909086,
   "monthly": [
     {
       "period": "2016-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 12932
+    },
+    {
+      "period": "2026-08",
+      "views": 11500
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 802392
+      "views": 813892
     }
   ]
 }

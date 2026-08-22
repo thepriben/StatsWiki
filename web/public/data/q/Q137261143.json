@@ -4,17 +4,21 @@
   "title": "God_of_War_(American_TV_series)",
   "description": "TV series",
   "image": "",
-  "total": 9356,
+  "total": 20226,
   "monthly": [
     {
       "period": "2026-07",
       "views": 9356
+    },
+    {
+      "period": "2026-08",
+      "views": 10870
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9356
+      "views": 20226
     }
   ]
 }
