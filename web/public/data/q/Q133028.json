@@ -4,7 +4,7 @@
   "title": "Richard_III_of_England",
   "description": "king of England from 1483 to 1485",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_III_earliest_surviving_portrait.jpg?width=64",
-  "total": 785049,
+  "total": 793842,
   "monthly": [
     {
       "period": "2015-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 13338
+    },
+    {
+      "period": "2026-08",
+      "views": 8793
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 71487
+      "views": 80280
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lucas_Herrington",
   "description": "Australian soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Herrington_Australia_v_USA_19_June_2026-98_%28cropped%29.jpg?width=64",
-  "total": 136692,
+  "total": 150176,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 102587
+    },
+    {
+      "period": "2026-08",
+      "views": 13484
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 136692
+      "views": 150176
     }
   ]
 }

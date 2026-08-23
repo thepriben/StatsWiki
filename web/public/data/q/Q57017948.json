@@ -4,7 +4,7 @@
   "title": "Kieran_McKenna",
   "description": "association football manager (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kieran_McKenna_in_2017.jpg?width=64",
-  "total": 735969,
+  "total": 746619,
   "monthly": [
     {
       "period": "2021-12",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 22888
+    },
+    {
+      "period": "2026-08",
+      "views": 10650
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 37442
+      "views": 48092
     }
   ]
 }

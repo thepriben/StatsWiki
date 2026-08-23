@@ -4,7 +4,7 @@
   "title": "John_Wayne",
   "description": "American actor (1907–1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Wayne_-_still_portrait.jpg?width=64",
-  "total": 7598937,
+  "total": 7611763,
   "monthly": [
     {
       "period": "2015-07",
@@ -429,6 +429,10 @@
     {
       "period": "2026-06",
       "views": 19013
+    },
+    {
+      "period": "2026-08",
+      "views": 12826
     }
   ],
   "yearly": [
@@ -478,7 +482,7 @@
     },
     {
       "period": "2026",
-      "views": 41474
+      "views": 54300
     }
   ]
 }

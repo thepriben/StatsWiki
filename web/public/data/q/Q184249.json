@@ -4,7 +4,7 @@
   "title": "Kelly_Rowland",
   "description": "American singer, songwriter and actress (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelly_Rowland_Walmart_Soundcheck_cropped.jpg?width=64",
-  "total": 640418,
+  "total": 671022,
   "monthly": [
     {
       "period": "2017-04",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 17821
+    },
+    {
+      "period": "2026-08",
+      "views": 30604
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 30830
+      "views": 61434
     }
   ]
 }

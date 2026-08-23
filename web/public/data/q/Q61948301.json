@@ -4,7 +4,7 @@
   "title": "Wyndham_Clark",
   "description": "American golfer (1993-)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wyndham_Clark_2023_01.png?width=64",
-  "total": 1623115,
+  "total": 1638832,
   "monthly": [
     {
       "period": "2023-05",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 705098
+    },
+    {
+      "period": "2026-08",
+      "views": 15717
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 796633
+      "views": 812350
     }
   ]
 }

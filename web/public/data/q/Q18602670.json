@@ -4,7 +4,7 @@
   "title": "Spectre_(2015_film)",
   "description": "2015 film by Sam Mendes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_oficial_de_Spectre.jpeg?width=64",
-  "total": 14036712,
+  "total": 14047771,
   "monthly": [
     {
       "period": "2015-07",
@@ -249,6 +249,10 @@
     {
       "period": "2026-01",
       "views": 25406
+    },
+    {
+      "period": "2026-08",
+      "views": 11059
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 25406
+      "views": 36465
     }
   ]
 }

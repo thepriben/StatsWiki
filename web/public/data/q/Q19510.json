@@ -4,7 +4,7 @@
   "title": "EFL_Championship",
   "description": "second tier of the football pyramid of professional football league in England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Millwall_Leeds_at_The_Den_2018.jpg?width=64",
-  "total": 3837059,
+  "total": 3847440,
   "monthly": [
     {
       "period": "2017-04",
@@ -181,6 +181,10 @@
     {
       "period": "2026-07",
       "views": 41799
+    },
+    {
+      "period": "2026-08",
+      "views": 10381
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 430683
+      "views": 441064
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Aaron_Ashmore",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Ashmore_2015.jpg?width=64",
-  "total": 366770,
+  "total": 374550,
   "monthly": [
     {
       "period": "2020-02",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 116322
+    },
+    {
+      "period": "2026-08",
+      "views": 7780
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 116322
+      "views": 124102
     }
   ]
 }

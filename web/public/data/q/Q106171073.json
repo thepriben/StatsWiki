@@ -4,7 +4,7 @@
   "title": "Andrey_Santos",
   "description": "Brazilian footballer (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Santos_asse_rcsa_2425.jpg?width=64",
-  "total": 541193,
+  "total": 562374,
   "monthly": [
     {
       "period": "2022-12",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 469270
+    },
+    {
+      "period": "2026-08",
+      "views": 21181
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 469270
+      "views": 490451
     }
   ]
 }

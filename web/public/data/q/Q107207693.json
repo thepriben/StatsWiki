@@ -4,7 +4,7 @@
   "title": "Arthur_Fils",
   "description": "French tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Fils_at_EFG_Swiss_Open_Gstaad_2023_Pic_Gordon_Simmonds.jpg?width=64",
-  "total": 217796,
+  "total": 226948,
   "monthly": [
     {
       "period": "2024-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 10910
+    },
+    {
+      "period": "2026-08",
+      "views": 9152
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 87130
+      "views": 96282
     }
   ]
 }

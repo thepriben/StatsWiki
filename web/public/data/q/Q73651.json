@@ -4,7 +4,7 @@
   "title": "Double_Jeopardy_(1999_film)",
   "description": "1999 film directed by Bruce Beresford",
   "image": "",
-  "total": 39188,
+  "total": 48438,
   "monthly": [
     {
       "period": "2019-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 10738
+    },
+    {
+      "period": "2026-08",
+      "views": 9250
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 28807
+      "views": 38057
     }
   ]
 }

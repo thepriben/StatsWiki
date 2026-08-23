@@ -4,7 +4,7 @@
   "title": "Oliver_Glasner",
   "description": "Austrian association football manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_%28cropped%29.jpg?width=64",
-  "total": 971152,
+  "total": 979497,
   "monthly": [
     {
       "period": "2022-05",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 9999
+    },
+    {
+      "period": "2026-08",
+      "views": 8345
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 266860
+      "views": 275205
     }
   ]
 }

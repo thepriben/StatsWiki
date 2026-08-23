@@ -1,0 +1,48 @@
+{
+  "qid": "Q682030",
+  "label": "The Tragically Hip",
+  "title": "The_Tragically_Hip",
+  "description": "Canadian rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tragically_Hip_2007.jpg?width=64",
+  "total": 855453,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 67513
+    },
+    {
+      "period": "2016-08",
+      "views": 545283
+    },
+    {
+      "period": "2017-10",
+      "views": 187177
+    },
+    {
+      "period": "2025-03",
+      "views": 45145
+    },
+    {
+      "period": "2026-08",
+      "views": 10335
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 612796
+    },
+    {
+      "period": "2017",
+      "views": 187177
+    },
+    {
+      "period": "2025",
+      "views": 45145
+    },
+    {
+      "period": "2026",
+      "views": 10335
+    }
+  ]
+}

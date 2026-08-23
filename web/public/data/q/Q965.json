@@ -4,7 +4,7 @@
   "title": "Burkina_Faso",
   "description": "sovereign state in Africa",
   "image": "",
-  "total": 2793832,
+  "total": 2801873,
   "monthly": [
     {
       "period": "2015-09",
@@ -169,6 +169,10 @@
     {
       "period": "2026-06",
       "views": 19043
+    },
+    {
+      "period": "2026-08",
+      "views": 8041
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 88557
+      "views": 96598
     }
   ]
 }

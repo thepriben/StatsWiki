@@ -4,7 +4,7 @@
   "title": "Destiny's_Child",
   "description": "American rhythm and blues girl group from Houston, Texas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg?width=64",
-  "total": 495429,
+  "total": 504293,
   "monthly": [
     {
       "period": "2016-02",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 38787
+    },
+    {
+      "period": "2026-08",
+      "views": 8864
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 48891
+      "views": 57755
     }
   ]
 }
