@@ -4,7 +4,7 @@
   "title": "Kenny_Dalglish",
   "description": "Scottish association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenny_Dalglish_2009_Singapore.jpg?width=64",
-  "total": 607796,
+  "total": 624113,
   "monthly": [
     {
       "period": "2017-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 9404
+    },
+    {
+      "period": "2026-08",
+      "views": 16317
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 55245
+      "views": 71562
     }
   ]
 }

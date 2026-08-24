@@ -4,7 +4,7 @@
   "title": "Mila_Kunis",
   "description": "American actress (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mila_Kunis_TIFF_2025_%28cropped%29.jpg?width=64",
-  "total": 39871846,
+  "total": 39880910,
   "monthly": [
     {
       "period": "2015-07",
@@ -457,6 +457,10 @@
     {
       "period": "2026-07",
       "views": 20016
+    },
+    {
+      "period": "2026-08",
+      "views": 9064
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 244042
+      "views": 253106
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Coco_Gauff",
   "description": "American tennis player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coco_Gauff_Miami_Open.jpg?width=64",
-  "total": 7808053,
+  "total": 7822941,
   "monthly": [
     {
       "period": "2019-10",
@@ -157,6 +157,10 @@
     {
       "period": "2026-07",
       "views": 380122
+    },
+    {
+      "period": "2026-08",
+      "views": 14888
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 650751
+      "views": 665639
     }
   ]
 }

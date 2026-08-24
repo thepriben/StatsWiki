@@ -4,17 +4,21 @@
   "title": "The_Westies_(TV_series)",
   "description": "American television series",
   "image": "",
-  "total": 70266,
+  "total": 79675,
   "monthly": [
     {
       "period": "2026-07",
       "views": 70266
+    },
+    {
+      "period": "2026-08",
+      "views": 9409
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 70266
+      "views": 79675
     }
   ]
 }

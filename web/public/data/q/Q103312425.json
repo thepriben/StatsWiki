@@ -4,17 +4,21 @@
   "title": "João_Gomes_(footballer,_born_2001)",
   "description": "Brazilian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joao_Gomes.png?width=64",
-  "total": 28930,
+  "total": 48644,
   "monthly": [
     {
       "period": "2026-07",
       "views": 28930
+    },
+    {
+      "period": "2026-08",
+      "views": 19714
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 28930
+      "views": 48644
     }
   ]
 }

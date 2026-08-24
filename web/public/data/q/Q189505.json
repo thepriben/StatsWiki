@@ -4,7 +4,7 @@
   "title": "Jaws_(film)",
   "description": "1975 film by Steven Spielberg",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaws_movie_poster.png?width=64",
-  "total": 2149033,
+  "total": 2159000,
   "monthly": [
     {
       "period": "2015-07",
@@ -177,6 +177,10 @@
     {
       "period": "2026-07",
       "views": 46862
+    },
+    {
+      "period": "2026-08",
+      "views": 9967
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 46862
+      "views": 56829
     }
   ]
 }

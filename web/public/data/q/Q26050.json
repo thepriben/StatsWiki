@@ -4,7 +4,7 @@
   "title": "Thrush_(bird)",
   "description": "family of birds",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Turdus_viscivorus_Brych_y_coed.jpg?width=64",
-  "total": 26003,
+  "total": 45522,
   "monthly": [
     {
       "period": "2025-10",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 17250
+    },
+    {
+      "period": "2026-08",
+      "views": 19519
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 17250
+      "views": 36769
     }
   ]
 }

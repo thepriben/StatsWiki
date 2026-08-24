@@ -4,7 +4,7 @@
   "title": "Rory_McIlroy",
   "description": "Northern Irish professional golfer (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rory_McIlroy_watches_drive_flight_%28portrait_orientation%29.jpg?width=64",
-  "total": 13505892,
+  "total": 13517664,
   "monthly": [
     {
       "period": "2015-07",
@@ -309,6 +309,10 @@
     {
       "period": "2026-07",
       "views": 53959
+    },
+    {
+      "period": "2026-08",
+      "views": 11772
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 2094093
+      "views": 2105865
     }
   ]
 }

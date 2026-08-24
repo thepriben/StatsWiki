@@ -4,7 +4,7 @@
   "title": "Kimi_Antonelli",
   "description": "Italian F1 driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonelli_Barcelona_2024_%28cropped%29.jpg?width=64",
-  "total": 1174782,
+  "total": 1187166,
   "monthly": [
     {
       "period": "2025-11",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 137153
+    },
+    {
+      "period": "2026-08",
+      "views": 12384
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 1128987
+      "views": 1141371
     }
   ]
 }

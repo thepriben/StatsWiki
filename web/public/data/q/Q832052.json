@@ -1,0 +1,96 @@
+{
+  "qid": "Q832052",
+  "label": "IndyCar Series",
+  "title": "IndyCar_Series",
+  "description": "auto racing series held in North America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IndyCar_Series_textlogo.svg?width=64",
+  "total": 264625,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 15180
+    },
+    {
+      "period": "2017-05",
+      "views": 41648
+    },
+    {
+      "period": "2019-05",
+      "views": 21676
+    },
+    {
+      "period": "2020-08",
+      "views": 16176
+    },
+    {
+      "period": "2021-05",
+      "views": 35950
+    },
+    {
+      "period": "2022-05",
+      "views": 21953
+    },
+    {
+      "period": "2023-05",
+      "views": 23436
+    },
+    {
+      "period": "2024-05",
+      "views": 28790
+    },
+    {
+      "period": "2025-05",
+      "views": 38404
+    },
+    {
+      "period": "2026-05",
+      "views": 13210
+    },
+    {
+      "period": "2026-08",
+      "views": 8202
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 15180
+    },
+    {
+      "period": "2017",
+      "views": 41648
+    },
+    {
+      "period": "2019",
+      "views": 21676
+    },
+    {
+      "period": "2020",
+      "views": 16176
+    },
+    {
+      "period": "2021",
+      "views": 35950
+    },
+    {
+      "period": "2022",
+      "views": 21953
+    },
+    {
+      "period": "2023",
+      "views": 23436
+    },
+    {
+      "period": "2024",
+      "views": 28790
+    },
+    {
+      "period": "2025",
+      "views": 38404
+    },
+    {
+      "period": "2026",
+      "views": 21412
+    }
+  ]
+}

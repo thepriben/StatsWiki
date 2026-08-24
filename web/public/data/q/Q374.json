@@ -1,0 +1,28 @@
+{
+  "qid": "Q374",
+  "label": "vodka",
+  "title": "Vodka",
+  "description": "Distilled alcoholic beverage",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monopolowa_Baczewski.JPG?width=64",
+  "total": 23058,
+  "monthly": [
+    {
+      "period": "2017-07",
+      "views": 14439
+    },
+    {
+      "period": "2026-08",
+      "views": 8619
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 14439
+    },
+    {
+      "period": "2026",
+      "views": 8619
+    }
+  ]
+}

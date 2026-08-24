@@ -4,7 +4,7 @@
   "title": "Eddie_Howe",
   "description": "English association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eddie_Howe_2015.jpg?width=64",
-  "total": 884814,
+  "total": 900952,
   "monthly": [
     {
       "period": "2015-08",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 42790
+    },
+    {
+      "period": "2026-08",
+      "views": 16138
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 42790
+      "views": 58928
     }
   ]
 }

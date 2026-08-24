@@ -4,7 +4,7 @@
   "title": "Robert_Shaw",
   "description": "British actor and writer (1927–1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Shaw.jpg?width=64",
-  "total": 45713,
+  "total": 54510,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 20488
+    },
+    {
+      "period": "2026-08",
+      "views": 8797
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 20488
+      "views": 29285
     }
   ]
 }

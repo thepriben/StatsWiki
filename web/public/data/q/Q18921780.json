@@ -4,7 +4,7 @@
   "title": "Max_George",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_George_2012.jpg?width=64",
-  "total": 522832,
+  "total": 531071,
   "monthly": [
     {
       "period": "2020-09",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 10012
+    },
+    {
+      "period": "2026-08",
+      "views": 8239
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 42567
+      "views": 50806
     }
   ]
 }

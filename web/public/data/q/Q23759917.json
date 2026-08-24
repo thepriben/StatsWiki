@@ -4,7 +4,7 @@
   "title": "Alexander_Isak",
   "description": "Swedish footballer (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Isak_-_Sweden_-_Greece21_%28cropped%29.jpg?width=64",
-  "total": 3570158,
+  "total": 3587406,
   "monthly": [
     {
       "period": "2017-01",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 9532
+    },
+    {
+      "period": "2026-08",
+      "views": 17248
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 218787
+      "views": 236035
     }
   ]
 }

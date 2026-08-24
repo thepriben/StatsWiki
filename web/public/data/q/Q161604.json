@@ -1,0 +1,40 @@
+{
+  "qid": "Q161604",
+  "label": "penny",
+  "title": "Penny_(United_States_coin)",
+  "description": "United States coin with a value of 1 cent",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pile_of_Pennies_3_%2825890504285%29.jpg?width=64",
+  "total": 104250,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 15594
+    },
+    {
+      "period": "2025-02",
+      "views": 14788
+    },
+    {
+      "period": "2025-11",
+      "views": 61911
+    },
+    {
+      "period": "2026-08",
+      "views": 11957
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 15594
+    },
+    {
+      "period": "2025",
+      "views": 76699
+    },
+    {
+      "period": "2026",
+      "views": 11957
+    }
+  ]
+}

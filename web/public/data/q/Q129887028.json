@@ -4,17 +4,21 @@
   "title": "Sean_Steur",
   "description": "Dutch footballer (born 2008)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean_Steur.jpg?width=64",
-  "total": 31122,
+  "total": 44090,
   "monthly": [
     {
       "period": "2026-07",
       "views": 31122
+    },
+    {
+      "period": "2026-08",
+      "views": 12968
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 31122
+      "views": 44090
     }
   ]
 }
