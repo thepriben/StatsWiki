@@ -1,0 +1,52 @@
+{
+  "qid": "Q159918",
+  "label": "White rhinoceros",
+  "title": "White_rhinoceros",
+  "description": "species of mammal",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/White_rhinoceros_africa.jpg?width=64",
+  "total": 379624,
+  "monthly": [
+    {
+      "period": "2018-03",
+      "views": 237688
+    },
+    {
+      "period": "2021-06",
+      "views": 87748
+    },
+    {
+      "period": "2024-05",
+      "views": 33204
+    },
+    {
+      "period": "2025-06",
+      "views": 12218
+    },
+    {
+      "period": "2026-08",
+      "views": 8766
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 237688
+    },
+    {
+      "period": "2021",
+      "views": 87748
+    },
+    {
+      "period": "2024",
+      "views": 33204
+    },
+    {
+      "period": "2025",
+      "views": 12218
+    },
+    {
+      "period": "2026",
+      "views": 8766
+    }
+  ]
+}

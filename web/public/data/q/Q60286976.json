@@ -4,7 +4,7 @@
   "title": "Maxence_Lacroix",
   "description": "French footballer (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxence_Lacroix_France_v_Norway_26_June_26-031.jpg?width=64",
-  "total": 111351,
+  "total": 120255,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 85123
+    },
+    {
+      "period": "2026-08",
+      "views": 8904
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 111351
+      "views": 120255
     }
   ]
 }

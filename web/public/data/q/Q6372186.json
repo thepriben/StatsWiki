@@ -4,17 +4,21 @@
   "title": "Karl_Ravech",
   "description": "sportscaster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Ravech_2011.jpg?width=64",
-  "total": 25351,
+  "total": 37199,
   "monthly": [
     {
       "period": "2026-07",
       "views": 25351
+    },
+    {
+      "period": "2026-08",
+      "views": 11848
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 25351
+      "views": 37199
     }
   ]
 }

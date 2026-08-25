@@ -4,7 +4,7 @@
   "title": "War_of_1812",
   "description": "conflict between the United States and the British Empire from 1812 to 1815",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USS_Constitution_vs_Guerriere.jpg?width=64",
-  "total": 1275526,
+  "total": 1284798,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-07",
       "views": 29981
+    },
+    {
+      "period": "2026-08",
+      "views": 9272
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 93007
+      "views": 102279
     }
   ]
 }

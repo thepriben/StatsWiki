@@ -1,0 +1,32 @@
+{
+  "qid": "Q6265158",
+  "label": "John York",
+  "title": "John_York",
+  "description": "San Francisco 49ers owner",
+  "image": "",
+  "total": 81907,
+  "monthly": [
+    {
+      "period": "2020-01",
+      "views": 25660
+    },
+    {
+      "period": "2020-02",
+      "views": 14196
+    },
+    {
+      "period": "2026-08",
+      "views": 42051
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 39856
+    },
+    {
+      "period": "2026",
+      "views": 42051
+    }
+  ]
+}

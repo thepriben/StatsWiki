@@ -4,7 +4,7 @@
   "title": "Cole_Palmer",
   "description": "English footballer (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg?width=64",
-  "total": 4177787,
+  "total": 4191925,
   "monthly": [
     {
       "period": "2021-08",
@@ -141,6 +141,10 @@
     {
       "period": "2026-07",
       "views": 9038
+    },
+    {
+      "period": "2026-08",
+      "views": 14138
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 114924
+      "views": 129062
     }
   ]
 }

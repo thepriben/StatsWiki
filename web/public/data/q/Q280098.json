@@ -4,7 +4,7 @@
   "title": "Geena_Davis",
   "description": "American actress (born 1956)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Geena_Davis_at_53rd_Saturn_Awards_2026-01.jpg?width=64",
-  "total": 2435633,
+  "total": 2443728,
   "monthly": [
     {
       "period": "2015-07",
@@ -205,6 +205,10 @@
     {
       "period": "2026-07",
       "views": 47480
+    },
+    {
+      "period": "2026-08",
+      "views": 8095
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 806555
+      "views": 814650
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Walking_Dead:_Dead_City",
   "description": "American television series",
   "image": "",
-  "total": 699522,
+  "total": 712989,
   "monthly": [
     {
       "period": "2022-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 10591
+    },
+    {
+      "period": "2026-08",
+      "views": 13467
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 10591
+      "views": 24058
     }
   ]
 }

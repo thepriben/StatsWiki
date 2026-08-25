@@ -1,0 +1,56 @@
+{
+  "qid": "Q903885",
+  "label": "Green Lantern",
+  "title": "Green_Lantern_(film)",
+  "description": "2011 film directed by Martin Campbell",
+  "image": "",
+  "total": 275436,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 31203
+    },
+    {
+      "period": "2018-05",
+      "views": 175424
+    },
+    {
+      "period": "2018-06",
+      "views": 10994
+    },
+    {
+      "period": "2019-10",
+      "views": 35675
+    },
+    {
+      "period": "2021-03",
+      "views": 12699
+    },
+    {
+      "period": "2026-08",
+      "views": 9441
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 31203
+    },
+    {
+      "period": "2018",
+      "views": 186418
+    },
+    {
+      "period": "2019",
+      "views": 35675
+    },
+    {
+      "period": "2021",
+      "views": 12699
+    },
+    {
+      "period": "2026",
+      "views": 9441
+    }
+  ]
+}

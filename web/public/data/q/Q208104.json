@@ -4,7 +4,7 @@
   "title": "Xabi_Alonso",
   "description": "Spanish football manager and player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_Caminos_del_f%C3%BAtbol._Xabi_Alonso_%2839666778464%29_%28cropped%29.jpg?width=64",
-  "total": 3883946,
+  "total": 3915071,
   "monthly": [
     {
       "period": "2015-11",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 151000
+    },
+    {
+      "period": "2026-08",
+      "views": 31125
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 900502
+      "views": 931627
     }
   ]
 }

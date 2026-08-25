@@ -4,7 +4,7 @@
   "title": "Gabriel_Martinelli",
   "description": "Brazilian footballer (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_Martinelli_Brazil_V_Morocco_13_June_2026-144.jpg?width=64",
-  "total": 844674,
+  "total": 854923,
   "monthly": [
     {
       "period": "2019-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-07",
       "views": 14817
+    },
+    {
+      "period": "2026-08",
+      "views": 10249
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 111282
+      "views": 121531
     }
   ]
 }

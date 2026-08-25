@@ -4,7 +4,7 @@
   "title": "Álvaro_Arbeloa",
   "description": "Spanish football manager and player (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81lvaro_Arbeloa.jpg?width=64",
-  "total": 1026535,
+  "total": 1077595,
   "monthly": [
     {
       "period": "2016-05",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 22652
+    },
+    {
+      "period": "2026-08",
+      "views": 51060
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 835228
+      "views": 886288
     }
   ]
 }

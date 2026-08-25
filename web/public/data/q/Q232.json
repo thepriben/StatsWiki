@@ -4,7 +4,7 @@
   "title": "Kazakhstan",
   "description": "sovereign state in Eastern Europe and Central Asia",
   "image": "",
-  "total": 6900578,
+  "total": 6908251,
   "monthly": [
     {
       "period": "2015-07",
@@ -385,6 +385,10 @@
     {
       "period": "2026-06",
       "views": 40065
+    },
+    {
+      "period": "2026-08",
+      "views": 7673
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 291671
+      "views": 299344
     }
   ]
 }

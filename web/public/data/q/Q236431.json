@@ -4,7 +4,7 @@
   "title": "Keeley_Hazell",
   "description": "English model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keeley_Hazell.jpg?width=64",
-  "total": 213464,
+  "total": 223550,
   "monthly": [
     {
       "period": "2021-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 16676
+    },
+    {
+      "period": "2026-08",
+      "views": 10086
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 16676
+      "views": 26762
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Oscar_Bobb",
   "description": "Norwegian footballer (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oscar_Bobb_France_v_Norway_26_June_26-045.jpg?width=64",
-  "total": 597729,
+  "total": 609417,
   "monthly": [
     {
       "period": "2023-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 203452
+    },
+    {
+      "period": "2026-08",
+      "views": 11688
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 342033
+      "views": 353721
     }
   ]
 }
