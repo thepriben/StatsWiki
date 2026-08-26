@@ -4,7 +4,7 @@
   "title": "Betty_White",
   "description": "American actress and comedian (1922–2021)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BettyWhiteJune09.jpg?width=64",
-  "total": 26908036,
+  "total": 26917434,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-01",
       "views": 21489
+    },
+    {
+      "period": "2026-08",
+      "views": 9398
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 21489
+      "views": 30887
     }
   ]
 }

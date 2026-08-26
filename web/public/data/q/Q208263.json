@@ -4,7 +4,7 @@
   "title": "The_Green_Mile_(film)",
   "description": "1999 film directed by Frank Darabont",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Green_Mile_logo.svg?width=64",
-  "total": 2506894,
+  "total": 2518527,
   "monthly": [
     {
       "period": "2015-07",
@@ -333,6 +333,10 @@
     {
       "period": "2026-07",
       "views": 29612
+    },
+    {
+      "period": "2026-08",
+      "views": 11633
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 50309
+      "views": 61942
     }
   ]
 }

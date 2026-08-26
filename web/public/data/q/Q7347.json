@@ -1,0 +1,76 @@
+{
+  "qid": "Q7347",
+  "label": "Great Lakes",
+  "title": "Great_Lakes",
+  "description": "group of lakes in North America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Lakes%2C_No_Clouds_%284968915002%29_Brighter.jpg?width=64",
+  "total": 194448,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 26700
+    },
+    {
+      "period": "2017-04",
+      "views": 9459
+    },
+    {
+      "period": "2020-09",
+      "views": 36208
+    },
+    {
+      "period": "2021-09",
+      "views": 27704
+    },
+    {
+      "period": "2023-04",
+      "views": 38021
+    },
+    {
+      "period": "2024-02",
+      "views": 17691
+    },
+    {
+      "period": "2024-07",
+      "views": 17602
+    },
+    {
+      "period": "2026-02",
+      "views": 10636
+    },
+    {
+      "period": "2026-08",
+      "views": 10427
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 26700
+    },
+    {
+      "period": "2017",
+      "views": 9459
+    },
+    {
+      "period": "2020",
+      "views": 36208
+    },
+    {
+      "period": "2021",
+      "views": 27704
+    },
+    {
+      "period": "2023",
+      "views": 38021
+    },
+    {
+      "period": "2024",
+      "views": 35293
+    },
+    {
+      "period": "2026",
+      "views": 21063
+    }
+  ]
+}

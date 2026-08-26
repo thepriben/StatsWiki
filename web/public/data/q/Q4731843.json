@@ -1,0 +1,60 @@
+{
+  "qid": "Q4731843",
+  "label": "Allen Robinson",
+  "title": "Allen_Robinson",
+  "description": "American football player (born 1993)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Robinson_Jan_2019.jpg?width=64",
+  "total": 114023,
+  "monthly": [
+    {
+      "period": "2018-03",
+      "views": 23180
+    },
+    {
+      "period": "2019-09",
+      "views": 15014
+    },
+    {
+      "period": "2020-09",
+      "views": 23280
+    },
+    {
+      "period": "2022-03",
+      "views": 11550
+    },
+    {
+      "period": "2023-04",
+      "views": 33371
+    },
+    {
+      "period": "2026-08",
+      "views": 7628
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 23180
+    },
+    {
+      "period": "2019",
+      "views": 15014
+    },
+    {
+      "period": "2020",
+      "views": 23280
+    },
+    {
+      "period": "2022",
+      "views": 11550
+    },
+    {
+      "period": "2023",
+      "views": 33371
+    },
+    {
+      "period": "2026",
+      "views": 7628
+    }
+  ]
+}

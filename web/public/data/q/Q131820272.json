@@ -4,17 +4,21 @@
   "title": "Bronco_Nima",
   "description": "American professional wrestler",
   "image": "",
-  "total": 17929,
+  "total": 61069,
   "monthly": [
     {
       "period": "2026-06",
       "views": 17929
+    },
+    {
+      "period": "2026-08",
+      "views": 43140
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 17929
+      "views": 61069
     }
   ]
 }

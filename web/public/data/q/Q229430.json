@@ -4,7 +4,7 @@
   "title": "Reba_McEntire",
   "description": "American country singer and actress (born 1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reba_McEntire_by_Gage_Skidmore_3.jpg?width=64",
-  "total": 4954797,
+  "total": 4975323,
   "monthly": [
     {
       "period": "2015-08",
@@ -249,6 +249,10 @@
     {
       "period": "2026-07",
       "views": 24233
+    },
+    {
+      "period": "2026-08",
+      "views": 20526
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 81366
+      "views": 101892
     }
   ]
 }

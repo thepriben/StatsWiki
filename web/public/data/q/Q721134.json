@@ -1,0 +1,56 @@
+{
+  "qid": "Q721134",
+  "label": "San Diego Padres",
+  "title": "San_Diego_Padres",
+  "description": "Major League Baseball franchise in San Diego, California, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SD_Logo_Gold.jpg?width=64",
+  "total": 209964,
+  "monthly": [
+    {
+      "period": "2019-02",
+      "views": 11521
+    },
+    {
+      "period": "2021-04",
+      "views": 12020
+    },
+    {
+      "period": "2022-08",
+      "views": 11949
+    },
+    {
+      "period": "2022-10",
+      "views": 107311
+    },
+    {
+      "period": "2024-10",
+      "views": 59591
+    },
+    {
+      "period": "2026-08",
+      "views": 7572
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11521
+    },
+    {
+      "period": "2021",
+      "views": 12020
+    },
+    {
+      "period": "2022",
+      "views": 119260
+    },
+    {
+      "period": "2024",
+      "views": 59591
+    },
+    {
+      "period": "2026",
+      "views": 7572
+    }
+  ]
+}

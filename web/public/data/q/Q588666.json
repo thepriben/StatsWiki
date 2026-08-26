@@ -1,0 +1,44 @@
+{
+  "qid": "Q588666",
+  "label": "minstrel show",
+  "title": "Minstrel_show",
+  "description": "blackface performance",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minstrel_PosterBillyVanWare_edit.jpg?width=64",
+  "total": 175820,
+  "monthly": [
+    {
+      "period": "2020-06",
+      "views": 80595
+    },
+    {
+      "period": "2021-03",
+      "views": 57732
+    },
+    {
+      "period": "2024-11",
+      "views": 18045
+    },
+    {
+      "period": "2026-08",
+      "views": 19448
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 80595
+    },
+    {
+      "period": "2021",
+      "views": 57732
+    },
+    {
+      "period": "2024",
+      "views": 18045
+    },
+    {
+      "period": "2026",
+      "views": 19448
+    }
+  ]
+}

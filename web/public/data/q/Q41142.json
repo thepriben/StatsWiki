@@ -3,8 +3,8 @@
   "label": "Jane Fonda",
   "title": "Jane_Fonda",
   "description": "American actress and activist",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2019.12.06_Fire_Drill_Fridays%2C_Washington%2C_DC_USA_340_60024_%2849180015037%29_%28cropped%29.jpg?width=64",
-  "total": 16005866,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_Fonda_1963.jpg?width=64",
+  "total": 16027889,
   "monthly": [
     {
       "period": "2015-07",
@@ -413,6 +413,10 @@
     {
       "period": "2026-06",
       "views": 30319
+    },
+    {
+      "period": "2026-08",
+      "views": 22023
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 713424
+      "views": 735447
     }
   ]
 }

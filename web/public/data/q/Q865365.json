@@ -4,7 +4,7 @@
   "title": "Jim_Crow_laws",
   "description": "state and local laws enforcing racial segregation in the Southern United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JimCrowInDurhamNC.jpg?width=64",
-  "total": 6991168,
+  "total": 7005890,
   "monthly": [
     {
       "period": "2015-10",
@@ -233,6 +233,10 @@
     {
       "period": "2026-06",
       "views": 9808
+    },
+    {
+      "period": "2026-08",
+      "views": 14722
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 34674
+      "views": 49396
     }
   ]
 }

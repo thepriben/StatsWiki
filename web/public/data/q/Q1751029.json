@@ -1,0 +1,36 @@
+{
+  "qid": "Q1751029",
+  "label": "Ali G",
+  "title": "Ali_G",
+  "description": "fictional character created by Sacha Baron Cohen",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AliG-Harv-cutdown.jpg?width=64",
+  "total": 148150,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 10007
+    },
+    {
+      "period": "2020-10",
+      "views": 128314
+    },
+    {
+      "period": "2026-08",
+      "views": 9829
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10007
+    },
+    {
+      "period": "2020",
+      "views": 128314
+    },
+    {
+      "period": "2026",
+      "views": 9829
+    }
+  ]
+}

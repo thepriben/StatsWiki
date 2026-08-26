@@ -4,7 +4,7 @@
   "title": "Rudolph_Valentino",
   "description": "Italian actor (1895–1926)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Last_Photo_of_Rudolph_Valentino%22_1926.jpg?width=64",
-  "total": 181609,
+  "total": 189716,
   "monthly": [
     {
       "period": "2015-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 9120
+    },
+    {
+      "period": "2026-08",
+      "views": 8107
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 29242
+      "views": 37349
     }
   ]
 }

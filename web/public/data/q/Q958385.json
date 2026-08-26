@@ -4,7 +4,7 @@
   "title": "Dan_Stevens",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Stevens_%2846801499514%29.jpg?width=64",
-  "total": 3473749,
+  "total": 3481228,
   "monthly": [
     {
       "period": "2016-05",
@@ -125,6 +125,10 @@
     {
       "period": "2026-07",
       "views": 13836
+    },
+    {
+      "period": "2026-08",
+      "views": 7479
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 13836
+      "views": 21315
     }
   ]
 }

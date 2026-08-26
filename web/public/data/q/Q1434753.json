@@ -1,0 +1,36 @@
+{
+  "qid": "Q1434753",
+  "label": "Great Moon Hoax",
+  "title": "Great_Moon_Hoax",
+  "description": "fake newspaper article series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Moon_Hoax_-_Day_4.jpg?width=64",
+  "total": 45160,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 8605
+    },
+    {
+      "period": "2025-08",
+      "views": 8786
+    },
+    {
+      "period": "2026-08",
+      "views": 27769
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 8605
+    },
+    {
+      "period": "2025",
+      "views": 8786
+    },
+    {
+      "period": "2026",
+      "views": 27769
+    }
+  ]
+}

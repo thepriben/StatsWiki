@@ -4,7 +4,7 @@
   "title": "Kane_Parsons",
   "description": "American filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kane_Parsons.jpg?width=64",
-  "total": 1616241,
+  "total": 1635420,
   "monthly": [
     {
       "period": "2026-02",
@@ -29,12 +29,16 @@
     {
       "period": "2026-07",
       "views": 201789
+    },
+    {
+      "period": "2026-08",
+      "views": 19179
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1616241
+      "views": 1635420
     }
   ]
 }

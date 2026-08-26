@@ -1,0 +1,52 @@
+{
+  "qid": "Q1904",
+  "label": "Ontario",
+  "title": "Ontario",
+  "description": "province of Canada",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Algonquin_Cache_Lake_Lookout.JPG?width=64",
+  "total": 88227,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 11977
+    },
+    {
+      "period": "2019-10",
+      "views": 10932
+    },
+    {
+      "period": "2021-08",
+      "views": 44615
+    },
+    {
+      "period": "2022-06",
+      "views": 10377
+    },
+    {
+      "period": "2026-08",
+      "views": 10326
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 11977
+    },
+    {
+      "period": "2019",
+      "views": 10932
+    },
+    {
+      "period": "2021",
+      "views": 44615
+    },
+    {
+      "period": "2022",
+      "views": 10377
+    },
+    {
+      "period": "2026",
+      "views": 10326
+    }
+  ]
+}

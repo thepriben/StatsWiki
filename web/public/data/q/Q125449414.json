@@ -4,7 +4,7 @@
   "title": "The_Running_Man_(2025_film)",
   "description": "2025 film directed by Edgar Wright",
   "image": "",
-  "total": 2801616,
+  "total": 2820003,
   "monthly": [
     {
       "period": "2025-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-05",
       "views": 113951
+    },
+    {
+      "period": "2026-08",
+      "views": 18387
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 550811
+      "views": 569198
     }
   ]
 }
