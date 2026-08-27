@@ -1,0 +1,48 @@
+{
+  "qid": "Q174817",
+  "label": "Soundgarden",
+  "title": "Soundgarden",
+  "description": "American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soundgarden_Chicago.jpg?width=64",
+  "total": 1003820,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 808543
+    },
+    {
+      "period": "2017-07",
+      "views": 70570
+    },
+    {
+      "period": "2025-05",
+      "views": 9821
+    },
+    {
+      "period": "2025-11",
+      "views": 68113
+    },
+    {
+      "period": "2026-01",
+      "views": 38446
+    },
+    {
+      "period": "2026-08",
+      "views": 8327
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 879113
+    },
+    {
+      "period": "2025",
+      "views": 77934
+    },
+    {
+      "period": "2026",
+      "views": 46773
+    }
+  ]
+}

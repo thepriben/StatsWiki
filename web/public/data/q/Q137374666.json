@@ -4,7 +4,7 @@
   "title": "2026_Atlantic_hurricane_season",
   "description": "Atlantic hurricane season",
   "image": "",
-  "total": 17509,
+  "total": 26234,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 8346
+    },
+    {
+      "period": "2026-08",
+      "views": 8725
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 17509
+      "views": 26234
     }
   ]
 }

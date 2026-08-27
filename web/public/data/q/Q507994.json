@@ -4,7 +4,7 @@
   "title": "The_Hunt_for_Red_October_(film)",
   "description": "1990 film directed by John McTiernan",
   "image": "",
-  "total": 142103,
+  "total": 160199,
   "monthly": [
     {
       "period": "2020-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 37856
+    },
+    {
+      "period": "2026-08",
+      "views": 18096
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 37856
+      "views": 55952
     }
   ]
 }

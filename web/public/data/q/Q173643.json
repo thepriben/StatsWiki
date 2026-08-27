@@ -1,0 +1,100 @@
+{
+  "qid": "Q173643",
+  "label": "Abbey Road",
+  "title": "Abbey_Road",
+  "description": "1969 studio album by the Beatles",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Beatles_Abbey_Road_album_cover.jpg?width=64",
+  "total": 967345,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 12835
+    },
+    {
+      "period": "2016-09",
+      "views": 15816
+    },
+    {
+      "period": "2017-09",
+      "views": 10945
+    },
+    {
+      "period": "2018-09",
+      "views": 9114
+    },
+    {
+      "period": "2019-08",
+      "views": 70208
+    },
+    {
+      "period": "2019-09",
+      "views": 87518
+    },
+    {
+      "period": "2019-10",
+      "views": 46940
+    },
+    {
+      "period": "2021-08",
+      "views": 13728
+    },
+    {
+      "period": "2021-11",
+      "views": 244347
+    },
+    {
+      "period": "2021-12",
+      "views": 420566
+    },
+    {
+      "period": "2023-08",
+      "views": 17641
+    },
+    {
+      "period": "2025-09",
+      "views": 9152
+    },
+    {
+      "period": "2026-08",
+      "views": 8535
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 12835
+    },
+    {
+      "period": "2016",
+      "views": 15816
+    },
+    {
+      "period": "2017",
+      "views": 10945
+    },
+    {
+      "period": "2018",
+      "views": 9114
+    },
+    {
+      "period": "2019",
+      "views": 204666
+    },
+    {
+      "period": "2021",
+      "views": 678641
+    },
+    {
+      "period": "2023",
+      "views": 17641
+    },
+    {
+      "period": "2025",
+      "views": 9152
+    },
+    {
+      "period": "2026",
+      "views": 8535
+    }
+  ]
+}

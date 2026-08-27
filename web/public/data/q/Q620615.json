@@ -4,17 +4,21 @@
   "title": "Mobile_app",
   "description": "software application designed to run on mobile devices",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samsung_Galaxy_Note_10_%28Wiki%29.jpg?width=64",
-  "total": 19286,
+  "total": 30533,
   "monthly": [
     {
       "period": "2026-06",
       "views": 19286
+    },
+    {
+      "period": "2026-08",
+      "views": 11247
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 19286
+      "views": 30533
     }
   ]
 }

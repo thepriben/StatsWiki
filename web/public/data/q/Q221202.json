@@ -4,7 +4,7 @@
   "title": "Home_Alone_2:_Lost_in_New_York",
   "description": "1992 film directed by Chris Columbus",
   "image": "",
-  "total": 3027259,
+  "total": 3060815,
   "monthly": [
     {
       "period": "2015-12",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 10620
+    },
+    {
+      "period": "2026-08",
+      "views": 33556
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 38532
+      "views": 72088
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "qid": "Q1788520",
+  "label": "Muppet Treasure Island",
+  "title": "Muppet_Treasure_Island",
+  "description": "1996 film directed by Brian Henson",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muppet_Treasure_Island_logo.png?width=64",
+  "total": 110300,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 11553
+    },
+    {
+      "period": "2018-12",
+      "views": 85445
+    },
+    {
+      "period": "2026-08",
+      "views": 13302
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11553
+    },
+    {
+      "period": "2018",
+      "views": 85445
+    },
+    {
+      "period": "2026",
+      "views": 13302
+    }
+  ]
+}

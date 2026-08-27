@@ -1,0 +1,68 @@
+{
+  "qid": "Q12078",
+  "label": "cancer",
+  "title": "Cancer",
+  "description": "group of diseases involving abnormal cell growth and spread",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breast_cancer_cell_%282%29.jpg?width=64",
+  "total": 134122,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 35680
+    },
+    {
+      "period": "2016-02",
+      "views": 10589
+    },
+    {
+      "period": "2016-07",
+      "views": 14491
+    },
+    {
+      "period": "2018-10",
+      "views": 12673
+    },
+    {
+      "period": "2019-01",
+      "views": 16127
+    },
+    {
+      "period": "2019-02",
+      "views": 12882
+    },
+    {
+      "period": "2020-02",
+      "views": 11572
+    },
+    {
+      "period": "2020-08",
+      "views": 11137
+    },
+    {
+      "period": "2026-08",
+      "views": 8971
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 60760
+    },
+    {
+      "period": "2018",
+      "views": 12673
+    },
+    {
+      "period": "2019",
+      "views": 29009
+    },
+    {
+      "period": "2020",
+      "views": 22709
+    },
+    {
+      "period": "2026",
+      "views": 8971
+    }
+  ]
+}

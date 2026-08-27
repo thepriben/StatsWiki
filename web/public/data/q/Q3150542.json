@@ -1,0 +1,44 @@
+{
+  "qid": "Q3150542",
+  "label": "Indra Kumar",
+  "title": "Indra_Kumar",
+  "description": "Indian film maker",
+  "image": "",
+  "total": 89177,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 10520
+    },
+    {
+      "period": "2017-07",
+      "views": 14347
+    },
+    {
+      "period": "2019-02",
+      "views": 54869
+    },
+    {
+      "period": "2026-08",
+      "views": 9441
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10520
+    },
+    {
+      "period": "2017",
+      "views": 14347
+    },
+    {
+      "period": "2019",
+      "views": 54869
+    },
+    {
+      "period": "2026",
+      "views": 9441
+    }
+  ]
+}

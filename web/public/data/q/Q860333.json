@@ -1,0 +1,28 @@
+{
+  "qid": "Q860333",
+  "label": "flash flood",
+  "title": "Flash_flood",
+  "description": "rapid flooding of low-lying areas",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GobiFlood.JPG?width=64",
+  "total": 26351,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 17659
+    },
+    {
+      "period": "2026-08",
+      "views": 8692
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 17659
+    },
+    {
+      "period": "2026",
+      "views": 8692
+    }
+  ]
+}

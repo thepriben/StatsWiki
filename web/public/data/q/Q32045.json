@@ -4,7 +4,7 @@
   "title": "Liam_Hemsworth",
   "description": "Australian actor (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hemsworth_Liam.jpg?width=64",
-  "total": 15382011,
+  "total": 15393410,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-04",
       "views": 8762
+    },
+    {
+      "period": "2026-08",
+      "views": 11399
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 40544
+      "views": 51943
     }
   ]
 }

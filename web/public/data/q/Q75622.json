@@ -4,7 +4,7 @@
   "title": "Elizabeth_Hurley",
   "description": "English actress and model (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Hurley_in_2017.jpg?width=64",
-  "total": 2178320,
+  "total": 2189913,
   "monthly": [
     {
       "period": "2015-10",
@@ -201,6 +201,10 @@
     {
       "period": "2026-06",
       "views": 11083
+    },
+    {
+      "period": "2026-08",
+      "views": 11593
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 156503
+      "views": 168096
     }
   ]
 }

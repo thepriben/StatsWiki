@@ -4,7 +4,7 @@
   "title": "James_Woods",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Woods_2015.jpg?width=64",
-  "total": 1132386,
+  "total": 1141026,
   "monthly": [
     {
       "period": "2015-07",
@@ -85,6 +85,10 @@
     {
       "period": "2026-07",
       "views": 32320
+    },
+    {
+      "period": "2026-08",
+      "views": 8640
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 32320
+      "views": 40960
     }
   ]
 }

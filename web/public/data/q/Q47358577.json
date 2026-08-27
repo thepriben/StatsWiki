@@ -1,0 +1,44 @@
+{
+  "qid": "Q47358577",
+  "label": "2018 Hawaii false missile alert",
+  "title": "2018_Hawaii_false_missile_alert",
+  "description": "false public emergency alert incident in 2018",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2018_Hawaii_missile_alert_%28cropped%29.jpg?width=64",
+  "total": 122724,
+  "monthly": [
+    {
+      "period": "2020-10",
+      "views": 75708
+    },
+    {
+      "period": "2023-10",
+      "views": 28309
+    },
+    {
+      "period": "2025-01",
+      "views": 10215
+    },
+    {
+      "period": "2026-08",
+      "views": 8492
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 75708
+    },
+    {
+      "period": "2023",
+      "views": 28309
+    },
+    {
+      "period": "2025",
+      "views": 10215
+    },
+    {
+      "period": "2026",
+      "views": 8492
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Barbara_Walters",
   "description": "American broadcast journalist (1929–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara_Walters_2004.jpg?width=64",
-  "total": 1930336,
+  "total": 1942003,
   "monthly": [
     {
       "period": "2015-11",
@@ -97,6 +97,10 @@
     {
       "period": "2026-06",
       "views": 9065
+    },
+    {
+      "period": "2026-08",
+      "views": 11667
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 9065
+      "views": 20732
     }
   ]
 }

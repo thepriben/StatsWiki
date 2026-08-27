@@ -4,7 +4,7 @@
   "title": "Sam_Shepard",
   "description": "American playwright and actor (1943–2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Shepard_Stealth_crop.jpg?width=64",
-  "total": 2852643,
+  "total": 2861579,
   "monthly": [
     {
       "period": "2016-02",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 23859
+    },
+    {
+      "period": "2026-08",
+      "views": 8936
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 98993
+      "views": 107929
     }
   ]
 }

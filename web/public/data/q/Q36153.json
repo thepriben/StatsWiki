@@ -4,7 +4,7 @@
   "title": "Beyoncé",
   "description": "American singer, songwriter, record producer, and dancer (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg?width=64",
-  "total": 48577804,
+  "total": 48586577,
   "monthly": [
     {
       "period": "2015-07",
@@ -509,6 +509,10 @@
     {
       "period": "2026-07",
       "views": 77624
+    },
+    {
+      "period": "2026-08",
+      "views": 8773
     }
   ],
   "yearly": [
@@ -558,7 +562,7 @@
     },
     {
       "period": "2026",
-      "views": 320681
+      "views": 329454
     }
   ]
 }

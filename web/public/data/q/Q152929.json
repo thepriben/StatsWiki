@@ -4,7 +4,7 @@
   "title": "Meat_Loaf",
   "description": "American singer and actor (1947–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meatloaf_1971_%28cropped%29.JPG?width=64",
-  "total": 2462022,
+  "total": 2471177,
   "monthly": [
     {
       "period": "2015-09",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 12821
+    },
+    {
+      "period": "2026-08",
+      "views": 9155
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 23973
+      "views": 33128
     }
   ]
 }

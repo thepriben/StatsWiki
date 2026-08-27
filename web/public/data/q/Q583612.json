@@ -4,7 +4,7 @@
   "title": "The_Rocky_Horror_Show",
   "description": "British musical by Richard O'Brien (1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rocky_Horror_Show_02.jpg?width=64",
-  "total": 90221,
+  "total": 135847,
   "monthly": [
     {
       "period": "2015-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 13596
+    },
+    {
+      "period": "2026-08",
+      "views": 45626
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 13596
+      "views": 59222
     }
   ]
 }

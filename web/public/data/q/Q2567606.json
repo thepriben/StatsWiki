@@ -4,7 +4,7 @@
   "title": "Flowers_in_the_Attic",
   "description": "novel by V. C. Andrews",
   "image": "",
-  "total": 864571,
+  "total": 875987,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 82187
+    },
+    {
+      "period": "2026-08",
+      "views": 11416
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 100101
+      "views": 111517
     }
   ]
 }

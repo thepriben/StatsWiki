@@ -1,0 +1,36 @@
+{
+  "qid": "Q6803111",
+  "label": "Me at the zoo",
+  "title": "Me_at_the_zoo",
+  "description": "first video uploaded to YouTube",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Me_at_the_zoo_%28screenshot%29.png?width=64",
+  "total": 60407,
+  "monthly": [
+    {
+      "period": "2024-06",
+      "views": 13601
+    },
+    {
+      "period": "2025-04",
+      "views": 32318
+    },
+    {
+      "period": "2026-08",
+      "views": 14488
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 13601
+    },
+    {
+      "period": "2025",
+      "views": 32318
+    },
+    {
+      "period": "2026",
+      "views": 14488
+    }
+  ]
+}

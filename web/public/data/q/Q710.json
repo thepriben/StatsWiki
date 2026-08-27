@@ -4,7 +4,7 @@
   "title": "Kiribati",
   "description": "island sovereign state in the central Pacific Ocean",
   "image": "",
-  "total": 1297442,
+  "total": 1312492,
   "monthly": [
     {
       "period": "2015-12",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 60102
+    },
+    {
+      "period": "2026-08",
+      "views": 15050
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 111753
+      "views": 126803
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "K.G.F:_Chapter_2",
   "description": "2022 Indian Kannada film by Prashanth Neel",
   "image": "",
-  "total": 15989138,
+  "total": 16205114,
   "monthly": [
     {
       "period": "2019-12",
@@ -105,6 +105,22 @@
     {
       "period": "2023-08",
       "views": 90044
+    },
+    {
+      "period": "2023-12",
+      "views": 129649
+    },
+    {
+      "period": "2024-12",
+      "views": 66609
+    },
+    {
+      "period": "2026-01",
+      "views": 9429
+    },
+    {
+      "period": "2026-08",
+      "views": 10289
     }
   ],
   "yearly": [
@@ -126,7 +142,15 @@
     },
     {
       "period": "2023",
-      "views": 471290
+      "views": 600939
+    },
+    {
+      "period": "2024",
+      "views": 66609
+    },
+    {
+      "period": "2026",
+      "views": 19718
     }
   ]
 }
