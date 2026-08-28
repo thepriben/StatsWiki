@@ -4,17 +4,21 @@
   "title": "Daraxonrasib",
   "description": "pharmaceutical compound",
   "image": "",
-  "total": 24231,
+  "total": 32845,
   "monthly": [
     {
       "period": "2026-06",
       "views": 24231
+    },
+    {
+      "period": "2026-08",
+      "views": 8614
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 24231
+      "views": 32845
     }
   ]
 }

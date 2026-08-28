@@ -1,0 +1,28 @@
+{
+  "qid": "Q1184775",
+  "label": "Comair Flight 5191",
+  "title": "Comair_Flight_5191",
+  "description": "aviation accident",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Grass_Airport%2C_USGS_Urban_Ortho%2C_approx_crash_site.jpg?width=64",
+  "total": 52658,
+  "monthly": [
+    {
+      "period": "2021-10",
+      "views": 20391
+    },
+    {
+      "period": "2026-08",
+      "views": 32267
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 20391
+    },
+    {
+      "period": "2026",
+      "views": 32267
+    }
+  ]
+}

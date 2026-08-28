@@ -4,7 +4,7 @@
   "title": "FK_Jablonec",
   "description": "association football club in Czechia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Turnov_Vojtecha_Maska_bus_FK_Jablonec.jpg?width=64",
-  "total": 19707,
+  "total": 31005,
   "monthly": [
     {
       "period": "2021-08",
@@ -12,7 +12,7 @@
     },
     {
       "period": "2026-08",
-      "views": 7556
+      "views": 18854
     }
   ],
   "yearly": [
@@ -22,7 +22,7 @@
     },
     {
       "period": "2026",
-      "views": 7556
+      "views": 18854
     }
   ]
 }

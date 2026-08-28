@@ -1,0 +1,84 @@
+{
+  "qid": "Q200804",
+  "label": "Predator",
+  "title": "Predator_(film)",
+  "description": "1987 film directed by John McTiernan",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Predator_logo.jpg?width=64",
+  "total": 1106003,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 23974
+    },
+    {
+      "period": "2017-01",
+      "views": 57265
+    },
+    {
+      "period": "2017-08",
+      "views": 19389
+    },
+    {
+      "period": "2018-05",
+      "views": 11019
+    },
+    {
+      "period": "2018-08",
+      "views": 8523
+    },
+    {
+      "period": "2018-09",
+      "views": 264802
+    },
+    {
+      "period": "2022-08",
+      "views": 519704
+    },
+    {
+      "period": "2024-02",
+      "views": 30524
+    },
+    {
+      "period": "2024-08",
+      "views": 10627
+    },
+    {
+      "period": "2025-11",
+      "views": 146814
+    },
+    {
+      "period": "2026-08",
+      "views": 13362
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 23974
+    },
+    {
+      "period": "2017",
+      "views": 76654
+    },
+    {
+      "period": "2018",
+      "views": 284344
+    },
+    {
+      "period": "2022",
+      "views": 519704
+    },
+    {
+      "period": "2024",
+      "views": 41151
+    },
+    {
+      "period": "2025",
+      "views": 146814
+    },
+    {
+      "period": "2026",
+      "views": 13362
+    }
+  ]
+}

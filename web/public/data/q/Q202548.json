@@ -4,7 +4,7 @@
   "title": "Vertigo_(film)",
   "description": "1958 film by Alfred Hitchcock",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vertigo_1958_trailer_Stewart_looking.jpg?width=64",
-  "total": 459544,
+  "total": 476331,
   "monthly": [
     {
       "period": "2015-12",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 47825
+    },
+    {
+      "period": "2026-08",
+      "views": 16787
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 47825
+      "views": 64612
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Athletic_Bilbao",
   "description": "Spanish association football team from Bilbao, Spain",
   "image": "",
-  "total": 673471,
+  "total": 681562,
   "monthly": [
     {
       "period": "2015-08",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 114164
+    },
+    {
+      "period": "2026-08",
+      "views": 8091
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 114164
+      "views": 122255
     }
   ]
 }

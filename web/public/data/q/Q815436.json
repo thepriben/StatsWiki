@@ -4,7 +4,7 @@
   "title": "The_Troubles",
   "description": "1960s–1990s conflict in Northern Ireland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dsc1877ne2.jpg?width=64",
-  "total": 1847505,
+  "total": 1859214,
   "monthly": [
     {
       "period": "2016-06",
@@ -205,6 +205,10 @@
     {
       "period": "2026-06",
       "views": 26280
+    },
+    {
+      "period": "2026-08",
+      "views": 11709
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 90804
+      "views": 102513
     }
   ]
 }

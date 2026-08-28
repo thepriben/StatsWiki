@@ -4,7 +4,7 @@
   "title": "Bosnian_War",
   "description": "1992–1995 armed conflict in Bosnia and Herzegovina",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_war_header.no.png?width=64",
-  "total": 656889,
+  "total": 672798,
   "monthly": [
     {
       "period": "2015-07",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 60458
+    },
+    {
+      "period": "2026-08",
+      "views": 15909
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 90766
+      "views": 106675
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Meningitis",
   "description": "inflammation of the membranes around the brain and spinal cord",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meninges-en.svg?width=64",
-  "total": 640701,
+  "total": 659812,
   "monthly": [
     {
       "period": "2016-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 151701
+    },
+    {
+      "period": "2026-08",
+      "views": 19111
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 246844
+      "views": 265955
     }
   ]
 }

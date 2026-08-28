@@ -4,7 +4,7 @@
   "title": "Great_Lakes",
   "description": "group of lakes in North America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Lakes%2C_No_Clouds_%284968915002%29_Brighter.jpg?width=64",
-  "total": 194448,
+  "total": 246434,
   "monthly": [
     {
       "period": "2015-08",
@@ -40,7 +40,7 @@
     },
     {
       "period": "2026-08",
-      "views": 10427
+      "views": 62413
     }
   ],
   "yearly": [
@@ -70,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 21063
+      "views": 73049
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "qid": "Q36600",
+  "label": "The Hague",
+  "title": "The_Hague",
+  "description": "city and municipality in South Holland, Netherlands, seat of the Dutch government",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hague_Montage_2021.png?width=64",
+  "total": 238584,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 12138
+    },
+    {
+      "period": "2017-11",
+      "views": 25596
+    },
+    {
+      "period": "2019-11",
+      "views": 24113
+    },
+    {
+      "period": "2022-03",
+      "views": 24259
+    },
+    {
+      "period": "2023-03",
+      "views": 26450
+    },
+    {
+      "period": "2024-01",
+      "views": 26751
+    },
+    {
+      "period": "2025-03",
+      "views": 59091
+    },
+    {
+      "period": "2025-06",
+      "views": 28146
+    },
+    {
+      "period": "2026-08",
+      "views": 12040
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12138
+    },
+    {
+      "period": "2017",
+      "views": 25596
+    },
+    {
+      "period": "2019",
+      "views": 24113
+    },
+    {
+      "period": "2022",
+      "views": 24259
+    },
+    {
+      "period": "2023",
+      "views": 26450
+    },
+    {
+      "period": "2024",
+      "views": 26751
+    },
+    {
+      "period": "2025",
+      "views": 87237
+    },
+    {
+      "period": "2026",
+      "views": 12040
+    }
+  ]
+}

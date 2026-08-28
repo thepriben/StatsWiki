@@ -4,7 +4,7 @@
   "title": "Yugoslav_Wars",
   "description": "1991–2001 series of wars and ethnic conflicts that took place on the lands of the former Yugoslavia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Former_Yugoslavia_wartime_animation_92-95.gif?width=64",
-  "total": 253305,
+  "total": 265469,
   "monthly": [
     {
       "period": "2016-03",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 9598
+    },
+    {
+      "period": "2026-08",
+      "views": 12164
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 9598
+      "views": 21762
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lyra_McKee",
   "description": "Northern Irish journalist (1990-2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lyra_McKee_%2833207175144%29_%28cropped%29.jpg?width=64",
-  "total": 153600,
+  "total": 162335,
   "monthly": [
     {
       "period": "2019-04",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 10342
+    },
+    {
+      "period": "2026-08",
+      "views": 8735
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 10342
+      "views": 19077
     }
   ]
 }

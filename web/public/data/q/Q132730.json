@@ -4,7 +4,7 @@
   "title": "Grand_Theft_Auto",
   "description": "action-adventure video game series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Theft_Auto_logo_series.svg?width=64",
-  "total": 1047865,
+  "total": 1059848,
   "monthly": [
     {
       "period": "2017-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 69605
+    },
+    {
+      "period": "2026-08",
+      "views": 11983
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 69605
+      "views": 81588
     }
   ]
 }

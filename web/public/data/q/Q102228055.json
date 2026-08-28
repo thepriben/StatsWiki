@@ -4,7 +4,7 @@
   "title": "Jakub_Menšík",
   "description": "Czech tennis player (born 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jakub_Men%C5%A1%C3%ADk_%282023_US_Open%29_02_%28cropped%29.jpg?width=64",
-  "total": 466744,
+  "total": 479145,
   "monthly": [
     {
       "period": "2024-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 166445
+    },
+    {
+      "period": "2026-08",
+      "views": 12401
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 229741
+      "views": 242142
     }
   ]
 }

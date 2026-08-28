@@ -4,7 +4,7 @@
   "title": "Siege_of_Sarajevo",
   "description": "the longest siege of a capital city in the history of modern warfare (1992–1996)",
   "image": "",
-  "total": 135314,
+  "total": 145970,
   "monthly": [
     {
       "period": "2016-03",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 11904
+    },
+    {
+      "period": "2026-08",
+      "views": 10656
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 11904
+      "views": 22560
     }
   ]
 }

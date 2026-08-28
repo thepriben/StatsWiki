@@ -1,0 +1,40 @@
+{
+  "qid": "Q231121",
+  "label": "Yayoi Kusama",
+  "title": "Yayoi_Kusama",
+  "description": "Japanese artist (1929–2026)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg?width=64",
+  "total": 677325,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 398571
+    },
+    {
+      "period": "2016-11",
+      "views": 25321
+    },
+    {
+      "period": "2017-04",
+      "views": 20548
+    },
+    {
+      "period": "2026-08",
+      "views": 232885
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 423892
+    },
+    {
+      "period": "2017",
+      "views": 20548
+    },
+    {
+      "period": "2026",
+      "views": 232885
+    }
+  ]
+}

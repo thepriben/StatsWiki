@@ -4,7 +4,7 @@
   "title": "The_Social_Reckoning",
   "description": "2026 film directed by Aaron Sorkin",
   "image": "",
-  "total": 299844,
+  "total": 322948,
   "monthly": [
     {
       "period": "2026-04",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 22745
+    },
+    {
+      "period": "2026-08",
+      "views": 23104
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 299844
+      "views": 322948
     }
   ]
 }

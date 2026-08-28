@@ -4,7 +4,7 @@
   "title": "Nvidia",
   "description": "American multinational technology company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NVIDIA_Headquarters.jpg?width=64",
-  "total": 3419133,
+  "total": 3429950,
   "monthly": [
     {
       "period": "2017-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 16901
+    },
+    {
+      "period": "2026-08",
+      "views": 10817
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 293214
+      "views": 304031
     }
   ]
 }

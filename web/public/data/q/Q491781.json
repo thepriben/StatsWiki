@@ -4,7 +4,7 @@
   "title": "UEFA_coefficient",
   "description": "Ranking system used by UEFA to allocate slots to European football clubs in UEFA Continental club championships.",
   "image": "",
-  "total": 1238581,
+  "total": 1251943,
   "monthly": [
     {
       "period": "2015-08",
@@ -204,7 +204,7 @@
     },
     {
       "period": "2026-08",
-      "views": 16034
+      "views": 29396
     }
   ],
   "yearly": [
@@ -254,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 98738
+      "views": 112100
     }
   ]
 }

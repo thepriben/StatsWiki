@@ -4,7 +4,7 @@
   "title": "John_McGinn",
   "description": "Scottish association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg?width=64",
-  "total": 439474,
+  "total": 462052,
   "monthly": [
     {
       "period": "2018-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 86379
+    },
+    {
+      "period": "2026-08",
+      "views": 22578
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 199836
+      "views": 222414
     }
   ]
 }

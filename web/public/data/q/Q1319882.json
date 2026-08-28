@@ -4,7 +4,7 @@
   "title": "Will_Poulter",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Will_Poulter_Sundance_2026.jpg?width=64",
-  "total": 4193531,
+  "total": 4205976,
   "monthly": [
     {
       "period": "2015-07",
@@ -153,6 +153,10 @@
     {
       "period": "2026-06",
       "views": 10100
+    },
+    {
+      "period": "2026-08",
+      "views": 12445
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 38251
+      "views": 50696
     }
   ]
 }

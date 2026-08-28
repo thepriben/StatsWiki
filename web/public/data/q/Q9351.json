@@ -4,7 +4,7 @@
   "title": "Pikachu",
   "description": "Pokémon species, mascot of the Pokémon franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pikachu_Parade_%2814905092432%29.jpg?width=64",
-  "total": 260262,
+  "total": 327252,
   "monthly": [
     {
       "period": "2016-07",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 8558
+    },
+    {
+      "period": "2026-08",
+      "views": 66990
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 48942
+      "views": 115932
     }
   ]
 }

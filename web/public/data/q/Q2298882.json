@@ -4,7 +4,7 @@
   "title": "Victor_Willis",
   "description": "American singer (1951—2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Victor_Willis.jpg?width=64",
-  "total": 666905,
+  "total": 677624,
   "monthly": [
     {
       "period": "2016-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 296652
+    },
+    {
+      "period": "2026-08",
+      "views": 10719
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 296652
+      "views": 307371
     }
   ]
 }

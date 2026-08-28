@@ -4,7 +4,7 @@
   "title": "Kim_Novak",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kim_Novak_01.jpg?width=64",
-  "total": 813972,
+  "total": 824073,
   "monthly": [
     {
       "period": "2016-10",
@@ -125,6 +125,10 @@
     {
       "period": "2026-07",
       "views": 30561
+    },
+    {
+      "period": "2026-08",
+      "views": 10101
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 136620
+      "views": 146721
     }
   ]
 }

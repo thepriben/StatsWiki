@@ -1,10 +1,10 @@
 {
   "qid": "Q170334",
-  "label": "Srebrenica genocide",
+  "label": "Srebrenica massacre",
   "title": "Srebrenica_massacre",
-  "description": "killings of Bosniaks in July 1995",
+  "description": "mass killings of Bosniaks in July 1995",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bosnia_and_Hercegovina_showing_Srebrenica.png?width=64",
-  "total": 1358038,
+  "total": 1386682,
   "monthly": [
     {
       "period": "2015-07",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 36794
+    },
+    {
+      "period": "2026-08",
+      "views": 28644
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 36794
+      "views": 65438
     }
   ]
 }

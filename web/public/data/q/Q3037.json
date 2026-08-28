@@ -1,0 +1,68 @@
+{
+  "qid": "Q3037",
+  "label": "Kathmandu",
+  "title": "Kathmandu",
+  "description": "capital of Nepal",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kathmandu_Avion_01.JPG?width=64",
+  "total": 754874,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 183881
+    },
+    {
+      "period": "2017-12",
+      "views": 187442
+    },
+    {
+      "period": "2018-12",
+      "views": 149785
+    },
+    {
+      "period": "2019-12",
+      "views": 168724
+    },
+    {
+      "period": "2020-04",
+      "views": 26975
+    },
+    {
+      "period": "2025-09",
+      "views": 27336
+    },
+    {
+      "period": "2026-08",
+      "views": 10731
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 183881
+    },
+    {
+      "period": "2017",
+      "views": 187442
+    },
+    {
+      "period": "2018",
+      "views": 149785
+    },
+    {
+      "period": "2019",
+      "views": 168724
+    },
+    {
+      "period": "2020",
+      "views": 26975
+    },
+    {
+      "period": "2025",
+      "views": 27336
+    },
+    {
+      "period": "2026",
+      "views": 10731
+    }
+  ]
+}
