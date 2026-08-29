@@ -4,7 +4,7 @@
   "title": "Day_of_the_Dead",
   "description": "Mesoamerican and South American festival",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Altar_de_D%C3%ADa_de_Muertos_en_Actopan%2C_Hidalgo%2C_M%C3%A9xico_%282017%29._24.jpg?width=64",
-  "total": 13364472,
+  "total": 13372453,
   "monthly": [
     {
       "period": "2015-09",
@@ -129,6 +129,10 @@
     {
       "period": "2025-11",
       "views": 351796
+    },
+    {
+      "period": "2026-08",
+      "views": 7981
     }
   ],
   "yearly": [
@@ -175,6 +179,10 @@
     {
       "period": "2025",
       "views": 705885
+    },
+    {
+      "period": "2026",
+      "views": 7981
     }
   ]
 }

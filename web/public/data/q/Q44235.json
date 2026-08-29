@@ -4,7 +4,7 @@
   "title": "Lunar_eclipse",
   "description": "when the Moon passes directly behind the Earth",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blood_Moon_%28124455907%29.jpeg?width=64",
-  "total": 3746099,
+  "total": 3804131,
   "monthly": [
     {
       "period": "2015-09",
@@ -120,7 +120,7 @@
     },
     {
       "period": "2026-08",
-      "views": 44970
+      "views": 103002
     }
   ],
   "yearly": [
@@ -170,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 161292
+      "views": 219324
     }
   ]
 }

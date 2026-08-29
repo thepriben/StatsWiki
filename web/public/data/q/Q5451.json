@@ -4,7 +4,7 @@
   "title": "Himalayas",
   "description": "mountain range in Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Himalayas.jpg?width=64",
-  "total": 22877,
+  "total": 32351,
   "monthly": [
     {
       "period": "2017-08",
@@ -12,7 +12,7 @@
     },
     {
       "period": "2026-08",
-      "views": 9327
+      "views": 18801
     }
   ],
   "yearly": [
@@ -22,7 +22,7 @@
     },
     {
       "period": "2026",
-      "views": 9327
+      "views": 18801
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rafael_Leão",
   "description": "Portuguese footballer (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LeaoFCSalzburg2022%28cropped%29.jpg?width=64",
-  "total": 629086,
+  "total": 640411,
   "monthly": [
     {
       "period": "2019-08",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 48336
+    },
+    {
+      "period": "2026-08",
+      "views": 11325
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 120129
+      "views": 131454
     }
   ]
 }

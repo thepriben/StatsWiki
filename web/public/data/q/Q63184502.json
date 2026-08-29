@@ -4,7 +4,7 @@
   "title": "PlayStation_5",
   "description": "Sony's ninth-generation and fifth home video game console",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PlayStation_5_and_DualSense_with_transparent_background.png?width=64",
-  "total": 3095653,
+  "total": 3105361,
   "monthly": [
     {
       "period": "2020-03",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 8580
+    },
+    {
+      "period": "2026-08",
+      "views": 9708
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 17833
+      "views": 27541
     }
   ]
 }

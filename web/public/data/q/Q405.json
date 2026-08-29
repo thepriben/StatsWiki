@@ -4,7 +4,7 @@
   "title": "Moon",
   "description": "Earth's only natural satellite",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FullMoon2010.jpg?width=64",
-  "total": 3402530,
+  "total": 3410972,
   "monthly": [
     {
       "period": "2015-07",
@@ -256,7 +256,7 @@
     },
     {
       "period": "2026-08",
-      "views": 7893
+      "views": 16335
     }
   ],
   "yearly": [
@@ -306,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 326270
+      "views": 334712
     }
   ]
 }

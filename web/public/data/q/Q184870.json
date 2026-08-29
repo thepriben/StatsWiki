@@ -4,7 +4,7 @@
   "title": "Boeing_B-29_Superfortress",
   "description": "1942 bomber aircraft family; heaviest bomber widely used by US forces in World War II",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boeing_B-29_Superfortress_Bockscar_2_USAF.jpg?width=64",
-  "total": 119746,
+  "total": 127616,
   "monthly": [
     {
       "period": "2015-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 9213
+    },
+    {
+      "period": "2026-08",
+      "views": 7870
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 9213
+      "views": 17083
     }
   ]
 }

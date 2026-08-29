@@ -4,7 +4,7 @@
   "title": "2011_Norway_attacks",
   "description": "two sequential lone wolf terrorist attacks in Norway on 22 July 2011",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Regjeringsbygget_22.7.2011.jpg?width=64",
-  "total": 2248473,
+  "total": 2257390,
   "monthly": [
     {
       "period": "2015-07",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 23641
+    },
+    {
+      "period": "2026-08",
+      "views": 8917
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 87223
+      "views": 96140
     }
   ]
 }

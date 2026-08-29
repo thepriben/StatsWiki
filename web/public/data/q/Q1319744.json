@@ -4,7 +4,7 @@
   "title": "Will_Forte",
   "description": "American actor, comedian, writer (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Will_Forte_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 960799,
+  "total": 969042,
   "monthly": [
     {
       "period": "2015-10",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 82185
+    },
+    {
+      "period": "2026-08",
+      "views": 8243
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 122080
+      "views": 130323
     }
   ]
 }

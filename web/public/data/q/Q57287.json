@@ -1,11 +1,31 @@
 {
   "qid": "Q57287",
   "label": "Harald V of Norway",
-  "title": "Harald_V",
+  "title": "Harald_V_of_Norway",
   "description": "king of Norway (1937–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Harald_V_may_2026_%28cropped%29.jpg?width=64",
-  "total": 211139,
+  "total": 982098,
   "monthly": [
+    {
+      "period": "2015-12",
+      "views": 18004
+    },
+    {
+      "period": "2019-12",
+      "views": 14363
+    },
+    {
+      "period": "2021-04",
+      "views": 113849
+    },
+    {
+      "period": "2021-05",
+      "views": 53950
+    },
+    {
+      "period": "2022-09",
+      "views": 13701
+    },
     {
       "period": "2025-08",
       "views": 8375
@@ -20,17 +40,33 @@
     },
     {
       "period": "2026-08",
-      "views": 94224
+      "views": 651316
     }
   ],
   "yearly": [
+    {
+      "period": "2015",
+      "views": 18004
+    },
+    {
+      "period": "2019",
+      "views": 14363
+    },
+    {
+      "period": "2021",
+      "views": 167799
+    },
+    {
+      "period": "2022",
+      "views": 13701
+    },
     {
       "period": "2025",
       "views": 8375
     },
     {
       "period": "2026",
-      "views": 202764
+      "views": 759856
     }
   ]
 }

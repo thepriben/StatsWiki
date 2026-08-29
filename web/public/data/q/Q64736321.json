@@ -4,7 +4,7 @@
   "title": "Rayan_Cherki",
   "description": "French footballer (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rayan_Cherki_France_v_Norway_26_June_26-114.jpg?width=64",
-  "total": 1141228,
+  "total": 1170913,
   "monthly": [
     {
       "period": "2020-08",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 157805
+    },
+    {
+      "period": "2026-08",
+      "views": 29685
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 573903
+      "views": 603588
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Alan_Turing",
   "description": "English computer scientist (1912–1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Turing_%281951%29_%28crop%29.jpg?width=64",
-  "total": 13984939,
+  "total": 13996978,
   "monthly": [
     {
       "period": "2015-07",
@@ -437,6 +437,10 @@
     {
       "period": "2026-07",
       "views": 8868
+    },
+    {
+      "period": "2026-08",
+      "views": 12039
     }
   ],
   "yearly": [
@@ -486,7 +490,7 @@
     },
     {
       "period": "2026",
-      "views": 90895
+      "views": 102934
     }
   ]
 }

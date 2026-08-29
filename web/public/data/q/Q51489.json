@@ -4,7 +4,7 @@
   "title": "M._Night_Shyamalan",
   "description": "American filmmaker (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/M._Night_Shyamalan_%2828769148857%29_%28cropped_2%29.jpg?width=64",
-  "total": 6282145,
+  "total": 6294558,
   "monthly": [
     {
       "period": "2015-07",
@@ -193,6 +193,10 @@
     {
       "period": "2026-07",
       "views": 11444
+    },
+    {
+      "period": "2026-08",
+      "views": 12413
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 11444
+      "views": 23857
     }
   ]
 }

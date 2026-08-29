@@ -4,7 +4,7 @@
   "title": "Taylor_Lautner",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taylor_Lautner_Comic-Con_2012.jpg?width=64",
-  "total": 2220216,
+  "total": 2228589,
   "monthly": [
     {
       "period": "2015-07",
@@ -161,6 +161,10 @@
     {
       "period": "2026-06",
       "views": 9503
+    },
+    {
+      "period": "2026-08",
+      "views": 8373
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 188651
+      "views": 197024
     }
   ]
 }

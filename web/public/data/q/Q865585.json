@@ -1,0 +1,92 @@
+{
+  "qid": "Q865585",
+  "label": "pulp magazine",
+  "title": "Pulp_magazine",
+  "description": "fiction magazines made from 1896 to the 1950s",
+  "image": "",
+  "total": 229176,
+  "monthly": [
+    {
+      "period": "2019-05",
+      "views": 10939
+    },
+    {
+      "period": "2020-02",
+      "views": 21262
+    },
+    {
+      "period": "2020-06",
+      "views": 77896
+    },
+    {
+      "period": "2022-04",
+      "views": 10049
+    },
+    {
+      "period": "2022-05",
+      "views": 15090
+    },
+    {
+      "period": "2023-01",
+      "views": 12567
+    },
+    {
+      "period": "2023-08",
+      "views": 11792
+    },
+    {
+      "period": "2024-01",
+      "views": 14331
+    },
+    {
+      "period": "2024-06",
+      "views": 11539
+    },
+    {
+      "period": "2024-09",
+      "views": 13162
+    },
+    {
+      "period": "2025-10",
+      "views": 10488
+    },
+    {
+      "period": "2025-11",
+      "views": 9917
+    },
+    {
+      "period": "2026-08",
+      "views": 10144
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 10939
+    },
+    {
+      "period": "2020",
+      "views": 99158
+    },
+    {
+      "period": "2022",
+      "views": 25139
+    },
+    {
+      "period": "2023",
+      "views": 24359
+    },
+    {
+      "period": "2024",
+      "views": 39032
+    },
+    {
+      "period": "2025",
+      "views": 20405
+    },
+    {
+      "period": "2026",
+      "views": 10144
+    }
+  ]
+}
