@@ -4,7 +4,7 @@
   "title": "Shutter_Island_(film)",
   "description": "2010 film directed by Martin Scorsese",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shutter_Island.png?width=64",
-  "total": 2511191,
+  "total": 2536520,
   "monthly": [
     {
       "period": "2015-08",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 20513
+    },
+    {
+      "period": "2026-08",
+      "views": 25329
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 156452
+      "views": 181781
     }
   ]
 }

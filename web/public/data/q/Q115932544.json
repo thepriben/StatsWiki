@@ -4,7 +4,7 @@
   "title": "Alien:_Romulus",
   "description": "2024 film directed by Fede Álvarez",
   "image": "",
-  "total": 7767100,
+  "total": 7775377,
   "monthly": [
     {
       "period": "2023-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 30729
+    },
+    {
+      "period": "2026-08",
+      "views": 8277
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 41117
+      "views": 49394
     }
   ]
 }

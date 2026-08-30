@@ -4,7 +4,7 @@
   "title": "Adele",
   "description": "English singer-songwriter (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adele_2016.jpg?width=64",
-  "total": 26810140,
+  "total": 26818665,
   "monthly": [
     {
       "period": "2015-08",
@@ -381,6 +381,10 @@
     {
       "period": "2025-11",
       "views": 29995
+    },
+    {
+      "period": "2026-08",
+      "views": 8525
     }
   ],
   "yearly": [
@@ -427,6 +431,10 @@
     {
       "period": "2025",
       "views": 134952
+    },
+    {
+      "period": "2026",
+      "views": 8525
     }
   ]
 }

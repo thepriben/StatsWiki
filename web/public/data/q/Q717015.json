@@ -4,7 +4,7 @@
   "title": "James_Gunn",
   "description": "American screenwriter and filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Gunn_by_Gage_Skidmore_3.jpg?width=64",
-  "total": 5557517,
+  "total": 5566759,
   "monthly": [
     {
       "period": "2017-05",
@@ -169,6 +169,10 @@
     {
       "period": "2026-06",
       "views": 18150
+    },
+    {
+      "period": "2026-08",
+      "views": 9242
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 18150
+      "views": 27392
     }
   ]
 }

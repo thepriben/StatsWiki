@@ -4,7 +4,7 @@
   "title": "Gal_Gadot",
   "description": "Israeli actress, and model; Miss Israel 2004 (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gal_Gadot_for_Revlon_%28cropped%29.jpg?width=64",
-  "total": 37697141,
+  "total": 37705530,
   "monthly": [
     {
       "period": "2015-07",
@@ -445,6 +445,10 @@
     {
       "period": "2025-08",
       "views": 79077
+    },
+    {
+      "period": "2026-08",
+      "views": 8389
     }
   ],
   "yearly": [
@@ -491,6 +495,10 @@
     {
       "period": "2025",
       "views": 1440168
+    },
+    {
+      "period": "2026",
+      "views": 8389
     }
   ]
 }

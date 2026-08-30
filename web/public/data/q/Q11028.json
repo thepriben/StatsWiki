@@ -4,7 +4,7 @@
   "title": "Information",
   "description": "that which informs; the answer to a question; that from which knowledge can be derived",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Structure_of_the_Universe.jpg?width=64",
-  "total": 138996,
+  "total": 149763,
   "monthly": [
     {
       "period": "2015-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 12794
+    },
+    {
+      "period": "2026-08",
+      "views": 10767
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 70451
+      "views": 81218
     }
   ]
 }

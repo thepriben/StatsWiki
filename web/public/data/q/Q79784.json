@@ -4,7 +4,7 @@
   "title": "Friends",
   "description": "American sitcom (1994–2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Friends_logo.svg?width=64",
-  "total": 27250991,
+  "total": 27259961,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-06",
       "views": 10722
+    },
+    {
+      "period": "2026-08",
+      "views": 8970
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 10722
+      "views": 19692
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Viktor_Hovland",
   "description": "Norwegian golfer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hovlandside.jpg?width=64",
-  "total": 1568982,
+  "total": 1581912,
   "monthly": [
     {
       "period": "2019-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 84593
+    },
+    {
+      "period": "2026-08",
+      "views": 12930
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 97746
+      "views": 110676
     }
   ]
 }

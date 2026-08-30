@@ -4,7 +4,7 @@
   "title": "Franck_Kessié",
   "description": "Ivorian association football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Franck_Yannick_Kessi%C3%A9.jpg?width=64",
-  "total": 332446,
+  "total": 341166,
   "monthly": [
     {
       "period": "2017-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 116558
+    },
+    {
+      "period": "2026-08",
+      "views": 8720
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 116558
+      "views": 125278
     }
   ]
 }

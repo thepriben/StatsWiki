@@ -4,7 +4,7 @@
   "title": "Cary_Stayner",
   "description": "American serial killer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stayner_-_mugshot.jpg?width=64",
-  "total": 805397,
+  "total": 851253,
   "monthly": [
     {
       "period": "2019-01",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 11779
+    },
+    {
+      "period": "2026-08",
+      "views": 45856
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 27565
+      "views": 73421
     }
   ]
 }
