@@ -1,0 +1,48 @@
+{
+  "qid": "Q190463",
+  "label": "Lagrangian point",
+  "title": "Lagrange_point",
+  "description": "one of five positions in an orbital configuration of two large bodies where a small object can maintain a stable relative position",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagrange_points.jpg?width=64",
+  "total": 290651,
+  "monthly": [
+    {
+      "period": "2021-12",
+      "views": 181929
+    },
+    {
+      "period": "2022-01",
+      "views": 24133
+    },
+    {
+      "period": "2022-07",
+      "views": 30797
+    },
+    {
+      "period": "2023-09",
+      "views": 39688
+    },
+    {
+      "period": "2026-08",
+      "views": 14104
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 181929
+    },
+    {
+      "period": "2022",
+      "views": 54930
+    },
+    {
+      "period": "2023",
+      "views": 39688
+    },
+    {
+      "period": "2026",
+      "views": 14104
+    }
+  ]
+}

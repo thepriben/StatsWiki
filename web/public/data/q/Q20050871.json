@@ -4,7 +4,7 @@
   "title": "Tommy_Paul_(tennis)",
   "description": "American tennis player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_RG21_%282%29_%2851376841649%29.jpg?width=64",
-  "total": 1322101,
+  "total": 1333197,
   "monthly": [
     {
       "period": "2017-08",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 20478
+    },
+    {
+      "period": "2026-08",
+      "views": 11096
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 92915
+      "views": 104011
     }
   ]
 }

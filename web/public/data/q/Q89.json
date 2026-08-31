@@ -1,0 +1,36 @@
+{
+  "qid": "Q89",
+  "label": "apple",
+  "title": "Apple",
+  "description": "edible fruit of the apple tree",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Honeycrisp.jpg?width=64",
+  "total": 71775,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 32797
+    },
+    {
+      "period": "2017-01",
+      "views": 11667
+    },
+    {
+      "period": "2026-08",
+      "views": 27311
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 32797
+    },
+    {
+      "period": "2017",
+      "views": 11667
+    },
+    {
+      "period": "2026",
+      "views": 27311
+    }
+  ]
+}

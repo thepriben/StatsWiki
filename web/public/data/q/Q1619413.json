@@ -1,0 +1,76 @@
+{
+  "qid": "Q1619413",
+  "label": "The Tour Championship",
+  "title": "Tour_Championship",
+  "description": "golf tournament held in the United States",
+  "image": "",
+  "total": 249455,
+  "monthly": [
+    {
+      "period": "2018-09",
+      "views": 99368
+    },
+    {
+      "period": "2019-08",
+      "views": 16611
+    },
+    {
+      "period": "2020-09",
+      "views": 23976
+    },
+    {
+      "period": "2021-09",
+      "views": 17502
+    },
+    {
+      "period": "2023-08",
+      "views": 12656
+    },
+    {
+      "period": "2024-09",
+      "views": 11504
+    },
+    {
+      "period": "2025-08",
+      "views": 55118
+    },
+    {
+      "period": "2026-08",
+      "views": 12720
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 99368
+    },
+    {
+      "period": "2019",
+      "views": 16611
+    },
+    {
+      "period": "2020",
+      "views": 23976
+    },
+    {
+      "period": "2021",
+      "views": 17502
+    },
+    {
+      "period": "2023",
+      "views": 12656
+    },
+    {
+      "period": "2024",
+      "views": 11504
+    },
+    {
+      "period": "2025",
+      "views": 55118
+    },
+    {
+      "period": "2026",
+      "views": 12720
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Florence_Welch",
   "description": "English singer and songwriter (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Florence_and_the_Machine-01.jpg?width=64",
-  "total": 620861,
+  "total": 635214,
   "monthly": [
     {
       "period": "2018-05",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 8750
+    },
+    {
+      "period": "2026-08",
+      "views": 14353
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 8750
+      "views": 23103
     }
   ]
 }

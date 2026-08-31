@@ -4,7 +4,7 @@
   "title": "Al_Hilal_SFC",
   "description": "multi-sports club based in Riyadh, Saudi Arabia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Hilal_SFC_Logo.svg?width=64",
-  "total": 2548503,
+  "total": 2557680,
   "monthly": [
     {
       "period": "2019-12",
@@ -125,6 +125,10 @@
     {
       "period": "2026-07",
       "views": 51189
+    },
+    {
+      "period": "2026-08",
+      "views": 9177
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 140387
+      "views": 149564
     }
   ]
 }

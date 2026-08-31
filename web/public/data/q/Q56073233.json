@@ -4,7 +4,7 @@
   "title": "Jenson_Brooksby",
   "description": "American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brooksby_RG21_%2842%29_%2851376192761%29.jpg?width=64",
-  "total": 359569,
+  "total": 371113,
   "monthly": [
     {
       "period": "2021-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 19196
+    },
+    {
+      "period": "2026-08",
+      "views": 11544
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 19196
+      "views": 30740
     }
   ]
 }

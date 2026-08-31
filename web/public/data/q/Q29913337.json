@@ -4,7 +4,7 @@
   "title": "Carly_Pearce",
   "description": "American country music singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carly_Pearce.jpg?width=64",
-  "total": 367511,
+  "total": 382874,
   "monthly": [
     {
       "period": "2020-11",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 10829
+    },
+    {
+      "period": "2026-08",
+      "views": 15363
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 10829
+      "views": 26192
     }
   ]
 }

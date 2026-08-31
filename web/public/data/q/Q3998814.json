@@ -1,0 +1,44 @@
+{
+  "qid": "Q3998814",
+  "label": "Trilogy of Terror",
+  "title": "Trilogy_of_Terror",
+  "description": "1975 Film directed by Dan Curtis",
+  "image": "",
+  "total": 56712,
+  "monthly": [
+    {
+      "period": "2022-10",
+      "views": 16211
+    },
+    {
+      "period": "2023-10",
+      "views": 17916
+    },
+    {
+      "period": "2024-04",
+      "views": 10894
+    },
+    {
+      "period": "2026-08",
+      "views": 11691
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 16211
+    },
+    {
+      "period": "2023",
+      "views": 17916
+    },
+    {
+      "period": "2024",
+      "views": 10894
+    },
+    {
+      "period": "2026",
+      "views": 11691
+    }
+  ]
+}

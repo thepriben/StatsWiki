@@ -4,7 +4,7 @@
   "title": "Michelle_Phillips",
   "description": "American singer and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelle_Phillips_-_1977_ABC_press_photo.jpg?width=64",
-  "total": 854316,
+  "total": 863404,
   "monthly": [
     {
       "period": "2016-08",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 18035
+    },
+    {
+      "period": "2026-08",
+      "views": 9088
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 18035
+      "views": 27123
     }
   ]
 }
