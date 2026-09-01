@@ -2,9 +2,9 @@
   "qid": "Q5812",
   "label": "Novak Djokovic",
   "title": "Novak_Djokovic",
-  "description": "Serbian tennis player",
+  "description": "Serbian tennis player (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg?width=64",
-  "total": 45501295,
+  "total": 45575445,
   "monthly": [
     {
       "period": "2015-07",
@@ -408,7 +408,7 @@
     },
     {
       "period": "2026-08",
-      "views": 70148
+      "views": 144298
     }
   ],
   "yearly": [
@@ -458,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 2528061
+      "views": 2602211
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Matteo_Berrettini",
   "description": "Italian tennis player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matteo_Berrettini%2C_2021.jpg?width=64",
-  "total": 2374737,
+  "total": 2386709,
   "monthly": [
     {
       "period": "2019-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 101331
+    },
+    {
+      "period": "2026-08",
+      "views": 11972
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 256015
+      "views": 267987
     }
   ]
 }

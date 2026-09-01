@@ -1,0 +1,28 @@
+{
+  "qid": "Q42844",
+  "label": "major depressive disorder",
+  "title": "Major_depressive_disorder",
+  "description": "mood disorder characterized by persistent low mood, motivation, and self-esteem, accompanied by loss of interest or pleasure and impairment of functioning",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_Van_Gogh_-_Sorrow.JPG?width=64",
+  "total": 45569,
+  "monthly": [
+    {
+      "period": "2023-02",
+      "views": 33852
+    },
+    {
+      "period": "2026-08",
+      "views": 11717
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 33852
+    },
+    {
+      "period": "2026",
+      "views": 11717
+    }
+  ]
+}

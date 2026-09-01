@@ -4,7 +4,7 @@
   "title": "Chappell_Roan",
   "description": "American singer (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chappell_Roan_on_Popdust.png?width=64",
-  "total": 16626939,
+  "total": 16635499,
   "monthly": [
     {
       "period": "2024-03",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 16981
+    },
+    {
+      "period": "2026-08",
+      "views": 8560
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 1080351
+      "views": 1088911
     }
   ]
 }

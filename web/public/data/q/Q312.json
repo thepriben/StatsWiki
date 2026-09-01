@@ -4,7 +4,7 @@
   "title": "Apple_Inc.",
   "description": "American multinational technology company based in Cupertino, California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_park_cupertino_2019.jpg?width=64",
-  "total": 33849350,
+  "total": 33861928,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-05",
       "views": 9438
+    },
+    {
+      "period": "2026-08",
+      "views": 12578
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 144236
+      "views": 156814
     }
   ]
 }

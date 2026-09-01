@@ -4,7 +4,7 @@
   "title": "Nelly_Furtado",
   "description": "Portuguese-Canadian singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelly_Furtado_at_Radio_Regenbogen_Award_2017_%286%29.jpg?width=64",
-  "total": 744706,
+  "total": 754101,
   "monthly": [
     {
       "period": "2016-02",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 10163
+    },
+    {
+      "period": "2026-08",
+      "views": 9395
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 63857
+      "views": 73252
     }
   ]
 }

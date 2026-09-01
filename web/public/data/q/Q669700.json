@@ -1,0 +1,52 @@
+{
+  "qid": "Q669700",
+  "label": "kinetoscope",
+  "title": "Kinetoscope",
+  "description": "motion picture exhibition device",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kinetoscope.jpg?width=64",
+  "total": 49060,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 9677
+    },
+    {
+      "period": "2017-08",
+      "views": 10901
+    },
+    {
+      "period": "2018-08",
+      "views": 8608
+    },
+    {
+      "period": "2021-08",
+      "views": 10114
+    },
+    {
+      "period": "2026-08",
+      "views": 9760
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9677
+    },
+    {
+      "period": "2017",
+      "views": 10901
+    },
+    {
+      "period": "2018",
+      "views": 8608
+    },
+    {
+      "period": "2021",
+      "views": 10114
+    },
+    {
+      "period": "2026",
+      "views": 9760
+    }
+  ]
+}

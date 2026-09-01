@@ -4,7 +4,7 @@
   "title": "Nicolás_Maduro",
   "description": "President of Venezuela 2013 to 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%A1s_Maduro_in_2023_%28cropped%29.jpg?width=64",
-  "total": 8692197,
+  "total": 8700558,
   "monthly": [
     {
       "period": "2015-12",
@@ -129,6 +129,10 @@
     {
       "period": "2026-06",
       "views": 12995
+    },
+    {
+      "period": "2026-08",
+      "views": 8361
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 6202440
+      "views": 6210801
     }
   ]
 }

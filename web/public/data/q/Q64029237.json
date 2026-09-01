@@ -4,7 +4,7 @@
   "title": "Manu_Koné",
   "description": "French footballer (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manu_Kone_France_v_Senegal_16_June_2026-406_%28cropped%29.jpg?width=64",
-  "total": 342685,
+  "total": 352764,
   "monthly": [
     {
       "period": "2023-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 235766
+    },
+    {
+      "period": "2026-08",
+      "views": 10079
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 293878
+      "views": 303957
     }
   ]
 }

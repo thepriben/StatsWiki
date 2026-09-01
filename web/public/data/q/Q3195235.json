@@ -4,7 +4,7 @@
   "title": "Kenny_Omega",
   "description": "Canada-born Japanese professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/All_Elite_Wrestling_Executive_Vice_President_-_Kenny_Omega_%28headshot%29.jpg?width=64",
-  "total": 611631,
+  "total": 620715,
   "monthly": [
     {
       "period": "2016-01",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 13057
+    },
+    {
+      "period": "2026-08",
+      "views": 9084
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 13057
+      "views": 22141
     }
   ]
 }

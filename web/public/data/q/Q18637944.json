@@ -4,7 +4,7 @@
   "title": "Roman_Safiullin",
   "description": "tennis player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Safiullin_RG21_%2813%29_%2851376063976%29.jpg?width=64",
-  "total": 359777,
+  "total": 383818,
   "monthly": [
     {
       "period": "2023-07",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 270149
+    },
+    {
+      "period": "2026-08",
+      "views": 24041
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 270149
+      "views": 294190
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Harry_Wendelken",
   "description": "British tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wendelken_WMQ23_%2853061681206%29.jpg?width=64",
-  "total": 34838,
+  "total": 43705,
   "monthly": [
     {
       "period": "2026-06",
       "views": 34838
+    },
+    {
+      "period": "2026-08",
+      "views": 8867
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 34838
+      "views": 43705
     }
   ]
 }

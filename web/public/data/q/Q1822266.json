@@ -4,7 +4,7 @@
   "title": "Trey_Gowdy",
   "description": "American politician and political commentator",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trey_Gowdy.jpg?width=64",
-  "total": 1197124,
+  "total": 1205351,
   "monthly": [
     {
       "period": "2015-10",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 12166
+    },
+    {
+      "period": "2026-08",
+      "views": 8227
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 12166
+      "views": 20393
     }
   ]
 }

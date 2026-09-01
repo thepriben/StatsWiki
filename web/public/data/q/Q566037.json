@@ -4,7 +4,7 @@
   "title": "Scoot_McNairy",
   "description": "American actor and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scoot_McNairy_at_the_2024_Toronto_International_Film_Festival._02_%28cropped%29.jpg?width=64",
-  "total": 96336,
+  "total": 104995,
   "monthly": [
     {
       "period": "2019-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 16850
+    },
+    {
+      "period": "2026-08",
+      "views": 8659
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 16850
+      "views": 25509
     }
   ]
 }

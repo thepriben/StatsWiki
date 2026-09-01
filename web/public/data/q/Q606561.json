@@ -1,0 +1,40 @@
+{
+  "qid": "Q606561",
+  "label": "Mosul Dam",
+  "title": "Mosul_Dam",
+  "description": "dam in Iraq",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mosul_Dam_in_hill.jpg?width=64",
+  "total": 216295,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 134862
+    },
+    {
+      "period": "2016-03",
+      "views": 10982
+    },
+    {
+      "period": "2021-12",
+      "views": 43181
+    },
+    {
+      "period": "2026-08",
+      "views": 27270
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 145844
+    },
+    {
+      "period": "2021",
+      "views": 43181
+    },
+    {
+      "period": "2026",
+      "views": 27270
+    }
+  ]
+}

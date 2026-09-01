@@ -1,0 +1,68 @@
+{
+  "qid": "Q504096",
+  "label": "RMS Carpathia",
+  "title": "RMS_Carpathia",
+  "description": "British ocean liner known for rescuing survivors of the RMS Titanic",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RMS_Carpathia.jpg?width=64",
+  "total": 220969,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 10108
+    },
+    {
+      "period": "2017-07",
+      "views": 22934
+    },
+    {
+      "period": "2020-07",
+      "views": 10829
+    },
+    {
+      "period": "2021-12",
+      "views": 15096
+    },
+    {
+      "period": "2023-06",
+      "views": 139825
+    },
+    {
+      "period": "2025-07",
+      "views": 13840
+    },
+    {
+      "period": "2026-08",
+      "views": 8337
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10108
+    },
+    {
+      "period": "2017",
+      "views": 22934
+    },
+    {
+      "period": "2020",
+      "views": 10829
+    },
+    {
+      "period": "2021",
+      "views": 15096
+    },
+    {
+      "period": "2023",
+      "views": 139825
+    },
+    {
+      "period": "2025",
+      "views": 13840
+    },
+    {
+      "period": "2026",
+      "views": 8337
+    }
+  ]
+}

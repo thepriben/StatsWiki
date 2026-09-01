@@ -4,7 +4,7 @@
   "title": "Bayeux_Tapestry",
   "description": "embroidered wall-hanging art depicting the Norman invasion of England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux_Tapestry_scene1_EDWARD_REX.jpg?width=64",
-  "total": 486795,
+  "total": 497166,
   "monthly": [
     {
       "period": "2015-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 197771
+    },
+    {
+      "period": "2026-08",
+      "views": 10371
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 206312
+      "views": 216683
     }
   ]
 }

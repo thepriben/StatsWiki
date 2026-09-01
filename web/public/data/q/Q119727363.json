@@ -4,7 +4,7 @@
   "title": "Titan_submersible_implosion",
   "description": "2023 submersible implosion in the North Atlantic Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titan_%28mod%C3%A9lisation_sketchup_-_twilight_render_-_Gimp%29.jpg?width=64",
-  "total": 2050777,
+  "total": 2060539,
   "monthly": [
     {
       "period": "2023-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 9184
+    },
+    {
+      "period": "2026-08",
+      "views": 9762
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 9184
+      "views": 18946
     }
   ]
 }

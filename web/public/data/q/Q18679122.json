@@ -4,7 +4,7 @@
   "title": "Sofia_Kenin",
   "description": "Russian-American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sofia_Kenin_%282025_DC_Open%29_05_%28edited_and_cropped%29.jpg?width=64",
-  "total": 2266717,
+  "total": 2291561,
   "monthly": [
     {
       "period": "2017-09",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 18151
+    },
+    {
+      "period": "2026-08",
+      "views": 24844
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 18151
+      "views": 42995
     }
   ]
 }

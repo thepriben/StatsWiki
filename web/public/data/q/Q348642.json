@@ -4,7 +4,7 @@
   "title": "Tony_Cottee",
   "description": "association football player from England (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony_Cottee_at_Tony_Carr%27s_testimonial.jpg?width=64",
-  "total": 32744,
+  "total": 42708,
   "monthly": [
     {
       "period": "2023-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 12560
+    },
+    {
+      "period": "2026-08",
+      "views": 9964
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 12560
+      "views": 22524
     }
   ]
 }

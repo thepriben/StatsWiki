@@ -4,7 +4,7 @@
   "title": "Malaysia",
   "description": "country in Southeast Asia",
   "image": "",
-  "total": 13216396,
+  "total": 13225168,
   "monthly": [
     {
       "period": "2015-07",
@@ -457,6 +457,10 @@
     {
       "period": "2026-05",
       "views": 9505
+    },
+    {
+      "period": "2026-08",
+      "views": 8772
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 20697
+      "views": 29469
     }
   ]
 }
