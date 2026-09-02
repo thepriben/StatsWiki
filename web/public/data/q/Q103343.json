@@ -4,7 +4,7 @@
   "title": "Jennifer_Connelly",
   "description": "American actress (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Connelly_2010_TIFF.jpg?width=64",
-  "total": 16788937,
+  "total": 16797546,
   "monthly": [
     {
       "period": "2015-09",
@@ -469,6 +469,10 @@
     {
       "period": "2026-08",
       "views": 140115
+    },
+    {
+      "period": "2026-09",
+      "views": 8609
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 400018
+      "views": 408627
     }
   ]
 }

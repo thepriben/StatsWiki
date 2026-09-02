@@ -4,7 +4,7 @@
   "title": "Henry_Cavill",
   "description": "English actor (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Cavill_%2848417913146%29_%28cropped%29.jpg?width=64",
-  "total": 29501673,
+  "total": 29510210,
   "monthly": [
     {
       "period": "2015-07",
@@ -505,6 +505,10 @@
     {
       "period": "2026-08",
       "views": 300294
+    },
+    {
+      "period": "2026-09",
+      "views": 8537
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 930484
+      "views": 939021
     }
   ]
 }

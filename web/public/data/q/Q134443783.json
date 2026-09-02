@@ -4,7 +4,7 @@
   "title": "Adults_(TV_series)",
   "description": "American comedy television series",
   "image": "",
-  "total": 425618,
+  "total": 456417,
   "monthly": [
     {
       "period": "2025-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 155260
+    },
+    {
+      "period": "2026-09",
+      "views": 30799
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 155260
+      "views": 186059
     }
   ]
 }

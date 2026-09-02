@@ -3,8 +3,8 @@
   "label": "Lamine Camara",
   "title": "Lamine_Camara",
   "description": "Senegalese footballer (born 2004)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/5._Islamic_Solidarity_Games_2021_Konya_7_Lamine_Camara_%28cropped%29.jpg?width=64",
-  "total": 39280,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bara_Ndiaye_France_v_Senegal_16_June_2026-239_%28cropped%29.jpg?width=64",
+  "total": 75844,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 28510
+    },
+    {
+      "period": "2026-09",
+      "views": 36564
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 39280
+      "views": 75844
     }
   ]
 }

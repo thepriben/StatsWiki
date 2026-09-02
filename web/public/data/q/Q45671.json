@@ -1,0 +1,56 @@
+{
+  "qid": "Q45671",
+  "label": "Anfield",
+  "title": "Anfield",
+  "description": "football stadium in Anfield, Liverpool, England",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liverpool_anfield_road_stadium.jpg?width=64",
+  "total": 120197,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 24607
+    },
+    {
+      "period": "2016-09",
+      "views": 15346
+    },
+    {
+      "period": "2019-05",
+      "views": 15999
+    },
+    {
+      "period": "2020-04",
+      "views": 32387
+    },
+    {
+      "period": "2025-03",
+      "views": 10510
+    },
+    {
+      "period": "2026-09",
+      "views": 21348
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 39953
+    },
+    {
+      "period": "2019",
+      "views": 15999
+    },
+    {
+      "period": "2020",
+      "views": 32387
+    },
+    {
+      "period": "2025",
+      "views": 10510
+    },
+    {
+      "period": "2026",
+      "views": 21348
+    }
+  ]
+}

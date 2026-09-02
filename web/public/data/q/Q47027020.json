@@ -4,7 +4,7 @@
   "title": "Owen_Teague",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Owen_Teague_SDCC_2024.jpg?width=64",
-  "total": 289399,
+  "total": 298346,
   "monthly": [
     {
       "period": "2023-11",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 46160
+    },
+    {
+      "period": "2026-09",
+      "views": 8947
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 46160
+      "views": 55107
     }
   ]
 }

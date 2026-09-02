@@ -4,7 +4,7 @@
   "title": "Michael_Schumacher",
   "description": "German racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg?width=64",
-  "total": 14730352,
+  "total": 14740519,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-06",
       "views": 78862
+    },
+    {
+      "period": "2026-09",
+      "views": 10167
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 428223
+      "views": 438390
     }
   ]
 }

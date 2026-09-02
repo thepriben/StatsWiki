@@ -4,17 +4,21 @@
   "title": "Mutiny_(2026_film)",
   "description": "2026 film directed by Jean-François Richet",
   "image": "",
-  "total": 289589,
+  "total": 298853,
   "monthly": [
     {
       "period": "2026-08",
       "views": 289589
+    },
+    {
+      "period": "2026-09",
+      "views": 9264
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 289589
+      "views": 298853
     }
   ]
 }

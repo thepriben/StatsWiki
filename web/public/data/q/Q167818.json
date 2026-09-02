@@ -4,7 +4,7 @@
   "title": "Steve_McNair",
   "description": "American football player (1973–2009)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_McNair_2007-08-10.jpg?width=64",
-  "total": 2237917,
+  "total": 2247706,
   "monthly": [
     {
       "period": "2015-07",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 87413
+    },
+    {
+      "period": "2026-09",
+      "views": 9789
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 87413
+      "views": 97202
     }
   ]
 }

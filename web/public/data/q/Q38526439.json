@@ -4,7 +4,7 @@
   "title": "Barbarian_(2022_film)",
   "description": "2022 film directed by Zach Cregger",
   "image": "",
-  "total": 5356945,
+  "total": 5364847,
   "monthly": [
     {
       "period": "2022-08",
@@ -109,6 +109,10 @@
     {
       "period": "2026-08",
       "views": 19153
+    },
+    {
+      "period": "2026-09",
+      "views": 7902
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 50472
+      "views": 58374
     }
   ]
 }

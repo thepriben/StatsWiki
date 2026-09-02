@@ -4,7 +4,7 @@
   "title": "Yayoi_Kusama",
   "description": "Japanese artist (1929–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg?width=64",
-  "total": 856181,
+  "total": 872131,
   "monthly": [
     {
       "period": "2016-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 411741
+    },
+    {
+      "period": "2026-09",
+      "views": 15950
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 411741
+      "views": 427691
     }
   ]
 }

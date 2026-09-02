@@ -4,17 +4,21 @@
   "title": "Death_of_Harald_V_of_Norway",
   "description": "2026 death of the King of Norway",
   "image": "",
-  "total": 85916,
+  "total": 97112,
   "monthly": [
     {
       "period": "2026-08",
       "views": 85916
+    },
+    {
+      "period": "2026-09",
+      "views": 11196
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 85916
+      "views": 97112
     }
   ]
 }

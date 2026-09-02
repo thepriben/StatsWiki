@@ -4,7 +4,7 @@
   "title": "Milo_Ventimiglia",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milo_Ventimiglia_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 7205849,
+  "total": 7213206,
   "monthly": [
     {
       "period": "2016-02",
@@ -229,6 +229,10 @@
     {
       "period": "2026-08",
       "views": 496906
+    },
+    {
+      "period": "2026-09",
+      "views": 7357
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 1292827
+      "views": 1300184
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Wikipedia:About",
   "description": "introduction to this project",
   "image": "",
-  "total": 43812949,
+  "total": 43828113,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-08",
       "views": 472680
+    },
+    {
+      "period": "2026-09",
+      "views": 15164
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 3304423
+      "views": 3319587
     }
   ]
 }

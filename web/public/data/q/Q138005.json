@@ -4,7 +4,7 @@
   "title": "Michael_Keaton",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Keaton_%28NYCC_2014%29.JPG?width=64",
-  "total": 5911835,
+  "total": 5923888,
   "monthly": [
     {
       "period": "2015-07",
@@ -289,6 +289,10 @@
     {
       "period": "2026-08",
       "views": 79167
+    },
+    {
+      "period": "2026-09",
+      "views": 12053
     }
   ],
   "yearly": [
@@ -338,7 +342,7 @@
     },
     {
       "period": "2026",
-      "views": 142240
+      "views": 154293
     }
   ]
 }

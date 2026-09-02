@@ -4,7 +4,7 @@
   "title": "Insidious:_Out_of_the_Further",
   "description": "2026 film directed by Jacob Chase",
   "image": "",
-  "total": 563839,
+  "total": 579122,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 518830
+    },
+    {
+      "period": "2026-09",
+      "views": 15283
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 563839
+      "views": 579122
     }
   ]
 }

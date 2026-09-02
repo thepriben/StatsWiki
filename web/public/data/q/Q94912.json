@@ -4,7 +4,7 @@
   "title": "Rockstar_Games",
   "description": "American video game publisher",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockstar_Games_Logo.svg?width=64",
-  "total": 735745,
+  "total": 743949,
   "monthly": [
     {
       "period": "2015-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 92466
+    },
+    {
+      "period": "2026-09",
+      "views": 8204
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 137386
+      "views": 145590
     }
   ]
 }

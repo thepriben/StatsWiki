@@ -4,7 +4,7 @@
   "title": "Cole_Hauser",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cole_Hauser.jpg?width=64",
-  "total": 5465553,
+  "total": 5473146,
   "monthly": [
     {
       "period": "2018-06",
@@ -177,6 +177,10 @@
     {
       "period": "2026-07",
       "views": 99022
+    },
+    {
+      "period": "2026-09",
+      "views": 7593
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 702667
+      "views": 710260
     }
   ]
 }

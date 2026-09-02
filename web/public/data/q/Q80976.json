@@ -4,7 +4,7 @@
   "title": "Prince_Philip,_Duke_of_Edinburgh",
   "description": "consort of Elizabeth II from 1952 to 2021",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_of_Edinburgh_33_Allan_Warren.jpg?width=64",
-  "total": 73139494,
+  "total": 73147170,
   "monthly": [
     {
       "period": "2015-07",
@@ -453,6 +453,10 @@
     {
       "period": "2026-08",
       "views": 59974
+    },
+    {
+      "period": "2026-09",
+      "views": 7676
     }
   ],
   "yearly": [
@@ -502,7 +506,7 @@
     },
     {
       "period": "2026",
-      "views": 428354
+      "views": 436030
     }
   ]
 }

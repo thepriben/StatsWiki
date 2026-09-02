@@ -4,17 +4,21 @@
   "title": "Batman:_Knightfall_(film)",
   "description": "animated superhero film trilogy",
   "image": "",
-  "total": 195021,
+  "total": 205536,
   "monthly": [
     {
       "period": "2026-08",
       "views": 195021
+    },
+    {
+      "period": "2026-09",
+      "views": 10515
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 195021
+      "views": 205536
     }
   ]
 }

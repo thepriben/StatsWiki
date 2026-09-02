@@ -4,7 +4,7 @@
   "title": "Beauty_in_Black",
   "description": "American television series (2024-)",
   "image": "",
-  "total": 91548,
+  "total": 101870,
   "monthly": [
     {
       "period": "2026-03",
@@ -17,12 +17,16 @@
     {
       "period": "2026-08",
       "views": 64314
+    },
+    {
+      "period": "2026-09",
+      "views": 10322
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 91548
+      "views": 101870
     }
   ]
 }

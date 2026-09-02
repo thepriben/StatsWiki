@@ -3,8 +3,8 @@
   "label": "Enzo Fernández",
   "title": "Enzo_Fernández",
   "description": "Argentine footballer (born 2001)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Enzo_Fernandez_Argentina_v_Egypt_7_July_2026-127_%28cropped%29.jpg?width=64",
-  "total": 2970657,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg?width=64",
+  "total": 3039854,
   "monthly": [
     {
       "period": "2016-01",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 75454
+    },
+    {
+      "period": "2026-09",
+      "views": 69197
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 1060134
+      "views": 1129331
     }
   ]
 }

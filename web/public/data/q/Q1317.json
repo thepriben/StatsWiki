@@ -4,7 +4,7 @@
   "title": "Osama_bin_Laden",
   "description": "Saudi terrorist and co-founder of al-Qaeda (1957–2011)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Osama_bin_Laden_portrait.jpg?width=64",
-  "total": 14119347,
+  "total": 14128799,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-08",
       "views": 132725
+    },
+    {
+      "period": "2026-09",
+      "views": 9452
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 860870
+      "views": 870322
     }
   ]
 }

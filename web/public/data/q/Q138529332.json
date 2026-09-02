@@ -4,17 +4,21 @@
   "title": "The_Early_Spring",
   "description": "2026 Chinese television series",
   "image": "",
-  "total": 176363,
+  "total": 200155,
   "monthly": [
     {
       "period": "2026-08",
       "views": 176363
+    },
+    {
+      "period": "2026-09",
+      "views": 23792
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 176363
+      "views": 200155
     }
   ]
 }

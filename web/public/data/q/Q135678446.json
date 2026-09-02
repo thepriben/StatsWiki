@@ -4,7 +4,7 @@
   "title": "Bandar_(film)",
   "description": "2025 Indian thriller film by Anurag Kashyap",
   "image": "",
-  "total": 253760,
+  "total": 264395,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 67537
+    },
+    {
+      "period": "2026-09",
+      "views": 10635
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 253760
+      "views": 264395
     }
   ]
 }

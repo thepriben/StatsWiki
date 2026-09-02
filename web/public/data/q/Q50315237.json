@@ -4,7 +4,7 @@
   "title": "Riqui_Puig",
   "description": "Spanish association football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Riqui_Puig_against_Portland_Timbers_%28cropped%29.jpg?width=64",
-  "total": 217262,
+  "total": 244961,
   "monthly": [
     {
       "period": "2018-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 28304
+    },
+    {
+      "period": "2026-09",
+      "views": 27699
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 28304
+      "views": 56003
     }
   ]
 }

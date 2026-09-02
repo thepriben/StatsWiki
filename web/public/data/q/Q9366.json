@@ -4,7 +4,7 @@
   "title": "Google_Search",
   "description": "search engine by Google LLC",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Homepage.svg?width=64",
-  "total": 2054775,
+  "total": 2063063,
   "monthly": [
     {
       "period": "2015-12",
@@ -65,6 +65,10 @@
     {
       "period": "2026-08",
       "views": 61380
+    },
+    {
+      "period": "2026-09",
+      "views": 8288
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 940402
+      "views": 948690
     }
   ]
 }

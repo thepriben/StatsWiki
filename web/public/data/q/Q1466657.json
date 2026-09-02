@@ -4,17 +4,21 @@
   "title": "9_to_5_(film)",
   "description": "1980 film directed by Colin Higgins",
   "image": "",
-  "total": 408509,
+  "total": 435144,
   "monthly": [
     {
       "period": "2026-08",
       "views": 408509
+    },
+    {
+      "period": "2026-09",
+      "views": 26635
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 408509
+      "views": 435144
     }
   ]
 }

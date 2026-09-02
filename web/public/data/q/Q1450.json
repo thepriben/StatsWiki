@@ -4,7 +4,7 @@
   "title": "Bruno_Mars",
   "description": "American singer-songwriter and record producer (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg?width=64",
-  "total": 23222114,
+  "total": 23231852,
   "monthly": [
     {
       "period": "2015-07",
@@ -345,6 +345,10 @@
     {
       "period": "2026-08",
       "views": 101659
+    },
+    {
+      "period": "2026-09",
+      "views": 9738
     }
   ],
   "yearly": [
@@ -394,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 2551176
+      "views": 2560914
     }
   ]
 }

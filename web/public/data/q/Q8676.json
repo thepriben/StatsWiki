@@ -4,7 +4,7 @@
   "title": "American_Civil_War",
   "description": "1861–1865 civil war in the United States between the North and the South over the enslavement of African-Americans",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CivilWarUSAColl.png?width=64",
-  "total": 43383157,
+  "total": 43391442,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-07",
       "views": 63074
+    },
+    {
+      "period": "2026-09",
+      "views": 8285
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 913116
+      "views": 921401
     }
   ]
 }

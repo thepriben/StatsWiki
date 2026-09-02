@@ -4,7 +4,7 @@
   "title": "Eden_Lake",
   "description": "2008 film by James Watkins",
   "image": "",
-  "total": 619736,
+  "total": 668466,
   "monthly": [
     {
       "period": "2023-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 58637
+    },
+    {
+      "period": "2026-09",
+      "views": 48730
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 434183
+      "views": 482913
     }
   ]
 }

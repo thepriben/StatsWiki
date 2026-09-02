@@ -4,7 +4,7 @@
   "title": "2026–27_UEFA_Champions_League",
   "description": "72nd season of the UEFA club football tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atleti_vs_Villarreal_-_September_2025.jpg?width=64",
-  "total": 2638335,
+  "total": 2651810,
   "monthly": [
     {
       "period": "2026-04",
@@ -25,12 +25,16 @@
     {
       "period": "2026-08",
       "views": 958665
+    },
+    {
+      "period": "2026-09",
+      "views": 13475
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2638335
+      "views": 2651810
     }
   ]
 }

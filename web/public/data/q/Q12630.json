@@ -4,7 +4,7 @@
   "title": "Gulf_of_Mexico",
   "description": "marginal sea of the Atlantic Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Golf_von_Mexiko_NASA_World_Wind_Globe.jpg?width=64",
-  "total": 4049409,
+  "total": 4057452,
   "monthly": [
     {
       "period": "2025-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 173891
+    },
+    {
+      "period": "2026-09",
+      "views": 8043
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 173891
+      "views": 181934
     }
   ]
 }

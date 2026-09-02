@@ -4,7 +4,7 @@
   "title": "Joaquín_Guzmán",
   "description": "Mexican drug lord (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Chapo_Guzman_-_DEA_Picture_2017.png?width=64",
-  "total": 20387949,
+  "total": 20400810,
   "monthly": [
     {
       "period": "2015-07",
@@ -333,6 +333,10 @@
     {
       "period": "2026-08",
       "views": 298549
+    },
+    {
+      "period": "2026-09",
+      "views": 12861
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 718857
+      "views": 731718
     }
   ]
 }

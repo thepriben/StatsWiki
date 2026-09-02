@@ -1,0 +1,80 @@
+{
+  "qid": "Q223839",
+  "label": "Larry Flynt",
+  "title": "Larry_Flynt",
+  "description": "American publisher",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larry_Flynt_2009.jpg?width=64",
+  "total": 749761,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 13068
+    },
+    {
+      "period": "2016-02",
+      "views": 12971
+    },
+    {
+      "period": "2016-06",
+      "views": 9345
+    },
+    {
+      "period": "2017-07",
+      "views": 13144
+    },
+    {
+      "period": "2017-09",
+      "views": 55940
+    },
+    {
+      "period": "2017-10",
+      "views": 148043
+    },
+    {
+      "period": "2018-09",
+      "views": 10920
+    },
+    {
+      "period": "2020-09",
+      "views": 10262
+    },
+    {
+      "period": "2021-02",
+      "views": 467713
+    },
+    {
+      "period": "2026-09",
+      "views": 8355
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 13068
+    },
+    {
+      "period": "2016",
+      "views": 22316
+    },
+    {
+      "period": "2017",
+      "views": 217127
+    },
+    {
+      "period": "2018",
+      "views": 10920
+    },
+    {
+      "period": "2020",
+      "views": 10262
+    },
+    {
+      "period": "2021",
+      "views": 467713
+    },
+    {
+      "period": "2026",
+      "views": 8355
+    }
+  ]
+}

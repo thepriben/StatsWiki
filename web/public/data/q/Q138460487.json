@@ -4,7 +4,7 @@
   "title": "2026–27_Premier_League",
   "description": "35th season of the Premier League",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pl-logo-light.svg?width=64",
-  "total": 544833,
+  "total": 554201,
   "monthly": [
     {
       "period": "2026-04",
@@ -25,12 +25,16 @@
     {
       "period": "2026-08",
       "views": 169363
+    },
+    {
+      "period": "2026-09",
+      "views": 9368
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 544833
+      "views": 554201
     }
   ]
 }

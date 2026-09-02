@@ -4,7 +4,7 @@
   "title": "Mitch_McConnell",
   "description": "American politician and lawyer (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitch_McConnell_2016_official_photo_%281%29.jpg?width=64",
-  "total": 14183613,
+  "total": 14191151,
   "monthly": [
     {
       "period": "2016-02",
@@ -313,6 +313,10 @@
     {
       "period": "2026-08",
       "views": 256532
+    },
+    {
+      "period": "2026-09",
+      "views": 7538
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 3285866
+      "views": 3293404
     }
   ]
 }

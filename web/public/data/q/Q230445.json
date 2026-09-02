@@ -4,7 +4,7 @@
   "title": "Sara_Bareilles",
   "description": "American recording artist; pop rock singer-songwriter and pianist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara_Bareilles_Sv.JPG?width=64",
-  "total": 861242,
+  "total": 874165,
   "monthly": [
     {
       "period": "2015-11",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 11495
+    },
+    {
+      "period": "2026-09",
+      "views": 12923
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 21598
+      "views": 34521
     }
   ]
 }

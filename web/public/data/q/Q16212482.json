@@ -4,7 +4,7 @@
   "title": "Odell_Beckham_Jr.",
   "description": "American football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odell_Beckham_Jr._%2851402744025%29_%28cropped%29.jpg?width=64",
-  "total": 6324072,
+  "total": 6337332,
   "monthly": [
     {
       "period": "2015-07",
@@ -277,6 +277,10 @@
     {
       "period": "2026-08",
       "views": 67289
+    },
+    {
+      "period": "2026-09",
+      "views": 13260
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 183517
+      "views": 196777
     }
   ]
 }

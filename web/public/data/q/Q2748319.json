@@ -4,7 +4,7 @@
   "title": "Nayanthara",
   "description": "Indian actress and producer (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nayanthara_at_Filmfare_Awards.jpg?width=64",
-  "total": 4796738,
+  "total": 4804576,
   "monthly": [
     {
       "period": "2016-08",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 117076
+    },
+    {
+      "period": "2026-09",
+      "views": 7838
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 143653
+      "views": 151491
     }
   ]
 }

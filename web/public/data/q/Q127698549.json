@@ -4,7 +4,7 @@
   "title": "Pressure_(2026_film)",
   "description": "2026 film directed by Anthony Maras",
   "image": "",
-  "total": 654839,
+  "total": 662205,
   "monthly": [
     {
       "period": "2026-02",
@@ -25,12 +25,16 @@
     {
       "period": "2026-08",
       "views": 30607
+    },
+    {
+      "period": "2026-09",
+      "views": 7366
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 654839
+      "views": 662205
     }
   ]
 }

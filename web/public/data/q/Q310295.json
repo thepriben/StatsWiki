@@ -4,7 +4,7 @@
   "title": "Dick_Van_Dyke",
   "description": "American actor and comedian (born 1925)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dick_Van_Dyke_May_2024.jpg?width=64",
-  "total": 16741022,
+  "total": 16750941,
   "monthly": [
     {
       "period": "2015-07",
@@ -437,6 +437,10 @@
     {
       "period": "2026-08",
       "views": 230254
+    },
+    {
+      "period": "2026-09",
+      "views": 9919
     }
   ],
   "yearly": [
@@ -486,7 +490,7 @@
     },
     {
       "period": "2026",
-      "views": 1103274
+      "views": 1113193
     }
   ]
 }

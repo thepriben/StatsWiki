@@ -2,9 +2,9 @@
   "qid": "Q19837",
   "label": "Steve Jobs",
   "title": "Steve_Jobs",
-  "description": "American entrepreneur; co-founder of Apple Inc. (1955-2011)",
+  "description": "American entrepreneur; co-founder of Apple Inc. (1955–2011)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Jobs_Headshot_2010-CROP2.jpg?width=64",
-  "total": 63453055,
+  "total": 63479975,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-08",
       "views": 272055
+    },
+    {
+      "period": "2026-09",
+      "views": 26920
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 2534697
+      "views": 2561617
     }
   ]
 }

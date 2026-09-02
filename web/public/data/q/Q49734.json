@@ -4,7 +4,7 @@
   "title": "Cass_Elliot",
   "description": "American singer (1941–1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mama_Cass_in_1973.jpg?width=64",
-  "total": 1268004,
+  "total": 1279935,
   "monthly": [
     {
       "period": "2016-03",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 75285
+    },
+    {
+      "period": "2026-09",
+      "views": 11931
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 162477
+      "views": 174408
     }
   ]
 }

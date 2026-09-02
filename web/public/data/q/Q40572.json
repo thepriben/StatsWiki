@@ -4,7 +4,7 @@
   "title": "Heath_Ledger",
   "description": "Australian actor (1979–2008)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heath_Ledger.jpg?width=64",
-  "total": 51077506,
+  "total": 51086563,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-08",
       "views": 382602
+    },
+    {
+      "period": "2026-09",
+      "views": 9057
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 2536489
+      "views": 2545546
     }
   ]
 }

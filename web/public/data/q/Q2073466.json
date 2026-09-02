@@ -4,7 +4,7 @@
   "title": "Transformers_(film_series)",
   "description": "American film series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Transformers.png?width=64",
-  "total": 6981440,
+  "total": 6988922,
   "monthly": [
     {
       "period": "2015-07",
@@ -225,6 +225,10 @@
     {
       "period": "2026-08",
       "views": 65392
+    },
+    {
+      "period": "2026-09",
+      "views": 7482
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 65392
+      "views": 72874
     }
   ]
 }

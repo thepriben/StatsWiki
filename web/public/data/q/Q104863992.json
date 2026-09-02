@@ -4,7 +4,7 @@
   "title": "Z-Library",
   "description": "file-sharing site for journal articles, books, and magazines",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Library_z.png?width=64",
-  "total": 10966500,
+  "total": 10986977,
   "monthly": [
     {
       "period": "2022-03",
@@ -145,6 +145,10 @@
     {
       "period": "2026-08",
       "views": 624773
+    },
+    {
+      "period": "2026-09",
+      "views": 20477
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 3622625
+      "views": 3643102
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Anti-Muslim_propaganda_on_Facebook",
   "description": "American online social media and social networking service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Facebook_%282%29.PNG?width=64",
-  "total": 140083590,
+  "total": 140101517,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-08",
       "views": 530845
+    },
+    {
+      "period": "2026-09",
+      "views": 17927
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 4802322
+      "views": 4820249
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Notting_Hill_Carnival",
   "description": "annual street festival in London",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Notting_Hill_Carnival_1_-_August_2006.jpg?width=64",
-  "total": 262861,
+  "total": 270544,
   "monthly": [
     {
       "period": "2015-08",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 30588
+    },
+    {
+      "period": "2026-09",
+      "views": 7683
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 30588
+      "views": 38271
     }
   ]
 }

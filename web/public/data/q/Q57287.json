@@ -4,7 +4,7 @@
   "title": "Harald_V_of_Norway",
   "description": "king of Norway (1937–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Harald_V_may_2026_%28cropped%29.jpg?width=64",
-  "total": 1315649,
+  "total": 1363478,
   "monthly": [
     {
       "period": "2015-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 984867
+    },
+    {
+      "period": "2026-09",
+      "views": 47829
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 1093407
+      "views": 1141236
     }
   ]
 }

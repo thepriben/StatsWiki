@@ -4,7 +4,7 @@
   "title": "Burning_Man",
   "description": "annual experimental festival based in Nevada, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BM2010_The_Man.jpg?width=64",
-  "total": 4422735,
+  "total": 4431221,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 9725
+    },
+    {
+      "period": "2026-09",
+      "views": 8486
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 9725
+      "views": 18211
     }
   ]
 }

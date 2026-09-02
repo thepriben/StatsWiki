@@ -4,17 +4,21 @@
   "title": "Sinestro_(DC_Universe)",
   "description": "fictional supervillain in the DC Comics Universe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sinestro_corps_%285161744232%29.jpg?width=64",
-  "total": 92616,
+  "total": 101103,
   "monthly": [
     {
       "period": "2026-08",
       "views": 92616
+    },
+    {
+      "period": "2026-09",
+      "views": 8487
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 92616
+      "views": 101103
     }
   ]
 }

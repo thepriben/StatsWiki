@@ -4,7 +4,7 @@
   "title": "Marisa_Tomei",
   "description": "American actress (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marisa_Tomei_at_Berlinale_2023.jpg?width=64",
-  "total": 6677977,
+  "total": 6685555,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-08",
       "views": 550369
+    },
+    {
+      "period": "2026-09",
+      "views": 7578
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 657341
+      "views": 664919
     }
   ]
 }

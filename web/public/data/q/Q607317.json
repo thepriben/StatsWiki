@@ -4,7 +4,7 @@
   "title": "Little_Big_Town",
   "description": "American country band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LittleBigTown.JPG?width=64",
-  "total": 1066044,
+  "total": 1089921,
   "monthly": [
     {
       "period": "2015-08",
@@ -157,6 +157,10 @@
     {
       "period": "2026-07",
       "views": 14342
+    },
+    {
+      "period": "2026-09",
+      "views": 23877
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 32748
+      "views": 56625
     }
   ]
 }

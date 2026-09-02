@@ -4,7 +4,7 @@
   "title": "Snoop_Dogg",
   "description": "American rapper (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snoop_Dogg_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 34931993,
+  "total": 34940612,
   "monthly": [
     {
       "period": "2015-07",
@@ -505,6 +505,10 @@
     {
       "period": "2026-02",
       "views": 459702
+    },
+    {
+      "period": "2026-09",
+      "views": 8619
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 496700
+      "views": 505319
     }
   ]
 }

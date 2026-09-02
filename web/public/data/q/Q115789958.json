@@ -4,7 +4,7 @@
   "title": "Gladiator_II",
   "description": "2024 film directed by Ridley Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gladiator_II_logo.png?width=64",
-  "total": 12107493,
+  "total": 12115097,
   "monthly": [
     {
       "period": "2024-04",
@@ -77,6 +77,10 @@
     {
       "period": "2026-08",
       "views": 65366
+    },
+    {
+      "period": "2026-09",
+      "views": 7604
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 73286
+      "views": 80890
     }
   ]
 }

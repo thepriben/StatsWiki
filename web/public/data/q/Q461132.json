@@ -4,7 +4,7 @@
   "title": "Rose_Leslie",
   "description": "Scottish actress (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_Leslie_%28March_2013%29_%28headshot%29.jpg?width=64",
-  "total": 7854087,
+  "total": 7866122,
   "monthly": [
     {
       "period": "2015-10",
@@ -221,6 +221,10 @@
     {
       "period": "2026-08",
       "views": 104965
+    },
+    {
+      "period": "2026-09",
+      "views": 12035
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 124085
+      "views": 136120
     }
   ]
 }

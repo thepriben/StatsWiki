@@ -4,7 +4,7 @@
   "title": "Lizzie_Borden",
   "description": "American murder suspect (1860–1927)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lizzie_Borden_1890.jpg?width=64",
-  "total": 4509892,
+  "total": 4517658,
   "monthly": [
     {
       "period": "2015-08",
@@ -169,6 +169,10 @@
     {
       "period": "2026-08",
       "views": 414551
+    },
+    {
+      "period": "2026-09",
+      "views": 7766
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 414551
+      "views": 422317
     }
   ]
 }

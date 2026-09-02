@@ -4,17 +4,21 @@
   "title": "I,_Nobody",
   "description": "malayalam Feature Film",
   "image": "",
-  "total": 148022,
+  "total": 155322,
   "monthly": [
     {
       "period": "2026-08",
       "views": 148022
+    },
+    {
+      "period": "2026-09",
+      "views": 7300
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 148022
+      "views": 155322
     }
   ]
 }

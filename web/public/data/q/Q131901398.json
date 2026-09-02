@@ -4,7 +4,7 @@
   "title": "Practical_Magic_2",
   "description": "upcoming film directed by Susanne Bier",
   "image": "",
-  "total": 313542,
+  "total": 333645,
   "monthly": [
     {
       "period": "2026-04",
@@ -17,12 +17,16 @@
     {
       "period": "2026-08",
       "views": 181554
+    },
+    {
+      "period": "2026-09",
+      "views": 20103
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 313542
+      "views": 333645
     }
   ]
 }

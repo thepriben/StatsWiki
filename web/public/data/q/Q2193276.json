@@ -4,7 +4,7 @@
   "title": "Death_of_Diana,_Princess_of_Wales",
   "description": "road accident causing the death of the British princess",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alma_tunnel_Paris.jpg?width=64",
-  "total": 5399658,
+  "total": 5407089,
   "monthly": [
     {
       "period": "2015-08",
@@ -153,6 +153,10 @@
     {
       "period": "2026-08",
       "views": 11817
+    },
+    {
+      "period": "2026-09",
+      "views": 7431
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 11817
+      "views": 19248
     }
   ]
 }

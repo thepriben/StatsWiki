@@ -4,7 +4,7 @@
   "title": "Mel_Gibson",
   "description": "American actor, director, producer and screenwriter (born 1956)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mel_Gibson_Cannes_2016_2.jpg?width=64",
-  "total": 18467787,
+  "total": 18478516,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-08",
       "views": 127400
+    },
+    {
+      "period": "2026-09",
+      "views": 10729
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 943096
+      "views": 953825
     }
   ]
 }

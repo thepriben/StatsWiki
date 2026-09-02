@@ -4,7 +4,7 @@
   "title": "Mosul_Dam",
   "description": "dam in Iraq",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mosul_Dam_in_hill.jpg?width=64",
-  "total": 216295,
+  "total": 239293,
   "monthly": [
     {
       "period": "2016-01",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 27270
+    },
+    {
+      "period": "2026-09",
+      "views": 22998
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 27270
+      "views": 50268
     }
   ]
 }

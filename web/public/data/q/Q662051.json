@@ -1,0 +1,104 @@
+{
+  "qid": "Q662051",
+  "label": "solar storm of 1859",
+  "title": "Carrington_Event",
+  "description": "geomagnetic solar storm",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrington_Richard_drawing_of_1859_sunspots.jpeg?width=64",
+  "total": 601019,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 17028
+    },
+    {
+      "period": "2021-03",
+      "views": 13261
+    },
+    {
+      "period": "2021-07",
+      "views": 10197
+    },
+    {
+      "period": "2021-09",
+      "views": 17367
+    },
+    {
+      "period": "2021-10",
+      "views": 38747
+    },
+    {
+      "period": "2023-03",
+      "views": 28852
+    },
+    {
+      "period": "2023-09",
+      "views": 16143
+    },
+    {
+      "period": "2024-02",
+      "views": 10974
+    },
+    {
+      "period": "2024-05",
+      "views": 288226
+    },
+    {
+      "period": "2024-09",
+      "views": 10770
+    },
+    {
+      "period": "2024-10",
+      "views": 16824
+    },
+    {
+      "period": "2025-01",
+      "views": 11874
+    },
+    {
+      "period": "2025-11",
+      "views": 39903
+    },
+    {
+      "period": "2025-12",
+      "views": 22215
+    },
+    {
+      "period": "2026-01",
+      "views": 23444
+    },
+    {
+      "period": "2026-02",
+      "views": 25092
+    },
+    {
+      "period": "2026-09",
+      "views": 10102
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 17028
+    },
+    {
+      "period": "2021",
+      "views": 79572
+    },
+    {
+      "period": "2023",
+      "views": 44995
+    },
+    {
+      "period": "2024",
+      "views": 326794
+    },
+    {
+      "period": "2025",
+      "views": 73992
+    },
+    {
+      "period": "2026",
+      "views": 58638
+    }
+  ]
+}

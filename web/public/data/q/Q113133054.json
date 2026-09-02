@@ -4,7 +4,7 @@
   "title": "Malick_Fofana",
   "description": "Belgian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fofana_asse_ol_2425.png?width=64",
-  "total": 54234,
+  "total": 94802,
   "monthly": [
     {
       "period": "2025-04",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 44076
+    },
+    {
+      "period": "2026-09",
+      "views": 40568
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 44076
+      "views": 84644
     }
   ]
 }

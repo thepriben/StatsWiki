@@ -4,7 +4,7 @@
   "title": "Sam_Neill",
   "description": "New Zealand actor (1947–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Sam_Neill_2022.jpg?width=64",
-  "total": 6134392,
+  "total": 6142327,
   "monthly": [
     {
       "period": "2015-12",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 407567
+    },
+    {
+      "period": "2026-09",
+      "views": 7935
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 4345419
+      "views": 4353354
     }
   ]
 }

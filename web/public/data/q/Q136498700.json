@@ -4,7 +4,7 @@
   "title": "Widow's_Bay",
   "description": "American television series",
   "image": "",
-  "total": 4692621,
+  "total": 4707479,
   "monthly": [
     {
       "period": "2026-04",
@@ -25,12 +25,16 @@
     {
       "period": "2026-08",
       "views": 608120
+    },
+    {
+      "period": "2026-09",
+      "views": 14858
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 4692621
+      "views": 4707479
     }
   ]
 }

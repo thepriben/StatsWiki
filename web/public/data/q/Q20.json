@@ -4,7 +4,7 @@
   "title": "Norway",
   "description": "country in Northern Europe",
   "image": "",
-  "total": 6731055,
+  "total": 6741319,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-08",
       "views": 120473
+    },
+    {
+      "period": "2026-09",
+      "views": 10264
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 810452
+      "views": 820716
     }
   ]
 }

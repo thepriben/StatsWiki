@@ -4,7 +4,7 @@
   "title": "Emiliano_Martínez",
   "description": "Argentine footballer (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg?width=64",
-  "total": 4232997,
+  "total": 4246342,
   "monthly": [
     {
       "period": "2020-06",
@@ -109,6 +109,10 @@
     {
       "period": "2026-08",
       "views": 225566
+    },
+    {
+      "period": "2026-09",
+      "views": 13345
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 1001573
+      "views": 1014918
     }
   ]
 }

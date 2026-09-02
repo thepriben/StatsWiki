@@ -4,7 +4,7 @@
   "title": "Stan_Wawrinka",
   "description": "Swiss tennis player (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stan_Wawrinka%2C_Basel_2024.jpg?width=64",
-  "total": 3554671,
+  "total": 3570004,
   "monthly": [
     {
       "period": "2015-07",
@@ -205,6 +205,10 @@
     {
       "period": "2026-08",
       "views": 36844
+    },
+    {
+      "period": "2026-09",
+      "views": 15333
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 418989
+      "views": 434322
     }
   ]
 }

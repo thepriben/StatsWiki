@@ -4,7 +4,7 @@
   "title": "The_Whisper_Man",
   "description": "film directed by James Ashcroft",
   "image": "",
-  "total": 583862,
+  "total": 681385,
   "monthly": [
     {
       "period": "2026-07",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 562245
+    },
+    {
+      "period": "2026-09",
+      "views": 97523
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 583862
+      "views": 681385
     }
   ]
 }

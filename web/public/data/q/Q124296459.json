@@ -4,7 +4,7 @@
   "title": "The_Blood_of_Dawnwalker",
   "description": "2026 video game developed by Rebel Wolves",
   "image": "",
-  "total": 104795,
+  "total": 128236,
   "monthly": [
     {
       "period": "2025-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 20261
+    },
+    {
+      "period": "2026-09",
+      "views": 23441
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 29162
+      "views": 52603
     }
   ]
 }

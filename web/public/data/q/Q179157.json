@@ -3,8 +3,8 @@
   "label": "The Notorious B.I.G.",
   "title": "The_Notorious_B.I.G.",
   "description": "American rapper (1972–1997)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bushwick_Collective_01.jpg?width=64",
-  "total": 13411885,
+  "image": "",
+  "total": 13444327,
   "monthly": [
     {
       "period": "2015-07",
@@ -417,6 +417,10 @@
     {
       "period": "2026-08",
       "views": 50178
+    },
+    {
+      "period": "2026-09",
+      "views": 32442
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 58897
+      "views": 91339
     }
   ]
 }

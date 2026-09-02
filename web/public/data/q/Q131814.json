@@ -4,7 +4,7 @@
   "title": "Tina_Turner",
   "description": "American-born Swiss singer and songwriter (1939–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tina_Turner_50th_Anniversary_Tour.jpg?width=64",
-  "total": 20002054,
+  "total": 20009658,
   "monthly": [
     {
       "period": "2015-08",
@@ -469,6 +469,10 @@
     {
       "period": "2026-08",
       "views": 32274
+    },
+    {
+      "period": "2026-09",
+      "views": 7604
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 143530
+      "views": 151134
     }
   ]
 }

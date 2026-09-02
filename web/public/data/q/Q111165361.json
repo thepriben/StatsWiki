@@ -4,7 +4,7 @@
   "title": "Trigger_Point_(TV_series)",
   "description": "British crime thriller television series",
   "image": "",
-  "total": 90325,
+  "total": 102255,
   "monthly": [
     {
       "period": "2024-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 25808
+    },
+    {
+      "period": "2026-09",
+      "views": 11930
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 25808
+      "views": 37738
     }
   ]
 }

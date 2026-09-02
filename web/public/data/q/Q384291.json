@@ -4,7 +4,7 @@
   "title": "Aberfan_disaster",
   "description": "October 1966 mining disaster in Wales, UK",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aberfan_spoil_heaps_post_disaster.tif?width=64",
-  "total": 5205414,
+  "total": 5217263,
   "monthly": [
     {
       "period": "2015-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 21064
+    },
+    {
+      "period": "2026-09",
+      "views": 11849
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 92791
+      "views": 104640
     }
   ]
 }

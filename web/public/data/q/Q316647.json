@@ -4,7 +4,7 @@
   "title": "Randy_Quaid",
   "description": "American actor (born 1950)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy_Quaid.jpg?width=64",
-  "total": 1872767,
+  "total": 1882581,
   "monthly": [
     {
       "period": "2015-10",
@@ -125,6 +125,10 @@
     {
       "period": "2026-08",
       "views": 29241
+    },
+    {
+      "period": "2026-09",
+      "views": 9814
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 37978
+      "views": 47792
     }
   ]
 }

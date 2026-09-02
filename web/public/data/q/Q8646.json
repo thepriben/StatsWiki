@@ -4,7 +4,7 @@
   "title": "Hong_Kong",
   "description": "city and special administrative region of China",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hong_Kong_from_Victoria_Peak1.jpg?width=64",
-  "total": 30914172,
+  "total": 30922298,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-08",
       "views": 39953
+    },
+    {
+      "period": "2026-09",
+      "views": 8126
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 257894
+      "views": 266020
     }
   ]
 }

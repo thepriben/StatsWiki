@@ -4,7 +4,7 @@
   "title": "Lamine_Yamal",
   "description": "Spanish footballer (born 2007)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamine_Yamal_France_v_Spain_7.24.26-142.jpg?width=64",
-  "total": 22410534,
+  "total": 22425034,
   "monthly": [
     {
       "period": "2023-04",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 324652
+    },
+    {
+      "period": "2026-09",
+      "views": 14500
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 9270690
+      "views": 9285190
     }
   ]
 }

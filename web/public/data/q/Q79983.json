@@ -4,7 +4,7 @@
   "title": "José_Mourinho",
   "description": "Portuguese association football manager and former player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9_Mourinho_20250206_%281%29.jpg?width=64",
-  "total": 12070921,
+  "total": 12085298,
   "monthly": [
     {
       "period": "2015-08",
@@ -421,6 +421,10 @@
     {
       "period": "2026-08",
       "views": 753957
+    },
+    {
+      "period": "2026-09",
+      "views": 14377
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 2519057
+      "views": 2533434
     }
   ]
 }

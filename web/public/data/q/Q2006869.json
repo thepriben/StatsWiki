@@ -4,7 +4,7 @@
   "title": "X-Men_(film_series)",
   "description": "American superhero film series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_X-Men_films.svg?width=64",
-  "total": 25280670,
+  "total": 25289857,
   "monthly": [
     {
       "period": "2015-07",
@@ -317,6 +317,10 @@
     {
       "period": "2026-08",
       "views": 507223
+    },
+    {
+      "period": "2026-09",
+      "views": 9187
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 608164
+      "views": 617351
     }
   ]
 }

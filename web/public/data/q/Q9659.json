@@ -4,7 +4,7 @@
   "title": "A",
   "description": "1st letter of the basic Latin alphabet",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Latin_alphabet_Aa.svg?width=64",
-  "total": 14772775,
+  "total": 14783608,
   "monthly": [
     {
       "period": "2015-11",
@@ -209,6 +209,10 @@
     {
       "period": "2026-08",
       "views": 330124
+    },
+    {
+      "period": "2026-09",
+      "views": 10833
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 2523397
+      "views": 2534230
     }
   ]
 }

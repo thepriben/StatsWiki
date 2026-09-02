@@ -4,7 +4,7 @@
   "title": "Andy_Roddick",
   "description": "American tennis player (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Roddick%2C_US_Open_Tennis_2010%2C_1st_Round_200_%28cropped%29.jpg?width=64",
-  "total": 1248101,
+  "total": 1260031,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 43307
+    },
+    {
+      "period": "2026-09",
+      "views": 11930
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 72727
+      "views": 84657
     }
   ]
 }

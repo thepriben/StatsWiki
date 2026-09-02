@@ -4,7 +4,7 @@
   "title": "Julia_Roberts",
   "description": "American actress (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julia_Roberts_2025_%28cropped%29.jpg?width=64",
-  "total": 32965714,
+  "total": 32975613,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-08",
       "views": 145708
+    },
+    {
+      "period": "2026-09",
+      "views": 9899
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 779978
+      "views": 789877
     }
   ]
 }

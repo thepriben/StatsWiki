@@ -4,7 +4,7 @@
   "title": "Tosin_Adarabioyo",
   "description": "English association football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tosin_Adarabioyo_FIFA_Club_World_Cup_extraction.jpg?width=64",
-  "total": 193506,
+  "total": 223050,
   "monthly": [
     {
       "period": "2024-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 20786
+    },
+    {
+      "period": "2026-09",
+      "views": 29544
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 20786
+      "views": 50330
     }
   ]
 }

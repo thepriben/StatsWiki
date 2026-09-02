@@ -4,7 +4,7 @@
   "title": "Gilmore_Girls",
   "description": "American comedy-drama series for The WB and The CW (2000–2007)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gilmore_Girls_%28The_WB_television_series%29_logo.svg?width=64",
-  "total": 4564008,
+  "total": 4572042,
   "monthly": [
     {
       "period": "2015-10",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 52695
+    },
+    {
+      "period": "2026-09",
+      "views": 8034
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 52695
+      "views": 60729
     }
   ]
 }

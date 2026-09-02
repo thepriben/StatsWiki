@@ -4,7 +4,7 @@
   "title": "Ava_Gardner",
   "description": "American actress (1922–1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ava_Gardner_Show_Boat_1951.jpg?width=64",
-  "total": 887551,
+  "total": 901854,
   "monthly": [
     {
       "period": "2015-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-08",
       "views": 11969
+    },
+    {
+      "period": "2026-09",
+      "views": 14303
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 22020
+      "views": 36323
     }
   ]
 }

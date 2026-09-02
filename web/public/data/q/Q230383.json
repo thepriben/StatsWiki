@@ -4,7 +4,7 @@
   "title": "Kelly_Macdonald",
   "description": "Scottish actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KellyMacdonaldOct07_2.jpg?width=64",
-  "total": 1858786,
+  "total": 1867917,
   "monthly": [
     {
       "period": "2015-12",
@@ -89,6 +89,10 @@
     {
       "period": "2026-08",
       "views": 255492
+    },
+    {
+      "period": "2026-09",
+      "views": 9131
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 277844
+      "views": 286975
     }
   ]
 }

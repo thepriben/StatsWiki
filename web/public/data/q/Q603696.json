@@ -4,7 +4,7 @@
   "title": "Days_of_Thunder",
   "description": "1990 film by Tony Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ColeTrickle46DaysofThunderCar.jpg?width=64",
-  "total": 140400,
+  "total": 151114,
   "monthly": [
     {
       "period": "2021-02",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 87887
+    },
+    {
+      "period": "2026-09",
+      "views": 10714
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 121560
+      "views": 132274
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jennifer_Aniston",
   "description": "American actress (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JenniferAnistonHWoFFeb2012.jpg?width=64",
-  "total": 64116793,
+  "total": 64125428,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-08",
       "views": 242529
+    },
+    {
+      "period": "2026-09",
+      "views": 8635
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 1239077
+      "views": 1247712
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Grace_Kelly",
   "description": "American actress and Princess consort of Monaco (1929–1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gracia_van_Monaco_%281972%29.jpg?width=64",
-  "total": 5080604,
+  "total": 5089545,
   "monthly": [
     {
       "period": "2015-07",
@@ -433,6 +433,10 @@
     {
       "period": "2026-07",
       "views": 34961
+    },
+    {
+      "period": "2026-09",
+      "views": 8941
     }
   ],
   "yearly": [
@@ -482,7 +486,7 @@
     },
     {
       "period": "2026",
-      "views": 159202
+      "views": 168143
     }
   ]
 }

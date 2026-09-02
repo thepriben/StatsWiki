@@ -4,7 +4,7 @@
   "title": "Uzbekistan",
   "description": "sovereign state in Central Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uzbekistan_-_Location_Map_%282011%29_-_UZB_-_UNOCHA.svg?width=64",
-  "total": 1944197,
+  "total": 1952599,
   "monthly": [
     {
       "period": "2015-07",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 26997
+    },
+    {
+      "period": "2026-09",
+      "views": 8402
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 463024
+      "views": 471426
     }
   ]
 }

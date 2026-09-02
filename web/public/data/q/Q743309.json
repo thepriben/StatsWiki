@@ -1,0 +1,52 @@
+{
+  "qid": "Q743309",
+  "label": "Los Angeles Angels",
+  "title": "Los_Angeles_Angels",
+  "description": "baseball team and Major League Baseball franchise in Anaheim, California, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angels_Stadium.JPG?width=64",
+  "total": 117708,
+  "monthly": [
+    {
+      "period": "2023-03",
+      "views": 12400
+    },
+    {
+      "period": "2023-12",
+      "views": 13320
+    },
+    {
+      "period": "2024-10",
+      "views": 15402
+    },
+    {
+      "period": "2025-10",
+      "views": 43266
+    },
+    {
+      "period": "2025-11",
+      "views": 23751
+    },
+    {
+      "period": "2026-09",
+      "views": 9569
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 25720
+    },
+    {
+      "period": "2024",
+      "views": 15402
+    },
+    {
+      "period": "2025",
+      "views": 67017
+    },
+    {
+      "period": "2026",
+      "views": 9569
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "It's_Always_Sunny_in_Philadelphia",
   "description": "American comedy television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IASIPTC.svg?width=64",
-  "total": 3339191,
+  "total": 3346526,
   "monthly": [
     {
       "period": "2015-07",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 83635
+    },
+    {
+      "period": "2026-09",
+      "views": 7335
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 83635
+      "views": 90970
     }
   ]
 }

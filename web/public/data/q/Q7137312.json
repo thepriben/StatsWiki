@@ -4,7 +4,7 @@
   "title": "Paris_Jackson",
   "description": "American model, actress, singer and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris-Michael_Katherine_Jackson_at_82nd_Venice_International_Film_Festival_%28cropped%29.jpg?width=64",
-  "total": 4343322,
+  "total": 4352190,
   "monthly": [
     {
       "period": "2017-01",
@@ -153,6 +153,10 @@
     {
       "period": "2026-08",
       "views": 225308
+    },
+    {
+      "period": "2026-09",
+      "views": 8868
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 2021906
+      "views": 2030774
     }
   ]
 }

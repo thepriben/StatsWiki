@@ -4,7 +4,7 @@
   "title": "Jaime_Pressly",
   "description": "American actress, model, and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaime_Pressly_LF.JPG?width=64",
-  "total": 254665,
+  "total": 271144,
   "monthly": [
     {
       "period": "2016-01",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 8332
+    },
+    {
+      "period": "2026-09",
+      "views": 16479
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 75787
+      "views": 92266
     }
   ]
 }

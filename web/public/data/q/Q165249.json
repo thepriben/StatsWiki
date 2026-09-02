@@ -4,7 +4,7 @@
   "title": "Princess_Ingrid_of_Norway",
   "description": "Norwegian princess",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prinsesse_Ingrid_Alexandra_Kadettangen_03.jpg?width=64",
-  "total": 601320,
+  "total": 633397,
   "monthly": [
     {
       "period": "2022-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 372003
+    },
+    {
+      "period": "2026-09",
+      "views": 32077
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 539868
+      "views": 571945
     }
   ]
 }

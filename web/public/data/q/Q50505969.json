@@ -4,7 +4,7 @@
   "title": "Liam_Millar",
   "description": "Canadian soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liam_Millar.jpeg?width=64",
-  "total": 166011,
+  "total": 174457,
   "monthly": [
     {
       "period": "2022-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 31309
+    },
+    {
+      "period": "2026-09",
+      "views": 8446
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 119052
+      "views": 127498
     }
   ]
 }

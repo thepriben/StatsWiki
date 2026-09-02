@@ -4,7 +4,7 @@
   "title": "Outer_Banks_(TV_series)",
   "description": "2020 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Outer_Banks_TV_series_logo.png?width=64",
-  "total": 4806139,
+  "total": 4819368,
   "monthly": [
     {
       "period": "2020-04",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 315192
+    },
+    {
+      "period": "2026-09",
+      "views": 13229
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 315192
+      "views": 328421
     }
   ]
 }

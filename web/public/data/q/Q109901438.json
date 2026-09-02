@@ -4,7 +4,7 @@
   "title": "Reacher_(TV_series)",
   "description": "television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reacher_series_title_card.png?width=64",
-  "total": 8460056,
+  "total": 8479279,
   "monthly": [
     {
       "period": "2021-12",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 743228
+    },
+    {
+      "period": "2026-09",
+      "views": 19223
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 823815
+      "views": 843038
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Andrew_W.K.",
   "description": "American rock musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrew_WK-30_%2828814054477%29.jpg?width=64",
-  "total": 452366,
+  "total": 465136,
   "monthly": [
     {
       "period": "2016-04",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 9856
+    },
+    {
+      "period": "2026-09",
+      "views": 12770
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 9856
+      "views": 22626
     }
   ]
 }

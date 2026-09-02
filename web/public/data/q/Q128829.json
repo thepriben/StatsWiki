@@ -4,7 +4,7 @@
   "title": "Michael_Owen",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Owen.jpg?width=64",
-  "total": 1898984,
+  "total": 1906933,
   "monthly": [
     {
       "period": "2015-11",
@@ -129,6 +129,10 @@
     {
       "period": "2026-08",
       "views": 63595
+    },
+    {
+      "period": "2026-09",
+      "views": 7949
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 160467
+      "views": 168416
     }
   ]
 }

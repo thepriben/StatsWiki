@@ -4,7 +4,7 @@
   "title": "Deaths_in_August_2026",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 32350744,
+  "total": 32497753,
   "monthly": [
     {
       "period": "2026-01",
@@ -37,12 +37,16 @@
     {
       "period": "2026-08",
       "views": 4321615
+    },
+    {
+      "period": "2026-09",
+      "views": 147009
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 32350744
+      "views": 32497753
     }
   ]
 }

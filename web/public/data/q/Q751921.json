@@ -4,7 +4,7 @@
   "title": "The_Rocky_Horror_Picture_Show",
   "description": "1975 film directed by Jim Sharman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_rocky_horror_picture_show.svg?width=64",
-  "total": 3421780,
+  "total": 3444812,
   "monthly": [
     {
       "period": "2015-07",
@@ -161,6 +161,10 @@
     {
       "period": "2026-08",
       "views": 529657
+    },
+    {
+      "period": "2026-09",
+      "views": 23032
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 541478
+      "views": 564510
     }
   ]
 }

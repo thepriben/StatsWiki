@@ -1,0 +1,68 @@
+{
+  "qid": "Q383590",
+  "label": "House of Commons",
+  "title": "House_of_Commons_of_Canada",
+  "description": "lower house of the Canadian Parliament",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parliament2.jpg?width=64",
+  "total": 580762,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 13606
+    },
+    {
+      "period": "2019-10",
+      "views": 183700
+    },
+    {
+      "period": "2021-09",
+      "views": 115603
+    },
+    {
+      "period": "2025-01",
+      "views": 12954
+    },
+    {
+      "period": "2025-04",
+      "views": 206778
+    },
+    {
+      "period": "2025-05",
+      "views": 10512
+    },
+    {
+      "period": "2026-02",
+      "views": 10627
+    },
+    {
+      "period": "2026-04",
+      "views": 17263
+    },
+    {
+      "period": "2026-09",
+      "views": 9719
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 13606
+    },
+    {
+      "period": "2019",
+      "views": 183700
+    },
+    {
+      "period": "2021",
+      "views": 115603
+    },
+    {
+      "period": "2025",
+      "views": 230244
+    },
+    {
+      "period": "2026",
+      "views": 37609
+    }
+  ]
+}

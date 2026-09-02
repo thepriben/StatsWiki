@@ -4,7 +4,7 @@
   "title": "I,_Robot_(film)",
   "description": "2004 film directed by Alex Proyas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Irobot_head.jpg?width=64",
-  "total": 1901058,
+  "total": 1911464,
   "monthly": [
     {
       "period": "2019-04",
@@ -97,6 +97,10 @@
     {
       "period": "2026-08",
       "views": 143357
+    },
+    {
+      "period": "2026-09",
+      "views": 10406
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 602991
+      "views": 613397
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sarah_Michelle_Gellar",
   "description": "American actress (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Michelle_Gellar_Comic-Con_2%2C_2011.jpg?width=64",
-  "total": 2512902,
+  "total": 2524818,
   "monthly": [
     {
       "period": "2015-08",
@@ -217,6 +217,10 @@
     {
       "period": "2026-08",
       "views": 20371
+    },
+    {
+      "period": "2026-09",
+      "views": 11916
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 310555
+      "views": 322471
     }
   ]
 }

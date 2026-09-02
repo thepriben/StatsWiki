@@ -4,7 +4,7 @@
   "title": "Richard_Gere",
   "description": "American actor (born 1949)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Gere-69101.jpg?width=64",
-  "total": 4972570,
+  "total": 4986661,
   "monthly": [
     {
       "period": "2015-07",
@@ -457,6 +457,10 @@
     {
       "period": "2026-08",
       "views": 274564
+    },
+    {
+      "period": "2026-09",
+      "views": 14091
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 490280
+      "views": 504371
     }
   ]
 }

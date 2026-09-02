@@ -4,7 +4,7 @@
   "title": "Star_Wars_Zero_Company",
   "description": "2026 video game developed by Bit Reactor and Respawn Entertainment",
   "image": "",
-  "total": 128100,
+  "total": 143290,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 116490
+    },
+    {
+      "period": "2026-09",
+      "views": 15190
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 128100
+      "views": 143290
     }
   ]
 }

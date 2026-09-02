@@ -4,17 +4,21 @@
   "title": "Helch",
   "description": "British graffiti artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HELCH_overlooking_Sloane_Square_tube_station%2C_Chelsea%2C_September_2024.jpg?width=64",
-  "total": 21878,
+  "total": 32256,
   "monthly": [
     {
       "period": "2026-08",
       "views": 21878
+    },
+    {
+      "period": "2026-09",
+      "views": 10378
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21878
+      "views": 32256
     }
   ]
 }

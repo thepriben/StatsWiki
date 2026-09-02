@@ -4,7 +4,7 @@
   "title": "Vigil_(TV_series)",
   "description": "2021 British television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vigil_logo.png?width=64",
-  "total": 1058131,
+  "total": 1074580,
   "monthly": [
     {
       "period": "2021-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 57140
+    },
+    {
+      "period": "2026-09",
+      "views": 16449
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 57140
+      "views": 73589
     }
   ]
 }

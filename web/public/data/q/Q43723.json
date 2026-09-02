@@ -4,7 +4,7 @@
   "title": "Benjamin_Netanyahu",
   "description": "Prime Minister of Israel (born 1949), (1996–1999; 2009–2021; 2022–present)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Netanyahu%2C_February_2023.jpg?width=64",
-  "total": 19698146,
+  "total": 19707521,
   "monthly": [
     {
       "period": "2015-10",
@@ -277,6 +277,10 @@
     {
       "period": "2026-08",
       "views": 293102
+    },
+    {
+      "period": "2026-09",
+      "views": 9375
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 5658913
+      "views": 5668288
     }
   ]
 }

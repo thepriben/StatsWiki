@@ -4,7 +4,7 @@
   "title": "Stella_Parton",
   "description": "American country singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stella_Parton%2C_smiling.jpg?width=64",
-  "total": 709667,
+  "total": 720045,
   "monthly": [
     {
       "period": "2015-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 539173
+    },
+    {
+      "period": "2026-09",
+      "views": 10378
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 539173
+      "views": 549551
     }
   ]
 }

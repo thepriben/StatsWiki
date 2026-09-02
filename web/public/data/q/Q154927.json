@@ -4,7 +4,7 @@
   "title": "Haakon_VII",
   "description": "King of Norway from 1905 to 1957 (1872–1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haakon_VII_FSA.jpg?width=64",
-  "total": 176887,
+  "total": 187763,
   "monthly": [
     {
       "period": "2025-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 153226
+    },
+    {
+      "period": "2026-09",
+      "views": 10876
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 153226
+      "views": 164102
     }
   ]
 }

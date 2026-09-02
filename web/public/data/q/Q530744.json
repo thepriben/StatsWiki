@@ -4,7 +4,7 @@
   "title": "Dollywood",
   "description": "theme park in Pigeon Forge, Tennessee, USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dollywoodsign1.jpg?width=64",
-  "total": 321613,
+  "total": 330520,
   "monthly": [
     {
       "period": "2016-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 311638
+    },
+    {
+      "period": "2026-09",
+      "views": 8907
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 311638
+      "views": 320545
     }
   ]
 }

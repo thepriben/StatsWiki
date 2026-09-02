@@ -4,7 +4,7 @@
   "title": "George_Harrison",
   "description": "English musician and member of the Beatles (1943–2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Harrison_1974_%28cropped%29.jpg?width=64",
-  "total": 9283952,
+  "total": 9291285,
   "monthly": [
     {
       "period": "2015-07",
@@ -457,6 +457,10 @@
     {
       "period": "2026-08",
       "views": 151472
+    },
+    {
+      "period": "2026-09",
+      "views": 7333
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 520000
+      "views": 527333
     }
   ]
 }

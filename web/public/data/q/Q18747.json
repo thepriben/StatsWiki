@@ -4,7 +4,7 @@
   "title": "West_Ham_United_F.C.",
   "description": "association football club in London, England",
   "image": "",
-  "total": 3339852,
+  "total": 3347705,
   "monthly": [
     {
       "period": "2015-08",
@@ -321,6 +321,10 @@
     {
       "period": "2026-08",
       "views": 26626
+    },
+    {
+      "period": "2026-09",
+      "views": 7853
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 308714
+      "views": 316567
     }
   ]
 }

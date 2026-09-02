@@ -4,7 +4,7 @@
   "title": "The_Best_Little_Whorehouse_in_Texas_(film)",
   "description": "1982 film by Colin Higgins",
   "image": "",
-  "total": 267634,
+  "total": 277560,
   "monthly": [
     {
       "period": "2018-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 239306
+    },
+    {
+      "period": "2026-09",
+      "views": 9926
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 239306
+      "views": 249232
     }
   ]
 }

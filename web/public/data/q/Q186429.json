@@ -4,7 +4,7 @@
   "title": "Gaël_Monfils",
   "description": "French tennis player (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monfils_RG19_%2813%29_%2848199149362%29.jpg?width=64",
-  "total": 1660881,
+  "total": 1669074,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 31039
+    },
+    {
+      "period": "2026-09",
+      "views": 8193
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 266831
+      "views": 275024
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Eric_Dane",
   "description": "American actor (1972–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric_Dane_March_2015.jpg?width=64",
-  "total": 9836358,
+  "total": 9846685,
   "monthly": [
     {
       "period": "2015-08",
@@ -121,6 +121,10 @@
     {
       "period": "2026-08",
       "views": 316577
+    },
+    {
+      "period": "2026-09",
+      "views": 10327
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 7356942
+      "views": 7367269
     }
   ]
 }

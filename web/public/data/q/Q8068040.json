@@ -4,7 +4,7 @@
   "title": "Onimusha",
   "description": "video game series",
   "image": "",
-  "total": 101981,
+  "total": 109517,
   "monthly": [
     {
       "period": "2018-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 9606
+    },
+    {
+      "period": "2026-09",
+      "views": 7536
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 9606
+      "views": 17142
     }
   ]
 }

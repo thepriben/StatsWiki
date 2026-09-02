@@ -4,7 +4,7 @@
   "title": "Leon_Black",
   "description": "American billionaire businessman, MoMa Chairman, art collector (born 1951)",
   "image": "",
-  "total": 578386,
+  "total": 586931,
   "monthly": [
     {
       "period": "2020-10",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 49881
+    },
+    {
+      "period": "2026-09",
+      "views": 8545
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 406523
+      "views": 415068
     }
   ]
 }

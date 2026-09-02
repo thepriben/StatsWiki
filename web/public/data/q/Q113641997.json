@@ -4,7 +4,7 @@
   "title": "Toy_Story_5",
   "description": "2026 animated film directed by Andrew Stanton",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toy_Story_5_logo.svg?width=64",
-  "total": 4417032,
+  "total": 4426961,
   "monthly": [
     {
       "period": "2025-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 586858
+    },
+    {
+      "period": "2026-09",
+      "views": 9929
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 4322385
+      "views": 4332314
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2025_Canadian_federal_election",
   "description": "general election in Canada",
   "image": "",
-  "total": 5966958,
+  "total": 5974750,
   "monthly": [
     {
       "period": "2024-11",
@@ -53,6 +53,10 @@
     {
       "period": "2026-04",
       "views": 38798
+    },
+    {
+      "period": "2026-09",
+      "views": 7792
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 38798
+      "views": 46590
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sam_Howell",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Howell_2022_-_3.jpg?width=64",
-  "total": 776371,
+  "total": 783728,
   "monthly": [
     {
       "period": "2022-04",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 18734
+    },
+    {
+      "period": "2026-09",
+      "views": 7357
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 28579
+      "views": 35936
     }
   ]
 }

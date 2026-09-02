@@ -4,7 +4,7 @@
   "title": "Aaron_Donald",
   "description": "American football player (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Donald_2014_combine.jpg?width=64",
-  "total": 2375348,
+  "total": 2402060,
   "monthly": [
     {
       "period": "2017-09",
@@ -145,6 +145,10 @@
     {
       "period": "2026-08",
       "views": 186327
+    },
+    {
+      "period": "2026-09",
+      "views": 26712
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 298745
+      "views": 325457
     }
   ]
 }

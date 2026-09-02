@@ -4,7 +4,7 @@
   "title": "Saturday_Night's_Main_Event_XLV",
   "description": "WWE television programs",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saturday_Nights_Main_Event_Logo_2006.png?width=64",
-  "total": 2805164,
+  "total": 2822536,
   "monthly": [
     {
       "period": "2024-12",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 160799
+    },
+    {
+      "period": "2026-09",
+      "views": 17372
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 822162
+      "views": 839534
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "King_Von",
   "description": "American rapper (1994–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Von.png?width=64",
-  "total": 4673746,
+  "total": 4682801,
   "monthly": [
     {
       "period": "2020-08",
@@ -145,6 +145,10 @@
     {
       "period": "2026-08",
       "views": 55189
+    },
+    {
+      "period": "2026-09",
+      "views": 9055
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 99374
+      "views": 108429
     }
   ]
 }

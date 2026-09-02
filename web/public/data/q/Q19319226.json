@@ -4,7 +4,7 @@
   "title": "Silo_(series)",
   "description": "series of novels by Hugh Howey",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugh_C_Howey_Wool_Omnibus.jpg?width=64",
-  "total": 2543199,
+  "total": 2554817,
   "monthly": [
     {
       "period": "2023-03",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 178504
+    },
+    {
+      "period": "2026-09",
+      "views": 11618
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 231826
+      "views": 243444
     }
   ]
 }

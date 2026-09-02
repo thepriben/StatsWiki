@@ -4,7 +4,7 @@
   "title": "George_Washington",
   "description": "Founding Father and first U.S. president; soldier and slave owner (1732–1799)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?width=64",
-  "total": 39886906,
+  "total": 39896584,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-08",
       "views": 319304
+    },
+    {
+      "period": "2026-09",
+      "views": 9678
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 2828781
+      "views": 2838459
     }
   ]
 }

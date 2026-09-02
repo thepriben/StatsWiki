@@ -4,7 +4,7 @@
   "title": "Vivarium_(film)",
   "description": "2019 film directed by Lorcan Finnegan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivarium.png?width=64",
-  "total": 651366,
+  "total": 660016,
   "monthly": [
     {
       "period": "2020-01",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 38765
+    },
+    {
+      "period": "2026-09",
+      "views": 8650
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 50451
+      "views": 59101
     }
   ]
 }

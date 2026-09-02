@@ -4,7 +4,7 @@
   "title": "Brett_Goldstein",
   "description": "British actor and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brett_Goldstein_at_PaleyLive_Shrinking_2024.jpg?width=64",
-  "total": 4146702,
+  "total": 4155406,
   "monthly": [
     {
       "period": "2021-08",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 366888
+    },
+    {
+      "period": "2026-09",
+      "views": 8704
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 1525177
+      "views": 1533881
     }
   ]
 }

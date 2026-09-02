@@ -4,7 +4,7 @@
   "title": "Off_Campus",
   "description": "American romantic drama television series",
   "image": "",
-  "total": 4015799,
+  "total": 4023198,
   "monthly": [
     {
       "period": "2026-04",
@@ -25,12 +25,16 @@
     {
       "period": "2026-08",
       "views": 228839
+    },
+    {
+      "period": "2026-09",
+      "views": 7399
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 4015799
+      "views": 4023198
     }
   ]
 }

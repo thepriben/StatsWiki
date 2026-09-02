@@ -4,17 +4,21 @@
   "title": "Alina_Korneeva",
   "description": "Russian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alina_Korneeva_%282023_French_Open%29_02.jpg?width=64",
-  "total": 25826,
+  "total": 37712,
   "monthly": [
     {
       "period": "2026-08",
       "views": 25826
+    },
+    {
+      "period": "2026-09",
+      "views": 11886
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 25826
+      "views": 37712
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Frances_Tiafoe",
   "description": "American tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiafoe_EBN17_%283%29_%2835716381482%29.jpg?width=64",
-  "total": 3667228,
+  "total": 3682540,
   "monthly": [
     {
       "period": "2016-08",
@@ -141,6 +141,10 @@
     {
       "period": "2026-08",
       "views": 36071
+    },
+    {
+      "period": "2026-09",
+      "views": 15312
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 246802
+      "views": 262114
     }
   ]
 }

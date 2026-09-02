@@ -4,7 +4,7 @@
   "title": "Kit_Harington",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kit_harrington_by_sachyn_mital_%28cropped_2%29.jpg?width=64",
-  "total": 10343907,
+  "total": 10352090,
   "monthly": [
     {
       "period": "2015-07",
@@ -233,6 +233,10 @@
     {
       "period": "2026-08",
       "views": 90378
+    },
+    {
+      "period": "2026-09",
+      "views": 8183
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 212319
+      "views": 220502
     }
   ]
 }

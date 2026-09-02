@@ -4,7 +4,7 @@
   "title": "Ted_Kaczynski",
   "description": "American domestic, mathematician and anarchist (1942–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Young_theodore_kaczynski.jpeg?width=64",
-  "total": 28106155,
+  "total": 28121926,
   "monthly": [
     {
       "period": "2015-09",
@@ -445,6 +445,10 @@
     {
       "period": "2026-08",
       "views": 283682
+    },
+    {
+      "period": "2026-09",
+      "views": 15771
     }
   ],
   "yearly": [
@@ -494,7 +498,7 @@
     },
     {
       "period": "2026",
-      "views": 590495
+      "views": 606266
     }
   ]
 }

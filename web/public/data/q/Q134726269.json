@@ -4,7 +4,7 @@
   "title": "Leanne_(TV_series)",
   "description": "American sitcom",
   "image": "",
-  "total": 426715,
+  "total": 434337,
   "monthly": [
     {
       "period": "2025-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 41438
+    },
+    {
+      "period": "2026-09",
+      "views": 7622
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 41438
+      "views": 49060
     }
   ]
 }

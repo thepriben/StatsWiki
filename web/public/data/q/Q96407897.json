@@ -4,7 +4,7 @@
   "title": "Ted_Lasso",
   "description": "American sports comedy-drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cast_of_Ted_Lasso_with_Jill_and_Joe_Biden_%282023%29.jpg?width=64",
-  "total": 23490376,
+  "total": 23517262,
   "monthly": [
     {
       "period": "2020-08",
@@ -273,6 +273,10 @@
     {
       "period": "2026-08",
       "views": 1225084
+    },
+    {
+      "period": "2026-09",
+      "views": 26886
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 2412634
+      "views": 2439520
     }
   ]
 }

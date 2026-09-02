@@ -4,7 +4,7 @@
   "title": "Sophie_Willan",
   "description": "British comedian",
   "image": "",
-  "total": 173070,
+  "total": 183906,
   "monthly": [
     {
       "period": "2022-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 29595
+    },
+    {
+      "period": "2026-09",
+      "views": 10836
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 76294
+      "views": 87130
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Russo-Ukrainian_War",
   "description": "armed conflict between Russia and Ukraine since 2014",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_Russian_invasion_of_Ukraine.svg?width=64",
-  "total": 31053688,
+  "total": 31061309,
   "monthly": [
     {
       "period": "2021-04",
@@ -237,6 +237,10 @@
     {
       "period": "2026-08",
       "views": 123691
+    },
+    {
+      "period": "2026-09",
+      "views": 7621
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 1097836
+      "views": 1105457
     }
   ]
 }

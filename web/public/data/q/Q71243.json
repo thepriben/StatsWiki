@@ -4,7 +4,7 @@
   "title": "Clark_Gable",
   "description": "American actor (1901–1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clark_Gable_Publicity_Photo%2C_1945.jpg?width=64",
-  "total": 1654419,
+  "total": 1662029,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-08",
       "views": 18035
+    },
+    {
+      "period": "2026-09",
+      "views": 7610
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 73144
+      "views": 80754
     }
   ]
 }

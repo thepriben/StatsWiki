@@ -4,7 +4,7 @@
   "title": "Nancy_Roman",
   "description": "American astronomer and principal in the Hubble Space Telescope project (1925-2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nancy_Grace_Roman_2015.jpg?width=64",
-  "total": 85043,
+  "total": 93867,
   "monthly": [
     {
       "period": "2016-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 70761
+    },
+    {
+      "period": "2026-09",
+      "views": 8824
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 70761
+      "views": 79585
     }
   ]
 }

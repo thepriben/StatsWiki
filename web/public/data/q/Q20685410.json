@@ -4,7 +4,7 @@
   "title": "Sam_Esmail",
   "description": "Egyptian-American director and writer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Esmail_at_SXSW_2016.jpg?width=64",
-  "total": 472846,
+  "total": 480200,
   "monthly": [
     {
       "period": "2016-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 78798
+    },
+    {
+      "period": "2026-09",
+      "views": 7354
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 78798
+      "views": 86152
     }
   ]
 }

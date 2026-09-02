@@ -4,7 +4,7 @@
   "title": "2022_University_of_Idaho_murders",
   "description": "death of four students at the University of Idaho on November 13, 2022",
   "image": "",
-  "total": 2610998,
+  "total": 2619283,
   "monthly": [
     {
       "period": "2025-07",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 878319
+    },
+    {
+      "period": "2026-09",
+      "views": 8285
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 1252391
+      "views": 1260676
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Linda_Ronstadt",
   "description": "American singer (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary_Pompeo_Welcomes_the_2019_Kennedy_Center_Honors_Awardees_to_the_State_Department_%2849187498138%29_%28cropped%29.jpg?width=64",
-  "total": 3736939,
+  "total": 3744316,
   "monthly": [
     {
       "period": "2016-01",
@@ -161,6 +161,10 @@
     {
       "period": "2026-08",
       "views": 99972
+    },
+    {
+      "period": "2026-09",
+      "views": 7377
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 180809
+      "views": 188186
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Czarface",
   "description": "American hip hop supergroup",
   "image": "",
-  "total": 60308,
+  "total": 76384,
   "monthly": [
     {
       "period": "2021-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 48827
+    },
+    {
+      "period": "2026-09",
+      "views": 16076
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 48827
+      "views": 64903
     }
   ]
 }

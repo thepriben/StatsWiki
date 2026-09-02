@@ -4,7 +4,7 @@
   "title": "Jane_Fonda",
   "description": "American actress and activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_Fonda_1963.jpg?width=64",
-  "total": 16176697,
+  "total": 16192545,
   "monthly": [
     {
       "period": "2015-07",
@@ -417,6 +417,10 @@
     {
       "period": "2026-08",
       "views": 170831
+    },
+    {
+      "period": "2026-09",
+      "views": 15848
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 884255
+      "views": 900103
     }
   ]
 }

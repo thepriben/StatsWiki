@@ -4,7 +4,7 @@
   "title": "Ian_McKellen",
   "description": "British actor (born 1939)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/McKellenRichmnd040219-5_%2846275370484%29_%28cropped%29.jpg?width=64",
-  "total": 3912531,
+  "total": 3922725,
   "monthly": [
     {
       "period": "2015-07",
@@ -265,6 +265,10 @@
     {
       "period": "2026-08",
       "views": 228869
+    },
+    {
+      "period": "2026-09",
+      "views": 10194
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 548386
+      "views": 558580
     }
   ]
 }

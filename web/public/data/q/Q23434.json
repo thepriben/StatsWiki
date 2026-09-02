@@ -4,7 +4,7 @@
   "title": "Ernest_Hemingway",
   "description": "American author and journalist (1899–1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ErnestHemingway.jpg?width=64",
-  "total": 7591329,
+  "total": 7598963,
   "monthly": [
     {
       "period": "2015-07",
@@ -325,6 +325,10 @@
     {
       "period": "2026-08",
       "views": 26068
+    },
+    {
+      "period": "2026-09",
+      "views": 7634
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 90819
+      "views": 98453
     }
   ]
 }

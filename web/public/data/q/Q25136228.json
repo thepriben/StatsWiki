@@ -4,7 +4,7 @@
   "title": "Annihilation_(film)",
   "description": "2018 film directed by Alex Garland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annihi.png?width=64",
-  "total": 5842476,
+  "total": 5853193,
   "monthly": [
     {
       "period": "2017-09",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 34832
+    },
+    {
+      "period": "2026-09",
+      "views": 10717
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 34832
+      "views": 45549
     }
   ]
 }

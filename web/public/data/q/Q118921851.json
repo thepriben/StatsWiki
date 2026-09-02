@@ -4,7 +4,7 @@
   "title": "Red_Rooms",
   "description": "2023 drama film by Pascal Plante",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_Chambres_rouges_%E2%80%94_Logo.png?width=64",
-  "total": 58475,
+  "total": 66610,
   "monthly": [
     {
       "period": "2024-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 14427
+    },
+    {
+      "period": "2026-09",
+      "views": 8135
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 23603
+      "views": 31738
     }
   ]
 }

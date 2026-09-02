@@ -4,7 +4,7 @@
   "title": "Harry_Potter_(TV_series)",
   "description": "upcoming HBO TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Potter_TV_series_logo.png?width=64",
-  "total": 712067,
+  "total": 722652,
   "monthly": [
     {
       "period": "2025-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 90431
+    },
+    {
+      "period": "2026-09",
+      "views": 10585
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 614282
+      "views": 624867
     }
   ]
 }

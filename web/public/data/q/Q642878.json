@@ -4,7 +4,7 @@
   "title": "Marvel_Cinematic_Universe",
   "description": "media franchise and shared universe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvel_Cinematic_Universe_logo.png?width=64",
-  "total": 63036302,
+  "total": 63048002,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-08",
       "views": 709093
+    },
+    {
+      "period": "2026-09",
+      "views": 11700
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 1358741
+      "views": 1370441
     }
   ]
 }

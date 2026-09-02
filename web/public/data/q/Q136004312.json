@@ -4,17 +4,21 @@
   "title": "Payton_Tolle",
   "description": "American baseball player (born 2002)",
   "image": "",
-  "total": 13214,
+  "total": 22147,
   "monthly": [
     {
       "period": "2026-08",
       "views": 13214
+    },
+    {
+      "period": "2026-09",
+      "views": 8933
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 13214
+      "views": 22147
     }
   ]
 }
