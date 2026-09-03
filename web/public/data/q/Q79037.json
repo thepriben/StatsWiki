@@ -4,7 +4,7 @@
   "title": "Spider-Man",
   "description": "fictional character in Marvel Comics",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madame_Tussauds_London_-_Spider-Man_statue.jpg?width=64",
-  "total": 8075781,
+  "total": 8090225,
   "monthly": [
     {
       "period": "2015-07",
@@ -201,6 +201,10 @@
     {
       "period": "2026-08",
       "views": 446926
+    },
+    {
+      "period": "2026-09",
+      "views": 14444
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 551730
+      "views": 566174
     }
   ]
 }

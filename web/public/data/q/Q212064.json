@@ -4,7 +4,7 @@
   "title": "Channing_Tatum",
   "description": "American actor, dancer and model (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Channing_Tatum_%2835732523270%29_%28cropped%29.jpg?width=64",
-  "total": 17549774,
+  "total": 17560253,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-08",
       "views": 25773
+    },
+    {
+      "period": "2026-09",
+      "views": 10479
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 372394
+      "views": 382873
     }
   ]
 }

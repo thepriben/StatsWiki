@@ -1,0 +1,48 @@
+{
+  "qid": "Q112957924",
+  "label": "Ted",
+  "title": "Ted_(TV_series)",
+  "description": "US television series",
+  "image": "",
+  "total": 1410136,
+  "monthly": [
+    {
+      "period": "2023-11",
+      "views": 10730
+    },
+    {
+      "period": "2024-01",
+      "views": 722042
+    },
+    {
+      "period": "2024-02",
+      "views": 195392
+    },
+    {
+      "period": "2026-03",
+      "views": 439821
+    },
+    {
+      "period": "2026-04",
+      "views": 34746
+    },
+    {
+      "period": "2026-09",
+      "views": 7405
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 10730
+    },
+    {
+      "period": "2024",
+      "views": 917434
+    },
+    {
+      "period": "2026",
+      "views": 481972
+    }
+  ]
+}

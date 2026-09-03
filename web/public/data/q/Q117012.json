@@ -4,7 +4,7 @@
   "title": "Yoko_Ono",
   "description": "Japanese artist and activist based in the United States (born 1933)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yokoono2.jpg?width=64",
-  "total": 2945043,
+  "total": 2964632,
   "monthly": [
     {
       "period": "2015-07",
@@ -277,6 +277,10 @@
     {
       "period": "2026-08",
       "views": 9450
+    },
+    {
+      "period": "2026-09",
+      "views": 19589
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 48227
+      "views": 67816
     }
   ]
 }

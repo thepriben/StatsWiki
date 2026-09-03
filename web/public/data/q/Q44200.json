@@ -4,7 +4,7 @@
   "title": "Billy_the_Kid",
   "description": "American outlaw and gunfighter (1859–1881)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Billy_the_Kid_corrected.jpg?width=64",
-  "total": 2436508,
+  "total": 2450907,
   "monthly": [
     {
       "period": "2015-09",
@@ -153,6 +153,10 @@
     {
       "period": "2026-07",
       "views": 108938
+    },
+    {
+      "period": "2026-09",
+      "views": 14399
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 108938
+      "views": 123337
     }
   ]
 }

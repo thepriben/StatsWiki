@@ -4,7 +4,7 @@
   "title": "Sons_of_Anarchy",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-de-la-serie-sons-of-anarchy.jpg?width=64",
-  "total": 2377613,
+  "total": 2385540,
   "monthly": [
     {
       "period": "2015-07",
@@ -73,6 +73,10 @@
     {
       "period": "2020-08",
       "views": 51756
+    },
+    {
+      "period": "2026-09",
+      "views": 7927
     }
   ],
   "yearly": [
@@ -95,6 +99,10 @@
     {
       "period": "2020",
       "views": 162956
+    },
+    {
+      "period": "2026",
+      "views": 7927
     }
   ]
 }

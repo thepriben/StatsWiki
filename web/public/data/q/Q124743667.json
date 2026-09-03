@@ -4,17 +4,21 @@
   "title": "Mayday_(2026_film)",
   "description": "upcoming film directed by Jonathan Goldstein and John Francis Daley",
   "image": "",
-  "total": 28677,
+  "total": 36382,
   "monthly": [
     {
       "period": "2026-07",
       "views": 28677
+    },
+    {
+      "period": "2026-09",
+      "views": 7705
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 28677
+      "views": 36382
     }
   ]
 }

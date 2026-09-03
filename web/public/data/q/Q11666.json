@@ -4,7 +4,7 @@
   "title": "Maria_Sharapova",
   "description": "Russian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharapova2016.jpg?width=64",
-  "total": 5250462,
+  "total": 5257960,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 93954
+    },
+    {
+      "period": "2026-09",
+      "views": 7498
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 164103
+      "views": 171601
     }
   ]
 }

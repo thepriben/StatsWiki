@@ -2,9 +2,9 @@
   "qid": "Q22686",
   "label": "Donald Trump",
   "title": "Donald_Trump",
-  "description": "American businessman and politician (born 1947); President of the United States (2017–2021; since 2025)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg?width=64",
-  "total": 293416667,
+  "description": "45th & 47th President of the United States (2017–2021; 2025–)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?width=64",
+  "total": 293450056,
   "monthly": [
     {
       "period": "2015-07",
@@ -544,7 +544,7 @@
     },
     {
       "period": "2026-09",
-      "views": 30502
+      "views": 63891
     }
   ],
   "yearly": [
@@ -594,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 14249463
+      "views": 14282852
     }
   ]
 }

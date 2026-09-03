@@ -4,17 +4,21 @@
   "title": "Quinten_Timber",
   "description": "Dutch footballer (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quinten_Timber.jpg?width=64",
-  "total": 40773,
+  "total": 53642,
   "monthly": [
     {
       "period": "2026-06",
       "views": 40773
+    },
+    {
+      "period": "2026-09",
+      "views": 12869
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 40773
+      "views": 53642
     }
   ]
 }

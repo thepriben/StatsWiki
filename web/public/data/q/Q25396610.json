@@ -4,7 +4,7 @@
   "title": "XXX_(video_game)",
   "description": "2002 action video game developped by Digital Eclipse",
   "image": "",
-  "total": 1288074,
+  "total": 1296080,
   "monthly": [
     {
       "period": "2023-06",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 52347
+    },
+    {
+      "period": "2026-09",
+      "views": 8006
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 60190
+      "views": 68196
     }
   ]
 }

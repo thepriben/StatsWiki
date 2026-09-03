@@ -4,7 +4,7 @@
   "title": "Sunderland_A.F.C.",
   "description": "association football club in Sunderland, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stadium_of_Light_sunderland_crest.jpg?width=64",
-  "total": 2405727,
+  "total": 2413200,
   "monthly": [
     {
       "period": "2015-10",
@@ -145,6 +145,10 @@
     {
       "period": "2026-06",
       "views": 10071
+    },
+    {
+      "period": "2026-09",
+      "views": 7473
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 63678
+      "views": 71151
     }
   ]
 }

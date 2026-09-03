@@ -4,7 +4,7 @@
   "title": "David_Alaba",
   "description": "Austrian footballer (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?width=64",
-  "total": 1177897,
+  "total": 1185954,
   "monthly": [
     {
       "period": "2015-11",
@@ -89,6 +89,10 @@
     {
       "period": "2026-07",
       "views": 65621
+    },
+    {
+      "period": "2026-09",
+      "views": 8057
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 224786
+      "views": 232843
     }
   ]
 }

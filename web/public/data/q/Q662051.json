@@ -4,7 +4,7 @@
   "title": "Carrington_Event",
   "description": "geomagnetic solar storm",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrington_Richard_drawing_of_1859_sunspots.jpeg?width=64",
-  "total": 601019,
+  "total": 608513,
   "monthly": [
     {
       "period": "2015-07",
@@ -72,7 +72,7 @@
     },
     {
       "period": "2026-09",
-      "views": 10102
+      "views": 17596
     }
   ],
   "yearly": [
@@ -98,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 58638
+      "views": 66132
     }
   ]
 }

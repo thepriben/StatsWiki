@@ -4,7 +4,7 @@
   "title": "Domhnall_Gleeson",
   "description": "Irish actor (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Domhnall_Gleeson_-_Walk_of_Fame.jpg?width=64",
-  "total": 3429782,
+  "total": 3438265,
   "monthly": [
     {
       "period": "2015-07",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 13386
+    },
+    {
+      "period": "2026-09",
+      "views": 8483
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 195865
+      "views": 204348
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Child_cannibalism",
   "description": "act of eating a child",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saturn_devouring_his_Son_by_Giambattista_Tiepolo.jpg?width=64",
-  "total": 16385,
+  "total": 89638,
   "monthly": [
     {
       "period": "2026-08",
       "views": 16385
+    },
+    {
+      "period": "2026-09",
+      "views": 73253
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 16385
+      "views": 89638
     }
   ]
 }

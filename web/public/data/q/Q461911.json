@@ -1,0 +1,52 @@
+{
+  "qid": "Q461911",
+  "label": "Swissair Flight 111",
+  "title": "Swissair_Flight_111",
+  "description": "Aviation accident in 1998",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/28as_-_Swissair_MD-11%3B_HB-IWF%40ZRH%3B14.07.1998_%284713082874%29.jpg?width=64",
+  "total": 124752,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 24179
+    },
+    {
+      "period": "2018-09",
+      "views": 38089
+    },
+    {
+      "period": "2020-09",
+      "views": 22476
+    },
+    {
+      "period": "2023-09",
+      "views": 15582
+    },
+    {
+      "period": "2026-09",
+      "views": 24426
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 24179
+    },
+    {
+      "period": "2018",
+      "views": 38089
+    },
+    {
+      "period": "2020",
+      "views": 22476
+    },
+    {
+      "period": "2023",
+      "views": 15582
+    },
+    {
+      "period": "2026",
+      "views": 24426
+    }
+  ]
+}

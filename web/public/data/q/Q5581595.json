@@ -4,7 +4,7 @@
   "title": "Gone_Tomorrow",
   "description": "2009 novel by Lee Child",
   "image": "",
-  "total": 183148,
+  "total": 190987,
   "monthly": [
     {
       "period": "2025-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 144282
+    },
+    {
+      "period": "2026-09",
+      "views": 7839
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 144282
+      "views": 152121
     }
   ]
 }

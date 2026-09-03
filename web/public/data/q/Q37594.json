@@ -4,7 +4,7 @@
   "title": "William_the_Conqueror",
   "description": "King of England from 1066 to 1087, Duke of Normandy from 1035 to 1087 (1028–1087)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux_Tapestry_William.jpg?width=64",
-  "total": 2236954,
+  "total": 2245343,
   "monthly": [
     {
       "period": "2015-08",
@@ -141,6 +141,10 @@
     {
       "period": "2026-07",
       "views": 22627
+    },
+    {
+      "period": "2026-09",
+      "views": 8389
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 31216
+      "views": 39605
     }
   ]
 }

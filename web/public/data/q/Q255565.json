@@ -4,7 +4,7 @@
   "title": "Carol_Burnett",
   "description": "American actress, comedian and singer (born 1933)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carol_Burnett_2014.jpg?width=64",
-  "total": 5175933,
+  "total": 5186081,
   "monthly": [
     {
       "period": "2015-09",
@@ -233,6 +233,10 @@
     {
       "period": "2026-08",
       "views": 61340
+    },
+    {
+      "period": "2026-09",
+      "views": 10148
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 169602
+      "views": 179750
     }
   ]
 }

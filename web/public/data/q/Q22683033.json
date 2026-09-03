@@ -4,7 +4,7 @@
   "title": "Yves_Bissouma",
   "description": "Malian-Ivorian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bissouma_2018.jpg?width=64",
-  "total": 223109,
+  "total": 231222,
   "monthly": [
     {
       "period": "2021-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 10417
+    },
+    {
+      "period": "2026-09",
+      "views": 8113
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 10417
+      "views": 18530
     }
   ]
 }

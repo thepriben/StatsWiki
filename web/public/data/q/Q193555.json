@@ -4,7 +4,7 @@
   "title": "Brendan_Fraser",
   "description": "Canadian-American actor (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brendan_Fraser_October_2022.jpg?width=64",
-  "total": 16494955,
+  "total": 16509296,
   "monthly": [
     {
       "period": "2015-11",
@@ -361,6 +361,10 @@
     {
       "period": "2026-06",
       "views": 42310
+    },
+    {
+      "period": "2026-09",
+      "views": 14341
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 743956
+      "views": 758297
     }
   ]
 }

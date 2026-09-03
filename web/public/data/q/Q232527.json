@@ -4,7 +4,7 @@
   "title": "Kathleen_Robertson",
   "description": "Canadian actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KathleenRobertson10TIFF.jpg?width=64",
-  "total": 230327,
+  "total": 240906,
   "monthly": [
     {
       "period": "2019-03",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 172674
+    },
+    {
+      "period": "2026-09",
+      "views": 10579
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 195788
+      "views": 206367
     }
   ]
 }

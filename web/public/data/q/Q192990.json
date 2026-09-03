@@ -4,7 +4,7 @@
   "title": "Guy_Ritchie",
   "description": "English filmmaker (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GuyRitchiebyKathyHutchins.jpg?width=64",
-  "total": 4208713,
+  "total": 4216091,
   "monthly": [
     {
       "period": "2015-07",
@@ -173,6 +173,10 @@
     {
       "period": "2026-08",
       "views": 80670
+    },
+    {
+      "period": "2026-09",
+      "views": 7378
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 292183
+      "views": 299561
     }
   ]
 }

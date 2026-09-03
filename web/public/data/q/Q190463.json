@@ -4,7 +4,7 @@
   "title": "Lagrange_point",
   "description": "one of five positions in an orbital configuration of two large bodies where a small object can maintain a stable relative position",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagrange_points.jpg?width=64",
-  "total": 299476,
+  "total": 307202,
   "monthly": [
     {
       "period": "2021-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 22929
+    },
+    {
+      "period": "2026-09",
+      "views": 7726
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 22929
+      "views": 30655
     }
   ]
 }

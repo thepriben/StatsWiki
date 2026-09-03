@@ -4,7 +4,7 @@
   "title": "Errol_Flynn",
   "description": "Australian actor (1909–1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Errol_Flynn1.jpg?width=64",
-  "total": 811103,
+  "total": 823306,
   "monthly": [
     {
       "period": "2015-08",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 8028
+    },
+    {
+      "period": "2026-09",
+      "views": 12203
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 23163
+      "views": 35366
     }
   ]
 }

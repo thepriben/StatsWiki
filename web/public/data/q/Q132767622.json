@@ -4,7 +4,7 @@
   "title": "2026_United_States_House_of_Representatives_elections",
   "description": "house elections for the 120th U.S. Congress",
   "image": "",
-  "total": 1098746,
+  "total": 1106806,
   "monthly": [
     {
       "period": "2025-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 76515
+    },
+    {
+      "period": "2026-09",
+      "views": 8060
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 835060
+      "views": 843120
     }
   ]
 }

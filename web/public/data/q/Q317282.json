@@ -4,7 +4,7 @@
   "title": "Enzo_Maresca",
   "description": "Italian football manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg?width=64",
-  "total": 2128905,
+  "total": 2137243,
   "monthly": [
     {
       "period": "2021-03",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 175001
+    },
+    {
+      "period": "2026-09",
+      "views": 8338
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 804250
+      "views": 812588
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Dancing_with_the_Stars_(American_TV_series)_season_34",
   "description": "season of American television series",
   "image": "",
-  "total": 3331977,
+  "total": 3350302,
   "monthly": [
     {
       "period": "2025-08",
@@ -25,12 +25,20 @@
     {
       "period": "2025-12",
       "views": 29313
+    },
+    {
+      "period": "2026-09",
+      "views": 18325
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 3331977
+    },
+    {
+      "period": "2026",
+      "views": 18325
     }
   ]
 }

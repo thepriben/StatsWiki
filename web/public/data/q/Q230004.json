@@ -4,7 +4,7 @@
   "title": "Rosamund_Pike",
   "description": "English actress (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RosamundPike10TIFF.jpg?width=64",
-  "total": 8886690,
+  "total": 8895360,
   "monthly": [
     {
       "period": "2015-07",
@@ -393,6 +393,10 @@
     {
       "period": "2026-07",
       "views": 39127
+    },
+    {
+      "period": "2026-09",
+      "views": 8670
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 564967
+      "views": 573637
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Donald_Trump_Jr.",
   "description": "American businessman and reality television personality (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald_Trump%2C_Jr._%2853808883476%29_%28cropped%29.jpg?width=64",
-  "total": 14421879,
+  "total": 14436001,
   "monthly": [
     {
       "period": "2015-08",
@@ -285,6 +285,10 @@
     {
       "period": "2026-06",
       "views": 23031
+    },
+    {
+      "period": "2026-09",
+      "views": 14122
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 792659
+      "views": 806781
     }
   ]
 }

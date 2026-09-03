@@ -4,7 +4,7 @@
   "title": "Static_cling",
   "description": "electromechanical phenomenon",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg?width=64",
-  "total": 231827,
+  "total": 240938,
   "monthly": [
     {
       "period": "2020-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 33104
+    },
+    {
+      "period": "2026-09",
+      "views": 9111
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 75328
+      "views": 84439
     }
   ]
 }

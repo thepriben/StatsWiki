@@ -1,10 +1,10 @@
 {
   "qid": "Q7186",
-  "label": "Marie Sklodowska-Curie",
+  "label": "Marie Curie",
   "title": "Marie_Curie",
-  "description": "Polish-French physicist and chemist (1867–1934)",
+  "description": "Polish-born French physicist and chemist (1867–1934)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie_Curie_%281900%29_%28cropped%29.jpg?width=64",
-  "total": 6859304,
+  "total": 6880241,
   "monthly": [
     {
       "period": "2015-08",
@@ -373,6 +373,10 @@
     {
       "period": "2026-06",
       "views": 15873
+    },
+    {
+      "period": "2026-09",
+      "views": 20937
     }
   ],
   "yearly": [
@@ -422,7 +426,7 @@
     },
     {
       "period": "2026",
-      "views": 75450
+      "views": 96387
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Mandalorian_and_Grogu",
   "description": "2026 film directed by Jon Favreau",
   "image": "",
-  "total": 3443213,
+  "total": 3470235,
   "monthly": [
     {
       "period": "2025-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 108656
+    },
+    {
+      "period": "2026-09",
+      "views": 27022
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 3391847
+      "views": 3418869
     }
   ]
 }

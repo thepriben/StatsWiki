@@ -4,7 +4,7 @@
   "title": "Dennis_Quaid",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Quaid_2020_by_Glenn_Francis.jpg?width=64",
-  "total": 6432075,
+  "total": 6441608,
   "monthly": [
     {
       "period": "2015-10",
@@ -309,6 +309,10 @@
     {
       "period": "2026-08",
       "views": 11195
+    },
+    {
+      "period": "2026-09",
+      "views": 9533
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 334420
+      "views": 343953
     }
   ]
 }

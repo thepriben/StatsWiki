@@ -4,7 +4,7 @@
   "title": "Charlotte_Riley",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte_Riley_May_28%2C_2014_%28cropped%29.jpg?width=64",
-  "total": 1340072,
+  "total": 1350684,
   "monthly": [
     {
       "period": "2015-09",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 59141
+    },
+    {
+      "period": "2026-09",
+      "views": 10612
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 154772
+      "views": 165384
     }
   ]
 }

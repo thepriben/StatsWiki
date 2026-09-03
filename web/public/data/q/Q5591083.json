@@ -4,7 +4,7 @@
   "title": "Grace_Dent",
   "description": "English columnist, broadcaster and author",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grace_Dent%2C_at_Otto%27s_2017_%28cropped%29.jpg?width=64",
-  "total": 918150,
+  "total": 925584,
   "monthly": [
     {
       "period": "2016-12",
@@ -109,6 +109,10 @@
     {
       "period": "2026-08",
       "views": 33860
+    },
+    {
+      "period": "2026-09",
+      "views": 7434
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 118012
+      "views": 125446
     }
   ]
 }
