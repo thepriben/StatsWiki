@@ -4,7 +4,7 @@
   "title": "Lake_Ontario",
   "description": "one of the Great Lakes in North America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS-36_Lake_Ontario_%28horizontal%29.jpg?width=64",
-  "total": 1000765,
+  "total": 1032245,
   "monthly": [
     {
       "period": "2026-08",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-09",
-      "views": 107783
+      "views": 139263
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1000765
+      "views": 1032245
     }
   ]
 }

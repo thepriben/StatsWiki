@@ -4,7 +4,7 @@
   "title": "Phil_Hartman",
   "description": "Canadian-American actor, comedian, screenwriter (1948-1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phil_as_Chick-1-1.jpg?width=64",
-  "total": 3899692,
+  "total": 3907579,
   "monthly": [
     {
       "period": "2015-07",
@@ -281,6 +281,10 @@
     {
       "period": "2026-06",
       "views": 8859
+    },
+    {
+      "period": "2026-09",
+      "views": 7887
     }
   ],
   "yearly": [
@@ -330,7 +334,7 @@
     },
     {
       "period": "2026",
-      "views": 89755
+      "views": 97642
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Wu_Yibing",
   "description": "Chinese tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg?width=64",
-  "total": 100186,
+  "total": 107949,
   "monthly": [
     {
       "period": "2022-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 55484
+    },
+    {
+      "period": "2026-09",
+      "views": 7763
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 55484
+      "views": 63247
     }
   ]
 }

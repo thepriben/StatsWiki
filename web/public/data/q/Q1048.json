@@ -4,7 +4,7 @@
   "title": "Julius_Caesar",
   "description": "Roman general and dictator",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?width=64",
-  "total": 16649650,
+  "total": 16656917,
   "monthly": [
     {
       "period": "2015-07",
@@ -493,6 +493,10 @@
     {
       "period": "2026-07",
       "views": 7992
+    },
+    {
+      "period": "2026-09",
+      "views": 7267
     }
   ],
   "yearly": [
@@ -542,7 +546,7 @@
     },
     {
       "period": "2026",
-      "views": 317568
+      "views": 324835
     }
   ]
 }

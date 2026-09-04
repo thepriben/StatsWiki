@@ -2,9 +2,9 @@
   "qid": "Q5107190",
   "label": "Chris Langham",
   "title": "Chris_Langham",
-  "description": "English writer, actor and comedian (born 1949)",
+  "description": "English writer, actor and comedian (1949-2026)",
   "image": "",
-  "total": 42596,
+  "total": 137477,
   "monthly": [
     {
       "period": "2021-02",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 9152
+    },
+    {
+      "period": "2026-09",
+      "views": 94881
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 9152
+      "views": 104033
     }
   ]
 }

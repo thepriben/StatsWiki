@@ -4,17 +4,21 @@
   "title": "Josephine_(2026_film)",
   "description": "2026 film directed by Beth de Araújo",
   "image": "",
-  "total": 18331,
+  "total": 25832,
   "monthly": [
     {
       "period": "2026-08",
       "views": 18331
+    },
+    {
+      "period": "2026-09",
+      "views": 7501
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 18331
+      "views": 25832
     }
   ]
 }

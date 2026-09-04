@@ -4,7 +4,7 @@
   "title": "Tig_Notaro",
   "description": "American stand-up comic, writer, podcaster, and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tig_Notaro_Come_See_Me_In_The_Good_Light-12.jpg?width=64",
-  "total": 1773520,
+  "total": 1787104,
   "monthly": [
     {
       "period": "2015-07",
@@ -145,6 +145,10 @@
     {
       "period": "2026-08",
       "views": 8785
+    },
+    {
+      "period": "2026-09",
+      "views": 13584
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 135141
+      "views": 148725
     }
   ]
 }

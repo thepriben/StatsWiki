@@ -4,7 +4,7 @@
   "title": "Zidane_Iqbal",
   "description": "association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zidane_Iqbal_debut.jpg?width=64",
-  "total": 319200,
+  "total": 326703,
   "monthly": [
     {
       "period": "2021-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 85087
+    },
+    {
+      "period": "2026-09",
+      "views": 7503
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 85087
+      "views": 92590
     }
   ]
 }

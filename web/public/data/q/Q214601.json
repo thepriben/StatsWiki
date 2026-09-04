@@ -4,7 +4,7 @@
   "title": "David_Tennant",
   "description": "Scottish actor (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Tennant_-_Los_Angeles_Comic_Con_2025.jpg?width=64",
-  "total": 5454512,
+  "total": 5462030,
   "monthly": [
     {
       "period": "2015-10",
@@ -261,6 +261,10 @@
     {
       "period": "2026-06",
       "views": 37770
+    },
+    {
+      "period": "2026-09",
+      "views": 7518
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 109915
+      "views": 117433
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Ceuta",
   "description": "Spanish autonomous city in northwestern Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceuta_desde_el_mirador_de_Isabel_II_banner_%28cropped%29.jpg?width=64",
-  "total": 1586534,
+  "total": 1594602,
   "monthly": [
     {
       "period": "2016-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 635248
+    },
+    {
+      "period": "2026-09",
+      "views": 8068
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 1315902
+      "views": 1323970
     }
   ]
 }

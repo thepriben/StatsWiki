@@ -4,7 +4,7 @@
   "title": "Dimethylmercury",
   "description": "chemical compound",
   "image": "",
-  "total": 221978,
+  "total": 230592,
   "monthly": [
     {
       "period": "2015-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 128810
+    },
+    {
+      "period": "2026-09",
+      "views": 8614
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 128810
+      "views": 137424
     }
   ]
 }

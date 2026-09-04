@@ -4,7 +4,7 @@
   "title": "Stefanos_Tsitsipas",
   "description": "Greek tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg?width=64",
-  "total": 3687013,
+  "total": 3695927,
   "monthly": [
     {
       "period": "2018-04",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 13509
+    },
+    {
+      "period": "2026-09",
+      "views": 8914
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 92051
+      "views": 100965
     }
   ]
 }

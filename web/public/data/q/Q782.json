@@ -4,7 +4,7 @@
   "title": "Hawaii",
   "description": "state of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawaje-NoRedLine.jpg?width=64",
-  "total": 6620031,
+  "total": 6627567,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-08",
       "views": 130674
+    },
+    {
+      "period": "2026-09",
+      "views": 7536
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 532123
+      "views": 539659
     }
   ]
 }

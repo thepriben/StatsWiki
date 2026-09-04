@@ -4,7 +4,7 @@
   "title": "Jerry_Sandusky",
   "description": "American criminal",
   "image": "",
-  "total": 1152686,
+  "total": 1160985,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 29108
+    },
+    {
+      "period": "2026-09",
+      "views": 8299
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 29108
+      "views": 37407
     }
   ]
 }

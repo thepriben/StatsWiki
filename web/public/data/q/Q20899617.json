@@ -4,7 +4,7 @@
   "title": "Taskmaster_(TV_series)",
   "description": "British comedy panel game show",
   "image": "",
-  "total": 1560705,
+  "total": 1570535,
   "monthly": [
     {
       "period": "2020-10",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 34718
+    },
+    {
+      "period": "2026-09",
+      "views": 9830
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 241439
+      "views": 251269
     }
   ]
 }

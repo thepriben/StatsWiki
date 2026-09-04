@@ -4,7 +4,7 @@
   "title": "OpenAI",
   "description": "American artificial intelligence research organization",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg?width=64",
-  "total": 11519080,
+  "total": 11527330,
   "monthly": [
     {
       "period": "2018-02",
@@ -181,6 +181,10 @@
     {
       "period": "2026-07",
       "views": 16869
+    },
+    {
+      "period": "2026-09",
+      "views": 8250
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 460740
+      "views": 468990
     }
   ]
 }

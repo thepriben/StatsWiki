@@ -4,7 +4,7 @@
   "title": "Into_the_Jaws_of_Death",
   "description": "item in the National Archives and Records Administration's holdings",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg?width=64",
-  "total": 258895,
+  "total": 287556,
   "monthly": [
     {
       "period": "2019-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 16923
+    },
+    {
+      "period": "2026-09",
+      "views": 28661
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 16923
+      "views": 45584
     }
   ]
 }

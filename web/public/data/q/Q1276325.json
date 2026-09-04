@@ -4,7 +4,7 @@
   "title": "Resident_Evil_(film_series)",
   "description": "film series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Resident_evil_outbreak_logo1.PNG?width=64",
-  "total": 3351095,
+  "total": 3358752,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-07",
       "views": 28032
+    },
+    {
+      "period": "2026-09",
+      "views": 7657
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 86352
+      "views": 94009
     }
   ]
 }

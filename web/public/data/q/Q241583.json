@@ -4,7 +4,7 @@
   "title": "Bret_Easton_Ellis",
   "description": "American novelist, screenwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ellis.jpg?width=64",
-  "total": 298934,
+  "total": 306042,
   "monthly": [
     {
       "period": "2019-04",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 275993
+    },
+    {
+      "period": "2026-09",
+      "views": 7108
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 275993
+      "views": 283101
     }
   ]
 }

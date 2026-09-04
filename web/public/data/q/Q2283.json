@@ -4,7 +4,7 @@
   "title": "Microsoft",
   "description": "American multinational technology corporation",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_Microsoft_West_Campus_August_2009.jpg?width=64",
-  "total": 7463833,
+  "total": 7471098,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-08",
       "views": 8445
+    },
+    {
+      "period": "2026-09",
+      "views": 7265
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 37680
+      "views": 44945
     }
   ]
 }

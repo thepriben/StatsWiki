@@ -4,7 +4,7 @@
   "title": "Terry_Crews",
   "description": "American actor, television host, and American football player (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Terry_Crews_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 7051275,
+  "total": 7061117,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-08",
       "views": 10330
+    },
+    {
+      "period": "2026-09",
+      "views": 9842
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 141001
+      "views": 150843
     }
   ]
 }

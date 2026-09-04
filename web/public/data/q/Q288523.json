@@ -1,0 +1,40 @@
+{
+  "qid": "Q288523",
+  "label": "Acme Corporation",
+  "title": "Acme_Corporation",
+  "description": "fictional company",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Acme-corp.png?width=64",
+  "total": 65290,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 9913
+    },
+    {
+      "period": "2018-10",
+      "views": 27855
+    },
+    {
+      "period": "2026-04",
+      "views": 20042
+    },
+    {
+      "period": "2026-09",
+      "views": 7480
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9913
+    },
+    {
+      "period": "2018",
+      "views": 27855
+    },
+    {
+      "period": "2026",
+      "views": 27522
+    }
+  ]
+}

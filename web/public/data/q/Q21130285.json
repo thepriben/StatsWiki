@@ -4,7 +4,7 @@
   "title": "Marcos_Llorente",
   "description": "Spanish association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcos_Llorente_2019.jpg?width=64",
-  "total": 337945,
+  "total": 345483,
   "monthly": [
     {
       "period": "2019-06",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 59108
+    },
+    {
+      "period": "2026-09",
+      "views": 7538
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 85716
+      "views": 93254
     }
   ]
 }

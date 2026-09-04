@@ -4,7 +4,7 @@
   "title": "Anthony_Michael_Hall",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Michael_Hall_%2853614393757%29.jpg?width=64",
-  "total": 1329767,
+  "total": 1338467,
   "monthly": [
     {
       "period": "2015-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-08",
       "views": 11012
+    },
+    {
+      "period": "2026-09",
+      "views": 8700
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 21066
+      "views": 29766
     }
   ]
 }

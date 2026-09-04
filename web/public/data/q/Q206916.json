@@ -4,7 +4,7 @@
   "title": "Sophia_Bush",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophia_Buh_Collision_Conf_2018_03_%28cropped%29.jpg?width=64",
-  "total": 2427862,
+  "total": 2437689,
   "monthly": [
     {
       "period": "2015-09",
@@ -189,6 +189,10 @@
     {
       "period": "2026-07",
       "views": 16677
+    },
+    {
+      "period": "2026-09",
+      "views": 9827
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 131394
+      "views": 141221
     }
   ]
 }

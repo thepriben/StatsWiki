@@ -1,0 +1,100 @@
+{
+  "qid": "Q976396",
+  "label": "Los Angeles Clippers",
+  "title": "Los_Angeles_Clippers",
+  "description": "American professional basketball team",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_san_diego_clippers_1982_bis_1984.png?width=64",
+  "total": 492488,
+  "monthly": [
+    {
+      "period": "2018-01",
+      "views": 13335
+    },
+    {
+      "period": "2019-07",
+      "views": 168658
+    },
+    {
+      "period": "2019-10",
+      "views": 30880
+    },
+    {
+      "period": "2019-12",
+      "views": 20470
+    },
+    {
+      "period": "2020-09",
+      "views": 31489
+    },
+    {
+      "period": "2021-06",
+      "views": 110081
+    },
+    {
+      "period": "2021-07",
+      "views": 18846
+    },
+    {
+      "period": "2023-10",
+      "views": 14573
+    },
+    {
+      "period": "2023-11",
+      "views": 10591
+    },
+    {
+      "period": "2024-02",
+      "views": 26410
+    },
+    {
+      "period": "2024-06",
+      "views": 10769
+    },
+    {
+      "period": "2024-10",
+      "views": 14928
+    },
+    {
+      "period": "2025-05",
+      "views": 8564
+    },
+    {
+      "period": "2026-09",
+      "views": 12894
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 13335
+    },
+    {
+      "period": "2019",
+      "views": 220008
+    },
+    {
+      "period": "2020",
+      "views": 31489
+    },
+    {
+      "period": "2021",
+      "views": 128927
+    },
+    {
+      "period": "2023",
+      "views": 25164
+    },
+    {
+      "period": "2024",
+      "views": 52107
+    },
+    {
+      "period": "2025",
+      "views": 8564
+    },
+    {
+      "period": "2026",
+      "views": 12894
+    }
+  ]
+}

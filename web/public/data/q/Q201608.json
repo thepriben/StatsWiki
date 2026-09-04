@@ -4,7 +4,7 @@
   "title": "Dennis_Rodman",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Rodman_ToPo.jpg?width=64",
-  "total": 8888582,
+  "total": 8902018,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-06",
       "views": 59888
+    },
+    {
+      "period": "2026-09",
+      "views": 13436
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 116083
+      "views": 129519
     }
   ]
 }

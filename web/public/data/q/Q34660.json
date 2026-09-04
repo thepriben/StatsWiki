@@ -4,7 +4,7 @@
   "title": "J._K._Rowling",
   "description": "British author and philanthropist (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/J._K._Rowling_2010.jpg?width=64",
-  "total": 11660758,
+  "total": 11669666,
   "monthly": [
     {
       "period": "2015-07",
@@ -433,6 +433,10 @@
     {
       "period": "2026-08",
       "views": 24519
+    },
+    {
+      "period": "2026-09",
+      "views": 8908
     }
   ],
   "yearly": [
@@ -482,7 +486,7 @@
     },
     {
       "period": "2026",
-      "views": 122270
+      "views": 131178
     }
   ]
 }

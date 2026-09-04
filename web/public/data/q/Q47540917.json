@@ -4,7 +4,7 @@
   "title": "Milo_Manheim",
   "description": "American actor and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milo_Manheim_2019.jpg?width=64",
-  "total": 908408,
+  "total": 918688,
   "monthly": [
     {
       "period": "2018-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 25881
+    },
+    {
+      "period": "2026-09",
+      "views": 10280
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 199641
+      "views": 209921
     }
   ]
 }

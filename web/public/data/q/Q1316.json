@@ -4,7 +4,7 @@
   "title": "Saddam_Hussein",
   "description": "Iraqi politician and revolutionary, president of Iraq from 1979 to 2003",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saddam_Hussein_in_1998.png?width=64",
-  "total": 9343902,
+  "total": 9351774,
   "monthly": [
     {
       "period": "2015-08",
@@ -361,6 +361,10 @@
     {
       "period": "2026-05",
       "views": 19275
+    },
+    {
+      "period": "2026-09",
+      "views": 7872
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 919641
+      "views": 927513
     }
   ]
 }

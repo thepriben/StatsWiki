@@ -4,7 +4,7 @@
   "title": "Maisie_Williams",
   "description": "British actress (b. 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Disrupt_SF_TechCrunch_Disrupt_San_Francisco_2019_-_Day_2_%2848838897492%29_%28cropped%29.jpg?width=64",
-  "total": 7141367,
+  "total": 7148837,
   "monthly": [
     {
       "period": "2015-07",
@@ -169,6 +169,10 @@
     {
       "period": "2026-08",
       "views": 18480
+    },
+    {
+      "period": "2026-09",
+      "views": 7470
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 28087
+      "views": 35557
     }
   ]
 }

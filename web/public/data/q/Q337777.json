@@ -4,17 +4,21 @@
   "title": "Acanthomorpha",
   "description": "superorder of fishes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blochius_longirostris.jpg?width=64",
-  "total": 12870,
+  "total": 25688,
   "monthly": [
     {
       "period": "2026-08",
       "views": 12870
+    },
+    {
+      "period": "2026-09",
+      "views": 12818
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 12870
+      "views": 25688
     }
   ]
 }

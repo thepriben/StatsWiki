@@ -4,7 +4,7 @@
   "title": "Falkland_Islands",
   "description": "archipelago in the South Atlantic Ocean, and a British Overseas Territory, disputed by Argentina",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Falkland-Islands-Terra-2011-01-23-250m.jpg?width=64",
-  "total": 2230049,
+  "total": 2238245,
   "monthly": [
     {
       "period": "2016-03",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 1242696
+    },
+    {
+      "period": "2026-09",
+      "views": 8196
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 1374394
+      "views": 1382590
     }
   ]
 }

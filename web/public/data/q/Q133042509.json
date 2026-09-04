@@ -4,7 +4,7 @@
   "title": "Star_Trek:_Strange_New_Worlds_season_4",
   "description": "season of television series",
   "image": "",
-  "total": 67817,
+  "total": 76767,
   "monthly": [
     {
       "period": "2026-07",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 23724
+    },
+    {
+      "period": "2026-09",
+      "views": 8950
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 67817
+      "views": 76767
     }
   ]
 }

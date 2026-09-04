@@ -1,0 +1,36 @@
+{
+  "qid": "Q153426",
+  "label": "Eltz Castle",
+  "title": "Eltz_Castle",
+  "description": "Castle in Germany",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg?width=64",
+  "total": 54328,
+  "monthly": [
+    {
+      "period": "2018-11",
+      "views": 26666
+    },
+    {
+      "period": "2025-10",
+      "views": 18647
+    },
+    {
+      "period": "2026-09",
+      "views": 9015
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 26666
+    },
+    {
+      "period": "2025",
+      "views": 18647
+    },
+    {
+      "period": "2026",
+      "views": 9015
+    }
+  ]
+}

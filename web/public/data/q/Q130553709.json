@@ -4,17 +4,21 @@
   "title": "Amber_Alert_(film)",
   "description": "2024 film by Kerry Bellessa",
   "image": "",
-  "total": 26775,
+  "total": 35274,
   "monthly": [
     {
       "period": "2026-08",
       "views": 26775
+    },
+    {
+      "period": "2026-09",
+      "views": 8499
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26775
+      "views": 35274
     }
   ]
 }

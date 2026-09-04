@@ -4,7 +4,7 @@
   "title": "Winona_Ryder",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Winona_Ryder-63849.jpg?width=64",
-  "total": 23784347,
+  "total": 23792450,
   "monthly": [
     {
       "period": "2015-08",
@@ -441,6 +441,10 @@
     {
       "period": "2026-08",
       "views": 18445
+    },
+    {
+      "period": "2026-09",
+      "views": 8103
     }
   ],
   "yearly": [
@@ -490,7 +494,7 @@
     },
     {
       "period": "2026",
-      "views": 1142148
+      "views": 1150251
     }
   ]
 }

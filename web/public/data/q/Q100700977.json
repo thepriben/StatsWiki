@@ -1,0 +1,32 @@
+{
+  "qid": "Q100700977",
+  "label": "United Empire",
+  "title": "United_Empire",
+  "description": "professional wrestling stable",
+  "image": "",
+  "total": 33481,
+  "monthly": [
+    {
+      "period": "2022-06",
+      "views": 13369
+    },
+    {
+      "period": "2026-04",
+      "views": 12440
+    },
+    {
+      "period": "2026-09",
+      "views": 7672
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 13369
+    },
+    {
+      "period": "2026",
+      "views": 20112
+    }
+  ]
+}
