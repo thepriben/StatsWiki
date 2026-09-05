@@ -4,7 +4,7 @@
   "title": "Spider-Noir",
   "description": "2026 American superhero television series",
   "image": "",
-  "total": 2587121,
+  "total": 2595027,
   "monthly": [
     {
       "period": "2024-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 41785
+    },
+    {
+      "period": "2026-09",
+      "views": 7906
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 2512837
+      "views": 2520743
     }
   ]
 }

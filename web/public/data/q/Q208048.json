@@ -4,7 +4,7 @@
   "title": "Band_of_Brothers_(miniseries)",
   "description": "TV mini-series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Band_of_Brothers_%E2%80%93_Wir_waren_wie_Br%C3%BCder.svg?width=64",
-  "total": 2050712,
+  "total": 2059327,
   "monthly": [
     {
       "period": "2016-05",
@@ -129,6 +129,10 @@
     {
       "period": "2026-06",
       "views": 8761
+    },
+    {
+      "period": "2026-09",
+      "views": 8615
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 44999
+      "views": 53614
     }
   ]
 }

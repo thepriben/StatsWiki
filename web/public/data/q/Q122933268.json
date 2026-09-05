@@ -4,7 +4,7 @@
   "title": "Heretic_(film)",
   "description": "2024 film directed by Scott Beck and Bryan Woods",
   "image": "",
-  "total": 5164221,
+  "total": 5175842,
   "monthly": [
     {
       "period": "2024-06",
@@ -65,6 +65,10 @@
     {
       "period": "2025-11",
       "views": 10252
+    },
+    {
+      "period": "2026-09",
+      "views": 11621
     }
   ],
   "yearly": [
@@ -75,6 +79,10 @@
     {
       "period": "2025",
       "views": 2601909
+    },
+    {
+      "period": "2026",
+      "views": 11621
     }
   ]
 }

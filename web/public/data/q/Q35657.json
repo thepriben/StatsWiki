@@ -4,7 +4,7 @@
   "title": "U.S._state",
   "description": "constituent political entity of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_USA_with_state_names.svg?width=64",
-  "total": 22029266,
+  "total": 22037237,
   "monthly": [
     {
       "period": "2016-11",
@@ -396,7 +396,7 @@
     },
     {
       "period": "2026-09",
-      "views": 23638
+      "views": 31609
     }
   ],
   "yearly": [
@@ -442,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 572858
+      "views": 580829
     }
   ]
 }

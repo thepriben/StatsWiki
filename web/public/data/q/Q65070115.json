@@ -4,7 +4,7 @@
   "title": "London_City_Lionesses",
   "description": "women association football club based in London, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/London_City_Lionesses_3_Lewes_FC_Women_1_12_03_2023-51_%2852743567149%29.jpg?width=64",
-  "total": 113353,
+  "total": 132535,
   "monthly": [
     {
       "period": "2025-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 28034
+    },
+    {
+      "period": "2026-09",
+      "views": 19182
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 36791
+      "views": 55973
     }
   ]
 }

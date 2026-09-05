@@ -4,7 +4,7 @@
   "title": "Werner_Herzog",
   "description": "German film director, producer, screenwriter, actor and opera director (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Werner_Herzog_Venice_Film_Festival_2009.jpg?width=64",
-  "total": 747653,
+  "total": 755466,
   "monthly": [
     {
       "period": "2016-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 9282
+    },
+    {
+      "period": "2026-09",
+      "views": 7813
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 22578
+      "views": 30391
     }
   ]
 }

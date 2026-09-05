@@ -1,0 +1,36 @@
+{
+  "qid": "Q27123",
+  "label": "Gall–Peters projection",
+  "title": "Gall–Peters_projection",
+  "description": "specialization of a configurable equal-area map projection",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gall%E2%80%93Peters_projection_SW.jpg?width=64",
+  "total": 70657,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 10169
+    },
+    {
+      "period": "2017-03",
+      "views": 52264
+    },
+    {
+      "period": "2026-09",
+      "views": 8224
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10169
+    },
+    {
+      "period": "2017",
+      "views": 52264
+    },
+    {
+      "period": "2026",
+      "views": 8224
+    }
+  ]
+}

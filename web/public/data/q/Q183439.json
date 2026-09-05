@@ -4,7 +4,7 @@
   "title": "Nina_Dobrev",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NinaDobrev-TIFF2025-01.png?width=64",
-  "total": 6812842,
+  "total": 6821437,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-06",
       "views": 21790
+    },
+    {
+      "period": "2026-09",
+      "views": 8595
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 222152
+      "views": 230747
     }
   ]
 }

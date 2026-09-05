@@ -2,19 +2,23 @@
   "qid": "Q2736096",
   "label": "Rukidi IV of Toro",
   "title": "Rukidi_IV_of_Tooro",
-  "description": "Omukama of Toro (1992–2026)",
+  "description": "Omukama (King) of the Kingdom of Toro in western Uganda (1992–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oyo_Nyimba_Kabamba_Iguru_Rukidi_IV.jpg?width=64",
-  "total": 216171,
+  "total": 238458,
   "monthly": [
     {
       "period": "2026-08",
       "views": 216171
+    },
+    {
+      "period": "2026-09",
+      "views": 22287
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 216171
+      "views": 238458
     }
   ]
 }

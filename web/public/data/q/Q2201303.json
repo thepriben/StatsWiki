@@ -4,7 +4,7 @@
   "title": "Deidre_Hall",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deidrehall.jpg?width=64",
-  "total": 45177,
+  "total": 54306,
   "monthly": [
     {
       "period": "2016-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 22080
+    },
+    {
+      "period": "2026-09",
+      "views": 9129
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 22080
+      "views": 31209
     }
   ]
 }

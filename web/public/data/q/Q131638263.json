@@ -4,17 +4,21 @@
   "title": "Djylian_N'Guessan",
   "description": "French association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/N%27Guessan_asse_sr_2425.png?width=64",
-  "total": 17144,
+  "total": 25016,
   "monthly": [
     {
       "period": "2026-08",
       "views": 17144
+    },
+    {
+      "period": "2026-09",
+      "views": 7872
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 17144
+      "views": 25016
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Drag_Race_México:_Latina_Royale",
   "description": "spin-off of the television series Drag Race México",
   "image": "",
-  "total": 8522,
+  "total": 17151,
   "monthly": [
     {
       "period": "2026-08",
       "views": 8522
+    },
+    {
+      "period": "2026-09",
+      "views": 8629
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8522
+      "views": 17151
     }
   ]
 }

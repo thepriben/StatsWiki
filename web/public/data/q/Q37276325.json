@@ -4,7 +4,7 @@
   "title": "Eurovision_Song_Contest_Asia",
   "description": "asian song competition",
   "image": "",
-  "total": 172815,
+  "total": 181065,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-08",
       "views": 43369
+    },
+    {
+      "period": "2026-09",
+      "views": 8250
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 172815
+      "views": 181065
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "qid": "Q141182413",
   "label": "2026 Nepal–Tibet floods",
-  "title": "2026_Nepal_floods",
+  "title": "2026_Nepal–Tibet_floods",
   "description": "2026 flooding in China and Nepal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mudslide_at_Gyirong_Port_2_%28screenshot%29.png?width=64",
-  "total": 925610,
+  "total": 967767,
   "monthly": [
     {
       "period": "2026-08",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-09",
-      "views": 168204
+      "views": 210361
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 925610
+      "views": 967767
     }
   ]
 }

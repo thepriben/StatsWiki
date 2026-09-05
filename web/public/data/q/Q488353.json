@@ -4,7 +4,7 @@
   "title": "Natalie_Imbruglia",
   "description": "Australian-British singer and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Natalie_Imbruglia_2011.jpg?width=64",
-  "total": 545049,
+  "total": 558078,
   "monthly": [
     {
       "period": "2015-07",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 8446
+    },
+    {
+      "period": "2026-09",
+      "views": 13029
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 22188
+      "views": 35217
     }
   ]
 }

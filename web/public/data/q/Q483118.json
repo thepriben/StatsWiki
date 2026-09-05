@@ -4,7 +4,7 @@
   "title": "Ben_Affleck",
   "description": "American film actor, director and screenwriter (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Affleck_on_the_Red_Carpet%2C_SXSW_2023_%28cropped%29.jpg?width=64",
-  "total": 43592941,
+  "total": 43600603,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-08",
       "views": 330562
+    },
+    {
+      "period": "2026-09",
+      "views": 7662
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1848955
+      "views": 1856617
     }
   ]
 }

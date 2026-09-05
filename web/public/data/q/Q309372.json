@@ -1,0 +1,56 @@
+{
+  "qid": "Q309372",
+  "label": "Mercator projection",
+  "title": "Mercator_projection",
+  "description": "cylindrical map projection invented by Gerardus Mercator in 1569",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_borders_mpr.png?width=64",
+  "total": 98969,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 10052
+    },
+    {
+      "period": "2017-02",
+      "views": 17741
+    },
+    {
+      "period": "2023-06",
+      "views": 19451
+    },
+    {
+      "period": "2025-01",
+      "views": 27599
+    },
+    {
+      "period": "2026-01",
+      "views": 10390
+    },
+    {
+      "period": "2026-09",
+      "views": 13736
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10052
+    },
+    {
+      "period": "2017",
+      "views": 17741
+    },
+    {
+      "period": "2023",
+      "views": 19451
+    },
+    {
+      "period": "2025",
+      "views": 27599
+    },
+    {
+      "period": "2026",
+      "views": 24126
+    }
+  ]
+}

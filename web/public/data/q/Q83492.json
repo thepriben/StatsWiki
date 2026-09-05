@@ -4,7 +4,7 @@
   "title": "Gary_Oldman",
   "description": "British actor and filmmaker (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gary_Oldman_by_Gage_Skidmore.jpg?width=64",
-  "total": 9715298,
+  "total": 9722863,
   "monthly": [
     {
       "period": "2015-07",
@@ -341,6 +341,10 @@
     {
       "period": "2026-08",
       "views": 76259
+    },
+    {
+      "period": "2026-09",
+      "views": 7565
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 318962
+      "views": 326527
     }
   ]
 }

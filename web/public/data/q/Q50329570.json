@@ -2,9 +2,9 @@
   "qid": "Q50329570",
   "label": "Leylah Fernandez",
   "title": "Leylah_Fernandez",
-  "description": "Canadian tennis player",
+  "description": "Canadian tennis player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leylah_Fernandez_%282023_DC_Open%29_06_%28cropped%29.jpg?width=64",
-  "total": 2718345,
+  "total": 2742630,
   "monthly": [
     {
       "period": "2021-09",
@@ -89,6 +89,10 @@
     {
       "period": "2026-08",
       "views": 71363
+    },
+    {
+      "period": "2026-09",
+      "views": 24285
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 128023
+      "views": 152308
     }
   ]
 }

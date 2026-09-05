@@ -1,0 +1,48 @@
+{
+  "qid": "Q66973694",
+  "label": "Cole Bennett",
+  "title": "Cole_Bennett",
+  "description": "American videographer",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cole_Bennett.png?width=64",
+  "total": 222304,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 9070
+    },
+    {
+      "period": "2022-10",
+      "views": 13858
+    },
+    {
+      "period": "2026-01",
+      "views": 32684
+    },
+    {
+      "period": "2026-03",
+      "views": 96844
+    },
+    {
+      "period": "2026-04",
+      "views": 60113
+    },
+    {
+      "period": "2026-09",
+      "views": 9735
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 9070
+    },
+    {
+      "period": "2022",
+      "views": 13858
+    },
+    {
+      "period": "2026",
+      "views": 199376
+    }
+  ]
+}

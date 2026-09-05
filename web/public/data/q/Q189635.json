@@ -4,7 +4,7 @@
   "title": "Eagles_(band)",
   "description": "American country rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Eagles_in_performance%2C_2008.jpg?width=64",
-  "total": 3765644,
+  "total": 3774941,
   "monthly": [
     {
       "period": "2015-09",
@@ -273,6 +273,10 @@
     {
       "period": "2026-08",
       "views": 12643
+    },
+    {
+      "period": "2026-09",
+      "views": 9297
     }
   ],
   "yearly": [
@@ -322,7 +326,7 @@
     },
     {
       "period": "2026",
-      "views": 87514
+      "views": 96811
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "qid": "Q56192172",
+  "label": "Equal Earth projection",
+  "title": "Equal_Earth_projection",
+  "description": "pseudocylindrical, equal-area map projection",
+  "image": "",
+  "total": 107608,
+  "monthly": [
+    {
+      "period": "2025-08",
+      "views": 51124
+    },
+    {
+      "period": "2026-09",
+      "views": 56484
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 51124
+    },
+    {
+      "period": "2026",
+      "views": 56484
+    }
+  ]
+}

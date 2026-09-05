@@ -1,0 +1,48 @@
+{
+  "qid": "Q1905968",
+  "label": "Akira",
+  "title": "Akira_(1988_film)",
+  "description": "1988 film directed by Katsuhiro Otomo",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Akira_logo.svg?width=64",
+  "total": 86289,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 24003
+    },
+    {
+      "period": "2020-02",
+      "views": 30794
+    },
+    {
+      "period": "2024-09",
+      "views": 13481
+    },
+    {
+      "period": "2026-04",
+      "views": 7866
+    },
+    {
+      "period": "2026-09",
+      "views": 10145
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 24003
+    },
+    {
+      "period": "2020",
+      "views": 30794
+    },
+    {
+      "period": "2024",
+      "views": 13481
+    },
+    {
+      "period": "2026",
+      "views": 18011
+    }
+  ]
+}

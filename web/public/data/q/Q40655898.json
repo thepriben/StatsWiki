@@ -4,7 +4,7 @@
   "title": "Jordan_Bardella",
   "description": "French politician (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MEP_Jordan_Bardella.jpg?width=64",
-  "total": 952384,
+  "total": 964001,
   "monthly": [
     {
       "period": "2022-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 14575
+    },
+    {
+      "period": "2026-09",
+      "views": 11617
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 14575
+      "views": 26192
     }
   ]
 }

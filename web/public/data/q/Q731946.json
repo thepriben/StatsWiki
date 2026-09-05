@@ -4,7 +4,7 @@
   "title": "Gary_O'Neil",
   "description": "English association football manager (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GaryO%27NeilWHU.jpg?width=64",
-  "total": 353601,
+  "total": 364094,
   "monthly": [
     {
       "period": "2022-09",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 26439
+    },
+    {
+      "period": "2026-09",
+      "views": 10493
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 96191
+      "views": 106684
     }
   ]
 }

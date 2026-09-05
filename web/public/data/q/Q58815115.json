@@ -4,7 +4,7 @@
   "title": "Ready_or_Not_(2019_film)",
   "description": "2019 film by Matt Bettinelli-Olpin and Tyler Gillett",
   "image": "",
-  "total": 3732727,
+  "total": 3742687,
   "monthly": [
     {
       "period": "2019-06",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 56236
+    },
+    {
+      "period": "2026-09",
+      "views": 9960
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 906604
+      "views": 916564
     }
   ]
 }

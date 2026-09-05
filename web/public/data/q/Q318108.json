@@ -4,7 +4,7 @@
   "title": "Perez_Hilton",
   "description": "American actor and blogger",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Perez_Hilton_Paparazzo_Photography.jpg?width=64",
-  "total": 1945099,
+  "total": 1953179,
   "monthly": [
     {
       "period": "2015-10",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 1589843
+    },
+    {
+      "period": "2026-09",
+      "views": 8080
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 1645728
+      "views": 1653808
     }
   ]
 }

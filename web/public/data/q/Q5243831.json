@@ -4,7 +4,7 @@
   "title": "DeAndre_Hopkins",
   "description": "American football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DeAndre_Hopkins_2020.jpg?width=64",
-  "total": 1318495,
+  "total": 1337170,
   "monthly": [
     {
       "period": "2015-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 14718
+    },
+    {
+      "period": "2026-09",
+      "views": 18675
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 14718
+      "views": 33393
     }
   ]
 }

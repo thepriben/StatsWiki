@@ -4,7 +4,7 @@
   "title": "Henry_Rollins",
   "description": "American musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Rollins_-_Wacken_Open_Air_2016_02.jpg?width=64",
-  "total": 313164,
+  "total": 321330,
   "monthly": [
     {
       "period": "2015-12",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 38960
+    },
+    {
+      "period": "2026-09",
+      "views": 8166
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 38960
+      "views": 47126
     }
   ]
 }

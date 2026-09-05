@@ -4,7 +4,7 @@
   "title": "List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer",
   "description": "Professional wrestling",
   "image": "",
-  "total": 19403,
+  "total": 28420,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 10932
+    },
+    {
+      "period": "2026-09",
+      "views": 9017
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 19403
+      "views": 28420
     }
   ]
 }

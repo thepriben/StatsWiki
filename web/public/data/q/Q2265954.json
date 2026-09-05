@@ -1,0 +1,36 @@
+{
+  "qid": "Q2265954",
+  "label": "Man About the House",
+  "title": "Man_About_the_House",
+  "description": "television series",
+  "image": "",
+  "total": 36613,
+  "monthly": [
+    {
+      "period": "2023-10",
+      "views": 12797
+    },
+    {
+      "period": "2025-02",
+      "views": 10321
+    },
+    {
+      "period": "2026-09",
+      "views": 13495
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 12797
+    },
+    {
+      "period": "2025",
+      "views": 10321
+    },
+    {
+      "period": "2026",
+      "views": 13495
+    }
+  ]
+}

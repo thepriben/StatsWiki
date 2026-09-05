@@ -4,7 +4,7 @@
   "title": "Kyle_Busch",
   "description": "American racing driver (1985–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle_busch_erik_jones_%2849561738018%29_%28cropped%29.jpg?width=64",
-  "total": 3236086,
+  "total": 3244841,
   "monthly": [
     {
       "period": "2017-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 11614
+    },
+    {
+      "period": "2026-09",
+      "views": 8755
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 3082706
+      "views": 3091461
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Mirzapur_(TV_series)",
   "description": "Indian web series",
   "image": "",
-  "total": 4599199,
+  "total": 4616076,
   "monthly": [
     {
       "period": "2018-11",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 8482
+    },
+    {
+      "period": "2026-09",
+      "views": 16877
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 8482
+      "views": 25359
     }
   ]
 }

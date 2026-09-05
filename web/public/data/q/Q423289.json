@@ -4,7 +4,7 @@
   "title": "BBC_World_Service",
   "description": "international radio station of the BBC",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Broadcasting_House_and_East_Wing.jpg?width=64",
-  "total": 54147032,
+  "total": 54156800,
   "monthly": [
     {
       "period": "2019-04",
@@ -364,7 +364,7 @@
     },
     {
       "period": "2026-09",
-      "views": 29985
+      "views": 39753
     }
   ],
   "yearly": [
@@ -398,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 2305216
+      "views": 2314984
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lokesh_Kanagaraj",
   "description": "Indian film director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lokesh_Kanagaraj_at_The_Zee_Cine_Awards.jpg?width=64",
-  "total": 3780890,
+  "total": 3788846,
   "monthly": [
     {
       "period": "2019-08",
@@ -113,6 +113,10 @@
     {
       "period": "2026-08",
       "views": 133509
+    },
+    {
+      "period": "2026-09",
+      "views": 7956
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 133509
+      "views": 141465
     }
   ]
 }

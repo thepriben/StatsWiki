@@ -4,7 +4,7 @@
   "title": "Ipswich_Town_F.C.",
   "description": "association football club in Ipswich, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portman_Road_2009.jpg?width=64",
-  "total": 659991,
+  "total": 678253,
   "monthly": [
     {
       "period": "2017-01",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 71052
+    },
+    {
+      "period": "2026-09",
+      "views": 18262
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 107877
+      "views": 126139
     }
   ]
 }

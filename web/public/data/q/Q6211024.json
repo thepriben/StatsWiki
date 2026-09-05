@@ -4,7 +4,7 @@
   "title": "Joe_Lycett",
   "description": "British comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LycettPascoeGreen290518-11_%2842449359001%29_%28cropped%29.jpg?width=64",
-  "total": 502956,
+  "total": 510767,
   "monthly": [
     {
       "period": "2018-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 23428
+    },
+    {
+      "period": "2026-09",
+      "views": 7811
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 23428
+      "views": 31239
     }
   ]
 }
