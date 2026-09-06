@@ -4,17 +4,21 @@
   "title": "UFC_Fight_Night:_Nurmagomedov_vs._Song",
   "description": "mixed martial arts event in 2026",
   "image": "",
-  "total": 115036,
+  "total": 123800,
   "monthly": [
     {
       "period": "2026-08",
       "views": 115036
+    },
+    {
+      "period": "2026-09",
+      "views": 8764
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 115036
+      "views": 123800
     }
   ]
 }

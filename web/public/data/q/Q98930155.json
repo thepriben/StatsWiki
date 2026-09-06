@@ -1,0 +1,60 @@
+{
+  "qid": "Q98930155",
+  "label": "Alpine F1 Team",
+  "title": "Alpine_F1_Team",
+  "description": "French Formula One racing team",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_F1_Team_Logo.svg?width=64",
+  "total": 218605,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 70069
+    },
+    {
+      "period": "2021-08",
+      "views": 62349
+    },
+    {
+      "period": "2021-11",
+      "views": 10309
+    },
+    {
+      "period": "2022-03",
+      "views": 14925
+    },
+    {
+      "period": "2023-06",
+      "views": 10775
+    },
+    {
+      "period": "2024-02",
+      "views": 36389
+    },
+    {
+      "period": "2026-09",
+      "views": 13789
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 142727
+    },
+    {
+      "period": "2022",
+      "views": 14925
+    },
+    {
+      "period": "2023",
+      "views": 10775
+    },
+    {
+      "period": "2024",
+      "views": 36389
+    },
+    {
+      "period": "2026",
+      "views": 13789
+    }
+  ]
+}

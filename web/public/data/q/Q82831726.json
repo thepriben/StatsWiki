@@ -4,7 +4,7 @@
   "title": "Jaron_Ennis",
   "description": "American boxer",
   "image": "",
-  "total": 245735,
+  "total": 254777,
   "monthly": [
     {
       "period": "2023-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 64113
+    },
+    {
+      "period": "2026-09",
+      "views": 9042
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 64113
+      "views": 73155
     }
   ]
 }

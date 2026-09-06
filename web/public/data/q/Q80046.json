@@ -4,7 +4,7 @@
   "title": "Charlize_Theron",
   "description": "South African and American actress (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CharlizeTheron-byPhilipRomano2.jpg?width=64",
-  "total": 32668437,
+  "total": 32677265,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-08",
       "views": 420529
+    },
+    {
+      "period": "2026-09",
+      "views": 8828
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 3103529
+      "views": 3112357
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "qid": "Q106631",
+  "label": "rock-paper-scissors",
+  "title": "Rock_paper_scissors",
+  "description": "hand game for two players",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rps2010_2.jpg?width=64",
+  "total": 58249,
+  "monthly": [
+    {
+      "period": "2022-07",
+      "views": 10291
+    },
+    {
+      "period": "2022-12",
+      "views": 11053
+    },
+    {
+      "period": "2025-06",
+      "views": 9093
+    },
+    {
+      "period": "2026-09",
+      "views": 27812
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 21344
+    },
+    {
+      "period": "2025",
+      "views": 9093
+    },
+    {
+      "period": "2026",
+      "views": 27812
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Lady_Gaga",
   "description": "American singer, songwriter, and actress (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Gaga_at_Oscars_2016.jpg?width=64",
-  "total": 63292971,
+  "total": 63301524,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-08",
       "views": 61689
+    },
+    {
+      "period": "2026-09",
+      "views": 8553
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1628831
+      "views": 1637384
     }
   ]
 }

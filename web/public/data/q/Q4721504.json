@@ -4,7 +4,7 @@
   "title": "Alexis_Ohanian",
   "description": "American businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch_Disrupt_NY_2015_-_Day_3_%2817205541529%29.jpg?width=64",
-  "total": 6062626,
+  "total": 6072900,
   "monthly": [
     {
       "period": "2015-07",
@@ -189,6 +189,10 @@
     {
       "period": "2026-07",
       "views": 25024
+    },
+    {
+      "period": "2026-09",
+      "views": 10274
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 102574
+      "views": 112848
     }
   ]
 }

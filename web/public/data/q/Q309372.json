@@ -4,7 +4,7 @@
   "title": "Mercator_projection",
   "description": "cylindrical map projection invented by Gerardus Mercator in 1569",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_borders_mpr.png?width=64",
-  "total": 98969,
+  "total": 133811,
   "monthly": [
     {
       "period": "2016-05",
@@ -28,7 +28,7 @@
     },
     {
       "period": "2026-09",
-      "views": 13736
+      "views": 48578
     }
   ],
   "yearly": [
@@ -50,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 24126
+      "views": 58968
     }
   ]
 }

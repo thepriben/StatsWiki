@@ -4,7 +4,7 @@
   "title": "Cars_(film)",
   "description": "2006 American animated film",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lightning_McQueen_%2834615708803%29.jpg?width=64",
-  "total": 144185,
+  "total": 153883,
   "monthly": [
     {
       "period": "2015-08",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 9062
+    },
+    {
+      "period": "2026-09",
+      "views": 9698
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 9062
+      "views": 18760
     }
   ]
 }

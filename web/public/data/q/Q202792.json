@@ -4,7 +4,7 @@
   "title": "Rebecca_Romijn",
   "description": "American actress and model (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rebecca_Romijn_by_Gage_Skidmore.jpg?width=64",
-  "total": 1998270,
+  "total": 2009467,
   "monthly": [
     {
       "period": "2015-08",
@@ -217,6 +217,10 @@
     {
       "period": "2026-08",
       "views": 225709
+    },
+    {
+      "period": "2026-09",
+      "views": 11197
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 562150
+      "views": 573347
     }
   ]
 }

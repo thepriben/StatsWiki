@@ -4,7 +4,7 @@
   "title": "1883_eruption_of_Krakatoa",
   "description": "catastrophic volcanic eruption",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff?width=64",
-  "total": 1337837,
+  "total": 1347698,
   "monthly": [
     {
       "period": "2015-07",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 14220
+    },
+    {
+      "period": "2026-09",
+      "views": 9861
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 26151
+      "views": 36012
     }
   ]
 }

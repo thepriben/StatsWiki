@@ -4,7 +4,7 @@
   "title": "FC_Schalke_04",
   "description": "German football club from the Schalke district of Gelsenkirchen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Schalke_04_Logo.svg?width=64",
-  "total": 230837,
+  "total": 238935,
   "monthly": [
     {
       "period": "2016-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 8873
+    },
+    {
+      "period": "2026-09",
+      "views": 8098
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 18394
+      "views": 26492
     }
   ]
 }

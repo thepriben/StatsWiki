@@ -4,7 +4,7 @@
   "title": "Natasha_Richardson",
   "description": "British actress (1963–2009)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Natasha_Richardson_1999_%28cropped%29.jpg?width=64",
-  "total": 7460964,
+  "total": 7468949,
   "monthly": [
     {
       "period": "2015-07",
@@ -417,6 +417,10 @@
     {
       "period": "2026-08",
       "views": 10384
+    },
+    {
+      "period": "2026-09",
+      "views": 7985
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 193939
+      "views": 201924
     }
   ]
 }

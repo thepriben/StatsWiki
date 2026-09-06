@@ -4,7 +4,7 @@
   "title": "Bryce_Dallas_Howard",
   "description": "American actress and filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryce_Dallas_Howard_June_2018_%28cropped%29.jpg?width=64",
-  "total": 9510264,
+  "total": 9519635,
   "monthly": [
     {
       "period": "2015-07",
@@ -393,6 +393,10 @@
     {
       "period": "2026-08",
       "views": 28567
+    },
+    {
+      "period": "2026-09",
+      "views": 9371
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 109968
+      "views": 119339
     }
   ]
 }

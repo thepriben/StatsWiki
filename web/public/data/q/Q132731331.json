@@ -4,7 +4,7 @@
   "title": "Evil_Dead_Burn",
   "description": "2026 film directed by Sébastien Vaniček",
   "image": "",
-  "total": 1956619,
+  "total": 1964606,
   "monthly": [
     {
       "period": "2026-04",
@@ -25,12 +25,16 @@
     {
       "period": "2026-08",
       "views": 436552
+    },
+    {
+      "period": "2026-09",
+      "views": 7987
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1956619
+      "views": 1964606
     }
   ]
 }

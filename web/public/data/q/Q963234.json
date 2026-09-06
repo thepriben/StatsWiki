@@ -4,7 +4,7 @@
   "title": "Matt_Leinart",
   "description": "American football player (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt_Leinart_2019.jpg?width=64",
-  "total": 217244,
+  "total": 225553,
   "monthly": [
     {
       "period": "2015-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 11307
+    },
+    {
+      "period": "2026-09",
+      "views": 8309
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 11307
+      "views": 19616
     }
   ]
 }

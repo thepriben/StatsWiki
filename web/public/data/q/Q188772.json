@@ -4,7 +4,7 @@
   "title": "Willem_Dafoe",
   "description": "American actor (1955-)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Willem_Dafoe_Cannes_2019.jpg?width=64",
-  "total": 4835453,
+  "total": 4845139,
   "monthly": [
     {
       "period": "2015-11",
@@ -217,6 +217,10 @@
     {
       "period": "2026-08",
       "views": 122965
+    },
+    {
+      "period": "2026-09",
+      "views": 9686
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 138535
+      "views": 148221
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Alexander_Blockx",
   "description": "Belgian tennis player (born 2005)",
   "image": "",
-  "total": 90931,
+  "total": 102640,
   "monthly": [
     {
       "period": "2024-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 18522
+    },
+    {
+      "period": "2026-09",
+      "views": 11709
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 81132
+      "views": 92841
     }
   ]
 }

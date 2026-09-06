@@ -1,0 +1,64 @@
+{
+  "qid": "Q309932",
+  "label": "Bruce Campbell",
+  "title": "Bruce_Campbell",
+  "description": "American actor",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Campbell_by_Gage_Skidmore.jpg?width=64",
+  "total": 395403,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 10439
+    },
+    {
+      "period": "2015-10",
+      "views": 17427
+    },
+    {
+      "period": "2015-11",
+      "views": 83102
+    },
+    {
+      "period": "2019-10",
+      "views": 10284
+    },
+    {
+      "period": "2022-05",
+      "views": 90490
+    },
+    {
+      "period": "2023-04",
+      "views": 38296
+    },
+    {
+      "period": "2026-03",
+      "views": 87548
+    },
+    {
+      "period": "2026-09",
+      "views": 57817
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 110968
+    },
+    {
+      "period": "2019",
+      "views": 10284
+    },
+    {
+      "period": "2022",
+      "views": 90490
+    },
+    {
+      "period": "2023",
+      "views": 38296
+    },
+    {
+      "period": "2026",
+      "views": 145365
+    }
+  ]
+}

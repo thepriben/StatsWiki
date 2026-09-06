@@ -4,7 +4,7 @@
   "title": "Frank_Lampard",
   "description": "English association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Lampard_2019.jpg?width=64",
-  "total": 3112736,
+  "total": 3124024,
   "monthly": [
     {
       "period": "2015-10",
@@ -217,6 +217,10 @@
     {
       "period": "2026-08",
       "views": 46770
+    },
+    {
+      "period": "2026-09",
+      "views": 11288
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 217340
+      "views": 228628
     }
   ]
 }

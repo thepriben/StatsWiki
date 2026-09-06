@@ -4,7 +4,7 @@
   "title": "Brian_May",
   "description": "British musician (born 1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TaylorHawkTributeWemb030922_%28208_copped%29.jpg?width=64",
-  "total": 6182246,
+  "total": 6204825,
   "monthly": [
     {
       "period": "2015-07",
@@ -225,6 +225,10 @@
     {
       "period": "2026-06",
       "views": 9680
+    },
+    {
+      "period": "2026-09",
+      "views": 22579
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 17237
+      "views": 39816
     }
   ]
 }

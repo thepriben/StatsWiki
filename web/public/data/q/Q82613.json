@@ -1,0 +1,88 @@
+{
+  "qid": "Q82613",
+  "label": "Krakatoa",
+  "title": "Krakatoa",
+  "description": "Sunda Strait volcanic island caldera",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Krakatoa_NasaWorldWind_2000.jpg?width=64",
+  "total": 842410,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 20908
+    },
+    {
+      "period": "2016-08",
+      "views": 11922
+    },
+    {
+      "period": "2017-06",
+      "views": 52994
+    },
+    {
+      "period": "2017-07",
+      "views": 12401
+    },
+    {
+      "period": "2018-12",
+      "views": 486026
+    },
+    {
+      "period": "2020-04",
+      "views": 196966
+    },
+    {
+      "period": "2021-03",
+      "views": 12582
+    },
+    {
+      "period": "2025-02",
+      "views": 11957
+    },
+    {
+      "period": "2025-08",
+      "views": 11144
+    },
+    {
+      "period": "2026-05",
+      "views": 11760
+    },
+    {
+      "period": "2026-09",
+      "views": 13750
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 20908
+    },
+    {
+      "period": "2016",
+      "views": 11922
+    },
+    {
+      "period": "2017",
+      "views": 65395
+    },
+    {
+      "period": "2018",
+      "views": 486026
+    },
+    {
+      "period": "2020",
+      "views": 196966
+    },
+    {
+      "period": "2021",
+      "views": 12582
+    },
+    {
+      "period": "2025",
+      "views": 23101
+    },
+    {
+      "period": "2026",
+      "views": 25510
+    }
+  ]
+}

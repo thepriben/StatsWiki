@@ -4,7 +4,7 @@
   "title": "Divyenndu",
   "description": "Indian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trailer_and_poster_launch_of_%E2%80%982016_The_End%E2%80%99_05.jpg?width=64",
-  "total": 157380,
+  "total": 170848,
   "monthly": [
     {
       "period": "2020-10",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 16717
+    },
+    {
+      "period": "2026-09",
+      "views": 13468
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 16717
+      "views": 30185
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lea_Salonga",
   "description": "Filipino actress and singer (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LeaSalonga-byPhilipRomano_%28cropped%29.jpg?width=64",
-  "total": 159978,
+  "total": 172692,
   "monthly": [
     {
       "period": "2015-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 10368
+    },
+    {
+      "period": "2026-09",
+      "views": 12714
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 20652
+      "views": 33366
     }
   ]
 }

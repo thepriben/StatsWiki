@@ -4,7 +4,7 @@
   "title": "Masters_of_the_Universe_(2026_film)",
   "description": "2026 film directed by Travis Knight",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mastersofrheuniverselogo.png?width=64",
-  "total": 4960294,
+  "total": 4968828,
   "monthly": [
     {
       "period": "2025-02",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 622324
+    },
+    {
+      "period": "2026-09",
+      "views": 8534
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 4938729
+      "views": 4947263
     }
   ]
 }

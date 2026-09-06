@@ -1,0 +1,44 @@
+{
+  "qid": "Q16192112",
+  "label": "Boise State Broncos football",
+  "title": "Boise_State_Broncos_football",
+  "description": "College football team",
+  "image": "",
+  "total": 50998,
+  "monthly": [
+    {
+      "period": "2020-12",
+      "views": 10224
+    },
+    {
+      "period": "2024-12",
+      "views": 11908
+    },
+    {
+      "period": "2025-01",
+      "views": 20602
+    },
+    {
+      "period": "2026-09",
+      "views": 8264
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 10224
+    },
+    {
+      "period": "2024",
+      "views": 11908
+    },
+    {
+      "period": "2025",
+      "views": 20602
+    },
+    {
+      "period": "2026",
+      "views": 8264
+    }
+  ]
+}

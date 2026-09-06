@@ -4,7 +4,7 @@
   "title": "United_Airlines_Flight_93",
   "description": "9/11 hijacked passenger flight, attempted to hit the US Capitol or the White House",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UA93_path.svg?width=64",
-  "total": 4662792,
+  "total": 4674800,
   "monthly": [
     {
       "period": "2015-09",
@@ -68,7 +68,7 @@
     },
     {
       "period": "2026-09",
-      "views": 26529
+      "views": 38537
     }
   ],
   "yearly": [
@@ -118,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 26529
+      "views": 38537
     }
   ]
 }

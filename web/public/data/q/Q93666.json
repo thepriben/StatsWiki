@@ -4,7 +4,7 @@
   "title": "James_Tavernier",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SM-Rangers18_%2820%29.jpg?width=64",
-  "total": 397987,
+  "total": 405886,
   "monthly": [
     {
       "period": "2020-12",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 9066
+    },
+    {
+      "period": "2026-09",
+      "views": 7899
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 45926
+      "views": 53825
     }
   ]
 }

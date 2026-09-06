@@ -4,7 +4,7 @@
   "title": "AFC_Bournemouth",
   "description": "association football club in Bournemouth, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deancourt_14092013_vblackpool.jpg?width=64",
-  "total": 656194,
+  "total": 664544,
   "monthly": [
     {
       "period": "2021-11",
@@ -117,6 +117,10 @@
     {
       "period": "2026-08",
       "views": 23336
+    },
+    {
+      "period": "2026-09",
+      "views": 8350
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 167838
+      "views": 176188
     }
   ]
 }

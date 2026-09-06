@@ -4,7 +4,7 @@
   "title": "Odysseus",
   "description": "legendary Greek king of Ithaca",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29_Ancient_Roman_statues_in_the_Museo_archeologico_nazionale_-_Ulysses.jpg?width=64",
-  "total": 2128306,
+  "total": 2136779,
   "monthly": [
     {
       "period": "2016-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 535298
+    },
+    {
+      "period": "2026-09",
+      "views": 8473
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 1875295
+      "views": 1883768
     }
   ]
 }

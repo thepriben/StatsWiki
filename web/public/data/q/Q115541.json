@@ -4,7 +4,7 @@
   "title": "Dakota_Fanning",
   "description": "American actress (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dakota_Fanning_SAG_AWARDS_2020_%28cropped%29.jpg?width=64",
-  "total": 9845851,
+  "total": 9854160,
   "monthly": [
     {
       "period": "2015-09",
@@ -405,6 +405,10 @@
     {
       "period": "2026-08",
       "views": 94993
+    },
+    {
+      "period": "2026-09",
+      "views": 8309
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 1166753
+      "views": 1175062
     }
   ]
 }

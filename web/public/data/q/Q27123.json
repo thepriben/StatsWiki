@@ -4,7 +4,7 @@
   "title": "Gall–Peters_projection",
   "description": "specialization of a configurable equal-area map projection",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gall%E2%80%93Peters_projection_SW.jpg?width=64",
-  "total": 70657,
+  "total": 85935,
   "monthly": [
     {
       "period": "2016-11",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-09",
-      "views": 8224
+      "views": 23502
     }
   ],
   "yearly": [
@@ -30,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 8224
+      "views": 23502
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Graeme_Souness",
   "description": "Scottish association football player and manager (born 1953)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Souness_%28retouched%29.jpg?width=64",
-  "total": 512992,
+  "total": 527516,
   "monthly": [
     {
       "period": "2018-10",
@@ -85,6 +85,10 @@
     {
       "period": "2026-07",
       "views": 10449
+    },
+    {
+      "period": "2026-09",
+      "views": 14524
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 10449
+      "views": 24973
     }
   ]
 }

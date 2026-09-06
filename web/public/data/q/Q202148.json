@@ -4,7 +4,7 @@
   "title": "Burt_Reynolds",
   "description": "American actor (1936–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Burt_Reynolds_Dan_August.JPG?width=64",
-  "total": 9418479,
+  "total": 9428439,
   "monthly": [
     {
       "period": "2015-08",
@@ -353,6 +353,10 @@
     {
       "period": "2026-08",
       "views": 77923
+    },
+    {
+      "period": "2026-09",
+      "views": 9960
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 179478
+      "views": 189438
     }
   ]
 }

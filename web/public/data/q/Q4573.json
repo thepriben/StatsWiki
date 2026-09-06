@@ -4,7 +4,7 @@
   "title": "Sean_Connery",
   "description": "Scottish actor (1930–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean_Connery_%281983%29.jpg?width=64",
-  "total": 22003155,
+  "total": 22011843,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-08",
       "views": 96684
+    },
+    {
+      "period": "2026-09",
+      "views": 8688
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 384205
+      "views": 392893
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jermaine_Jackson",
   "description": "American musician (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JermaineJackson2007%28cropped%29.jpg?width=64",
-  "total": 3721382,
+  "total": 3729527,
   "monthly": [
     {
       "period": "2016-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 122180
+    },
+    {
+      "period": "2026-09",
+      "views": 8145
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 3220245
+      "views": 3228390
     }
   ]
 }

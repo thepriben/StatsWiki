@@ -4,7 +4,7 @@
   "title": "Brie_Larson",
   "description": "Canadian-American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg?width=64",
-  "total": 21557770,
+  "total": 21567401,
   "monthly": [
     {
       "period": "2015-07",
@@ -405,6 +405,10 @@
     {
       "period": "2026-08",
       "views": 10211
+    },
+    {
+      "period": "2026-09",
+      "views": 9631
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 107557
+      "views": 117188
     }
   ]
 }
