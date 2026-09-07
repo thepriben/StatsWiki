@@ -1,0 +1,36 @@
+{
+  "qid": "Q1221156",
+  "label": "federated state of Germany",
+  "title": "States_of_Germany",
+  "description": "administrative division of the Federal Republic of Germany",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karte_Deutsche_Bundesl%C3%A4nder_%28nummeriert%29.svg?width=64",
+  "total": 31902,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 11227
+    },
+    {
+      "period": "2024-09",
+      "views": 11079
+    },
+    {
+      "period": "2026-09",
+      "views": 9596
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 11227
+    },
+    {
+      "period": "2024",
+      "views": 11079
+    },
+    {
+      "period": "2026",
+      "views": 9596
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "qid": "Q3388303",
+  "label": "Piggly Wiggly",
+  "title": "Piggly_Wiggly",
+  "description": "American supermarket chain",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Piggly_Wiggly.jpg?width=64",
+  "total": 80195,
+  "monthly": [
+    {
+      "period": "2018-09",
+      "views": 25851
+    },
+    {
+      "period": "2022-01",
+      "views": 14932
+    },
+    {
+      "period": "2022-02",
+      "views": 19805
+    },
+    {
+      "period": "2022-06",
+      "views": 9246
+    },
+    {
+      "period": "2026-09",
+      "views": 10361
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 25851
+    },
+    {
+      "period": "2022",
+      "views": 43983
+    },
+    {
+      "period": "2026",
+      "views": 10361
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Life_of_Pi_(film)",
   "description": "2012 film directed by Ang Lee",
   "image": "",
-  "total": 407806,
+  "total": 420784,
   "monthly": [
     {
       "period": "2015-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 17565
+    },
+    {
+      "period": "2026-09",
+      "views": 12978
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 147926
+      "views": 160904
     }
   ]
 }

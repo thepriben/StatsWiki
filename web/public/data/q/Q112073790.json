@@ -1,10 +1,10 @@
 {
   "qid": "Q112073790",
-  "label": "Andrea Kimi Antonelli",
+  "label": "Kimi Antonelli",
   "title": "Kimi_Antonelli",
   "description": "Italian F1 driver",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonelli_Barcelona_2024_%28cropped%29.jpg?width=64",
-  "total": 1187166,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7923%29_cropped.jpg?width=64",
+  "total": 1250713,
   "monthly": [
     {
       "period": "2025-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 12384
+    },
+    {
+      "period": "2026-09",
+      "views": 63547
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1141371
+      "views": 1204918
     }
   ]
 }

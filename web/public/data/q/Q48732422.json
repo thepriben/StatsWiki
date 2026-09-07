@@ -1,0 +1,28 @@
+{
+  "qid": "Q48732422",
+  "label": "Amazon Air",
+  "title": "Amazon_Air",
+  "description": "virtual cargo airline",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_Air_Boeing_767_at_TPA.jpg?width=64",
+  "total": 21822,
+  "monthly": [
+    {
+      "period": "2019-02",
+      "views": 11492
+    },
+    {
+      "period": "2026-09",
+      "views": 10330
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11492
+    },
+    {
+      "period": "2026",
+      "views": 10330
+    }
+  ]
+}

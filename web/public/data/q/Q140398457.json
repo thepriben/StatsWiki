@@ -4,17 +4,21 @@
   "title": "Khatron_Ke_Khiladi_15",
   "description": "season of television series",
   "image": "",
-  "total": 171413,
+  "total": 183253,
   "monthly": [
     {
       "period": "2026-08",
       "views": 171413
+    },
+    {
+      "period": "2026-09",
+      "views": 11840
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 171413
+      "views": 183253
     }
   ]
 }

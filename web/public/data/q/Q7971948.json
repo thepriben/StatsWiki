@@ -1,0 +1,52 @@
+{
+  "qid": "Q7971948",
+  "label": "Washington Huskies football",
+  "title": "Washington_Huskies_football",
+  "description": "American football team",
+  "image": "",
+  "total": 284538,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 12691
+    },
+    {
+      "period": "2016-12",
+      "views": 27375
+    },
+    {
+      "period": "2023-10",
+      "views": 13940
+    },
+    {
+      "period": "2023-12",
+      "views": 25161
+    },
+    {
+      "period": "2024-01",
+      "views": 194479
+    },
+    {
+      "period": "2026-09",
+      "views": 10892
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 40066
+    },
+    {
+      "period": "2023",
+      "views": 39101
+    },
+    {
+      "period": "2024",
+      "views": 194479
+    },
+    {
+      "period": "2026",
+      "views": 10892
+    }
+  ]
+}

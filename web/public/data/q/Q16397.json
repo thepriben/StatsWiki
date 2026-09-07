@@ -4,7 +4,7 @@
   "title": "Bruce_Lee",
   "description": "Hong Kong–American martial artist and actor (1940–1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Lee_1973_%28cropped%29.jpg?width=64",
-  "total": 54612864,
+  "total": 54621388,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-08",
       "views": 87142
+    },
+    {
+      "period": "2026-09",
+      "views": 8524
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 8277416
+      "views": 8285940
     }
   ]
 }

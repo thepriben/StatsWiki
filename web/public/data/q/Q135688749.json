@@ -4,7 +4,7 @@
   "title": "Bigg_Boss_(Hindi_TV_series)_season_19",
   "description": "Indian reality show (2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaurav_Khanna_at_the_grand_finale_of_Bigg_Boss_19.jpg?width=64",
-  "total": 3857183,
+  "total": 3865625,
   "monthly": [
     {
       "period": "2025-08",
@@ -25,12 +25,20 @@
     {
       "period": "2025-12",
       "views": 793074
+    },
+    {
+      "period": "2026-09",
+      "views": 8442
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 3857183
+    },
+    {
+      "period": "2026",
+      "views": 8442
     }
   ]
 }

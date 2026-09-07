@@ -4,7 +4,7 @@
   "title": "Hill_Dickinson_Stadium",
   "description": "football stadium in Liverpool, England, UK",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Project_366_-217_040824_Approaching_Lift_Off_%2853902389448%29.jpg?width=64",
-  "total": 174817,
+  "total": 183552,
   "monthly": [
     {
       "period": "2025-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 10156
+    },
+    {
+      "period": "2026-09",
+      "views": 8735
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 40806
+      "views": 49541
     }
   ]
 }

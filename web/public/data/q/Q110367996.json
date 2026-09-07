@@ -4,7 +4,7 @@
   "title": "Wordle",
   "description": "web-based word logic game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wordle_196_example.svg?width=64",
-  "total": 27577176,
+  "total": 27591663,
   "monthly": [
     {
       "period": "2022-01",
@@ -184,7 +184,7 @@
     },
     {
       "period": "2026-09",
-      "views": 68178
+      "views": 82665
     }
   ],
   "yearly": [
@@ -206,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 6166966
+      "views": 6181453
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Amy_Acton",
   "description": "American physician (born 1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Acton_%28cropped%29.jpg?width=64",
-  "total": 131726,
+  "total": 143835,
   "monthly": [
     {
       "period": "2020-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 8739
+    },
+    {
+      "period": "2026-09",
+      "views": 12109
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 55757
+      "views": 67866
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Roméo_Lavia",
   "description": "Belgian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rom%C3%A9o_Lavia_20042025_%281%29_cropped.jpg?width=64",
-  "total": 436786,
+  "total": 446716,
   "monthly": [
     {
       "period": "2022-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 12999
+    },
+    {
+      "period": "2026-09",
+      "views": 9930
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 12999
+      "views": 22929
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Peter_Lorre",
   "description": "Hungarian and American actor (1904–1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PeterLorre.jpg?width=64",
-  "total": 204434,
+  "total": 213838,
   "monthly": [
     {
       "period": "2018-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 8065
+    },
+    {
+      "period": "2026-09",
+      "views": 9404
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 28635
+      "views": 38039
     }
   ]
 }

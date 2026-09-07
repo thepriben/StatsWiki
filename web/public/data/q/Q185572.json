@@ -2,9 +2,9 @@
   "qid": "Q185572",
   "label": "Mikel Arteta",
   "title": "Mikel_Arteta",
-  "description": "Spanish football manager (born 1982)",
+  "description": "Spanish football manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikel_Arteta_2021_%28cropped%29.png?width=64",
-  "total": 4877048,
+  "total": 4902867,
   "monthly": [
     {
       "period": "2016-05",
@@ -253,6 +253,10 @@
     {
       "period": "2026-08",
       "views": 21708
+    },
+    {
+      "period": "2026-09",
+      "views": 25819
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 794877
+      "views": 820696
     }
   ]
 }

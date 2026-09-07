@@ -1,0 +1,68 @@
+{
+  "qid": "Q8036",
+  "label": "Italian Grand Prix",
+  "title": "Italian_Grand_Prix",
+  "description": "auto race held in Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monza_track_map.svg?width=64",
+  "total": 105363,
+  "monthly": [
+    {
+      "period": "2018-09",
+      "views": 11412
+    },
+    {
+      "period": "2020-09",
+      "views": 14355
+    },
+    {
+      "period": "2021-09",
+      "views": 13788
+    },
+    {
+      "period": "2023-09",
+      "views": 15277
+    },
+    {
+      "period": "2024-09",
+      "views": 18567
+    },
+    {
+      "period": "2025-09",
+      "views": 16860
+    },
+    {
+      "period": "2026-09",
+      "views": 15104
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 11412
+    },
+    {
+      "period": "2020",
+      "views": 14355
+    },
+    {
+      "period": "2021",
+      "views": 13788
+    },
+    {
+      "period": "2023",
+      "views": 15277
+    },
+    {
+      "period": "2024",
+      "views": 18567
+    },
+    {
+      "period": "2025",
+      "views": 16860
+    },
+    {
+      "period": "2026",
+      "views": 15104
+    }
+  ]
+}

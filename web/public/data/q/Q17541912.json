@@ -4,7 +4,7 @@
   "title": "Charles_Leclerc",
   "description": "Monegasque racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg?width=64",
-  "total": 4632517,
+  "total": 4645107,
   "monthly": [
     {
       "period": "2019-05",
@@ -217,6 +217,10 @@
     {
       "period": "2026-07",
       "views": 111828
+    },
+    {
+      "period": "2026-09",
+      "views": 12590
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 459310
+      "views": 471900
     }
   ]
 }
