@@ -4,7 +4,7 @@
   "title": "Patrick_Brammall",
   "description": "Australian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Brammall_2015.jpg?width=64",
-  "total": 245672,
+  "total": 256556,
   "monthly": [
     {
       "period": "2023-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 25168
+    },
+    {
+      "period": "2026-09",
+      "views": 10884
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 207931
+      "views": 218815
     }
   ]
 }

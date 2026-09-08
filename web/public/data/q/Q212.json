@@ -4,7 +4,7 @@
   "title": "Ukraine",
   "description": "country in Eastern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maidan_Nezalezhnosti_view.jpg?width=64",
-  "total": 33589553,
+  "total": 33598010,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-08",
       "views": 16261
+    },
+    {
+      "period": "2026-09",
+      "views": 8457
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 122432
+      "views": 130889
     }
   ]
 }

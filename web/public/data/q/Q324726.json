@@ -4,7 +4,7 @@
   "title": "Mac_Miller",
   "description": "American rapper (1992–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mac_Miller_2017.jpg?width=64",
-  "total": 13138036,
+  "total": 13154152,
   "monthly": [
     {
       "period": "2015-08",
@@ -285,6 +285,10 @@
     {
       "period": "2026-08",
       "views": 53494
+    },
+    {
+      "period": "2026-09",
+      "views": 16116
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 122631
+      "views": 138747
     }
   ]
 }

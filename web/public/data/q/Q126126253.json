@@ -4,7 +4,7 @@
   "title": "Paradise_(2025_TV_series)",
   "description": "2025 American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paradise_%282025_Hulu_network_TV_series%29.webp?width=64",
-  "total": 7836489,
+  "total": 7857240,
   "monthly": [
     {
       "period": "2025-01",
@@ -57,6 +57,10 @@
     {
       "period": "2026-05",
       "views": 279750
+    },
+    {
+      "period": "2026-09",
+      "views": 20751
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 3098339
+      "views": 3119090
     }
   ]
 }

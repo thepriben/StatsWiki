@@ -1,0 +1,56 @@
+{
+  "qid": "Q65056901",
+  "label": "The Dropout",
+  "title": "The_Dropout",
+  "description": "American TV series",
+  "image": "",
+  "total": 429275,
+  "monthly": [
+    {
+      "period": "2022-04",
+      "views": 290558
+    },
+    {
+      "period": "2022-05",
+      "views": 20881
+    },
+    {
+      "period": "2022-09",
+      "views": 28513
+    },
+    {
+      "period": "2022-11",
+      "views": 19267
+    },
+    {
+      "period": "2023-01",
+      "views": 12692
+    },
+    {
+      "period": "2024-03",
+      "views": 33159
+    },
+    {
+      "period": "2026-09",
+      "views": 24205
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 359219
+    },
+    {
+      "period": "2023",
+      "views": 12692
+    },
+    {
+      "period": "2024",
+      "views": 33159
+    },
+    {
+      "period": "2026",
+      "views": 24205
+    }
+  ]
+}

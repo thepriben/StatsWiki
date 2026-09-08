@@ -1,0 +1,48 @@
+{
+  "qid": "Q2716721",
+  "label": "Up Series",
+  "title": "Up_(film_series)",
+  "description": "documentary film series",
+  "image": "",
+  "total": 123500,
+  "monthly": [
+    {
+      "period": "2019-06",
+      "views": 55698
+    },
+    {
+      "period": "2021-01",
+      "views": 20891
+    },
+    {
+      "period": "2023-04",
+      "views": 13725
+    },
+    {
+      "period": "2026-04",
+      "views": 20283
+    },
+    {
+      "period": "2026-09",
+      "views": 12903
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 55698
+    },
+    {
+      "period": "2021",
+      "views": 20891
+    },
+    {
+      "period": "2023",
+      "views": 13725
+    },
+    {
+      "period": "2026",
+      "views": 33186
+    }
+  ]
+}

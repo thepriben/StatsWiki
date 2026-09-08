@@ -4,7 +4,7 @@
   "title": "Buddy_Holly",
   "description": "American rock and roll singer (1936–1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Buddy_Holly_cropped.JPG?width=64",
-  "total": 1461237,
+  "total": 1470929,
   "monthly": [
     {
       "period": "2015-10",
@@ -165,6 +165,10 @@
     {
       "period": "2026-07",
       "views": 10454
+    },
+    {
+      "period": "2026-09",
+      "views": 9692
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 56074
+      "views": 65766
     }
   ]
 }

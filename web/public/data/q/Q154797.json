@@ -1,0 +1,60 @@
+{
+  "qid": "Q154797",
+  "label": "German Bundestag",
+  "title": "Bundestag",
+  "description": "legislature of Germany; parliament",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundestag_-_Palais_du_Reichstag.jpg?width=64",
+  "total": 312944,
+  "monthly": [
+    {
+      "period": "2017-09",
+      "views": 53002
+    },
+    {
+      "period": "2021-09",
+      "views": 71766
+    },
+    {
+      "period": "2021-12",
+      "views": 12633
+    },
+    {
+      "period": "2024-11",
+      "views": 12735
+    },
+    {
+      "period": "2025-02",
+      "views": 127326
+    },
+    {
+      "period": "2025-05",
+      "views": 20837
+    },
+    {
+      "period": "2026-09",
+      "views": 14645
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 53002
+    },
+    {
+      "period": "2021",
+      "views": 84399
+    },
+    {
+      "period": "2024",
+      "views": 12735
+    },
+    {
+      "period": "2025",
+      "views": 148163
+    },
+    {
+      "period": "2026",
+      "views": 14645
+    }
+  ]
+}

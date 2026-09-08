@@ -4,7 +4,7 @@
   "title": "Kaley_Cuoco",
   "description": "American actress and producer (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaley_Cuoco_by_Gage_Skidmore.jpg?width=64",
-  "total": 18124975,
+  "total": 18134110,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-08",
       "views": 85761
+    },
+    {
+      "period": "2026-09",
+      "views": 9135
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 708000
+      "views": 717135
     }
   ]
 }

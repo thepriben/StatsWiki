@@ -4,7 +4,7 @@
   "title": "Khalid_Sheikh_Mohammed",
   "description": "Pakistani militant who was a member of al-Qaeda",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khalid_Shaikh_Mohammed_%28besk%C3%A5ret%29.jpg?width=64",
-  "total": 1142950,
+  "total": 1151791,
   "monthly": [
     {
       "period": "2015-09",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 76187
+    },
+    {
+      "period": "2026-09",
+      "views": 8841
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 76187
+      "views": 85028
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "qid": "Q123737",
+  "label": "Emmy Award",
+  "title": "Emmy_Awards",
+  "description": "American television production award",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Garry_Shandling_%28211280631%29.jpg?width=64",
+  "total": 297301,
+  "monthly": [
+    {
+      "period": "2021-09",
+      "views": 32038
+    },
+    {
+      "period": "2022-07",
+      "views": 10790
+    },
+    {
+      "period": "2022-09",
+      "views": 41982
+    },
+    {
+      "period": "2024-01",
+      "views": 78527
+    },
+    {
+      "period": "2024-09",
+      "views": 99938
+    },
+    {
+      "period": "2025-07",
+      "views": 10397
+    },
+    {
+      "period": "2025-09",
+      "views": 11392
+    },
+    {
+      "period": "2026-09",
+      "views": 12237
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 32038
+    },
+    {
+      "period": "2022",
+      "views": 52772
+    },
+    {
+      "period": "2024",
+      "views": 178465
+    },
+    {
+      "period": "2025",
+      "views": 21789
+    },
+    {
+      "period": "2026",
+      "views": 12237
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "SummerSlam_(2026)",
   "description": "WWE pay-per-view and livestreaming event",
   "image": "",
-  "total": 2622872,
+  "total": 2632363,
   "monthly": [
     {
       "period": "2026-06",
@@ -17,12 +17,16 @@
     {
       "period": "2026-08",
       "views": 1440480
+    },
+    {
+      "period": "2026-09",
+      "views": 9491
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2622872
+      "views": 2632363
     }
   ]
 }

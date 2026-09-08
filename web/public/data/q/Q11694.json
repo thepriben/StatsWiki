@@ -1,0 +1,120 @@
+{
+  "qid": "Q11694",
+  "label": "American Airlines Flight 11",
+  "title": "American_Airlines_Flight_11",
+  "description": "9/11 hijacked passenger flight, hit the North Tower of the World Trade Center",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flight_paths_of_hijacked_planes-September_11_attacks.jpg?width=64",
+  "total": 1728756,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 80029
+    },
+    {
+      "period": "2016-09",
+      "views": 123030
+    },
+    {
+      "period": "2017-09",
+      "views": 63415
+    },
+    {
+      "period": "2018-09",
+      "views": 121937
+    },
+    {
+      "period": "2019-03",
+      "views": 31498
+    },
+    {
+      "period": "2019-09",
+      "views": 151070
+    },
+    {
+      "period": "2020-02",
+      "views": 17907
+    },
+    {
+      "period": "2020-09",
+      "views": 132052
+    },
+    {
+      "period": "2021-08",
+      "views": 10355
+    },
+    {
+      "period": "2021-09",
+      "views": 578969
+    },
+    {
+      "period": "2022-09",
+      "views": 52025
+    },
+    {
+      "period": "2023-09",
+      "views": 210711
+    },
+    {
+      "period": "2024-09",
+      "views": 89089
+    },
+    {
+      "period": "2025-09",
+      "views": 56453
+    },
+    {
+      "period": "2026-09",
+      "views": 10216
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 80029
+    },
+    {
+      "period": "2016",
+      "views": 123030
+    },
+    {
+      "period": "2017",
+      "views": 63415
+    },
+    {
+      "period": "2018",
+      "views": 121937
+    },
+    {
+      "period": "2019",
+      "views": 182568
+    },
+    {
+      "period": "2020",
+      "views": 149959
+    },
+    {
+      "period": "2021",
+      "views": 589324
+    },
+    {
+      "period": "2022",
+      "views": 52025
+    },
+    {
+      "period": "2023",
+      "views": 210711
+    },
+    {
+      "period": "2024",
+      "views": 89089
+    },
+    {
+      "period": "2025",
+      "views": 56453
+    },
+    {
+      "period": "2026",
+      "views": 10216
+    }
+  ]
+}

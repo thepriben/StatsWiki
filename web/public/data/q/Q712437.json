@@ -4,7 +4,7 @@
   "title": "Garret_Dillahunt",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Garret_Dillahunt_at_San_Diego_Comic_Con_2026.jpg?width=64",
-  "total": 263755,
+  "total": 277464,
   "monthly": [
     {
       "period": "2018-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 90360
+    },
+    {
+      "period": "2026-09",
+      "views": 13709
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 90360
+      "views": 104069
     }
   ]
 }

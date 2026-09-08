@@ -4,7 +4,7 @@
   "title": "Teyana_Taylor",
   "description": "American singer-songwriter and actress (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Teyana_Taylor_%28cropped%29.jpg?width=64",
-  "total": 7036699,
+  "total": 7046248,
   "monthly": [
     {
       "period": "2015-09",
@@ -185,6 +185,10 @@
     {
       "period": "2026-08",
       "views": 42352
+    },
+    {
+      "period": "2026-09",
+      "views": 9549
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 3044587
+      "views": 3054136
     }
   ]
 }

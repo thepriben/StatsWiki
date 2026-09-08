@@ -4,7 +4,7 @@
   "title": "Steve_McQueen",
   "description": "American actor (1930-1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fassadenbild_mit_Steve-McQueen-Motiv_in_Krakau_%28Ausschnitt%29.png?width=64",
-  "total": 7130768,
+  "total": 7140865,
   "monthly": [
     {
       "period": "2015-07",
@@ -433,6 +433,10 @@
     {
       "period": "2026-08",
       "views": 51006
+    },
+    {
+      "period": "2026-09",
+      "views": 10097
     }
   ],
   "yearly": [
@@ -482,7 +486,7 @@
     },
     {
       "period": "2026",
-      "views": 169358
+      "views": 179455
     }
   ]
 }

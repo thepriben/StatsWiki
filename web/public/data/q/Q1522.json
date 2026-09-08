@@ -1,0 +1,44 @@
+{
+  "qid": "Q1522",
+  "label": "New Mexico",
+  "title": "New_Mexico",
+  "description": "state of the United States of America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ABQ_Petroglyph_2.jpg?width=64",
+  "total": 94513,
+  "monthly": [
+    {
+      "period": "2018-10",
+      "views": 37501
+    },
+    {
+      "period": "2022-06",
+      "views": 10184
+    },
+    {
+      "period": "2025-02",
+      "views": 23988
+    },
+    {
+      "period": "2026-09",
+      "views": 22840
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 37501
+    },
+    {
+      "period": "2022",
+      "views": 10184
+    },
+    {
+      "period": "2025",
+      "views": 23988
+    },
+    {
+      "period": "2026",
+      "views": 22840
+    }
+  ]
+}

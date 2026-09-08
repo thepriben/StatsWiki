@@ -4,7 +4,7 @@
   "title": "Krakatoa",
   "description": "Sunda Strait volcanic island caldera",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Krakatoa_NasaWorldWind_2000.jpg?width=64",
-  "total": 902940,
+  "total": 940605,
   "monthly": [
     {
       "period": "2015-08",
@@ -48,7 +48,7 @@
     },
     {
       "period": "2026-09",
-      "views": 74280
+      "views": 111945
     }
   ],
   "yearly": [
@@ -82,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 86040
+      "views": 123705
     }
   ]
 }

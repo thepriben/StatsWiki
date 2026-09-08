@@ -1,0 +1,52 @@
+{
+  "qid": "Q6423",
+  "label": "Boeing 767",
+  "title": "Boeing_767",
+  "description": "twinjet airliner family",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delta_Air_Lines_B767-332_N130DL.jpg?width=64",
+  "total": 66035,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 9512
+    },
+    {
+      "period": "2016-10",
+      "views": 12845
+    },
+    {
+      "period": "2019-02",
+      "views": 20621
+    },
+    {
+      "period": "2021-09",
+      "views": 13807
+    },
+    {
+      "period": "2026-09",
+      "views": 9250
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9512
+    },
+    {
+      "period": "2016",
+      "views": 12845
+    },
+    {
+      "period": "2019",
+      "views": 20621
+    },
+    {
+      "period": "2021",
+      "views": 13807
+    },
+    {
+      "period": "2026",
+      "views": 9250
+    }
+  ]
+}

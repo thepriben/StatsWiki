@@ -4,7 +4,7 @@
   "title": "Srebrenica_massacre",
   "description": "mass killings of Bosniaks in July 1995",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bosnia_and_Hercegovina_showing_Srebrenica.png?width=64",
-  "total": 1418500,
+  "total": 1428733,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 60462
+    },
+    {
+      "period": "2026-09",
+      "views": 10233
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 97256
+      "views": 107489
     }
   ]
 }

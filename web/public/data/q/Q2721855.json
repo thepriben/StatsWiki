@@ -4,7 +4,7 @@
   "title": "Mammootty",
   "description": "Indian actor and film producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ActorMammootty.jpg?width=64",
-  "total": 837082,
+  "total": 849666,
   "monthly": [
     {
       "period": "2016-09",
@@ -97,6 +97,10 @@
     {
       "period": "2026-07",
       "views": 11968
+    },
+    {
+      "period": "2026-09",
+      "views": 12584
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 69933
+      "views": 82517
     }
   ]
 }

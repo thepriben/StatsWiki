@@ -4,7 +4,7 @@
   "title": "Alicia_Vikander",
   "description": "Swedish actress (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alicia_Vikander-7756_%28cropped%29.jpg?width=64",
-  "total": 14232949,
+  "total": 14244299,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-08",
       "views": 9760
+    },
+    {
+      "period": "2026-09",
+      "views": 11350
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 63430
+      "views": 74780
     }
   ]
 }

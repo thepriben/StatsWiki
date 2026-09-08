@@ -1,0 +1,72 @@
+{
+  "qid": "Q375855",
+  "label": "American Graffiti",
+  "title": "American_Graffiti",
+  "description": "1973 film directed by George Lucas",
+  "image": "",
+  "total": 133765,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 9516
+    },
+    {
+      "period": "2015-12",
+      "views": 9719
+    },
+    {
+      "period": "2022-05",
+      "views": 11035
+    },
+    {
+      "period": "2022-07",
+      "views": 21837
+    },
+    {
+      "period": "2023-01",
+      "views": 17159
+    },
+    {
+      "period": "2024-05",
+      "views": 13964
+    },
+    {
+      "period": "2025-04",
+      "views": 17775
+    },
+    {
+      "period": "2026-05",
+      "views": 15184
+    },
+    {
+      "period": "2026-09",
+      "views": 17576
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 19235
+    },
+    {
+      "period": "2022",
+      "views": 32872
+    },
+    {
+      "period": "2023",
+      "views": 17159
+    },
+    {
+      "period": "2024",
+      "views": 13964
+    },
+    {
+      "period": "2025",
+      "views": 17775
+    },
+    {
+      "period": "2026",
+      "views": 32760
+    }
+  ]
+}
