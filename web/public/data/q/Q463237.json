@@ -1,0 +1,116 @@
+{
+  "qid": "Q463237",
+  "label": "American Airlines Flight 77",
+  "title": "American_Airlines_Flight_77",
+  "description": "2001 hijacking of an airliner and subsequent deliberate crash into The Pentagon in Virginia, USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flightpath-AA77.gif?width=64",
+  "total": 1221836,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 162390
+    },
+    {
+      "period": "2016-09",
+      "views": 121623
+    },
+    {
+      "period": "2017-03",
+      "views": 10137
+    },
+    {
+      "period": "2017-09",
+      "views": 51581
+    },
+    {
+      "period": "2018-09",
+      "views": 89877
+    },
+    {
+      "period": "2019-02",
+      "views": 11273
+    },
+    {
+      "period": "2019-09",
+      "views": 108250
+    },
+    {
+      "period": "2020-09",
+      "views": 95768
+    },
+    {
+      "period": "2021-09",
+      "views": 323992
+    },
+    {
+      "period": "2022-09",
+      "views": 39557
+    },
+    {
+      "period": "2023-09",
+      "views": 102364
+    },
+    {
+      "period": "2024-09",
+      "views": 64338
+    },
+    {
+      "period": "2025-09",
+      "views": 32367
+    },
+    {
+      "period": "2026-09",
+      "views": 8319
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 162390
+    },
+    {
+      "period": "2016",
+      "views": 121623
+    },
+    {
+      "period": "2017",
+      "views": 61718
+    },
+    {
+      "period": "2018",
+      "views": 89877
+    },
+    {
+      "period": "2019",
+      "views": 119523
+    },
+    {
+      "period": "2020",
+      "views": 95768
+    },
+    {
+      "period": "2021",
+      "views": 323992
+    },
+    {
+      "period": "2022",
+      "views": 39557
+    },
+    {
+      "period": "2023",
+      "views": 102364
+    },
+    {
+      "period": "2024",
+      "views": 64338
+    },
+    {
+      "period": "2025",
+      "views": 32367
+    },
+    {
+      "period": "2026",
+      "views": 8319
+    }
+  ]
+}

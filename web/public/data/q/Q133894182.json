@@ -4,7 +4,7 @@
   "title": "Star_Wars:_Starfighter",
   "description": "upcoming film directed by Shawn Levy",
   "image": "",
-  "total": 136841,
+  "total": 144769,
   "monthly": [
     {
       "period": "2025-04",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 31495
+    },
+    {
+      "period": "2026-09",
+      "views": 7928
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 120774
+      "views": 128702
     }
   ]
 }

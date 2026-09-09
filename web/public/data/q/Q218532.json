@@ -4,7 +4,7 @@
   "title": "John_Candy",
   "description": "Canadian actor (1950–1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Candy_%22SCTV_Network%22_%281982_NBC_press_photo%29.jpg?width=64",
-  "total": 10051651,
+  "total": 10061040,
   "monthly": [
     {
       "period": "2015-07",
@@ -393,6 +393,10 @@
     {
       "period": "2026-08",
       "views": 18194
+    },
+    {
+      "period": "2026-09",
+      "views": 9389
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 224436
+      "views": 233825
     }
   ]
 }

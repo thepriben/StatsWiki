@@ -4,7 +4,7 @@
   "title": "Rick_Springfield",
   "description": "Australian-American musician, singer-songwriter, and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick_Springfield-21_%2854518280999%29.jpg?width=64",
-  "total": 263115,
+  "total": 270844,
   "monthly": [
     {
       "period": "2015-08",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 21635
+    },
+    {
+      "period": "2026-09",
+      "views": 7729
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 43441
+      "views": 51170
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "FC_Porto",
   "description": "professional association football club based in Porto, Portugal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emblema_F_C_Porto_%28derived%29.jpg?width=64",
-  "total": 497194,
+  "total": 506505,
   "monthly": [
     {
       "period": "2015-07",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 12140
+    },
+    {
+      "period": "2026-09",
+      "views": 9311
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 12140
+      "views": 21451
     }
   ]
 }

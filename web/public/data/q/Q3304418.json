@@ -4,7 +4,7 @@
   "title": "Meghan_Markle",
   "description": "member of the British royal family and Duchess of Sussex since 2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg?width=64",
-  "total": 70664298,
+  "total": 70675421,
   "monthly": [
     {
       "period": "2016-01",
@@ -409,6 +409,10 @@
     {
       "period": "2026-08",
       "views": 109553
+    },
+    {
+      "period": "2026-09",
+      "views": 11123
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 109553
+      "views": 120676
     }
   ]
 }

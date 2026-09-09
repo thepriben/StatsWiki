@@ -4,7 +4,7 @@
   "title": "Christopher_Columbus",
   "description": "Italian navigator, explorer, and colonist (1451–1506)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg?width=64",
-  "total": 13989912,
+  "total": 13998645,
   "monthly": [
     {
       "period": "2015-08",
@@ -341,6 +341,10 @@
     {
       "period": "2026-08",
       "views": 10040
+    },
+    {
+      "period": "2026-09",
+      "views": 8733
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 173531
+      "views": 182264
     }
   ]
 }

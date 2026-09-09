@@ -1,0 +1,112 @@
+{
+  "qid": "Q11705",
+  "label": "United Airlines Flight 175",
+  "title": "United_Airlines_Flight_175",
+  "description": "9/11 hijacked passenger flight, hit the South Tower of the World Trade Center",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UA175_path.svg?width=64",
+  "total": 1239430,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 69979
+    },
+    {
+      "period": "2016-09",
+      "views": 86559
+    },
+    {
+      "period": "2017-04",
+      "views": 16471
+    },
+    {
+      "period": "2017-09",
+      "views": 54452
+    },
+    {
+      "period": "2018-09",
+      "views": 90497
+    },
+    {
+      "period": "2019-09",
+      "views": 124949
+    },
+    {
+      "period": "2020-09",
+      "views": 123399
+    },
+    {
+      "period": "2021-09",
+      "views": 384661
+    },
+    {
+      "period": "2022-09",
+      "views": 37581
+    },
+    {
+      "period": "2023-09",
+      "views": 134990
+    },
+    {
+      "period": "2024-09",
+      "views": 77303
+    },
+    {
+      "period": "2025-09",
+      "views": 29660
+    },
+    {
+      "period": "2026-09",
+      "views": 8929
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 69979
+    },
+    {
+      "period": "2016",
+      "views": 86559
+    },
+    {
+      "period": "2017",
+      "views": 70923
+    },
+    {
+      "period": "2018",
+      "views": 90497
+    },
+    {
+      "period": "2019",
+      "views": 124949
+    },
+    {
+      "period": "2020",
+      "views": 123399
+    },
+    {
+      "period": "2021",
+      "views": 384661
+    },
+    {
+      "period": "2022",
+      "views": 37581
+    },
+    {
+      "period": "2023",
+      "views": 134990
+    },
+    {
+      "period": "2024",
+      "views": 77303
+    },
+    {
+      "period": "2025",
+      "views": 29660
+    },
+    {
+      "period": "2026",
+      "views": 8929
+    }
+  ]
+}

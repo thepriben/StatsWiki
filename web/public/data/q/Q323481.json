@@ -1,0 +1,48 @@
+{
+  "qid": "Q323481",
+  "label": "Programme for International Student Assessment",
+  "title": "Programme_for_International_Student_Assessment",
+  "description": "scholastic performance study by the OECD",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PISA_participants_2022.svg?width=64",
+  "total": 98504,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 32554
+    },
+    {
+      "period": "2016-12",
+      "views": 13400
+    },
+    {
+      "period": "2019-12",
+      "views": 23285
+    },
+    {
+      "period": "2023-12",
+      "views": 11160
+    },
+    {
+      "period": "2026-09",
+      "views": 18105
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 45954
+    },
+    {
+      "period": "2019",
+      "views": 23285
+    },
+    {
+      "period": "2023",
+      "views": 11160
+    },
+    {
+      "period": "2026",
+      "views": 18105
+    }
+  ]
+}

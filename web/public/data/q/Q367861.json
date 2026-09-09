@@ -4,7 +4,7 @@
   "title": "Jordan_Ayew",
   "description": "Ghanaian-French footballer (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20150331_Mali_vs_Ghana_023.jpg?width=64",
-  "total": 393804,
+  "total": 404956,
   "monthly": [
     {
       "period": "2015-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 26513
+    },
+    {
+      "period": "2026-09",
+      "views": 11152
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 204143
+      "views": 215295
     }
   ]
 }

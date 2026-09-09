@@ -1,0 +1,64 @@
+{
+  "qid": "Q7391404",
+  "label": "SMU Mustangs football",
+  "title": "SMU_Mustangs_football",
+  "description": "SMU college football team",
+  "image": "",
+  "total": 186236,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 10674
+    },
+    {
+      "period": "2018-09",
+      "views": 28021
+    },
+    {
+      "period": "2019-11",
+      "views": 18053
+    },
+    {
+      "period": "2024-12",
+      "views": 84002
+    },
+    {
+      "period": "2025-11",
+      "views": 11446
+    },
+    {
+      "period": "2026-01",
+      "views": 12695
+    },
+    {
+      "period": "2026-09",
+      "views": 21345
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 10674
+    },
+    {
+      "period": "2018",
+      "views": 28021
+    },
+    {
+      "period": "2019",
+      "views": 18053
+    },
+    {
+      "period": "2024",
+      "views": 84002
+    },
+    {
+      "period": "2025",
+      "views": 11446
+    },
+    {
+      "period": "2026",
+      "views": 34040
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Achilles",
   "description": "Greek mythological hero of the Trojan War",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leon_Benouville_The_Wrath_of_Achilles.jpg?width=64",
-  "total": 1283321,
+  "total": 1295635,
   "monthly": [
     {
       "period": "2015-07",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 167626
+    },
+    {
+      "period": "2026-09",
+      "views": 12314
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 734916
+      "views": 747230
     }
   ]
 }

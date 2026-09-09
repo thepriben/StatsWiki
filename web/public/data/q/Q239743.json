@@ -4,7 +4,7 @@
   "title": "Niʻihau",
   "description": "island in Hawaii, United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Niihau_sep_2007.jpg?width=64",
-  "total": 383476,
+  "total": 393482,
   "monthly": [
     {
       "period": "2020-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 14902
+    },
+    {
+      "period": "2026-09",
+      "views": 10006
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 36062
+      "views": 46068
     }
   ]
 }

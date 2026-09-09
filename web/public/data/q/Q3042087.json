@@ -4,7 +4,7 @@
   "title": "Houthis",
   "description": "Yemeni Islamist organization",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Houthis_protest_against_airstrikes_2.png?width=64",
-  "total": 1024578,
+  "total": 1035089,
   "monthly": [
     {
       "period": "2016-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 69252
+    },
+    {
+      "period": "2026-09",
+      "views": 10511
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 326548
+      "views": 337059
     }
   ]
 }

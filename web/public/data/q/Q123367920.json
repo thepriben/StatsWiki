@@ -4,7 +4,7 @@
   "title": "The_Legend_of_Zelda_(film)",
   "description": "film project by Wes Ball",
   "image": "",
-  "total": 138077,
+  "total": 157399,
   "monthly": [
     {
       "period": "2025-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 69337
+    },
+    {
+      "period": "2026-09",
+      "views": 19322
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 69337
+      "views": 88659
     }
   ]
 }

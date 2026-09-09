@@ -4,7 +4,7 @@
   "title": "Alex_Briley",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alex_Briley_%28cropped%29.jpg?width=64",
-  "total": 42201,
+  "total": 53777,
   "monthly": [
     {
       "period": "2025-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 20171
+    },
+    {
+      "period": "2026-09",
+      "views": 11576
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 20171
+      "views": 31747
     }
   ]
 }

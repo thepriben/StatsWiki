@@ -4,7 +4,7 @@
   "title": "Equal_Earth_projection",
   "description": "pseudocylindrical, equal-area map projection",
   "image": "",
-  "total": 369982,
+  "total": 391857,
   "monthly": [
     {
       "period": "2025-08",
@@ -12,7 +12,7 @@
     },
     {
       "period": "2026-09",
-      "views": 318858
+      "views": 340733
     }
   ],
   "yearly": [
@@ -22,7 +22,7 @@
     },
     {
       "period": "2026",
-      "views": 318858
+      "views": 340733
     }
   ]
 }

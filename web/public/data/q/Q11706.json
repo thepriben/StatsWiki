@@ -1,0 +1,52 @@
+{
+  "qid": "Q11706",
+  "label": "Windows on the World",
+  "title": "Windows_on_the_World",
+  "description": "complex of venues in the North Tower of the World Trade Center in Lower Manhattan",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/107e_%C3%A9tage_du_World_Trade_Center_%2810-12-1979%29_%281%29.JPG?width=64",
+  "total": 131013,
+  "monthly": [
+    {
+      "period": "2019-09",
+      "views": 10977
+    },
+    {
+      "period": "2020-09",
+      "views": 10961
+    },
+    {
+      "period": "2021-09",
+      "views": 88378
+    },
+    {
+      "period": "2023-09",
+      "views": 10857
+    },
+    {
+      "period": "2026-09",
+      "views": 9840
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 10977
+    },
+    {
+      "period": "2020",
+      "views": 10961
+    },
+    {
+      "period": "2021",
+      "views": 88378
+    },
+    {
+      "period": "2023",
+      "views": 10857
+    },
+    {
+      "period": "2026",
+      "views": 9840
+    }
+  ]
+}

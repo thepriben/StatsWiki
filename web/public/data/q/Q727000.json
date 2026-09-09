@@ -1,0 +1,52 @@
+{
+  "qid": "Q727000",
+  "label": "Millennium Problems",
+  "title": "Millennium_Prize_Problems",
+  "description": "seven mathematical problems whose solution is awarded with a US$1 million prize each",
+  "image": "",
+  "total": 164823,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 12764
+    },
+    {
+      "period": "2019-08",
+      "views": 46847
+    },
+    {
+      "period": "2022-09",
+      "views": 15443
+    },
+    {
+      "period": "2023-10",
+      "views": 38847
+    },
+    {
+      "period": "2026-09",
+      "views": 50922
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12764
+    },
+    {
+      "period": "2019",
+      "views": 46847
+    },
+    {
+      "period": "2022",
+      "views": 15443
+    },
+    {
+      "period": "2023",
+      "views": 38847
+    },
+    {
+      "period": "2026",
+      "views": 50922
+    }
+  ]
+}

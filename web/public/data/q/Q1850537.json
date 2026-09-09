@@ -1,0 +1,44 @@
+{
+  "qid": "Q1850537",
+  "label": "Severn Bridge",
+  "title": "Severn_Bridge",
+  "description": "suspension bridge in Gloucestershire, England",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_severn_bridge_small.jpg?width=64",
+  "total": 60103,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 16332
+    },
+    {
+      "period": "2016-09",
+      "views": 15116
+    },
+    {
+      "period": "2021-09",
+      "views": 14426
+    },
+    {
+      "period": "2026-09",
+      "views": 14229
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 16332
+    },
+    {
+      "period": "2016",
+      "views": 15116
+    },
+    {
+      "period": "2021",
+      "views": 14426
+    },
+    {
+      "period": "2026",
+      "views": 14229
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "qid": "Q899048",
   "label": "Lyle and Erik Menendez",
-  "title": "Lyle_and_Erik_Menendez",
+  "title": "Lyle_and_Erik_Menéndez",
   "description": "American brothers convicted of their parents murder",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Menendez_brothers_2023.png?width=64",
-  "total": 37415174,
+  "total": 37435168,
   "monthly": [
     {
       "period": "2015-08",
@@ -313,6 +313,10 @@
     {
       "period": "2025-11",
       "views": 53066
+    },
+    {
+      "period": "2026-09",
+      "views": 19994
     }
   ],
   "yearly": [
@@ -359,6 +363,10 @@
     {
       "period": "2025",
       "views": 3050491
+    },
+    {
+      "period": "2026",
+      "views": 19994
     }
   ]
 }
