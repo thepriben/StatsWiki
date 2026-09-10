@@ -4,7 +4,7 @@
   "title": "Drishyam_(2015_film)",
   "description": "2015 film directed by Nishikant Kamat",
   "image": "",
-  "total": 2141795,
+  "total": 2151781,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2022-12",
       "views": 13716
+    },
+    {
+      "period": "2026-09",
+      "views": 9986
     }
   ],
   "yearly": [
@@ -79,6 +83,10 @@
     {
       "period": "2022",
       "views": 406364
+    },
+    {
+      "period": "2026",
+      "views": 9986
     }
   ]
 }

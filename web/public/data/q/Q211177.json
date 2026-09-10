@@ -4,17 +4,21 @@
   "title": "Viking_FK",
   "description": "association football club in Stavanger, Norway",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Viking_Logo.png?width=64",
-  "total": 29515,
+  "total": 40758,
   "monthly": [
     {
       "period": "2026-08",
       "views": 29515
+    },
+    {
+      "period": "2026-09",
+      "views": 11243
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 29515
+      "views": 40758
     }
   ]
 }

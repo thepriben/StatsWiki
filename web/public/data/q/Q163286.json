@@ -4,7 +4,7 @@
   "title": "Hugh_Grant",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugh_Grant_in_2014.jpg?width=64",
-  "total": 7578013,
+  "total": 7592368,
   "monthly": [
     {
       "period": "2015-07",
@@ -325,6 +325,10 @@
     {
       "period": "2026-07",
       "views": 28726
+    },
+    {
+      "period": "2026-09",
+      "views": 14355
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 51840
+      "views": 66195
     }
   ]
 }

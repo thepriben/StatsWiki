@@ -4,7 +4,7 @@
   "title": "Carl_XVI_Gustaf",
   "description": "King of Sweden since 1973",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/06.11.2025_%E2%80%93_Recep%C3%A7%C3%A3o_Oficial_dos_Chefes_de_Delega%C3%A7%C3%A3o_da_C%C3%BApula_do_Clima_%2854906269035%29_%28Carlos_XVI_Gustavo%29.jpg?width=64",
-  "total": 46780,
+  "total": 56762,
   "monthly": [
     {
       "period": "2022-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 33358
+    },
+    {
+      "period": "2026-09",
+      "views": 9982
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 33358
+      "views": 43340
     }
   ]
 }

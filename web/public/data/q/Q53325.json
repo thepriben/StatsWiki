@@ -4,7 +4,7 @@
   "title": "Arthur_Ashe",
   "description": "American tennis player (1943–1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Ashe_%28cropped%29.jpg?width=64",
-  "total": 1434129,
+  "total": 1443977,
   "monthly": [
     {
       "period": "2015-07",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 10659
+    },
+    {
+      "period": "2026-09",
+      "views": 9848
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 28518
+      "views": 38366
     }
   ]
 }

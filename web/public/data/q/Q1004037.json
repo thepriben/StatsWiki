@@ -4,7 +4,7 @@
   "title": "Frederik_X",
   "description": "King of Denmark since 2024",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Frederik_X_in_2025.jpg?width=64",
-  "total": 549150,
+  "total": 557158,
   "monthly": [
     {
       "period": "2024-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 30492
+    },
+    {
+      "period": "2026-09",
+      "views": 8008
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 174385
+      "views": 182393
     }
   ]
 }

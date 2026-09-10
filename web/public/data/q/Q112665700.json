@@ -1,0 +1,56 @@
+{
+  "qid": "Q112665700",
+  "label": "Drishyam 2",
+  "title": "Drishyam_2_(2022_film)",
+  "description": "film directed by Abhishek Pathak",
+  "image": "",
+  "total": 3327311,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 33875
+    },
+    {
+      "period": "2022-10",
+      "views": 75751
+    },
+    {
+      "period": "2022-11",
+      "views": 1710395
+    },
+    {
+      "period": "2022-12",
+      "views": 813683
+    },
+    {
+      "period": "2023-01",
+      "views": 635831
+    },
+    {
+      "period": "2023-02",
+      "views": 11610
+    },
+    {
+      "period": "2023-03",
+      "views": 32711
+    },
+    {
+      "period": "2026-09",
+      "views": 13455
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 2633704
+    },
+    {
+      "period": "2023",
+      "views": 680152
+    },
+    {
+      "period": "2026",
+      "views": 13455
+    }
+  ]
+}

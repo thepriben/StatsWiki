@@ -4,7 +4,7 @@
   "title": "Diego_Simeone",
   "description": "Argentine association football player and manager (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Simeone.jpg?width=64",
-  "total": 1872988,
+  "total": 1887691,
   "monthly": [
     {
       "period": "2016-04",
@@ -141,6 +141,10 @@
     {
       "period": "2026-07",
       "views": 335528
+    },
+    {
+      "period": "2026-09",
+      "views": 14703
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 671644
+      "views": 686347
     }
   ]
 }

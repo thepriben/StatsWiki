@@ -4,7 +4,7 @@
   "title": "Luka_Modrić",
   "description": "Croatian footballer (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luka_Modric_Interview_2021_%28cropped%29.jpg?width=64",
-  "total": 7720225,
+  "total": 7730301,
   "monthly": [
     {
       "period": "2016-05",
@@ -213,6 +213,10 @@
     {
       "period": "2026-07",
       "views": 736370
+    },
+    {
+      "period": "2026-09",
+      "views": 10076
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 1441975
+      "views": 1452051
     }
   ]
 }

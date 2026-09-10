@@ -4,7 +4,7 @@
   "title": "Carrie_(1976_film)",
   "description": "1976 film directed by Brian De Palma",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrie_1976_Logo.svg?width=64",
-  "total": 152757,
+  "total": 162297,
   "monthly": [
     {
       "period": "2016-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 10041
+    },
+    {
+      "period": "2026-09",
+      "views": 9540
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 10041
+      "views": 19581
     }
   ]
 }

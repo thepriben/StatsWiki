@@ -4,7 +4,7 @@
   "title": "Peasants'_Revolt",
   "description": "major uprising across large parts of England in 1381",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg?width=64",
-  "total": 411560,
+  "total": 419580,
   "monthly": [
     {
       "period": "2017-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 28072
+    },
+    {
+      "period": "2026-09",
+      "views": 8020
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 264430
+      "views": 272450
     }
   ]
 }

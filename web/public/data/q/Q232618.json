@@ -4,7 +4,7 @@
   "title": "Conchita_Martínez",
   "description": "Spanish tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02.jpg?width=64",
-  "total": 324412,
+  "total": 334590,
   "monthly": [
     {
       "period": "2017-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 106481
+    },
+    {
+      "period": "2026-09",
+      "views": 10178
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 106481
+      "views": 116659
     }
   ]
 }

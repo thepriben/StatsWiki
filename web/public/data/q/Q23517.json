@@ -4,7 +4,7 @@
   "title": "Ricky_Gervais",
   "description": "British comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricky_Gervais_2010.jpg?width=64",
-  "total": 4576910,
+  "total": 4584827,
   "monthly": [
     {
       "period": "2015-09",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 19272
+    },
+    {
+      "period": "2026-09",
+      "views": 7917
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 161543
+      "views": 169460
     }
   ]
 }

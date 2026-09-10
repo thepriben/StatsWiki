@@ -4,7 +4,7 @@
   "title": "Kevin_De_Bruyne",
   "description": "Belgian association football player (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg?width=64",
-  "total": 4763474,
+  "total": 4772287,
   "monthly": [
     {
       "period": "2015-07",
@@ -269,6 +269,10 @@
     {
       "period": "2026-07",
       "views": 321838
+    },
+    {
+      "period": "2026-09",
+      "views": 8813
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 516490
+      "views": 525303
     }
   ]
 }

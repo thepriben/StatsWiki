@@ -4,7 +4,7 @@
   "title": "Yaya_Touré",
   "description": "Ivorian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yaya_Tour%C3%A9_%28cropped%29.jpg?width=64",
-  "total": 730552,
+  "total": 741207,
   "monthly": [
     {
       "period": "2015-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-08",
       "views": 26773
+    },
+    {
+      "period": "2026-09",
+      "views": 10655
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 26773
+      "views": 37428
     }
   ]
 }

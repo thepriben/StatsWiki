@@ -4,7 +4,7 @@
   "title": "Rodri_(footballer,_born_1996)",
   "description": "Spanish association football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg?width=64",
-  "total": 3791568,
+  "total": 3800627,
   "monthly": [
     {
       "period": "2018-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-08",
       "views": 582479
+    },
+    {
+      "period": "2026-09",
+      "views": 9059
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 2072238
+      "views": 2081297
     }
   ]
 }

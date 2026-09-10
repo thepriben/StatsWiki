@@ -4,7 +4,7 @@
   "title": "Three_Billboards_Outside_Ebbing,_Missouri",
   "description": "2017 film directed by Martin McDonagh",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Three_Billboards_Outside_Ebbing%2C_Missouri_grau.svg?width=64",
-  "total": 5665888,
+  "total": 5675411,
   "monthly": [
     {
       "period": "2017-03",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 12733
+    },
+    {
+      "period": "2026-09",
+      "views": 9523
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 36736
+      "views": 46259
     }
   ]
 }

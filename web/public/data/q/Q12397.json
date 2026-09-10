@@ -1,0 +1,56 @@
+{
+  "qid": "Q12397",
+  "label": "Metroid",
+  "title": "Metroid",
+  "description": "video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Metroid_Logo_2017.svg?width=64",
+  "total": 256601,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 35082
+    },
+    {
+      "period": "2017-06",
+      "views": 30096
+    },
+    {
+      "period": "2021-06",
+      "views": 87906
+    },
+    {
+      "period": "2021-10",
+      "views": 58575
+    },
+    {
+      "period": "2024-10",
+      "views": 35240
+    },
+    {
+      "period": "2026-09",
+      "views": 9702
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 35082
+    },
+    {
+      "period": "2017",
+      "views": 30096
+    },
+    {
+      "period": "2021",
+      "views": 146481
+    },
+    {
+      "period": "2024",
+      "views": 35240
+    },
+    {
+      "period": "2026",
+      "views": 9702
+    }
+  ]
+}

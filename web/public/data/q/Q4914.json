@@ -4,7 +4,7 @@
   "title": "Jimmy_Kimmel",
   "description": "American talk show host and comedian (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jimmy_Kimmel_June_2022.jpg?width=64",
-  "total": 4427547,
+  "total": 4435301,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-08",
       "views": 7709
+    },
+    {
+      "period": "2026-09",
+      "views": 7754
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 185730
+      "views": 193484
     }
   ]
 }

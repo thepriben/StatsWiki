@@ -4,7 +4,7 @@
   "title": "Timothy_McVeigh",
   "description": "American domestic anti-government terrorist (1968–2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Timothy_McVeigh_FBI_mugshot.jpg?width=64",
-  "total": 3377250,
+  "total": 3387212,
   "monthly": [
     {
       "period": "2015-08",
@@ -221,6 +221,10 @@
     {
       "period": "2026-08",
       "views": 9599
+    },
+    {
+      "period": "2026-09",
+      "views": 9962
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 49071
+      "views": 59033
     }
   ]
 }

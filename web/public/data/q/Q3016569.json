@@ -4,7 +4,7 @@
   "title": "Darryl_Kile",
   "description": "American baseball player",
   "image": "",
-  "total": 274623,
+  "total": 282948,
   "monthly": [
     {
       "period": "2016-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 31777
+    },
+    {
+      "period": "2026-09",
+      "views": 8325
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 139715
+      "views": 148040
     }
   ]
 }

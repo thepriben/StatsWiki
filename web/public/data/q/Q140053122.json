@@ -4,17 +4,21 @@
   "title": "America's_Got_Talent_season_21",
   "description": "season of television series",
   "image": "",
-  "total": 9381,
+  "total": 19606,
   "monthly": [
     {
       "period": "2026-08",
       "views": 9381
+    },
+    {
+      "period": "2026-09",
+      "views": 10225
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9381
+      "views": 19606
     }
   ]
 }

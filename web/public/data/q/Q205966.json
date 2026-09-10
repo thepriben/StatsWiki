@@ -4,7 +4,7 @@
   "title": "Riemann_hypothesis",
   "description": "conjecture in mathematics linked to the repartition of prime numbers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/VignetteRiemannHypothesis.svg?width=64",
-  "total": 342296,
+  "total": 350366,
   "monthly": [
     {
       "period": "2015-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 10517
+    },
+    {
+      "period": "2026-09",
+      "views": 8070
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 10517
+      "views": 18587
     }
   ]
 }

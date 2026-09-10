@@ -4,7 +4,7 @@
   "title": "ŠK_Slovan_Bratislava",
   "description": "association football club in Bratislava, Slovakia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Slovan_Bratislava_1975.jpg?width=64",
-  "total": 21443,
+  "total": 30898,
   "monthly": [
     {
       "period": "2024-08",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 12255
+    },
+    {
+      "period": "2026-09",
+      "views": 9455
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 12255
+      "views": 21710
     }
   ]
 }
