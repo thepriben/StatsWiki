@@ -4,7 +4,7 @@
   "title": "Darron_Lee",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darron_Lee.jpg?width=64",
-  "total": 304962,
+  "total": 315513,
   "monthly": [
     {
       "period": "2016-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 14307
+    },
+    {
+      "period": "2026-09",
+      "views": 10551
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 271670
+      "views": 282221
     }
   ]
 }

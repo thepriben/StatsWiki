@@ -4,7 +4,7 @@
   "title": "Resident_Evil",
   "description": "media franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Resident_Evil_logo.svg?width=64",
-  "total": 3003256,
+  "total": 3010950,
   "monthly": [
     {
       "period": "2015-07",
@@ -117,6 +117,10 @@
     {
       "period": "2026-07",
       "views": 25599
+    },
+    {
+      "period": "2026-09",
+      "views": 7694
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 885290
+      "views": 892984
     }
   ]
 }

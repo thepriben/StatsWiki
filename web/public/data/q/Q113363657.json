@@ -4,7 +4,7 @@
   "title": "Drake_Maye",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Drake_Maye_High_School.png?width=64",
-  "total": 3990630,
+  "total": 4059651,
   "monthly": [
     {
       "period": "2022-12",
@@ -65,6 +65,10 @@
     {
       "period": "2026-02",
       "views": 973547
+    },
+    {
+      "period": "2026-09",
+      "views": 69021
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 2338646
+      "views": 2407667
     }
   ]
 }

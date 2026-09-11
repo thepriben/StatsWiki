@@ -4,7 +4,7 @@
   "title": "Brothers_(2009_film)",
   "description": "2009 film directed by Jim Sheridan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brothers_%28film%29_Logo.png?width=64",
-  "total": 883195,
+  "total": 898414,
   "monthly": [
     {
       "period": "2017-06",
@@ -97,6 +97,10 @@
     {
       "period": "2026-08",
       "views": 89678
+    },
+    {
+      "period": "2026-09",
+      "views": 15219
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 89678
+      "views": 104897
     }
   ]
 }

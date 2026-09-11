@@ -4,17 +4,21 @@
   "title": "Eumetabola",
   "description": "clade of insects",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lygus_rugulipennis_%28Miridae_sp.%29%2C_Doorwerth%2C_the_Netherlands.jpg?width=64",
-  "total": 18304,
+  "total": 34473,
   "monthly": [
     {
       "period": "2026-06",
       "views": 18304
+    },
+    {
+      "period": "2026-09",
+      "views": 16169
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 18304
+      "views": 34473
     }
   ]
 }

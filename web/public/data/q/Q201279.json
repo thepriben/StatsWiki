@@ -4,7 +4,7 @@
   "title": "Woody_Harrelson",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Woody_Harrelson_191020-N-NU281-1028_%28cropped%29.jpg?width=64",
-  "total": 6283696,
+  "total": 6296676,
   "monthly": [
     {
       "period": "2015-09",
@@ -329,6 +329,10 @@
     {
       "period": "2026-08",
       "views": 82980
+    },
+    {
+      "period": "2026-09",
+      "views": 12980
     }
   ],
   "yearly": [
@@ -378,7 +382,7 @@
     },
     {
       "period": "2026",
-      "views": 109856
+      "views": 122836
     }
   ]
 }

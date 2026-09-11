@@ -4,7 +4,7 @@
   "title": "Sting_(wrestler)",
   "description": "American professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20230122sting1_%28cropped%29.jpg?width=64",
-  "total": 1103786,
+  "total": 1113426,
   "monthly": [
     {
       "period": "2015-08",
@@ -77,6 +77,10 @@
     {
       "period": "2026-08",
       "views": 10351
+    },
+    {
+      "period": "2026-09",
+      "views": 9640
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 10351
+      "views": 19991
     }
   ]
 }

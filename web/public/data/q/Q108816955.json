@@ -4,7 +4,7 @@
   "title": "Milly_Alcock",
   "description": "Australian actress (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milly_alcock_2026_1.jpg?width=64",
-  "total": 6609403,
+  "total": 6619641,
   "monthly": [
     {
       "period": "2022-08",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 171352
+    },
+    {
+      "period": "2026-09",
+      "views": 10238
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 1615763
+      "views": 1626001
     }
   ]
 }

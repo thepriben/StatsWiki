@@ -4,7 +4,7 @@
   "title": "Nico_Paz",
   "description": "Spanish-Argentine football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nico_Paz_Como_2025.jpg?width=64",
-  "total": 428646,
+  "total": 436916,
   "monthly": [
     {
       "period": "2023-11",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 99539
+    },
+    {
+      "period": "2026-09",
+      "views": 8270
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 216930
+      "views": 225200
     }
   ]
 }

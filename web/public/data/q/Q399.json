@@ -4,7 +4,7 @@
   "title": "Armenia",
   "description": "sovereign state in the South Caucasus region of Eurasia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Noravank_panorama.jpg?width=64",
-  "total": 5166641,
+  "total": 5177453,
   "monthly": [
     {
       "period": "2015-09",
@@ -269,6 +269,10 @@
     {
       "period": "2026-06",
       "views": 50622
+    },
+    {
+      "period": "2026-09",
+      "views": 10812
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 108843
+      "views": 119655
     }
   ]
 }

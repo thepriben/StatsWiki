@@ -4,7 +4,7 @@
   "title": "Spice_Girls",
   "description": "British girl group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spice_Girls_%286_janv%29_56.jpg?width=64",
-  "total": 4811009,
+  "total": 4823443,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-08",
       "views": 12984
+    },
+    {
+      "period": "2026-09",
+      "views": 12434
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 188925
+      "views": 201359
     }
   ]
 }

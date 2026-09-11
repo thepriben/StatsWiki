@@ -4,7 +4,7 @@
   "title": "Jalen_Milroe",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jalen_Milroe_Graduation.png?width=64",
-  "total": 344524,
+  "total": 355504,
   "monthly": [
     {
       "period": "2022-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 22413
+    },
+    {
+      "period": "2026-09",
+      "views": 10980
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 41761
+      "views": 52741
     }
   ]
 }

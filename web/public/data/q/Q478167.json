@@ -4,7 +4,7 @@
   "title": "FK_Bodø/Glimt",
   "description": "association football club in Bodø, Norway",
   "image": "",
-  "total": 996825,
+  "total": 1009373,
   "monthly": [
     {
       "period": "2021-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 9908
+    },
+    {
+      "period": "2026-09",
+      "views": 12548
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 401656
+      "views": 414204
     }
   ]
 }

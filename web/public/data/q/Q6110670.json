@@ -4,7 +4,7 @@
   "title": "Rodrigo_De_Paul",
   "description": "Argentine association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo_De_Paul_Argentina_v_Egypt_7_July_2026-344_%28cropped%29.jpg?width=64",
-  "total": 1415195,
+  "total": 1432345,
   "monthly": [
     {
       "period": "2020-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 349919
+    },
+    {
+      "period": "2026-09",
+      "views": 17150
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 428945
+      "views": 446095
     }
   ]
 }

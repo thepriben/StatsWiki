@@ -4,7 +4,7 @@
   "title": "Fenerbahçe_S.K._(football)",
   "description": "association football section of multi-sports club Fenerbahçe SK",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Herkes_haddini_bilecek.jpg?width=64",
-  "total": 506616,
+  "total": 521002,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 57132
+    },
+    {
+      "period": "2026-09",
+      "views": 14386
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 66197
+      "views": 80583
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Drew_Lock",
   "description": "American football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Drew_Lock.JPG?width=64",
-  "total": 1286854,
+  "total": 1521827,
   "monthly": [
     {
       "period": "2019-04",
@@ -85,6 +85,10 @@
     {
       "period": "2026-08",
       "views": 24142
+    },
+    {
+      "period": "2026-09",
+      "views": 234973
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 59879
+      "views": 294852
     }
   ]
 }

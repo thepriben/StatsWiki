@@ -4,7 +4,7 @@
   "title": "Pearl_Jam",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PearlJam-Oakland-2013.JPG?width=64",
-  "total": 648595,
+  "total": 660543,
   "monthly": [
     {
       "period": "2015-09",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 12583
+    },
+    {
+      "period": "2026-09",
+      "views": 11948
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 12583
+      "views": 24531
     }
   ]
 }

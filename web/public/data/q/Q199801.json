@@ -4,7 +4,7 @@
   "title": "Cindy_Crawford",
   "description": "American model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cindy_Crawford_in_London.jpg?width=64",
-  "total": 647496,
+  "total": 664104,
   "monthly": [
     {
       "period": "2015-08",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 121972
+    },
+    {
+      "period": "2026-09",
+      "views": 16608
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 174574
+      "views": 191182
     }
   ]
 }
