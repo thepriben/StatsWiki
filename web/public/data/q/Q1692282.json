@@ -1,0 +1,88 @@
+{
+  "qid": "Q1692282",
+  "label": "World Trade Center site",
+  "title": "World_Trade_Center_site",
+  "description": "grounds of the World Trade Center in New York City",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wtc-photo.jpg?width=64",
+  "total": 278193,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 22358
+    },
+    {
+      "period": "2016-09",
+      "views": 30498
+    },
+    {
+      "period": "2016-10",
+      "views": 20834
+    },
+    {
+      "period": "2018-09",
+      "views": 24034
+    },
+    {
+      "period": "2019-09",
+      "views": 31197
+    },
+    {
+      "period": "2020-09",
+      "views": 14751
+    },
+    {
+      "period": "2021-09",
+      "views": 75671
+    },
+    {
+      "period": "2023-09",
+      "views": 25346
+    },
+    {
+      "period": "2024-09",
+      "views": 8799
+    },
+    {
+      "period": "2026-09",
+      "views": 24705
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 22358
+    },
+    {
+      "period": "2016",
+      "views": 51332
+    },
+    {
+      "period": "2018",
+      "views": 24034
+    },
+    {
+      "period": "2019",
+      "views": 31197
+    },
+    {
+      "period": "2020",
+      "views": 14751
+    },
+    {
+      "period": "2021",
+      "views": 75671
+    },
+    {
+      "period": "2023",
+      "views": 25346
+    },
+    {
+      "period": "2024",
+      "views": 8799
+    },
+    {
+      "period": "2026",
+      "views": 24705
+    }
+  ]
+}

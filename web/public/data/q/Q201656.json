@@ -4,7 +4,7 @@
   "title": "Nick_Jonas",
   "description": "American singer, actor and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Jonas_Cannes_2019_%28cropped%29.jpg?width=64",
-  "total": 23446606,
+  "total": 23498927,
   "monthly": [
     {
       "period": "2015-07",
@@ -393,6 +393,10 @@
     {
       "period": "2026-08",
       "views": 23932
+    },
+    {
+      "period": "2026-09",
+      "views": 52321
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 218674
+      "views": 270995
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Brandon_Aiyuk",
   "description": "American football wide receiver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandon_Aiyuk_2020_%28cropped%29.jpg?width=64",
-  "total": 369634,
+  "total": 380401,
   "monthly": [
     {
       "period": "2020-04",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 21168
+    },
+    {
+      "period": "2026-09",
+      "views": 10767
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 53538
+      "views": 64305
     }
   ]
 }

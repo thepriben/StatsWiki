@@ -4,7 +4,7 @@
   "title": "George_Kittle",
   "description": "American football player (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Kittle_2019_%2848940368597%29.jpg?width=64",
-  "total": 2115775,
+  "total": 2127798,
   "monthly": [
     {
       "period": "2018-11",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 9605
+    },
+    {
+      "period": "2026-09",
+      "views": 12023
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 153006
+      "views": 165029
     }
   ]
 }

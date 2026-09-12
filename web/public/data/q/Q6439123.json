@@ -4,7 +4,7 @@
   "title": "Kroy_Biermann",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kroy_Biermann_2013_02.jpg?width=64",
-  "total": 1308001,
+  "total": 1322702,
   "monthly": [
     {
       "period": "2015-07",
@@ -89,6 +89,10 @@
     {
       "period": "2026-08",
       "views": 11476
+    },
+    {
+      "period": "2026-09",
+      "views": 14701
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 11476
+      "views": 26177
     }
   ]
 }

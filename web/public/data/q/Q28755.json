@@ -4,7 +4,7 @@
   "title": "Matthew_Broderick",
   "description": "American actor (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matthew_Broderick_2022.jpg?width=64",
-  "total": 3254846,
+  "total": 3266490,
   "monthly": [
     {
       "period": "2015-08",
@@ -269,6 +269,10 @@
     {
       "period": "2026-07",
       "views": 9323
+    },
+    {
+      "period": "2026-09",
+      "views": 11644
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 105969
+      "views": 117613
     }
   ]
 }

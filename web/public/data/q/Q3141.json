@@ -1,0 +1,64 @@
+{
+  "qid": "Q3141",
+  "label": "Melbourne",
+  "title": "Melbourne",
+  "description": "capital city of Victoria, Australia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne_CBD_and_Ceremonial_Avenue_%28in_2024%29_as_seen_from_the_rooftop_of_Shrine_of_Remembrance.jpg?width=64",
+  "total": 105511,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 14655
+    },
+    {
+      "period": "2017-07",
+      "views": 18470
+    },
+    {
+      "period": "2017-08",
+      "views": 9517
+    },
+    {
+      "period": "2017-12",
+      "views": 8921
+    },
+    {
+      "period": "2020-07",
+      "views": 10205
+    },
+    {
+      "period": "2023-04",
+      "views": 10796
+    },
+    {
+      "period": "2023-12",
+      "views": 14722
+    },
+    {
+      "period": "2026-09",
+      "views": 18225
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 14655
+    },
+    {
+      "period": "2017",
+      "views": 36908
+    },
+    {
+      "period": "2020",
+      "views": 10205
+    },
+    {
+      "period": "2023",
+      "views": 25518
+    },
+    {
+      "period": "2026",
+      "views": 18225
+    }
+  ]
+}

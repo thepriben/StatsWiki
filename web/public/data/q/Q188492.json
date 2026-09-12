@@ -4,7 +4,7 @@
   "title": "Seth_MacFarlane",
   "description": "American writer, actor, and producer (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seth_MacFarlane_2012_cropped_and_retouched.jpg?width=64",
-  "total": 6287625,
+  "total": 6307962,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-03",
       "views": 157694
+    },
+    {
+      "period": "2026-09",
+      "views": 20337
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 166920
+      "views": 187257
     }
   ]
 }

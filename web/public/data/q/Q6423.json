@@ -4,7 +4,7 @@
   "title": "Boeing_767",
   "description": "twinjet airliner family",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delta_Air_Lines_B767-332_N130DL.jpg?width=64",
-  "total": 66035,
+  "total": 77151,
   "monthly": [
     {
       "period": "2015-10",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-09",
-      "views": 9250
+      "views": 20366
     }
   ],
   "yearly": [
@@ -46,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 9250
+      "views": 20366
     }
   ]
 }

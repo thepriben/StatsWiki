@@ -1,0 +1,28 @@
+{
+  "qid": "Q466313",
+  "label": "Langstroth hive",
+  "title": "Langstroth_hive",
+  "description": "type of beehive",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Imkerei_THWZ_0000.jpg?width=64",
+  "total": 152739,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 120474
+    },
+    {
+      "period": "2026-09",
+      "views": 32265
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 120474
+    },
+    {
+      "period": "2026",
+      "views": 32265
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Venky_Atluri",
   "description": "Indian film director",
   "image": "",
-  "total": 376257,
+  "total": 389702,
   "monthly": [
     {
       "period": "2021-12",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 140876
+    },
+    {
+      "period": "2026-09",
+      "views": 13445
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 140876
+      "views": 154321
     }
   ]
 }

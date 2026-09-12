@@ -4,7 +4,7 @@
   "title": "Empire_State_Building",
   "description": "skyscraper located in Midtown Manhattan, New York City, USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Empire_State_Building_%28aerial_view%29.jpg?width=64",
-  "total": 414702,
+  "total": 423965,
   "monthly": [
     {
       "period": "2015-10",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 85343
+    },
+    {
+      "period": "2026-09",
+      "views": 9263
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 85343
+      "views": 94606
     }
   ]
 }

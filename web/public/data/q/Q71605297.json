@@ -4,7 +4,7 @@
   "title": "Brock_Purdy",
   "description": "American football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BrockPurdy2021_%28cropped%29.jpg?width=64",
-  "total": 8293015,
+  "total": 8331230,
   "monthly": [
     {
       "period": "2022-05",
@@ -93,6 +93,10 @@
     {
       "period": "2026-01",
       "views": 202815
+    },
+    {
+      "period": "2026-09",
+      "views": 38215
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 202815
+      "views": 241030
     }
   ]
 }

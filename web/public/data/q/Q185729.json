@@ -1,0 +1,48 @@
+{
+  "qid": "Q185729",
+  "label": "War on Terrorism",
+  "title": "War_on_terror",
+  "description": "military campaign started after September 11 attacks",
+  "image": "",
+  "total": 124758,
+  "monthly": [
+    {
+      "period": "2021-08",
+      "views": 45987
+    },
+    {
+      "period": "2021-09",
+      "views": 27615
+    },
+    {
+      "period": "2023-09",
+      "views": 24696
+    },
+    {
+      "period": "2024-09",
+      "views": 10389
+    },
+    {
+      "period": "2026-09",
+      "views": 16071
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 73602
+    },
+    {
+      "period": "2023",
+      "views": 24696
+    },
+    {
+      "period": "2024",
+      "views": 10389
+    },
+    {
+      "period": "2026",
+      "views": 16071
+    }
+  ]
+}

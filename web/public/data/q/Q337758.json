@@ -4,7 +4,7 @@
   "title": "San_Francisco_49ers",
   "description": "National Football League franchise in Santa Clara, California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Francisco_49ers_logo.svg?width=64",
-  "total": 3397434,
+  "total": 3415896,
   "monthly": [
     {
       "period": "2015-09",
@@ -185,6 +185,10 @@
     {
       "period": "2026-08",
       "views": 21704
+    },
+    {
+      "period": "2026-09",
+      "views": 18462
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 158331
+      "views": 176793
     }
   ]
 }

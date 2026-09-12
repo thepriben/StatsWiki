@@ -4,7 +4,7 @@
   "title": "Joël_Piroe",
   "description": "Surinamese footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jo%C3%ABl_Piroe_15032025_%284%29.jpg?width=64",
-  "total": 106493,
+  "total": 115529,
   "monthly": [
     {
       "period": "2023-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 13998
+    },
+    {
+      "period": "2026-09",
+      "views": 9036
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 13998
+      "views": 23034
     }
   ]
 }

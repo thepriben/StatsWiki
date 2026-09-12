@@ -4,7 +4,7 @@
   "title": "The_Pentagon",
   "description": "headquarters of the United States Department of Defense; named after the shape of the building, a polygon with five (greek: penta) sides",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pentagon_January_2008.jpg?width=64",
-  "total": 796979,
+  "total": 823103,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 11179
+    },
+    {
+      "period": "2026-09",
+      "views": 26124
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 62887
+      "views": 89011
     }
   ]
 }

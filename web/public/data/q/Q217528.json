@@ -4,7 +4,7 @@
   "title": "Oklahoma_City_bombing",
   "description": "1995 terrorist attack in the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oklahomacitybombing-DF-ST-98-01356.jpg?width=64",
-  "total": 2780623,
+  "total": 2791594,
   "monthly": [
     {
       "period": "2015-09",
@@ -153,6 +153,10 @@
     {
       "period": "2026-08",
       "views": 8830
+    },
+    {
+      "period": "2026-09",
+      "views": 10971
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 58589
+      "views": 69560
     }
   ]
 }

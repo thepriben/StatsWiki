@@ -1,0 +1,36 @@
+{
+  "qid": "Q29294",
+  "label": "Willis Tower",
+  "title": "Willis_Tower",
+  "description": "skyscraper in Chicago, Illinois, USA",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago_Sears_Tower.jpg?width=64",
+  "total": 113581,
+  "monthly": [
+    {
+      "period": "2017-04",
+      "views": 75624
+    },
+    {
+      "period": "2021-09",
+      "views": 29252
+    },
+    {
+      "period": "2026-09",
+      "views": 8705
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 75624
+    },
+    {
+      "period": "2021",
+      "views": 29252
+    },
+    {
+      "period": "2026",
+      "views": 8705
+    }
+  ]
+}

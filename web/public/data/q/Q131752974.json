@@ -4,7 +4,7 @@
   "title": "Christopher_Macchio",
   "description": "American tenor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher_Macchio_Official_Headshot.jpg?width=64",
-  "total": 97735,
+  "total": 106500,
   "monthly": [
     {
       "period": "2025-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 9679
+    },
+    {
+      "period": "2026-09",
+      "views": 8765
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 9679
+      "views": 18444
     }
   ]
 }

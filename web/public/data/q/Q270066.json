@@ -1,0 +1,100 @@
+{
+  "qid": "Q270066",
+  "label": "7 World Trade Center",
+  "title": "7_World_Trade_Center",
+  "description": "building in Lower Manhattan, New York City",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/7_World_Trade_Center.jpg?width=64",
+  "total": 935679,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 46922
+    },
+    {
+      "period": "2016-09",
+      "views": 70183
+    },
+    {
+      "period": "2017-09",
+      "views": 51602
+    },
+    {
+      "period": "2018-09",
+      "views": 75262
+    },
+    {
+      "period": "2019-09",
+      "views": 91274
+    },
+    {
+      "period": "2020-09",
+      "views": 93358
+    },
+    {
+      "period": "2021-09",
+      "views": 289259
+    },
+    {
+      "period": "2022-09",
+      "views": 47820
+    },
+    {
+      "period": "2023-09",
+      "views": 120121
+    },
+    {
+      "period": "2024-09",
+      "views": 30200
+    },
+    {
+      "period": "2026-09",
+      "views": 19678
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 46922
+    },
+    {
+      "period": "2016",
+      "views": 70183
+    },
+    {
+      "period": "2017",
+      "views": 51602
+    },
+    {
+      "period": "2018",
+      "views": 75262
+    },
+    {
+      "period": "2019",
+      "views": 91274
+    },
+    {
+      "period": "2020",
+      "views": 93358
+    },
+    {
+      "period": "2021",
+      "views": 289259
+    },
+    {
+      "period": "2022",
+      "views": 47820
+    },
+    {
+      "period": "2023",
+      "views": 120121
+    },
+    {
+      "period": "2024",
+      "views": 30200
+    },
+    {
+      "period": "2026",
+      "views": 19678
+    }
+  ]
+}

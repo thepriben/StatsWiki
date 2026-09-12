@@ -4,7 +4,7 @@
   "title": "Guantanamo_Bay_detention_camp",
   "description": "United States military prison at the Guantanamo Bay Naval Base, Cuba",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PessinGuantanamoCampFiveGate210.JPG?width=64",
-  "total": 1886878,
+  "total": 1903349,
   "monthly": [
     {
       "period": "2015-07",
@@ -125,6 +125,10 @@
     {
       "period": "2026-08",
       "views": 11820
+    },
+    {
+      "period": "2026-09",
+      "views": 16471
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 11820
+      "views": 28291
     }
   ]
 }

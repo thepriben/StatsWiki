@@ -4,7 +4,7 @@
   "title": "Tobey_Maguire",
   "description": "American actor and film producer (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tobey_Maguire_2014.jpg?width=64",
-  "total": 6173000,
+  "total": 6181847,
   "monthly": [
     {
       "period": "2015-09",
@@ -185,6 +185,10 @@
     {
       "period": "2026-08",
       "views": 448172
+    },
+    {
+      "period": "2026-09",
+      "views": 8847
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 695134
+      "views": 703981
     }
   ]
 }

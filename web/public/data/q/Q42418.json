@@ -4,7 +4,7 @@
   "title": "Taliban",
   "description": "Afghan islamist organization",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taliban_insurgents_turn_themselves_in_to_Afghan_National_Security_Forces_at_a_forward_operating_base_in_Puza-i-Eshan_-a.jpg?width=64",
-  "total": 10725125,
+  "total": 10734539,
   "monthly": [
     {
       "period": "2015-07",
@@ -125,6 +125,10 @@
     {
       "period": "2026-02",
       "views": 24652
+    },
+    {
+      "period": "2026-09",
+      "views": 9414
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 24652
+      "views": 34066
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Yom_Kippur",
   "description": "primary holy day in Judaism, tenth day of the new year",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg?width=64",
-  "total": 5766014,
+  "total": 5774397,
   "monthly": [
     {
       "period": "2015-09",
@@ -73,6 +73,10 @@
     {
       "period": "2025-10",
       "views": 716901
+    },
+    {
+      "period": "2026-09",
+      "views": 8383
     }
   ],
   "yearly": [
@@ -119,6 +123,10 @@
     {
       "period": "2025",
       "views": 866449
+    },
+    {
+      "period": "2026",
+      "views": 8383
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Chester_Bennington",
   "description": "American singer, songwriter and musician (1976–2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0327.jpg?width=64",
-  "total": 14899909,
+  "total": 14908863,
   "monthly": [
     {
       "period": "2015-12",
@@ -297,6 +297,10 @@
     {
       "period": "2026-08",
       "views": 24439
+    },
+    {
+      "period": "2026-09",
+      "views": 8954
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 185995
+      "views": 194949
     }
   ]
 }
