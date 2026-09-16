@@ -4,7 +4,7 @@
   "title": "Tony_Gonzalez",
   "description": "American football player (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony_Gonzalez_Thursday_Night_Football_DEC2023_%28cropped%29.jpg?width=64",
-  "total": 955485,
+  "total": 968742,
   "monthly": [
     {
       "period": "2017-06",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 10866
+    },
+    {
+      "period": "2026-09",
+      "views": 13257
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 10866
+      "views": 24123
     }
   ]
 }

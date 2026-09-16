@@ -4,7 +4,7 @@
   "title": "Mister_Sinister",
   "description": "fictional character in Marvel Comics",
   "image": "",
-  "total": 1159282,
+  "total": 1182365,
   "monthly": [
     {
       "period": "2015-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 96917
+    },
+    {
+      "period": "2026-09",
+      "views": 23083
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 96917
+      "views": 120000
     }
   ]
 }

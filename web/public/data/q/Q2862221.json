@@ -1,0 +1,64 @@
+{
+  "qid": "Q2862221",
+  "label": "Snowtown murders",
+  "title": "Snowtown_murders",
+  "description": "series of murders in South Australia, Australia",
+  "image": "",
+  "total": 143881,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 9942
+    },
+    {
+      "period": "2020-10",
+      "views": 13565
+    },
+    {
+      "period": "2022-05",
+      "views": 12799
+    },
+    {
+      "period": "2024-01",
+      "views": 16085
+    },
+    {
+      "period": "2025-08",
+      "views": 38892
+    },
+    {
+      "period": "2026-05",
+      "views": 23556
+    },
+    {
+      "period": "2026-09",
+      "views": 29042
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 9942
+    },
+    {
+      "period": "2020",
+      "views": 13565
+    },
+    {
+      "period": "2022",
+      "views": 12799
+    },
+    {
+      "period": "2024",
+      "views": 16085
+    },
+    {
+      "period": "2025",
+      "views": 38892
+    },
+    {
+      "period": "2026",
+      "views": 52598
+    }
+  ]
+}

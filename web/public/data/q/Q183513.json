@@ -4,7 +4,7 @@
   "title": "Buffy_the_Vampire_Slayer",
   "description": "American supernatural drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Buffy_The_Vampire_Slayer_cast2.jpg?width=64",
-  "total": 509401,
+  "total": 520072,
   "monthly": [
     {
       "period": "2017-03",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 59046
+    },
+    {
+      "period": "2026-09",
+      "views": 10671
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 139022
+      "views": 149693
     }
   ]
 }

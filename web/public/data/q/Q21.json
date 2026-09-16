@@ -4,7 +4,7 @@
   "title": "England",
   "description": "country in north-west Europe, part of the United Kingdom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/England_satellite_image.png?width=64",
-  "total": 27811662,
+  "total": 27821582,
   "monthly": [
     {
       "period": "2015-07",
@@ -488,7 +488,7 @@
     },
     {
       "period": "2026-09",
-      "views": 10701
+      "views": 20621
     }
   ],
   "yearly": [
@@ -538,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 669175
+      "views": 679095
     }
   ]
 }

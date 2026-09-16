@@ -4,7 +4,7 @@
   "title": "Allison_Janney",
   "description": "American actress (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allison-Janney_in_2014.jpg?width=64",
-  "total": 2385097,
+  "total": 2432377,
   "monthly": [
     {
       "period": "2015-09",
@@ -161,6 +161,10 @@
     {
       "period": "2026-08",
       "views": 9499
+    },
+    {
+      "period": "2026-09",
+      "views": 47280
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 24253
+      "views": 71533
     }
   ]
 }

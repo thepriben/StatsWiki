@@ -4,7 +4,7 @@
   "title": "Jonathan_Bailey",
   "description": "English actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Bailey_press_for_Wicked.png?width=64",
-  "total": 6569425,
+  "total": 6580223,
   "monthly": [
     {
       "period": "2022-04",
@@ -113,6 +113,10 @@
     {
       "period": "2026-03",
       "views": 142260
+    },
+    {
+      "period": "2026-09",
+      "views": 10798
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 403532
+      "views": 414330
     }
   ]
 }

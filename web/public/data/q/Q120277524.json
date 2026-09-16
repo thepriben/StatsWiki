@@ -4,7 +4,7 @@
   "title": "A_Knight_of_the_Seven_Kingdoms_(TV_series)",
   "description": "American fantasy drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AKOTSK_TV_logo.png?width=64",
-  "total": 6825447,
+  "total": 6835961,
   "monthly": [
     {
       "period": "2024-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 167892
+    },
+    {
+      "period": "2026-09",
+      "views": 10514
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 6418695
+      "views": 6429209
     }
   ]
 }

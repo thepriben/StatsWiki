@@ -4,7 +4,7 @@
   "title": "Brenda_Song",
   "description": "American actress and model (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brenda_Song_021109-R293.jpg?width=64",
-  "total": 9872352,
+  "total": 9892246,
   "monthly": [
     {
       "period": "2015-07",
@@ -269,6 +269,10 @@
     {
       "period": "2026-08",
       "views": 42965
+    },
+    {
+      "period": "2026-09",
+      "views": 19894
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 661364
+      "views": 681258
     }
   ]
 }

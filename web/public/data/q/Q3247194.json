@@ -4,7 +4,7 @@
   "title": "Joe_Buck",
   "description": "American sportscaster (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Buck.jpg?width=64",
-  "total": 2021841,
+  "total": 2034531,
   "monthly": [
     {
       "period": "2015-09",
@@ -189,6 +189,10 @@
     {
       "period": "2026-07",
       "views": 12169
+    },
+    {
+      "period": "2026-09",
+      "views": 12690
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 75569
+      "views": 88259
     }
   ]
 }

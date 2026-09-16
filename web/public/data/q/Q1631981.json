@@ -4,7 +4,7 @@
   "title": "Kennedy_Center",
   "description": "performing arts center in Washington, D.C., United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KennedyCtr.jpg?width=64",
-  "total": 224472,
+  "total": 237843,
   "monthly": [
     {
       "period": "2025-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 24313
+    },
+    {
+      "period": "2026-09",
+      "views": 13371
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 100837
+      "views": 114208
     }
   ]
 }

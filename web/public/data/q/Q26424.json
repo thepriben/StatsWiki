@@ -4,7 +4,7 @@
   "title": "Calista_Flockhart",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Calista_Flockhart_2009_%28facecrop%29.jpg?width=64",
-  "total": 3486039,
+  "total": 3506610,
   "monthly": [
     {
       "period": "2015-10",
@@ -161,6 +161,10 @@
     {
       "period": "2026-07",
       "views": 8555
+    },
+    {
+      "period": "2026-09",
+      "views": 20571
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 338477
+      "views": 359048
     }
   ]
 }

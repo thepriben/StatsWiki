@@ -4,7 +4,7 @@
   "title": "Finneas_O'Connell",
   "description": "American musician and actor (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Finneas_%28February_16%2C_2025%29.jpg?width=64",
-  "total": 6152658,
+  "total": 6174081,
   "monthly": [
     {
       "period": "2019-03",
@@ -161,6 +161,10 @@
     {
       "period": "2026-08",
       "views": 9106
+    },
+    {
+      "period": "2026-09",
+      "views": 21423
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 76664
+      "views": 98087
     }
   ]
 }

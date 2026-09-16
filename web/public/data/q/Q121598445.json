@@ -4,7 +4,7 @@
   "title": "Lucy_Letby",
   "description": "convicted British serial killer",
   "image": "",
-  "total": 3564940,
+  "total": 3611982,
   "monthly": [
     {
       "period": "2023-08",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 125376
+    },
+    {
+      "period": "2026-09",
+      "views": 47042
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 2037782
+      "views": 2084824
     }
   ]
 }

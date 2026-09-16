@@ -4,7 +4,7 @@
   "title": "Odessa_A'zion",
   "description": "American actress and voice actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odessa_A%27zion_by_Gage_Skidmore.jpg?width=64",
-  "total": 3007901,
+  "total": 3030125,
   "monthly": [
     {
       "period": "2022-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 48128
+    },
+    {
+      "period": "2026-09",
+      "views": 22224
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 1585544
+      "views": 1607768
     }
   ]
 }

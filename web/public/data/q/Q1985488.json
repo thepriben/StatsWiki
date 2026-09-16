@@ -4,7 +4,7 @@
   "title": "Nick_Offerman",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Offerman_2013_Headshot_%28cropped%29.jpg?width=64",
-  "total": 2278771,
+  "total": 2287686,
   "monthly": [
     {
       "period": "2015-08",
@@ -189,6 +189,10 @@
     {
       "period": "2026-08",
       "views": 27604
+    },
+    {
+      "period": "2026-09",
+      "views": 8915
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 225479
+      "views": 234394
     }
   ]
 }

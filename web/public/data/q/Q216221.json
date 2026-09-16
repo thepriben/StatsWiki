@@ -4,7 +4,7 @@
   "title": "Steve_Carell",
   "description": "American actor and comedian (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Carell_-_The_40-Year-Old-Virgin.jpg?width=64",
-  "total": 6278138,
+  "total": 6286360,
   "monthly": [
     {
       "period": "2015-07",
@@ -269,6 +269,10 @@
     {
       "period": "2026-06",
       "views": 37407
+    },
+    {
+      "period": "2026-09",
+      "views": 8222
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 539886
+      "views": 548108
     }
   ]
 }
