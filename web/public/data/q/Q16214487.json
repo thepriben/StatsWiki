@@ -4,7 +4,7 @@
   "title": "Jane_Lauder",
   "description": "American businessperson",
   "image": "",
-  "total": 335784,
+  "total": 343662,
   "monthly": [
     {
       "period": "2026-01",
@@ -25,12 +25,16 @@
     {
       "period": "2026-06",
       "views": 9318
+    },
+    {
+      "period": "2026-09",
+      "views": 7878
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 335784
+      "views": 343662
     }
   ]
 }

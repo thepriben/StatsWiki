@@ -4,7 +4,7 @@
   "title": "Ashley_Judd",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashley_Judd_SXSW_2024.jpg?width=64",
-  "total": 3806733,
+  "total": 3817480,
   "monthly": [
     {
       "period": "2015-10",
@@ -185,6 +185,10 @@
     {
       "period": "2026-07",
       "views": 15787
+    },
+    {
+      "period": "2026-09",
+      "views": 10747
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 64520
+      "views": 75267
     }
   ]
 }

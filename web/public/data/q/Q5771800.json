@@ -4,7 +4,7 @@
   "title": "Claudia_Sheinbaum",
   "description": "president of Mexico since 2024",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claudia_Sheinbaum_en_su_conferencia_matutina_%28cropped%29.jpg?width=64",
-  "total": 3829354,
+  "total": 3840448,
   "monthly": [
     {
       "period": "2023-09",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 85643
+    },
+    {
+      "period": "2026-09",
+      "views": 11094
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 395693
+      "views": 406787
     }
   ]
 }

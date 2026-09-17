@@ -4,7 +4,7 @@
   "title": "Lena_Dunham",
   "description": "American writer, director, actress, and producer (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lena_Dunham_2012_%28facecrop%29.JPG?width=64",
-  "total": 3726793,
+  "total": 3748707,
   "monthly": [
     {
       "period": "2015-07",
@@ -201,6 +201,10 @@
     {
       "period": "2026-07",
       "views": 89921
+    },
+    {
+      "period": "2026-09",
+      "views": 21914
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 965258
+      "views": 987172
     }
   ]
 }

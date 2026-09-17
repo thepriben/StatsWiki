@@ -4,7 +4,7 @@
   "title": "Salman_Khan",
   "description": "Indian actor and producer (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Salmanrampwalk.png?width=64",
-  "total": 29983255,
+  "total": 29992269,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-08",
       "views": 8508
+    },
+    {
+      "period": "2026-09",
+      "views": 9014
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 26366
+      "views": 35380
     }
   ]
 }

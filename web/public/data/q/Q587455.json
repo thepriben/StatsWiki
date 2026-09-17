@@ -4,7 +4,7 @@
   "title": "Barry_Diller",
   "description": "American businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barry_Diller_Shankbone_Metropolitan_Opera_2009.jpg?width=64",
-  "total": 419803,
+  "total": 434238,
   "monthly": [
     {
       "period": "2015-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 10775
+    },
+    {
+      "period": "2026-09",
+      "views": 14435
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 48245
+      "views": 62680
     }
   ]
 }

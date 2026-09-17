@@ -4,7 +4,7 @@
   "title": "Roger_Waters",
   "description": "English musician, co-founder of Pink Floyd (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Waters%2C_May_18_2008.jpg?width=64",
-  "total": 942634,
+  "total": 952749,
   "monthly": [
     {
       "period": "2016-03",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 9296
+    },
+    {
+      "period": "2026-09",
+      "views": 10115
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 20026
+      "views": 30141
     }
   ]
 }

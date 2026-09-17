@@ -4,7 +4,7 @@
   "title": "Hamas",
   "description": "Palestinian Islamist political and military organization",
   "image": "",
-  "total": 15225848,
+  "total": 15234671,
   "monthly": [
     {
       "period": "2015-11",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 9199
+    },
+    {
+      "period": "2026-09",
+      "views": 8823
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 82469
+      "views": 91292
     }
   ]
 }

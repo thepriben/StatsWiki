@@ -4,7 +4,7 @@
   "title": "Gillette_Stadium",
   "description": "home venue of the New England Patriots and the New England Revolution",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillette_Stadium02.jpg?width=64",
-  "total": 710088,
+  "total": 718420,
   "monthly": [
     {
       "period": "2015-09",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 49584
+    },
+    {
+      "period": "2026-09",
+      "views": 8332
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 317536
+      "views": 325868
     }
   ]
 }

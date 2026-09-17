@@ -4,7 +4,7 @@
   "title": "List_of_Hindi_film_clans",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 11315923,
+  "total": 12992082,
   "monthly": [
     {
       "period": "2015-07",
@@ -168,11 +168,11 @@
     },
     {
       "period": "2018-11",
-      "views": 73366
+      "views": 83092
     },
     {
       "period": "2018-12",
-      "views": 138689
+      "views": 278529
     },
     {
       "period": "2019-01",
@@ -216,11 +216,11 @@
     },
     {
       "period": "2020-05",
-      "views": 202456
+      "views": 259362
     },
     {
       "period": "2020-06",
-      "views": 275589
+      "views": 430145
     },
     {
       "period": "2020-07",
@@ -232,7 +232,7 @@
     },
     {
       "period": "2020-09",
-      "views": 37256
+      "views": 48261
     },
     {
       "period": "2020-10",
@@ -243,12 +243,28 @@
       "views": 12448
     },
     {
+      "period": "2021-07",
+      "views": 36958
+    },
+    {
+      "period": "2021-10",
+      "views": 125071
+    },
+    {
+      "period": "2021-11",
+      "views": 23083
+    },
+    {
       "period": "2022-02",
-      "views": 10254
+      "views": 220030
     },
     {
       "period": "2022-04",
-      "views": 113322
+      "views": 145377
+    },
+    {
+      "period": "2022-08",
+      "views": 9872
     },
     {
       "period": "2023-02",
@@ -263,16 +279,64 @@
       "views": 12246
     },
     {
+      "period": "2023-05",
+      "views": 48957
+    },
+    {
+      "period": "2023-06",
+      "views": 41189
+    },
+    {
+      "period": "2023-08",
+      "views": 87263
+    },
+    {
+      "period": "2023-09",
+      "views": 23313
+    },
+    {
       "period": "2023-10",
       "views": 61332
     },
     {
+      "period": "2023-12",
+      "views": 46493
+    },
+    {
+      "period": "2024-01",
+      "views": 11844
+    },
+    {
+      "period": "2024-04",
+      "views": 54685
+    },
+    {
+      "period": "2025-05",
+      "views": 9945
+    },
+    {
+      "period": "2025-07",
+      "views": 153232
+    },
+    {
+      "period": "2025-08",
+      "views": 18500
+    },
+    {
       "period": "2025-11",
-      "views": 21427
+      "views": 256757
+    },
+    {
+      "period": "2026-04",
+      "views": 120784
     },
     {
       "period": "2026-08",
       "views": 25695
+    },
+    {
+      "period": "2026-09",
+      "views": 15776
     }
   ],
   "yearly": [
@@ -290,7 +354,7 @@
     },
     {
       "period": "2018",
-      "views": 3325610
+      "views": 3475176
     },
     {
       "period": "2019",
@@ -298,27 +362,31 @@
     },
     {
       "period": "2020",
-      "views": 832057
+      "views": 1054524
     },
     {
       "period": "2021",
-      "views": 12448
+      "views": 197560
     },
     {
       "period": "2022",
-      "views": 123576
+      "views": 375279
     },
     {
       "period": "2023",
-      "views": 126284
+      "views": 373499
+    },
+    {
+      "period": "2024",
+      "views": 66529
     },
     {
       "period": "2025",
-      "views": 21427
+      "views": 438434
     },
     {
       "period": "2026",
-      "views": 25695
+      "views": 162255
     }
   ]
 }

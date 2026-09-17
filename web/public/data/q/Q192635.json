@@ -4,7 +4,7 @@
   "title": "Ronald_Koeman",
   "description": "Dutch association football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ronald_Koeman_%282014%29_%28cropped%29.jpg?width=64",
-  "total": 1573985,
+  "total": 1583558,
   "monthly": [
     {
       "period": "2016-06",
@@ -85,6 +85,10 @@
     {
       "period": "2026-07",
       "views": 18364
+    },
+    {
+      "period": "2026-09",
+      "views": 9573
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 181266
+      "views": 190839
     }
   ]
 }

@@ -2,9 +2,9 @@
   "qid": "Q6397725",
   "label": "Kevin Warsh",
   "title": "Kevin_Warsh",
-  "description": "American governor of the Federal Reserve Board",
+  "description": "Chairman of the Federal Reserve since 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026_Kevin_Warsh_at_the_White_House_on_May_22_%28cropped%29.jpg?width=64",
-  "total": 1751537,
+  "total": 1781861,
   "monthly": [
     {
       "period": "2017-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 16948
+    },
+    {
+      "period": "2026-09",
+      "views": 30324
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 1620126
+      "views": 1650450
     }
   ]
 }

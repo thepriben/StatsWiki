@@ -4,17 +4,21 @@
   "title": "India_at_the_2026_Asian_Games",
   "description": "sporting event delegation",
   "image": "",
-  "total": 18503,
+  "total": 26822,
   "monthly": [
     {
       "period": "2026-08",
       "views": 18503
+    },
+    {
+      "period": "2026-09",
+      "views": 8319
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 18503
+      "views": 26822
     }
   ]
 }

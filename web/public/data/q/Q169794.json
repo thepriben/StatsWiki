@@ -4,17 +4,21 @@
   "title": "Ranavalona_I",
   "description": "queen of Imerina (1828-1861)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranavalona_I.jpg?width=64",
-  "total": 80295,
+  "total": 90882,
   "monthly": [
     {
       "period": "2026-06",
       "views": 80295
+    },
+    {
+      "period": "2026-09",
+      "views": 10587
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 80295
+      "views": 90882
     }
   ]
 }
