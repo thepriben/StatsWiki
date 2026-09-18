@@ -4,17 +4,21 @@
   "title": "Cricket_at_the_2026_Asian_Games",
   "description": "cricket tournament",
   "image": "",
-  "total": 31655,
+  "total": 41343,
   "monthly": [
     {
       "period": "2026-06",
       "views": 31655
+    },
+    {
+      "period": "2026-09",
+      "views": 9688
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 31655
+      "views": 41343
     }
   ]
 }

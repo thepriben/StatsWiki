@@ -4,7 +4,7 @@
   "title": "Wolverine",
   "description": "largest land-dwelling species of the family Mustelidae",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gulo_gulo_2.jpg?width=64",
-  "total": 553180,
+  "total": 562472,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 10263
+    },
+    {
+      "period": "2026-09",
+      "views": 9292
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 19603
+      "views": 28895
     }
   ]
 }

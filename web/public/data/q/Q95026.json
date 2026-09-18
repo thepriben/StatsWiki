@@ -4,7 +4,7 @@
   "title": "Shirley_MacLaine",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirley_MacLaine_-_1960.jpg?width=64",
-  "total": 1216990,
+  "total": 1225187,
   "monthly": [
     {
       "period": "2016-03",
@@ -141,6 +141,10 @@
     {
       "period": "2026-08",
       "views": 122522
+    },
+    {
+      "period": "2026-09",
+      "views": 8197
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 182156
+      "views": 190353
     }
   ]
 }

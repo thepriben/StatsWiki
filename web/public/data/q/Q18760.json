@@ -4,7 +4,7 @@
   "title": "UEFA_Europa_League",
   "description": "annual association football competition in Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_Europa_League_logo_%282024_version%29.svg?width=64",
-  "total": 10054198,
+  "total": 10062606,
   "monthly": [
     {
       "period": "2015-08",
@@ -413,6 +413,10 @@
     {
       "period": "2026-08",
       "views": 102626
+    },
+    {
+      "period": "2026-09",
+      "views": 8408
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 536249
+      "views": 544657
     }
   ]
 }

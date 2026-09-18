@@ -4,7 +4,7 @@
   "title": "Jake_Bongiovi",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jake_bongiovi.jpg?width=64",
-  "total": 5374783,
+  "total": 5387810,
   "monthly": [
     {
       "period": "2022-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 276204
+    },
+    {
+      "period": "2026-09",
+      "views": 13027
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 1046831
+      "views": 1059858
     }
   ]
 }

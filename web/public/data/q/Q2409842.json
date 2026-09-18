@@ -1,0 +1,28 @@
+{
+  "qid": "Q2409842",
+  "label": "NASA Astronaut Group 2",
+  "title": "NASA_Astronaut_Group_2",
+  "description": "group of astronauts selected in 1962",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Astronaut_Group_2_-_S62-6759.jpg?width=64",
+  "total": 50030,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 39688
+    },
+    {
+      "period": "2026-09",
+      "views": 10342
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 39688
+    },
+    {
+      "period": "2026",
+      "views": 10342
+    }
+  ]
+}

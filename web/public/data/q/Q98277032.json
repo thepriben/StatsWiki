@@ -4,7 +4,7 @@
   "title": "Run_Hide_Fight",
   "description": "2020 film directed by Kyle Rankin",
   "image": "",
-  "total": 129150,
+  "total": 137850,
   "monthly": [
     {
       "period": "2021-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 23429
+    },
+    {
+      "period": "2026-09",
+      "views": 8700
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 23429
+      "views": 32129
     }
   ]
 }

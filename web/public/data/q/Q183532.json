@@ -4,7 +4,7 @@
   "title": "Anne_Bancroft",
   "description": "American actress (1931–2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Bancroft_Chrysler_Theatre_1964_%28cropped%29.jpg?width=64",
-  "total": 953304,
+  "total": 974082,
   "monthly": [
     {
       "period": "2015-09",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 72295
+    },
+    {
+      "period": "2026-09",
+      "views": 20778
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 288688
+      "views": 309466
     }
   ]
 }

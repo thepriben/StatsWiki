@@ -4,7 +4,7 @@
   "title": "Robbie_Keane",
   "description": "Irish association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2013_Robbie_Keane_%28cropped%29.jpg?width=64",
-  "total": 718391,
+  "total": 729561,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 9908
+    },
+    {
+      "period": "2026-09",
+      "views": 11170
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 92358
+      "views": 103528
     }
   ]
 }

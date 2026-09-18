@@ -4,7 +4,7 @@
   "title": "West_African_CFA_franc",
   "description": "currency of several West African countries",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BilletBCEAO.jpg?width=64",
-  "total": 116485,
+  "total": 191502,
   "monthly": [
     {
       "period": "2026-05",
@@ -24,13 +24,13 @@
     },
     {
       "period": "2026-09",
-      "views": 65146
+      "views": 140163
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 116485
+      "views": 191502
     }
   ]
 }

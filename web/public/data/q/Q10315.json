@@ -4,7 +4,7 @@
   "title": "Real_Sociedad",
   "description": "association football club in San Sebastián, Spain",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anoeta_estadioa_26%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg?width=64",
-  "total": 408935,
+  "total": 416730,
   "monthly": [
     {
       "period": "2016-04",
@@ -73,6 +73,10 @@
     {
       "period": "2026-08",
       "views": 8708
+    },
+    {
+      "period": "2026-09",
+      "views": 7795
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 160882
+      "views": 168677
     }
   ]
 }

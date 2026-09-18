@@ -4,7 +4,7 @@
   "title": "Melissa_Barrera",
   "description": "Mexican actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Melissa_Barrera_in_2023.png?width=64",
-  "total": 1092564,
+  "total": 1101889,
   "monthly": [
     {
       "period": "2022-01",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 26503
+    },
+    {
+      "period": "2026-09",
+      "views": 9325
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 152624
+      "views": 161949
     }
   ]
 }

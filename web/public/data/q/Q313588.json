@@ -4,7 +4,7 @@
   "title": "Oliver_Reed",
   "description": "British actor (1938–1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver_Reed_1968.jpg?width=64",
-  "total": 1241984,
+  "total": 1282025,
   "monthly": [
     {
       "period": "2015-07",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 9319
+    },
+    {
+      "period": "2026-09",
+      "views": 40041
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 9319
+      "views": 49360
     }
   ]
 }

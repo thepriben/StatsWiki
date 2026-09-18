@@ -1,0 +1,64 @@
+{
+  "qid": "Q483463",
+  "label": "Asian Games",
+  "title": "Asian_Games",
+  "description": "Asian multi-sport event",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian_Games_logo.svg?width=64",
+  "total": 2385235,
+  "monthly": [
+    {
+      "period": "2018-08",
+      "views": 487217
+    },
+    {
+      "period": "2018-09",
+      "views": 136814
+    },
+    {
+      "period": "2021-08",
+      "views": 51403
+    },
+    {
+      "period": "2022-08",
+      "views": 10476
+    },
+    {
+      "period": "2023-07",
+      "views": 68809
+    },
+    {
+      "period": "2023-09",
+      "views": 902355
+    },
+    {
+      "period": "2023-10",
+      "views": 720386
+    },
+    {
+      "period": "2026-09",
+      "views": 7775
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 624031
+    },
+    {
+      "period": "2021",
+      "views": 51403
+    },
+    {
+      "period": "2022",
+      "views": 10476
+    },
+    {
+      "period": "2023",
+      "views": 1691550
+    },
+    {
+      "period": "2026",
+      "views": 7775
+    }
+  ]
+}

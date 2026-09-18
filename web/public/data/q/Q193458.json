@@ -4,7 +4,7 @@
   "title": "Sienna_Miller",
   "description": "British-American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sienna_Miller_Berlinale_2017.jpg?width=64",
-  "total": 4048080,
+  "total": 4097678,
   "monthly": [
     {
       "period": "2015-07",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 57608
+    },
+    {
+      "period": "2026-09",
+      "views": 49598
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 399648
+      "views": 449246
     }
   ]
 }

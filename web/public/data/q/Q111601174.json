@@ -4,7 +4,7 @@
   "title": "Clearlake_Capital",
   "description": "American private equity firm based in Santa Monica",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/233wilshireblvd.jpg?width=64",
-  "total": 30346,
+  "total": 57192,
   "monthly": [
     {
       "period": "2024-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 11226
+    },
+    {
+      "period": "2026-09",
+      "views": 26846
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 19886
+      "views": 46732
     }
   ]
 }

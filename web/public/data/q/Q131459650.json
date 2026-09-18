@@ -4,7 +4,7 @@
   "title": "Monster:_The_Ed_Gein_Story",
   "description": "season of television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monster_The_Ed_Gein_Story.png?width=64",
-  "total": 5234304,
+  "total": 5249641,
   "monthly": [
     {
       "period": "2025-08",
@@ -21,12 +21,20 @@
     {
       "period": "2025-11",
       "views": 409635
+    },
+    {
+      "period": "2026-09",
+      "views": 15337
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 5234304
+    },
+    {
+      "period": "2026",
+      "views": 15337
     }
   ]
 }
