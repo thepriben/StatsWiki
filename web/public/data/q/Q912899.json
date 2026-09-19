@@ -4,7 +4,7 @@
   "title": "Trinamool_Congress",
   "description": "a political party of India",
   "image": "",
-  "total": 495051,
+  "total": 515081,
   "monthly": [
     {
       "period": "2024-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 157581
+    },
+    {
+      "period": "2026-09",
+      "views": 20030
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 361027
+      "views": 381057
     }
   ]
 }

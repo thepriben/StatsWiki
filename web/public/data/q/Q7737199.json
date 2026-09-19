@@ -4,7 +4,7 @@
   "title": "The_Good_Dinosaur",
   "description": "2015 animated film directed by Peter Sohn",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Good_Dinosaur_logo.svg?width=64",
-  "total": 1348745,
+  "total": 1356904,
   "monthly": [
     {
       "period": "2015-07",
@@ -45,6 +45,10 @@
     {
       "period": "2023-12",
       "views": 16240
+    },
+    {
+      "period": "2026-09",
+      "views": 8159
     }
   ],
   "yearly": [
@@ -63,6 +67,10 @@
     {
       "period": "2023",
       "views": 16240
+    },
+    {
+      "period": "2026",
+      "views": 8159
     }
   ]
 }

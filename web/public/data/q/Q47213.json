@@ -4,7 +4,7 @@
   "title": "Warren_Buffett",
   "description": "American investor, entrepreneur and businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Warren_Buffett_KU_Visit.jpg?width=64",
-  "total": 17962445,
+  "total": 18014466,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-07",
       "views": 11738
+    },
+    {
+      "period": "2026-09",
+      "views": 52021
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 139987
+      "views": 192008
     }
   ]
 }

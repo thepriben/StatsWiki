@@ -4,7 +4,7 @@
   "title": "Yabloko",
   "description": "Russian political party",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Party_YABLOKO_%28Russia%2C_photo_1%29.JPG?width=64",
-  "total": 21705,
+  "total": 30842,
   "monthly": [
     {
       "period": "2024-02",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 9345
+    },
+    {
+      "period": "2026-09",
+      "views": 9137
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 9345
+      "views": 18482
     }
   ]
 }

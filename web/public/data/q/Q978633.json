@@ -4,7 +4,7 @@
   "title": "Al_Michaels",
   "description": "American television sportscaster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Michaels.jpg?width=64",
-  "total": 1507206,
+  "total": 1529943,
   "monthly": [
     {
       "period": "2015-08",
@@ -189,6 +189,10 @@
     {
       "period": "2026-08",
       "views": 14866
+    },
+    {
+      "period": "2026-09",
+      "views": 22737
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 54106
+      "views": 76843
     }
   ]
 }

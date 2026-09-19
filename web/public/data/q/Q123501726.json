@@ -1,0 +1,36 @@
+{
+  "qid": "Q123501726",
+  "label": "Bids for the 2036 Summer Olympics",
+  "title": "Bids_for_the_2036_Summer_Olympics",
+  "description": "multi-sport event",
+  "image": "",
+  "total": 730801,
+  "monthly": [
+    {
+      "period": "2024-07",
+      "views": 243365
+    },
+    {
+      "period": "2024-08",
+      "views": 405005
+    },
+    {
+      "period": "2026-02",
+      "views": 62476
+    },
+    {
+      "period": "2026-09",
+      "views": 19955
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 648370
+    },
+    {
+      "period": "2026",
+      "views": 82431
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "qid": "Q1425",
+  "label": "Trajan",
+  "title": "Trajan",
+  "description": "13th Roman Emperor (98–117)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Traianus_Glyptothek_Munich_336.jpg?width=64",
+  "total": 60504,
+  "monthly": [
+    {
+      "period": "2018-01",
+      "views": 18920
+    },
+    {
+      "period": "2021-01",
+      "views": 21402
+    },
+    {
+      "period": "2023-09",
+      "views": 11790
+    },
+    {
+      "period": "2026-09",
+      "views": 8392
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 18920
+    },
+    {
+      "period": "2021",
+      "views": 21402
+    },
+    {
+      "period": "2023",
+      "views": 11790
+    },
+    {
+      "period": "2026",
+      "views": 8392
+    }
+  ]
+}

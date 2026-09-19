@@ -4,7 +4,7 @@
   "title": "Shiva_Nirvana",
   "description": "Indian director",
   "image": "",
-  "total": 163708,
+  "total": 171988,
   "monthly": [
     {
       "period": "2021-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 140052
+    },
+    {
+      "period": "2026-09",
+      "views": 8280
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 140052
+      "views": 148332
     }
   ]
 }

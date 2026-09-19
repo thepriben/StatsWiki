@@ -4,7 +4,7 @@
   "title": "Troye_Sivan",
   "description": "Australian singer-songwriter and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Troye_Sivan_-_1999_-_Primavera_Sound_Barcelona_-_2024.jpg?width=64",
-  "total": 1745257,
+  "total": 1754488,
   "monthly": [
     {
       "period": "2015-09",
@@ -129,6 +129,10 @@
     {
       "period": "2026-08",
       "views": 8472
+    },
+    {
+      "period": "2026-09",
+      "views": 9231
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 8472
+      "views": 17703
     }
   ]
 }

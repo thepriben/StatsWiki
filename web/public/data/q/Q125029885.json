@@ -4,17 +4,21 @@
   "title": "Bad_Apples_(2025_film)",
   "description": "2025 film directed by Jonatan Etzler",
   "image": "",
-  "total": 12445,
+  "total": 22936,
   "monthly": [
     {
       "period": "2026-07",
       "views": 12445
+    },
+    {
+      "period": "2026-09",
+      "views": 10491
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 12445
+      "views": 22936
     }
   ]
 }

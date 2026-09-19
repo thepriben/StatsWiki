@@ -4,7 +4,7 @@
   "title": "France_national_football_team",
   "description": "national association football team representing France",
   "image": "",
-  "total": 10884648,
+  "total": 10894375,
   "monthly": [
     {
       "period": "2015-11",
@@ -209,6 +209,10 @@
     {
       "period": "2026-07",
       "views": 976967
+    },
+    {
+      "period": "2026-09",
+      "views": 9727
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 1903824
+      "views": 1913551
     }
   ]
 }

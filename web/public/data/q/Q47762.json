@@ -4,7 +4,7 @@
   "title": "England_national_football_team",
   "description": "men's national association football team representing England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_The_Football_Association_%28include_star%29.svg?width=64",
-  "total": 15808576,
+  "total": 15819737,
   "monthly": [
     {
       "period": "2015-09",
@@ -329,6 +329,10 @@
     {
       "period": "2026-07",
       "views": 1384238
+    },
+    {
+      "period": "2026-09",
+      "views": 11161
     }
   ],
   "yearly": [
@@ -378,7 +382,7 @@
     },
     {
       "period": "2026",
-      "views": 2602425
+      "views": 2613586
     }
   ]
 }

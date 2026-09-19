@@ -4,7 +4,7 @@
   "title": "Jordan_Henderson",
   "description": "English association football player (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Henderson_England_v_Ghana_23_June_2026-029_%28cropped%29.jpg?width=64",
-  "total": 2484232,
+  "total": 2507699,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-08",
       "views": 51684
+    },
+    {
+      "period": "2026-09",
+      "views": 23467
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 467671
+      "views": 491138
     }
   ]
 }

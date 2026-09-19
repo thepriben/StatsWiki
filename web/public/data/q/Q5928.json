@@ -4,7 +4,7 @@
   "title": "Jimi_Hendrix",
   "description": "American guitarist (1942–1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HendrixHoepla1967-2.jpg?width=64",
-  "total": 4625431,
+  "total": 4635587,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-08",
       "views": 9092
+    },
+    {
+      "period": "2026-09",
+      "views": 10156
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 18596
+      "views": 28752
     }
   ]
 }

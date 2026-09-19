@@ -4,7 +4,7 @@
   "title": "Gable_Steveson",
   "description": "American wrestler (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GableSteveson.jpg?width=64",
-  "total": 863546,
+  "total": 892343,
   "monthly": [
     {
       "period": "2021-08",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 208311
+    },
+    {
+      "period": "2026-09",
+      "views": 28797
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 256910
+      "views": 285707
     }
   ]
 }

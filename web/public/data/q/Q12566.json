@@ -4,7 +4,7 @@
   "title": "Roman_dodecahedron",
   "description": "small hollow object made of bronze or stone, with a dodecahedral shape",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dodecahedron_of_unknown_use%2C_Stuttgart-Bad_Cannstatt%2C_2nd-3rd_century_AD_-_Landesmuseum_W%C3%BCrttemberg_-_Stuttgart%2C_Germany_-_DSC02873.jpg?width=64",
-  "total": 206773,
+  "total": 214948,
   "monthly": [
     {
       "period": "2021-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 12683
+    },
+    {
+      "period": "2026-09",
+      "views": 8175
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 27071
+      "views": 35246
     }
   ]
 }
