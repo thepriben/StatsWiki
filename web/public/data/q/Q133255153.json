@@ -4,7 +4,7 @@
   "title": "Jailer_2",
   "description": "film by Nelson Dilipkumar",
   "image": "",
-  "total": 169807,
+  "total": 178733,
   "monthly": [
     {
       "period": "2025-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 54528
+    },
+    {
+      "period": "2026-09",
+      "views": 8926
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 97340
+      "views": 106266
     }
   ]
 }

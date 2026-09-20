@@ -1,0 +1,52 @@
+{
+  "qid": "Q1074596",
+  "label": "Our Lady of La Salette",
+  "title": "Our_Lady_of_La_Salette",
+  "description": "Marian apparition",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eglise_de_Corps-statue-82.JPG?width=64",
+  "total": 63048,
+  "monthly": [
+    {
+      "period": "2017-09",
+      "views": 14868
+    },
+    {
+      "period": "2021-09",
+      "views": 12627
+    },
+    {
+      "period": "2023-09",
+      "views": 13970
+    },
+    {
+      "period": "2024-09",
+      "views": 12815
+    },
+    {
+      "period": "2026-09",
+      "views": 8768
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 14868
+    },
+    {
+      "period": "2021",
+      "views": 12627
+    },
+    {
+      "period": "2023",
+      "views": 13970
+    },
+    {
+      "period": "2024",
+      "views": 12815
+    },
+    {
+      "period": "2026",
+      "views": 8768
+    }
+  ]
+}

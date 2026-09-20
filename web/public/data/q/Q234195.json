@@ -4,17 +4,21 @@
   "title": "Rosemary_Harris",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosemary_Harris_by_David_Shankbone_%28cropped%29.jpg?width=64",
-  "total": 26511,
+  "total": 37879,
   "monthly": [
     {
       "period": "2026-08",
       "views": 26511
+    },
+    {
+      "period": "2026-09",
+      "views": 11368
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26511
+      "views": 37879
     }
   ]
 }

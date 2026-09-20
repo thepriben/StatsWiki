@@ -4,7 +4,7 @@
   "title": "Sinéad_O'Connor",
   "description": "Irish singer-songwriter and activist (1966–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg?width=64",
-  "total": 15359951,
+  "total": 15373536,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-08",
       "views": 8853
+    },
+    {
+      "period": "2026-09",
+      "views": 13585
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 75113
+      "views": 88698
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Resident_Evil_Requiem",
   "description": "2026 video game developed by Capcom",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Resident_Evil_Requiem_gameplay.jpg?width=64",
-  "total": 2141640,
+  "total": 2150297,
   "monthly": [
     {
       "period": "2025-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-04",
       "views": 34130
+    },
+    {
+      "period": "2026-09",
+      "views": 8657
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 1900254
+      "views": 1908911
     }
   ]
 }

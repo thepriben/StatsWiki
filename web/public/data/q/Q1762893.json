@@ -1,0 +1,28 @@
+{
+  "qid": "Q1762893",
+  "label": "Romaine lettuce",
+  "title": "Romaine_lettuce",
+  "description": "variety of lettuce",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lettuce_romaine_variety.jpeg?width=64",
+  "total": 23586,
+  "monthly": [
+    {
+      "period": "2018-11",
+      "views": 10441
+    },
+    {
+      "period": "2026-09",
+      "views": 13145
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 10441
+    },
+    {
+      "period": "2026",
+      "views": 13145
+    }
+  ]
+}

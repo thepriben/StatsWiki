@@ -1,0 +1,28 @@
+{
+  "qid": "Q13973",
+  "label": "MS NOW",
+  "title": "MS_NOW",
+  "description": "American television news channel",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MSNBC_NYC_Studio_01.jpg?width=64",
+  "total": 20728,
+  "monthly": [
+    {
+      "period": "2025-11",
+      "views": 9808
+    },
+    {
+      "period": "2026-09",
+      "views": 10920
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 9808
+    },
+    {
+      "period": "2026",
+      "views": 10920
+    }
+  ]
+}

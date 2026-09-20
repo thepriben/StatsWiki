@@ -4,7 +4,7 @@
   "title": "Emmylou_Harris",
   "description": "American singer, songwriter and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmylou_Harris_Honorary_Doctorate_From_Berklee_Presentation_Hardly_Strictly_Bluegrass_Festival.jpg?width=64",
-  "total": 332090,
+  "total": 342325,
   "monthly": [
     {
       "period": "2017-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 68184
+    },
+    {
+      "period": "2026-09",
+      "views": 10235
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 78685
+      "views": 88920
     }
   ]
 }

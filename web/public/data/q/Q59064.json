@@ -4,7 +4,7 @@
   "title": "Andros_Townsend",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andros_Townsend_16-07-2016_2.jpg?width=64",
-  "total": 366838,
+  "total": 374762,
   "monthly": [
     {
       "period": "2016-01",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 11261
+    },
+    {
+      "period": "2026-09",
+      "views": 7924
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 11261
+      "views": 19185
     }
   ]
 }

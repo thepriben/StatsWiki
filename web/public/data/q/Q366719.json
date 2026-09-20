@@ -4,7 +4,7 @@
   "title": "GG_Allin",
   "description": "American punk rock musician (1956-1993)",
   "image": "",
-  "total": 355514,
+  "total": 368655,
   "monthly": [
     {
       "period": "2016-05",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 17770
+    },
+    {
+      "period": "2026-09",
+      "views": 13141
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 41756
+      "views": 54897
     }
   ]
 }

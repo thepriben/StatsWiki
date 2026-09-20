@@ -4,7 +4,7 @@
   "title": "Natalie_Wood",
   "description": "American actress (1938–1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Natalie_Wood_Allan_Warren.jpg?width=64",
-  "total": 5862698,
+  "total": 5872355,
   "monthly": [
     {
       "period": "2015-07",
@@ -369,6 +369,10 @@
     {
       "period": "2026-08",
       "views": 18285
+    },
+    {
+      "period": "2026-09",
+      "views": 9657
     }
   ],
   "yearly": [
@@ -418,7 +422,7 @@
     },
     {
       "period": "2026",
-      "views": 42805
+      "views": 52462
     }
   ]
 }

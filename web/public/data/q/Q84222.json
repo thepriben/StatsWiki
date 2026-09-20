@@ -4,7 +4,7 @@
   "title": "Natascha_Kampusch",
   "description": "Austrian woman held captive for eight years",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Natascha_Kampusch_-_Buchmesse_Wien_2019.JPG?width=64",
-  "total": 947249,
+  "total": 956252,
   "monthly": [
     {
       "period": "2016-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-08",
       "views": 39760
+    },
+    {
+      "period": "2026-09",
+      "views": 9003
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 90949
+      "views": 99952
     }
   ]
 }

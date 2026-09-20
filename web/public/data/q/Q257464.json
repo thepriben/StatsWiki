@@ -4,7 +4,7 @@
   "title": "Sally_Hemings",
   "description": "American enslaved woman (c1773-1835); owned by Thomas Jefferson and mother of his children",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SallyHemings1804.jpg?width=64",
-  "total": 754061,
+  "total": 762462,
   "monthly": [
     {
       "period": "2016-04",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 13733
+    },
+    {
+      "period": "2026-09",
+      "views": 8401
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 13733
+      "views": 22134
     }
   ]
 }

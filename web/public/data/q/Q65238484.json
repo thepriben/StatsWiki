@@ -4,7 +4,7 @@
   "title": "Hyrox",
   "description": "fitness competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HYROX_logo.svg?width=64",
-  "total": 149768,
+  "total": 164966,
   "monthly": [
     {
       "period": "2026-01",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-09",
-      "views": 139261
+      "views": 154459
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 149768
+      "views": 164966
     }
   ]
 }

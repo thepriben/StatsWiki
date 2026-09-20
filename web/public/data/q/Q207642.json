@@ -4,7 +4,7 @@
   "title": "Khat",
   "description": "species of plant, commonly used by humans for its psychoactive effects",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Catha_edulis.jpg?width=64",
-  "total": 45343,
+  "total": 54837,
   "monthly": [
     {
       "period": "2024-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 26021
+    },
+    {
+      "period": "2026-09",
+      "views": 9494
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 26021
+      "views": 35515
     }
   ]
 }

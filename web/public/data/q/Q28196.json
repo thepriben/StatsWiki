@@ -4,7 +4,7 @@
   "title": "World_War_Z_(film)",
   "description": "2013 film directed by Marc Forster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_War_Z_in_Glasgow_030_%289194785674%29.jpg?width=64",
-  "total": 655226,
+  "total": 664216,
   "monthly": [
     {
       "period": "2015-10",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 12307
+    },
+    {
+      "period": "2026-09",
+      "views": 8990
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 12307
+      "views": 21297
     }
   ]
 }

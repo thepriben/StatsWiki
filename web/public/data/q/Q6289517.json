@@ -4,7 +4,7 @@
   "title": "Josh_Widdicombe",
   "description": "English stand-up comedian and radio host",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Widdicombe_Latitude_Festival_2013.JPG?width=64",
-  "total": 348601,
+  "total": 376607,
   "monthly": [
     {
       "period": "2015-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 10758
+    },
+    {
+      "period": "2026-09",
+      "views": 28006
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 85599
+      "views": 113605
     }
   ]
 }
