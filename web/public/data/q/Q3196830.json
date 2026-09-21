@@ -4,7 +4,7 @@
   "title": "Chip_Kelly",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chip_Kelly_Smile.jpg?width=64",
-  "total": 1972899,
+  "total": 1981758,
   "monthly": [
     {
       "period": "2015-09",
@@ -169,6 +169,10 @@
     {
       "period": "2026-07",
       "views": 8233
+    },
+    {
+      "period": "2026-09",
+      "views": 8859
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 21098
+      "views": 29957
     }
   ]
 }

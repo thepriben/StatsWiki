@@ -1,0 +1,56 @@
+{
+  "qid": "Q1138384",
+  "label": "University of Mississippi",
+  "title": "University_of_Mississippi",
+  "description": "public university in the United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olemisslyceum.jpg?width=64",
+  "total": 369826,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 253461
+    },
+    {
+      "period": "2016-09",
+      "views": 22772
+    },
+    {
+      "period": "2022-01",
+      "views": 14350
+    },
+    {
+      "period": "2024-09",
+      "views": 11983
+    },
+    {
+      "period": "2026-01",
+      "views": 46745
+    },
+    {
+      "period": "2026-09",
+      "views": 20515
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 253461
+    },
+    {
+      "period": "2016",
+      "views": 22772
+    },
+    {
+      "period": "2022",
+      "views": 14350
+    },
+    {
+      "period": "2024",
+      "views": 11983
+    },
+    {
+      "period": "2026",
+      "views": 67260
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "List_of_lakes_by_area",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 39272,
+  "total": 60072,
   "monthly": [
     {
       "period": "2024-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 27389
+    },
+    {
+      "period": "2026-09",
+      "views": 20800
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 27389
+      "views": 48189
     }
   ]
 }

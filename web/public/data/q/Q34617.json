@@ -4,7 +4,7 @@
   "title": "Saint_Pierre_and_Miquelon",
   "description": "self-governing territorial overseas collectivity of France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-PierreEtMiquelonFromTheISS.jpg?width=64",
-  "total": 164826,
+  "total": 190449,
   "monthly": [
     {
       "period": "2017-05",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 11522
+    },
+    {
+      "period": "2026-09",
+      "views": 25623
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 11522
+      "views": 37145
     }
   ]
 }

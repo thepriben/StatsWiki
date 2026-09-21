@@ -4,7 +4,7 @@
   "title": "Bring_Her_Back",
   "description": "2025 film directed by Danny and Michael Philippou",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bring_Her_Back_Film_Logo.svg?width=64",
-  "total": 2824581,
+  "total": 2837971,
   "monthly": [
     {
       "period": "2025-02",
@@ -45,6 +45,10 @@
     {
       "period": "2026-05",
       "views": 12380
+    },
+    {
+      "period": "2026-09",
+      "views": 13390
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 12380
+      "views": 25770
     }
   ]
 }

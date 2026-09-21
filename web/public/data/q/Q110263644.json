@@ -4,7 +4,7 @@
   "title": "Cam_Ward_(American_football)",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cam_Ward_2024.jpg?width=64",
-  "total": 899866,
+  "total": 923419,
   "monthly": [
     {
       "period": "2024-08",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 17345
+    },
+    {
+      "period": "2026-09",
+      "views": 23553
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 17345
+      "views": 40898
     }
   ]
 }

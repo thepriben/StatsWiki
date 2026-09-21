@@ -4,17 +4,21 @@
   "title": "UFC_Fight_Night_289",
   "description": "",
   "image": "",
-  "total": 10100,
+  "total": 28309,
   "monthly": [
     {
       "period": "2026-08",
       "views": 10100
+    },
+    {
+      "period": "2026-09",
+      "views": 18209
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 10100
+      "views": 28309
     }
   ]
 }

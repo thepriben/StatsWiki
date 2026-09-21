@@ -4,7 +4,7 @@
   "title": "Sidney_Poitier",
   "description": "Bahamian and American actor and diplomat (1927–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Poitier_1968.jpg?width=64",
-  "total": 3929529,
+  "total": 3939053,
   "monthly": [
     {
       "period": "2015-11",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 7531
+    },
+    {
+      "period": "2026-09",
+      "views": 9524
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 32631
+      "views": 42155
     }
   ]
 }

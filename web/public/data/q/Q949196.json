@@ -4,7 +4,7 @@
   "title": "Ken_Miles",
   "description": "British racing driver (1918–1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolphin_Mk_2_with_ken_MIles.tif?width=64",
-  "total": 15591483,
+  "total": 15600932,
   "monthly": [
     {
       "period": "2019-06",
@@ -245,6 +245,10 @@
     {
       "period": "2026-05",
       "views": 16801
+    },
+    {
+      "period": "2026-09",
+      "views": 9449
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 361139
+      "views": 370588
     }
   ]
 }

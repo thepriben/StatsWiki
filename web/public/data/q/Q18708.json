@@ -4,7 +4,7 @@
   "title": "Fulham_F.C.",
   "description": "association football club in London, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Craven_Cottage.JPG?width=64",
-  "total": 1130959,
+  "total": 1142657,
   "monthly": [
     {
       "period": "2016-08",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 38998
+    },
+    {
+      "period": "2026-09",
+      "views": 11698
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 93849
+      "views": 105547
     }
   ]
 }

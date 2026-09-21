@@ -4,7 +4,7 @@
   "title": "Sting_(musician)",
   "description": "British musician (born 1951)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sting_in_April_2018.jpg?width=64",
-  "total": 2743805,
+  "total": 2755909,
   "monthly": [
     {
       "period": "2015-07",
@@ -237,6 +237,10 @@
     {
       "period": "2026-08",
       "views": 18565
+    },
+    {
+      "period": "2026-09",
+      "views": 12104
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 145205
+      "views": 157309
     }
   ]
 }

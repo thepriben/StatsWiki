@@ -4,7 +4,7 @@
   "title": "Promising_Young_Woman",
   "description": "2020 film directed by Emerald Fennell",
   "image": "",
-  "total": 6137929,
+  "total": 6159122,
   "monthly": [
     {
       "period": "2019-12",
@@ -117,6 +117,10 @@
     {
       "period": "2026-08",
       "views": 7585
+    },
+    {
+      "period": "2026-09",
+      "views": 21193
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 91248
+      "views": 112441
     }
   ]
 }
