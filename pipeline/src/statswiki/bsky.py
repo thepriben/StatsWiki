@@ -98,7 +98,14 @@ def main():
         print(text)
         sys.exit(1 if args.strict else 0)
 
-    post_to_bsky(body, link)
+    try:
+        post_to_bsky(body, link)
+    except Exception as exc:
+        # Never fail the daily run because Bluesky is down; the site and other
+        # networks must still go through.
+        print(f"Bluesky post failed, skipping: {exc}")
+        sys.exit(1 if args.strict else 0)
+
     mark_posted(BSKY_LOG, "daily", day.isoformat())
     print(text)
 

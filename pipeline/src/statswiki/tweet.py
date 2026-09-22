@@ -57,7 +57,14 @@ def main():
         print(text)
         sys.exit(1 if args.strict else 0)
 
-    post_tweet(text)
+    try:
+        post_tweet(text)
+    except Exception as exc:
+        # Never fail the daily run because X is down or out of credits;
+        # the site and other networks must still go through.
+        print(f"X post failed, skipping: {exc}")
+        sys.exit(1 if args.strict else 0)
+
     mark_posted(TWEET_LOG, "daily", day.isoformat())
     print(text)
 

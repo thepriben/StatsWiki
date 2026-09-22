@@ -36,10 +36,14 @@ def _post_period(kind: str, key: str, top: int, dry_run: bool, force: bool) -> b
         print(f"X credentials not configured ({kind} {key})")
         print(text[:280])
     else:
-        post_tweet(text[:280])
-        mark_posted(TWEET_LOG, kind, key)
-        print(f"Tweeted {kind} {key}")
-        posted = True
+        try:
+            post_tweet(text[:280])
+            mark_posted(TWEET_LOG, kind, key)
+            print(f"Tweeted {kind} {key}")
+            posted = True
+        except Exception as exc:
+            # A provider failure (e.g. X out of credits) must not break the run.
+            print(f"X {kind} post failed, skipping: {exc}")
 
     if not force and already_posted(BSKY_LOG, kind, key):
         print(f"Already posted {kind} {key} to Bluesky")
@@ -47,10 +51,13 @@ def _post_period(kind: str, key: str, top: int, dry_run: bool, force: bool) -> b
         print(f"Bluesky credentials not configured ({kind} {key})")
         print(bsky_text)
     else:
-        post_to_bsky(bsky_body, bsky_link)
-        mark_posted(BSKY_LOG, kind, key)
-        print(f"Bluesky {kind} {key}")
-        posted = True
+        try:
+            post_to_bsky(bsky_body, bsky_link)
+            mark_posted(BSKY_LOG, kind, key)
+            print(f"Bluesky {kind} {key}")
+            posted = True
+        except Exception as exc:
+            print(f"Bluesky {kind} post failed, skipping: {exc}")
 
     return posted
 
