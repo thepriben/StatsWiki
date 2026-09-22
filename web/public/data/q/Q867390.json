@@ -4,17 +4,25 @@
   "title": "Lisa_Cimorelli",
   "description": "American musical group; sibling a cappella singers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cimorelli_2014.jpg?width=64",
-  "total": 24162,
+  "total": 66980,
   "monthly": [
     {
+      "period": "2020-01",
+      "views": 13561
+    },
+    {
       "period": "2026-09",
-      "views": 24162
+      "views": 53419
     }
   ],
   "yearly": [
     {
+      "period": "2020",
+      "views": 13561
+    },
+    {
       "period": "2026",
-      "views": 24162
+      "views": 53419
     }
   ]
 }

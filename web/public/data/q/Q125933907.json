@@ -4,7 +4,7 @@
   "title": "Companion_(film)",
   "description": "2025 film directed by Drew Hancock",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Companion_%282025%29_poster.jpg?width=64",
-  "total": 3258197,
+  "total": 3266871,
   "monthly": [
     {
       "period": "2024-10",
@@ -41,6 +41,10 @@
     {
       "period": "2025-09",
       "views": 9476
+    },
+    {
+      "period": "2026-09",
+      "views": 8674
     }
   ],
   "yearly": [
@@ -51,6 +55,10 @@
     {
       "period": "2025",
       "views": 3199658
+    },
+    {
+      "period": "2026",
+      "views": 8674
     }
   ]
 }

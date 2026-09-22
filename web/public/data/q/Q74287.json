@@ -1,0 +1,56 @@
+{
+  "qid": "Q74287",
+  "label": "The Hobbit",
+  "title": "The_Hobbit",
+  "description": "1937 fantasy novel by J. R. R. Tolkien",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hobbit_-_title_page_of_first_American_print.jpg?width=64",
+  "total": 269065,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 57955
+    },
+    {
+      "period": "2015-09",
+      "views": 14810
+    },
+    {
+      "period": "2016-08",
+      "views": 120966
+    },
+    {
+      "period": "2017-09",
+      "views": 13998
+    },
+    {
+      "period": "2022-09",
+      "views": 49481
+    },
+    {
+      "period": "2026-09",
+      "views": 11855
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 72765
+    },
+    {
+      "period": "2016",
+      "views": 120966
+    },
+    {
+      "period": "2017",
+      "views": 13998
+    },
+    {
+      "period": "2022",
+      "views": 49481
+    },
+    {
+      "period": "2026",
+      "views": 11855
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "UEFA_Nations_League",
   "description": "European association football tournament for men's national teams",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uefa_nations_league_textlogo.png?width=64",
-  "total": 8814371,
+  "total": 8826992,
   "monthly": [
     {
       "period": "2017-10",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 467581
+    },
+    {
+      "period": "2026-09",
+      "views": 12621
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 521769
+      "views": 534390
     }
   ]
 }

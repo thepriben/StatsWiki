@@ -4,7 +4,7 @@
   "title": "Berlin",
   "description": "federated state, capital and largest city of Germany",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cityscape_Berlin.jpg?width=64",
-  "total": 83350,
+  "total": 92508,
   "monthly": [
     {
       "period": "2016-12",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-09",
-      "views": 9482
+      "views": 18640
     }
   ],
   "yearly": [
@@ -46,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 9482
+      "views": 18640
     }
   ]
 }

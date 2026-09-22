@@ -4,7 +4,7 @@
   "title": "Woody_Allen",
   "description": "American filmmaker, actor and comedian (born 1935)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Woody_Allen_Cannes_2011.jpg?width=64",
-  "total": 8467572,
+  "total": 8476237,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-08",
       "views": 8530
+    },
+    {
+      "period": "2026-09",
+      "views": 8665
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 585533
+      "views": 594198
     }
   ]
 }

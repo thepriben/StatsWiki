@@ -4,7 +4,7 @@
   "title": "Earth,_Wind_&_Fire",
   "description": "American funk band from Chicago",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth_Wind_and_Fire.jpg?width=64",
-  "total": 889232,
+  "total": 900133,
   "monthly": [
     {
       "period": "2016-01",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 44820
+    },
+    {
+      "period": "2026-09",
+      "views": 10901
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 44820
+      "views": 55721
     }
   ]
 }

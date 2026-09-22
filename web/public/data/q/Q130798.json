@@ -4,7 +4,7 @@
   "title": "Kendrick_Lamar",
   "description": "American rapper (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulitzer2018-portraits-kendrick-lamar.jpg?width=64",
-  "total": 23285949,
+  "total": 23296304,
   "monthly": [
     {
       "period": "2015-07",
@@ -317,6 +317,10 @@
     {
       "period": "2026-05",
       "views": 10275
+    },
+    {
+      "period": "2026-09",
+      "views": 10355
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 268821
+      "views": 279176
     }
   ]
 }

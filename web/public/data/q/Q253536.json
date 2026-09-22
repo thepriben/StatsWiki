@@ -4,7 +4,7 @@
   "title": "Annie_Potts",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annie_Potts%2C_2019_%28T6I0YV6Az8c%29.jpg?width=64",
-  "total": 866754,
+  "total": 876232,
   "monthly": [
     {
       "period": "2015-11",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 126698
+    },
+    {
+      "period": "2026-09",
+      "views": 9478
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 205322
+      "views": 214800
     }
   ]
 }

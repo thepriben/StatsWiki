@@ -4,7 +4,7 @@
   "title": "2026–27_UEFA_Nations_League",
   "description": "international football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA_member_associations_map.svg?width=64",
-  "total": 305660,
+  "total": 316550,
   "monthly": [
     {
       "period": "2025-03",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 174405
+    },
+    {
+      "period": "2026-09",
+      "views": 10890
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 233313
+      "views": 244203
     }
   ]
 }

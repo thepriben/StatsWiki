@@ -1,0 +1,60 @@
+{
+  "qid": "Q3025091",
+  "label": "Gracie Mansion",
+  "title": "Gracie_Mansion",
+  "description": "official residence of the mayor of New York City",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gracie_Mansion_snow_jeh.jpg?width=64",
+  "total": 395774,
+  "monthly": [
+    {
+      "period": "2020-06",
+      "views": 22619
+    },
+    {
+      "period": "2024-09",
+      "views": 66235
+    },
+    {
+      "period": "2025-06",
+      "views": 9088
+    },
+    {
+      "period": "2025-11",
+      "views": 64781
+    },
+    {
+      "period": "2025-12",
+      "views": 60312
+    },
+    {
+      "period": "2026-01",
+      "views": 90705
+    },
+    {
+      "period": "2026-03",
+      "views": 57260
+    },
+    {
+      "period": "2026-09",
+      "views": 24774
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 22619
+    },
+    {
+      "period": "2024",
+      "views": 66235
+    },
+    {
+      "period": "2025",
+      "views": 134181
+    },
+    {
+      "period": "2026",
+      "views": 172739
+    }
+  ]
+}

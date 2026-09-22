@@ -4,7 +4,7 @@
   "title": "Humphrey_Bogart",
   "description": "American actor (1899–1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Humphrey_Bogart_1945.JPG?width=64",
-  "total": 1409399,
+  "total": 1422413,
   "monthly": [
     {
       "period": "2015-08",
@@ -241,6 +241,10 @@
     {
       "period": "2026-08",
       "views": 38411
+    },
+    {
+      "period": "2026-09",
+      "views": 13014
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 51612
+      "views": 64626
     }
   ]
 }

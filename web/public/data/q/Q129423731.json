@@ -4,7 +4,7 @@
   "title": "28_Years_Later:_The_Bone_Temple",
   "description": "2026 film directed by Nia DaCosta",
   "image": "",
-  "total": 5489781,
+  "total": 5497826,
   "monthly": [
     {
       "period": "2025-04",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 8665
+    },
+    {
+      "period": "2026-09",
+      "views": 8045
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 4075828
+      "views": 4083873
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "qid": "Q220859",
+  "label": "Arnolfini Portrait",
+  "title": "Arnolfini_Portrait",
+  "description": "1434 painting by Jan van Eyck",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Van_Eyck_-_Arnolfini_Portrait.jpg?width=64",
+  "total": 93488,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 81420
+    },
+    {
+      "period": "2026-09",
+      "views": 12068
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 81420
+    },
+    {
+      "period": "2026",
+      "views": 12068
+    }
+  ]
+}
