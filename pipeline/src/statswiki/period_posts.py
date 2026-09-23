@@ -10,7 +10,9 @@ from statswiki.post_text import build_period_post, load_period_lines, period_key
 from statswiki.tweet import post_tweet
 
 
-def _post_period(kind: str, key: str, top: int, dry_run: bool, force: bool) -> bool:
+def _post_period(
+    kind: str, key: str, top: int, dry_run: bool, force: bool, skip_x: bool = False
+) -> bool:
     lines = load_period_lines(kind, key)
     if not lines:
         print(f"No {kind} data for {key}")
@@ -30,7 +32,9 @@ def _post_period(kind: str, key: str, top: int, dry_run: bool, force: bool) -> b
 
     posted = False
 
-    if not force and already_posted(TWEET_LOG, kind, key):
+    if skip_x:
+        print(f"Skipping X for {kind} {key} (X limited to daily posts)")
+    elif not force and already_posted(TWEET_LOG, kind, key):
         print(f"Already tweeted {kind} {key}")
     elif not X_ENABLED:
         print(f"X credentials not configured ({kind} {key})")
@@ -70,6 +74,7 @@ def main():
     p.add_argument("--date", help="Last day of period (YYYY-MM-DD). Default: yesterday")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--force", action="store_true")
+    p.add_argument("--no-x", action="store_true", help="Post period summaries to Bluesky only")
     p.add_argument("--strict", action="store_true", help="Exit 1 if a due period was not posted")
     args = p.parse_args()
 
@@ -81,7 +86,7 @@ def main():
 
     ok = True
     for kind, key in due:
-        if not _post_period(kind, key, args.top, args.dry_run, args.force):
+        if not _post_period(kind, key, args.top, args.dry_run, args.force, skip_x=args.no_x):
             ok = False
 
     if args.strict and not ok:
