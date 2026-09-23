@@ -4,7 +4,7 @@
   "title": "Tony_Blair",
   "description": "Prime Minister of the United Kingdom from 1997 to 2007",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony_Blair_2010_%28cropped%29.jpg?width=64",
-  "total": 3828668,
+  "total": 3837791,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-07",
       "views": 21799
+    },
+    {
+      "period": "2026-09",
+      "views": 9123
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 218215
+      "views": 227338
     }
   ]
 }

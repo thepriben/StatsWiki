@@ -1,0 +1,56 @@
+{
+  "qid": "Q1192659",
+  "label": "Vela incident",
+  "title": "Vela_incident",
+  "description": "1979 unidentified double flash of light",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vela5b.jpg?width=64",
+  "total": 148560,
+  "monthly": [
+    {
+      "period": "2019-09",
+      "views": 38796
+    },
+    {
+      "period": "2020-03",
+      "views": 13880
+    },
+    {
+      "period": "2020-06",
+      "views": 10964
+    },
+    {
+      "period": "2022-09",
+      "views": 37126
+    },
+    {
+      "period": "2023-11",
+      "views": 17122
+    },
+    {
+      "period": "2026-09",
+      "views": 30672
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 38796
+    },
+    {
+      "period": "2020",
+      "views": 24844
+    },
+    {
+      "period": "2022",
+      "views": 37126
+    },
+    {
+      "period": "2023",
+      "views": 17122
+    },
+    {
+      "period": "2026",
+      "views": 30672
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Lucy_Hale",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucy_Hale_during_interview_in_April_2018_%28cropped%29.jpg?width=64",
-  "total": 838321,
+  "total": 850481,
   "monthly": [
     {
       "period": "2015-08",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 10111
+    },
+    {
+      "period": "2026-09",
+      "views": 12160
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 10111
+      "views": 22271
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rick_Harrison",
   "description": "American TV star",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick_Harrison_by_Gage_Skidmore.jpg?width=64",
-  "total": 1279817,
+  "total": 1287754,
   "monthly": [
     {
       "period": "2016-03",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 27875
+    },
+    {
+      "period": "2026-09",
+      "views": 7937
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 60431
+      "views": 68368
     }
   ]
 }

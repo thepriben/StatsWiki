@@ -4,7 +4,7 @@
   "title": "Andy_Green_(baseball)",
   "description": "former manager of the San Diego Padres",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/9TH_0955_Andy_Green.jpg?width=64",
-  "total": 45258,
+  "total": 53743,
   "monthly": [
     {
       "period": "2017-07",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 36418
+    },
+    {
+      "period": "2026-09",
+      "views": 8485
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 36418
+      "views": 44903
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Aaron_Paul",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Paul_-_AMC_The_Grove_-_Ash.jpg?width=64",
-  "total": 1595039,
+  "total": 1604703,
   "monthly": [
     {
       "period": "2015-08",
@@ -121,6 +121,10 @@
     {
       "period": "2026-08",
       "views": 76098
+    },
+    {
+      "period": "2026-09",
+      "views": 9664
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 76098
+      "views": 85762
     }
   ]
 }

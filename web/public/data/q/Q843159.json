@@ -1,0 +1,56 @@
+{
+  "qid": "Q843159",
+  "label": "EFL Trophy",
+  "title": "EFL_Trophy",
+  "description": "association football tournament in England, UK",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_celebrations_-_geograph.org.uk_-_4894451.jpg?width=64",
+  "total": 125726,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 33389
+    },
+    {
+      "period": "2023-04",
+      "views": 14559
+    },
+    {
+      "period": "2023-09",
+      "views": 10539
+    },
+    {
+      "period": "2023-10",
+      "views": 12702
+    },
+    {
+      "period": "2025-04",
+      "views": 16577
+    },
+    {
+      "period": "2026-04",
+      "views": 28026
+    },
+    {
+      "period": "2026-09",
+      "views": 9934
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 33389
+    },
+    {
+      "period": "2023",
+      "views": 37800
+    },
+    {
+      "period": "2025",
+      "views": 16577
+    },
+    {
+      "period": "2026",
+      "views": 37960
+    }
+  ]
+}

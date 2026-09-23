@@ -4,7 +4,7 @@
   "title": "Agatha_Christie",
   "description": "English mystery and detective writer (1890–1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agatha_Christie_in_Nederland_%28detectiveschrijfster%29%2C_bij_aankomst_op_Schiphol_me%2C_Bestanddeelnr_916-8898_%28cropped%29.jpg?width=64",
-  "total": 2694812,
+  "total": 2702589,
   "monthly": [
     {
       "period": "2015-09",
@@ -209,6 +209,10 @@
     {
       "period": "2026-08",
       "views": 9425
+    },
+    {
+      "period": "2026-09",
+      "views": 7777
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 255770
+      "views": 263547
     }
   ]
 }

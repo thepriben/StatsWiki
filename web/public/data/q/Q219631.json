@@ -4,7 +4,7 @@
   "title": "Adam_Levine",
   "description": "American singer (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AdamLevine2011.jpg?width=64",
-  "total": 5874742,
+  "total": 5886259,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-04",
       "views": 20786
+    },
+    {
+      "period": "2026-09",
+      "views": 11517
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 29558
+      "views": 41075
     }
   ]
 }

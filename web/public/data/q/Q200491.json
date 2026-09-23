@@ -1,0 +1,76 @@
+{
+  "qid": "Q200491",
+  "label": "Activision",
+  "title": "Activision",
+  "description": "American video game publisher",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Activisionheadquarters.jpg?width=64",
+  "total": 234349,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 10610
+    },
+    {
+      "period": "2017-04",
+      "views": 55745
+    },
+    {
+      "period": "2020-09",
+      "views": 41163
+    },
+    {
+      "period": "2021-07",
+      "views": 10778
+    },
+    {
+      "period": "2022-01",
+      "views": 84401
+    },
+    {
+      "period": "2023-10",
+      "views": 13854
+    },
+    {
+      "period": "2024-08",
+      "views": 8867
+    },
+    {
+      "period": "2026-09",
+      "views": 8931
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 10610
+    },
+    {
+      "period": "2017",
+      "views": 55745
+    },
+    {
+      "period": "2020",
+      "views": 41163
+    },
+    {
+      "period": "2021",
+      "views": 10778
+    },
+    {
+      "period": "2022",
+      "views": 84401
+    },
+    {
+      "period": "2023",
+      "views": 13854
+    },
+    {
+      "period": "2024",
+      "views": 8867
+    },
+    {
+      "period": "2026",
+      "views": 8931
+    }
+  ]
+}

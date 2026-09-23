@@ -1,0 +1,76 @@
+{
+  "qid": "Q236821",
+  "label": "Silent Hill",
+  "title": "Silent_Hill",
+  "description": "video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Silent_Hill_logo.png?width=64",
+  "total": 636300,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 12170
+    },
+    {
+      "period": "2022-10",
+      "views": 129313
+    },
+    {
+      "period": "2024-02",
+      "views": 30144
+    },
+    {
+      "period": "2024-05",
+      "views": 9947
+    },
+    {
+      "period": "2024-10",
+      "views": 290228
+    },
+    {
+      "period": "2025-03",
+      "views": 16480
+    },
+    {
+      "period": "2025-06",
+      "views": 9141
+    },
+    {
+      "period": "2025-09",
+      "views": 99872
+    },
+    {
+      "period": "2025-10",
+      "views": 18700
+    },
+    {
+      "period": "2026-02",
+      "views": 10796
+    },
+    {
+      "period": "2026-09",
+      "views": 9509
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12170
+    },
+    {
+      "period": "2022",
+      "views": 129313
+    },
+    {
+      "period": "2024",
+      "views": 330319
+    },
+    {
+      "period": "2025",
+      "views": 144193
+    },
+    {
+      "period": "2026",
+      "views": 20305
+    }
+  ]
+}

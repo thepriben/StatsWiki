@@ -4,7 +4,7 @@
   "title": "Meg_Ryan",
   "description": "American actress (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meg_Ryan_2009_portrait.jpg?width=64",
-  "total": 4517964,
+  "total": 4525802,
   "monthly": [
     {
       "period": "2015-07",
@@ -341,6 +341,10 @@
     {
       "period": "2026-07",
       "views": 9234
+    },
+    {
+      "period": "2026-09",
+      "views": 7838
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 104072
+      "views": 111910
     }
   ]
 }

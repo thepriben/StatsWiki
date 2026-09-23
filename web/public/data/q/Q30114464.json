@@ -4,7 +4,7 @@
   "title": "Super_Bowl_LVI",
   "description": "NFL championship game in 2022",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DHS_Secretary_Alejandro_Mayorkas_Tours_SoFi_Stadium_%2851874338839%29.jpg?width=64",
-  "total": 4510771,
+  "total": 4519142,
   "monthly": [
     {
       "period": "2018-01",
@@ -117,6 +117,10 @@
     {
       "period": "2026-06",
       "views": 9161
+    },
+    {
+      "period": "2026-09",
+      "views": 8371
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 287404
+      "views": 295775
     }
   ]
 }

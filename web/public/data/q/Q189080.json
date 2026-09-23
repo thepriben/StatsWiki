@@ -4,7 +4,7 @@
   "title": "Lou_Reed",
   "description": "American rock musician (1942–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lou_Reed_at_the_Hop_Farm_Music_Festival.jpg?width=64",
-  "total": 222836,
+  "total": 230770,
   "monthly": [
     {
       "period": "2016-01",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 28082
+    },
+    {
+      "period": "2026-09",
+      "views": 7934
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 37693
+      "views": 45627
     }
   ]
 }

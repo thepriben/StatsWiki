@@ -1,0 +1,68 @@
+{
+  "qid": "Q1141741",
+  "label": "Gilligan's Island",
+  "title": "Gilligan's_Island",
+  "description": "television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Denver_Gilligans_Island_1965.jpg?width=64",
+  "total": 313264,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 9846
+    },
+    {
+      "period": "2018-09",
+      "views": 11632
+    },
+    {
+      "period": "2020-12",
+      "views": 136304
+    },
+    {
+      "period": "2021-01",
+      "views": 62716
+    },
+    {
+      "period": "2022-01",
+      "views": 36861
+    },
+    {
+      "period": "2024-05",
+      "views": 47274
+    },
+    {
+      "period": "2026-09",
+      "views": 8631
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 9846
+    },
+    {
+      "period": "2018",
+      "views": 11632
+    },
+    {
+      "period": "2020",
+      "views": 136304
+    },
+    {
+      "period": "2021",
+      "views": 62716
+    },
+    {
+      "period": "2022",
+      "views": 36861
+    },
+    {
+      "period": "2024",
+      "views": 47274
+    },
+    {
+      "period": "2026",
+      "views": 8631
+    }
+  ]
+}

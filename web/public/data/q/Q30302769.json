@@ -4,7 +4,7 @@
   "title": "Kaitlan_Collins",
   "description": "American journalist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaitlan_Collins_2022.png?width=64",
-  "total": 2392469,
+  "total": 2403186,
   "monthly": [
     {
       "period": "2018-07",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 28061
+    },
+    {
+      "period": "2026-09",
+      "views": 10717
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 646111
+      "views": 656828
     }
   ]
 }

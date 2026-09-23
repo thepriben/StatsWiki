@@ -4,17 +4,21 @@
   "title": "72nd_National_Film_Awards",
   "description": "",
   "image": "",
-  "total": 26885,
+  "total": 40723,
   "monthly": [
     {
       "period": "2026-07",
       "views": 26885
+    },
+    {
+      "period": "2026-09",
+      "views": 13838
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26885
+      "views": 40723
     }
   ]
 }
