@@ -1,0 +1,70 @@
+name: Backfill tweets
+
+# Manually re-post missed daily top-5 tweets to X (e.g. after the X API ran
+# out of credits). Bluesky is unaffected and handled by the daily workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      dates:
+        description: "Space-separated days to tweet (YYYY-MM-DD)"
+        required: true
+        default: "2026-09-20 2026-09-21 2026-09-22"
+
+permissions:
+  contents: write
+
+# Share the daily lock so this never races the scheduled run on git/push.
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -e ./pipeline
+
+      - name: Post missed daily tweets to X
+        env:
+          DATES: ${{ github.event.inputs.dates }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: |
+          for d in $DATES; do
+            echo "=== Tweeting top 5 for $d ==="
+            sw-tweet --date "$d" --top 5
+          done
+
+      - name: Commit tweet log
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tweet_log.json
+          if git diff --staged --quiet; then
+            echo "No log changes to commit"
+            exit 0
+          fi
+          git commit -m "Backfill tweets $(date -u +%Y-%m-%d)"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --strategy-option=theirs origin main && git push; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          exit 1
