@@ -1,10 +1,10 @@
 {
   "qid": "Q132877730",
-  "label": "Eurovision Song Contest 2027",
+  "label": "Eurovision Song Contest 2028",
   "title": "Eurovision_Song_Contest_2027",
-  "description": "71st edition of the Eurovision Song Contest",
+  "description": "72nd edition of the Eurovision Song Contest",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurovision_2026_heart_-_Bulgaria.svg?width=64",
-  "total": 888142,
+  "total": 916751,
   "monthly": [
     {
       "period": "2026-05",
@@ -24,13 +24,13 @@
     },
     {
       "period": "2026-09",
-      "views": 124264
+      "views": 152873
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 888142
+      "views": 916751
     }
   ]
 }

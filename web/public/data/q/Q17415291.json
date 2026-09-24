@@ -4,17 +4,21 @@
   "title": "Mirabai_Chanu",
   "description": "Indian weightlifter (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saikhom_Mirabai_Chanu.jpg?width=64",
-  "total": 55893,
+  "total": 65851,
   "monthly": [
     {
       "period": "2026-07",
       "views": 55893
+    },
+    {
+      "period": "2026-09",
+      "views": 9958
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 55893
+      "views": 65851
     }
   ]
 }

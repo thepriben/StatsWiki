@@ -4,7 +4,7 @@
   "title": "Mel_B",
   "description": "British singer and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mel_B_%286330979387%29.jpg?width=64",
-  "total": 4430077,
+  "total": 4438579,
   "monthly": [
     {
       "period": "2015-07",
@@ -245,6 +245,10 @@
     {
       "period": "2026-08",
       "views": 14065
+    },
+    {
+      "period": "2026-09",
+      "views": 8502
     }
   ],
   "yearly": [
@@ -294,7 +298,7 @@
     },
     {
       "period": "2026",
-      "views": 14065
+      "views": 22567
     }
   ]
 }

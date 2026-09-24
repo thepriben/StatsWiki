@@ -4,7 +4,7 @@
   "title": "Sam_Smith",
   "description": "British singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SamSmith-byPhilipRomano.jpg?width=64",
-  "total": 2685894,
+  "total": 2695731,
   "monthly": [
     {
       "period": "2020-02",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 17212
+    },
+    {
+      "period": "2026-09",
+      "views": 9837
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 26949
+      "views": 36786
     }
   ]
 }

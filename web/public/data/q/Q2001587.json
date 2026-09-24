@@ -1,0 +1,80 @@
+{
+  "qid": "Q2001587",
+  "label": "nor'easter",
+  "title": "Nor'easter",
+  "description": "storm in the US and Canada",
+  "image": "",
+  "total": 366377,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 10999
+    },
+    {
+      "period": "2017-01",
+      "views": 13137
+    },
+    {
+      "period": "2017-03",
+      "views": 33807
+    },
+    {
+      "period": "2018-01",
+      "views": 13250
+    },
+    {
+      "period": "2018-03",
+      "views": 176096
+    },
+    {
+      "period": "2018-10",
+      "views": 18767
+    },
+    {
+      "period": "2020-12",
+      "views": 22260
+    },
+    {
+      "period": "2022-01",
+      "views": 12124
+    },
+    {
+      "period": "2025-10",
+      "views": 58090
+    },
+    {
+      "period": "2026-09",
+      "views": 7847
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10999
+    },
+    {
+      "period": "2017",
+      "views": 46944
+    },
+    {
+      "period": "2018",
+      "views": 208113
+    },
+    {
+      "period": "2020",
+      "views": 22260
+    },
+    {
+      "period": "2022",
+      "views": 12124
+    },
+    {
+      "period": "2025",
+      "views": 58090
+    },
+    {
+      "period": "2026",
+      "views": 7847
+    }
+  ]
+}

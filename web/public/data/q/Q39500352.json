@@ -4,7 +4,7 @@
   "title": "Tijjani_Reijnders",
   "description": "Dutch footballer (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reijnders_arriva_in_albergo_%28cropped%29.jpg?width=64",
-  "total": 853427,
+  "total": 866223,
   "monthly": [
     {
       "period": "2023-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 81610
+    },
+    {
+      "period": "2026-09",
+      "views": 12796
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 137598
+      "views": 150394
     }
   ]
 }

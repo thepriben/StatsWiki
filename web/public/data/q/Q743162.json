@@ -4,7 +4,7 @@
   "title": "Tucker_Carlson",
   "description": "American conservative political commentator (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tucker_Carlson_2025.jpg?width=64",
-  "total": 8207079,
+  "total": 8219152,
   "monthly": [
     {
       "period": "2016-11",
@@ -309,6 +309,10 @@
     {
       "period": "2026-06",
       "views": 26573
+    },
+    {
+      "period": "2026-09",
+      "views": 12073
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 446260
+      "views": 458333
     }
   ]
 }

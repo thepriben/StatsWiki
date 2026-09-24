@@ -4,7 +4,7 @@
   "title": "Ray_Charles",
   "description": "American singer, pianist and songwriter (1930–2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ray_Charles_classic_piano_pose.jpg?width=64",
-  "total": 1840273,
+  "total": 1856012,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-07",
       "views": 49597
+    },
+    {
+      "period": "2026-09",
+      "views": 15739
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 49597
+      "views": 65336
     }
   ]
 }

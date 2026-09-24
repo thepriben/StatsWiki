@@ -4,7 +4,7 @@
   "title": "Gene_Wilder",
   "description": "American actor (1933–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gene_Wilder_1970.JPG?width=64",
-  "total": 7414351,
+  "total": 7425040,
   "monthly": [
     {
       "period": "2015-07",
@@ -237,6 +237,10 @@
     {
       "period": "2026-06",
       "views": 14179
+    },
+    {
+      "period": "2026-09",
+      "views": 10689
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 29565
+      "views": 40254
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Bitcoin",
   "description": "digital cash system and associated currency",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin.svg?width=64",
-  "total": 32807971,
+  "total": 32815923,
   "monthly": [
     {
       "period": "2015-07",
@@ -365,6 +365,10 @@
     {
       "period": "2026-02",
       "views": 54204
+    },
+    {
+      "period": "2026-09",
+      "views": 7952
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 54204
+      "views": 62156
     }
   ]
 }

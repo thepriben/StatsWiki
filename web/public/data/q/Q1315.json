@@ -4,7 +4,7 @@
   "title": "Equinox",
   "description": "astronomical event where the Sun is directly above the Earth's equator",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth-lighting-equinox_af.png?width=64",
-  "total": 2042515,
+  "total": 2054921,
   "monthly": [
     {
       "period": "2015-09",
@@ -132,7 +132,7 @@
     },
     {
       "period": "2026-09",
-      "views": 21837
+      "views": 34243
     }
   ],
   "yearly": [
@@ -182,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 35953
+      "views": 48359
     }
   ]
 }

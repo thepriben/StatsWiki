@@ -4,7 +4,7 @@
   "title": "Chagos_Archipelago",
   "description": "archipelago in the Indian Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DG_Ariel_Plantation.jpg?width=64",
-  "total": 869285,
+  "total": 891014,
   "monthly": [
     {
       "period": "2016-06",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 32632
+    },
+    {
+      "period": "2026-09",
+      "views": 21729
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 262538
+      "views": 284267
     }
   ]
 }

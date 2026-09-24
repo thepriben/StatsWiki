@@ -1,0 +1,44 @@
+{
+  "qid": "Q1194037",
+  "label": "Salad Fingers",
+  "title": "Salad_Fingers",
+  "description": "British animated web series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SF-logo_3705x.png?width=64",
+  "total": 164781,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 21104
+    },
+    {
+      "period": "2019-02",
+      "views": 100548
+    },
+    {
+      "period": "2022-05",
+      "views": 11370
+    },
+    {
+      "period": "2026-09",
+      "views": 31759
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21104
+    },
+    {
+      "period": "2019",
+      "views": 100548
+    },
+    {
+      "period": "2022",
+      "views": 11370
+    },
+    {
+      "period": "2026",
+      "views": 31759
+    }
+  ]
+}

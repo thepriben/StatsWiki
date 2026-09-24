@@ -2,9 +2,9 @@
   "qid": "Q543548",
   "label": "Angry Anderson",
   "title": "Angry_Anderson",
-  "description": "Australian rock singer",
+  "description": "Australian rock singer (1947–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angry_anderson.jpg?width=64",
-  "total": 101499,
+  "total": 252651,
   "monthly": [
     {
       "period": "2018-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 9310
+    },
+    {
+      "period": "2026-09",
+      "views": 151152
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 9310
+      "views": 160462
     }
   ]
 }

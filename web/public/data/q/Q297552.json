@@ -4,7 +4,7 @@
   "title": "Tom_Morello",
   "description": "American guitarist and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Morello.jpg?width=64",
-  "total": 1222611,
+  "total": 1234105,
   "monthly": [
     {
       "period": "2015-12",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 15715
+    },
+    {
+      "period": "2026-09",
+      "views": 11494
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 69013
+      "views": 80507
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Suriname",
   "description": "country in South America",
   "image": "",
-  "total": 1254526,
+  "total": 1277298,
   "monthly": [
     {
       "period": "2017-06",
@@ -153,6 +153,10 @@
     {
       "period": "2026-06",
       "views": 37893
+    },
+    {
+      "period": "2026-09",
+      "views": 22772
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 55521
+      "views": 78293
     }
   ]
 }
