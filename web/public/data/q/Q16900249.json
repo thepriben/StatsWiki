@@ -1,0 +1,28 @@
+{
+  "qid": "Q16900249",
+  "label": "Loop Service (Portland tram line)",
+  "title": "A_and_B_Loop",
+  "description": "streetcar circle route in Portland, Oregon, U.S.",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tilikum_Crossing_from_north_sidewalk_with_red-and-blue_streetcar_%282016%29.jpg?width=64",
+  "total": 38919,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 28946
+    },
+    {
+      "period": "2026-09",
+      "views": 9973
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 28946
+    },
+    {
+      "period": "2026",
+      "views": 9973
+    }
+  ]
+}

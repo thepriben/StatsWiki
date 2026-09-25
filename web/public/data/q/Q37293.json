@@ -4,7 +4,7 @@
   "title": "Ramayana",
   "description": "An ancient Hindu epic composed by Valmiki which narrates the life story of Lord Rama.",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_at_Lanka%2C_Ramayana%2C_Udaipur%2C_1649-53.jpg?width=64",
-  "total": 583975,
+  "total": 595980,
   "monthly": [
     {
       "period": "2020-03",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 8822
+    },
+    {
+      "period": "2026-09",
+      "views": 12005
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 54388
+      "views": 66393
     }
   ]
 }

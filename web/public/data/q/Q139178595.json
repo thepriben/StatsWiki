@@ -4,17 +4,21 @@
   "title": "Jamie_Ding",
   "description": "American game show contestant",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Ding_in_New_Jersey%2C_US_-_June_2026%2C_1.jpg?width=64",
-  "total": 9760,
+  "total": 17406,
   "monthly": [
     {
       "period": "2026-07",
       "views": 9760
+    },
+    {
+      "period": "2026-09",
+      "views": 7646
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9760
+      "views": 17406
     }
   ]
 }

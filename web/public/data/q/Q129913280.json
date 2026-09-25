@@ -1,0 +1,32 @@
+{
+  "qid": "Q129913280",
+  "label": "Madden",
+  "title": "Madden_(film)",
+  "description": "upcoming film directed by David O. Russell",
+  "image": "",
+  "total": 115858,
+  "monthly": [
+    {
+      "period": "2025-05",
+      "views": 40767
+    },
+    {
+      "period": "2025-12",
+      "views": 62011
+    },
+    {
+      "period": "2026-09",
+      "views": 13080
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 102778
+    },
+    {
+      "period": "2026",
+      "views": 13080
+    }
+  ]
+}

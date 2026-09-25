@@ -4,7 +4,7 @@
   "title": "Portugal_national_football_team",
   "description": "men's national association football team representing Portugal",
   "image": "",
-  "total": 7792876,
+  "total": 7802710,
   "monthly": [
     {
       "period": "2016-06",
@@ -209,6 +209,10 @@
     {
       "period": "2026-07",
       "views": 449309
+    },
+    {
+      "period": "2026-09",
+      "views": 9834
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 1142225
+      "views": 1152059
     }
   ]
 }

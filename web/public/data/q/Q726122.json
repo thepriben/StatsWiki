@@ -4,7 +4,7 @@
   "title": "Ashlyn_Harris",
   "description": "American soccer player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashlyn_Harris_2012_1.jpg?width=64",
-  "total": 440464,
+  "total": 454784,
   "monthly": [
     {
       "period": "2015-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 15835
+    },
+    {
+      "period": "2026-09",
+      "views": 14320
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 15835
+      "views": 30155
     }
   ]
 }

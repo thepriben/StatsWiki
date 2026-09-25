@@ -4,7 +4,7 @@
   "title": "Clayface_(DC_Universe)",
   "description": "fictional character in the DC Universe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clayface_%282013_RI_Comic_Con%29.jpg?width=64",
-  "total": 419028,
+  "total": 430320,
   "monthly": [
     {
       "period": "2023-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 155695
+    },
+    {
+      "period": "2026-09",
+      "views": 11292
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 408814
+      "views": 420106
     }
   ]
 }

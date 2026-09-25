@@ -1,0 +1,84 @@
+{
+  "qid": "Q26694763",
+  "label": "Laver Cup",
+  "title": "Laver_Cup",
+  "description": "tennis competition",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laver_Cup_generic.jpg?width=64",
+  "total": 1422619,
+  "monthly": [
+    {
+      "period": "2017-09",
+      "views": 179244
+    },
+    {
+      "period": "2018-09",
+      "views": 68215
+    },
+    {
+      "period": "2019-09",
+      "views": 187349
+    },
+    {
+      "period": "2021-09",
+      "views": 106418
+    },
+    {
+      "period": "2022-09",
+      "views": 535427
+    },
+    {
+      "period": "2023-09",
+      "views": 74465
+    },
+    {
+      "period": "2024-09",
+      "views": 111315
+    },
+    {
+      "period": "2025-09",
+      "views": 152101
+    },
+    {
+      "period": "2026-09",
+      "views": 8085
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 179244
+    },
+    {
+      "period": "2018",
+      "views": 68215
+    },
+    {
+      "period": "2019",
+      "views": 187349
+    },
+    {
+      "period": "2021",
+      "views": 106418
+    },
+    {
+      "period": "2022",
+      "views": 535427
+    },
+    {
+      "period": "2023",
+      "views": 74465
+    },
+    {
+      "period": "2024",
+      "views": 111315
+    },
+    {
+      "period": "2025",
+      "views": 152101
+    },
+    {
+      "period": "2026",
+      "views": 8085
+    }
+  ]
+}

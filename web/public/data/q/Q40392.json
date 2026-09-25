@@ -1,0 +1,44 @@
+{
+  "qid": "Q40392",
+  "label": "supermassive black hole",
+  "title": "Supermassive_black_hole",
+  "description": "black hole with mass above 10⁵ solar masses, usually found at the centers of galaxies",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_hole_-_Messier_87_crop_max_res.jpg?width=64",
+  "total": 236187,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 17062
+    },
+    {
+      "period": "2019-04",
+      "views": 154714
+    },
+    {
+      "period": "2022-05",
+      "views": 42284
+    },
+    {
+      "period": "2026-09",
+      "views": 22127
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 17062
+    },
+    {
+      "period": "2019",
+      "views": 154714
+    },
+    {
+      "period": "2022",
+      "views": 42284
+    },
+    {
+      "period": "2026",
+      "views": 22127
+    }
+  ]
+}

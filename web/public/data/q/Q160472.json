@@ -4,7 +4,7 @@
   "title": "Marc-André_ter_Stegen",
   "description": "German association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg?width=64",
-  "total": 108812,
+  "total": 117368,
   "monthly": [
     {
       "period": "2016-08",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 7807
+    },
+    {
+      "period": "2026-09",
+      "views": 8556
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 31539
+      "views": 40095
     }
   ]
 }

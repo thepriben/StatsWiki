@@ -1,0 +1,36 @@
+{
+  "qid": "Q1068300",
+  "label": "Megami Tensei",
+  "title": "Megami_Tensei",
+  "description": "video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Megami_Tensei_logo.png?width=64",
+  "total": 79552,
+  "monthly": [
+    {
+      "period": "2020-07",
+      "views": 46243
+    },
+    {
+      "period": "2021-06",
+      "views": 25810
+    },
+    {
+      "period": "2026-09",
+      "views": 7499
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 46243
+    },
+    {
+      "period": "2021",
+      "views": 25810
+    },
+    {
+      "period": "2026",
+      "views": 7499
+    }
+  ]
+}

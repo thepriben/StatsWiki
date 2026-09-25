@@ -4,7 +4,7 @@
   "title": "New_York_City_synagogue_tunnel_incident",
   "description": "2024 incident in Brooklyn, New York",
   "image": "",
-  "total": 129947,
+  "total": 139458,
   "monthly": [
     {
       "period": "2024-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 15317
+    },
+    {
+      "period": "2026-09",
+      "views": 9511
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 15317
+      "views": 24828
     }
   ]
 }
