@@ -4,7 +4,7 @@
   "title": "Nick_Chubb",
   "description": "American football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Chubb_Jan_2018_1.jpg?width=64",
-  "total": 621082,
+  "total": 635125,
   "monthly": [
     {
       "period": "2018-01",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 90921
+    },
+    {
+      "period": "2026-09",
+      "views": 14043
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 108467
+      "views": 122510
     }
   ]
 }

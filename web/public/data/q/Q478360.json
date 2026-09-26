@@ -4,7 +4,7 @@
   "title": "The_Wire",
   "description": "American crime drama television series (2002–2008)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Wire_logo.svg?width=64",
-  "total": 530163,
+  "total": 538275,
   "monthly": [
     {
       "period": "2017-09",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 9227
+    },
+    {
+      "period": "2026-09",
+      "views": 8112
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 37552
+      "views": 45664
     }
   ]
 }

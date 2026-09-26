@@ -4,7 +4,7 @@
   "title": "Pacific_Southwest_Airlines_Flight_182",
   "description": "Boeing 727 airliner that collided with a Cessna 172 over San Diego, California in 1978",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Psa182.png?width=64",
-  "total": 26410,
+  "total": 43676,
   "monthly": [
     {
       "period": "2025-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 9026
+    },
+    {
+      "period": "2026-09",
+      "views": 17266
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 9026
+      "views": 26292
     }
   ]
 }

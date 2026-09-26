@@ -1,0 +1,44 @@
+{
+  "qid": "Q6507",
+  "label": "Finnegans Wake",
+  "title": "Finnegans_Wake",
+  "description": "1939 novel by James Joyce",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joyce_wake.jpg?width=64",
+  "total": 121428,
+  "monthly": [
+    {
+      "period": "2020-12",
+      "views": 10968
+    },
+    {
+      "period": "2023-11",
+      "views": 25252
+    },
+    {
+      "period": "2025-05",
+      "views": 53642
+    },
+    {
+      "period": "2026-09",
+      "views": 31566
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 10968
+    },
+    {
+      "period": "2023",
+      "views": 25252
+    },
+    {
+      "period": "2025",
+      "views": 53642
+    },
+    {
+      "period": "2026",
+      "views": 31566
+    }
+  ]
+}

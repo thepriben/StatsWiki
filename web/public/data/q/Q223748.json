@@ -4,7 +4,7 @@
   "title": "Panama_national_football_team",
   "description": "men's national association football team representing Panama",
   "image": "",
-  "total": 582734,
+  "total": 595039,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 117031
+    },
+    {
+      "period": "2026-09",
+      "views": 12305
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 117031
+      "views": 129336
     }
   ]
 }

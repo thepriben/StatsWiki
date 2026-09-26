@@ -4,7 +4,7 @@
   "title": "Italy_national_football_team",
   "description": "men's national association football team representing Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Norway_Italy_-_June_2025_A_50.jpg?width=64",
-  "total": 5682500,
+  "total": 5691794,
   "monthly": [
     {
       "period": "2015-09",
@@ -185,6 +185,10 @@
     {
       "period": "2026-07",
       "views": 351937
+    },
+    {
+      "period": "2026-09",
+      "views": 9294
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 789967
+      "views": 799261
     }
   ]
 }

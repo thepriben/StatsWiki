@@ -4,7 +4,7 @@
   "title": "Billy_Corgan",
   "description": "American musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Billy_Corgan.jpg?width=64",
-  "total": 535280,
+  "total": 545910,
   "monthly": [
     {
       "period": "2017-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 11992
+    },
+    {
+      "period": "2026-09",
+      "views": 10630
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 22267
+      "views": 32897
     }
   ]
 }

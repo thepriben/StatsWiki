@@ -4,17 +4,21 @@
   "title": "FIFA_ASEAN_Cup",
   "description": "football tournament",
   "image": "",
-  "total": 39174,
+  "total": 47148,
   "monthly": [
     {
       "period": "2026-07",
       "views": 39174
+    },
+    {
+      "period": "2026-09",
+      "views": 7974
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 39174
+      "views": 47148
     }
   ]
 }

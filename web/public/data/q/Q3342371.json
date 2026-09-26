@@ -4,7 +4,7 @@
   "title": "Nneka_Ogwumike",
   "description": "American basketball player (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogwumike_20161011.jpg?width=64",
-  "total": 31371,
+  "total": 43311,
   "monthly": [
     {
       "period": "2016-10",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 9035
+    },
+    {
+      "period": "2026-09",
+      "views": 11940
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 9035
+      "views": 20975
     }
   ]
 }

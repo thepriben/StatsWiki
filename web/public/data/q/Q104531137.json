@@ -4,7 +4,7 @@
   "title": "Bijan_Robinson",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bijan_Robinson.png?width=64",
-  "total": 367692,
+  "total": 448755,
   "monthly": [
     {
       "period": "2023-04",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 9438
+    },
+    {
+      "period": "2026-09",
+      "views": 81063
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 9438
+      "views": 90501
     }
   ]
 }

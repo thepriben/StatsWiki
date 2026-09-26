@@ -1,0 +1,44 @@
+{
+  "qid": "Q3523908",
+  "label": "hypersonic flight",
+  "title": "Hypersonic_flight",
+  "description": "flight below 90 kilometres at speeds above Mach 5",
+  "image": "",
+  "total": 54441,
+  "monthly": [
+    {
+      "period": "2020-09",
+      "views": 11041
+    },
+    {
+      "period": "2021-10",
+      "views": 11922
+    },
+    {
+      "period": "2022-03",
+      "views": 11272
+    },
+    {
+      "period": "2026-09",
+      "views": 20206
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 11041
+    },
+    {
+      "period": "2021",
+      "views": 11922
+    },
+    {
+      "period": "2022",
+      "views": 11272
+    },
+    {
+      "period": "2026",
+      "views": 20206
+    }
+  ]
+}

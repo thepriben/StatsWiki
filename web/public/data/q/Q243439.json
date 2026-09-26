@@ -1,0 +1,80 @@
+{
+  "qid": "Q243439",
+  "label": "Full Metal Jacket",
+  "title": "Full_Metal_Jacket",
+  "description": "1987 film by Stanley Kubrick",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Full_Metal_Jacket_Logo.png?width=64",
+  "total": 327313,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 10128
+    },
+    {
+      "period": "2016-12",
+      "views": 11807
+    },
+    {
+      "period": "2017-02",
+      "views": 13492
+    },
+    {
+      "period": "2017-03",
+      "views": 20928
+    },
+    {
+      "period": "2017-06",
+      "views": 19004
+    },
+    {
+      "period": "2017-12",
+      "views": 9444
+    },
+    {
+      "period": "2018-04",
+      "views": 153284
+    },
+    {
+      "period": "2018-12",
+      "views": 9748
+    },
+    {
+      "period": "2023-08",
+      "views": 10221
+    },
+    {
+      "period": "2025-12",
+      "views": 58926
+    },
+    {
+      "period": "2026-09",
+      "views": 10331
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21935
+    },
+    {
+      "period": "2017",
+      "views": 62868
+    },
+    {
+      "period": "2018",
+      "views": 163032
+    },
+    {
+      "period": "2023",
+      "views": 10221
+    },
+    {
+      "period": "2025",
+      "views": 58926
+    },
+    {
+      "period": "2026",
+      "views": 10331
+    }
+  ]
+}

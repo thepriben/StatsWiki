@@ -4,7 +4,7 @@
   "title": "Hulk_Hogan",
   "description": "American professional wrestler, actor and television personality (1953–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hulk_Hogan%2C_circa_1985.jpg?width=64",
-  "total": 11601909,
+  "total": 11611352,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-07",
       "views": 11928
+    },
+    {
+      "period": "2026-09",
+      "views": 9443
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 1595479
+      "views": 1604922
     }
   ]
 }

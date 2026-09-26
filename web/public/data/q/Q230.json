@@ -4,7 +4,7 @@
   "title": "Georgia_(country)",
   "description": "country in the Caucasus region of Europe and Asia",
   "image": "",
-  "total": 9238066,
+  "total": 9246301,
   "monthly": [
     {
       "period": "2015-08",
@@ -413,6 +413,10 @@
     {
       "period": "2026-07",
       "views": 7953
+    },
+    {
+      "period": "2026-09",
+      "views": 8235
     }
   ],
   "yearly": [
@@ -462,7 +466,7 @@
     },
     {
       "period": "2026",
-      "views": 197261
+      "views": 205496
     }
   ]
 }
