@@ -4,7 +4,7 @@
   "title": "Eswatini",
   "description": "sovereign state in southern Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%2C_administrative_divisions_-_de_-_colored.svg?width=64",
-  "total": 1591156,
+  "total": 1600137,
   "monthly": [
     {
       "period": "2018-12",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 8962
+    },
+    {
+      "period": "2026-09",
+      "views": 8981
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 96096
+      "views": 105077
     }
   ]
 }

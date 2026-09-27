@@ -4,7 +4,7 @@
   "title": "Kevin_Keegan",
   "description": "English association football player and manager (1951–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_keegan_panini_card_%28cropped%29.jpg?width=64",
-  "total": 1762088,
+  "total": 1783074,
   "monthly": [
     {
       "period": "2018-10",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 264718
+    },
+    {
+      "period": "2026-09",
+      "views": 20986
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 1679970
+      "views": 1700956
     }
   ]
 }

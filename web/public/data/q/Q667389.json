@@ -1,0 +1,48 @@
+{
+  "qid": "Q667389",
+  "label": "The Pretenders",
+  "title": "The_Pretenders",
+  "description": "English-American rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pretenders_Dubai_200702.jpg?width=64",
+  "total": 167205,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 10165
+    },
+    {
+      "period": "2017-10",
+      "views": 12050
+    },
+    {
+      "period": "2022-09",
+      "views": 37890
+    },
+    {
+      "period": "2023-06",
+      "views": 87907
+    },
+    {
+      "period": "2026-09",
+      "views": 19193
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 22215
+    },
+    {
+      "period": "2022",
+      "views": 37890
+    },
+    {
+      "period": "2023",
+      "views": 87907
+    },
+    {
+      "period": "2026",
+      "views": 19193
+    }
+  ]
+}

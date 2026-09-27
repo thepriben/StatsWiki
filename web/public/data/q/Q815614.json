@@ -4,7 +4,7 @@
   "title": "MKUltra",
   "description": "secret CIA program including enforced drug experiments on unwitting humans, mainly U.S. citizens, in hospitals and psychiatric institutions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MKUltra_119.pdf?width=64",
-  "total": 1498058,
+  "total": 1506380,
   "monthly": [
     {
       "period": "2022-05",
@@ -125,6 +125,10 @@
     {
       "period": "2026-07",
       "views": 34110
+    },
+    {
+      "period": "2026-09",
+      "views": 8322
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 190179
+      "views": 198501
     }
   ]
 }

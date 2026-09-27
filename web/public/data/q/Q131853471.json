@@ -4,7 +4,7 @@
   "title": "Werwulf",
   "description": "upcoming film directed by Robert Eggers",
   "image": "",
-  "total": 215780,
+  "total": 236714,
   "monthly": [
     {
       "period": "2025-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 65753
+    },
+    {
+      "period": "2026-09",
+      "views": 20934
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 187412
+      "views": 208346
     }
   ]
 }

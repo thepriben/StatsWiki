@@ -1,0 +1,48 @@
+{
+  "qid": "Q22073688",
+  "label": "Margo Price",
+  "title": "Margo_Price",
+  "description": "American singer-songwriter",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Margo_Price_03_01_2018_-6_%2827119807848%29.jpg?width=64",
+  "total": 107743,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 48837
+    },
+    {
+      "period": "2016-05",
+      "views": 11907
+    },
+    {
+      "period": "2019-11",
+      "views": 19296
+    },
+    {
+      "period": "2025-09",
+      "views": 18839
+    },
+    {
+      "period": "2026-09",
+      "views": 8864
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 60744
+    },
+    {
+      "period": "2019",
+      "views": 19296
+    },
+    {
+      "period": "2025",
+      "views": 18839
+    },
+    {
+      "period": "2026",
+      "views": 8864
+    }
+  ]
+}

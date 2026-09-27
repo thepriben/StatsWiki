@@ -1,0 +1,68 @@
+{
+  "qid": "Q27940843",
+  "label": "Azerbaijan Grand Prix",
+  "title": "Azerbaijan_Grand_Prix",
+  "description": "Formula One race",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baku_Formula_One_circuit_map.svg?width=64",
+  "total": 150705,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 10527
+    },
+    {
+      "period": "2021-06",
+      "views": 11137
+    },
+    {
+      "period": "2022-06",
+      "views": 30833
+    },
+    {
+      "period": "2023-04",
+      "views": 41590
+    },
+    {
+      "period": "2024-09",
+      "views": 16563
+    },
+    {
+      "period": "2025-09",
+      "views": 30073
+    },
+    {
+      "period": "2026-09",
+      "views": 9982
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 10527
+    },
+    {
+      "period": "2021",
+      "views": 11137
+    },
+    {
+      "period": "2022",
+      "views": 30833
+    },
+    {
+      "period": "2023",
+      "views": 41590
+    },
+    {
+      "period": "2024",
+      "views": 16563
+    },
+    {
+      "period": "2025",
+      "views": 30073
+    },
+    {
+      "period": "2026",
+      "views": 9982
+    }
+  ]
+}

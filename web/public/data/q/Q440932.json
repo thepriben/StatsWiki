@@ -4,7 +4,7 @@
   "title": "Sage_Stallone",
   "description": "American actor, film director, and producer (1976-2012)",
   "image": "",
-  "total": 2784628,
+  "total": 2794221,
   "monthly": [
     {
       "period": "2015-09",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 30377
+    },
+    {
+      "period": "2026-09",
+      "views": 9593
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 30377
+      "views": 39970
     }
   ]
 }

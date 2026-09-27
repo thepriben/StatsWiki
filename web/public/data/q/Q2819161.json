@@ -1,0 +1,108 @@
+{
+  "qid": "Q2819161",
+  "label": "AFL Grand Final",
+  "title": "AFL_Grand_Final",
+  "description": "Australian rules football match to determine the season premiers",
+  "image": "",
+  "total": 290964,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 27632
+    },
+    {
+      "period": "2016-10",
+      "views": 21063
+    },
+    {
+      "period": "2017-09",
+      "views": 18729
+    },
+    {
+      "period": "2018-09",
+      "views": 27263
+    },
+    {
+      "period": "2019-09",
+      "views": 32164
+    },
+    {
+      "period": "2020-10",
+      "views": 15230
+    },
+    {
+      "period": "2021-09",
+      "views": 19629
+    },
+    {
+      "period": "2022-09",
+      "views": 27176
+    },
+    {
+      "period": "2023-09",
+      "views": 25222
+    },
+    {
+      "period": "2024-09",
+      "views": 43211
+    },
+    {
+      "period": "2025-09",
+      "views": 20686
+    },
+    {
+      "period": "2026-09",
+      "views": 12959
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 27632
+    },
+    {
+      "period": "2016",
+      "views": 21063
+    },
+    {
+      "period": "2017",
+      "views": 18729
+    },
+    {
+      "period": "2018",
+      "views": 27263
+    },
+    {
+      "period": "2019",
+      "views": 32164
+    },
+    {
+      "period": "2020",
+      "views": 15230
+    },
+    {
+      "period": "2021",
+      "views": 19629
+    },
+    {
+      "period": "2022",
+      "views": 27176
+    },
+    {
+      "period": "2023",
+      "views": 25222
+    },
+    {
+      "period": "2024",
+      "views": 43211
+    },
+    {
+      "period": "2025",
+      "views": 20686
+    },
+    {
+      "period": "2026",
+      "views": 12959
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Jeff_Zucker",
   "description": "American Businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Zucker_-_David_Shankbone_2010.jpg?width=64",
-  "total": 438115,
+  "total": 446488,
   "monthly": [
     {
       "period": "2019-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 10693
+    },
+    {
+      "period": "2026-09",
+      "views": 8373
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 10693
+      "views": 19066
     }
   ]
 }

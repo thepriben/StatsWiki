@@ -4,7 +4,7 @@
   "title": "Ginger_Rogers",
   "description": "American actress and dancer (1911–1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ginger_Rogers_-_Tender_Comrade.jpg?width=64",
-  "total": 373439,
+  "total": 387433,
   "monthly": [
     {
       "period": "2015-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-07",
       "views": 9669
+    },
+    {
+      "period": "2026-09",
+      "views": 13994
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 9669
+      "views": 23663
     }
   ]
 }

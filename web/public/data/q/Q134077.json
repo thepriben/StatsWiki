@@ -4,7 +4,7 @@
   "title": "Rachel_Weisz",
   "description": "British actress (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel_Weisz_2018.jpg?width=64",
-  "total": 12202292,
+  "total": 12210839,
   "monthly": [
     {
       "period": "2015-08",
@@ -449,6 +449,10 @@
     {
       "period": "2026-08",
       "views": 34852
+    },
+    {
+      "period": "2026-09",
+      "views": 8547
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 766697
+      "views": 775244
     }
   ]
 }

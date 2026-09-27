@@ -4,7 +4,7 @@
   "title": "Stephen_Curry",
   "description": "American basketball player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Curry_Shooting_%28cropped%29_%28cropped%29.jpg?width=64",
-  "total": 45771929,
+  "total": 45782831,
   "monthly": [
     {
       "period": "2015-07",
@@ -517,6 +517,10 @@
     {
       "period": "2026-08",
       "views": 7624
+    },
+    {
+      "period": "2026-09",
+      "views": 10902
     }
   ],
   "yearly": [
@@ -566,7 +570,7 @@
     },
     {
       "period": "2026",
-      "views": 926942
+      "views": 937844
     }
   ]
 }
