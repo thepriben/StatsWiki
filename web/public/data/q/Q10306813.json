@@ -4,7 +4,7 @@
   "title": "Jesse_Palmer",
   "description": "Canadian player of American football, sports broadcaster born 1978",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jesse_Palmer.jpg?width=64",
-  "total": 1881777,
+  "total": 1890555,
   "monthly": [
     {
       "period": "2015-12",
@@ -209,6 +209,10 @@
     {
       "period": "2026-07",
       "views": 11282
+    },
+    {
+      "period": "2026-09",
+      "views": 8778
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 59664
+      "views": 68442
     }
   ]
 }

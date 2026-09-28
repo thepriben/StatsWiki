@@ -4,7 +4,7 @@
   "title": "Amir_Jangoo",
   "description": "Trinidadian cricketer",
   "image": "",
-  "total": 86390,
+  "total": 105005,
   "monthly": [
     {
       "period": "2024-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 34160
+    },
+    {
+      "period": "2026-09",
+      "views": 18615
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 34160
+      "views": 52775
     }
   ]
 }

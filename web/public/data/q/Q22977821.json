@@ -4,7 +4,7 @@
   "title": "Sistine_Stallone",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sistine_Stallone_on_Dulce_Osuna.jpg?width=64",
-  "total": 314018,
+  "total": 323134,
   "monthly": [
     {
       "period": "2019-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 8242
+    },
+    {
+      "period": "2026-09",
+      "views": 9116
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 8242
+      "views": 17358
     }
   ]
 }

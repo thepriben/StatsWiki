@@ -1,0 +1,64 @@
+{
+  "qid": "Q155174",
+  "label": "Maracanã Stadium",
+  "title": "Maracanã_Stadium",
+  "description": "stadium in Rio de Janeiro, Brazil",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maracana_2022.jpg?width=64",
+  "total": 288555,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 147198
+    },
+    {
+      "period": "2016-09",
+      "views": 9548
+    },
+    {
+      "period": "2019-07",
+      "views": 15104
+    },
+    {
+      "period": "2021-07",
+      "views": 52927
+    },
+    {
+      "period": "2022-12",
+      "views": 12905
+    },
+    {
+      "period": "2023-11",
+      "views": 35320
+    },
+    {
+      "period": "2026-09",
+      "views": 15553
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 156746
+    },
+    {
+      "period": "2019",
+      "views": 15104
+    },
+    {
+      "period": "2021",
+      "views": 52927
+    },
+    {
+      "period": "2022",
+      "views": 12905
+    },
+    {
+      "period": "2023",
+      "views": 35320
+    },
+    {
+      "period": "2026",
+      "views": 15553
+    }
+  ]
+}

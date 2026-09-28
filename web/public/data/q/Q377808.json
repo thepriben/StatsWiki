@@ -4,7 +4,7 @@
   "title": "Bhagat_Singh",
   "description": "Indian revolutionary (1907–1931)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhagat_Singh_1929.jpg?width=64",
-  "total": 4853296,
+  "total": 4873458,
   "monthly": [
     {
       "period": "2015-07",
@@ -209,6 +209,10 @@
     {
       "period": "2026-08",
       "views": 16414
+    },
+    {
+      "period": "2026-09",
+      "views": 20162
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 37162
+      "views": 57324
     }
   ]
 }

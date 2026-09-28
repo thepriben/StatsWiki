@@ -4,7 +4,7 @@
   "title": "Nathan_Cleary",
   "description": "Australian rugby league player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathancleary.jpg?width=64",
-  "total": 163488,
+  "total": 175375,
   "monthly": [
     {
       "period": "2021-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 11259
+    },
+    {
+      "period": "2026-09",
+      "views": 11887
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 23482
+      "views": 35369
     }
   ]
 }

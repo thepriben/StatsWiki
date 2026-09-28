@@ -1,0 +1,60 @@
+{
+  "qid": "Q111169252",
+  "label": "Icon of the Seas",
+  "title": "Icon_of_the_Seas",
+  "description": "Icon-class cruise ship built in 2023",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?width=64",
+  "total": 696513,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 44892
+    },
+    {
+      "period": "2023-07",
+      "views": 154433
+    },
+    {
+      "period": "2024-01",
+      "views": 410981
+    },
+    {
+      "period": "2024-02",
+      "views": 26488
+    },
+    {
+      "period": "2024-08",
+      "views": 19753
+    },
+    {
+      "period": "2025-01",
+      "views": 12577
+    },
+    {
+      "period": "2026-02",
+      "views": 18552
+    },
+    {
+      "period": "2026-09",
+      "views": 8837
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 199325
+    },
+    {
+      "period": "2024",
+      "views": 457222
+    },
+    {
+      "period": "2025",
+      "views": 12577
+    },
+    {
+      "period": "2026",
+      "views": 27389
+    }
+  ]
+}

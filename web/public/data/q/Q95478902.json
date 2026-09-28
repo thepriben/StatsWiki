@@ -1,0 +1,84 @@
+{
+  "qid": "Q95478902",
+  "label": "AEW All Out",
+  "title": "AEW_All_Out",
+  "description": "All Elite Wrestling pay-per-view series",
+  "image": "",
+  "total": 467778,
+  "monthly": [
+    {
+      "period": "2019-05",
+      "views": 11346
+    },
+    {
+      "period": "2019-06",
+      "views": 17190
+    },
+    {
+      "period": "2019-07",
+      "views": 22626
+    },
+    {
+      "period": "2019-08",
+      "views": 80062
+    },
+    {
+      "period": "2019-09",
+      "views": 232128
+    },
+    {
+      "period": "2020-09",
+      "views": 22274
+    },
+    {
+      "period": "2021-09",
+      "views": 28088
+    },
+    {
+      "period": "2022-09",
+      "views": 12490
+    },
+    {
+      "period": "2023-09",
+      "views": 18202
+    },
+    {
+      "period": "2024-09",
+      "views": 11681
+    },
+    {
+      "period": "2026-09",
+      "views": 11691
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 363352
+    },
+    {
+      "period": "2020",
+      "views": 22274
+    },
+    {
+      "period": "2021",
+      "views": 28088
+    },
+    {
+      "period": "2022",
+      "views": 12490
+    },
+    {
+      "period": "2023",
+      "views": 18202
+    },
+    {
+      "period": "2024",
+      "views": 11681
+    },
+    {
+      "period": "2026",
+      "views": 11691
+    }
+  ]
+}

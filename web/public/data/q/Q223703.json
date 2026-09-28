@@ -4,7 +4,7 @@
   "title": "MTV_Video_Music_Awards",
   "description": "American music video awards (1984–present)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_Video_Music_Awards_logo_3.svg?width=64",
-  "total": 336033,
+  "total": 345503,
   "monthly": [
     {
       "period": "2021-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 27374
+    },
+    {
+      "period": "2026-09",
+      "views": 9470
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 27374
+      "views": 36844
     }
   ]
 }

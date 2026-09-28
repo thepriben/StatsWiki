@@ -2,9 +2,9 @@
   "qid": "Q213854",
   "label": "Virat Kohli",
   "title": "Virat_Kohli",
-  "description": "Indian cricket player",
+  "description": "Indian cricket player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat_Kohli_in_PMO_New_Delhi.jpg?width=64",
-  "total": 47824624,
+  "total": 47935577,
   "monthly": [
     {
       "period": "2015-08",
@@ -505,6 +505,10 @@
     {
       "period": "2026-07",
       "views": 77760
+    },
+    {
+      "period": "2026-09",
+      "views": 110953
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 1003290
+      "views": 1114243
     }
   ]
 }

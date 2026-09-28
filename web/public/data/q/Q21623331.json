@@ -4,7 +4,7 @@
   "title": "A'ja_Wilson",
   "description": "American basketball player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%27ja_Wilson.jpg?width=64",
-  "total": 1227923,
+  "total": 1241792,
   "monthly": [
     {
       "period": "2017-04",
@@ -109,6 +109,10 @@
     {
       "period": "2026-08",
       "views": 8866
+    },
+    {
+      "period": "2026-09",
+      "views": 13869
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 158875
+      "views": 172744
     }
   ]
 }

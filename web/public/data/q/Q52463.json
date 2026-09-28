@@ -4,7 +4,7 @@
   "title": "Wu-Tang_Clan",
   "description": "American hip hop group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wu_Tang_Clan_on_Stage.jpg?width=64",
-  "total": 3358493,
+  "total": 3376011,
   "monthly": [
     {
       "period": "2015-11",
@@ -153,6 +153,10 @@
     {
       "period": "2026-06",
       "views": 19480
+    },
+    {
+      "period": "2026-09",
+      "views": 17518
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 91931
+      "views": 109449
     }
   ]
 }

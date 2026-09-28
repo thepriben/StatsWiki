@@ -4,7 +4,7 @@
   "title": "Rio_de_Janeiro",
   "description": "city of Rio de Janeiro state, Brazil",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cidade_Maravilhosa.jpg?width=64",
-  "total": 1236077,
+  "total": 1249694,
   "monthly": [
     {
       "period": "2016-04",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 13707
+    },
+    {
+      "period": "2026-09",
+      "views": 13617
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 39600
+      "views": 53217
     }
   ]
 }

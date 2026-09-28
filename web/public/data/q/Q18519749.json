@@ -4,7 +4,7 @@
   "title": "Jon_Watts",
   "description": "American film director, producer and screenwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Watts_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 343762,
+  "total": 373297,
   "monthly": [
     {
       "period": "2017-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 17822
+    },
+    {
+      "period": "2026-09",
+      "views": 29535
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 17822
+      "views": 47357
     }
   ]
 }

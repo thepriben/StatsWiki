@@ -4,7 +4,7 @@
   "title": "The_Campaign_for_North_Africa",
   "description": "military simulation game",
   "image": "",
-  "total": 330648,
+  "total": 342056,
   "monthly": [
     {
       "period": "2022-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 77924
+    },
+    {
+      "period": "2026-09",
+      "views": 11408
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 91157
+      "views": 102565
     }
   ]
 }
