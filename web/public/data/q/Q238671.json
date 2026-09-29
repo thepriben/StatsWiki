@@ -4,7 +4,7 @@
   "title": "Debi_Mazar",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Debi_Mazar_2009.jpg?width=64",
-  "total": 400082,
+  "total": 410682,
   "monthly": [
     {
       "period": "2017-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 16126
+    },
+    {
+      "period": "2026-09",
+      "views": 10600
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 16126
+      "views": 26726
     }
   ]
 }

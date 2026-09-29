@@ -4,7 +4,7 @@
   "title": "Adam_Lambert",
   "description": "American singer (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_%2B_Adam_Lambert_3_%2838835621981%29.jpg?width=64",
-  "total": 3448531,
+  "total": 3472064,
   "monthly": [
     {
       "period": "2015-08",
@@ -197,6 +197,10 @@
     {
       "period": "2026-06",
       "views": 10565
+    },
+    {
+      "period": "2026-09",
+      "views": 23533
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 10565
+      "views": 34098
     }
   ]
 }

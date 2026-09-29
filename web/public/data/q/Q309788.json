@@ -4,7 +4,7 @@
   "title": "Don_Johnson",
   "description": "American actor and singer (born 1949)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Johnson_TIFF_2019.jpg?width=64",
-  "total": 2228667,
+  "total": 2239900,
   "monthly": [
     {
       "period": "2015-09",
@@ -169,6 +169,10 @@
     {
       "period": "2026-08",
       "views": 16400
+    },
+    {
+      "period": "2026-09",
+      "views": 11233
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 16400
+      "views": 27633
     }
   ]
 }

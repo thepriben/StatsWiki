@@ -4,7 +4,7 @@
   "title": "UEFA_Euro_2028_qualifying",
   "description": "qualifier for UEFA Euro 2028",
   "image": "",
-  "total": 142561,
+  "total": 150464,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 134257
+    },
+    {
+      "period": "2026-09",
+      "views": 7903
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 142561
+      "views": 150464
     }
   ]
 }

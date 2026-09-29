@@ -4,17 +4,21 @@
   "title": "2026–27_CONCACAF_Nations_League",
   "description": "association football tournament",
   "image": "",
-  "total": 14380,
+  "total": 22735,
   "monthly": [
     {
       "period": "2026-07",
       "views": 14380
+    },
+    {
+      "period": "2026-09",
+      "views": 8355
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 14380
+      "views": 22735
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Landman_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Landman_%28TV_series%29_logo.png?width=64",
-  "total": 6520895,
+  "total": 6529044,
   "monthly": [
     {
       "period": "2024-11",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 48355
+    },
+    {
+      "period": "2026-09",
+      "views": 8149
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 2360621
+      "views": 2368770
     }
   ]
 }

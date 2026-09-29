@@ -4,7 +4,7 @@
   "title": "Slanted",
   "description": "2025 film directed by Amy Wang",
   "image": "",
-  "total": 102215,
+  "total": 119194,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-07",
       "views": 7758
+    },
+    {
+      "period": "2026-09",
+      "views": 16979
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 102215
+      "views": 119194
     }
   ]
 }

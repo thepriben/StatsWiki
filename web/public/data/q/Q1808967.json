@@ -1,0 +1,36 @@
+{
+  "qid": "Q1808967",
+  "label": "Delia Smith",
+  "title": "Delia_Smith",
+  "description": "English cook and television presenter",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delia_Smith_%28facecrop%29.jpg?width=64",
+  "total": 34772,
+  "monthly": [
+    {
+      "period": "2019-08",
+      "views": 11730
+    },
+    {
+      "period": "2020-02",
+      "views": 9000
+    },
+    {
+      "period": "2026-09",
+      "views": 14042
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11730
+    },
+    {
+      "period": "2020",
+      "views": 9000
+    },
+    {
+      "period": "2026",
+      "views": 14042
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "qid": "Q131631266",
   "label": "Sienna Spiro",
   "title": "Sienna_Spiro",
-  "description": "English singer-songwriter",
+  "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sienna_Spiro_2025.jpg?width=64",
-  "total": 60136,
+  "total": 125679,
   "monthly": [
     {
       "period": "2026-04",
@@ -21,12 +21,16 @@
     {
       "period": "2026-07",
       "views": 8938
+    },
+    {
+      "period": "2026-09",
+      "views": 65543
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 60136
+      "views": 125679
     }
   ]
 }
