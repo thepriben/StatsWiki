@@ -4,7 +4,7 @@
   "title": "Barbara_Palvin",
   "description": "Hungarian model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara_Palvin_Cannes_2016.jpg?width=64",
-  "total": 783554,
+  "total": 795365,
   "monthly": [
     {
       "period": "2018-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 8057
+    },
+    {
+      "period": "2026-09",
+      "views": 11811
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 200512
+      "views": 212323
     }
   ]
 }

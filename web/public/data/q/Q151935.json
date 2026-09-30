@@ -4,7 +4,7 @@
   "title": "Kirstie_Alley",
   "description": "American actress (1951–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KirstieAlley1994-close.jpg?width=64",
-  "total": 6077479,
+  "total": 6085249,
   "monthly": [
     {
       "period": "2015-10",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 9694
+    },
+    {
+      "period": "2026-09",
+      "views": 7770
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 76294
+      "views": 84064
     }
   ]
 }

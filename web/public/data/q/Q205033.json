@@ -4,7 +4,7 @@
   "title": "Chicago_Bears",
   "description": "American football team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago_Bears_logo.svg?width=64",
-  "total": 1079068,
+  "total": 1099906,
   "monthly": [
     {
       "period": "2015-09",
@@ -153,6 +153,10 @@
     {
       "period": "2026-06",
       "views": 18873
+    },
+    {
+      "period": "2026-09",
+      "views": 20838
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 195396
+      "views": 216234
     }
   ]
 }

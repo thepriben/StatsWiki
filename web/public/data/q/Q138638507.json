@@ -4,7 +4,7 @@
   "title": "Anything_but_Ghosts",
   "description": "upcoming film directed by Curry Barker",
   "image": "",
-  "total": 568479,
+  "total": 575967,
   "monthly": [
     {
       "period": "2026-05",
@@ -17,12 +17,16 @@
     {
       "period": "2026-07",
       "views": 230348
+    },
+    {
+      "period": "2026-09",
+      "views": 7488
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 568479
+      "views": 575967
     }
   ]
 }

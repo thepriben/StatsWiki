@@ -4,7 +4,7 @@
   "title": "Jeffrey_Jones",
   "description": "American character actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeffrey_Jones.jpg?width=64",
-  "total": 3075214,
+  "total": 3083321,
   "monthly": [
     {
       "period": "2015-10",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 8405
+    },
+    {
+      "period": "2026-09",
+      "views": 8107
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 48639
+      "views": 56746
     }
   ]
 }

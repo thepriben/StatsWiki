@@ -4,7 +4,7 @@
   "title": "War_in_ants",
   "description": "method for solving conflict for ants",
   "image": "",
-  "total": 122535,
+  "total": 132711,
   "monthly": [
     {
       "period": "2024-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 15440
+    },
+    {
+      "period": "2026-09",
+      "views": 10176
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 15440
+      "views": 25616
     }
   ]
 }

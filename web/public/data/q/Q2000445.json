@@ -1,0 +1,40 @@
+{
+  "qid": "Q2000445",
+  "label": "Purple Rain",
+  "title": "Purple_Rain_(song)",
+  "description": "original song written and composed by Prince",
+  "image": "",
+  "total": 424345,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 381446
+    },
+    {
+      "period": "2021-03",
+      "views": 10849
+    },
+    {
+      "period": "2026-01",
+      "views": 22761
+    },
+    {
+      "period": "2026-09",
+      "views": 9289
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 381446
+    },
+    {
+      "period": "2021",
+      "views": 10849
+    },
+    {
+      "period": "2026",
+      "views": 32050
+    }
+  ]
+}

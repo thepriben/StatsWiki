@@ -4,7 +4,7 @@
   "title": "Randy_Travis",
   "description": "American country singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy_Travis_2007.jpg?width=64",
-  "total": 1254315,
+  "total": 1263691,
   "monthly": [
     {
       "period": "2016-03",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 21198
+    },
+    {
+      "period": "2026-09",
+      "views": 9376
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 43207
+      "views": 52583
     }
   ]
 }

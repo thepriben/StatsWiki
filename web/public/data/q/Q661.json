@@ -1,0 +1,28 @@
+{
+  "qid": "Q661",
+  "label": "hydraulic ram",
+  "title": "Hydraulic_ram",
+  "description": "cyclic water pump powered by hydropower",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HydraulischerWidder.jpg?width=64",
+  "total": 127563,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 43240
+    },
+    {
+      "period": "2026-09",
+      "views": 84323
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 43240
+    },
+    {
+      "period": "2026",
+      "views": 84323
+    }
+  ]
+}

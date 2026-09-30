@@ -4,7 +4,7 @@
   "title": "Palmer_(film)",
   "description": "2021 film directed by Fisher Stevens",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palmer_2021_Film_Logo.jpg?width=64",
-  "total": 406648,
+  "total": 414889,
   "monthly": [
     {
       "period": "2019-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 9250
+    },
+    {
+      "period": "2026-09",
+      "views": 8241
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 9250
+      "views": 17491
     }
   ]
 }

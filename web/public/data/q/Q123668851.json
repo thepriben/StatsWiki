@@ -4,7 +4,7 @@
   "title": "Gavin_McKenna",
   "description": "Canadian ice hockey player (born 2007)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gavin_McKenna_2024.11.13.jpg?width=64",
-  "total": 572982,
+  "total": 583056,
   "monthly": [
     {
       "period": "2024-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 213902
+    },
+    {
+      "period": "2026-09",
+      "views": 10074
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 491114
+      "views": 501188
     }
   ]
 }

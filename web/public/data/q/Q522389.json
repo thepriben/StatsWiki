@@ -4,7 +4,7 @@
   "title": "The_Vow_(2012_film)",
   "description": "2012 film by Michael Sucsy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_vow.svg?width=64",
-  "total": 193195,
+  "total": 205620,
   "monthly": [
     {
       "period": "2017-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 9412
+    },
+    {
+      "period": "2026-09",
+      "views": 12425
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 9412
+      "views": 21837
     }
   ]
 }

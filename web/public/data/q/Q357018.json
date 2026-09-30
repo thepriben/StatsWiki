@@ -4,7 +4,7 @@
   "title": "Graeme_Dott",
   "description": "Scottish snooker player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Graeme_Dott.JPG?width=64",
-  "total": 205200,
+  "total": 252618,
   "monthly": [
     {
       "period": "2019-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 88121
+    },
+    {
+      "period": "2026-09",
+      "views": 47418
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 88121
+      "views": 135539
     }
   ]
 }

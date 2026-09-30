@@ -4,7 +4,7 @@
   "title": "William_Daniels",
   "description": "American actor (born 1927)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Daniels.jpg?width=64",
-  "total": 301752,
+  "total": 310384,
   "monthly": [
     {
       "period": "2017-04",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 9763
+    },
+    {
+      "period": "2026-09",
+      "views": 8632
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 59750
+      "views": 68382
     }
   ]
 }
