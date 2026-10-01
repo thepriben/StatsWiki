@@ -4,7 +4,7 @@
   "title": "The_Revenant_(2015_film)",
   "description": "2015 film directed by Alejandro González Iñárritu",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Revenant.svg?width=64",
-  "total": 19072916,
+  "total": 19080879,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-03",
       "views": 13194
+    },
+    {
+      "period": "2026-09",
+      "views": 7963
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 13194
+      "views": 21157
     }
   ]
 }

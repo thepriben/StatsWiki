@@ -4,7 +4,7 @@
   "title": "Oman",
   "description": "sovereign state in western Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakhal_Fort_Sultanate_of_Oman_001.jpg?width=64",
-  "total": 1780957,
+  "total": 1793578,
   "monthly": [
     {
       "period": "2015-09",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 53785
+    },
+    {
+      "period": "2026-09",
+      "views": 12621
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 425944
+      "views": 438565
     }
   ]
 }

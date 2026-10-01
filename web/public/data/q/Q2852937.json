@@ -4,7 +4,7 @@
   "title": "Anthony_Rizzo",
   "description": "American professional baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Rizzo_on_September_1%2C_2018_%282%29.jpg?width=64",
-  "total": 1041811,
+  "total": 1059907,
   "monthly": [
     {
       "period": "2015-07",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 30576
+    },
+    {
+      "period": "2026-09",
+      "views": 18096
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 30576
+      "views": 48672
     }
   ]
 }

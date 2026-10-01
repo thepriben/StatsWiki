@@ -4,7 +4,7 @@
   "title": "Chris_Smalling",
   "description": "English association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CSKA-MU_2017_%2815%29.jpg?width=64",
-  "total": 262692,
+  "total": 280591,
   "monthly": [
     {
       "period": "2016-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 22053
+    },
+    {
+      "period": "2026-09",
+      "views": 17899
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 22053
+      "views": 39952
     }
   ]
 }

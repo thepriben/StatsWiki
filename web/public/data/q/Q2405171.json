@@ -1,0 +1,48 @@
+{
+  "qid": "Q2405171",
+  "label": "City Football Group",
+  "title": "City_Football_Group",
+  "description": "holding company that administers association football clubs",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/City_Football_Group.svg?width=64",
+  "total": 117060,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 11930
+    },
+    {
+      "period": "2020-09",
+      "views": 21435
+    },
+    {
+      "period": "2023-06",
+      "views": 44658
+    },
+    {
+      "period": "2023-12",
+      "views": 30833
+    },
+    {
+      "period": "2026-09",
+      "views": 8204
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11930
+    },
+    {
+      "period": "2020",
+      "views": 21435
+    },
+    {
+      "period": "2023",
+      "views": 75491
+    },
+    {
+      "period": "2026",
+      "views": 8204
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Scarface_(1983_film)",
   "description": "1983 film directed by Brian De Palma",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarface_logo.svg?width=64",
-  "total": 450722,
+  "total": 462745,
   "monthly": [
     {
       "period": "2015-07",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 10312
+    },
+    {
+      "period": "2026-09",
+      "views": 12023
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 10312
+      "views": 22335
     }
   ]
 }

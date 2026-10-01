@@ -4,7 +4,7 @@
   "title": "Abu_Ghraib_torture_and_prisoner_abuse",
   "description": "2004 American military atrocity during the Iraq War",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Ghraib_17a.jpg?width=64",
-  "total": 1286708,
+  "total": 1294399,
   "monthly": [
     {
       "period": "2015-07",
@@ -129,6 +129,10 @@
     {
       "period": "2026-08",
       "views": 8401
+    },
+    {
+      "period": "2026-09",
+      "views": 7691
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 234516
+      "views": 242207
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Alex_Karp",
   "description": "American businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alex-karp.jpg?width=64",
-  "total": 801811,
+  "total": 811497,
   "monthly": [
     {
       "period": "2020-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 20466
+    },
+    {
+      "period": "2026-09",
+      "views": 9686
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 179157
+      "views": 188843
     }
   ]
 }

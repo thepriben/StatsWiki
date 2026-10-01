@@ -4,7 +4,7 @@
   "title": "James_Dean",
   "description": "American actor (1931–1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Dean_in_East_of_Eden_trailer_2.jpg?width=64",
-  "total": 2195844,
+  "total": 2203852,
   "monthly": [
     {
       "period": "2015-07",
@@ -301,6 +301,10 @@
     {
       "period": "2026-08",
       "views": 20132
+    },
+    {
+      "period": "2026-09",
+      "views": 8008
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 48659
+      "views": 56667
     }
   ]
 }

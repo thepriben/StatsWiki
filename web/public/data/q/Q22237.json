@@ -4,7 +4,7 @@
   "title": "Amy_Klobuchar",
   "description": "American politician and lawyer (born 1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg?width=64",
-  "total": 3729862,
+  "total": 3748361,
   "monthly": [
     {
       "period": "2016-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 29159
+    },
+    {
+      "period": "2026-09",
+      "views": 18499
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 139526
+      "views": 158025
     }
   ]
 }

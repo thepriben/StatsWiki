@@ -1,0 +1,44 @@
+{
+  "qid": "Q116205343",
+  "label": "Yeti Airlines Flight 691",
+  "title": "Yeti_Airlines_Flight_691",
+  "description": "15 January 2023 aircraft crash",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yeti_Airlines_crash_in_Pokhara_2023.jpg?width=64",
+  "total": 720545,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 568921
+    },
+    {
+      "period": "2023-07",
+      "views": 19974
+    },
+    {
+      "period": "2024-03",
+      "views": 89377
+    },
+    {
+      "period": "2024-08",
+      "views": 32167
+    },
+    {
+      "period": "2026-09",
+      "views": 10106
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 588895
+    },
+    {
+      "period": "2024",
+      "views": 121544
+    },
+    {
+      "period": "2026",
+      "views": 10106
+    }
+  ]
+}

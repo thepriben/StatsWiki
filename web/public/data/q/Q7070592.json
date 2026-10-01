@@ -4,7 +4,7 @@
   "title": "Nutty_Putty_Cave",
   "description": "hydrothermal cave west of Utah Lake (USA)",
   "image": "",
-  "total": 1753850,
+  "total": 1762196,
   "monthly": [
     {
       "period": "2016-11",
@@ -145,6 +145,10 @@
     {
       "period": "2026-08",
       "views": 19006
+    },
+    {
+      "period": "2026-09",
+      "views": 8346
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 151498
+      "views": 159844
     }
   ]
 }

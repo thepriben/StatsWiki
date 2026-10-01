@@ -4,17 +4,21 @@
   "title": "Dam",
   "description": "barrier that impounds water or underground streams",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RappbodeLufts.JPG?width=64",
-  "total": 8373,
+  "total": 37898,
   "monthly": [
     {
       "period": "2026-06",
       "views": 8373
+    },
+    {
+      "period": "2026-09",
+      "views": 29525
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8373
+      "views": 37898
     }
   ]
 }

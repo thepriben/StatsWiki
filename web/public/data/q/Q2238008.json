@@ -2,9 +2,9 @@
   "qid": "Q2238008",
   "label": "Creed Bratton",
   "title": "Creed_Bratton",
-  "description": "American actor and musician",
+  "description": "American actor and musician (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Creed_Bratton_2019_%2848474439927%29_CROPPED.jpg?width=64",
-  "total": 185392,
+  "total": 212982,
   "monthly": [
     {
       "period": "2016-03",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 9784
+    },
+    {
+      "period": "2026-09",
+      "views": 27590
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 77436
+      "views": 105026
     }
   ]
 }

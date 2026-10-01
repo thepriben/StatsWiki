@@ -4,7 +4,7 @@
   "title": "Diwali",
   "description": "Hindu, Jain, Sikh, Buddhist and South Asian festival of lights",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crackers_at_Diwali_in_Guntur.jpg?width=64",
-  "total": 16766687,
+  "total": 16779128,
   "monthly": [
     {
       "period": "2015-10",
@@ -105,6 +105,10 @@
     {
       "period": "2025-11",
       "views": 9273
+    },
+    {
+      "period": "2026-09",
+      "views": 12441
     }
   ],
   "yearly": [
@@ -151,6 +155,10 @@
     {
       "period": "2025",
       "views": 1742418
+    },
+    {
+      "period": "2026",
+      "views": 12441
     }
   ]
 }

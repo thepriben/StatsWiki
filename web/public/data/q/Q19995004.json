@@ -1,0 +1,100 @@
+{
+  "qid": "Q19995004",
+  "label": "WeWork",
+  "title": "WeWork",
+  "description": "office space design provider",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WeWork_%2848155566876%29.jpg?width=64",
+  "total": 1791899,
+  "monthly": [
+    {
+      "period": "2019-08",
+      "views": 19916
+    },
+    {
+      "period": "2019-09",
+      "views": 165536
+    },
+    {
+      "period": "2019-10",
+      "views": 205371
+    },
+    {
+      "period": "2019-11",
+      "views": 130519
+    },
+    {
+      "period": "2021-04",
+      "views": 36695
+    },
+    {
+      "period": "2022-01",
+      "views": 29107
+    },
+    {
+      "period": "2022-03",
+      "views": 430875
+    },
+    {
+      "period": "2022-04",
+      "views": 499156
+    },
+    {
+      "period": "2022-05",
+      "views": 35874
+    },
+    {
+      "period": "2022-06",
+      "views": 9499
+    },
+    {
+      "period": "2022-08",
+      "views": 13535
+    },
+    {
+      "period": "2023-03",
+      "views": 17249
+    },
+    {
+      "period": "2023-08",
+      "views": 24129
+    },
+    {
+      "period": "2023-11",
+      "views": 129797
+    },
+    {
+      "period": "2024-03",
+      "views": 36710
+    },
+    {
+      "period": "2026-09",
+      "views": 7931
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 521342
+    },
+    {
+      "period": "2021",
+      "views": 36695
+    },
+    {
+      "period": "2022",
+      "views": 1018046
+    },
+    {
+      "period": "2023",
+      "views": 171175
+    },
+    {
+      "period": "2024",
+      "views": 36710
+    },
+    {
+      "period": "2026",
+      "views": 7931
+    }
+  ]
+}

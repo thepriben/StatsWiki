@@ -4,7 +4,7 @@
   "title": "S._S._Rajamouli",
   "description": "Indian film director and screenwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajamouli_at_the_special_screening_of_%27Makkhi%27_%28cropped%29.jpg?width=64",
-  "total": 4643650,
+  "total": 4655100,
   "monthly": [
     {
       "period": "2015-07",
@@ -93,6 +93,10 @@
     {
       "period": "2025-11",
       "views": 240434
+    },
+    {
+      "period": "2026-09",
+      "views": 11450
     }
   ],
   "yearly": [
@@ -131,6 +135,10 @@
     {
       "period": "2025",
       "views": 240434
+    },
+    {
+      "period": "2026",
+      "views": 11450
     }
   ]
 }

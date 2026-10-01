@@ -4,7 +4,7 @@
   "title": "Micah_Richards",
   "description": "English footballer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richards_crop.JPG?width=64",
-  "total": 1539448,
+  "total": 1549830,
   "monthly": [
     {
       "period": "2015-08",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 310448
+    },
+    {
+      "period": "2026-09",
+      "views": 10382
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 468068
+      "views": 478450
     }
   ]
 }

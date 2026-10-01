@@ -4,7 +4,7 @@
   "title": "D'Angelo_Russell",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20140402_MCDAAG_D%27Angelo_Russell_dunk.JPG?width=64",
-  "total": 1301049,
+  "total": 1309956,
   "monthly": [
     {
       "period": "2015-11",
@@ -109,6 +109,10 @@
     {
       "period": "2026-07",
       "views": 10588
+    },
+    {
+      "period": "2026-09",
+      "views": 8907
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 10588
+      "views": 19495
     }
   ]
 }
