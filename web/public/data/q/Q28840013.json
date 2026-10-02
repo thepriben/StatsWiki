@@ -4,7 +4,7 @@
   "title": "Shubman_Gill",
   "description": "Indian cricketer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shubman_Gill_2023_%28cropped%29.jpg?width=64",
-  "total": 6792655,
+  "total": 6827238,
   "monthly": [
     {
       "period": "2018-01",
@@ -189,6 +189,10 @@
     {
       "period": "2026-09",
       "views": 119358
+    },
+    {
+      "period": "2026-10",
+      "views": 34583
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 279826
+      "views": 314409
     }
   ]
 }

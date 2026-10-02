@@ -4,17 +4,21 @@
   "title": "Eric_Schmitt",
   "description": "American politician and lawyer (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress.jpg?width=64",
-  "total": 142642,
+  "total": 171880,
   "monthly": [
     {
       "period": "2026-09",
       "views": 142642
+    },
+    {
+      "period": "2026-10",
+      "views": 29238
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 142642
+      "views": 171880
     }
   ]
 }

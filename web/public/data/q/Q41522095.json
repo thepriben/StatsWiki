@@ -4,7 +4,7 @@
   "title": "2017_Las_Vegas_shooting",
   "description": "mass shooting in the Las Vegas area of Nevada, USA on October 1, 2017",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Vegas_Strip_shooting_site_2017_%28overlay%29.jpg?width=64",
-  "total": 4036904,
+  "total": 4049406,
   "monthly": [
     {
       "period": "2017-10",
@@ -225,6 +225,10 @@
     {
       "period": "2026-06",
       "views": 8732
+    },
+    {
+      "period": "2026-10",
+      "views": 12502
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 24194
+      "views": 36696
     }
   ]
 }

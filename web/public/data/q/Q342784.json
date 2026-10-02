@@ -4,7 +4,7 @@
   "title": "Matthew_Rhys",
   "description": "Welsh actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matthew_Rhys.jpg?width=64",
-  "total": 6451537,
+  "total": 6461912,
   "monthly": [
     {
       "period": "2016-01",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 899495
+    },
+    {
+      "period": "2026-10",
+      "views": 10375
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 2817822
+      "views": 2828197
     }
   ]
 }

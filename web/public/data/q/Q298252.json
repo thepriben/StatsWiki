@@ -4,7 +4,7 @@
   "title": "John_Wayne_Gacy",
   "description": "American serial killer (1942–1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Wayne_Gacy-junior.jpg?width=64",
-  "total": 19346477,
+  "total": 19356036,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-09",
       "views": 64611
+    },
+    {
+      "period": "2026-10",
+      "views": 9559
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 1500970
+      "views": 1510529
     }
   ]
 }

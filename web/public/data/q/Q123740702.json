@@ -4,7 +4,7 @@
   "title": "Toxic_(2026_film)",
   "description": "upcoming Indian Kannada language action film directed by Geetu Mohandas",
   "image": "",
-  "total": 7386352,
+  "total": 7399288,
   "monthly": [
     {
       "period": "2026-02",
@@ -33,12 +33,16 @@
     {
       "period": "2026-09",
       "views": 1983334
+    },
+    {
+      "period": "2026-10",
+      "views": 12936
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 7386352
+      "views": 7399288
     }
   ]
 }

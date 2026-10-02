@@ -4,7 +4,7 @@
   "title": "Khaldoon_Al_Mubarak",
   "description": "Emirati politician and businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khaldoon_Al_Mubarak.jpg?width=64",
-  "total": 73166,
+  "total": 83162,
   "monthly": [
     {
       "period": "2023-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 28226
+    },
+    {
+      "period": "2026-10",
+      "views": 9996
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 28226
+      "views": 38222
     }
   ]
 }

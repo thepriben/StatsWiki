@@ -4,7 +4,7 @@
   "title": "Genghis_Khan",
   "description": "founder and first khan of the Mongol Empire (1162–1227)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumGenghisPortrait.jpg?width=64",
-  "total": 17554515,
+  "total": 17562676,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-09",
       "views": 171058
+    },
+    {
+      "period": "2026-10",
+      "views": 8161
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 1041887
+      "views": 1050048
     }
   ]
 }

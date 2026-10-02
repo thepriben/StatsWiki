@@ -4,7 +4,7 @@
   "title": "Rupert_Murdoch",
   "description": "American businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg?width=64",
-  "total": 7933383,
+  "total": 7953563,
   "monthly": [
     {
       "period": "2015-08",
@@ -313,6 +313,10 @@
     {
       "period": "2026-09",
       "views": 14984
+    },
+    {
+      "period": "2026-10",
+      "views": 20180
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 781274
+      "views": 801454
     }
   ]
 }

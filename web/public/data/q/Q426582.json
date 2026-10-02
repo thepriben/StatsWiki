@@ -4,7 +4,7 @@
   "title": "Anthony_Bourdain",
   "description": "American chef and television personality (1956-2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Bourdain_Peabody_2014b.jpg?width=64",
-  "total": 21850950,
+  "total": 21860729,
   "monthly": [
     {
       "period": "2015-07",
@@ -457,6 +457,10 @@
     {
       "period": "2026-09",
       "views": 506710
+    },
+    {
+      "period": "2026-10",
+      "views": 9779
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 2259049
+      "views": 2268828
     }
   ]
 }

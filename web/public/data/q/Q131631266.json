@@ -4,7 +4,7 @@
   "title": "Sienna_Spiro",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sienna_Spiro_2025.jpg?width=64",
-  "total": 150454,
+  "total": 158242,
   "monthly": [
     {
       "period": "2026-04",
@@ -25,12 +25,16 @@
     {
       "period": "2026-09",
       "views": 90318
+    },
+    {
+      "period": "2026-10",
+      "views": 7788
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 150454
+      "views": 158242
     }
   ]
 }

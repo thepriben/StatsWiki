@@ -4,7 +4,7 @@
   "title": "Weapons_(2025_film)",
   "description": "2025 film directed by Zach Cregger",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weapons_logo.svg?width=64",
-  "total": 15105524,
+  "total": 15121481,
   "monthly": [
     {
       "period": "2025-04",
@@ -77,6 +77,10 @@
     {
       "period": "2026-09",
       "views": 478092
+    },
+    {
+      "period": "2026-10",
+      "views": 15957
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 3360699
+      "views": 3376656
     }
   ]
 }

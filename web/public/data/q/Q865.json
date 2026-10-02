@@ -4,7 +4,7 @@
   "title": "Taiwan",
   "description": "country in East Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taipei_Night_Skyline_from_Hongludi_20240113.jpg?width=64",
-  "total": 41541631,
+  "total": 41549628,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 149366
+    },
+    {
+      "period": "2026-10",
+      "views": 7997
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 1921086
+      "views": 1929083
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lillelid_murders",
   "description": "triple homicide in Tennessee",
   "image": "",
-  "total": 24255,
+  "total": 43431,
   "monthly": [
     {
       "period": "2023-02",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 8068
+    },
+    {
+      "period": "2026-10",
+      "views": 19176
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 8068
+      "views": 27244
     }
   ]
 }

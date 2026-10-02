@@ -4,7 +4,7 @@
   "title": "2026_Asian_Games",
   "description": "20th Asian Games co-hosted by Aichi Prefecture and Nagoya City, Japan",
   "image": "",
-  "total": 2595749,
+  "total": 2805036,
   "monthly": [
     {
       "period": "2018-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 2469409
+    },
+    {
+      "period": "2026-10",
+      "views": 209287
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 2569067
+      "views": 2778354
     }
   ]
 }

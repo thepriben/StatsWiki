@@ -2,9 +2,9 @@
   "qid": "Q130633026",
   "label": "East of Eden",
   "title": "East_of_Eden_(2026_miniseries)",
-  "description": "American TV series or program",
+  "description": "upcoming American miniseries created by Zoe Kazan",
   "image": "",
-  "total": 124910,
+  "total": 245338,
   "monthly": [
     {
       "period": "2026-05",
@@ -17,12 +17,16 @@
     {
       "period": "2026-09",
       "views": 91283
+    },
+    {
+      "period": "2026-10",
+      "views": 120428
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 124910
+      "views": 245338
     }
   ]
 }

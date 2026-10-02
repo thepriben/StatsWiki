@@ -4,17 +4,21 @@
   "title": "Dennis_Trillo",
   "description": "Filipino actor (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shake%2C_Rattle_and_Roll_XV_Official_Trailer_-_Dennis_Trillo.jpg?width=64",
-  "total": 9065,
+  "total": 23204,
   "monthly": [
     {
       "period": "2026-09",
       "views": 9065
+    },
+    {
+      "period": "2026-10",
+      "views": 14139
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9065
+      "views": 23204
     }
   ]
 }

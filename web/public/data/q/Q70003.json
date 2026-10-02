@@ -4,7 +4,7 @@
   "title": "Sandra_Hüller",
   "description": "German actress (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr23529_Sandra_H%C3%BCller_%28Sisi_%26_Ich%2C_Berlinale_2023%29.jpg?width=64",
-  "total": 1247079,
+  "total": 1255170,
   "monthly": [
     {
       "period": "2024-01",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 15608
+    },
+    {
+      "period": "2026-10",
+      "views": 8091
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 882845
+      "views": 890936
     }
   ]
 }

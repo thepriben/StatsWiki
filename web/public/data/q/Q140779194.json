@@ -4,17 +4,21 @@
   "title": "RuPaul's_Drag_Race_UK_series_8",
   "description": "2026 series of RuPaul's Drag Race UK",
   "image": "",
-  "total": 46351,
+  "total": 54523,
   "monthly": [
     {
       "period": "2026-09",
       "views": 46351
+    },
+    {
+      "period": "2026-10",
+      "views": 8172
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 46351
+      "views": 54523
     }
   ]
 }

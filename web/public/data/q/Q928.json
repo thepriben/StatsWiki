@@ -4,7 +4,7 @@
   "title": "Philippines",
   "description": "archipelagic country in Southeast Asia",
   "image": "",
-  "total": 45592936,
+  "total": 45600475,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 168587
+    },
+    {
+      "period": "2026-10",
+      "views": 7539
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 1236803
+      "views": 1244342
     }
   ]
 }

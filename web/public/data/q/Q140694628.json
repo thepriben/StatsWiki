@@ -4,17 +4,21 @@
   "title": "Prahaar:_The_Untold_Story_of_Ujjwal_Nikam",
   "description": "2026 Indian film",
   "image": "",
-  "total": 7600,
+  "total": 15568,
   "monthly": [
     {
       "period": "2026-09",
       "views": 7600
+    },
+    {
+      "period": "2026-10",
+      "views": 7968
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 7600
+      "views": 15568
     }
   ]
 }

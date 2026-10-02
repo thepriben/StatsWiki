@@ -4,7 +4,7 @@
   "title": "Vinnie_Jones",
   "description": "British footballer and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vinnie_Jones_circa_2013.jpg?width=64",
-  "total": 1711462,
+  "total": 1718901,
   "monthly": [
     {
       "period": "2018-02",
@@ -85,6 +85,10 @@
     {
       "period": "2026-09",
       "views": 396460
+    },
+    {
+      "period": "2026-10",
+      "views": 7439
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 742872
+      "views": 750311
     }
   ]
 }

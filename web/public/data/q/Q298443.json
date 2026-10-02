@@ -4,7 +4,7 @@
   "title": "Rahm_Emanuel",
   "description": "American politician (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambassador-emanuel-portrait.jpg?width=64",
-  "total": 937295,
+  "total": 945184,
   "monthly": [
     {
       "period": "2015-11",
@@ -125,6 +125,10 @@
     {
       "period": "2026-09",
       "views": 40524
+    },
+    {
+      "period": "2026-10",
+      "views": 7889
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 192517
+      "views": 200406
     }
   ]
 }

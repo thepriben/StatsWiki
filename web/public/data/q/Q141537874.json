@@ -4,17 +4,21 @@
   "title": "Patient_Zero_(song)",
   "description": "2026 song by Taylor Swift",
   "image": "",
-  "total": 100429,
+  "total": 109461,
   "monthly": [
     {
       "period": "2026-09",
       "views": 100429
+    },
+    {
+      "period": "2026-10",
+      "views": 9032
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 100429
+      "views": 109461
     }
   ]
 }

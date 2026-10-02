@@ -4,7 +4,7 @@
   "title": "Wikipedia:Featured_pictures",
   "description": "counterpart of Featured Articles for images",
   "image": "",
-  "total": 518748543,
+  "total": 519348776,
   "monthly": [
     {
       "period": "2019-07",
@@ -313,6 +313,10 @@
     {
       "period": "2026-09",
       "views": 18762851
+    },
+    {
+      "period": "2026-10",
+      "views": 600233
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 122764387
+      "views": 123364620
     }
   ]
 }

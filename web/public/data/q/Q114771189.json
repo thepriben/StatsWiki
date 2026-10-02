@@ -4,7 +4,7 @@
   "title": "Silent_Hill:_Townfall",
   "description": "2026 video game developed by Screen Burn and Annapurna Interactive",
   "image": "",
-  "total": 290548,
+  "total": 301401,
   "monthly": [
     {
       "period": "2026-02",
@@ -17,12 +17,16 @@
     {
       "period": "2026-09",
       "views": 267546
+    },
+    {
+      "period": "2026-10",
+      "views": 10853
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 290548
+      "views": 301401
     }
   ]
 }

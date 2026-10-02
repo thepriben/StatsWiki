@@ -4,7 +4,7 @@
   "title": "Paramount_Skydance",
   "description": "American multinational mass media and entertainment conglomerate",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramountpicturesmelrosegate.jpg?width=64",
-  "total": 171002,
+  "total": 181021,
   "monthly": [
     {
       "period": "2025-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 7553
+    },
+    {
+      "period": "2026-10",
+      "views": 10019
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 59962
+      "views": 69981
     }
   ]
 }

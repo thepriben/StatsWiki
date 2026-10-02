@@ -4,17 +4,21 @@
   "title": "Bigg_Boss_(Hindi_TV_series)_season_20",
   "description": "",
   "image": "",
-  "total": 244026,
+  "total": 258500,
   "monthly": [
     {
       "period": "2026-09",
       "views": 244026
+    },
+    {
+      "period": "2026-10",
+      "views": 14474
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 244026
+      "views": 258500
     }
   ]
 }

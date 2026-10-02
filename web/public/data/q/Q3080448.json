@@ -4,17 +4,21 @@
   "title": "Zone_of_the_Enders",
   "description": "video game series",
   "image": "",
-  "total": 29816,
+  "total": 37693,
   "monthly": [
     {
       "period": "2026-09",
       "views": 29816
+    },
+    {
+      "period": "2026-10",
+      "views": 7877
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 29816
+      "views": 37693
     }
   ]
 }

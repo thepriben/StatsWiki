@@ -4,7 +4,7 @@
   "title": "Howard_Stern",
   "description": "American radio and television personality (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Howard_Stern.jpg?width=64",
-  "total": 1705284,
+  "total": 1716941,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-09",
       "views": 28588
+    },
+    {
+      "period": "2026-10",
+      "views": 11657
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 28588
+      "views": 40245
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Brad_Pitt",
   "description": "American actor (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad_Pitt_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 60426673,
+  "total": 60440584,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 464238
+    },
+    {
+      "period": "2026-10",
+      "views": 13911
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 3350074
+      "views": 3363985
     }
   ]
 }

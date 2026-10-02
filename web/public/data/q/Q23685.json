@@ -4,7 +4,7 @@
   "title": "Jimmy_Carter",
   "description": "president of the United States from 1977 to 1981 (1924–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JimmyCarterPortrait2.jpg?width=64",
-  "total": 48374459,
+  "total": 48382461,
   "monthly": [
     {
       "period": "2015-07",
@@ -525,6 +525,10 @@
     {
       "period": "2026-05",
       "views": 25862
+    },
+    {
+      "period": "2026-10",
+      "views": 8002
     }
   ],
   "yearly": [
@@ -574,7 +578,7 @@
     },
     {
       "period": "2026",
-      "views": 445874
+      "views": 453876
     }
   ]
 }

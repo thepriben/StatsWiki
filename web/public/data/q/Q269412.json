@@ -4,7 +4,7 @@
   "title": "George_V",
   "description": "King of the United Kingdom from 1910 to 1936",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_George_1923_LCCN2014715558_%28cropped%29.jpg?width=64",
-  "total": 44970864,
+  "total": 44979196,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-09",
       "views": 293061
+    },
+    {
+      "period": "2026-10",
+      "views": 8332
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 2358857
+      "views": 2367189
     }
   ]
 }

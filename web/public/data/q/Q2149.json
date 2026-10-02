@@ -4,7 +4,7 @@
   "title": "XXX",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 73717430,
+  "total": 73751431,
   "monthly": [
     {
       "period": "2015-07",
@@ -489,6 +489,10 @@
     {
       "period": "2026-09",
       "views": 657453
+    },
+    {
+      "period": "2026-10",
+      "views": 34001
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 5552955
+      "views": 5586956
     }
   ]
 }

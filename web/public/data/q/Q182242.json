@@ -4,7 +4,7 @@
   "title": "Sukkot",
   "description": "Jewish holiday, harvest festival, festival of booths",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukkoth_-_IZE10160.jpg?width=64",
-  "total": 1386806,
+  "total": 1395877,
   "monthly": [
     {
       "period": "2015-09",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 100246
+    },
+    {
+      "period": "2026-10",
+      "views": 9071
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 100246
+      "views": 109317
     }
   ]
 }

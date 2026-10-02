@@ -4,17 +4,21 @@
   "title": "Shelley_Beattie",
   "description": "American bodybuilder",
   "image": "",
-  "total": 112465,
+  "total": 121214,
   "monthly": [
     {
       "period": "2026-09",
       "views": 112465
+    },
+    {
+      "period": "2026-10",
+      "views": 8749
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 112465
+      "views": 121214
     }
   ]
 }

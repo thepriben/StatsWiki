@@ -4,7 +4,7 @@
   "title": "Giant_panda",
   "description": "species of mammal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_Panda_2004-03-2.jpg?width=64",
-  "total": 813830,
+  "total": 821910,
   "monthly": [
     {
       "period": "2015-08",
@@ -77,6 +77,10 @@
     {
       "period": "2026-09",
       "views": 18718
+    },
+    {
+      "period": "2026-10",
+      "views": 8080
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 18718
+      "views": 26798
     }
   ]
 }

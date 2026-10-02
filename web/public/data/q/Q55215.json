@@ -4,7 +4,7 @@
   "title": "Alejandro_González_Iñárritu",
   "description": "Mexican film director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg?width=64",
-  "total": 1090166,
+  "total": 1109304,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 38166
+    },
+    {
+      "period": "2026-10",
+      "views": 19138
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 100611
+      "views": 119749
     }
   ]
 }

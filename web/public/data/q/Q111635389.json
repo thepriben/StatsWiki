@@ -4,17 +4,21 @@
   "title": "Death_Riders",
   "description": "professional wrestling stable",
   "image": "",
-  "total": 23161,
+  "total": 47916,
   "monthly": [
     {
       "period": "2026-09",
       "views": 23161
+    },
+    {
+      "period": "2026-10",
+      "views": 24755
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 23161
+      "views": 47916
     }
   ]
 }

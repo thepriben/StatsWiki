@@ -4,7 +4,7 @@
   "title": "Donnie_Brasco_(film)",
   "description": "1997 American crime drama film directed by Mike Newell",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donnie_Brasco_DVD.Logo.png?width=64",
-  "total": 150602,
+  "total": 159247,
   "monthly": [
     {
       "period": "2022-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 42809
+    },
+    {
+      "period": "2026-10",
+      "views": 8645
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 42809
+      "views": 51454
     }
   ]
 }

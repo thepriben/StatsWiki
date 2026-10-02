@@ -4,7 +4,7 @@
   "title": "Jason_Momoa",
   "description": "American actor (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg?width=64",
-  "total": 60993972,
+  "total": 61001647,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-09",
       "views": 108607
+    },
+    {
+      "period": "2026-10",
+      "views": 7675
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 2472953
+      "views": 2480628
     }
   ]
 }

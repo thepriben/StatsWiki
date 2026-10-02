@@ -4,7 +4,7 @@
   "title": "Sonny_Gray",
   "description": "American baseball player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonny_Gray_August_2013.jpg?width=64",
-  "total": 153372,
+  "total": 207315,
   "monthly": [
     {
       "period": "2017-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 7861
+    },
+    {
+      "period": "2026-10",
+      "views": 53943
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 42308
+      "views": 96251
     }
   ]
 }

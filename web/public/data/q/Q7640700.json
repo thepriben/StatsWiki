@@ -4,7 +4,7 @@
   "title": "Sunny_Hostin",
   "description": "American lawyer, journalist, and television host",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunny_Hostin_%2849469995906%29.jpg?width=64",
-  "total": 406606,
+  "total": 414363,
   "monthly": [
     {
       "period": "2020-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 32246
+    },
+    {
+      "period": "2026-10",
+      "views": 7757
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 66648
+      "views": 74405
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Doug_Hutchison",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Doug_hutchison.jpg?width=64",
-  "total": 1227504,
+  "total": 1257001,
   "monthly": [
     {
       "period": "2016-03",
@@ -113,6 +113,10 @@
     {
       "period": "2026-09",
       "views": 36053
+    },
+    {
+      "period": "2026-10",
+      "views": 29497
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 326538
+      "views": 356035
     }
   ]
 }

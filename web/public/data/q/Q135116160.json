@@ -4,7 +4,7 @@
   "title": "Cam_Schlittler",
   "description": "American baseball player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cam_Schlittler_%2854476798685%29.jpg?width=64",
-  "total": 406595,
+  "total": 416637,
   "monthly": [
     {
       "period": "2025-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 77571
+    },
+    {
+      "period": "2026-10",
+      "views": 10042
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 77571
+      "views": 87613
     }
   ]
 }

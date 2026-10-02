@@ -4,7 +4,7 @@
   "title": "Jalon_Daniels",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_Liberty_Bowl_Jalon_Daniels_first_down_%28cropped%29.jpg?width=64",
-  "total": 84752,
+  "total": 97417,
   "monthly": [
     {
       "period": "2025-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 58482
+    },
+    {
+      "period": "2026-10",
+      "views": 12665
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 75118
+      "views": 87783
     }
   ]
 }

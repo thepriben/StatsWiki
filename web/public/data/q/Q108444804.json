@@ -4,7 +4,7 @@
   "title": "The_Menu_(2022_film)",
   "description": "2022 film directed by Mark Mylod",
   "image": "",
-  "total": 10136643,
+  "total": 10150854,
   "monthly": [
     {
       "period": "2022-06",
@@ -169,6 +169,10 @@
     {
       "period": "2026-09",
       "views": 20946
+    },
+    {
+      "period": "2026-10",
+      "views": 14211
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 343735
+      "views": 357946
     }
   ]
 }

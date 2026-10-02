@@ -4,7 +4,7 @@
   "title": "Jacob_Tremblay",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Tremblay_by_Gage_Skidmore.jpg?width=64",
-  "total": 1459565,
+  "total": 1471097,
   "monthly": [
     {
       "period": "2016-01",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 118080
+    },
+    {
+      "period": "2026-10",
+      "views": 11532
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 144893
+      "views": 156425
     }
   ]
 }

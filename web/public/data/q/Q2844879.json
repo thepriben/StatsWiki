@@ -4,7 +4,7 @@
   "title": "Enemy_(2013_film)",
   "description": "2013 film directed by Denis Villeneuve",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Enemy_Logo.jpg?width=64",
-  "total": 171886,
+  "total": 187989,
   "monthly": [
     {
       "period": "2015-08",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 26078
+    },
+    {
+      "period": "2026-10",
+      "views": 16103
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 41773
+      "views": 57876
     }
   ]
 }

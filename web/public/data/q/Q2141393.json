@@ -4,17 +4,21 @@
   "title": "Match_cut",
   "description": "cut from one shot to another where the two shots are matched by the action or subject and subject matter",
   "image": "",
-  "total": 26411,
+  "total": 78882,
   "monthly": [
     {
       "period": "2026-09",
       "views": 26411
+    },
+    {
+      "period": "2026-10",
+      "views": 52471
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26411
+      "views": 78882
     }
   ]
 }

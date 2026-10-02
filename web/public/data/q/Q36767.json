@@ -4,7 +4,7 @@
   "title": "Robert_Pattinson",
   "description": "British actor (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Pattinson_at_Berlinale_2025.jpg?width=64",
-  "total": 15350760,
+  "total": 15365299,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-09",
       "views": 482325
+    },
+    {
+      "period": "2026-10",
+      "views": 14539
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 2863241
+      "views": 2877780
     }
   ]
 }

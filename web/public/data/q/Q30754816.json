@@ -4,7 +4,7 @@
   "title": "12_Feet_Deep",
   "description": "2017 film by Matt Eskandari",
   "image": "",
-  "total": 258801,
+  "total": 267137,
   "monthly": [
     {
       "period": "2017-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 17928
+    },
+    {
+      "period": "2026-10",
+      "views": 8336
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 17928
+      "views": 26264
     }
   ]
 }

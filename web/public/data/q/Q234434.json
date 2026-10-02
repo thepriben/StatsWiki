@@ -4,7 +4,7 @@
   "title": "Juno_Temple",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juno_Temple_at_Sundance_2011.jpg?width=64",
-  "total": 3864253,
+  "total": 3880871,
   "monthly": [
     {
       "period": "2016-02",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 263662
+    },
+    {
+      "period": "2026-10",
+      "views": 16618
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 952351
+      "views": 968969
     }
   ]
 }

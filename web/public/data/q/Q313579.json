@@ -4,7 +4,7 @@
   "title": "Shawn_Ashmore",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shawn_Ashmore_-_The_Huntsman.jpg?width=64",
-  "total": 480183,
+  "total": 497812,
   "monthly": [
     {
       "period": "2016-04",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 16805
+    },
+    {
+      "period": "2026-10",
+      "views": 17629
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 95122
+      "views": 112751
     }
   ]
 }

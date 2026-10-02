@@ -4,7 +4,7 @@
   "title": "Germanwings_Flight_9525",
   "description": "deliberate crash of an Airbus A320 in the French Alps on March 24, 2015",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/320_GERMANWINGS_D-AIPX_147_10_05_14_BCN_RIP_%2816730197959%29.jpg?width=64",
-  "total": 377728,
+  "total": 394751,
   "monthly": [
     {
       "period": "2016-03",
@@ -65,6 +65,10 @@
     {
       "period": "2026-09",
       "views": 22563
+    },
+    {
+      "period": "2026-10",
+      "views": 17023
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 55347
+      "views": 72370
     }
   ]
 }

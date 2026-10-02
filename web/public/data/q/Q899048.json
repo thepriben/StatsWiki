@@ -4,7 +4,7 @@
   "title": "Lyle_and_Erik_Menéndez",
   "description": "American brothers convicted of their parents murder",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Menendez_brothers_2023.png?width=64",
-  "total": 37637310,
+  "total": 37650151,
   "monthly": [
     {
       "period": "2015-08",
@@ -317,6 +317,10 @@
     {
       "period": "2026-09",
       "views": 222136
+    },
+    {
+      "period": "2026-10",
+      "views": 12841
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 222136
+      "views": 234977
     }
   ]
 }

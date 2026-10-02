@@ -4,7 +4,7 @@
   "title": "Prince_(musician)",
   "description": "American musician (1958–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince_Brussels_1986_%28retouched%29.jpg?width=64",
-  "total": 49756042,
+  "total": 49764648,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 290952
+    },
+    {
+      "period": "2026-10",
+      "views": 8606
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 3245561
+      "views": 3254167
     }
   ]
 }

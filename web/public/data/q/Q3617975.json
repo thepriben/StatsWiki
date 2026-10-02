@@ -4,7 +4,7 @@
   "title": "Annette_Badland",
   "description": "English actress (born 1950)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annette_Badland_2016.jpg?width=64",
-  "total": 205329,
+  "total": 243875,
   "monthly": [
     {
       "period": "2018-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 34439
+    },
+    {
+      "period": "2026-10",
+      "views": 38546
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 171361
+      "views": 209907
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Will_Venable",
   "description": "American baseball player, coach, and manager (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Will_Venable_2013_Padres_MVP.JPG?width=64",
-  "total": 52855,
+  "total": 68819,
   "monthly": [
     {
       "period": "2024-10",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 7951
+    },
+    {
+      "period": "2026-10",
+      "views": 15964
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 7951
+      "views": 23915
     }
   ]
 }

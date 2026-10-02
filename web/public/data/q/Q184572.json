@@ -4,7 +4,7 @@
   "title": "Martin_Sheen",
   "description": "American actor (born 1940)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheen%2C_Martin_%282008%29.jpg?width=64",
-  "total": 5305197,
+  "total": 5312920,
   "monthly": [
     {
       "period": "2015-08",
@@ -269,6 +269,10 @@
     {
       "period": "2026-09",
       "views": 24164
+    },
+    {
+      "period": "2026-10",
+      "views": 7723
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 83576
+      "views": 91299
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Pentagram",
   "description": "five-pointed star polygon",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentagram_%28fixed_width%29.svg?width=64",
-  "total": 36178,
+  "total": 76492,
   "monthly": [
     {
       "period": "2025-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 14073
+    },
+    {
+      "period": "2026-10",
+      "views": 40314
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 14073
+      "views": 54387
     }
   ]
 }

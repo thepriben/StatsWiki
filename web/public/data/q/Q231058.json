@@ -4,7 +4,7 @@
   "title": "Shailene_Woodley",
   "description": "American actress (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shailene_Woodley_2018_%28cropped%29.jpg?width=64",
-  "total": 12346343,
+  "total": 12365319,
   "monthly": [
     {
       "period": "2015-07",
@@ -381,6 +381,10 @@
     {
       "period": "2026-09",
       "views": 857281
+    },
+    {
+      "period": "2026-10",
+      "views": 18976
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 1199051
+      "views": 1218027
     }
   ]
 }

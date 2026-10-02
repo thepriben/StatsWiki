@@ -4,7 +4,7 @@
   "title": "Kendall_Jenner",
   "description": "American media personality and model (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kendall_Jenner_for_Adanola_2_%28cropped%29.jpg?width=64",
-  "total": 17570079,
+  "total": 17579708,
   "monthly": [
     {
       "period": "2015-07",
@@ -433,6 +433,10 @@
     {
       "period": "2026-09",
       "views": 36971
+    },
+    {
+      "period": "2026-10",
+      "views": 9629
     }
   ],
   "yearly": [
@@ -482,7 +486,7 @@
     },
     {
       "period": "2026",
-      "views": 527640
+      "views": 537269
     }
   ]
 }

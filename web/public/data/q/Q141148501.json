@@ -4,17 +4,21 @@
   "title": "Modha_Rathri",
   "description": "2026 film directed by Raja Karuppasamy",
   "image": "",
-  "total": 685826,
+  "total": 699120,
   "monthly": [
     {
       "period": "2026-09",
       "views": 685826
+    },
+    {
+      "period": "2026-10",
+      "views": 13294
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 685826
+      "views": 699120
     }
   ]
 }

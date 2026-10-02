@@ -4,7 +4,7 @@
   "title": "Ryan_Reynolds",
   "description": "Canadian-American actor and entrepreneur (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg?width=64",
-  "total": 70461320,
+  "total": 70469730,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 375691
+    },
+    {
+      "period": "2026-10",
+      "views": 8410
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 2285757
+      "views": 2294167
     }
   ]
 }

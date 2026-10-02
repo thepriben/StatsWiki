@@ -4,7 +4,7 @@
   "title": "Finnegans_Wake",
   "description": "1939 novel by James Joyce",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joyce_wake.jpg?width=64",
-  "total": 184936,
+  "total": 194692,
   "monthly": [
     {
       "period": "2020-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 95074
+    },
+    {
+      "period": "2026-10",
+      "views": 9756
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 95074
+      "views": 104830
     }
   ]
 }

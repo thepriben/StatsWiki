@@ -4,7 +4,7 @@
   "title": "Chris_Martin",
   "description": "English singer-songwriter (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChrisMartinManch030623_%28cropped%29.jpg?width=64",
-  "total": 9753302,
+  "total": 9761773,
   "monthly": [
     {
       "period": "2015-07",
@@ -341,6 +341,10 @@
     {
       "period": "2026-09",
       "views": 26225
+    },
+    {
+      "period": "2026-10",
+      "views": 8471
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 49800
+      "views": 58271
     }
   ]
 }

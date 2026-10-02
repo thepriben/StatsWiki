@@ -4,7 +4,7 @@
   "title": "Miranda_warning",
   "description": "notification given by American police to criminal suspects in police custody advising them of their rights, or similar procedure in other jurisdictions",
   "image": "",
-  "total": 38868,
+  "total": 70140,
   "monthly": [
     {
       "period": "2022-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 11276
+    },
+    {
+      "period": "2026-10",
+      "views": 31272
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 11276
+      "views": 42548
     }
   ]
 }

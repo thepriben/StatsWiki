@@ -4,7 +4,7 @@
   "title": "Ariana_Grande",
   "description": "American singer, songwriter, and actress (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ariana_Grande_promoting_Wicked_%282024%29.jpg?width=64",
-  "total": 83506804,
+  "total": 83514835,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 323859
+    },
+    {
+      "period": "2026-10",
+      "views": 8031
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 3718106
+      "views": 3726137
     }
   ]
 }

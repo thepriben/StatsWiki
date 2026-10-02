@@ -4,7 +4,7 @@
   "title": "Sardar_(2022_film)",
   "description": "2022 film directed by P. S. Mithran",
   "image": "",
-  "total": 789484,
+  "total": 798535,
   "monthly": [
     {
       "period": "2022-10",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 30712
+    },
+    {
+      "period": "2026-10",
+      "views": 9051
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 30712
+      "views": 39763
     }
   ]
 }

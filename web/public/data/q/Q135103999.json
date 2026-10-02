@@ -4,7 +4,7 @@
   "title": "The_Uprising_(2026_film)",
   "description": "2026 film directed by Paul Greengrass",
   "image": "",
-  "total": 970516,
+  "total": 996309,
   "monthly": [
     {
       "period": "2026-07",
@@ -17,12 +17,16 @@
     {
       "period": "2026-09",
       "views": 504704
+    },
+    {
+      "period": "2026-10",
+      "views": 25793
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 970516
+      "views": 996309
     }
   ]
 }

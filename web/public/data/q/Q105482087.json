@@ -4,7 +4,7 @@
   "title": "Sorba_Thomas",
   "description": "Welsh footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_asse_fcn_2425.png?width=64",
-  "total": 69722,
+  "total": 78576,
   "monthly": [
     {
       "period": "2022-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 9539
+    },
+    {
+      "period": "2026-10",
+      "views": 8854
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 22435
+      "views": 31289
     }
   ]
 }

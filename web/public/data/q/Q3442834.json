@@ -4,7 +4,7 @@
   "title": "Rossif_Sutherland",
   "description": "Canadian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rossif_Sutherland_%28Berlin_Film_Festival_2009%29.jpg?width=64",
-  "total": 418632,
+  "total": 434048,
   "monthly": [
     {
       "period": "2017-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 15100
+    },
+    {
+      "period": "2026-10",
+      "views": 15416
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 15100
+      "views": 30516
     }
   ]
 }

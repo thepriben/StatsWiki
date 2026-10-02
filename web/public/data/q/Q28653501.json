@@ -4,7 +4,7 @@
   "title": "Lili_Reinhart",
   "description": "American actress (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lili_Reinhart_-_Forbidden_Fruits.jpg?width=64",
-  "total": 1439562,
+  "total": 1458400,
   "monthly": [
     {
       "period": "2017-05",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 411083
+    },
+    {
+      "period": "2026-10",
+      "views": 18838
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 521787
+      "views": 540625
     }
   ]
 }

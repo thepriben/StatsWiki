@@ -4,7 +4,7 @@
   "title": "Chris_Hansen",
   "description": "American television journalist (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Hansen.jpg?width=64",
-  "total": 2341301,
+  "total": 2373121,
   "monthly": [
     {
       "period": "2018-01",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 748299
+    },
+    {
+      "period": "2026-10",
+      "views": 31820
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 1790413
+      "views": 1822233
     }
   ]
 }

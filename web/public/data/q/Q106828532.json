@@ -4,7 +4,7 @@
   "title": "Aaron_Pierre_(actor)",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Pierre_at_San_Diego_Comic_Con_2026-2.jpg?width=64",
-  "total": 2905211,
+  "total": 2914332,
   "monthly": [
     {
       "period": "2021-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 424260
+    },
+    {
+      "period": "2026-10",
+      "views": 9121
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 758682
+      "views": 767803
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Job_Corps",
   "description": "voluntary program in the united states",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/US-JobCorps-Logo.svg?width=64",
-  "total": 54491,
+  "total": 175980,
   "monthly": [
     {
       "period": "2026-09",
       "views": 54491
+    },
+    {
+      "period": "2026-10",
+      "views": 121489
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 54491
+      "views": 175980
     }
   ]
 }

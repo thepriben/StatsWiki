@@ -4,7 +4,7 @@
   "title": "XHamster",
   "description": "pornographic video sharing website",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XHamster_logo.svg?width=64",
-  "total": 252137158,
+  "total": 252145530,
   "monthly": [
     {
       "period": "2016-01",
@@ -385,6 +385,10 @@
     {
       "period": "2026-09",
       "views": 375912
+    },
+    {
+      "period": "2026-10",
+      "views": 8372
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 3378308
+      "views": 3386680
     }
   ]
 }

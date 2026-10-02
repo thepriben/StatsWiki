@@ -4,7 +4,7 @@
   "title": "India_at_the_2022_Asian_Games",
   "description": "sporting event delegation",
   "image": "",
-  "total": 3369977,
+  "total": 3388996,
   "monthly": [
     {
       "period": "2023-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 263551
+    },
+    {
+      "period": "2026-10",
+      "views": 19019
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 263551
+      "views": 282570
     }
   ]
 }

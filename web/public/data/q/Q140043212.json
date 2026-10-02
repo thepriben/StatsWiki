@@ -4,17 +4,21 @@
   "title": "Volleyball_at_the_2026_Asian_Games",
   "description": "",
   "image": "",
-  "total": 124262,
+  "total": 138374,
   "monthly": [
     {
       "period": "2026-09",
       "views": 124262
+    },
+    {
+      "period": "2026-10",
+      "views": 14112
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 124262
+      "views": 138374
     }
   ]
 }

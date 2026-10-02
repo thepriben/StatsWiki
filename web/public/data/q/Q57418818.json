@@ -4,7 +4,7 @@
   "title": "Riley_Green",
   "description": "American singer/songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Welcome_Riley_Green_%287%29_%28cropped%29.jpg?width=64",
-  "total": 847882,
+  "total": 863307,
   "monthly": [
     {
       "period": "2024-11",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 527736
+    },
+    {
+      "period": "2026-10",
+      "views": 15425
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 766310
+      "views": 781735
     }
   ]
 }

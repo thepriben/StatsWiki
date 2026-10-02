@@ -4,7 +4,7 @@
   "title": "Bruno_Mars",
   "description": "American singer-songwriter and record producer (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg?width=64",
-  "total": 23533568,
+  "total": 23543736,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-09",
       "views": 311454
+    },
+    {
+      "period": "2026-10",
+      "views": 10168
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 2862630
+      "views": 2872798
     }
   ]
 }

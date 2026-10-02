@@ -4,7 +4,7 @@
   "title": "Federal_Express_Flight_705",
   "description": "attempted suicide hijacking",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/McDonnell_Douglas_MD-10-30%28F%29%2C_FedEx_JP7375978.jpg?width=64",
-  "total": 460474,
+  "total": 475814,
   "monthly": [
     {
       "period": "2016-01",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 7546
+    },
+    {
+      "period": "2026-10",
+      "views": 15340
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 25330
+      "views": 40670
     }
   ]
 }

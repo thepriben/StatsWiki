@@ -4,7 +4,7 @@
   "title": "Dario_Amodei",
   "description": "CEO and co-founder of Anthropic",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dario_Amodei_at_TechCrunch_Disrupt_2023_02_%28cropped%29.jpg?width=64",
-  "total": 2443781,
+  "total": 2464023,
   "monthly": [
     {
       "period": "2025-05",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 530002
+    },
+    {
+      "period": "2026-10",
+      "views": 20242
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 2408089
+      "views": 2428331
     }
   ]
 }

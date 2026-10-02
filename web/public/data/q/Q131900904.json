@@ -4,7 +4,7 @@
   "title": "Heart_of_the_Beast",
   "description": "2026 film directed by David Ayer",
   "image": "",
-  "total": 744961,
+  "total": 784439,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 673241
+    },
+    {
+      "period": "2026-10",
+      "views": 39478
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 744961
+      "views": 784439
     }
   ]
 }

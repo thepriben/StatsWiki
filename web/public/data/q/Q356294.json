@@ -4,7 +4,7 @@
   "title": "Charlie_Hunnam",
   "description": "British actor (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Hunnam_%2853619946303%29.jpg?width=64",
-  "total": 7844117,
+  "total": 7858699,
   "monthly": [
     {
       "period": "2015-07",
@@ -221,6 +221,10 @@
     {
       "period": "2026-09",
       "views": 562152
+    },
+    {
+      "period": "2026-10",
+      "views": 14582
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 596605
+      "views": 611187
     }
   ]
 }

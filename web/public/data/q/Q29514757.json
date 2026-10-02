@@ -4,7 +4,7 @@
   "title": "Cody_Bellinger",
   "description": "American baseball player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20170718_Dodgers-WhiteSox_Cody_Bellinger_rounds_third.jpg?width=64",
-  "total": 950537,
+  "total": 980506,
   "monthly": [
     {
       "period": "2017-06",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 23380
+    },
+    {
+      "period": "2026-10",
+      "views": 29969
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 38908
+      "views": 68877
     }
   ]
 }

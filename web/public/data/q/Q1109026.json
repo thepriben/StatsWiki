@@ -4,17 +4,21 @@
   "title": "A_Different_World",
   "description": "television series",
   "image": "",
-  "total": 129595,
+  "total": 140809,
   "monthly": [
     {
       "period": "2026-09",
       "views": 129595
+    },
+    {
+      "period": "2026-10",
+      "views": 11214
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 129595
+      "views": 140809
     }
   ]
 }

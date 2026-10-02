@@ -4,7 +4,7 @@
   "title": "Gina_Hinojosa",
   "description": "American lawyer and politician, Democratic member of the Texas House of Representatives",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gina_Hinojosa_16_February_2017_%28cropped%29.jpg?width=64",
-  "total": 62363,
+  "total": 70122,
   "monthly": [
     {
       "period": "2026-03",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 10609
+    },
+    {
+      "period": "2026-10",
+      "views": 7759
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 62363
+      "views": 70122
     }
   ]
 }

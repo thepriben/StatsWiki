@@ -4,7 +4,7 @@
   "title": "Ari_Emanuel",
   "description": "American businessman and CEO of Endeavor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ari_Emanuel_%2827449561892%29_%282%29.jpg?width=64",
-  "total": 659767,
+  "total": 670167,
   "monthly": [
     {
       "period": "2016-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 168118
+    },
+    {
+      "period": "2026-10",
+      "views": 10400
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 168118
+      "views": 178518
     }
   ]
 }

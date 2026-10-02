@@ -4,7 +4,7 @@
   "title": "Control_Resonant",
   "description": "2026 video game developed by Remedy Entertainment",
   "image": "",
-  "total": 226935,
+  "total": 235991,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 209206
+    },
+    {
+      "period": "2026-10",
+      "views": 9056
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 209206
+      "views": 218262
     }
   ]
 }

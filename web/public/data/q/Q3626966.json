@@ -4,7 +4,7 @@
   "title": "Harry_Styles",
   "description": "English singer, songwriter and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HarryStylesWembley170623_%2814_of_93%29_%2852982076132%29_%28cropped%29.jpg?width=64",
-  "total": 31363471,
+  "total": 31371902,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-09",
       "views": 280528
+    },
+    {
+      "period": "2026-10",
+      "views": 8431
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 2893511
+      "views": 2901942
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jackie_Chan",
   "description": "Hong Kong actor and martial artist (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie_Chan_-_2025_Locarno_Film_Festival.jpg?width=64",
-  "total": 17541259,
+  "total": 17553593,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-09",
       "views": 170200
+    },
+    {
+      "period": "2026-10",
+      "views": 12334
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 271548
+      "views": 283882
     }
   ]
 }

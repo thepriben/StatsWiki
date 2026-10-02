@@ -4,7 +4,7 @@
   "title": "Annabel_Scholey",
   "description": "British actress",
   "image": "",
-  "total": 113058,
+  "total": 122395,
   "monthly": [
     {
       "period": "2020-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 28262
+    },
+    {
+      "period": "2026-10",
+      "views": 9337
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 28262
+      "views": 37599
     }
   ]
 }

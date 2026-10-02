@@ -4,7 +4,7 @@
   "title": "Ted_(TV_series)",
   "description": "US television series",
   "image": "",
-  "total": 1419729,
+  "total": 1428642,
   "monthly": [
     {
       "period": "2023-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 16998
+    },
+    {
+      "period": "2026-10",
+      "views": 8913
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 491565
+      "views": 500478
     }
   ]
 }

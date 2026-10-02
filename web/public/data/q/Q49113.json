@@ -4,7 +4,7 @@
   "title": "Ivy_League",
   "description": "athletic conference of 8 American universities",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivy_league_simple_logo.png?width=64",
-  "total": 3104585,
+  "total": 3114749,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 20534
+    },
+    {
+      "period": "2026-10",
+      "views": 10164
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 20534
+      "views": 30698
     }
   ]
 }

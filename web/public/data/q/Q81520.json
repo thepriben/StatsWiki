@@ -4,7 +4,7 @@
   "title": "Pierce_Brosnan",
   "description": "Irish actor (born 1953)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PierceBrosnan-byPhilipRomano.jpg?width=64",
-  "total": 13190129,
+  "total": 13198649,
   "monthly": [
     {
       "period": "2015-08",
@@ -461,6 +461,10 @@
     {
       "period": "2026-09",
       "views": 245543
+    },
+    {
+      "period": "2026-10",
+      "views": 8520
     }
   ],
   "yearly": [
@@ -510,7 +514,7 @@
     },
     {
       "period": "2026",
-      "views": 841357
+      "views": 849877
     }
   ]
 }

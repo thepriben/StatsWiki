@@ -4,7 +4,7 @@
   "title": "Spike_Lee",
   "description": "American filmmaker (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spike_Lee_2025.jpg?width=64",
-  "total": 2490070,
+  "total": 2499103,
   "monthly": [
     {
       "period": "2015-12",
@@ -129,6 +129,10 @@
     {
       "period": "2026-09",
       "views": 8429
+    },
+    {
+      "period": "2026-10",
+      "views": 9033
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 356921
+      "views": 365954
     }
   ]
 }

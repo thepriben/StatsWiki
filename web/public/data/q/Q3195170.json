@@ -4,7 +4,7 @@
   "title": "Kenneth_C._Griffin",
   "description": "American billionaire hedge fund manager (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenneth_C._Griffin_photo.jpg?width=64",
-  "total": 628268,
+  "total": 652421,
   "monthly": [
     {
       "period": "2017-11",
@@ -73,6 +73,10 @@
     {
       "period": "2026-09",
       "views": 48750
+    },
+    {
+      "period": "2026-10",
+      "views": 24153
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 192262
+      "views": 216415
     }
   ]
 }

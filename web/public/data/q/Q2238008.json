@@ -4,7 +4,7 @@
   "title": "Creed_Bratton",
   "description": "American actor and musician (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Creed_Bratton_2019_%2848474439927%29_CROPPED.jpg?width=64",
-  "total": 212982,
+  "total": 223773,
   "monthly": [
     {
       "period": "2016-03",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 27590
+    },
+    {
+      "period": "2026-10",
+      "views": 10791
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 105026
+      "views": 115817
     }
   ]
 }

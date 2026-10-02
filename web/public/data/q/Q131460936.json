@@ -4,7 +4,7 @@
   "title": "Clayface_(film)",
   "description": "upcoming film directed by James Watkins",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clayface_%282026%29_logo.svg?width=64",
-  "total": 872194,
+  "total": 883805,
   "monthly": [
     {
       "period": "2025-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 137877
+    },
+    {
+      "period": "2026-10",
+      "views": 11611
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 777643
+      "views": 789254
     }
   ]
 }

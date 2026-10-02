@@ -4,17 +4,21 @@
   "title": "Philippines_at_the_2026_Asian_Games",
   "description": "sporting event delegation",
   "image": "",
-  "total": 53948,
+  "total": 64863,
   "monthly": [
     {
       "period": "2026-09",
       "views": 53948
+    },
+    {
+      "period": "2026-10",
+      "views": 10915
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 53948
+      "views": 64863
     }
   ]
 }

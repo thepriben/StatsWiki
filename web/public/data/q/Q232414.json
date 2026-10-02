@@ -4,7 +4,7 @@
   "title": "Lisa_Bonet",
   "description": "American actress",
   "image": "",
-  "total": 21800976,
+  "total": 21810240,
   "monthly": [
     {
       "period": "2015-07",
@@ -433,6 +433,10 @@
     {
       "period": "2026-09",
       "views": 78795
+    },
+    {
+      "period": "2026-10",
+      "views": 9264
     }
   ],
   "yearly": [
@@ -482,7 +486,7 @@
     },
     {
       "period": "2026",
-      "views": 441643
+      "views": 450907
     }
   ]
 }

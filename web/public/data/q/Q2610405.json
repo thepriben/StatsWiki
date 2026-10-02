@@ -4,7 +4,7 @@
   "title": "Taylor_Hanson",
   "description": "American musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TaylorHanson.jpg?width=64",
-  "total": 355174,
+  "total": 366992,
   "monthly": [
     {
       "period": "2016-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 254466
+    },
+    {
+      "period": "2026-10",
+      "views": 11818
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 254466
+      "views": 266284
     }
   ]
 }

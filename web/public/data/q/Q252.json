@@ -4,7 +4,7 @@
   "title": "Indonesia",
   "description": "island country in Southeast Asia and Oceania",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indonesian_Culture.jpg?width=64",
-  "total": 34777609,
+  "total": 34785143,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-09",
       "views": 148715
+    },
+    {
+      "period": "2026-10",
+      "views": 7534
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 765207
+      "views": 772741
     }
   ]
 }

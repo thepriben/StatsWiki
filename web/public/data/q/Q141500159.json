@@ -4,17 +4,21 @@
   "title": "Hunkkaar",
   "description": "2026 Indian television series",
   "image": "",
-  "total": 90671,
+  "total": 105491,
   "monthly": [
     {
       "period": "2026-09",
       "views": 90671
+    },
+    {
+      "period": "2026-10",
+      "views": 14820
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 90671
+      "views": 105491
     }
   ]
 }

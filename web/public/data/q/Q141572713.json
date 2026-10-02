@@ -4,17 +4,21 @@
   "title": "2026_Bangkok_floods",
   "description": "natural disaster in Thailand",
   "image": "",
-  "total": 20443,
+  "total": 30571,
   "monthly": [
     {
       "period": "2026-09",
       "views": 20443
+    },
+    {
+      "period": "2026-10",
+      "views": 10128
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 20443
+      "views": 30571
     }
   ]
 }

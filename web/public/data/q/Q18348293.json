@@ -4,7 +4,7 @@
   "title": "Colleen_Hoover",
   "description": "American author",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colleen_Hoover_Video_Call.png?width=64",
-  "total": 347800,
+  "total": 357123,
   "monthly": [
     {
       "period": "2023-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 7615
+    },
+    {
+      "period": "2026-10",
+      "views": 9323
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 7615
+      "views": 16938
     }
   ]
 }

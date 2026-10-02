@@ -4,17 +4,21 @@
   "title": "2026_Pacific_hurricane_season",
   "description": "",
   "image": "",
-  "total": 133794,
+  "total": 142378,
   "monthly": [
     {
       "period": "2026-09",
       "views": 133794
+    },
+    {
+      "period": "2026-10",
+      "views": 8584
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 133794
+      "views": 142378
     }
   ]
 }

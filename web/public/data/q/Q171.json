@@ -4,7 +4,7 @@
   "title": "Wiki",
   "description": "type of website that visitors can edit",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiki_dcci_2x.png?width=64",
-  "total": 65584541,
+  "total": 65598130,
   "monthly": [
     {
       "period": "2015-07",
@@ -545,6 +545,10 @@
     {
       "period": "2026-09",
       "views": 394012
+    },
+    {
+      "period": "2026-10",
+      "views": 13589
     }
   ],
   "yearly": [
@@ -594,7 +598,7 @@
     },
     {
       "period": "2026",
-      "views": 3599639
+      "views": 3613228
     }
   ]
 }

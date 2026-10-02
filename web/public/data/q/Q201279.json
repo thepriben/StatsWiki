@@ -4,7 +4,7 @@
   "title": "Woody_Harrelson",
   "description": "American actor (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Woody_Harrelson_191020-N-NU281-1028_%28cropped%29.jpg?width=64",
-  "total": 6945754,
+  "total": 6971331,
   "monthly": [
     {
       "period": "2015-09",
@@ -333,6 +333,10 @@
     {
       "period": "2026-09",
       "views": 662058
+    },
+    {
+      "period": "2026-10",
+      "views": 25577
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 771914
+      "views": 797491
     }
   ]
 }

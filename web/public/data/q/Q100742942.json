@@ -4,7 +4,7 @@
   "title": "James_Talarico",
   "description": "American politician (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Talarico_Press_Conference.jpg?width=64",
-  "total": 4625470,
+  "total": 4640079,
   "monthly": [
     {
       "period": "2024-08",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 561756
+    },
+    {
+      "period": "2026-10",
+      "views": 14609
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 3871577
+      "views": 3886186
     }
   ]
 }

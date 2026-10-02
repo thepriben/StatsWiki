@@ -4,7 +4,7 @@
   "title": "Lioness_(American_TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lioness_%28VIACOM_INTERNATIONAL_INC._TV_series%29.webp?width=64",
-  "total": 3323781,
+  "total": 3341048,
   "monthly": [
     {
       "period": "2024-11",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 967802
+    },
+    {
+      "period": "2026-10",
+      "views": 17267
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 1894243
+      "views": 1911510
     }
   ]
 }

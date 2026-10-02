@@ -4,7 +4,7 @@
   "title": "George_Michael",
   "description": "English singer (1963–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Michael.jpeg?width=64",
-  "total": 27732473,
+  "total": 27740925,
   "monthly": [
     {
       "period": "2015-12",
@@ -421,6 +421,10 @@
     {
       "period": "2026-09",
       "views": 245204
+    },
+    {
+      "period": "2026-10",
+      "views": 8452
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 490779
+      "views": 499231
     }
   ]
 }

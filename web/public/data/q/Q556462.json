@@ -4,7 +4,7 @@
   "title": "Rick_Owens",
   "description": "American fashion designer (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick_Owens.jpg?width=64",
-  "total": 232675,
+  "total": 243771,
   "monthly": [
     {
       "period": "2024-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 34879
+    },
+    {
+      "period": "2026-10",
+      "views": 11096
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 34879
+      "views": 45975
     }
   ]
 }

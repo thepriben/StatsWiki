@@ -4,7 +4,7 @@
   "title": "New_York_Yankees",
   "description": "baseball team and Major League Baseball franchise in the Bronx, New York, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NewYorkYankees_caplogo.svg?width=64",
-  "total": 1585004,
+  "total": 1594542,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 8217
+    },
+    {
+      "period": "2026-10",
+      "views": 9538
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 8217
+      "views": 17755
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "John_Kennedy_(Louisiana_politician)",
   "description": "American politician; United States senator from Louisiana (born 1951)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Kennedy%2C_official_portrait%2C_115th_Congress.jpg?width=64",
-  "total": 1103306,
+  "total": 1111242,
   "monthly": [
     {
       "period": "2018-04",
@@ -101,6 +101,10 @@
     {
       "period": "2026-09",
       "views": 36178
+    },
+    {
+      "period": "2026-10",
+      "views": 7936
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 156601
+      "views": 164537
     }
   ]
 }

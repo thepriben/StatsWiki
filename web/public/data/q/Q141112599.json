@@ -4,7 +4,7 @@
   "title": "Killing_of_the_Clancy_children",
   "description": "2023 triple-filicide",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basement_Room_of_Lindsay_Clancy.png?width=64",
-  "total": 8776967,
+  "total": 8855279,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 7299647
+    },
+    {
+      "period": "2026-10",
+      "views": 78312
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8776967
+      "views": 8855279
     }
   ]
 }

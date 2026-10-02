@@ -4,7 +4,7 @@
   "title": "Alan_Cumming",
   "description": "British actor (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AlanCummingSept2013TIFF.jpg?width=64",
-  "total": 3278770,
+  "total": 3287595,
   "monthly": [
     {
       "period": "2016-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 255764
+    },
+    {
+      "period": "2026-10",
+      "views": 8825
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 1249538
+      "views": 1258363
     }
   ]
 }

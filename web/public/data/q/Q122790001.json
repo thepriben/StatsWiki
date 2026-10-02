@@ -4,7 +4,7 @@
   "title": "2022_Asian_Games_medal_table",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 826852,
+  "total": 839069,
   "monthly": [
     {
       "period": "2023-09",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 88517
+    },
+    {
+      "period": "2026-10",
+      "views": 12217
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 88517
+      "views": 100734
     }
   ]
 }

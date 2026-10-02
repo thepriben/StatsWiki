@@ -4,7 +4,7 @@
   "title": "The_Man_with_the_Bag_(film)",
   "description": "upcoming film directed by Adam Shankman",
   "image": "",
-  "total": 18132,
+  "total": 27881,
   "monthly": [
     {
       "period": "2024-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 8545
+    },
+    {
+      "period": "2026-10",
+      "views": 9749
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 8545
+      "views": 18294
     }
   ]
 }

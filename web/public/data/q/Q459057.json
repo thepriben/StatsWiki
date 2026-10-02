@@ -4,7 +4,7 @@
   "title": "Monster_(2003_film)",
   "description": "2003 film directed by Patty Jenkins",
   "image": "",
-  "total": 381965,
+  "total": 389842,
   "monthly": [
     {
       "period": "2015-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 126362
+    },
+    {
+      "period": "2026-10",
+      "views": 7877
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 136446
+      "views": 144323
     }
   ]
 }

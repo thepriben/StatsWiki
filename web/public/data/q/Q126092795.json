@@ -4,7 +4,7 @@
   "title": "VisionQuest",
   "description": "upcoming superhero television miniseries",
   "image": "",
-  "total": 191542,
+  "total": 210701,
   "monthly": [
     {
       "period": "2025-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 37902
+    },
+    {
+      "period": "2026-10",
+      "views": 19159
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 180447
+      "views": 199606
     }
   ]
 }

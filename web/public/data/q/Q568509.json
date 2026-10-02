@@ -4,7 +4,7 @@
   "title": "Theo_James",
   "description": "British actor and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Theo_James_Divergent_premiere.jpg?width=64",
-  "total": 7406582,
+  "total": 7422460,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 1256106
+    },
+    {
+      "period": "2026-10",
+      "views": 15878
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 1369774
+      "views": 1385652
     }
   ]
 }

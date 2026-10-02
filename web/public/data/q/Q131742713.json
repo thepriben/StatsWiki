@@ -4,17 +4,21 @@
   "title": "2026_British_Columbia_general_election",
   "description": "provincial election in Canada",
   "image": "",
-  "total": 64359,
+  "total": 72213,
   "monthly": [
     {
       "period": "2026-09",
       "views": 64359
+    },
+    {
+      "period": "2026-10",
+      "views": 7854
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 64359
+      "views": 72213
     }
   ]
 }

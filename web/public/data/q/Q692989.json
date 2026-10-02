@@ -4,7 +4,7 @@
   "title": "Roblox",
   "description": "multiplayer game creation platform",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roblox_Logo_2022.svg?width=64",
-  "total": 26456848,
+  "total": 26465242,
   "monthly": [
     {
       "period": "2018-10",
@@ -313,6 +313,10 @@
     {
       "period": "2026-09",
       "views": 547915
+    },
+    {
+      "period": "2026-10",
+      "views": 8394
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 6805219
+      "views": 6813613
     }
   ]
 }

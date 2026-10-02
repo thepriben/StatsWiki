@@ -4,17 +4,21 @@
   "title": "Stick_figure",
   "description": "simple drawing of a person or animal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simple_Stick_Figure.svg?width=64",
-  "total": 21738,
+  "total": 30242,
   "monthly": [
     {
       "period": "2026-09",
       "views": 21738
+    },
+    {
+      "period": "2026-10",
+      "views": 8504
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21738
+      "views": 30242
     }
   ]
 }

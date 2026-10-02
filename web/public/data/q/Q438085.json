@@ -4,7 +4,7 @@
   "title": "Jessica_Barden",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica_Barden_2018.png?width=64",
-  "total": 1261675,
+  "total": 1269346,
   "monthly": [
     {
       "period": "2018-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 301020
+    },
+    {
+      "period": "2026-10",
+      "views": 7671
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 301020
+      "views": 308691
     }
   ]
 }

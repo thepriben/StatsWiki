@@ -4,7 +4,7 @@
   "title": "Richard_Ramirez",
   "description": "American serial killer (1960–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Ramirez_1984_mug_shot.jpg?width=64",
-  "total": 13484331,
+  "total": 13492678,
   "monthly": [
     {
       "period": "2015-08",
@@ -309,6 +309,10 @@
     {
       "period": "2026-09",
       "views": 35001
+    },
+    {
+      "period": "2026-10",
+      "views": 8347
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 76029
+      "views": 84376
     }
   ]
 }

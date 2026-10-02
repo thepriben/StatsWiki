@@ -3,8 +3,8 @@
   "label": "Maya Jama",
   "title": "Maya_Jama",
   "description": "British television and radio presenter",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maya_Jama_-_2026.jpg?width=64",
-  "total": 1542976,
+  "image": "",
+  "total": 1607387,
   "monthly": [
     {
       "period": "2017-11",
@@ -153,6 +153,10 @@
     {
       "period": "2026-09",
       "views": 28701
+    },
+    {
+      "period": "2026-10",
+      "views": 64411
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 97327
+      "views": 161738
     }
   ]
 }

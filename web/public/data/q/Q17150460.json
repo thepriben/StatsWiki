@@ -4,7 +4,7 @@
   "title": "Winston_Marshall",
   "description": "English musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mumford_%26_Sons_04_%2819168835221%29.jpg?width=64",
-  "total": 359654,
+  "total": 369182,
   "monthly": [
     {
       "period": "2020-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 21618
+    },
+    {
+      "period": "2026-10",
+      "views": 9528
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 66330
+      "views": 75858
     }
   ]
 }

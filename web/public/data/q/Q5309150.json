@@ -4,17 +4,21 @@
   "title": "Drumcree_conflict",
   "description": "Drumcree Conflict (Portadown, Northern Ireland)",
   "image": "",
-  "total": 179673,
+  "total": 187773,
   "monthly": [
     {
       "period": "2026-09",
       "views": 179673
+    },
+    {
+      "period": "2026-10",
+      "views": 8100
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 179673
+      "views": 187773
     }
   ]
 }

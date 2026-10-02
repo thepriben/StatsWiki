@@ -4,7 +4,7 @@
   "title": "The_Paradise_(film)",
   "description": "2026 film by Srikanth Odela",
   "image": "",
-  "total": 1231706,
+  "total": 1291838,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 1210794
+    },
+    {
+      "period": "2026-10",
+      "views": 60132
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1231706
+      "views": 1291838
     }
   ]
 }

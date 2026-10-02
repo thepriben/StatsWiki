@@ -4,7 +4,7 @@
   "title": "Sandra_Bullock",
   "description": "American actress and film producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg?width=64",
-  "total": 27359558,
+  "total": 27368075,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-09",
       "views": 819674
+    },
+    {
+      "period": "2026-10",
+      "views": 8517
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 1991232
+      "views": 1999749
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Vicky_Krieps",
   "description": "Luxembourgian-German actress (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/VickyKrieps-byPhilipRomano.jpg?width=64",
-  "total": 768881,
+  "total": 782337,
   "monthly": [
     {
       "period": "2017-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 623740
+    },
+    {
+      "period": "2026-10",
+      "views": 13456
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 623740
+      "views": 637196
     }
   ]
 }

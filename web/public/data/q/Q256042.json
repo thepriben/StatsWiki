@@ -4,7 +4,7 @@
   "title": "Tamsin_Egerton",
   "description": "British actress",
   "image": "",
-  "total": 660377,
+  "total": 685285,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 38648
+    },
+    {
+      "period": "2026-10",
+      "views": 24908
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 38648
+      "views": 63556
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Xi_Jinping",
   "description": "General Secretary of the Chinese Communist Party since 2012 (born 1953)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg?width=64",
-  "total": 10284858,
+  "total": 10293573,
   "monthly": [
     {
       "period": "2015-08",
@@ -325,6 +325,10 @@
     {
       "period": "2026-09",
       "views": 409931
+    },
+    {
+      "period": "2026-10",
+      "views": 8715
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 1139977
+      "views": 1148692
     }
   ]
 }

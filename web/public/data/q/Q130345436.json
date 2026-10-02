@@ -4,7 +4,7 @@
   "title": "Street_Fighter_(2026_film)",
   "description": "upcoming film directed by Kitao Sakurai",
   "image": "",
-  "total": 1228487,
+  "total": 1239791,
   "monthly": [
     {
       "period": "2025-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 264975
+    },
+    {
+      "period": "2026-10",
+      "views": 11304
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 670192
+      "views": 681496
     }
   ]
 }

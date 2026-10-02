@@ -4,7 +4,7 @@
   "title": "Britt_Stewart",
   "description": "American dancer (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Britt_Stewart_at_Tribeca_Film_Festival_2026-1.jpg?width=64",
-  "total": 41267,
+  "total": 51247,
   "monthly": [
     {
       "period": "2025-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 29231
+    },
+    {
+      "period": "2026-10",
+      "views": 9980
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 29231
+      "views": 39211
     }
   ]
 }

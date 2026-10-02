@@ -4,7 +4,7 @@
   "title": "Asian_Games",
   "description": "Asian multi-sport event",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian_Games_logo.svg?width=64",
-  "total": 2707539,
+  "total": 2732499,
   "monthly": [
     {
       "period": "2018-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 330079
+    },
+    {
+      "period": "2026-10",
+      "views": 24960
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 330079
+      "views": 355039
     }
   ]
 }

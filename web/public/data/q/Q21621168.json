@@ -4,7 +4,7 @@
   "title": "Rúben_Dias",
   "description": "Portuguese footballer (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruben_Dias%2C_14_November_2024_%284%29.jpg?width=64",
-  "total": 319434,
+  "total": 327839,
   "monthly": [
     {
       "period": "2020-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 12193
+    },
+    {
+      "period": "2026-10",
+      "views": 8405
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 12193
+      "views": 20598
     }
   ]
 }

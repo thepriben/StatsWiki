@@ -4,17 +4,21 @@
   "title": "The_Drop:_A_Snowfall_Saga",
   "description": "American television series",
   "image": "",
-  "total": 25167,
+  "total": 33909,
   "monthly": [
     {
       "period": "2026-09",
       "views": 25167
+    },
+    {
+      "period": "2026-10",
+      "views": 8742
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 25167
+      "views": 33909
     }
   ]
 }

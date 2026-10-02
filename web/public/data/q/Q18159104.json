@@ -4,7 +4,7 @@
   "title": "Deshaun_Watson",
   "description": "American football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deshaun_Watson_2016.jpg?width=64",
-  "total": 3491666,
+  "total": 3504754,
   "monthly": [
     {
       "period": "2015-12",
@@ -189,6 +189,10 @@
     {
       "period": "2026-09",
       "views": 68953
+    },
+    {
+      "period": "2026-10",
+      "views": 13088
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 196091
+      "views": 209179
     }
   ]
 }

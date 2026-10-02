@@ -4,7 +4,7 @@
   "title": "Godzilla_Minus_Zero",
   "description": "upcoming film directed by Takashi Yamazaki",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GodzillaMinusZerologo.png?width=64",
-  "total": 263050,
+  "total": 271846,
   "monthly": [
     {
       "period": "2026-01",
@@ -21,12 +21,16 @@
     {
       "period": "2026-09",
       "views": 163977
+    },
+    {
+      "period": "2026-10",
+      "views": 8796
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 263050
+      "views": 271846
     }
   ]
 }

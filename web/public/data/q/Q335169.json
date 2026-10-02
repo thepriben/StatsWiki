@@ -1,0 +1,60 @@
+{
+  "qid": "Q335169",
+  "label": "Chicago White Sox",
+  "title": "Chicago_White_Sox",
+  "description": "baseball team and Major League Baseball franchise in Chicago, Illinois, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago_Americans_LCCN2014719456.jpg?width=64",
+  "total": 166148,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 38333
+    },
+    {
+      "period": "2016-11",
+      "views": 44479
+    },
+    {
+      "period": "2021-08",
+      "views": 12479
+    },
+    {
+      "period": "2021-10",
+      "views": 10866
+    },
+    {
+      "period": "2024-04",
+      "views": 19149
+    },
+    {
+      "period": "2025-05",
+      "views": 28936
+    },
+    {
+      "period": "2026-10",
+      "views": 11906
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 82812
+    },
+    {
+      "period": "2021",
+      "views": 23345
+    },
+    {
+      "period": "2024",
+      "views": 19149
+    },
+    {
+      "period": "2025",
+      "views": 28936
+    },
+    {
+      "period": "2026",
+      "views": 11906
+    }
+  ]
+}

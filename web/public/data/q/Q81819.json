@@ -4,7 +4,7 @@
   "title": "Monica_Bellucci",
   "description": "Italian actress and model (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monica_Bellucci_San_Sebasti%C3%A1n.jpg?width=64",
-  "total": 4093897,
+  "total": 4101459,
   "monthly": [
     {
       "period": "2015-07",
@@ -249,6 +249,10 @@
     {
       "period": "2026-09",
       "views": 8355
+    },
+    {
+      "period": "2026-10",
+      "views": 7562
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 63911
+      "views": 71473
     }
   ]
 }

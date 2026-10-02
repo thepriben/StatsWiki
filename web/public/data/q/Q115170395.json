@@ -4,7 +4,7 @@
   "title": "George_Santos",
   "description": "American politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rep._George_Santos_Official_Portrait.jpg?width=64",
-  "total": 7066149,
+  "total": 7074146,
   "monthly": [
     {
       "period": "2022-12",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 147472
+    },
+    {
+      "period": "2026-10",
+      "views": 7997
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 234913
+      "views": 242910
     }
   ]
 }

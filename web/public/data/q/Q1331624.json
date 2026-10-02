@@ -4,7 +4,7 @@
   "title": "Ranulph_Fiennes",
   "description": "British explorer (born 1944)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranulph_Fiennes_2014.jpg?width=64",
-  "total": 352438,
+  "total": 360825,
   "monthly": [
     {
       "period": "2016-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 283517
+    },
+    {
+      "period": "2026-10",
+      "views": 8387
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 283517
+      "views": 291904
     }
   ]
 }

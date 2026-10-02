@@ -4,7 +4,7 @@
   "title": "Damiano_David",
   "description": "Italian singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Damiano_David_interview_with_Musica_e_TV_2.0_in_2025.png?width=64",
-  "total": 1056276,
+  "total": 1063916,
   "monthly": [
     {
       "period": "2021-05",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 76464
+    },
+    {
+      "period": "2026-10",
+      "views": 7640
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 116372
+      "views": 124012
     }
   ]
 }

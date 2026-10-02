@@ -4,7 +4,7 @@
   "title": "Kaliningrad",
   "description": "Russian Baltic city between Poland and Lithuania",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_cathedral_of_Kaliningrad_in_Russia.jpg?width=64",
-  "total": 1278477,
+  "total": 1304055,
   "monthly": [
     {
       "period": "2016-10",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 19639
+    },
+    {
+      "period": "2026-10",
+      "views": 25578
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 19639
+      "views": 45217
     }
   ]
 }

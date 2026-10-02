@@ -4,7 +4,7 @@
   "title": "Bangladesh_national_football_team",
   "description": "men's national association football team representing Bangladesh",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Bangladesh_Football_Federation.svg?width=64",
-  "total": 93357,
+  "total": 103522,
   "monthly": [
     {
       "period": "2023-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 15943
+    },
+    {
+      "period": "2026-10",
+      "views": 10165
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 15943
+      "views": 26108
     }
   ]
 }

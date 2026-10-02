@@ -4,17 +4,21 @@
   "title": "Ebenezer:_A_Christmas_Carol",
   "description": "upcoming film directed by Ti West",
   "image": "",
-  "total": 295871,
+  "total": 312262,
   "monthly": [
     {
       "period": "2026-07",
       "views": 295871
+    },
+    {
+      "period": "2026-10",
+      "views": 16391
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 295871
+      "views": 312262
     }
   ]
 }

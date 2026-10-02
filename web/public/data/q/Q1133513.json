@@ -4,7 +4,7 @@
   "title": "Aroldis_Chapman",
   "description": "Cuban-born American baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aroldis_Chapman_on_June_4%2C_2016_%281%29.jpg?width=64",
-  "total": 1182019,
+  "total": 1190585,
   "monthly": [
     {
       "period": "2015-07",
@@ -89,6 +89,10 @@
     {
       "period": "2026-09",
       "views": 7378
+    },
+    {
+      "period": "2026-10",
+      "views": 8566
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 7378
+      "views": 15944
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Christopher_Reeve",
   "description": "American actor (1952–2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg?width=64",
-  "total": 9413672,
+  "total": 9421901,
   "monthly": [
     {
       "period": "2015-07",
@@ -365,6 +365,10 @@
     {
       "period": "2026-09",
       "views": 64297
+    },
+    {
+      "period": "2026-10",
+      "views": 8229
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 237870
+      "views": 246099
     }
   ]
 }

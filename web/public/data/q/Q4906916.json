@@ -4,7 +4,7 @@
   "title": "Biggest_ball_of_twine",
   "description": "title of multiple roadside attractions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Twineball.jpg?width=64",
-  "total": 15980035,
+  "total": 15988014,
   "monthly": [
     {
       "period": "2015-09",
@@ -177,6 +177,10 @@
     {
       "period": "2026-09",
       "views": 26375
+    },
+    {
+      "period": "2026-10",
+      "views": 7979
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 823256
+      "views": 831235
     }
   ]
 }

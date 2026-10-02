@@ -4,7 +4,7 @@
   "title": "Mahershala_Ali",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahershala_Ali_%2829953410761%29.jpg?width=64",
-  "total": 7168997,
+  "total": 7180295,
   "monthly": [
     {
       "period": "2015-10",
@@ -177,6 +177,10 @@
     {
       "period": "2026-09",
       "views": 58684
+    },
+    {
+      "period": "2026-10",
+      "views": 11298
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 160508
+      "views": 171806
     }
   ]
 }
