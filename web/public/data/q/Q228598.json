@@ -4,7 +4,7 @@
   "title": "Emma_Roberts",
   "description": "American actress, singer, model and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma_Robert_2016_Comic_Con.jpg?width=64",
-  "total": 15739863,
+  "total": 15748115,
   "monthly": [
     {
       "period": "2015-07",
@@ -441,6 +441,10 @@
     {
       "period": "2026-09",
       "views": 29133
+    },
+    {
+      "period": "2026-10",
+      "views": 8252
     }
   ],
   "yearly": [
@@ -490,7 +494,7 @@
     },
     {
       "period": "2026",
-      "views": 358438
+      "views": 366690
     }
   ]
 }

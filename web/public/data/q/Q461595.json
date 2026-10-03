@@ -1,0 +1,88 @@
+{
+  "qid": "Q461595",
+  "label": "Atlanta Braves",
+  "title": "Atlanta_Braves",
+  "description": "Major League Baseball team in Cumberland, Georgia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlanta_Braves_Insignia.svg?width=64",
+  "total": 847293,
+  "monthly": [
+    {
+      "period": "2017-02",
+      "views": 12205
+    },
+    {
+      "period": "2018-10",
+      "views": 14585
+    },
+    {
+      "period": "2019-10",
+      "views": 19301
+    },
+    {
+      "period": "2020-10",
+      "views": 96683
+    },
+    {
+      "period": "2021-01",
+      "views": 12720
+    },
+    {
+      "period": "2021-10",
+      "views": 346671
+    },
+    {
+      "period": "2021-11",
+      "views": 301626
+    },
+    {
+      "period": "2022-10",
+      "views": 11479
+    },
+    {
+      "period": "2023-10",
+      "views": 11787
+    },
+    {
+      "period": "2026-05",
+      "views": 11687
+    },
+    {
+      "period": "2026-10",
+      "views": 8549
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 12205
+    },
+    {
+      "period": "2018",
+      "views": 14585
+    },
+    {
+      "period": "2019",
+      "views": 19301
+    },
+    {
+      "period": "2020",
+      "views": 96683
+    },
+    {
+      "period": "2021",
+      "views": 661017
+    },
+    {
+      "period": "2022",
+      "views": 11479
+    },
+    {
+      "period": "2023",
+      "views": 11787
+    },
+    {
+      "period": "2026",
+      "views": 20236
+    }
+  ]
+}

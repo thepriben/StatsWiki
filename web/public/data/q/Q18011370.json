@@ -4,7 +4,7 @@
   "title": "India_at_the_2014_Asian_Games",
   "description": "sporting event delegation",
   "image": "",
-  "total": 455477,
+  "total": 471862,
   "monthly": [
     {
       "period": "2018-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 27663
+    },
+    {
+      "period": "2026-10",
+      "views": 16385
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 27663
+      "views": 44048
     }
   ]
 }

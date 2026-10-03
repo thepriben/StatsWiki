@@ -1,0 +1,40 @@
+{
+  "qid": "Q157188",
+  "label": "usury",
+  "title": "Usury",
+  "description": "loans with unfairly high interest rate",
+  "image": "",
+  "total": 176297,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 29030
+    },
+    {
+      "period": "2017-01",
+      "views": 92518
+    },
+    {
+      "period": "2026-01",
+      "views": 22971
+    },
+    {
+      "period": "2026-10",
+      "views": 31778
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 29030
+    },
+    {
+      "period": "2017",
+      "views": 92518
+    },
+    {
+      "period": "2026",
+      "views": 54749
+    }
+  ]
+}

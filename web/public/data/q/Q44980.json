@@ -4,7 +4,7 @@
   "title": "Alex_Ferguson",
   "description": "Scottish association football manager and player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alex_Ferguson.jpg?width=64",
-  "total": 2615633,
+  "total": 2630476,
   "monthly": [
     {
       "period": "2015-09",
@@ -189,6 +189,10 @@
     {
       "period": "2026-08",
       "views": 11306
+    },
+    {
+      "period": "2026-10",
+      "views": 14843
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 264639
+      "views": 279482
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Becky_Hammon",
   "description": "American-Russian basketball player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Becky_Hammon_in_2015.jpg?width=64",
-  "total": 721053,
+  "total": 732950,
   "monthly": [
     {
       "period": "2015-07",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 14902
+    },
+    {
+      "period": "2026-10",
+      "views": 11897
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 25217
+      "views": 37114
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rubber_Soul",
   "description": "1965 studio album by the Beatles",
   "image": "",
-  "total": 17272,
+  "total": 26520,
   "monthly": [
     {
       "period": "2015-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 7776
+    },
+    {
+      "period": "2026-10",
+      "views": 9248
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 7776
+      "views": 17024
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Bryce_Harper",
   "description": "American professional baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryce_Harper_%2832686597377%29_%28cropped%29.jpg?width=64",
-  "total": 2595488,
+  "total": 2608861,
   "monthly": [
     {
       "period": "2015-07",
@@ -145,6 +145,10 @@
     {
       "period": "2026-09",
       "views": 8017
+    },
+    {
+      "period": "2026-10",
+      "views": 13373
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 90532
+      "views": 103905
     }
   ]
 }

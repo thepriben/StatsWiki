@@ -4,7 +4,7 @@
   "title": "Corrosion",
   "description": "gradual destruction of materials by chemical reaction with their environment",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rust_Bolt.JPG?width=64",
-  "total": 464713,
+  "total": 523534,
   "monthly": [
     {
       "period": "2024-03",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 64595
+    },
+    {
+      "period": "2026-10",
+      "views": 58821
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 234607
+      "views": 293428
     }
   ]
 }

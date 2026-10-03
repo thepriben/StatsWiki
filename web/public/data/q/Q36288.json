@@ -1,0 +1,52 @@
+{
+  "qid": "Q36288",
+  "label": "Silk Road",
+  "title": "Silk_Road",
+  "description": "trade routes through Asia connecting China to the Mediterranean Sea",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Silk_road_Kazakhstan.svg?width=64",
+  "total": 105635,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 41515
+    },
+    {
+      "period": "2020-03",
+      "views": 10579
+    },
+    {
+      "period": "2021-08",
+      "views": 17844
+    },
+    {
+      "period": "2025-01",
+      "views": 19130
+    },
+    {
+      "period": "2026-10",
+      "views": 16567
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 41515
+    },
+    {
+      "period": "2020",
+      "views": 10579
+    },
+    {
+      "period": "2021",
+      "views": 17844
+    },
+    {
+      "period": "2025",
+      "views": 19130
+    },
+    {
+      "period": "2026",
+      "views": 16567
+    }
+  ]
+}

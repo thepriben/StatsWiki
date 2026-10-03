@@ -4,7 +4,7 @@
   "title": "Drinking_the_Kool-Aid",
   "description": "expression",
   "image": "",
-  "total": 231969,
+  "total": 241340,
   "monthly": [
     {
       "period": "2016-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 13500
+    },
+    {
+      "period": "2026-10",
+      "views": 9371
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 38484
+      "views": 47855
     }
   ]
 }

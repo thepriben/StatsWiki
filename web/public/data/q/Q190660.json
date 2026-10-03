@@ -4,7 +4,7 @@
   "title": "Anti-lock_braking_system",
   "description": "safety anti-skid braking system",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Absbrakes.jpg?width=64",
-  "total": 509206,
+  "total": 599391,
   "monthly": [
     {
       "period": "2024-03",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 105659
+    },
+    {
+      "period": "2026-10",
+      "views": 90185
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 356415
+      "views": 446600
     }
   ]
 }

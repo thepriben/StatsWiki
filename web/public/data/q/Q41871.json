@@ -4,7 +4,7 @@
   "title": "Paul_Newman",
   "description": "American actor (1925–2008)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Newman_-_1958.jpg?width=64",
-  "total": 5809954,
+  "total": 5817844,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-09",
       "views": 37369
+    },
+    {
+      "period": "2026-10",
+      "views": 7890
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 155670
+      "views": 163560
     }
   ]
 }

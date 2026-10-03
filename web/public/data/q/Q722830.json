@@ -4,7 +4,7 @@
   "title": "Oliver_Hudson",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver_Hudson_2010.jpg?width=64",
-  "total": 2484337,
+  "total": 2504058,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-09",
       "views": 36768
+    },
+    {
+      "period": "2026-10",
+      "views": 19721
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 162828
+      "views": 182549
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Premalu",
   "description": "2024 Indian film",
   "image": "",
-  "total": 2445962,
+  "total": 2455399,
   "monthly": [
     {
       "period": "2024-02",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 9447
+    },
+    {
+      "period": "2026-10",
+      "views": 9437
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 42886
+      "views": 52323
     }
   ]
 }

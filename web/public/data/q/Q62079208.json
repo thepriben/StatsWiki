@@ -2,9 +2,9 @@
   "qid": "Q62079208",
   "label": "Gypsy Rose Blanchard",
   "title": "Gypsy-Rose_Blanchard",
-  "description": "American internet personality",
+  "description": "American internet personality (born 1991)",
   "image": "",
-  "total": 4820982,
+  "total": 5287571,
   "monthly": [
     {
       "period": "2024-01",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 252833
+    },
+    {
+      "period": "2026-10",
+      "views": 466589
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 378170
+      "views": 844759
     }
   ]
 }

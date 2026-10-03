@@ -4,7 +4,7 @@
   "title": "Sombr",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sombr%2C_Islington_Academy%2C_London.jpg?width=64",
-  "total": 1223906,
+  "total": 1231892,
   "monthly": [
     {
       "period": "2025-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-09",
       "views": 181429
+    },
+    {
+      "period": "2026-10",
+      "views": 7986
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 694462
+      "views": 702448
     }
   ]
 }

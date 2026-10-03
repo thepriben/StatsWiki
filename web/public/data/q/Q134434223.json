@@ -4,7 +4,7 @@
   "title": "Teenage_Sex_and_Death_at_Camp_Miasma",
   "description": "2026 film directed by Jane Schoenbrun",
   "image": "",
-  "total": 1003556,
+  "total": 1012212,
   "monthly": [
     {
       "period": "2026-05",
@@ -21,12 +21,16 @@
     {
       "period": "2026-09",
       "views": 311995
+    },
+    {
+      "period": "2026-10",
+      "views": 8656
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1003556
+      "views": 1012212
     }
   ]
 }

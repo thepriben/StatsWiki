@@ -4,7 +4,7 @@
   "title": "Zawe_Ashton",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zawe_Ashton_2013.jpg?width=64",
-  "total": 1827380,
+  "total": 1840007,
   "monthly": [
     {
       "period": "2019-02",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 17680
+    },
+    {
+      "period": "2026-10",
+      "views": 12627
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 595380
+      "views": 608007
     }
   ]
 }

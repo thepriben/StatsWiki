@@ -4,7 +4,7 @@
   "title": "T._J._Watt",
   "description": "American football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TJ_Watt.jpg?width=64",
-  "total": 2260031,
+  "total": 2277823,
   "monthly": [
     {
       "period": "2016-12",
@@ -201,6 +201,10 @@
     {
       "period": "2026-09",
       "views": 14071
+    },
+    {
+      "period": "2026-10",
+      "views": 17792
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 69552
+      "views": 87344
     }
   ]
 }

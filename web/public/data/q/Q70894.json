@@ -4,7 +4,7 @@
   "title": "Nick_Saban",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Saban_in_2009_%28cropped%29.jpg?width=64",
-  "total": 9332640,
+  "total": 9343379,
   "monthly": [
     {
       "period": "2015-09",
@@ -257,6 +257,10 @@
     {
       "period": "2026-09",
       "views": 75711
+    },
+    {
+      "period": "2026-10",
+      "views": 10739
     }
   ],
   "yearly": [
@@ -306,7 +310,7 @@
     },
     {
       "period": "2026",
-      "views": 204914
+      "views": 215653
     }
   ]
 }

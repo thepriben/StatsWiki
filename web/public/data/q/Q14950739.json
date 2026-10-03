@@ -4,7 +4,7 @@
   "title": "Todd_Monken",
   "description": "American football coach (born 1966)",
   "image": "",
-  "total": 506153,
+  "total": 571727,
   "monthly": [
     {
       "period": "2019-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 9165
+    },
+    {
+      "period": "2026-10",
+      "views": 65574
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 373499
+      "views": 439073
     }
   ]
 }

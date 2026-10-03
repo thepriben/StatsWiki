@@ -4,7 +4,7 @@
   "title": "Michael_J._Fox",
   "description": "Canadian-American actor, comedian, author, film producer, and activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_J_Fox_2020.jpg?width=64",
-  "total": 16581850,
+  "total": 16593382,
   "monthly": [
     {
       "period": "2015-07",
@@ -485,6 +485,10 @@
     {
       "period": "2026-09",
       "views": 408691
+    },
+    {
+      "period": "2026-10",
+      "views": 11532
     }
   ],
   "yearly": [
@@ -534,7 +538,7 @@
     },
     {
       "period": "2026",
-      "views": 1162081
+      "views": 1173613
     }
   ]
 }

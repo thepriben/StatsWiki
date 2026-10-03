@@ -4,7 +4,7 @@
   "title": "Gabby_Windey",
   "description": "American television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GabbyWindey2022.png?width=64",
-  "total": 433650,
+  "total": 442359,
   "monthly": [
     {
       "period": "2022-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 19662
+    },
+    {
+      "period": "2026-10",
+      "views": 8709
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 127258
+      "views": 135967
     }
   ]
 }

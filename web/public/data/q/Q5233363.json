@@ -4,7 +4,7 @@
   "title": "David_Ellison",
   "description": "American film producer (born 1983)",
   "image": "",
-  "total": 800204,
+  "total": 815370,
   "monthly": [
     {
       "period": "2024-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 17009
+    },
+    {
+      "period": "2026-10",
+      "views": 15166
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 185109
+      "views": 200275
     }
   ]
 }

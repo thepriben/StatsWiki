@@ -4,7 +4,7 @@
   "title": "Jack_Hughes",
   "description": "American ice hockey player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Hughes.png?width=64",
-  "total": 2033220,
+  "total": 2041372,
   "monthly": [
     {
       "period": "2025-02",
@@ -21,6 +21,10 @@
     {
       "period": "2026-03",
       "views": 107145
+    },
+    {
+      "period": "2026-10",
+      "views": 8152
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 1979491
+      "views": 1987643
     }
   ]
 }

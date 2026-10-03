@@ -4,17 +4,21 @@
   "title": "Sepang_International_Circuit",
   "description": "motorsport track in Malaysia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sepang_tribune.jpg?width=64",
-  "total": 32262,
+  "total": 43826,
   "monthly": [
     {
       "period": "2026-07",
       "views": 32262
+    },
+    {
+      "period": "2026-10",
+      "views": 11564
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 32262
+      "views": 43826
     }
   ]
 }

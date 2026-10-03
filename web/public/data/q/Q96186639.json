@@ -4,7 +4,7 @@
   "title": "Amelia_Dimoldenberg",
   "description": "English journalist and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amelia_Dimoldenberg_%28cropped_3%29.jpg?width=64",
-  "total": 3223043,
+  "total": 3231047,
   "monthly": [
     {
       "period": "2023-01",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 177506
+    },
+    {
+      "period": "2026-10",
+      "views": 8004
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 2966163
+      "views": 2974167
     }
   ]
 }

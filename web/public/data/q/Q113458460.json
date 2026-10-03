@@ -4,7 +4,7 @@
   "title": "Jared_Verse",
   "description": "American football player (born 2000)",
   "image": "",
-  "total": 429396,
+  "total": 439630,
   "monthly": [
     {
       "period": "2025-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 266471
+    },
+    {
+      "period": "2026-10",
+      "views": 10234
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 266471
+      "views": 276705
     }
   ]
 }

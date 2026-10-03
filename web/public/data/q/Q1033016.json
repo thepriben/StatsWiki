@@ -4,7 +4,7 @@
   "title": "Halle_Berry",
   "description": "American actress (born 1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halle_Berry_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 7407353,
+  "total": 7447366,
   "monthly": [
     {
       "period": "2015-07",
@@ -333,6 +333,10 @@
     {
       "period": "2026-09",
       "views": 26485
+    },
+    {
+      "period": "2026-10",
+      "views": 40013
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 576942
+      "views": 616955
     }
   ]
 }

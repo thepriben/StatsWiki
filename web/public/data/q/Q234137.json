@@ -4,7 +4,7 @@
   "title": "Megan_Mullally",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Megan_Mullally_by_Gage_Skidmore.jpg?width=64",
-  "total": 1291013,
+  "total": 1299236,
   "monthly": [
     {
       "period": "2015-08",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 29903
+    },
+    {
+      "period": "2026-10",
+      "views": 8223
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 29903
+      "views": 38126
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "qid": "Q30325337",
   "label": "murder of Dee Dee Blanchard",
-  "title": "Murder_of_Dee_Dee_Blanchard",
+  "title": "Dee_Dee_Blanchard",
   "description": "murder in Springfield, Missouri in 2015",
   "image": "",
-  "total": 16078157,
+  "total": 16139784,
   "monthly": [
     {
       "period": "2018-07",
@@ -161,6 +161,10 @@
     {
       "period": "2025-01",
       "views": 10945
+    },
+    {
+      "period": "2026-10",
+      "views": 61627
     }
   ],
   "yearly": [
@@ -191,6 +195,10 @@
     {
       "period": "2025",
       "views": 10945
+    },
+    {
+      "period": "2026",
+      "views": 61627
     }
   ]
 }

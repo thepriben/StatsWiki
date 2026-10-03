@@ -4,7 +4,7 @@
   "title": "Princess_Margaret,_Countess_of_Snowdon",
   "description": "British princess (1930–2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?width=64",
-  "total": 67614121,
+  "total": 67628788,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-02",
       "views": 18997
+    },
+    {
+      "period": "2026-10",
+      "views": 14667
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 18997
+      "views": 33664
     }
   ]
 }

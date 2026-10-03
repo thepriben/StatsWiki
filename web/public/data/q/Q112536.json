@@ -4,7 +4,7 @@
   "title": "Joey_King",
   "description": "American actress (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joey_King_on_KidsPickFlicks.jpg?width=64",
-  "total": 8932097,
+  "total": 8940712,
   "monthly": [
     {
       "period": "2016-10",
@@ -217,6 +217,10 @@
     {
       "period": "2026-09",
       "views": 309295
+    },
+    {
+      "period": "2026-10",
+      "views": 8615
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 393370
+      "views": 401985
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Luigi_Mangione",
   "description": "American who killed Brian Thompson",
   "image": "",
-  "total": 4457461,
+  "total": 4474826,
   "monthly": [
     {
       "period": "2024-12",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 280743
+    },
+    {
+      "period": "2026-10",
+      "views": 17365
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 587272
+      "views": 604637
     }
   ]
 }

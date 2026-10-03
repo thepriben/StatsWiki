@@ -4,7 +4,7 @@
   "title": "Amelia_Earhart",
   "description": "American aviation pioneer and author (1897–1939)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amelia_Earhart_1928_%28cropped%29.jpg?width=64",
-  "total": 3150162,
+  "total": 3158742,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-07",
       "views": 9941
+    },
+    {
+      "period": "2026-10",
+      "views": 8580
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 72756
+      "views": 81336
     }
   ]
 }

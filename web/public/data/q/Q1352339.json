@@ -4,7 +4,7 @@
   "title": "Danny_Rolling",
   "description": "American murderer (1954–2006)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danny_Rolling.jpg?width=64",
-  "total": 195270,
+  "total": 208756,
   "monthly": [
     {
       "period": "2019-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 41417
+    },
+    {
+      "period": "2026-10",
+      "views": 13486
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 54826
+      "views": 68312
     }
   ]
 }

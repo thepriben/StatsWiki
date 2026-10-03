@@ -4,7 +4,7 @@
   "title": "Sophie_Cunningham",
   "description": "American basketball player born 1996",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie_Cunningham_Fever_%28cropped%29.jpg?width=64",
-  "total": 2341991,
+  "total": 2351304,
   "monthly": [
     {
       "period": "2026-04",
@@ -29,12 +29,16 @@
     {
       "period": "2026-09",
       "views": 94902
+    },
+    {
+      "period": "2026-10",
+      "views": 9313
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2341991
+      "views": 2351304
     }
   ]
 }

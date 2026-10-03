@@ -4,7 +4,7 @@
   "title": "Kirk_Herbstreit",
   "description": "American football player and analyst",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-0106-Kirk_Herbstreit.jpg?width=64",
-  "total": 1785964,
+  "total": 1796152,
   "monthly": [
     {
       "period": "2015-09",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 41695
+    },
+    {
+      "period": "2026-10",
+      "views": 10188
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 105391
+      "views": 115579
     }
   ]
 }

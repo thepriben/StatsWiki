@@ -4,7 +4,7 @@
   "title": "John_Kruk",
   "description": "American baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Kruk_1992.jpg?width=64",
-  "total": 23643,
+  "total": 31828,
   "monthly": [
     {
       "period": "2022-10",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 10045
+    },
+    {
+      "period": "2026-10",
+      "views": 8185
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10045
+      "views": 18230
     }
   ]
 }
