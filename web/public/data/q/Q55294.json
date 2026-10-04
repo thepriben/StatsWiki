@@ -4,7 +4,7 @@
   "title": "Kenneth_Branagh",
   "description": "British actor and filmmaker (born 1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenneth_Branagh_at_diff_2015.jpg?width=64",
-  "total": 6487509,
+  "total": 6495981,
   "monthly": [
     {
       "period": "2015-10",
@@ -273,6 +273,10 @@
     {
       "period": "2026-09",
       "views": 363360
+    },
+    {
+      "period": "2026-10",
+      "views": 8472
     }
   ],
   "yearly": [
@@ -322,7 +326,7 @@
     },
     {
       "period": "2026",
-      "views": 673532
+      "views": 682004
     }
   ]
 }

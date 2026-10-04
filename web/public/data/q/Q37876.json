@@ -4,7 +4,7 @@
   "title": "Natalie_Portman",
   "description": "Israeli-American actress (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NataliePortman.jpg?width=64",
-  "total": 33690800,
+  "total": 33699294,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-09",
       "views": 278473
+    },
+    {
+      "period": "2026-10",
+      "views": 8494
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1401491
+      "views": 1409985
     }
   ]
 }

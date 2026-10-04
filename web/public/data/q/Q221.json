@@ -4,7 +4,7 @@
   "title": "North_Macedonia",
   "description": "country in southeastern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_the_Republic_of_Macedonia-mk.svg?width=64",
-  "total": 2429865,
+  "total": 2452322,
   "monthly": [
     {
       "period": "2019-02",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 9101
+    },
+    {
+      "period": "2026-10",
+      "views": 22457
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 28528
+      "views": 50985
     }
   ]
 }

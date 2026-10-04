@@ -4,7 +4,7 @@
   "title": "Croatia",
   "description": "country in Central Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik_june_2011..JPG?width=64",
-  "total": 8688923,
+  "total": 8698604,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-07",
       "views": 113813
+    },
+    {
+      "period": "2026-10",
+      "views": 9681
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 384154
+      "views": 393835
     }
   ]
 }

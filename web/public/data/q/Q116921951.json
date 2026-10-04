@@ -4,7 +4,7 @@
   "title": "Supergirl_(2026_film)",
   "description": "2026 film directed by Craig Gillespie",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Supergirl_2026_logo.svg?width=64",
-  "total": 5432845,
+  "total": 5441416,
   "monthly": [
     {
       "period": "2025-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 324239
+    },
+    {
+      "period": "2026-10",
+      "views": 8571
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 4276387
+      "views": 4284958
     }
   ]
 }

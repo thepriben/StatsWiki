@@ -4,7 +4,7 @@
   "title": "Jacob_Rees-Mogg",
   "description": "British politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Mr_Jacob_Rees-Mogg_crop_2.jpg?width=64",
-  "total": 2676062,
+  "total": 2691197,
   "monthly": [
     {
       "period": "2015-11",
@@ -161,6 +161,10 @@
     {
       "period": "2026-09",
       "views": 8109
+    },
+    {
+      "period": "2026-10",
+      "views": 15135
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 8109
+      "views": 23244
     }
   ]
 }

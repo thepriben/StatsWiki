@@ -4,7 +4,7 @@
   "title": "Jaime_Winstone",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaime_Winstone_cropped_to_neck.jpg?width=64",
-  "total": 444928,
+  "total": 494721,
   "monthly": [
     {
       "period": "2017-05",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 214885
+    },
+    {
+      "period": "2026-10",
+      "views": 49793
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 227456
+      "views": 277249
     }
   ]
 }

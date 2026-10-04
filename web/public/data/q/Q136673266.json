@@ -4,17 +4,21 @@
   "title": "Kamario_Taylor",
   "description": "American football player (born 2007)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026-0912_Kamario_Taylor.jpeg?width=64",
-  "total": 32898,
+  "total": 47016,
   "monthly": [
     {
       "period": "2026-09",
       "views": 32898
+    },
+    {
+      "period": "2026-10",
+      "views": 14118
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 32898
+      "views": 47016
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Liza_Minnelli",
   "description": "American actress and singer (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liza_Minnelli.jpg?width=64",
-  "total": 9998897,
+  "total": 10009202,
   "monthly": [
     {
       "period": "2015-09",
@@ -421,6 +421,10 @@
     {
       "period": "2026-08",
       "views": 8428
+    },
+    {
+      "period": "2026-10",
+      "views": 10305
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 539029
+      "views": 549334
     }
   ]
 }

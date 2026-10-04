@@ -4,7 +4,7 @@
   "title": "Wang_Cong",
   "description": "Chinese boxer",
   "image": "",
-  "total": 23550,
+  "total": 40620,
   "monthly": [
     {
       "period": "2025-02",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 10805
+    },
+    {
+      "period": "2026-10",
+      "views": 17070
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10805
+      "views": 27875
     }
   ]
 }

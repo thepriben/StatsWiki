@@ -1,0 +1,68 @@
+{
+  "qid": "Q309350",
+  "label": "Northwestern University",
+  "title": "Northwestern_University",
+  "description": "private university in Evanston, Illinois, U.S.",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Northwestern_Arch.jpg?width=64",
+  "total": 256417,
+  "monthly": [
+    {
+      "period": "2017-03",
+      "views": 30102
+    },
+    {
+      "period": "2017-11",
+      "views": 47692
+    },
+    {
+      "period": "2018-05",
+      "views": 86446
+    },
+    {
+      "period": "2018-09",
+      "views": 10614
+    },
+    {
+      "period": "2018-11",
+      "views": 10339
+    },
+    {
+      "period": "2018-12",
+      "views": 34472
+    },
+    {
+      "period": "2020-12",
+      "views": 11666
+    },
+    {
+      "period": "2022-11",
+      "views": 10381
+    },
+    {
+      "period": "2026-10",
+      "views": 14705
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 77794
+    },
+    {
+      "period": "2018",
+      "views": 141871
+    },
+    {
+      "period": "2020",
+      "views": 11666
+    },
+    {
+      "period": "2022",
+      "views": 10381
+    },
+    {
+      "period": "2026",
+      "views": 14705
+    }
+  ]
+}

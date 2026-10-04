@@ -1,0 +1,28 @@
+{
+  "qid": "Q1520122",
+  "label": "Getty Images",
+  "title": "Getty_Images",
+  "description": "American visual media company",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Getty_Images_Gallery_-_geograph.org.uk_-_1266810.jpg?width=64",
+  "total": 44392,
+  "monthly": [
+    {
+      "period": "2018-04",
+      "views": 35068
+    },
+    {
+      "period": "2026-10",
+      "views": 9324
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 35068
+    },
+    {
+      "period": "2026",
+      "views": 9324
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "qid": "Q193695",
+  "label": "The Wizard of Oz",
+  "title": "The_Wizard_of_Oz",
+  "description": "1939 movie based on the book by L. Frank Baum",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WIZARD_OF_OZ_ORIGINAL_POSTER_1939.jpg?width=64",
+  "total": 2257566,
+  "monthly": [
+    {
+      "period": "2024-05",
+      "views": 23989
+    },
+    {
+      "period": "2024-11",
+      "views": 699875
+    },
+    {
+      "period": "2024-12",
+      "views": 623434
+    },
+    {
+      "period": "2025-01",
+      "views": 221454
+    },
+    {
+      "period": "2025-03",
+      "views": 11426
+    },
+    {
+      "period": "2025-09",
+      "views": 30429
+    },
+    {
+      "period": "2025-11",
+      "views": 446862
+    },
+    {
+      "period": "2025-12",
+      "views": 174385
+    },
+    {
+      "period": "2026-01",
+      "views": 13266
+    },
+    {
+      "period": "2026-10",
+      "views": 12446
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 1347298
+    },
+    {
+      "period": "2025",
+      "views": 884556
+    },
+    {
+      "period": "2026",
+      "views": 25712
+    }
+  ]
+}

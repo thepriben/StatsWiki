@@ -4,7 +4,7 @@
   "title": "The_Weeknd",
   "description": "Canadian singer and songwriter (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Weeknd_Portrait_by_Brian_Ziff.jpg?width=64",
-  "total": 28910242,
+  "total": 28918649,
   "monthly": [
     {
       "period": "2015-07",
@@ -409,6 +409,10 @@
     {
       "period": "2026-08",
       "views": 36442
+    },
+    {
+      "period": "2026-10",
+      "views": 8407
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 63069
+      "views": 71476
     }
   ]
 }

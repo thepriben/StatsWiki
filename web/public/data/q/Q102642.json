@@ -4,7 +4,7 @@
   "title": "Diane_Keaton",
   "description": "American actress and film director (1946–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diane_Keaton_by_Firooz_Zahedi_2.jpg?width=64",
-  "total": 12545710,
+  "total": 12554333,
   "monthly": [
     {
       "period": "2015-08",
@@ -241,6 +241,10 @@
     {
       "period": "2026-09",
       "views": 61725
+    },
+    {
+      "period": "2026-10",
+      "views": 8623
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 789698
+      "views": 798321
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Bukayo_Saka",
   "description": "English footballer (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bukayo_Saka_England_v_Ghana_23_June_2026-057_%28cropped%29.jpg?width=64",
-  "total": 4901677,
+  "total": 4914542,
   "monthly": [
     {
       "period": "2018-12",
@@ -197,6 +197,10 @@
     {
       "period": "2026-09",
       "views": 7750
+    },
+    {
+      "period": "2026-10",
+      "views": 12865
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 941627
+      "views": 954492
     }
   ]
 }

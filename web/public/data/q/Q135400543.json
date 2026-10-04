@@ -4,17 +4,21 @@
   "title": "Chris_Appleton",
   "description": "Hair stylist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Appleton_at_WWD_Style_Awards_2026-2187.jpg?width=64",
-  "total": 141644,
+  "total": 168336,
   "monthly": [
     {
       "period": "2026-09",
       "views": 141644
+    },
+    {
+      "period": "2026-10",
+      "views": 26692
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 141644
+      "views": 168336
     }
   ]
 }

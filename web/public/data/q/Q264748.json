@@ -4,7 +4,7 @@
   "title": "Selma_Blair",
   "description": "American actress (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Selma_Blair_%286541171199%29.jpg?width=64",
-  "total": 3486272,
+  "total": 3494932,
   "monthly": [
     {
       "period": "2016-02",
@@ -161,6 +161,10 @@
     {
       "period": "2026-08",
       "views": 15619
+    },
+    {
+      "period": "2026-10",
+      "views": 8660
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 34947
+      "views": 43607
     }
   ]
 }

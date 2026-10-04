@@ -4,7 +4,7 @@
   "title": "Slaven_Bilić",
   "description": "Croatian football manager and former player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Slaven_Bili%C4%87.jpg?width=64",
-  "total": 346590,
+  "total": 377453,
   "monthly": [
     {
       "period": "2015-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 13719
+    },
+    {
+      "period": "2026-10",
+      "views": 30863
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 13719
+      "views": 44582
     }
   ]
 }

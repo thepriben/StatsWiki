@@ -4,7 +4,7 @@
   "title": "Alex_Scott_(footballer,_born_2003)",
   "description": "English association football player (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alex_Scott_Interview_2023.jpg?width=64",
-  "total": 243215,
+  "total": 265080,
   "monthly": [
     {
       "period": "2023-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 46887
+    },
+    {
+      "period": "2026-10",
+      "views": 21865
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 146147
+      "views": 168012
     }
   ]
 }

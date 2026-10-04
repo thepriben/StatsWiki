@@ -4,7 +4,7 @@
   "title": "Cricket_at_the_Asian_Games",
   "description": "",
   "image": "",
-  "total": 177308,
+  "total": 188224,
   "monthly": [
     {
       "period": "2023-07",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 7659
+    },
+    {
+      "period": "2026-10",
+      "views": 10916
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 7659
+      "views": 18575
     }
   ]
 }

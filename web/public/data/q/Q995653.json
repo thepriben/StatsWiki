@@ -4,7 +4,7 @@
   "title": "2024_Summer_Olympics",
   "description": "games of the XXXIII Olympiad, in Paris, France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024_Summer_Olympics_text_logo.svg?width=64",
-  "total": 19414222,
+  "total": 19424801,
   "monthly": [
     {
       "period": "2015-07",
@@ -141,6 +141,10 @@
     {
       "period": "2026-02",
       "views": 263059
+    },
+    {
+      "period": "2026-10",
+      "views": 10579
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 263059
+      "views": 273638
     }
   ]
 }

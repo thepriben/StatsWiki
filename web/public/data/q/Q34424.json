@@ -4,7 +4,7 @@
   "title": "Shakira",
   "description": "Colombian singer, songwriter, and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2901.jpg?width=64",
-  "total": 26558178,
+  "total": 26569584,
   "monthly": [
     {
       "period": "2015-07",
@@ -445,6 +445,10 @@
     {
       "period": "2026-09",
       "views": 32154
+    },
+    {
+      "period": "2026-10",
+      "views": 11406
     }
   ],
   "yearly": [
@@ -494,7 +498,7 @@
     },
     {
       "period": "2026",
-      "views": 4422267
+      "views": 4433673
     }
   ]
 }

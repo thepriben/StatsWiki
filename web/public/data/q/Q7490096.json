@@ -4,7 +4,7 @@
   "title": "Sharon_Horgan",
   "description": "Irish actress, writer and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharon_Horgan_2018.png?width=64",
-  "total": 390558,
+  "total": 399784,
   "monthly": [
     {
       "period": "2016-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 215386
+    },
+    {
+      "period": "2026-10",
+      "views": 9226
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 215386
+      "views": 224612
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Football_at_the_2026_Asian_Games_–_Men's_tournament",
   "description": "international football competition",
   "image": "",
-  "total": 97808,
+  "total": 110102,
   "monthly": [
     {
       "period": "2026-09",
       "views": 97808
+    },
+    {
+      "period": "2026-10",
+      "views": 12294
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 97808
+      "views": 110102
     }
   ]
 }

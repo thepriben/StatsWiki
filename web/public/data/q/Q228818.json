@@ -4,7 +4,7 @@
   "title": "Delta_Goodrem",
   "description": "Australian singer, songwriter, musician and actress (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delta_Goodrem_in_Concert_Cropped.jpg?width=64",
-  "total": 1331670,
+  "total": 1373646,
   "monthly": [
     {
       "period": "2015-07",
@@ -117,6 +117,10 @@
     {
       "period": "2026-09",
       "views": 233657
+    },
+    {
+      "period": "2026-10",
+      "views": 41976
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 818947
+      "views": 860923
     }
   ]
 }

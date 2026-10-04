@@ -4,7 +4,7 @@
   "title": "Mission:_Impossible_–_The_Final_Reckoning",
   "description": "2025 film directed by Christopher McQuarrie",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mission_Impossible_The_Final_Reckoning_Logo.png?width=64",
-  "total": 8053913,
+  "total": 8062621,
   "monthly": [
     {
       "period": "2024-11",
@@ -53,6 +53,10 @@
     {
       "period": "2026-04",
       "views": 11481
+    },
+    {
+      "period": "2026-10",
+      "views": 8708
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 82635
+      "views": 91343
     }
   ]
 }

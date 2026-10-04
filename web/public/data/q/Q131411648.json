@@ -3,8 +3,8 @@
   "label": "Luigi Mangione",
   "title": "Luigi_Mangione",
   "description": "American who killed Brian Thompson",
-  "image": "",
-  "total": 4474826,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Merged_CCTV_of_suspect_in_Thompson%27s_murder_%28no_watermark_or_cursor%29.jpg?width=64",
+  "total": 4512083,
   "monthly": [
     {
       "period": "2024-12",
@@ -84,7 +84,7 @@
     },
     {
       "period": "2026-10",
-      "views": 17365
+      "views": 54622
     }
   ],
   "yearly": [
@@ -98,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 604637
+      "views": 641894
     }
   ]
 }

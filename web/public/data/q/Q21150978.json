@@ -1,0 +1,68 @@
+{
+  "qid": "Q21150978",
+  "label": "Cricbuzz",
+  "title": "Cricbuzz",
+  "description": "Sports news website for cricket",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cricbuzz_Logo.png?width=64",
+  "total": 345167,
+  "monthly": [
+    {
+      "period": "2022-11",
+      "views": 10008
+    },
+    {
+      "period": "2023-09",
+      "views": 21224
+    },
+    {
+      "period": "2025-03",
+      "views": 11675
+    },
+    {
+      "period": "2025-05",
+      "views": 92720
+    },
+    {
+      "period": "2025-06",
+      "views": 11334
+    },
+    {
+      "period": "2025-07",
+      "views": 33719
+    },
+    {
+      "period": "2025-08",
+      "views": 30506
+    },
+    {
+      "period": "2025-09",
+      "views": 74021
+    },
+    {
+      "period": "2025-10",
+      "views": 50099
+    },
+    {
+      "period": "2026-10",
+      "views": 9861
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 10008
+    },
+    {
+      "period": "2023",
+      "views": 21224
+    },
+    {
+      "period": "2025",
+      "views": 304074
+    },
+    {
+      "period": "2026",
+      "views": 9861
+    }
+  ]
+}

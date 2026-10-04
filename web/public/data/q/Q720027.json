@@ -4,7 +4,7 @@
   "title": "Bill_Belichick",
   "description": "American football coach (born 1952)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo_of_the_Day-_4-20_%2834163554775%29_%28cropped%29.jpg?width=64",
-  "total": 11464103,
+  "total": 11478940,
   "monthly": [
     {
       "period": "2015-09",
@@ -321,6 +321,10 @@
     {
       "period": "2026-09",
       "views": 54500
+    },
+    {
+      "period": "2026-10",
+      "views": 14837
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 473294
+      "views": 488131
     }
   ]
 }

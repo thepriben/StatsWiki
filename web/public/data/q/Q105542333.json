@@ -4,7 +4,7 @@
   "title": "Teddy_Swims",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Swims_Warner_Records.jpg?width=64",
-  "total": 3265190,
+  "total": 3273860,
   "monthly": [
     {
       "period": "2022-08",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 24174
+    },
+    {
+      "period": "2026-10",
+      "views": 8670
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 122165
+      "views": 130835
     }
   ]
 }

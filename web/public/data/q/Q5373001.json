@@ -4,7 +4,7 @@
   "title": "Emma_Willis",
   "description": "English television presenter and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma_Willis_in_2014.jpg?width=64",
-  "total": 847307,
+  "total": 857838,
   "monthly": [
     {
       "period": "2015-08",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 84215
+    },
+    {
+      "period": "2026-10",
+      "views": 10531
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 137380
+      "views": 147911
     }
   ]
 }

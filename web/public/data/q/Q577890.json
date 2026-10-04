@@ -1,0 +1,52 @@
+{
+  "qid": "Q577890",
+  "label": "Alexamenos graffito",
+  "title": "Alexamenos_graffito",
+  "description": "graffiti",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexorig.jpg?width=64",
+  "total": 85546,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 21604
+    },
+    {
+      "period": "2017-09",
+      "views": 10172
+    },
+    {
+      "period": "2020-01",
+      "views": 23688
+    },
+    {
+      "period": "2025-03",
+      "views": 20555
+    },
+    {
+      "period": "2026-10",
+      "views": 9527
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21604
+    },
+    {
+      "period": "2017",
+      "views": 10172
+    },
+    {
+      "period": "2020",
+      "views": 23688
+    },
+    {
+      "period": "2025",
+      "views": 20555
+    },
+    {
+      "period": "2026",
+      "views": 9527
+    }
+  ]
+}

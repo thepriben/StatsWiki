@@ -4,7 +4,7 @@
   "title": "Amanda_Seyfried",
   "description": "American actress (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amanda_Seyfried_at_Berlinale_2024%2C_cropped.jpg?width=64",
-  "total": 8679870,
+  "total": 8688699,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-09",
       "views": 206785
+    },
+    {
+      "period": "2026-10",
+      "views": 8829
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 1776502
+      "views": 1785331
     }
   ]
 }

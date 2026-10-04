@@ -4,7 +4,7 @@
   "title": "Ray_Winstone",
   "description": "English actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ray_Winstone_2014.jpg?width=64",
-  "total": 605140,
+  "total": 620190,
   "monthly": [
     {
       "period": "2015-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 207803
+    },
+    {
+      "period": "2026-10",
+      "views": 15050
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 207803
+      "views": 222853
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Eva_Olid",
   "description": "Spanish association football manager (born 1985)",
   "image": "",
-  "total": 92341,
+  "total": 103170,
   "monthly": [
     {
       "period": "2026-08",
       "views": 92341
+    },
+    {
+      "period": "2026-10",
+      "views": 10829
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 92341
+      "views": 103170
     }
   ]
 }

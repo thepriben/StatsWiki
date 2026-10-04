@@ -4,7 +4,7 @@
   "title": "Glenn_Frey",
   "description": "American rock musician (1948–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glenn_Frey.jpg?width=64",
-  "total": 3703064,
+  "total": 3715061,
   "monthly": [
     {
       "period": "2016-01",
@@ -129,6 +129,10 @@
     {
       "period": "2026-08",
       "views": 12985
+    },
+    {
+      "period": "2026-10",
+      "views": 11997
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 26264
+      "views": 38261
     }
   ]
 }

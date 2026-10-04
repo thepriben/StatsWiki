@@ -4,7 +4,7 @@
   "title": "Sarah_Storey",
   "description": "British swimmer, track and road cyclist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Storey_medals_%28cropped%29.jpg?width=64",
-  "total": 779528,
+  "total": 798013,
   "monthly": [
     {
       "period": "2016-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 87772
+    },
+    {
+      "period": "2026-10",
+      "views": 18485
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 100596
+      "views": 119081
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Dylan_Larkin",
   "description": "American ice hockey player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larkin_USA1.png?width=64",
-  "total": 191347,
+  "total": 205855,
   "monthly": [
     {
       "period": "2016-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-06",
       "views": 28500
+    },
+    {
+      "period": "2026-10",
+      "views": 14508
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 118662
+      "views": 133170
     }
   ]
 }

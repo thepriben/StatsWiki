@@ -4,7 +4,7 @@
   "title": "Don_Henley",
   "description": "American rock musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Henley_%28cropped%29.jpg?width=64",
-  "total": 1044395,
+  "total": 1054187,
   "monthly": [
     {
       "period": "2015-09",
@@ -117,6 +117,10 @@
     {
       "period": "2026-08",
       "views": 15417
+    },
+    {
+      "period": "2026-10",
+      "views": 9792
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 45808
+      "views": 55600
     }
   ]
 }

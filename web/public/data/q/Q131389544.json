@@ -4,7 +4,7 @@
   "title": "Killing_of_Brian_Thompson",
   "description": "2024 killing of United Healthcare's CEO in New York City, US",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shooting_of_Brian_Thompson_CCTV_frame_01.png?width=64",
-  "total": 2366111,
+  "total": 2374980,
   "monthly": [
     {
       "period": "2024-12",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 93837
+    },
+    {
+      "period": "2026-10",
+      "views": 8869
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 146813
+      "views": 155682
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "qid": "Q2986781",
+  "label": "pneumonic plague",
+  "title": "Pneumonic_plague",
+  "description": "plague that results in infection located in lung, which results from direct inhalation of the bacillus and has symptom fever, has symptom chills, has symptom cough and has symptom difficulty breathing",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yersinia_pestis_fluorescent.jpeg?width=64",
+  "total": 70788,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 28760
+    },
+    {
+      "period": "2021-03",
+      "views": 11082
+    },
+    {
+      "period": "2025-07",
+      "views": 13695
+    },
+    {
+      "period": "2026-10",
+      "views": 17251
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 28760
+    },
+    {
+      "period": "2021",
+      "views": 11082
+    },
+    {
+      "period": "2025",
+      "views": 13695
+    },
+    {
+      "period": "2026",
+      "views": 17251
+    }
+  ]
+}

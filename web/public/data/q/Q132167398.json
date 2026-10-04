@@ -4,7 +4,7 @@
   "title": "CJ_Carr",
   "description": "American football player",
   "image": "",
-  "total": 119400,
+  "total": 154823,
   "monthly": [
     {
       "period": "2025-10",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 102622
+    },
+    {
+      "period": "2026-10",
+      "views": 35423
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 102622
+      "views": 138045
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Northwestern_Wildcats_football",
   "description": "football team of Northwestern University",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KoreAm_2008-10_Cover.jpg?width=64",
-  "total": 106972,
+  "total": 137543,
   "monthly": [
     {
       "period": "2018-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 13823
+    },
+    {
+      "period": "2026-10",
+      "views": 30571
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 13823
+      "views": 44394
     }
   ]
 }

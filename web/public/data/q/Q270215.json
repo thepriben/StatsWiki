@@ -4,7 +4,7 @@
   "title": "Contact_(1997_American_film)",
   "description": "1997 film by Robert Zemeckis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Contact_uniforms.jpg?width=64",
-  "total": 57992,
+  "total": 66852,
   "monthly": [
     {
       "period": "2016-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 11811
+    },
+    {
+      "period": "2026-10",
+      "views": 8860
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 11811
+      "views": 20671
     }
   ]
 }

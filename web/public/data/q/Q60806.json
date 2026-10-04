@@ -2,9 +2,9 @@
   "qid": "Q60806",
   "label": "Siegfried & Roy",
   "title": "Siegfried_&_Roy",
-  "description": "German-American magician duo",
+  "description": "German-American entertainer duo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg?width=64",
-  "total": 2852655,
+  "total": 2881598,
   "monthly": [
     {
       "period": "2015-09",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 8208
+    },
+    {
+      "period": "2026-10",
+      "views": 28943
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 8208
+      "views": 37151
     }
   ]
 }
