@@ -4,7 +4,7 @@
   "title": "Las_Vegas_Raiders",
   "description": "National Football League franchise in Las Vegas, Nevada",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Vegas_Raiders_wordmark.svg?width=64",
-  "total": 841985,
+  "total": 858228,
   "monthly": [
     {
       "period": "2020-01",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 8356
+    },
+    {
+      "period": "2026-10",
+      "views": 16243
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 30292
+      "views": 46535
     }
   ]
 }

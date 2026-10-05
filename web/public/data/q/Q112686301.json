@@ -2,9 +2,9 @@
   "qid": "Q112686301",
   "label": "Jacob Misiorowski",
   "title": "Jacob_Misiorowski",
-  "description": "baseball player",
-  "image": "",
-  "total": 420938,
+  "description": "American baseball player (born 2002)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Misiorowski.jpg?width=64",
+  "total": 445794,
   "monthly": [
     {
       "period": "2025-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 14895
+    },
+    {
+      "period": "2026-10",
+      "views": 24856
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 195820
+      "views": 220676
     }
   ]
 }

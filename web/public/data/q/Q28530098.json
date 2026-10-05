@@ -1,0 +1,48 @@
+{
+  "qid": "Q28530098",
+  "label": "Amy Shark",
+  "title": "Amy_Shark",
+  "description": "Australian singer-songwriter",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Shark_06_12_2017_3_%2836257897165%29.jpg?width=64",
+  "total": 102259,
+  "monthly": [
+    {
+      "period": "2018-11",
+      "views": 16873
+    },
+    {
+      "period": "2020-02",
+      "views": 21183
+    },
+    {
+      "period": "2020-07",
+      "views": 10831
+    },
+    {
+      "period": "2020-10",
+      "views": 24525
+    },
+    {
+      "period": "2020-12",
+      "views": 18693
+    },
+    {
+      "period": "2026-10",
+      "views": 10154
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 16873
+    },
+    {
+      "period": "2020",
+      "views": 75232
+    },
+    {
+      "period": "2026",
+      "views": 10154
+    }
+  ]
+}

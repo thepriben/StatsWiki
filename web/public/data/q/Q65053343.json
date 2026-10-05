@@ -1,0 +1,44 @@
+{
+  "qid": "Q65053343",
+  "label": "2022 Brazilian general election",
+  "title": "2022_Brazilian_general_election",
+  "description": "general election held in Brazil",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Elei%C3%A7%C3%B5es_2022_Brasil.svg?width=64",
+  "total": 2112109,
+  "monthly": [
+    {
+      "period": "2022-09",
+      "views": 64831
+    },
+    {
+      "period": "2022-10",
+      "views": 1870050
+    },
+    {
+      "period": "2022-11",
+      "views": 101498
+    },
+    {
+      "period": "2023-01",
+      "views": 35992
+    },
+    {
+      "period": "2026-10",
+      "views": 39738
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 2036379
+    },
+    {
+      "period": "2023",
+      "views": 35992
+    },
+    {
+      "period": "2026",
+      "views": 39738
+    }
+  ]
+}

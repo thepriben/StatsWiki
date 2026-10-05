@@ -4,7 +4,7 @@
   "title": "Midsommar_(film)",
   "description": "2019 Swedish-American film directed by Ari Aster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midsommar_%28film%29_Logo.png?width=64",
-  "total": 11759155,
+  "total": 11768128,
   "monthly": [
     {
       "period": "2019-02",
@@ -213,6 +213,10 @@
     {
       "period": "2026-06",
       "views": 49566
+    },
+    {
+      "period": "2026-10",
+      "views": 8973
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 49566
+      "views": 58539
     }
   ]
 }

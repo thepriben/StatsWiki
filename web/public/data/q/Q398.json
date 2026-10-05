@@ -4,7 +4,7 @@
   "title": "Bahrain",
   "description": "country in the Persian Gulf",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Manama%2C_Bahrain_Decembre_2014.jpg?width=64",
-  "total": 2387735,
+  "total": 2401130,
   "monthly": [
     {
       "period": "2015-07",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 10134
+    },
+    {
+      "period": "2026-10",
+      "views": 13395
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 735213
+      "views": 748608
     }
   ]
 }

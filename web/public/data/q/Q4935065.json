@@ -4,7 +4,7 @@
   "title": "King_Green",
   "description": "American martial artist",
   "image": "",
-  "total": 220110,
+  "total": 237914,
   "monthly": [
     {
       "period": "2024-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 55115
+    },
+    {
+      "period": "2026-10",
+      "views": 17804
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 114107
+      "views": 131911
     }
   ]
 }

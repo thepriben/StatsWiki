@@ -4,7 +4,7 @@
   "title": "Ross_Tucker",
   "description": "American football player and sports broadcaster (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RTRKS_Edit.jpg?width=64",
-  "total": 32581,
+  "total": 44926,
   "monthly": [
     {
       "period": "2024-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 20529
+    },
+    {
+      "period": "2026-10",
+      "views": 12345
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 20529
+      "views": 32874
     }
   ]
 }

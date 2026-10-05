@@ -4,7 +4,7 @@
   "title": "Cam_Skattebo",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cam_Skattebo_Super_Bowl_LX_2026.png?width=64",
-  "total": 1739983,
+  "total": 1755783,
   "monthly": [
     {
       "period": "2025-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 278849
+    },
+    {
+      "period": "2026-10",
+      "views": 15800
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 278849
+      "views": 294649
     }
   ]
 }

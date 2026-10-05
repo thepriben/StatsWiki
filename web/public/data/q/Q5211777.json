@@ -4,7 +4,7 @@
   "title": "Daly_Cherry-Evans",
   "description": "Australian rugby league footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daly_Cherry-Evans_2012.jpg?width=64",
-  "total": 30713,
+  "total": 64533,
   "monthly": [
     {
       "period": "2024-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 7498
+    },
+    {
+      "period": "2026-10",
+      "views": 33820
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 7498
+      "views": 41318
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Washington_Commanders",
   "description": "American football team in the National Football League",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Washington_Commanders_Uniforms_%282026%29.png?width=64",
-  "total": 1518227,
+  "total": 1531565,
   "monthly": [
     {
       "period": "2022-02",
@@ -121,6 +121,10 @@
     {
       "period": "2026-09",
       "views": 31746
+    },
+    {
+      "period": "2026-10",
+      "views": 13338
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 31746
+      "views": 45084
     }
   ]
 }

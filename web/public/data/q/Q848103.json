@@ -1,0 +1,52 @@
+{
+  "qid": "Q848103",
+  "label": "Milwaukee Brewers",
+  "title": "Milwaukee_Brewers",
+  "description": "baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milwaukee_Brewers_baseball_cap.jpg?width=64",
+  "total": 509084,
+  "monthly": [
+    {
+      "period": "2018-10",
+      "views": 309853
+    },
+    {
+      "period": "2019-10",
+      "views": 9083
+    },
+    {
+      "period": "2024-10",
+      "views": 23294
+    },
+    {
+      "period": "2025-10",
+      "views": 156010
+    },
+    {
+      "period": "2026-10",
+      "views": 10844
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 309853
+    },
+    {
+      "period": "2019",
+      "views": 9083
+    },
+    {
+      "period": "2024",
+      "views": 23294
+    },
+    {
+      "period": "2025",
+      "views": 156010
+    },
+    {
+      "period": "2026",
+      "views": 10844
+    }
+  ]
+}

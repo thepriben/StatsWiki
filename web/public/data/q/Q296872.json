@@ -4,7 +4,7 @@
   "title": "Barry_Gibb",
   "description": "British musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barry_Gibb_in_2017-Glasto17-197_%2834744934874%29.jpg?width=64",
-  "total": 3879139,
+  "total": 3888542,
   "monthly": [
     {
       "period": "2016-03",
@@ -253,6 +253,10 @@
     {
       "period": "2026-09",
       "views": 69531
+    },
+    {
+      "period": "2026-10",
+      "views": 9403
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 90552
+      "views": 99955
     }
   ]
 }

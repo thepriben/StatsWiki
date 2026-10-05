@@ -4,7 +4,7 @@
   "title": "Klint_Kubiak",
   "description": "American football player and coach",
   "image": "",
-  "total": 674656,
+  "total": 705996,
   "monthly": [
     {
       "period": "2024-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 20600
+    },
+    {
+      "period": "2026-10",
+      "views": 31340
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 546492
+      "views": 577832
     }
   ]
 }

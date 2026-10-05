@@ -4,7 +4,7 @@
   "title": "Kirk_Cousins",
   "description": "American football player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cousins_2022.jpg?width=64",
-  "total": 3987137,
+  "total": 4081447,
   "monthly": [
     {
       "period": "2015-08",
@@ -221,6 +221,10 @@
     {
       "period": "2026-09",
       "views": 127359
+    },
+    {
+      "period": "2026-10",
+      "views": 94310
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 204673
+      "views": 298983
     }
   ]
 }

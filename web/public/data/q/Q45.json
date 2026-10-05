@@ -4,7 +4,7 @@
   "title": "Portugal",
   "description": "country in Southwestern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carte_du_Portugal.png?width=64",
-  "total": 4390008,
+  "total": 4406290,
   "monthly": [
     {
       "period": "2015-11",
@@ -217,6 +217,10 @@
     {
       "period": "2026-09",
       "views": 70078
+    },
+    {
+      "period": "2026-10",
+      "views": 16282
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 679890
+      "views": 696172
     }
   ]
 }

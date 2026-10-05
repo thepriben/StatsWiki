@@ -4,7 +4,7 @@
   "title": "Justin_Herbert",
   "description": "American football player (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justin_Herbert_2021.jpg?width=64",
-  "total": 2503619,
+  "total": 2513031,
   "monthly": [
     {
       "period": "2018-09",
@@ -145,6 +145,10 @@
     {
       "period": "2026-09",
       "views": 68512
+    },
+    {
+      "period": "2026-10",
+      "views": 9412
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 214561
+      "views": 223973
     }
   ]
 }

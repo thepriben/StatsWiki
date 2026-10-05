@@ -4,7 +4,7 @@
   "title": "Tyson_Bagent",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyson_Bagent.png?width=64",
-  "total": 1052588,
+  "total": 1088819,
   "monthly": [
     {
       "period": "2023-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 77783
+    },
+    {
+      "period": "2026-10",
+      "views": 36231
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 77783
+      "views": 114014
     }
   ]
 }

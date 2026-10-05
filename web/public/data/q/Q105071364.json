@@ -4,7 +4,7 @@
   "title": "Isack_Hadjar",
   "description": "French-Algerian racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isack_Hadjar_2022.JPG?width=64",
-  "total": 701678,
+  "total": 711207,
   "monthly": [
     {
       "period": "2024-12",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 17258
+    },
+    {
+      "period": "2026-10",
+      "views": 9529
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 131459
+      "views": 140988
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jair_Bolsonaro",
   "description": "38th President of the Federative Republic of Brazil (2019–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidente_Jair_Messias_Bolsonaro.jpg?width=64",
-  "total": 2772937,
+  "total": 2809754,
   "monthly": [
     {
       "period": "2018-09",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 9016
+    },
+    {
+      "period": "2026-10",
+      "views": 36817
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 9016
+      "views": 45833
     }
   ]
 }

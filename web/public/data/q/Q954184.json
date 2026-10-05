@@ -4,7 +4,7 @@
   "title": "Deion_Sanders",
   "description": "American football and baseball player and football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deion_Sanders_11-May-2008_cropped.jpg?width=64",
-  "total": 12250194,
+  "total": 12264863,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-09",
       "views": 45975
+    },
+    {
+      "period": "2026-10",
+      "views": 14669
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 45975
+      "views": 60644
     }
   ]
 }

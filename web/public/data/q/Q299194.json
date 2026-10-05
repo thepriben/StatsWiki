@@ -4,7 +4,7 @@
   "title": "Aaron_Sorkin",
   "description": "American filmmaker (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Sorkin_%2827566400913%29.jpg?width=64",
-  "total": 612379,
+  "total": 626366,
   "monthly": [
     {
       "period": "2015-10",
@@ -57,6 +57,10 @@
     {
       "period": "2026-09",
       "views": 43331
+    },
+    {
+      "period": "2026-10",
+      "views": 13987
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 75911
+      "views": 89898
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Joely_Richardson",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JoelyRichardsonSept11TIFF.jpg?width=64",
-  "total": 1187371,
+  "total": 1202453,
   "monthly": [
     {
       "period": "2017-01",
@@ -73,6 +73,10 @@
     {
       "period": "2026-09",
       "views": 268254
+    },
+    {
+      "period": "2026-10",
+      "views": 15082
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 277905
+      "views": 292987
     }
   ]
 }

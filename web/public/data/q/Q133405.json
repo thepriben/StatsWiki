@@ -4,7 +4,7 @@
   "title": "Bee_Gees",
   "description": "British-Australian pop group; sibling trio (years active: 1958–2003, 2006, 2009–2012)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bee_Gees_1977.JPG?width=64",
-  "total": 6506434,
+  "total": 6516901,
   "monthly": [
     {
       "period": "2015-08",
@@ -385,6 +385,10 @@
     {
       "period": "2026-09",
       "views": 38210
+    },
+    {
+      "period": "2026-10",
+      "views": 10467
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 84241
+      "views": 94708
     }
   ]
 }

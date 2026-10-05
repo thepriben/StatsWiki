@@ -1,0 +1,72 @@
+{
+  "qid": "Q44657",
+  "label": "Uri Geller",
+  "title": "Uri_Geller",
+  "description": "Israeli illusionist",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri_Geller_in_Russia.jpg?width=64",
+  "total": 220492,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 30168
+    },
+    {
+      "period": "2018-08",
+      "views": 104604
+    },
+    {
+      "period": "2019-03",
+      "views": 14721
+    },
+    {
+      "period": "2020-10",
+      "views": 15960
+    },
+    {
+      "period": "2020-11",
+      "views": 17026
+    },
+    {
+      "period": "2021-12",
+      "views": 11860
+    },
+    {
+      "period": "2025-03",
+      "views": 15382
+    },
+    {
+      "period": "2026-10",
+      "views": 10771
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 30168
+    },
+    {
+      "period": "2018",
+      "views": 104604
+    },
+    {
+      "period": "2019",
+      "views": 14721
+    },
+    {
+      "period": "2020",
+      "views": 32986
+    },
+    {
+      "period": "2021",
+      "views": 11860
+    },
+    {
+      "period": "2025",
+      "views": 15382
+    },
+    {
+      "period": "2026",
+      "views": 10771
+    }
+  ]
+}

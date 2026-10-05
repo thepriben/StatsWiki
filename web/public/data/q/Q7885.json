@@ -4,7 +4,7 @@
   "title": "Bahrain_Grand_Prix",
   "description": "Formula 1 Grand Prix",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahrain_International_Circuit--Grand_Prix_Layout.svg?width=64",
-  "total": 211167,
+  "total": 223472,
   "monthly": [
     {
       "period": "2016-04",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 11431
+    },
+    {
+      "period": "2026-10",
+      "views": 12305
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 11431
+      "views": 23736
     }
   ]
 }

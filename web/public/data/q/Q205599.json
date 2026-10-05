@@ -4,7 +4,7 @@
   "title": "George_Lazenby",
   "description": "Australian actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GeorgeLazenby11.14.08ByLuigiNovi.jpg?width=64",
-  "total": 874567,
+  "total": 891016,
   "monthly": [
     {
       "period": "2015-11",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 12054
+    },
+    {
+      "period": "2026-10",
+      "views": 16449
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 12054
+      "views": 28503
     }
   ]
 }

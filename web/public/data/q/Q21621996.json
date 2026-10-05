@@ -4,7 +4,7 @@
   "title": "Christian_McCaffrey",
   "description": "American football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_McCaffrey_2019.jpg?width=64",
-  "total": 6217839,
+  "total": 6233448,
   "monthly": [
     {
       "period": "2015-11",
@@ -217,6 +217,10 @@
     {
       "period": "2026-09",
       "views": 21731
+    },
+    {
+      "period": "2026-10",
+      "views": 15609
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 233948
+      "views": 249557
     }
   ]
 }

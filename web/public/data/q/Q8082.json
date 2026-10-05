@@ -4,7 +4,7 @@
   "title": "Malaysian_Grand_Prix",
   "description": "Formula 1 Grand Prix",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sepang.svg?width=64",
-  "total": 43264,
+  "total": 60379,
   "monthly": [
     {
       "period": "2017-10",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-10",
-      "views": 10685
+      "views": 27800
     }
   ],
   "yearly": [
@@ -26,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 29332
+      "views": 46447
     }
   ]
 }

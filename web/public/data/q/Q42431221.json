@@ -4,7 +4,7 @@
   "title": "Amy_Dowden",
   "description": "Welsh dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Dowden_-_2023_%2852720307368%29_%28cropped%29.jpg?width=64",
-  "total": 301574,
+  "total": 312235,
   "monthly": [
     {
       "period": "2019-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 18983
+    },
+    {
+      "period": "2026-10",
+      "views": 10661
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 18983
+      "views": 29644
     }
   ]
 }

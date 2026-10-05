@@ -4,7 +4,7 @@
   "title": "Maxx_Crosby",
   "description": "American football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxx_Crosby_2025.jpg?width=64",
-  "total": 1404068,
+  "total": 1417846,
   "monthly": [
     {
       "period": "2019-08",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 9968
+    },
+    {
+      "period": "2026-10",
+      "views": 13778
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 336748
+      "views": 350526
     }
   ]
 }
