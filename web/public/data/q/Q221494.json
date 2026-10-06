@@ -1,0 +1,36 @@
+{
+  "qid": "Q221494",
+  "label": "Quiet Riot",
+  "title": "Quiet_Riot",
+  "description": "American heavy metal band",
+  "image": "",
+  "total": 56777,
+  "monthly": [
+    {
+      "period": "2020-08",
+      "views": 36875
+    },
+    {
+      "period": "2025-07",
+      "views": 10455
+    },
+    {
+      "period": "2026-10",
+      "views": 9447
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 36875
+    },
+    {
+      "period": "2025",
+      "views": 10455
+    },
+    {
+      "period": "2026",
+      "views": 9447
+    }
+  ]
+}

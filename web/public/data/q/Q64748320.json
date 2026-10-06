@@ -4,7 +4,7 @@
   "title": "Jhon_Durán",
   "description": "Colombian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png?width=64",
-  "total": 808302,
+  "total": 823480,
   "monthly": [
     {
       "period": "2023-01",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 48983
+    },
+    {
+      "period": "2026-10",
+      "views": 15178
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 102917
+      "views": 118095
     }
   ]
 }

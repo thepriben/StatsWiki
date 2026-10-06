@@ -4,7 +4,7 @@
   "title": "Event_Horizon_(film)",
   "description": "1997 film directed by Paul W. S. Anderson",
   "image": "",
-  "total": 504246,
+  "total": 517217,
   "monthly": [
     {
       "period": "2015-11",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 157675
+    },
+    {
+      "period": "2026-10",
+      "views": 12971
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 157675
+      "views": 170646
     }
   ]
 }

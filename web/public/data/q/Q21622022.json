@@ -4,7 +4,7 @@
   "title": "Daniil_Medvedev",
   "description": "Russian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danill_Medvedev_Miami_2019_%28cropped%29.jpg?width=64",
-  "total": 7975033,
+  "total": 7985186,
   "monthly": [
     {
       "period": "2017-07",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 59364
+    },
+    {
+      "period": "2026-10",
+      "views": 10153
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 275431
+      "views": 285584
     }
   ]
 }

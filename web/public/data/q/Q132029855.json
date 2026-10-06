@@ -4,7 +4,7 @@
   "title": "Isaac_TeSlaa",
   "description": "American football player",
   "image": "",
-  "total": 298970,
+  "total": 312493,
   "monthly": [
     {
       "period": "2025-04",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 9896
+    },
+    {
+      "period": "2026-10",
+      "views": 13523
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 9896
+      "views": 23419
     }
   ]
 }

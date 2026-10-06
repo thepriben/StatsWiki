@@ -2,9 +2,9 @@
   "qid": "Q313489",
   "label": "Jeffrey Archer",
   "title": "Jeffrey_Archer",
-  "description": "English author and former politician (born 1940)",
+  "description": "English author and former politician (1940–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Archer.jpg?width=64",
-  "total": 60389,
+  "total": 166687,
   "monthly": [
     {
       "period": "2017-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 23479
+    },
+    {
+      "period": "2026-10",
+      "views": 106298
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 23479
+      "views": 129777
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Cam_Newton",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cam_Newton_-_Carolina_Panthers.jpg?width=64",
-  "total": 9842247,
+  "total": 9851481,
   "monthly": [
     {
       "period": "2015-09",
@@ -301,6 +301,10 @@
     {
       "period": "2026-01",
       "views": 99657
+    },
+    {
+      "period": "2026-10",
+      "views": 9234
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 99657
+      "views": 108891
     }
   ]
 }

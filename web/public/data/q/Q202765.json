@@ -4,7 +4,7 @@
   "title": "Kate_Winslet",
   "description": "English actress (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KateWinslet_%28cropped%29.jpg?width=64",
-  "total": 17830300,
+  "total": 17847311,
   "monthly": [
     {
       "period": "2015-07",
@@ -437,6 +437,10 @@
     {
       "period": "2026-01",
       "views": 353089
+    },
+    {
+      "period": "2026-10",
+      "views": 17011
     }
   ],
   "yearly": [
@@ -486,7 +490,7 @@
     },
     {
       "period": "2026",
-      "views": 353089
+      "views": 370100
     }
   ]
 }

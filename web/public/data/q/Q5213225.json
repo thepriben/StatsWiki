@@ -4,7 +4,7 @@
   "title": "Dan_Campbell",
   "description": "American football player and coach (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Campbell.jpg?width=64",
-  "total": 4076674,
+  "total": 4094343,
   "monthly": [
     {
       "period": "2015-10",
@@ -125,6 +125,10 @@
     {
       "period": "2026-09",
       "views": 21813
+    },
+    {
+      "period": "2026-10",
+      "views": 17669
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 21813
+      "views": 39482
     }
   ]
 }

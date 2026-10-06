@@ -4,17 +4,21 @@
   "title": "No_taxation_without_representation",
   "description": "slogan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/No_tuition_without_representation_Shimer_College.jpg?width=64",
-  "total": 21037,
+  "total": 31506,
   "monthly": [
     {
       "period": "2026-09",
       "views": 21037
+    },
+    {
+      "period": "2026-10",
+      "views": 10469
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21037
+      "views": 31506
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Parallax_(character)",
   "description": "DC Universe character",
   "image": "",
-  "total": 56504,
+  "total": 65539,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 17032
+    },
+    {
+      "period": "2026-10",
+      "views": 9035
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 56504
+      "views": 65539
     }
   ]
 }

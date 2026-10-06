@@ -1,0 +1,60 @@
+{
+  "qid": "Q133780",
+  "label": "plague",
+  "title": "Plague_(disease)",
+  "description": "specific contagious and frequently fatal human disease caused by Yersinia pestis",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Doktorschnabel_430px.jpg?width=64",
+  "total": 728303,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 73084
+    },
+    {
+      "period": "2019-11",
+      "views": 10410
+    },
+    {
+      "period": "2020-03",
+      "views": 489335
+    },
+    {
+      "period": "2020-04",
+      "views": 67599
+    },
+    {
+      "period": "2020-07",
+      "views": 31817
+    },
+    {
+      "period": "2025-08",
+      "views": 20101
+    },
+    {
+      "period": "2026-10",
+      "views": 35957
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 73084
+    },
+    {
+      "period": "2019",
+      "views": 10410
+    },
+    {
+      "period": "2020",
+      "views": 588751
+    },
+    {
+      "period": "2025",
+      "views": 20101
+    },
+    {
+      "period": "2026",
+      "views": 35957
+    }
+  ]
+}

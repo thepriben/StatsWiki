@@ -4,7 +4,7 @@
   "title": "Chris_Rock",
   "description": "American comedian, actor, and filmmaker (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Rock_WE_2012_Shankbone.JPG?width=64",
-  "total": 4624430,
+  "total": 4634559,
   "monthly": [
     {
       "period": "2016-01",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 8607
+    },
+    {
+      "period": "2026-10",
+      "views": 10129
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 8607
+      "views": 18736
     }
   ]
 }

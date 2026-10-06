@@ -4,7 +4,7 @@
   "title": "Hanuman_Chalisa",
   "description": "Hindu devotional hymn by Tulsidas dedicated to lord Hanuman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanuman_Chalisa_4x3.jpg?width=64",
-  "total": 372971,
+  "total": 381029,
   "monthly": [
     {
       "period": "2019-11",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 8999
+    },
+    {
+      "period": "2026-10",
+      "views": 8058
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 212889
+      "views": 220947
     }
   ]
 }

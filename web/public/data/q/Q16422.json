@@ -4,7 +4,7 @@
   "title": "Hurricane_Katrina",
   "description": "Category 5 Atlantic hurricane in 2005",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katrina_2005-08-28_1700Z.jpg?width=64",
-  "total": 7333278,
+  "total": 7346757,
   "monthly": [
     {
       "period": "2015-08",
@@ -149,6 +149,10 @@
     {
       "period": "2026-09",
       "views": 8258
+    },
+    {
+      "period": "2026-10",
+      "views": 13479
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 64950
+      "views": 78429
     }
   ]
 }

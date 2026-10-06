@@ -4,7 +4,7 @@
   "title": "Avatar_(2009_film)",
   "description": "2009 film directed by James Cameron",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avatar_Flight_of_Passage_%2833825582954%29.jpg?width=64",
-  "total": 21171291,
+  "total": 21179380,
   "monthly": [
     {
       "period": "2015-07",
@@ -401,6 +401,10 @@
     {
       "period": "2026-09",
       "views": 7581
+    },
+    {
+      "period": "2026-10",
+      "views": 8089
     }
   ],
   "yearly": [
@@ -450,7 +454,7 @@
     },
     {
       "period": "2026",
-      "views": 1089398
+      "views": 1097487
     }
   ]
 }

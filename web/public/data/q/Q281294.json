@@ -4,7 +4,7 @@
   "title": "Jules_Bianchi",
   "description": "French motor racing driver (1989–2015)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Bianchi_2012-3.JPG?width=64",
-  "total": 1670778,
+  "total": 1690101,
   "monthly": [
     {
       "period": "2015-07",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 30344
+    },
+    {
+      "period": "2026-10",
+      "views": 19323
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 30344
+      "views": 49667
     }
   ]
 }

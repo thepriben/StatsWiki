@@ -4,7 +4,7 @@
   "title": "Robert_Plant",
   "description": "English musician and lead vocalist of Led Zeppelin",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Plant_-_Circuit%2C_Kingston_%28Early_Show%29_-_Monday_29th_September_2025.jpg?width=64",
-  "total": 1416653,
+  "total": 1424601,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-09",
       "views": 10156
+    },
+    {
+      "period": "2026-10",
+      "views": 7948
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 119449
+      "views": 127397
     }
   ]
 }

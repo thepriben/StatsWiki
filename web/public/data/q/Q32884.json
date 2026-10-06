@@ -4,7 +4,7 @@
   "title": "Green_Lantern",
   "description": "multiple superheroes from the DC universe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_Lantern_%28Six_Flags_Great_Adventure%29.jpg?width=64",
-  "total": 174565,
+  "total": 184029,
   "monthly": [
     {
       "period": "2021-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 73758
+    },
+    {
+      "period": "2026-10",
+      "views": 9464
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 164237
+      "views": 173701
     }
   ]
 }

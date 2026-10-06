@@ -4,7 +4,7 @@
   "title": "Dog",
   "description": "domesticated mammal of the family Canidae",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greenland_467_%2835130903436%29_%28cropped%29.jpg?width=64",
-  "total": 6705420,
+  "total": 6713354,
   "monthly": [
     {
       "period": "2015-08",
@@ -345,6 +345,10 @@
     {
       "period": "2026-09",
       "views": 7880
+    },
+    {
+      "period": "2026-10",
+      "views": 7934
     }
   ],
   "yearly": [
@@ -394,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 7880
+      "views": 15814
     }
   ]
 }
