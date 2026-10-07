@@ -4,7 +4,7 @@
   "title": "Stephen_Hawking",
   "description": "British theoretical physicist, cosmologist and author (1942–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Hawking.StarChild.jpg?width=64",
-  "total": 68009498,
+  "total": 68019425,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-09",
       "views": 61776
+    },
+    {
+      "period": "2026-10",
+      "views": 9927
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 1025364
+      "views": 1035291
     }
   ]
 }

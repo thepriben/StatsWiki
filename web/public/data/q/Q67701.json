@@ -4,7 +4,7 @@
   "title": "Anna_Kendrick",
   "description": "American actress (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Kendrick_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 17570944,
+  "total": 17587397,
   "monthly": [
     {
       "period": "2015-07",
@@ -429,6 +429,10 @@
     {
       "period": "2026-09",
       "views": 8062
+    },
+    {
+      "period": "2026-10",
+      "views": 16453
     }
   ],
   "yearly": [
@@ -478,7 +482,7 @@
     },
     {
       "period": "2026",
-      "views": 19002
+      "views": 35455
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Cooper_Manning",
   "description": "American entrepreneur and TV personality (born 1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cooper_Manning.png?width=64",
-  "total": 3200594,
+  "total": 3217563,
   "monthly": [
     {
       "period": "2015-09",
@@ -189,6 +189,10 @@
     {
       "period": "2026-09",
       "views": 239231
+    },
+    {
+      "period": "2026-10",
+      "views": 16969
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 262210
+      "views": 279179
     }
   ]
 }

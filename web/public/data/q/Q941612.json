@@ -1,0 +1,40 @@
+{
+  "qid": "Q941612",
+  "label": "American Airlines Flight 965",
+  "title": "American_Airlines_Flight_965",
+  "description": "December 20, 1995 crash of a U.S. airliner in Colombia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/N606AA-2008-09-13-YVR.jpg?width=64",
+  "total": 58548,
+  "monthly": [
+    {
+      "period": "2021-07",
+      "views": 14738
+    },
+    {
+      "period": "2021-12",
+      "views": 17337
+    },
+    {
+      "period": "2025-12",
+      "views": 14119
+    },
+    {
+      "period": "2026-10",
+      "views": 12354
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 32075
+    },
+    {
+      "period": "2025",
+      "views": 14119
+    },
+    {
+      "period": "2026",
+      "views": 12354
+    }
+  ]
+}

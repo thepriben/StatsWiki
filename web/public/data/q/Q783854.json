@@ -1,0 +1,40 @@
+{
+  "qid": "Q783854",
+  "label": "Fort Hood",
+  "title": "Fort_Hood",
+  "description": "United States military post located in Killeen, Texas",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/3_Corps_Shoulder_Sleeve_Insignia.svg?width=64",
+  "total": 85558,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 8629
+    },
+    {
+      "period": "2020-06",
+      "views": 25662
+    },
+    {
+      "period": "2020-07",
+      "views": 40884
+    },
+    {
+      "period": "2026-10",
+      "views": 10383
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 8629
+    },
+    {
+      "period": "2020",
+      "views": 66546
+    },
+    {
+      "period": "2026",
+      "views": 10383
+    }
+  ]
+}

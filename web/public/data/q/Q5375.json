@@ -4,7 +4,7 @@
   "title": "Cricket",
   "description": "team sport played with a bat and ball",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muralitharan_bowling_to_Adam_Gilchrist.jpg?width=64",
-  "total": 1888981,
+  "total": 1897323,
   "monthly": [
     {
       "period": "2015-10",
@@ -173,6 +173,10 @@
     {
       "period": "2026-06",
       "views": 11592
+    },
+    {
+      "period": "2026-10",
+      "views": 8342
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 303907
+      "views": 312249
     }
   ]
 }

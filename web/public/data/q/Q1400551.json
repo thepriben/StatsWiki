@@ -3,8 +3,8 @@
   "label": "Nidal Malik Hasan",
   "title": "Nidal_Hasan",
   "description": "American Army officer and mass murderer (born 1970)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hasan_nidal_%28cropped%29.jpg?width=64",
-  "total": 198706,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nidal_Hasan%2C_2009.jpg?width=64",
+  "total": 424065,
   "monthly": [
     {
       "period": "2015-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 17165
+    },
+    {
+      "period": "2026-10",
+      "views": 225359
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 57863
+      "views": 283222
     }
   ]
 }

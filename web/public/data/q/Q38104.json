@@ -1,0 +1,100 @@
+{
+  "qid": "Q38104",
+  "label": "Nobel Prize in Physics",
+  "title": "Nobel_Prize_in_Physics",
+  "description": "yearly physics award given by the Royal Swedish Academy of Sciences",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie_and_Pierre_Curie%27s_Nobel_Prize_in_Physics_1903.jpg?width=64",
+  "total": 218847,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 9518
+    },
+    {
+      "period": "2017-10",
+      "views": 10796
+    },
+    {
+      "period": "2018-10",
+      "views": 23933
+    },
+    {
+      "period": "2018-12",
+      "views": 10717
+    },
+    {
+      "period": "2019-06",
+      "views": 8669
+    },
+    {
+      "period": "2019-10",
+      "views": 26688
+    },
+    {
+      "period": "2020-10",
+      "views": 25421
+    },
+    {
+      "period": "2021-10",
+      "views": 10217
+    },
+    {
+      "period": "2022-10",
+      "views": 10023
+    },
+    {
+      "period": "2024-10",
+      "views": 35406
+    },
+    {
+      "period": "2025-10",
+      "views": 36913
+    },
+    {
+      "period": "2026-10",
+      "views": 10546
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9518
+    },
+    {
+      "period": "2017",
+      "views": 10796
+    },
+    {
+      "period": "2018",
+      "views": 34650
+    },
+    {
+      "period": "2019",
+      "views": 35357
+    },
+    {
+      "period": "2020",
+      "views": 25421
+    },
+    {
+      "period": "2021",
+      "views": 10217
+    },
+    {
+      "period": "2022",
+      "views": 10023
+    },
+    {
+      "period": "2024",
+      "views": 35406
+    },
+    {
+      "period": "2025",
+      "views": 36913
+    },
+    {
+      "period": "2026",
+      "views": 10546
+    }
+  ]
+}

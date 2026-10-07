@@ -4,7 +4,7 @@
   "title": "Blue_Film_(2025_film)",
   "description": "2025 film directed by Elliot Tuttle",
   "image": "",
-  "total": 2088275,
+  "total": 2103403,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-06",
       "views": 102725
+    },
+    {
+      "period": "2026-10",
+      "views": 15128
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2088275
+      "views": 2103403
     }
   ]
 }

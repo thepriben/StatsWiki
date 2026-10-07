@@ -4,7 +4,7 @@
   "title": "Harmanpreet_Kaur",
   "description": "Indian cricketer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016%E2%80%9317_WBBL_ST_v_PS_17-01-21_Kaur_%2803%29.jpg?width=64",
-  "total": 1028614,
+  "total": 1041655,
   "monthly": [
     {
       "period": "2017-07",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 11192
+    },
+    {
+      "period": "2026-10",
+      "views": 13041
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 11192
+      "views": 24233
     }
   ]
 }

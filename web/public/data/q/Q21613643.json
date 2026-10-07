@@ -4,17 +4,77 @@
   "title": "2015_San_Bernardino_shooting",
   "description": "December 2015 mass shooting in San Bernardino, California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Syed_Rizwan_Farook.png?width=64",
-  "total": 942049,
+  "total": 1611626,
   "monthly": [
     {
       "period": "2015-12",
       "views": 942049
+    },
+    {
+      "period": "2016-02",
+      "views": 197169
+    },
+    {
+      "period": "2016-03",
+      "views": 42955
+    },
+    {
+      "period": "2016-06",
+      "views": 101770
+    },
+    {
+      "period": "2016-12",
+      "views": 9313
+    },
+    {
+      "period": "2017-01",
+      "views": 147279
+    },
+    {
+      "period": "2017-02",
+      "views": 17395
+    },
+    {
+      "period": "2017-04",
+      "views": 62935
+    },
+    {
+      "period": "2017-10",
+      "views": 20772
+    },
+    {
+      "period": "2017-12",
+      "views": 9898
+    },
+    {
+      "period": "2025-12",
+      "views": 46009
+    },
+    {
+      "period": "2026-10",
+      "views": 14082
     }
   ],
   "yearly": [
     {
       "period": "2015",
       "views": 942049
+    },
+    {
+      "period": "2016",
+      "views": 351207
+    },
+    {
+      "period": "2017",
+      "views": 258279
+    },
+    {
+      "period": "2025",
+      "views": 46009
+    },
+    {
+      "period": "2026",
+      "views": 14082
     }
   ]
 }

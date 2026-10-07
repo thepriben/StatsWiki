@@ -4,7 +4,7 @@
   "title": "Argentina",
   "description": "country in South America",
   "image": "",
-  "total": 9652835,
+  "total": 9662454,
   "monthly": [
     {
       "period": "2015-07",
@@ -325,6 +325,10 @@
     {
       "period": "2026-09",
       "views": 30406
+    },
+    {
+      "period": "2026-10",
+      "views": 9619
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 1959548
+      "views": 1969167
     }
   ]
 }

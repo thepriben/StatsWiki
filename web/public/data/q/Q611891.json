@@ -4,7 +4,7 @@
   "title": "Archie_Manning",
   "description": "American football player (born 1949)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Archie_Manning_by_Gage_Skidmore.jpg?width=64",
-  "total": 1647135,
+  "total": 1656480,
   "monthly": [
     {
       "period": "2015-09",
@@ -145,6 +145,10 @@
     {
       "period": "2026-09",
       "views": 118260
+    },
+    {
+      "period": "2026-10",
+      "views": 9345
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 140510
+      "views": 149855
     }
   ]
 }

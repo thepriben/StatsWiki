@@ -1,0 +1,40 @@
+{
+  "qid": "Q5739088",
+  "label": "Heritage USA",
+  "title": "Heritage_USA",
+  "description": "American Christian-themed Theme Park",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HeritageUSASign.jpg?width=64",
+  "total": 158715,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 91667
+    },
+    {
+      "period": "2019-12",
+      "views": 24690
+    },
+    {
+      "period": "2021-09",
+      "views": 22345
+    },
+    {
+      "period": "2026-10",
+      "views": 20013
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 116357
+    },
+    {
+      "period": "2021",
+      "views": 22345
+    },
+    {
+      "period": "2026",
+      "views": 20013
+    }
+  ]
+}

@@ -4,17 +4,21 @@
   "title": "The_Voice_(American_TV_series)_season_30",
   "description": "season of television series",
   "image": "",
-  "total": 61211,
+  "total": 76552,
   "monthly": [
     {
       "period": "2026-09",
       "views": 61211
+    },
+    {
+      "period": "2026-10",
+      "views": 15341
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 61211
+      "views": 76552
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Slayyyter",
   "description": "American singer and songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Slayyyter_%40_The_Novo_11_11_2023_%2853426916559%29.jpg?width=64",
-  "total": 103022,
+  "total": 111703,
   "monthly": [
     {
       "period": "2026-03",
@@ -21,12 +21,16 @@
     {
       "period": "2026-08",
       "views": 18738
+    },
+    {
+      "period": "2026-10",
+      "views": 8681
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 103022
+      "views": 111703
     }
   ]
 }

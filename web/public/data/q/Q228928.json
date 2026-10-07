@@ -2,9 +2,9 @@
   "qid": "Q228928",
   "label": "Eva Marie Saint",
   "title": "Eva_Marie_Saint",
-  "description": "American actress (born 1924)",
+  "description": "American actress (1924–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Marie_Saint_Promo_Portrait%2C_c._1951.jpg?width=64",
-  "total": 977607,
+  "total": 1067803,
   "monthly": [
     {
       "period": "2017-03",
@@ -117,6 +117,10 @@
     {
       "period": "2026-08",
       "views": 9987
+    },
+    {
+      "period": "2026-10",
+      "views": 90196
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 34771
+      "views": 124967
     }
   ]
 }

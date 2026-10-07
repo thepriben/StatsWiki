@@ -4,7 +4,7 @@
   "title": "Voynich_manuscript",
   "description": "illustrated codex hand-written in an unknown writing system",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Voynich_Manuscript_%2832%29.jpg?width=64",
-  "total": 570630,
+  "total": 578690,
   "monthly": [
     {
       "period": "2015-09",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 90812
+    },
+    {
+      "period": "2026-10",
+      "views": 8060
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 105041
+      "views": 113101
     }
   ]
 }

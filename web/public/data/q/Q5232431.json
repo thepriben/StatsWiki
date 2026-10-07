@@ -4,7 +4,7 @@
   "title": "Open_Era_tennis_records_–_Men's_singles",
   "description": "current era of professional tennis",
   "image": "",
-  "total": 1409552,
+  "total": 1419976,
   "monthly": [
     {
       "period": "2022-01",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 63808
+    },
+    {
+      "period": "2026-10",
+      "views": 10424
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 432747
+      "views": 443171
     }
   ]
 }

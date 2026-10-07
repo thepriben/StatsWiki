@@ -4,7 +4,7 @@
   "title": "Atlanta_Falcons",
   "description": "American football team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlanta_Falcons_wordmark.svg?width=64",
-  "total": 1663335,
+  "total": 1671970,
   "monthly": [
     {
       "period": "2015-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 10998
+    },
+    {
+      "period": "2026-10",
+      "views": 8635
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 10998
+      "views": 19633
     }
   ]
 }

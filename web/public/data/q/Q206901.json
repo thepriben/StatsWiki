@@ -1,10 +1,10 @@
 {
   "qid": "Q206901",
   "label": "amyotrophic lateral sclerosis",
-  "title": "Amyotrophic_lateral_sclerosis",
+  "title": "ALS",
   "description": "rare neurodegenerative disease with amyotrophy and progressive paralysis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ALS_Coronal.jpg?width=64",
-  "total": 3359429,
+  "total": 3398979,
   "monthly": [
     {
       "period": "2015-08",
@@ -181,6 +181,10 @@
     {
       "period": "2026-09",
       "views": 45165
+    },
+    {
+      "period": "2026-10",
+      "views": 39550
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 826167
+      "views": 865717
     }
   ]
 }

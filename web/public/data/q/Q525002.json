@@ -4,7 +4,7 @@
   "title": "Troy_Aikman",
   "description": "American professional football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Troy_aikman_2011_cropped.jpg?width=64",
-  "total": 4638304,
+  "total": 4650138,
   "monthly": [
     {
       "period": "2015-09",
@@ -269,6 +269,10 @@
     {
       "period": "2026-09",
       "views": 43805
+    },
+    {
+      "period": "2026-10",
+      "views": 11834
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 194050
+      "views": 205884
     }
   ]
 }

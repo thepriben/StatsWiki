@@ -4,7 +4,7 @@
   "title": "Taysom_Hill",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taysom_Hill_Saints.jpg?width=64",
-  "total": 2048892,
+  "total": 2064523,
   "monthly": [
     {
       "period": "2017-12",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 23633
+    },
+    {
+      "period": "2026-10",
+      "views": 15631
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 23633
+      "views": 39264
     }
   ]
 }

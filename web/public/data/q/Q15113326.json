@@ -4,17 +4,21 @@
   "title": "Vladimír_Coufal",
   "description": "Czech association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vladim%C3%ADr_Coufal%2C_CZE-KUW_2021-11-11.jpg?width=64",
-  "total": 13017,
+  "total": 21753,
   "monthly": [
     {
       "period": "2026-06",
       "views": 13017
+    },
+    {
+      "period": "2026-10",
+      "views": 8736
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 13017
+      "views": 21753
     }
   ]
 }

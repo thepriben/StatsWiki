@@ -4,7 +4,7 @@
   "title": "Hystricomorpha",
   "description": "suborder of rodents (Rodentia)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gundi_Ctenodactylus_gundi_051117_2.jpg?width=64",
-  "total": 83641,
+  "total": 96229,
   "monthly": [
     {
       "period": "2023-09",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 11114
+    },
+    {
+      "period": "2026-10",
+      "views": 12588
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 71110
+      "views": 83698
     }
   ]
 }
