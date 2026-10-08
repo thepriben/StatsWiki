@@ -4,7 +4,7 @@
   "title": "Carrie_Ann_Inaba",
   "description": "American television personality, dancer, choreographer, actress, and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrie_Ann_Inaba.jpg?width=64",
-  "total": 909305,
+  "total": 921733,
   "monthly": [
     {
       "period": "2015-09",
@@ -157,6 +157,10 @@
     {
       "period": "2026-09",
       "views": 44447
+    },
+    {
+      "period": "2026-10",
+      "views": 12428
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 44447
+      "views": 56875
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Troy_Jackson_(politician)",
   "description": "American politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Senate_President_Troy_Jackson_%28cropped%29.png?width=64",
-  "total": 410151,
+  "total": 424068,
   "monthly": [
     {
       "period": "2015-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 346411
+    },
+    {
+      "period": "2026-10",
+      "views": 13917
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 346411
+      "views": 360328
     }
   ]
 }

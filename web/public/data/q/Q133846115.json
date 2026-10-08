@@ -4,17 +4,21 @@
   "title": "Incidents_Around_the_House",
   "description": "2024 novel by Josh Malerman",
   "image": "",
-  "total": 24494,
+  "total": 32496,
   "monthly": [
     {
       "period": "2026-09",
       "views": 24494
+    },
+    {
+      "period": "2026-10",
+      "views": 8002
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 24494
+      "views": 32496
     }
   ]
 }

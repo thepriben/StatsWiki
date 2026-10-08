@@ -4,7 +4,7 @@
   "title": "John_Travolta",
   "description": "American actor (born 1954)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Travolta%2C_2014_%28cropped%29.jpg?width=64",
-  "total": 21820534,
+  "total": 21829659,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-09",
       "views": 72572
+    },
+    {
+      "period": "2026-10",
+      "views": 9125
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 682921
+      "views": 692046
     }
   ]
 }

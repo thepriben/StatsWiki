@@ -4,7 +4,7 @@
   "title": "San_Diego_Padres",
   "description": "Major League Baseball franchise in San Diego, California, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SD_Logo_Gold.jpg?width=64",
-  "total": 209964,
+  "total": 218172,
   "monthly": [
     {
       "period": "2019-02",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 7572
+    },
+    {
+      "period": "2026-10",
+      "views": 8208
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 7572
+      "views": 15780
     }
   ]
 }

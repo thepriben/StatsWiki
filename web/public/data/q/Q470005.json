@@ -4,7 +4,7 @@
   "title": "Joe_Manganiello",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Manganiello_July_2015.jpg?width=64",
-  "total": 3527732,
+  "total": 3535784,
   "monthly": [
     {
       "period": "2015-07",
@@ -205,6 +205,10 @@
     {
       "period": "2026-07",
       "views": 14121
+    },
+    {
+      "period": "2026-10",
+      "views": 8052
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 76154
+      "views": 84206
     }
   ]
 }

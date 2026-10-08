@@ -4,7 +4,7 @@
   "title": "Emma_Slater",
   "description": "British-American dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma_Slater_DSC_1005.jpg?width=64",
-  "total": 431671,
+  "total": 441816,
   "monthly": [
     {
       "period": "2015-10",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 47390
+    },
+    {
+      "period": "2026-10",
+      "views": 10145
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 47390
+      "views": 57535
     }
   ]
 }

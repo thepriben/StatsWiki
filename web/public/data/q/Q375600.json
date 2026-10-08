@@ -4,7 +4,7 @@
   "title": "Don_Nelson",
   "description": "American basketball player and coach (1940–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Nelson.jpg?width=64",
-  "total": 392586,
+  "total": 400563,
   "monthly": [
     {
       "period": "2018-12",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 207937
+    },
+    {
+      "period": "2026-10",
+      "views": 7977
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 207937
+      "views": 215914
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "qid": "Q99264168",
+  "label": "Hurricane Sally",
+  "title": "Hurricane_Sally",
+  "description": "Category 2 Atlantic hurricane in 2020",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sally_2020-09-16_0400Z.jpg?width=64",
+  "total": 72188,
+  "monthly": [
+    {
+      "period": "2020-09",
+      "views": 62579
+    },
+    {
+      "period": "2026-10",
+      "views": 9609
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 62579
+    },
+    {
+      "period": "2026",
+      "views": 9609
+    }
+  ]
+}

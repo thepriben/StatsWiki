@@ -4,7 +4,7 @@
   "title": "North_by_Northwest",
   "description": "1959 film by Alfred Hitchcock",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_by_Northwest_movie_trailer_screenshot_%285%29.jpg?width=64",
-  "total": 404749,
+  "total": 420283,
   "monthly": [
     {
       "period": "2015-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-08",
       "views": 9763
+    },
+    {
+      "period": "2026-10",
+      "views": 15534
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 25742
+      "views": 41276
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Bill_Nye",
   "description": "American science educator, comedian, television host, actor, writer, scientist and mechanical engineer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Nye_by_Gage_Skidmore.jpg?width=64",
-  "total": 2345436,
+  "total": 2355298,
   "monthly": [
     {
       "period": "2015-08",
@@ -141,6 +141,10 @@
     {
       "period": "2026-09",
       "views": 7659
+    },
+    {
+      "period": "2026-10",
+      "views": 9862
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 7659
+      "views": 17521
     }
   ]
 }

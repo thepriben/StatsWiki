@@ -4,7 +4,7 @@
   "title": "Nicolás_Otamendi",
   "description": "Argentine association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Otamendi_Argentina_v_Egypt_7_July_2026-030.jpg?width=64",
-  "total": 1028015,
+  "total": 1038083,
   "monthly": [
     {
       "period": "2015-08",
@@ -65,6 +65,10 @@
     {
       "period": "2026-07",
       "views": 290266
+    },
+    {
+      "period": "2026-10",
+      "views": 10068
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 385563
+      "views": 395631
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Anora",
   "description": "2024 film directed by Sean Baker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anora_logo.svg?width=64",
-  "total": 9151972,
+  "total": 9160347,
   "monthly": [
     {
       "period": "2024-12",
@@ -65,6 +65,10 @@
     {
       "period": "2026-09",
       "views": 63395
+    },
+    {
+      "period": "2026-10",
+      "views": 8375
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 231572
+      "views": 239947
     }
   ]
 }

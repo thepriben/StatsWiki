@@ -4,7 +4,7 @@
   "title": "Pasha_Pashkov",
   "description": "professional dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasha_Pashkov_on_Panache_Star_Dancesport.jpg?width=64",
-  "total": 72920,
+  "total": 82595,
   "monthly": [
     {
       "period": "2025-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 49652
+    },
+    {
+      "period": "2026-10",
+      "views": 9675
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 49652
+      "views": 59327
     }
   ]
 }

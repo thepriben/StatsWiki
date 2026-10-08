@@ -4,7 +4,7 @@
   "title": "Tara_Lipinski",
   "description": "American figure skater (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tara_Lipinski_in_Sochi.jpg?width=64",
-  "total": 3964264,
+  "total": 3977484,
   "monthly": [
     {
       "period": "2016-01",
@@ -89,6 +89,10 @@
     {
       "period": "2026-03",
       "views": 56728
+    },
+    {
+      "period": "2026-10",
+      "views": 13220
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 1531945
+      "views": 1545165
     }
   ]
 }

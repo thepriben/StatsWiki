@@ -4,7 +4,7 @@
   "title": "Doerman_family_murders",
   "description": "shooting in Ohio, US",
   "image": "",
-  "total": 22439,
+  "total": 33984,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 13081
+    },
+    {
+      "period": "2026-10",
+      "views": 11545
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 22439
+      "views": 33984
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Edgar_Allan_Poe",
   "description": "American writer and literary critic (1809–1849)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?width=64",
-  "total": 6575566,
+  "total": 6583880,
   "monthly": [
     {
       "period": "2015-09",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 10608
+    },
+    {
+      "period": "2026-10",
+      "views": 8314
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 53463
+      "views": 61777
     }
   ]
 }

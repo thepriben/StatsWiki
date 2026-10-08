@@ -4,7 +4,7 @@
   "title": "Kyle_MacLachlan",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle_MacLachlan_by_Gage_Skidmore.jpg?width=64",
-  "total": 977647,
+  "total": 988677,
   "monthly": [
     {
       "period": "2017-05",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 30838
+    },
+    {
+      "period": "2026-10",
+      "views": 11030
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 75658
+      "views": 86688
     }
   ]
 }

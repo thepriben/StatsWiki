@@ -4,7 +4,7 @@
   "title": "Joan_Collins",
   "description": "English actress, author and columnist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan_Collins_at_the_2026_Cannes_Film_Festival.jpg?width=64",
-  "total": 2848015,
+  "total": 2858568,
   "monthly": [
     {
       "period": "2015-07",
@@ -189,6 +189,10 @@
     {
       "period": "2026-06",
       "views": 24863
+    },
+    {
+      "period": "2026-10",
+      "views": 10553
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 43874
+      "views": 54427
     }
   ]
 }

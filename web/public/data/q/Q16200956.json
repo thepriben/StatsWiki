@@ -4,7 +4,7 @@
   "title": "Sharna_Burgess",
   "description": "Australian dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharna_Burgess_October_2%2C2012.jpg?width=64",
-  "total": 829692,
+  "total": 841239,
   "monthly": [
     {
       "period": "2015-09",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 70175
+    },
+    {
+      "period": "2026-10",
+      "views": 11547
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 70175
+      "views": 81722
     }
   ]
 }

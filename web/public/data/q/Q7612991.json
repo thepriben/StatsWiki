@@ -4,7 +4,7 @@
   "title": "Steve_Kazee",
   "description": "American actor (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Kazee_2016.png?width=64",
-  "total": 743093,
+  "total": 757121,
   "monthly": [
     {
       "period": "2018-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-09",
       "views": 82012
+    },
+    {
+      "period": "2026-10",
+      "views": 14028
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 93213
+      "views": 107241
     }
   ]
 }

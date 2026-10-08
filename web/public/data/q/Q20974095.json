@@ -2,9 +2,9 @@
   "qid": "Q20974095",
   "label": "Mia Goth",
   "title": "Mia_Goth",
-  "description": "British actress (born 1993)",
+  "description": "British actress and model (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mia_Goth_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg?width=64",
-  "total": 10378570,
+  "total": 10419399,
   "monthly": [
     {
       "period": "2016-03",
@@ -233,6 +233,10 @@
     {
       "period": "2026-08",
       "views": 118225
+    },
+    {
+      "period": "2026-10",
+      "views": 40829
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 1504403
+      "views": 1545232
     }
   ]
 }

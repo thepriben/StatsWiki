@@ -4,7 +4,7 @@
   "title": "Megyn_Kelly",
   "description": "American journalist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MegynKelly.jpg?width=64",
-  "total": 9098314,
+  "total": 9109520,
   "monthly": [
     {
       "period": "2015-08",
@@ -269,6 +269,10 @@
     {
       "period": "2026-04",
       "views": 49339
+    },
+    {
+      "period": "2026-10",
+      "views": 11206
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 124538
+      "views": 135744
     }
   ]
 }

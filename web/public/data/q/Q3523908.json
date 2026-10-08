@@ -4,7 +4,7 @@
   "title": "Hypersonic_flight",
   "description": "flight below 90 kilometres at speeds above Mach 5",
   "image": "",
-  "total": 64569,
+  "total": 74658,
   "monthly": [
     {
       "period": "2020-09",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-10",
-      "views": 10128
+      "views": 20217
     }
   ],
   "yearly": [
@@ -42,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 30334
+      "views": 40423
     }
   ]
 }

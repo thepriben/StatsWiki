@@ -4,7 +4,7 @@
   "title": "Tyler_Cameron",
   "description": "American television personality and model",
   "image": "",
-  "total": 229427,
+  "total": 266242,
   "monthly": [
     {
       "period": "2021-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 147894
+    },
+    {
+      "period": "2026-10",
+      "views": 36815
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 147894
+      "views": 184709
     }
   ]
 }

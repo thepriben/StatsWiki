@@ -4,7 +4,7 @@
   "title": "NCIS_(TV_series)",
   "description": "American military drama/police procedural fiction television series (2003-)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NCIS_%28TV_series%29_logo.svg?width=64",
-  "total": 4890998,
+  "total": 4906615,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-05",
       "views": 8325
+    },
+    {
+      "period": "2026-10",
+      "views": 15617
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 55298
+      "views": 70915
     }
   ]
 }

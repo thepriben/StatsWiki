@@ -4,7 +4,7 @@
   "title": "Michael_Weatherly",
   "description": "American actor and director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Weatherly_at_San_Diego_Comic_Con_2025.jpg?width=64",
-  "total": 863387,
+  "total": 875895,
   "monthly": [
     {
       "period": "2015-11",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 8451
+    },
+    {
+      "period": "2026-10",
+      "views": 12508
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 63791
+      "views": 76299
     }
   ]
 }

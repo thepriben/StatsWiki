@@ -4,7 +4,7 @@
   "title": "Jason_Watkins",
   "description": "British actor",
   "image": "",
-  "total": 128885,
+  "total": 136629,
   "monthly": [
     {
       "period": "2020-09",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 9196
+    },
+    {
+      "period": "2026-10",
+      "views": 7744
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 9196
+      "views": 16940
     }
   ]
 }

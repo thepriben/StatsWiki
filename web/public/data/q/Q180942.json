@@ -4,7 +4,7 @@
   "title": "Shia_LaBeouf",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shia_Labeouf_2014.jpg?width=64",
-  "total": 19656814,
+  "total": 19681281,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-08",
       "views": 48803
+    },
+    {
+      "period": "2026-10",
+      "views": 24467
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 1584989
+      "views": 1609456
     }
   ]
 }

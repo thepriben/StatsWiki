@@ -4,7 +4,7 @@
   "title": "6-7_meme",
   "description": "2025-2026 Internet meme",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/6-7_Meme_Washington_University.jpg?width=64",
-  "total": 13330794,
+  "total": 13340739,
   "monthly": [
     {
       "period": "2025-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 7531
+    },
+    {
+      "period": "2026-10",
+      "views": 9945
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 2905308
+      "views": 2915253
     }
   ]
 }

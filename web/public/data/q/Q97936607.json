@@ -1,0 +1,32 @@
+{
+  "qid": "Q97936607",
+  "label": "Hurricane Isaias",
+  "title": "Hurricane_Isaias",
+  "description": "Category 1 Atlantic hurricane in 2020",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaias_2020-07-31_1820Z.jpg?width=64",
+  "total": 155788,
+  "monthly": [
+    {
+      "period": "2020-07",
+      "views": 16818
+    },
+    {
+      "period": "2020-08",
+      "views": 127266
+    },
+    {
+      "period": "2026-10",
+      "views": 11704
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 144084
+    },
+    {
+      "period": "2026",
+      "views": 11704
+    }
+  ]
+}

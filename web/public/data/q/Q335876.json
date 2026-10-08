@@ -4,7 +4,7 @@
   "title": "Patrick_Kane",
   "description": "American ice hockey player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Kane_-_Chicago_Blackhawks.jpg?width=64",
-  "total": 515052,
+  "total": 522799,
   "monthly": [
     {
       "period": "2015-08",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 8419
+    },
+    {
+      "period": "2026-10",
+      "views": 7747
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 139253
+      "views": 147000
     }
   ]
 }

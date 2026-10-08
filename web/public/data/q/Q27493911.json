@@ -4,7 +4,7 @@
   "title": "Amber_Midthunder",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Midthunder_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?width=64",
-  "total": 1476231,
+  "total": 1487175,
   "monthly": [
     {
       "period": "2021-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 9708
+    },
+    {
+      "period": "2026-10",
+      "views": 10944
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 9708
+      "views": 20652
     }
   ]
 }

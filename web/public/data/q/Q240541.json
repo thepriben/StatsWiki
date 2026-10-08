@@ -4,7 +4,7 @@
   "title": "Tatyana_Ali",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Streamy_Awards_Photo_1302_%284513297565%29.jpg?width=64",
-  "total": 772870,
+  "total": 801446,
   "monthly": [
     {
       "period": "2015-10",
@@ -65,6 +65,10 @@
     {
       "period": "2026-09",
       "views": 183633
+    },
+    {
+      "period": "2026-10",
+      "views": 28576
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 195273
+      "views": 223849
     }
   ]
 }
