@@ -4,7 +4,7 @@
   "title": "Ronan_Farrow",
   "description": "American journalist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulitzer2018-ronan-farrow-20180530-wp.jpg?width=64",
-  "total": 6854614,
+  "total": 6862374,
   "monthly": [
     {
       "period": "2016-03",
@@ -189,6 +189,10 @@
     {
       "period": "2026-09",
       "views": 12736
+    },
+    {
+      "period": "2026-10",
+      "views": 7760
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 245847
+      "views": 253607
     }
   ]
 }

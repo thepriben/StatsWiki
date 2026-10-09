@@ -4,7 +4,7 @@
   "title": "Wicker_(film)",
   "description": "upcoming film directed by Alex Huston Fischer and Eleanor Wilson",
   "image": "",
-  "total": 420935,
+  "total": 431240,
   "monthly": [
     {
       "period": "2026-07",
@@ -17,12 +17,16 @@
     {
       "period": "2026-09",
       "views": 17351
+    },
+    {
+      "period": "2026-10",
+      "views": 10305
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 420935
+      "views": 431240
     }
   ]
 }

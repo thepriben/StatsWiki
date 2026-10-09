@@ -4,7 +4,7 @@
   "title": "Linda_Cardellini",
   "description": "American actress (b. 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linda_Cardellini_%282019%29.jpg?width=64",
-  "total": 7502155,
+  "total": 7512205,
   "monthly": [
     {
       "period": "2015-08",
@@ -253,6 +253,10 @@
     {
       "period": "2026-09",
       "views": 118765
+    },
+    {
+      "period": "2026-10",
+      "views": 10050
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 992294
+      "views": 1002344
     }
   ]
 }

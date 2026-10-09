@@ -4,7 +4,7 @@
   "title": "Jack_Wilshere",
   "description": "English association football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?width=64",
-  "total": 905670,
+  "total": 929917,
   "monthly": [
     {
       "period": "2016-05",
@@ -109,6 +109,10 @@
     {
       "period": "2026-08",
       "views": 9570
+    },
+    {
+      "period": "2026-10",
+      "views": 24247
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 47823
+      "views": 72070
     }
   ]
 }

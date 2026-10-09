@@ -4,7 +4,7 @@
   "title": "The_Wicker_Man",
   "description": "1973 film directed by Robin Hardy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Wicker_Man_%281973%29_US_trailer_-_Title_1.png?width=64",
-  "total": 92576,
+  "total": 101308,
   "monthly": [
     {
       "period": "2023-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 9019
+    },
+    {
+      "period": "2026-10",
+      "views": 8732
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 45434
+      "views": 54166
     }
   ]
 }

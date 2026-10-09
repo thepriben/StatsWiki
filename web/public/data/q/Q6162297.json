@@ -4,7 +4,7 @@
   "title": "Jason_Cundy",
   "description": "English footballer",
   "image": "",
-  "total": 90160,
+  "total": 100238,
   "monthly": [
     {
       "period": "2018-07",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 16473
+    },
+    {
+      "period": "2026-10",
+      "views": 10078
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 44334
+      "views": 54412
     }
   ]
 }

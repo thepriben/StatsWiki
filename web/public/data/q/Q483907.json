@@ -4,7 +4,7 @@
   "title": "Jack_Black",
   "description": "American actor, comedian, singer, musician and producer (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Black_KCA_2025.png?width=64",
-  "total": 8667019,
+  "total": 8681827,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-09",
       "views": 9780
+    },
+    {
+      "period": "2026-10",
+      "views": 14808
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 511262
+      "views": 526070
     }
   ]
 }

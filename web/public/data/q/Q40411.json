@@ -1,0 +1,40 @@
+{
+  "qid": "Q40411",
+  "label": "Moyenne Island",
+  "title": "Moyenne_Island",
+  "description": "island in Seychelles",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sainte_Anne_Marine_Park_asv2024-10_img28.jpg?width=64",
+  "total": 91063,
+  "monthly": [
+    {
+      "period": "2022-01",
+      "views": 29367
+    },
+    {
+      "period": "2022-08",
+      "views": 9087
+    },
+    {
+      "period": "2023-12",
+      "views": 39035
+    },
+    {
+      "period": "2026-10",
+      "views": 13574
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 38454
+    },
+    {
+      "period": "2023",
+      "views": 39035
+    },
+    {
+      "period": "2026",
+      "views": 13574
+    }
+  ]
+}

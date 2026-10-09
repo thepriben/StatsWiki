@@ -1,0 +1,36 @@
+{
+  "qid": "Q1823053",
+  "label": "Liberty X",
+  "title": "Liberty_X",
+  "description": "band that plays popular music",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty_X_live_in_Glasgow.jpg?width=64",
+  "total": 125826,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 38483
+    },
+    {
+      "period": "2016-03",
+      "views": 11212
+    },
+    {
+      "period": "2016-04",
+      "views": 67960
+    },
+    {
+      "period": "2026-10",
+      "views": 8171
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 117655
+    },
+    {
+      "period": "2026",
+      "views": 8171
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Malala_Yousafzai",
   "description": "Pakistani children's education activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malala_Yousafzai_2015.jpg?width=64",
-  "total": 6385468,
+  "total": 6395666,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-09",
       "views": 19365
+    },
+    {
+      "period": "2026-10",
+      "views": 10198
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 58308
+      "views": 68506
     }
   ]
 }

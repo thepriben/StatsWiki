@@ -4,7 +4,7 @@
   "title": "Katie_Piper",
   "description": "British philanthropist, presenter, writer and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katie_Piper_%28cropped%29_%28cropped%29.jpg?width=64",
-  "total": 1231161,
+  "total": 1239349,
   "monthly": [
     {
       "period": "2015-09",
@@ -141,6 +141,10 @@
     {
       "period": "2026-09",
       "views": 116365
+    },
+    {
+      "period": "2026-10",
+      "views": 8188
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 145209
+      "views": 153397
     }
   ]
 }

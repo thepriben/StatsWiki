@@ -4,7 +4,7 @@
   "title": "Housefull_5",
   "description": "2025 film directed by Tarun Mansukhani",
   "image": "",
-  "total": 3582523,
+  "total": 3598578,
   "monthly": [
     {
       "period": "2025-04",
@@ -29,12 +29,20 @@
     {
       "period": "2025-10",
       "views": 11983
+    },
+    {
+      "period": "2026-10",
+      "views": 16055
     }
   ],
   "yearly": [
     {
       "period": "2025",
       "views": 3582523
+    },
+    {
+      "period": "2026",
+      "views": 16055
     }
   ]
 }

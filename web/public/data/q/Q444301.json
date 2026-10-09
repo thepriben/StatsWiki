@@ -4,7 +4,7 @@
   "title": "Leslie_Van_Houten",
   "description": "convicted murderer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leslie_Van_Houten_1999.jpg?width=64",
-  "total": 1738960,
+  "total": 1748910,
   "monthly": [
     {
       "period": "2016-04",
@@ -97,6 +97,10 @@
     {
       "period": "2026-08",
       "views": 87796
+    },
+    {
+      "period": "2026-10",
+      "views": 9950
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 87796
+      "views": 97746
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "qid": "Q50042",
+  "label": "Carina Nebula",
+  "title": "Carina_Nebula",
+  "description": "H II region in the constellation Carina",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eta_small_Giuseppe_Donatiello_%2818835023732%29.jpg?width=64",
+  "total": 140838,
+  "monthly": [
+    {
+      "period": "2022-07",
+      "views": 129382
+    },
+    {
+      "period": "2026-10",
+      "views": 11456
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 129382
+    },
+    {
+      "period": "2026",
+      "views": 11456
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "qid": "Q2003",
+  "label": "Newfoundland and Labrador",
+  "title": "Newfoundland_and_Labrador",
+  "description": "province of Canada",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NLW_Table2_tango7174.jpg?width=64",
+  "total": 49204,
+  "monthly": [
+    {
+      "period": "2023-06",
+      "views": 41470
+    },
+    {
+      "period": "2026-10",
+      "views": 7734
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 41470
+    },
+    {
+      "period": "2026",
+      "views": 7734
+    }
+  ]
+}

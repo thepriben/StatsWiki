@@ -4,7 +4,7 @@
   "title": "Iraq",
   "description": "sovereign state in Western Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Sulaymaniyah_%28Slemani%29_City_in_Winter_-_Snow_2015.JPG?width=64",
-  "total": 2150901,
+  "total": 2270151,
   "monthly": [
     {
       "period": "2015-11",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 28022
+    },
+    {
+      "period": "2026-10",
+      "views": 119250
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 442777
+      "views": 562027
     }
   ]
 }

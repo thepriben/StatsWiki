@@ -4,7 +4,7 @@
   "title": "Planet_Nine",
   "description": "hypothetical large planet in the far outer Solar System",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Planet_nine_artistic_plain.png?width=64",
-  "total": 702336,
+  "total": 711411,
   "monthly": [
     {
       "period": "2016-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 10796
+    },
+    {
+      "period": "2026-10",
+      "views": 9075
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 10796
+      "views": 19871
     }
   ]
 }

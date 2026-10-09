@@ -4,7 +4,7 @@
   "title": "Ethiopia",
   "description": "country in the Horn of Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia_in_its_region.svg?width=64",
-  "total": 1389837,
+  "total": 1397524,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 15876
+    },
+    {
+      "period": "2026-10",
+      "views": 7687
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 24913
+      "views": 32600
     }
   ]
 }

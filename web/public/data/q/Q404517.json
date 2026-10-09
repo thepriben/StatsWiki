@@ -4,7 +4,7 @@
   "title": "Kargil_War",
   "description": "1999 conflict between India and Pakistan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kargil_war.jpg?width=64",
-  "total": 3342195,
+  "total": 3353310,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 314998
+    },
+    {
+      "period": "2026-10",
+      "views": 11115
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 332722
+      "views": 343837
     }
   ]
 }

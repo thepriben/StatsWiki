@@ -4,7 +4,7 @@
   "title": "Home_(The_X-Files)",
   "description": "episode of The X-Files (S4 E2)",
   "image": "",
-  "total": 345472,
+  "total": 357046,
   "monthly": [
     {
       "period": "2015-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 10860
+    },
+    {
+      "period": "2026-10",
+      "views": 11574
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 68520
+      "views": 80094
     }
   ]
 }

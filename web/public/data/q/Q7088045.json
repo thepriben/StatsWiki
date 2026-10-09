@@ -4,7 +4,7 @@
   "title": "Olivia_Colman",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivia_Colman_Soccer_Aid_for_UNICEF_2024.jpg?width=64",
-  "total": 6591652,
+  "total": 6600547,
   "monthly": [
     {
       "period": "2016-01",
@@ -225,6 +225,10 @@
     {
       "period": "2026-09",
       "views": 20480
+    },
+    {
+      "period": "2026-10",
+      "views": 8895
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 488276
+      "views": 497171
     }
   ]
 }

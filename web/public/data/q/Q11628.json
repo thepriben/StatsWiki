@@ -1,10 +1,10 @@
 {
   "qid": "Q11628",
-  "label": "Margaret Hamilton",
+  "label": "Margaret Hamilton (software engineer)",
   "title": "Margaret_Hamilton_(software_engineer)",
-  "description": "American NASA scientist and mathematician",
+  "description": "American computer scientist and mathematician (1936–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret_Hamilton_1995.jpg?width=64",
-  "total": 84476,
+  "total": 247215,
   "monthly": [
     {
       "period": "2019-07",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 12046
+    },
+    {
+      "period": "2026-10",
+      "views": 162739
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 12046
+      "views": 174785
     }
   ]
 }

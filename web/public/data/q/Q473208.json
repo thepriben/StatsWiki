@@ -4,7 +4,7 @@
   "title": "Roger_Clemens",
   "description": "American baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_clemens_2004.jpg?width=64",
-  "total": 178548,
+  "total": 195526,
   "monthly": [
     {
       "period": "2016-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 11422
+    },
+    {
+      "period": "2026-10",
+      "views": 16978
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 20709
+      "views": 37687
     }
   ]
 }

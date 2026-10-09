@@ -1,0 +1,60 @@
+{
+  "qid": "Q111668106",
+  "label": "Aftersun",
+  "title": "Aftersun",
+  "description": "2022 film directed by Charlotte Wells",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aftersun-logo.png?width=64",
+  "total": 1010554,
+  "monthly": [
+    {
+      "period": "2022-12",
+      "views": 13222
+    },
+    {
+      "period": "2023-01",
+      "views": 486675
+    },
+    {
+      "period": "2023-02",
+      "views": 273732
+    },
+    {
+      "period": "2023-03",
+      "views": 197917
+    },
+    {
+      "period": "2024-02",
+      "views": 19375
+    },
+    {
+      "period": "2025-04",
+      "views": 11586
+    },
+    {
+      "period": "2026-10",
+      "views": 8047
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 13222
+    },
+    {
+      "period": "2023",
+      "views": 958324
+    },
+    {
+      "period": "2024",
+      "views": 19375
+    },
+    {
+      "period": "2025",
+      "views": 11586
+    },
+    {
+      "period": "2026",
+      "views": 8047
+    }
+  ]
+}

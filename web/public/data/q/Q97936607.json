@@ -4,7 +4,7 @@
   "title": "Hurricane_Isaias",
   "description": "Category 1 Atlantic hurricane in 2020",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaias_2020-07-31_1820Z.jpg?width=64",
-  "total": 155788,
+  "total": 175167,
   "monthly": [
     {
       "period": "2020-07",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-10",
-      "views": 11704
+      "views": 31083
     }
   ],
   "yearly": [
@@ -26,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 11704
+      "views": 31083
     }
   ]
 }

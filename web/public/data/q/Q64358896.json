@@ -4,7 +4,7 @@
   "title": "Anthony_Volpe",
   "description": "American professional baseball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Volpe_%2852073955522%29.jpg?width=64",
-  "total": 605763,
+  "total": 616324,
   "monthly": [
     {
       "period": "2023-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 10068
+    },
+    {
+      "period": "2026-10",
+      "views": 10561
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 10068
+      "views": 20629
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Hurricane_Sally",
   "description": "Category 2 Atlantic hurricane in 2020",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sally_2020-09-16_0400Z.jpg?width=64",
-  "total": 72188,
+  "total": 86665,
   "monthly": [
     {
       "period": "2020-09",
@@ -12,7 +12,7 @@
     },
     {
       "period": "2026-10",
-      "views": 9609
+      "views": 24086
     }
   ],
   "yearly": [
@@ -22,7 +22,7 @@
     },
     {
       "period": "2026",
-      "views": 9609
+      "views": 24086
     }
   ]
 }
