@@ -4,7 +4,7 @@
   "title": "Constance_Wu",
   "description": "American actress (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Constance_Wu_at_the_2024_New_York_Film_Festival.jpg?width=64",
-  "total": 3602509,
+  "total": 3611537,
   "monthly": [
     {
       "period": "2015-08",
@@ -121,6 +121,10 @@
     {
       "period": "2026-08",
       "views": 15000
+    },
+    {
+      "period": "2026-10",
+      "views": 9028
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 22760
+      "views": 31788
     }
   ]
 }

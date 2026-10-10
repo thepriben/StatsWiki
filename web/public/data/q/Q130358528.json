@@ -1,0 +1,40 @@
+{
+  "qid": "Q130358528",
+  "label": "Hurricane Helene",
+  "title": "Hurricane_Helene",
+  "description": "Category 4 Atlantic hurricane in 2024",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Helene_2024-09-27_0146Z.jpg?width=64",
+  "total": 1305553,
+  "monthly": [
+    {
+      "period": "2024-09",
+      "views": 170808
+    },
+    {
+      "period": "2024-10",
+      "views": 1113931
+    },
+    {
+      "period": "2025-09",
+      "views": 10237
+    },
+    {
+      "period": "2026-10",
+      "views": 10577
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 1284739
+    },
+    {
+      "period": "2025",
+      "views": 10237
+    },
+    {
+      "period": "2026",
+      "views": 10577
+    }
+  ]
+}

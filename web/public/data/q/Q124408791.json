@@ -4,7 +4,7 @@
   "title": "Tamilaga_Vettri_Kazhagam",
   "description": "political party in Tamil Nadu, India",
   "image": "",
-  "total": 2126968,
+  "total": 2136009,
   "monthly": [
     {
       "period": "2024-02",
@@ -45,6 +45,10 @@
     {
       "period": "2026-05",
       "views": 1481998
+    },
+    {
+      "period": "2026-10",
+      "views": 9041
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 1630913
+      "views": 1639954
     }
   ]
 }

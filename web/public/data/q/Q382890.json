@@ -4,7 +4,7 @@
   "title": "Oasis_(band)",
   "description": "British rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oasis_-_Wembley_Stadium_-_Saturday_27th_September_2025.jpg?width=64",
-  "total": 4147895,
+  "total": 4156753,
   "monthly": [
     {
       "period": "2016-10",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 154725
+    },
+    {
+      "period": "2026-10",
+      "views": 8858
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 215023
+      "views": 223881
     }
   ]
 }

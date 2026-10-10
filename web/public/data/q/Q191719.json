@@ -4,7 +4,7 @@
   "title": "Zooey_Deschanel",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zooey_Deschanel_-_Song_Sung_Blue.jpg?width=64",
-  "total": 13496255,
+  "total": 13513293,
   "monthly": [
     {
       "period": "2015-08",
@@ -365,6 +365,10 @@
     {
       "period": "2026-08",
       "views": 18357
+    },
+    {
+      "period": "2026-10",
+      "views": 17038
     }
   ],
   "yearly": [
@@ -414,7 +418,7 @@
     },
     {
       "period": "2026",
-      "views": 60425
+      "views": 77463
     }
   ]
 }

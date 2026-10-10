@@ -4,7 +4,7 @@
   "title": "Bob_Saget",
   "description": "American stand-up comedian (1957–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Saget%2C_Behind_The_Velvet_Rope_TV_.05.jpg?width=64",
-  "total": 8087251,
+  "total": 8095710,
   "monthly": [
     {
       "period": "2015-08",
@@ -113,6 +113,10 @@
     {
       "period": "2026-05",
       "views": 26950
+    },
+    {
+      "period": "2026-10",
+      "views": 8459
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 41102
+      "views": 49561
     }
   ]
 }

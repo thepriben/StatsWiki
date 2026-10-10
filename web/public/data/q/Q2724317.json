@@ -4,7 +4,7 @@
   "title": "Election_Commission_of_India",
   "description": "election regulatory body of India",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Election_Commission_of_India_Logo.svg?width=64",
-  "total": 1743389,
+  "total": 1756313,
   "monthly": [
     {
       "period": "2017-03",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 18244
+    },
+    {
+      "period": "2026-10",
+      "views": 12924
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 86509
+      "views": 99433
     }
   ]
 }

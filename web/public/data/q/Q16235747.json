@@ -4,7 +4,7 @@
   "title": "Dak_Prescott",
   "description": "American football player (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dak_Prescott_20151105.png?width=64",
-  "total": 6088200,
+  "total": 6116255,
   "monthly": [
     {
       "period": "2016-04",
@@ -221,6 +221,10 @@
     {
       "period": "2026-09",
       "views": 97552
+    },
+    {
+      "period": "2026-10",
+      "views": 28055
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 120182
+      "views": 148237
     }
   ]
 }

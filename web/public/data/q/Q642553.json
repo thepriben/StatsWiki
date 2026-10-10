@@ -1,0 +1,60 @@
+{
+  "qid": "Q642553",
+  "label": "Cleveland Guardians",
+  "title": "Cleveland_Guardians",
+  "description": "baseball team and Major League Baseball franchise in Cleveland, Ohio",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cleveland_Indians_primary_logo.svg?width=64",
+  "total": 450481,
+  "monthly": [
+    {
+      "period": "2022-02",
+      "views": 11417
+    },
+    {
+      "period": "2022-04",
+      "views": 42798
+    },
+    {
+      "period": "2022-10",
+      "views": 153428
+    },
+    {
+      "period": "2024-10",
+      "views": 196428
+    },
+    {
+      "period": "2025-07",
+      "views": 10978
+    },
+    {
+      "period": "2025-10",
+      "views": 9533
+    },
+    {
+      "period": "2025-12",
+      "views": 15293
+    },
+    {
+      "period": "2026-10",
+      "views": 10606
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 207643
+    },
+    {
+      "period": "2024",
+      "views": 196428
+    },
+    {
+      "period": "2025",
+      "views": 35804
+    },
+    {
+      "period": "2026",
+      "views": 10606
+    }
+  ]
+}

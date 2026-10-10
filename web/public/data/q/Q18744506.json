@@ -4,29 +4,45 @@
   "title": "Suthida_Tidjai",
   "description": "Queen Consort of Thailand",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suthida_2025.jpg?width=64",
-  "total": 53593,
+  "total": 358740,
   "monthly": [
     {
+      "period": "2019-05",
+      "views": 176744
+    },
+    {
       "period": "2019-08",
-      "views": 11364
+      "views": 26295
     },
     {
       "period": "2019-10",
-      "views": 24469
+      "views": 101861
+    },
+    {
+      "period": "2020-09",
+      "views": 10339
     },
     {
       "period": "2026-06",
       "views": 17760
+    },
+    {
+      "period": "2026-10",
+      "views": 25741
     }
   ],
   "yearly": [
     {
       "period": "2019",
-      "views": 35833
+      "views": 304900
+    },
+    {
+      "period": "2020",
+      "views": 10339
     },
     {
       "period": "2026",
-      "views": 17760
+      "views": 43501
     }
   ]
 }

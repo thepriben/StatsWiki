@@ -1,0 +1,68 @@
+{
+  "qid": "Q933067",
+  "label": "Hurricane Ivan",
+  "title": "Hurricane_Ivan",
+  "description": "Category 5 Atlantic hurricane in 2004",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_2004-09-13_1900Z_%28alternate%29.jpg?width=64",
+  "total": 388288,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 87347
+    },
+    {
+      "period": "2017-09",
+      "views": 153753
+    },
+    {
+      "period": "2018-10",
+      "views": 37205
+    },
+    {
+      "period": "2020-09",
+      "views": 31037
+    },
+    {
+      "period": "2022-09",
+      "views": 28960
+    },
+    {
+      "period": "2024-10",
+      "views": 39043
+    },
+    {
+      "period": "2026-10",
+      "views": 10943
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 87347
+    },
+    {
+      "period": "2017",
+      "views": 153753
+    },
+    {
+      "period": "2018",
+      "views": 37205
+    },
+    {
+      "period": "2020",
+      "views": 31037
+    },
+    {
+      "period": "2022",
+      "views": 28960
+    },
+    {
+      "period": "2024",
+      "views": 39043
+    },
+    {
+      "period": "2026",
+      "views": 10943
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Sandy_Hook_Elementary_School_shooting",
   "description": "2012 school massacre in Newtown, Connecticut, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Police_at_Sandy_Hook.PNG?width=64",
-  "total": 10334998,
+  "total": 10342846,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-09",
       "views": 18586
+    },
+    {
+      "period": "2026-10",
+      "views": 7848
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 303062
+      "views": 310910
     }
   ]
 }

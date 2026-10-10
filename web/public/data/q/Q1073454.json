@@ -1,0 +1,80 @@
+{
+  "qid": "Q1073454",
+  "label": "Super Bowl XX",
+  "title": "Super_Bowl_XX",
+  "description": "1986 edition of the Super Bowl",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1986_Jeno%27s_Pizza_-_11_-_Jim_McMahon.jpg?width=64",
+  "total": 240495,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 12817
+    },
+    {
+      "period": "2016-02",
+      "views": 64597
+    },
+    {
+      "period": "2017-02",
+      "views": 27702
+    },
+    {
+      "period": "2018-02",
+      "views": 13936
+    },
+    {
+      "period": "2019-02",
+      "views": 18492
+    },
+    {
+      "period": "2020-06",
+      "views": 20912
+    },
+    {
+      "period": "2025-02",
+      "views": 22407
+    },
+    {
+      "period": "2026-01",
+      "views": 14689
+    },
+    {
+      "period": "2026-02",
+      "views": 19679
+    },
+    {
+      "period": "2026-10",
+      "views": 25264
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 77414
+    },
+    {
+      "period": "2017",
+      "views": 27702
+    },
+    {
+      "period": "2018",
+      "views": 13936
+    },
+    {
+      "period": "2019",
+      "views": 18492
+    },
+    {
+      "period": "2020",
+      "views": 20912
+    },
+    {
+      "period": "2025",
+      "views": 22407
+    },
+    {
+      "period": "2026",
+      "views": 59632
+    }
+  ]
+}

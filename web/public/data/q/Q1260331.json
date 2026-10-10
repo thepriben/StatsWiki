@@ -4,7 +4,7 @@
   "title": "North_Sentinel_Island",
   "description": "one of the Andaman Islands",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Sentinel_Island_2022-03-06_Sentinel-2_L2A_True_color.jpg?width=64",
-  "total": 3631442,
+  "total": 3639399,
   "monthly": [
     {
       "period": "2015-07",
@@ -185,6 +185,10 @@
     {
       "period": "2026-07",
       "views": 9825
+    },
+    {
+      "period": "2026-10",
+      "views": 7957
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 90161
+      "views": 98118
     }
   ]
 }

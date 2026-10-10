@@ -2,9 +2,9 @@
   "qid": "Q1355840",
   "label": "Mike Ditka",
   "title": "Mike_Ditka",
-  "description": "American football player, coach, and television commentator (born 1939)",
+  "description": "American football player, coach, and television commentator (1939-2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Ditka_2008_NFL_Experience_48-DPA-02_01_02_08_%28cropped%29.jpg?width=64",
-  "total": 602435,
+  "total": 1230038,
   "monthly": [
     {
       "period": "2015-11",
@@ -65,6 +65,10 @@
     {
       "period": "2026-09",
       "views": 31662
+    },
+    {
+      "period": "2026-10",
+      "views": 627603
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 115457
+      "views": 743060
     }
   ]
 }

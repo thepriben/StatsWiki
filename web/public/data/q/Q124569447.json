@@ -4,7 +4,7 @@
   "title": "Chloe_Petts",
   "description": "British comedian",
   "image": "",
-  "total": 106651,
+  "total": 123063,
   "monthly": [
     {
       "period": "2024-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 50101
+    },
+    {
+      "period": "2026-10",
+      "views": 16412
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 69244
+      "views": 85656
     }
   ]
 }

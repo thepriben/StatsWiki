@@ -4,7 +4,7 @@
   "title": "John_Malkovich",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Malkovich%2C_Berlinale_2023_cropped.jpg?width=64",
-  "total": 1893367,
+  "total": 1921282,
   "monthly": [
     {
       "period": "2015-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 47792
+    },
+    {
+      "period": "2026-10",
+      "views": 27915
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 47792
+      "views": 75707
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Tua_Tagovailoa",
   "description": "American football player (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg?width=64",
-  "total": 4146089,
+  "total": 4154276,
   "monthly": [
     {
       "period": "2018-01",
@@ -177,6 +177,10 @@
     {
       "period": "2026-09",
       "views": 10038
+    },
+    {
+      "period": "2026-10",
+      "views": 8187
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 64550
+      "views": 72737
     }
   ]
 }

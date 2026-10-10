@@ -4,7 +4,7 @@
   "title": "George_Pickens",
   "description": "American football player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Pickens.png?width=64",
-  "total": 504476,
+  "total": 512360,
   "monthly": [
     {
       "period": "2022-04",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 10204
+    },
+    {
+      "period": "2026-10",
+      "views": 7884
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 10204
+      "views": 18088
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Periodic_table",
   "description": "table systematically placing elements based on atomic number and recurrent properties",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Periodic_table_%2832-col%2C_enwiki%29%2C_black_and_white.png?width=64",
-  "total": 59352195,
+  "total": 59360784,
   "monthly": [
     {
       "period": "2015-07",
@@ -544,7 +544,7 @@
     },
     {
       "period": "2026-10",
-      "views": 61340
+      "views": 69929
     }
   ],
   "yearly": [
@@ -594,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 1342903
+      "views": 1351492
     }
   ]
 }

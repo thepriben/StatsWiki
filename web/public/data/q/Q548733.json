@@ -1,10 +1,10 @@
 {
   "qid": "Q548733",
-  "label": "Vajiralongkorn",
+  "label": "Rama X of Thailand",
   "title": "Vajiralongkorn",
   "description": "King of Thailand since 2016",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Rama_X_official_%28crop%29.png?width=64",
-  "total": 2706183,
+  "total": 2746446,
   "monthly": [
     {
       "period": "2016-06",
@@ -117,6 +117,10 @@
     {
       "period": "2026-06",
       "views": 265576
+    },
+    {
+      "period": "2026-10",
+      "views": 40263
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 273285
+      "views": 313548
     }
   ]
 }

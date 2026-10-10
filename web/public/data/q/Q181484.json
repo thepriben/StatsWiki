@@ -4,7 +4,7 @@
   "title": "Sia_Furler",
   "description": "Australian singer and songwriter (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sia_performing_photograph_by_Kris_Krug.jpg?width=64",
-  "total": 10622321,
+  "total": 10630835,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-06",
       "views": 8208
+    },
+    {
+      "period": "2026-10",
+      "views": 8514
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 96285
+      "views": 104799
     }
   ]
 }

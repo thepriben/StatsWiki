@@ -4,7 +4,7 @@
   "title": "Mukesh_Ambani",
   "description": "Indian businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mukesh_Ambani.jpg?width=64",
-  "total": 9000935,
+  "total": 9008537,
   "monthly": [
     {
       "period": "2016-03",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 9137
+    },
+    {
+      "period": "2026-10",
+      "views": 7602
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 9137
+      "views": 16739
     }
   ]
 }

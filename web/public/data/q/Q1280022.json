@@ -4,7 +4,7 @@
   "title": "Jerry_Jones",
   "description": "American businessman and owner of the Dallas Cowboys",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerry_Jones_owner_dallas_cowboys_2008.jpg?width=64",
-  "total": 2814885,
+  "total": 2841703,
   "monthly": [
     {
       "period": "2015-09",
@@ -205,6 +205,10 @@
     {
       "period": "2026-09",
       "views": 21599
+    },
+    {
+      "period": "2026-10",
+      "views": 26818
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 21599
+      "views": 48417
     }
   ]
 }

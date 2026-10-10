@@ -4,7 +4,7 @@
   "title": "Dichen_Lachman",
   "description": "Australian actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DichenLachman-byPhilipRomano.jpg?width=64",
-  "total": 1370469,
+  "total": 1379380,
   "monthly": [
     {
       "period": "2018-02",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 12401
+    },
+    {
+      "period": "2026-10",
+      "views": 8911
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 12401
+      "views": 21312
     }
   ]
 }

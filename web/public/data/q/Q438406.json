@@ -4,7 +4,7 @@
   "title": "Grey's_Anatomy",
   "description": "American medical drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grey%27s_Anatomy_Logo.svg?width=64",
-  "total": 39218145,
+  "total": 39226738,
   "monthly": [
     {
       "period": "2015-07",
@@ -521,6 +521,10 @@
     {
       "period": "2026-09",
       "views": 8126
+    },
+    {
+      "period": "2026-10",
+      "views": 8593
     }
   ],
   "yearly": [
@@ -570,7 +574,7 @@
     },
     {
       "period": "2026",
-      "views": 543722
+      "views": 552315
     }
   ]
 }
