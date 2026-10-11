@@ -4,7 +4,7 @@
   "title": "ABBA",
   "description": "Swedish pop quartet",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ABBA_-_TopPop_1974_5.png?width=64",
-  "total": 6058984,
+  "total": 6081242,
   "monthly": [
     {
       "period": "2015-12",
@@ -313,6 +313,10 @@
     {
       "period": "2026-08",
       "views": 17032
+    },
+    {
+      "period": "2026-10",
+      "views": 22258
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 98653
+      "views": 120911
     }
   ]
 }

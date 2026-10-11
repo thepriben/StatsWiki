@@ -1,0 +1,112 @@
+{
+  "qid": "Q641010",
+  "label": "Bledisloe Cup",
+  "title": "Bledisloe_Cup",
+  "description": "rugby union competition between Australia and New Zealand",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bledisloe_Cup_on_display_in_Sydney_2014.jpg?width=64",
+  "total": 299932,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 45173
+    },
+    {
+      "period": "2016-08",
+      "views": 23892
+    },
+    {
+      "period": "2017-08",
+      "views": 23593
+    },
+    {
+      "period": "2017-10",
+      "views": 10299
+    },
+    {
+      "period": "2018-08",
+      "views": 27463
+    },
+    {
+      "period": "2019-08",
+      "views": 59087
+    },
+    {
+      "period": "2020-10",
+      "views": 27848
+    },
+    {
+      "period": "2021-08",
+      "views": 12707
+    },
+    {
+      "period": "2022-09",
+      "views": 17127
+    },
+    {
+      "period": "2023-07",
+      "views": 18361
+    },
+    {
+      "period": "2024-09",
+      "views": 10935
+    },
+    {
+      "period": "2025-09",
+      "views": 12423
+    },
+    {
+      "period": "2026-10",
+      "views": 11024
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 45173
+    },
+    {
+      "period": "2016",
+      "views": 23892
+    },
+    {
+      "period": "2017",
+      "views": 33892
+    },
+    {
+      "period": "2018",
+      "views": 27463
+    },
+    {
+      "period": "2019",
+      "views": 59087
+    },
+    {
+      "period": "2020",
+      "views": 27848
+    },
+    {
+      "period": "2021",
+      "views": 12707
+    },
+    {
+      "period": "2022",
+      "views": 17127
+    },
+    {
+      "period": "2023",
+      "views": 18361
+    },
+    {
+      "period": "2024",
+      "views": 10935
+    },
+    {
+      "period": "2025",
+      "views": 12423
+    },
+    {
+      "period": "2026",
+      "views": 11024
+    }
+  ]
+}

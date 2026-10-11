@@ -4,7 +4,7 @@
   "title": "Steve_Sarkisian",
   "description": "American football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2008-0808-USC19-SteveSarkisian.jpg?width=64",
-  "total": 2410482,
+  "total": 2429334,
   "monthly": [
     {
       "period": "2015-08",
@@ -125,6 +125,10 @@
     {
       "period": "2026-09",
       "views": 99772
+    },
+    {
+      "period": "2026-10",
+      "views": 18852
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 99772
+      "views": 118624
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "qid": "Q652069",
+  "label": "BUtterfield 8",
+  "title": "BUtterfield_8",
+  "description": "1960 film by Daniel Mann",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Butterfield8_movieposter.jpg?width=64",
+  "total": 95356,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 12725
+    },
+    {
+      "period": "2017-09",
+      "views": 15487
+    },
+    {
+      "period": "2018-03",
+      "views": 14316
+    },
+    {
+      "period": "2021-02",
+      "views": 19485
+    },
+    {
+      "period": "2021-07",
+      "views": 12129
+    },
+    {
+      "period": "2024-06",
+      "views": 10915
+    },
+    {
+      "period": "2026-10",
+      "views": 10299
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12725
+    },
+    {
+      "period": "2017",
+      "views": 15487
+    },
+    {
+      "period": "2018",
+      "views": 14316
+    },
+    {
+      "period": "2021",
+      "views": 31614
+    },
+    {
+      "period": "2024",
+      "views": 10915
+    },
+    {
+      "period": "2026",
+      "views": 10299
+    }
+  ]
+}

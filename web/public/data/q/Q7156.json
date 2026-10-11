@@ -4,7 +4,7 @@
   "title": "FC_Barcelona",
   "description": "football club in Barcelona, Catalonia, Spain",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FCBarcelona_Camp_Nou_541DSC_0418_%2849954815131%29.jpg?width=64",
-  "total": 39372262,
+  "total": 39380353,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-09",
       "views": 265779
+    },
+    {
+      "period": "2026-10",
+      "views": 8091
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 2609974
+      "views": 2618065
     }
   ]
 }

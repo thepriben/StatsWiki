@@ -4,7 +4,7 @@
   "title": "Gabriel_Jesus",
   "description": "Brazilian association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gabriel_Jesus_850_1688.jpg?width=64",
-  "total": 2070294,
+  "total": 2079689,
   "monthly": [
     {
       "period": "2016-07",
@@ -145,6 +145,10 @@
     {
       "period": "2026-09",
       "views": 156120
+    },
+    {
+      "period": "2026-10",
+      "views": 9395
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 350634
+      "views": 360029
     }
   ]
 }

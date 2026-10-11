@@ -1,0 +1,84 @@
+{
+  "qid": "Q82545",
+  "label": "Sex Pistols",
+  "title": "Sex_Pistols",
+  "description": "English musical group; punk rock band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sex_Pistols_in_Paradiso.jpg?width=64",
+  "total": 1012598,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 25766
+    },
+    {
+      "period": "2017-01",
+      "views": 20331
+    },
+    {
+      "period": "2021-06",
+      "views": 9455
+    },
+    {
+      "period": "2021-08",
+      "views": 15229
+    },
+    {
+      "period": "2021-11",
+      "views": 13885
+    },
+    {
+      "period": "2022-05",
+      "views": 90303
+    },
+    {
+      "period": "2022-06",
+      "views": 748203
+    },
+    {
+      "period": "2022-07",
+      "views": 20417
+    },
+    {
+      "period": "2022-09",
+      "views": 29336
+    },
+    {
+      "period": "2022-12",
+      "views": 12964
+    },
+    {
+      "period": "2025-01",
+      "views": 16427
+    },
+    {
+      "period": "2026-10",
+      "views": 10282
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 25766
+    },
+    {
+      "period": "2017",
+      "views": 20331
+    },
+    {
+      "period": "2021",
+      "views": 38569
+    },
+    {
+      "period": "2022",
+      "views": 901223
+    },
+    {
+      "period": "2025",
+      "views": 16427
+    },
+    {
+      "period": "2026",
+      "views": 10282
+    }
+  ]
+}

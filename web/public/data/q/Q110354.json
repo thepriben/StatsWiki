@@ -4,7 +4,7 @@
   "title": "The_Great_Escape_(film)",
   "description": "1963 American film by John Sturges",
   "image": "",
-  "total": 495923,
+  "total": 512230,
   "monthly": [
     {
       "period": "2016-01",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 8477
+    },
+    {
+      "period": "2026-10",
+      "views": 16307
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 18095
+      "views": 34402
     }
   ]
 }

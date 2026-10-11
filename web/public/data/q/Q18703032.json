@@ -4,7 +4,7 @@
   "title": "Room_(2015_film)",
   "description": "2015 film by Lenny Abrahamson",
   "image": "",
-  "total": 6163662,
+  "total": 6173687,
   "monthly": [
     {
       "period": "2015-07",
@@ -101,6 +101,10 @@
     {
       "period": "2026-09",
       "views": 22948
+    },
+    {
+      "period": "2026-10",
+      "views": 10025
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 22948
+      "views": 32973
     }
   ]
 }

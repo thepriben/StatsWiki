@@ -4,7 +4,7 @@
   "title": "Hokum_(film)",
   "description": "2026 film directed by Damian McCarthy",
   "image": "",
-  "total": 1341667,
+  "total": 1350211,
   "monthly": [
     {
       "period": "2025-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 41140
+    },
+    {
+      "period": "2026-10",
+      "views": 8544
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 1332322
+      "views": 1340866
     }
   ]
 }

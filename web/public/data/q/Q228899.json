@@ -4,7 +4,7 @@
   "title": "Linda_McCartney",
   "description": "American photographer, musician and animal rights activist (1941–1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Montreux%2C_Linda_McCartney-Com_L21-0605-0002-0003.tif?width=64",
-  "total": 1479770,
+  "total": 1488271,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 8046
+    },
+    {
+      "period": "2026-10",
+      "views": 8501
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 293257
+      "views": 301758
     }
   ]
 }

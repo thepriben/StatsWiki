@@ -1,0 +1,36 @@
+{
+  "qid": "Q1124647",
+  "label": "Takeshi's Castle",
+  "title": "Takeshi's_Castle",
+  "description": "game show in Japan",
+  "image": "",
+  "total": 43910,
+  "monthly": [
+    {
+      "period": "2021-03",
+      "views": 11100
+    },
+    {
+      "period": "2022-10",
+      "views": 14002
+    },
+    {
+      "period": "2026-10",
+      "views": 18808
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 11100
+    },
+    {
+      "period": "2022",
+      "views": 14002
+    },
+    {
+      "period": "2026",
+      "views": 18808
+    }
+  ]
+}

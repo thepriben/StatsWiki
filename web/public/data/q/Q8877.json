@@ -4,7 +4,7 @@
   "title": "Steven_Spielberg",
   "description": "American filmmaker (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steven_Spielberg_2025.jpg?width=64",
-  "total": 20898305,
+  "total": 20907034,
   "monthly": [
     {
       "period": "2015-07",
@@ -517,6 +517,10 @@
     {
       "period": "2026-09",
       "views": 87603
+    },
+    {
+      "period": "2026-10",
+      "views": 8729
     }
   ],
   "yearly": [
@@ -566,7 +570,7 @@
     },
     {
       "period": "2026",
-      "views": 2853144
+      "views": 2861873
     }
   ]
 }

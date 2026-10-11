@@ -4,7 +4,7 @@
   "title": "Suki_Waterhouse",
   "description": "British model and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suki_Waterhouse_2015_%28crop%29.jpg?width=64",
-  "total": 4012214,
+  "total": 4020198,
   "monthly": [
     {
       "period": "2016-02",
@@ -201,6 +201,10 @@
     {
       "period": "2026-09",
       "views": 197749
+    },
+    {
+      "period": "2026-10",
+      "views": 7984
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 1109410
+      "views": 1117394
     }
   ]
 }

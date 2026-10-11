@@ -1,0 +1,48 @@
+{
+  "qid": "Q216006",
+  "label": "Pan's Labyrinth",
+  "title": "Pan's_Labyrinth",
+  "description": "2006 film by Guillermo del Toro",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pans_Labyrinth_%28deutsch%29_Titel_2011.jpg?width=64",
+  "total": 318026,
+  "monthly": [
+    {
+      "period": "2018-01",
+      "views": 21645
+    },
+    {
+      "period": "2018-02",
+      "views": 54893
+    },
+    {
+      "period": "2018-03",
+      "views": 140855
+    },
+    {
+      "period": "2018-06",
+      "views": 62552
+    },
+    {
+      "period": "2025-11",
+      "views": 29671
+    },
+    {
+      "period": "2026-10",
+      "views": 8410
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 279945
+    },
+    {
+      "period": "2025",
+      "views": 29671
+    },
+    {
+      "period": "2026",
+      "views": 8410
+    }
+  ]
+}

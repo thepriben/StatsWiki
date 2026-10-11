@@ -4,7 +4,7 @@
   "title": "Roman_Reigns",
   "description": "American professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Reigns_RR25_%281%29_%28headshot%29.jpg?width=64",
-  "total": 16252601,
+  "total": 16261330,
   "monthly": [
     {
       "period": "2015-07",
@@ -489,6 +489,10 @@
     {
       "period": "2026-09",
       "views": 8218
+    },
+    {
+      "period": "2026-10",
+      "views": 8729
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 555082
+      "views": 563811
     }
   ]
 }

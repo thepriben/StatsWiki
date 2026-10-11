@@ -4,7 +4,7 @@
   "title": "Linda_Blair",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Linda_Blair_%2836093719981%29_%28cropped%29.jpg?width=64",
-  "total": 569118,
+  "total": 578153,
   "monthly": [
     {
       "period": "2015-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 24893
+    },
+    {
+      "period": "2026-10",
+      "views": 9035
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 24893
+      "views": 33928
     }
   ]
 }

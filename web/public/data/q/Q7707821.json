@@ -4,7 +4,7 @@
   "title": "Texas_Longhorns_football",
   "description": "football team of the University of Texas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darrell_K_Royal-Texas_Memorial_Stadium_at_Night.jpg?width=64",
-  "total": 163077,
+  "total": 171546,
   "monthly": [
     {
       "period": "2016-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 17571
+    },
+    {
+      "period": "2026-10",
+      "views": 8469
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 17571
+      "views": 26040
     }
   ]
 }

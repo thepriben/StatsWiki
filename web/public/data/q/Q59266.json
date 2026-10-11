@@ -1,0 +1,112 @@
+{
+  "qid": "Q59266",
+  "label": "WWE Money in the Bank",
+  "title": "WWE_Money_in_the_Bank",
+  "description": "WWE pay-per-view",
+  "image": "",
+  "total": 374163,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 13727
+    },
+    {
+      "period": "2016-06",
+      "views": 40263
+    },
+    {
+      "period": "2017-05",
+      "views": 14245
+    },
+    {
+      "period": "2017-06",
+      "views": 22597
+    },
+    {
+      "period": "2018-05",
+      "views": 30139
+    },
+    {
+      "period": "2018-06",
+      "views": 17071
+    },
+    {
+      "period": "2019-05",
+      "views": 23468
+    },
+    {
+      "period": "2020-05",
+      "views": 18046
+    },
+    {
+      "period": "2021-07",
+      "views": 20797
+    },
+    {
+      "period": "2022-07",
+      "views": 24752
+    },
+    {
+      "period": "2023-07",
+      "views": 24654
+    },
+    {
+      "period": "2024-07",
+      "views": 54982
+    },
+    {
+      "period": "2025-06",
+      "views": 54983
+    },
+    {
+      "period": "2026-10",
+      "views": 14439
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 53990
+    },
+    {
+      "period": "2017",
+      "views": 36842
+    },
+    {
+      "period": "2018",
+      "views": 47210
+    },
+    {
+      "period": "2019",
+      "views": 23468
+    },
+    {
+      "period": "2020",
+      "views": 18046
+    },
+    {
+      "period": "2021",
+      "views": 20797
+    },
+    {
+      "period": "2022",
+      "views": 24752
+    },
+    {
+      "period": "2023",
+      "views": 24654
+    },
+    {
+      "period": "2024",
+      "views": 54982
+    },
+    {
+      "period": "2025",
+      "views": 54983
+    },
+    {
+      "period": "2026",
+      "views": 14439
+    }
+  ]
+}

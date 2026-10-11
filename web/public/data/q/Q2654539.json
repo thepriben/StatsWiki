@@ -4,7 +4,7 @@
   "title": "Breanna_Stewart",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breanna_Stewart_at_UConn_Stanford_game.jpg?width=64",
-  "total": 1005125,
+  "total": 1013199,
   "monthly": [
     {
       "period": "2016-03",
@@ -97,6 +97,10 @@
     {
       "period": "2026-09",
       "views": 29712
+    },
+    {
+      "period": "2026-10",
+      "views": 8074
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 39298
+      "views": 47372
     }
   ]
 }

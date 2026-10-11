@@ -4,7 +4,7 @@
   "title": "Helen_Keller",
   "description": "American deafblind author, political activist, lecturer, scholar (1880-1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Helen_Keller_circa_1920_-_restored.jpg?width=64",
-  "total": 3543401,
+  "total": 3558689,
   "monthly": [
     {
       "period": "2015-09",
@@ -337,6 +337,10 @@
     {
       "period": "2026-09",
       "views": 30577
+    },
+    {
+      "period": "2026-10",
+      "views": 15288
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 228273
+      "views": 243561
     }
   ]
 }

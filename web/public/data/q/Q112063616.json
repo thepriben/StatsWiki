@@ -4,7 +4,7 @@
   "title": "Marvin_Harrison_Jr.",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marvin_Harrison_Jr_2022_no_helmet_%28cropped%29.jpg?width=64",
-  "total": 413672,
+  "total": 453051,
   "monthly": [
     {
       "period": "2022-09",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 8669
+    },
+    {
+      "period": "2026-10",
+      "views": 39379
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 8669
+      "views": 48048
     }
   ]
 }

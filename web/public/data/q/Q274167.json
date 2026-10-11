@@ -1,0 +1,80 @@
+{
+  "qid": "Q274167",
+  "label": "The Exorcist",
+  "title": "The_Exorcist",
+  "description": "1973 film directed by William Friedkin",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exorcist_steps.jpg?width=64",
+  "total": 1293351,
+  "monthly": [
+    {
+      "period": "2022-10",
+      "views": 58120
+    },
+    {
+      "period": "2023-04",
+      "views": 15305
+    },
+    {
+      "period": "2023-07",
+      "views": 78750
+    },
+    {
+      "period": "2023-08",
+      "views": 81770
+    },
+    {
+      "period": "2023-09",
+      "views": 216252
+    },
+    {
+      "period": "2023-10",
+      "views": 726908
+    },
+    {
+      "period": "2023-11",
+      "views": 33861
+    },
+    {
+      "period": "2024-10",
+      "views": 32574
+    },
+    {
+      "period": "2024-11",
+      "views": 11360
+    },
+    {
+      "period": "2025-10",
+      "views": 12809
+    },
+    {
+      "period": "2025-11",
+      "views": 11663
+    },
+    {
+      "period": "2026-10",
+      "views": 13979
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 58120
+    },
+    {
+      "period": "2023",
+      "views": 1152846
+    },
+    {
+      "period": "2024",
+      "views": 43934
+    },
+    {
+      "period": "2025",
+      "views": 24472
+    },
+    {
+      "period": "2026",
+      "views": 13979
+    }
+  ]
+}

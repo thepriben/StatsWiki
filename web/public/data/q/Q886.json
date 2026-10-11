@@ -4,7 +4,7 @@
   "title": "The_Simpsons",
   "description": "American animated sitcom created by Matt Groening",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simpsons_Statues_%28cropped%29.jpg?width=64",
-  "total": 3130981,
+  "total": 3140568,
   "monthly": [
     {
       "period": "2015-07",
@@ -313,6 +313,10 @@
     {
       "period": "2026-08",
       "views": 8574
+    },
+    {
+      "period": "2026-10",
+      "views": 9587
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 28870
+      "views": 38457
     }
   ]
 }

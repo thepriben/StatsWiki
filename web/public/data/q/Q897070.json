@@ -4,7 +4,7 @@
   "title": "Bradley_Wright-Phillips",
   "description": "English footballer (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradley_Wright-Phillips_NY_Red_Bulls_v_FC_Dallas_2_May_2026-39_%28cropped%29.jpg?width=64",
-  "total": 262374,
+  "total": 270693,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 17315
+    },
+    {
+      "period": "2026-10",
+      "views": 8319
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 140420
+      "views": 148739
     }
   ]
 }

@@ -1,0 +1,96 @@
+{
+  "qid": "Q9137",
+  "label": "Singapore Grand Prix",
+  "title": "Singapore_Grand_Prix",
+  "description": "Formula 1 Grand Prix",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Formula_One_Grand_Prix_Singapore_2013_-_Ferrari_3.jpg?width=64",
+  "total": 379693,
+  "monthly": [
+    {
+      "period": "2015-09",
+      "views": 15908
+    },
+    {
+      "period": "2016-09",
+      "views": 14764
+    },
+    {
+      "period": "2017-09",
+      "views": 28888
+    },
+    {
+      "period": "2018-09",
+      "views": 10377
+    },
+    {
+      "period": "2019-09",
+      "views": 39103
+    },
+    {
+      "period": "2022-09",
+      "views": 13140
+    },
+    {
+      "period": "2022-10",
+      "views": 43451
+    },
+    {
+      "period": "2023-09",
+      "views": 78156
+    },
+    {
+      "period": "2024-09",
+      "views": 55588
+    },
+    {
+      "period": "2025-10",
+      "views": 70829
+    },
+    {
+      "period": "2026-10",
+      "views": 9489
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 15908
+    },
+    {
+      "period": "2016",
+      "views": 14764
+    },
+    {
+      "period": "2017",
+      "views": 28888
+    },
+    {
+      "period": "2018",
+      "views": 10377
+    },
+    {
+      "period": "2019",
+      "views": 39103
+    },
+    {
+      "period": "2022",
+      "views": 56591
+    },
+    {
+      "period": "2023",
+      "views": 78156
+    },
+    {
+      "period": "2024",
+      "views": 55588
+    },
+    {
+      "period": "2025",
+      "views": 70829
+    },
+    {
+      "period": "2026",
+      "views": 9489
+    }
+  ]
+}
