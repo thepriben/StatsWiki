@@ -4,7 +4,7 @@
   "title": "Justin_Jefferson",
   "description": "American football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jefferson_2022.jpg?width=64",
-  "total": 587741,
+  "total": 598732,
   "monthly": [
     {
       "period": "2019-12",
@@ -101,6 +101,10 @@
     {
       "period": "2026-09",
       "views": 10618
+    },
+    {
+      "period": "2026-10",
+      "views": 10991
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 10618
+      "views": 21609
     }
   ]
 }

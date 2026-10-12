@@ -4,7 +4,7 @@
   "title": "Jon_Batiste",
   "description": "American musician and singer (b. 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Batiste_2023.jpg?width=64",
-  "total": 2523696,
+  "total": 2536249,
   "monthly": [
     {
       "period": "2020-04",
@@ -125,6 +125,10 @@
     {
       "period": "2026-07",
       "views": 14022
+    },
+    {
+      "period": "2026-10",
+      "views": 12553
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 64750
+      "views": 77303
     }
   ]
 }

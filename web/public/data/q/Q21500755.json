@@ -4,7 +4,7 @@
   "title": "Blade_Runner_2049",
   "description": "2017 film directed by Denis Villeneuve",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blade-runner-2049-logo_2.png?width=64",
-  "total": 11370625,
+  "total": 11379750,
   "monthly": [
     {
       "period": "2016-10",
@@ -233,6 +233,10 @@
     {
       "period": "2026-07",
       "views": 28126
+    },
+    {
+      "period": "2026-10",
+      "views": 9125
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 42253
+      "views": 51378
     }
   ]
 }

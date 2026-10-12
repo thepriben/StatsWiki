@@ -4,7 +4,7 @@
   "title": "Mike_McDaniel",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_McDaniel_2023.png?width=64",
-  "total": 5599365,
+  "total": 5608200,
   "monthly": [
     {
       "period": "2022-01",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 45494
+    },
+    {
+      "period": "2026-10",
+      "views": 8835
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 590497
+      "views": 599332
     }
   ]
 }

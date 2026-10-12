@@ -2,9 +2,9 @@
   "qid": "Q96694248",
   "label": "Brendan Allen",
   "title": "Brendan_Allen",
-  "description": "American mixed martial artist",
-  "image": "",
-  "total": 408452,
+  "description": "American mixed martial artist (born 1995)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BrendanAllen.png?width=64",
+  "total": 434898,
   "monthly": [
     {
       "period": "2021-04",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 22335
+    },
+    {
+      "period": "2026-10",
+      "views": 26446
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 22335
+      "views": 48781
     }
   ]
 }

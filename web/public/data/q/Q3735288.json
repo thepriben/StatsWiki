@@ -4,7 +4,7 @@
   "title": "Eve_Hewson",
   "description": "Irish actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eve_Hewson_%28cropped%29.png?width=64",
-  "total": 3146300,
+  "total": 3155805,
   "monthly": [
     {
       "period": "2015-10",
@@ -85,6 +85,10 @@
     {
       "period": "2026-07",
       "views": 29754
+    },
+    {
+      "period": "2026-10",
+      "views": 9505
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 346301
+      "views": 355806
     }
   ]
 }

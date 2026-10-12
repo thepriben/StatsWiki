@@ -4,7 +4,7 @@
   "title": "Green_Bay_Packers",
   "description": "American football team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_Bay_Packers_logo.svg?width=64",
-  "total": 2837660,
+  "total": 2846002,
   "monthly": [
     {
       "period": "2015-09",
@@ -269,6 +269,10 @@
     {
       "period": "2026-09",
       "views": 16484
+    },
+    {
+      "period": "2026-10",
+      "views": 8342
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 51414
+      "views": 59756
     }
   ]
 }

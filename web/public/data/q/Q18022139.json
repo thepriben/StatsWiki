@@ -4,7 +4,7 @@
   "title": "Jacoby_Brissett",
   "description": "American football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacoby_Brissett.jpg?width=64",
-  "total": 1432553,
+  "total": 1442288,
   "monthly": [
     {
       "period": "2016-04",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 37480
+    },
+    {
+      "period": "2026-10",
+      "views": 9735
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 37480
+      "views": 47215
     }
   ]
 }

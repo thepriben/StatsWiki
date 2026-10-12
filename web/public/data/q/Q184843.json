@@ -4,7 +4,7 @@
   "title": "Blade_Runner",
   "description": "1982 film by Ridley Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blade_Runner_box.svg?width=64",
-  "total": 6634305,
+  "total": 6642793,
   "monthly": [
     {
       "period": "2016-01",
@@ -149,6 +149,10 @@
     {
       "period": "2026-07",
       "views": 13519
+    },
+    {
+      "period": "2026-10",
+      "views": 8488
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 13519
+      "views": 22007
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Alec_Baldwin",
   "description": "American actor (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alec_Baldwin_Cannes_2012.jpg?width=64",
-  "total": 16425394,
+  "total": 16435055,
   "monthly": [
     {
       "period": "2015-07",
@@ -449,6 +449,10 @@
     {
       "period": "2026-09",
       "views": 31037
+    },
+    {
+      "period": "2026-10",
+      "views": 9661
     }
   ],
   "yearly": [
@@ -498,7 +502,7 @@
     },
     {
       "period": "2026",
-      "views": 58717
+      "views": 68378
     }
   ]
 }

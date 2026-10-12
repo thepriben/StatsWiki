@@ -4,7 +4,7 @@
   "title": "Rob_Gronkowski",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/190326-D-SW162-1977_%2846564316465%29.jpg?width=64",
-  "total": 13699461,
+  "total": 13710497,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-09",
       "views": 24454
+    },
+    {
+      "period": "2026-10",
+      "views": 11036
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 153371
+      "views": 164407
     }
   ]
 }

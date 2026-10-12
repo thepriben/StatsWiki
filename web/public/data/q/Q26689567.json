@@ -4,7 +4,7 @@
   "title": "Women's_World_Championship_(WWE)",
   "description": "championship created and promoted by the American professional wrestling promotion WWE",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asuka_WWE_SmackDown_Women%27s_Champion_2019.jpg?width=64",
-  "total": 137711,
+  "total": 147342,
   "monthly": [
     {
       "period": "2024-04",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 16675
+    },
+    {
+      "period": "2026-10",
+      "views": 9631
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 16675
+      "views": 26306
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lake_Baikal",
   "description": "freshwater rift lake in southern Siberia, Russia; the greatest mountain lake in Asia and the most voluminous freshwater lake in the world",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olkhon_Island_and_Lake_Baikal.jpg?width=64",
-  "total": 456675,
+  "total": 466189,
   "monthly": [
     {
       "period": "2015-11",
@@ -85,6 +85,10 @@
     {
       "period": "2026-09",
       "views": 34490
+    },
+    {
+      "period": "2026-10",
+      "views": 9514
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 34490
+      "views": 44004
     }
   ]
 }

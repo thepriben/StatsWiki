@@ -4,7 +4,7 @@
   "title": "Volodymyr_Zelenskyy",
   "description": "President of Ukraine since 2019",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?width=64",
-  "total": 15078654,
+  "total": 15088638,
   "monthly": [
     {
       "period": "2022-02",
@@ -161,6 +161,10 @@
     {
       "period": "2026-07",
       "views": 8778
+    },
+    {
+      "period": "2026-10",
+      "views": 9984
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 28055
+      "views": 38039
     }
   ]
 }

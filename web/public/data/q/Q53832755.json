@@ -2,9 +2,9 @@
   "qid": "Q53832755",
   "label": "Noah Kahan",
   "title": "Noah_Kahan",
-  "description": "American singer-songwriter",
+  "description": "American singer-songwriter (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Noah_Kahan_2024_01_%28cropped%29.jpg?width=64",
-  "total": 1897856,
+  "total": 1919361,
   "monthly": [
     {
       "period": "2023-06",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 56857
+    },
+    {
+      "period": "2026-10",
+      "views": 21505
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 1278017
+      "views": 1299522
     }
   ]
 }

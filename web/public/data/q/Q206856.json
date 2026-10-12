@@ -4,7 +4,7 @@
   "title": "Angela_Lansbury",
   "description": "British-American-Irish actress and singer (1925–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angela_Lansbury_1966.jpg?width=64",
-  "total": 3862866,
+  "total": 3875054,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-08",
       "views": 69569
+    },
+    {
+      "period": "2026-10",
+      "views": 12188
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 69569
+      "views": 81757
     }
   ]
 }

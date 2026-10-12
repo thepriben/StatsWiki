@@ -4,7 +4,7 @@
   "title": "Bridget_Fonda",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridget_Fonda.jpg?width=64",
-  "total": 1662470,
+  "total": 1671443,
   "monthly": [
     {
       "period": "2016-04",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 7725
+    },
+    {
+      "period": "2026-10",
+      "views": 8973
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 28505
+      "views": 37478
     }
   ]
 }
