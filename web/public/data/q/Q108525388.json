@@ -4,7 +4,7 @@
   "title": "Zay_Flowers",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zay_Flowers_JUL2024_%2853880447586%29.jpg?width=64",
-  "total": 364376,
+  "total": 374306,
   "monthly": [
     {
       "period": "2023-04",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 10626
+    },
+    {
+      "period": "2026-10",
+      "views": 9930
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 26108
+      "views": 36038
     }
   ]
 }

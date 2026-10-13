@@ -4,7 +4,7 @@
   "title": "Drake_London",
   "description": "American football player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Drake_London.jpg?width=64",
-  "total": 130102,
+  "total": 139067,
   "monthly": [
     {
       "period": "2022-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 20196
+    },
+    {
+      "period": "2026-10",
+      "views": 8965
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 20196
+      "views": 29161
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "XXX_(Kendrick_Lamar_song)",
   "description": "2017 song by Kendrick Lamar ft. U2",
   "image": "",
-  "total": 5266690,
+  "total": 5279329,
   "monthly": [
     {
       "period": "2018-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-09",
       "views": 271712
+    },
+    {
+      "period": "2026-10",
+      "views": 12639
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 3456284
+      "views": 3468923
     }
   ]
 }

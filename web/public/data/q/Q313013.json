@@ -4,7 +4,7 @@
   "title": "Brian_Wilson",
   "description": "American musician, singer, songwriter and record producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian_Wilson_of_the_Beach_Boys_in_West_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg?width=64",
-  "total": 5677334,
+  "total": 5688714,
   "monthly": [
     {
       "period": "2015-07",
@@ -205,6 +205,10 @@
     {
       "period": "2026-05",
       "views": 13079
+    },
+    {
+      "period": "2026-10",
+      "views": 11380
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 42748
+      "views": 54128
     }
   ]
 }

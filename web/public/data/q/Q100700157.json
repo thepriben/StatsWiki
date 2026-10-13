@@ -4,7 +4,7 @@
   "title": "Zizou_Bergs",
   "description": "Belgian tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bergs_MLC21_%282%29.jpg?width=64",
-  "total": 41395,
+  "total": 55220,
   "monthly": [
     {
       "period": "2024-05",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 20000
+    },
+    {
+      "period": "2026-10",
+      "views": 13825
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 20000
+      "views": 33825
     }
   ]
 }

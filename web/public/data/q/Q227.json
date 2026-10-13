@@ -4,7 +4,7 @@
   "title": "Azerbaijan",
   "description": "country in the Caucasus in Eastern Europe and Western Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aj-map.png?width=64",
-  "total": 8295425,
+  "total": 8304062,
   "monthly": [
     {
       "period": "2015-08",
@@ -345,6 +345,10 @@
     {
       "period": "2026-09",
       "views": 104762
+    },
+    {
+      "period": "2026-10",
+      "views": 8637
     }
   ],
   "yearly": [
@@ -394,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 253541
+      "views": 262178
     }
   ]
 }

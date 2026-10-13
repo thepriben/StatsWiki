@@ -4,7 +4,7 @@
   "title": "Kate_Gosselin",
   "description": "American television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate_Gosselin.jpg?width=64",
-  "total": 203301,
+  "total": 214460,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 21039
+    },
+    {
+      "period": "2026-10",
+      "views": 11159
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 21039
+      "views": 32198
     }
   ]
 }

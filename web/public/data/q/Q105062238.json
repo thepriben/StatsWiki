@@ -4,7 +4,7 @@
   "title": "Ellis_Simms",
   "description": "English association football player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ellis_Reco_Simms_2016.jpg?width=64",
-  "total": 182075,
+  "total": 190229,
   "monthly": [
     {
       "period": "2021-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 14404
+    },
+    {
+      "period": "2026-10",
+      "views": 8154
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 14404
+      "views": 22558
     }
   ]
 }

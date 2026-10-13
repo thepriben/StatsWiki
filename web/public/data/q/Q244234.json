@@ -4,7 +4,7 @@
   "title": "John_Turturro",
   "description": "American actor (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Turturro_2017.jpg?width=64",
-  "total": 1279588,
+  "total": 1287903,
   "monthly": [
     {
       "period": "2016-07",
@@ -77,6 +77,10 @@
     {
       "period": "2026-06",
       "views": 19507
+    },
+    {
+      "period": "2026-10",
+      "views": 8315
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 19507
+      "views": 27822
     }
   ]
 }

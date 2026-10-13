@@ -1,0 +1,84 @@
+{
+  "qid": "Q64151",
+  "label": "Cruel Intentions",
+  "title": "Cruel_Intentions",
+  "description": "1999 film directed by Roger Kumble",
+  "image": "",
+  "total": 375658,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 14875
+    },
+    {
+      "period": "2016-03",
+      "views": 20922
+    },
+    {
+      "period": "2017-03",
+      "views": 21517
+    },
+    {
+      "period": "2019-03",
+      "views": 25140
+    },
+    {
+      "period": "2020-11",
+      "views": 11155
+    },
+    {
+      "period": "2024-03",
+      "views": 11946
+    },
+    {
+      "period": "2024-10",
+      "views": 56869
+    },
+    {
+      "period": "2024-11",
+      "views": 160426
+    },
+    {
+      "period": "2024-12",
+      "views": 30519
+    },
+    {
+      "period": "2025-09",
+      "views": 14584
+    },
+    {
+      "period": "2026-10",
+      "views": 7705
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 35797
+    },
+    {
+      "period": "2017",
+      "views": 21517
+    },
+    {
+      "period": "2019",
+      "views": 25140
+    },
+    {
+      "period": "2020",
+      "views": 11155
+    },
+    {
+      "period": "2024",
+      "views": 259760
+    },
+    {
+      "period": "2025",
+      "views": 14584
+    },
+    {
+      "period": "2026",
+      "views": 7705
+    }
+  ]
+}

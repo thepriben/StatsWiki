@@ -4,7 +4,7 @@
   "title": "Chuck_Grassley",
   "description": "United States Senator from Iowa since 1981",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sen_Chuck_Grassley_official.jpg?width=64",
-  "total": 1200044,
+  "total": 1210831,
   "monthly": [
     {
       "period": "2017-12",
@@ -89,6 +89,10 @@
     {
       "period": "2026-09",
       "views": 47942
+    },
+    {
+      "period": "2026-10",
+      "views": 10787
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 140262
+      "views": 151049
     }
   ]
 }

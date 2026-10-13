@@ -4,7 +4,7 @@
   "title": "Frank_Zappa",
   "description": "American musician (1940–1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zappa.jpg?width=64",
-  "total": 497530,
+  "total": 505530,
   "monthly": [
     {
       "period": "2015-08",
@@ -97,6 +97,10 @@
     {
       "period": "2026-09",
       "views": 19565
+    },
+    {
+      "period": "2026-10",
+      "views": 8000
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 19565
+      "views": 27565
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "John_Stamos",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JohnStamosHWoFFeb2012.jpg?width=64",
-  "total": 3347596,
+  "total": 3360176,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-07",
       "views": 7940
+    },
+    {
+      "period": "2026-10",
+      "views": 12580
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 77577
+      "views": 90157
     }
   ]
 }

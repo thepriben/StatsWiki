@@ -4,7 +4,7 @@
   "title": "Kylie_Jenner",
   "description": "American media personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kylie_Jenner1_%28cropped%29.png?width=64",
-  "total": 47741348,
+  "total": 47749260,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-09",
       "views": 15968
+    },
+    {
+      "period": "2026-10",
+      "views": 7912
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 2053037
+      "views": 2060949
     }
   ]
 }

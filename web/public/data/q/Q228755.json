@@ -4,7 +4,7 @@
   "title": "Lauren_Graham",
   "description": "American actress, producer and novelist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lauren_Graham_August_2014.jpg?width=64",
-  "total": 1673801,
+  "total": 1682491,
   "monthly": [
     {
       "period": "2016-01",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 33630
+    },
+    {
+      "period": "2026-10",
+      "views": 8690
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 63284
+      "views": 71974
     }
   ]
 }

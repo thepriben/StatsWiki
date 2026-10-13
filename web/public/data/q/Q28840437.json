@@ -4,7 +4,7 @@
   "title": "The_Strange_Thing_About_the_Johnsons",
   "description": "2011 short film directed by Ari Aster",
   "image": "",
-  "total": 604760,
+  "total": 613863,
   "monthly": [
     {
       "period": "2019-05",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 9532
+    },
+    {
+      "period": "2026-10",
+      "views": 9103
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 35739
+      "views": 44842
     }
   ]
 }

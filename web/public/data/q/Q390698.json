@@ -4,7 +4,7 @@
   "title": "Clay_Matthews_III",
   "description": "American football player (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clay_Matthews_III.jpg?width=64",
-  "total": 1390438,
+  "total": 1399476,
   "monthly": [
     {
       "period": "2015-09",
@@ -133,6 +133,10 @@
     {
       "period": "2026-09",
       "views": 49283
+    },
+    {
+      "period": "2026-10",
+      "views": 9038
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 49283
+      "views": 58321
     }
   ]
 }

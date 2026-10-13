@@ -4,7 +4,7 @@
   "title": "Lamar_Jackson",
   "description": "American football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamar_Jackson_2020.jpg?width=64",
-  "total": 6905430,
+  "total": 6923142,
   "monthly": [
     {
       "period": "2016-09",
@@ -213,6 +213,10 @@
     {
       "period": "2026-09",
       "views": 26922
+    },
+    {
+      "period": "2026-10",
+      "views": 17712
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 89415
+      "views": 107127
     }
   ]
 }

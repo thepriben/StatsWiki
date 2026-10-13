@@ -4,7 +4,7 @@
   "title": "Dennis_Wilson",
   "description": "American musician (1944–1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Wilson_1971_cropped.jpg?width=64",
-  "total": 1331907,
+  "total": 1339955,
   "monthly": [
     {
       "period": "2016-01",
@@ -113,6 +113,10 @@
     {
       "period": "2026-08",
       "views": 38158
+    },
+    {
+      "period": "2026-10",
+      "views": 8048
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 38158
+      "views": 46206
     }
   ]
 }

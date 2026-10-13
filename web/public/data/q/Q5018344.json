@@ -4,7 +4,7 @@
   "title": "Calais_Campbell",
   "description": "American football player (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlanta_Falcons_Calais_Campbell_MAY2023_Practice_%28cropped%29.png?width=64",
-  "total": 347141,
+  "total": 361379,
   "monthly": [
     {
       "period": "2017-03",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 38082
+    },
+    {
+      "period": "2026-10",
+      "views": 14238
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 61778
+      "views": 76016
     }
   ]
 }
