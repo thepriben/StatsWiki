@@ -4,7 +4,7 @@
   "title": "Brian_Flores",
   "description": "American football coach",
   "image": "",
-  "total": 1303177,
+  "total": 1311945,
   "monthly": [
     {
       "period": "2019-01",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 9571
+    },
+    {
+      "period": "2026-10",
+      "views": 8768
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 124153
+      "views": 132921
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "qid": "Q10737",
+  "label": "suicide",
+  "title": "Died_by_suicide",
+  "description": "intentional act of causing one's own death",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard_Manet_-_Le_Suicid%C3%A9.jpg?width=64",
+  "total": 294027,
+  "monthly": [
+    {
+      "period": "2017-05",
+      "views": 11966
+    },
+    {
+      "period": "2017-07",
+      "views": 10614
+    },
+    {
+      "period": "2018-06",
+      "views": 11238
+    },
+    {
+      "period": "2019-07",
+      "views": 37140
+    },
+    {
+      "period": "2020-06",
+      "views": 23718
+    },
+    {
+      "period": "2022-05",
+      "views": 9940
+    },
+    {
+      "period": "2022-12",
+      "views": 10984
+    },
+    {
+      "period": "2023-04",
+      "views": 9710
+    },
+    {
+      "period": "2026-04",
+      "views": 137963
+    },
+    {
+      "period": "2026-10",
+      "views": 30754
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 22580
+    },
+    {
+      "period": "2018",
+      "views": 11238
+    },
+    {
+      "period": "2019",
+      "views": 37140
+    },
+    {
+      "period": "2020",
+      "views": 23718
+    },
+    {
+      "period": "2022",
+      "views": 20924
+    },
+    {
+      "period": "2023",
+      "views": 9710
+    },
+    {
+      "period": "2026",
+      "views": 168717
+    }
+  ]
+}

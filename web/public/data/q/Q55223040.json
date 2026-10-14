@@ -4,7 +4,7 @@
   "title": "Alexandria_Ocasio-Cortez",
   "description": "American politician (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandria_Ocasio-Cortez_Official_Portrait.jpg?width=64",
-  "total": 27766887,
+  "total": 27775243,
   "monthly": [
     {
       "period": "2018-06",
@@ -357,6 +357,10 @@
     {
       "period": "2026-09",
       "views": 163238
+    },
+    {
+      "period": "2026-10",
+      "views": 8356
     }
   ],
   "yearly": [
@@ -394,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 1113294
+      "views": 1121650
     }
   ]
 }

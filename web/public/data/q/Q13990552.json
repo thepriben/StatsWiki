@@ -4,7 +4,7 @@
   "title": "Alexander_Zverev",
   "description": "German tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Zverev_%2830004409818%29.jpg?width=64",
-  "total": 9867484,
+  "total": 9875262,
   "monthly": [
     {
       "period": "2018-05",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 1250828
+    },
+    {
+      "period": "2026-10",
+      "views": 7778
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 3935225
+      "views": 3943003
     }
   ]
 }

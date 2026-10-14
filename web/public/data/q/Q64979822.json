@@ -4,7 +4,7 @@
   "title": "2027_FIFA_Women's_World_Cup",
   "description": "2027 edition of the FIFA Women's World Cup",
   "image": "",
-  "total": 837623,
+  "total": 845818,
   "monthly": [
     {
       "period": "2019-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 8278
+    },
+    {
+      "period": "2026-10",
+      "views": 8195
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 628696
+      "views": 636891
     }
   ]
 }

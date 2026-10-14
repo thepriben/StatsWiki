@@ -4,7 +4,7 @@
   "title": "Chris_Shula",
   "description": "American football coach",
   "image": "",
-  "total": 356021,
+  "total": 370882,
   "monthly": [
     {
       "period": "2022-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 22751
+    },
+    {
+      "period": "2026-10",
+      "views": 14861
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 154311
+      "views": 169172
     }
   ]
 }

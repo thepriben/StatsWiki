@@ -4,7 +4,7 @@
   "title": "Amy_Grant",
   "description": "American singer-songwriter, musician (born 1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AmyGrantHWOFSept2012.jpg?width=64",
-  "total": 631573,
+  "total": 650920,
   "monthly": [
     {
       "period": "2016-01",
@@ -89,6 +89,10 @@
     {
       "period": "2026-09",
       "views": 11598
+    },
+    {
+      "period": "2026-10",
+      "views": 19347
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 40113
+      "views": 59460
     }
   ]
 }

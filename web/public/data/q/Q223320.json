@@ -1,0 +1,40 @@
+{
+  "qid": "Q223320",
+  "label": "Baywatch",
+  "title": "Baywatch",
+  "description": "American action drama series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baywatch-logo.svg?width=64",
+  "total": 186605,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 25752
+    },
+    {
+      "period": "2017-05",
+      "views": 101032
+    },
+    {
+      "period": "2017-06",
+      "views": 44312
+    },
+    {
+      "period": "2026-10",
+      "views": 15509
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 25752
+    },
+    {
+      "period": "2017",
+      "views": 145344
+    },
+    {
+      "period": "2026",
+      "views": 15509
+    }
+  ]
+}

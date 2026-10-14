@@ -4,7 +4,7 @@
   "title": "Patti_LaBelle",
   "description": "American singer and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patti_Labelle.jpg?width=64",
-  "total": 993284,
+  "total": 1004200,
   "monthly": [
     {
       "period": "2016-03",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 19294
+    },
+    {
+      "period": "2026-10",
+      "views": 10916
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 33918
+      "views": 44834
     }
   ]
 }

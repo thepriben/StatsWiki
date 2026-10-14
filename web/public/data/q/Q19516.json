@@ -1,0 +1,68 @@
+{
+  "qid": "Q19516",
+  "label": "Lille OSC",
+  "title": "Lille_OSC",
+  "description": "association football club in Lille, France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Stade_Lille_M%C3%A9tropole_LOSC_first_match.JPG?width=64",
+  "total": 299128,
+  "monthly": [
+    {
+      "period": "2021-05",
+      "views": 168909
+    },
+    {
+      "period": "2021-08",
+      "views": 9910
+    },
+    {
+      "period": "2022-02",
+      "views": 24087
+    },
+    {
+      "period": "2022-11",
+      "views": 16393
+    },
+    {
+      "period": "2024-04",
+      "views": 17423
+    },
+    {
+      "period": "2024-10",
+      "views": 23901
+    },
+    {
+      "period": "2025-01",
+      "views": 14598
+    },
+    {
+      "period": "2025-03",
+      "views": 12731
+    },
+    {
+      "period": "2026-10",
+      "views": 11176
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 178819
+    },
+    {
+      "period": "2022",
+      "views": 40480
+    },
+    {
+      "period": "2024",
+      "views": 41324
+    },
+    {
+      "period": "2025",
+      "views": 27329
+    },
+    {
+      "period": "2026",
+      "views": 11176
+    }
+  ]
+}

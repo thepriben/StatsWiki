@@ -1,0 +1,56 @@
+{
+  "qid": "Q127324768",
+  "label": "Six Flags",
+  "title": "Six_Flags",
+  "description": "American amusement park company, formed by the merger of Cedar Fair and Six Flags",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Six_Flags_logo.svg?width=64",
+  "total": 67898,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 10489
+    },
+    {
+      "period": "2023-04",
+      "views": 13809
+    },
+    {
+      "period": "2023-11",
+      "views": 11330
+    },
+    {
+      "period": "2024-07",
+      "views": 9816
+    },
+    {
+      "period": "2025-11",
+      "views": 11719
+    },
+    {
+      "period": "2026-10",
+      "views": 10735
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 10489
+    },
+    {
+      "period": "2023",
+      "views": 25139
+    },
+    {
+      "period": "2024",
+      "views": 9816
+    },
+    {
+      "period": "2025",
+      "views": 11719
+    },
+    {
+      "period": "2026",
+      "views": 10735
+    }
+  ]
+}

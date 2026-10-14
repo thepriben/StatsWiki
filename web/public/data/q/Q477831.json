@@ -4,17 +4,21 @@
   "title": "The_Magician's_Nephew",
   "description": "novel by C. S. Lewis set in Narnia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Narnian.world.map.jpg?width=64",
-  "total": 34135,
+  "total": 79466,
   "monthly": [
     {
       "period": "2026-09",
       "views": 34135
+    },
+    {
+      "period": "2026-10",
+      "views": 45331
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 34135
+      "views": 79466
     }
   ]
 }

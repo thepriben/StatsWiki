@@ -1,0 +1,36 @@
+{
+  "qid": "Q132905",
+  "label": "humpback whale",
+  "title": "Humpback_whale",
+  "description": "species of mammal",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Humpback_whales_in_singing_position.jpg?width=64",
+  "total": 39246,
+  "monthly": [
+    {
+      "period": "2021-06",
+      "views": 18299
+    },
+    {
+      "period": "2025-02",
+      "views": 12331
+    },
+    {
+      "period": "2026-10",
+      "views": 8616
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 18299
+    },
+    {
+      "period": "2025",
+      "views": 12331
+    },
+    {
+      "period": "2026",
+      "views": 8616
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Giancarlo_Esposito",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giancarlo_Esposito_Anemone-22_%28cropped%29.jpg?width=64",
-  "total": 4433767,
+  "total": 4443237,
   "monthly": [
     {
       "period": "2015-09",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 145584
+    },
+    {
+      "period": "2026-10",
+      "views": 9470
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 324736
+      "views": 334206
     }
   ]
 }

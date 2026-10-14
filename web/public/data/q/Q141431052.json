@@ -4,17 +4,21 @@
   "title": "The_Great_British_Bake_Off_series_17",
   "description": "seventeenth series of The Great British Bake Off",
   "image": "",
-  "total": 8085,
+  "total": 17598,
   "monthly": [
     {
       "period": "2026-09",
       "views": 8085
+    },
+    {
+      "period": "2026-10",
+      "views": 9513
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8085
+      "views": 17598
     }
   ]
 }

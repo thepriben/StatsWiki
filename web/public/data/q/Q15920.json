@@ -4,7 +4,7 @@
   "title": "Metallica",
   "description": "American heavy metal band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017.jpg?width=64",
-  "total": 5798003,
+  "total": 5808047,
   "monthly": [
     {
       "period": "2015-08",
@@ -293,6 +293,10 @@
     {
       "period": "2026-07",
       "views": 9151
+    },
+    {
+      "period": "2026-10",
+      "views": 10044
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 118405
+      "views": 128449
     }
   ]
 }

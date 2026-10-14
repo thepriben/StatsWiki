@@ -4,7 +4,7 @@
   "title": "Suge_Knight",
   "description": "American record producer and music executive",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suge_Knight_in_2007_%286904212374%29.jpg?width=64",
-  "total": 14144558,
+  "total": 14153889,
   "monthly": [
     {
       "period": "2015-08",
@@ -361,6 +361,10 @@
     {
       "period": "2026-09",
       "views": 146055
+    },
+    {
+      "period": "2026-10",
+      "views": 9331
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 297135
+      "views": 306466
     }
   ]
 }

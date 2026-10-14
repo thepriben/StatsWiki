@@ -4,7 +4,7 @@
   "title": "Blake_Corum",
   "description": "American football running back",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UM_UNI_09.18.21_0024_%2851496797800%29_%282%29.jpg?width=64",
-  "total": 402814,
+  "total": 414176,
   "monthly": [
     {
       "period": "2022-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 17015
+    },
+    {
+      "period": "2026-10",
+      "views": 11362
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 36946
+      "views": 48308
     }
   ]
 }

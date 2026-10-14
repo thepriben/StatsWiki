@@ -1,0 +1,48 @@
+{
+  "qid": "Q8215122",
+  "label": "John Simpson",
+  "title": "John_Simpson_(journalist)",
+  "description": "English journalist, born 1944",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Simpson.jpg?width=64",
+  "total": 118556,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 61278
+    },
+    {
+      "period": "2022-11",
+      "views": 12640
+    },
+    {
+      "period": "2023-02",
+      "views": 11971
+    },
+    {
+      "period": "2023-12",
+      "views": 14579
+    },
+    {
+      "period": "2026-10",
+      "views": 18088
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 61278
+    },
+    {
+      "period": "2022",
+      "views": 12640
+    },
+    {
+      "period": "2023",
+      "views": 26550
+    },
+    {
+      "period": "2026",
+      "views": 18088
+    }
+  ]
+}

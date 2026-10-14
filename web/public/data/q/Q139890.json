@@ -4,7 +4,7 @@
   "title": "Zack_Snyder",
   "description": "American filmmaker (born 1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ZachSnyderMar2011.jpg?width=64",
-  "total": 4335661,
+  "total": 4343374,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 30372
+    },
+    {
+      "period": "2026-10",
+      "views": 7713
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 30372
+      "views": 38085
     }
   ]
 }

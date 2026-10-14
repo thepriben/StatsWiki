@@ -4,7 +4,7 @@
   "title": "Hadestown",
   "description": "2006 musical by Anaïs Mitchell",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter_Kerr_Theatre_-_Hadestown_%2848295952136%29.jpg?width=64",
-  "total": 404780,
+  "total": 413899,
   "monthly": [
     {
       "period": "2019-06",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 101992
+    },
+    {
+      "period": "2026-10",
+      "views": 9119
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 353825
+      "views": 362944
     }
   ]
 }

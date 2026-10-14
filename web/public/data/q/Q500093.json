@@ -4,7 +4,7 @@
   "title": "Legally_Blonde",
   "description": "2001 film directed by Robert Luketic",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Legally_Blonde_logo.png?width=64",
-  "total": 61510,
+  "total": 71493,
   "monthly": [
     {
       "period": "2021-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 27677
+    },
+    {
+      "period": "2026-10",
+      "views": 9983
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 27677
+      "views": 37660
     }
   ]
 }

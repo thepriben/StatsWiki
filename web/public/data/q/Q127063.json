@@ -4,17 +4,21 @@
   "title": "Kars",
   "description": "central district and city in Kars Province, Turkey",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kars_Panorama.JPG?width=64",
-  "total": 8803,
+  "total": 17284,
   "monthly": [
     {
       "period": "2026-09",
       "views": 8803
+    },
+    {
+      "period": "2026-10",
+      "views": 8481
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8803
+      "views": 17284
     }
   ]
 }

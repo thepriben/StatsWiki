@@ -4,7 +4,7 @@
   "title": "Olivier_Giroud",
   "description": "French footballer (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivier_Giroud_2018.jpg?width=64",
-  "total": 5224535,
+  "total": 5251644,
   "monthly": [
     {
       "period": "2015-10",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 9322
+    },
+    {
+      "period": "2026-10",
+      "views": 27109
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 212937
+      "views": 240046
     }
   ]
 }

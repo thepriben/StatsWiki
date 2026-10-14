@@ -4,7 +4,7 @@
   "title": "Jerry_Seinfeld",
   "description": "American comedian and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerry_Seinfeld_%281997%29.jpg?width=64",
-  "total": 4060179,
+  "total": 4068989,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 80450
+    },
+    {
+      "period": "2026-10",
+      "views": 8810
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 80450
+      "views": 89260
     }
   ]
 }

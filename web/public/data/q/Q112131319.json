@@ -4,7 +4,7 @@
   "title": "Harrison_Mevis",
   "description": "American football placekicker",
   "image": "",
-  "total": 192525,
+  "total": 328594,
   "monthly": [
     {
       "period": "2025-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 38110
+    },
+    {
+      "period": "2026-10",
+      "views": 136069
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 152826
+      "views": 288895
     }
   ]
 }

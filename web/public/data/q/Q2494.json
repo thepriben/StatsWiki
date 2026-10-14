@@ -4,7 +4,7 @@
   "title": "Pope_Benedict_XVI",
   "description": "265 th pope of the Catholic Church (2005–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Papst_Benedikt_XVI_in_Berlin_2011.jpg?width=64",
-  "total": 8421008,
+  "total": 8428427,
   "monthly": [
     {
       "period": "2015-09",
@@ -137,6 +137,10 @@
     {
       "period": "2025-05",
       "views": 1225770
+    },
+    {
+      "period": "2026-10",
+      "views": 7419
     }
   ],
   "yearly": [
@@ -179,6 +183,10 @@
     {
       "period": "2025",
       "views": 4109955
+    },
+    {
+      "period": "2026",
+      "views": 7419
     }
   ]
 }

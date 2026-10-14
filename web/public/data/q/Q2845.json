@@ -1,0 +1,80 @@
+{
+  "qid": "Q2845",
+  "label": "cannabis",
+  "title": "Cannabis_(drug)",
+  "description": "psychoactive herb from the Cannabis plant used for medical or recreational purposes",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannabis_Drying_out_the_crop_%2816558794823%29.jpg?width=64",
+  "total": 232941,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 32965
+    },
+    {
+      "period": "2016-04",
+      "views": 31366
+    },
+    {
+      "period": "2016-11",
+      "views": 13791
+    },
+    {
+      "period": "2017-02",
+      "views": 26660
+    },
+    {
+      "period": "2017-04",
+      "views": 25571
+    },
+    {
+      "period": "2017-12",
+      "views": 15241
+    },
+    {
+      "period": "2018-04",
+      "views": 22033
+    },
+    {
+      "period": "2018-10",
+      "views": 37566
+    },
+    {
+      "period": "2019-08",
+      "views": 8981
+    },
+    {
+      "period": "2024-04",
+      "views": 10701
+    },
+    {
+      "period": "2026-10",
+      "views": 8066
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 78122
+    },
+    {
+      "period": "2017",
+      "views": 67472
+    },
+    {
+      "period": "2018",
+      "views": 59599
+    },
+    {
+      "period": "2019",
+      "views": 8981
+    },
+    {
+      "period": "2024",
+      "views": 10701
+    },
+    {
+      "period": "2026",
+      "views": 8066
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Carlos_the_Jackal",
   "description": "Venezuelan-born international terror operative",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos_the_Jackal_%28fake_Peruvian_passport_photo_-_%22Carlos_Andres_Martinez_Torres%22%29.jpg?width=64",
-  "total": 82285,
+  "total": 89989,
   "monthly": [
     {
       "period": "2016-07",
@@ -21,6 +21,10 @@
     {
       "period": "2026-08",
       "views": 8587
+    },
+    {
+      "period": "2026-10",
+      "views": 7704
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 8587
+      "views": 16291
     }
   ]
 }

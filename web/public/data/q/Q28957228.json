@@ -4,7 +4,7 @@
   "title": "Karine_Jean-Pierre",
   "description": "French-American political advisor and White House Press Secretary from 2022-2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karine_Jean-Pierre_2021.jpg?width=64",
-  "total": 1827702,
+  "total": 1838323,
   "monthly": [
     {
       "period": "2020-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-08",
       "views": 10245
+    },
+    {
+      "period": "2026-10",
+      "views": 10621
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 10245
+      "views": 20866
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Pope",
   "description": "leader of the worldwide Catholic Church",
   "image": "",
-  "total": 3765452,
+  "total": 3772885,
   "monthly": [
     {
       "period": "2015-09",
@@ -61,6 +61,10 @@
     {
       "period": "2026-04",
       "views": 54582
+    },
+    {
+      "period": "2026-10",
+      "views": 7433
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 54582
+      "views": 62015
     }
   ]
 }

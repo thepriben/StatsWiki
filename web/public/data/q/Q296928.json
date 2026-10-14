@@ -4,7 +4,7 @@
   "title": "James_Spader",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Spader_by_Gage_Skidmore.jpg?width=64",
-  "total": 1447416,
+  "total": 1456832,
   "monthly": [
     {
       "period": "2015-09",
@@ -169,6 +169,10 @@
     {
       "period": "2026-08",
       "views": 88949
+    },
+    {
+      "period": "2026-10",
+      "views": 9416
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 88949
+      "views": 98365
     }
   ]
 }

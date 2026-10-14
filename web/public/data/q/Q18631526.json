@@ -4,7 +4,7 @@
   "title": "Dalvin_Cook",
   "description": "American football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalvin_Cook_2014.jpg?width=64",
-  "total": 729564,
+  "total": 743727,
   "monthly": [
     {
       "period": "2016-11",
@@ -117,6 +117,10 @@
     {
       "period": "2026-09",
       "views": 15352
+    },
+    {
+      "period": "2026-10",
+      "views": 14163
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 15352
+      "views": 29515
     }
   ]
 }

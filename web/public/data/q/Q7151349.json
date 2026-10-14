@@ -4,7 +4,7 @@
   "title": "Paul_Hollywood",
   "description": "English celebrity chef and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Hollywood.jpg?width=64",
-  "total": 1099699,
+  "total": 1107846,
   "monthly": [
     {
       "period": "2015-08",
@@ -85,6 +85,10 @@
     {
       "period": "2026-09",
       "views": 10217
+    },
+    {
+      "period": "2026-10",
+      "views": 8147
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 10217
+      "views": 18364
     }
   ]
 }
