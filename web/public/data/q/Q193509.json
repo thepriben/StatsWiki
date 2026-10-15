@@ -4,7 +4,7 @@
   "title": "Taylor_Momsen",
   "description": "American actress, singer and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pretty_Reckless_Rockfest_2017_2.jpg?width=64",
-  "total": 3616889,
+  "total": 3627573,
   "monthly": [
     {
       "period": "2015-10",
@@ -117,6 +117,10 @@
     {
       "period": "2026-09",
       "views": 22063
+    },
+    {
+      "period": "2026-10",
+      "views": 10684
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 65999
+      "views": 76683
     }
   ]
 }

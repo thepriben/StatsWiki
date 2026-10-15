@@ -4,7 +4,7 @@
   "title": "Android_(operating_system)",
   "description": "operating system created by Google for use on mobile devices",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Android_Gingerbread_Easter_egg.jpg?width=64",
-  "total": 27593519,
+  "total": 27602303,
   "monthly": [
     {
       "period": "2015-07",
@@ -345,6 +345,10 @@
     {
       "period": "2025-02",
       "views": 9875
+    },
+    {
+      "period": "2026-10",
+      "views": 8784
     }
   ],
   "yearly": [
@@ -391,6 +395,10 @@
     {
       "period": "2025",
       "views": 9875
+    },
+    {
+      "period": "2026",
+      "views": 8784
     }
   ]
 }

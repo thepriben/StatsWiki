@@ -4,7 +4,7 @@
   "title": "Battle_of_Hastings",
   "description": "battle which occurred on 14 October 1066",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux_Tapestry_scene57_Harold_death.jpg?width=64",
-  "total": 412562,
+  "total": 430183,
   "monthly": [
     {
       "period": "2016-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 8491
+    },
+    {
+      "period": "2026-10",
+      "views": 17621
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 31419
+      "views": 49040
     }
   ]
 }

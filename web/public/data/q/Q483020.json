@@ -4,7 +4,7 @@
   "title": "Paris_Saint-Germain_FC",
   "description": "association football club in Paris, France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiev-PSG_%285%29.jpg?width=64",
-  "total": 16058241,
+  "total": 16070576,
   "monthly": [
     {
       "period": "2015-07",
@@ -409,6 +409,10 @@
     {
       "period": "2026-09",
       "views": 7599
+    },
+    {
+      "period": "2026-10",
+      "views": 12335
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 1341074
+      "views": 1353409
     }
   ]
 }

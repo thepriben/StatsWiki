@@ -4,7 +4,7 @@
   "title": "LASK",
   "description": "association football club in Austria",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LASK-Logo_2023.svg?width=64",
-  "total": 296926,
+  "total": 339239,
   "monthly": [
     {
       "period": "2020-02",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 8141
+    },
+    {
+      "period": "2026-10",
+      "views": 42313
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 103036
+      "views": 145349
     }
   ]
 }

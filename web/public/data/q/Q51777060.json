@@ -4,7 +4,7 @@
   "title": "Hypersonic_weapon",
   "description": "class of weapon",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bulava_SLBM_launched_by_Yuri_Dolgoruky_submarine_%28cropped%29.jpg?width=64",
-  "total": 221397,
+  "total": 232010,
   "monthly": [
     {
       "period": "2022-03",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 30552
+    },
+    {
+      "period": "2026-10",
+      "views": 10613
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 30552
+      "views": 41165
     }
   ]
 }

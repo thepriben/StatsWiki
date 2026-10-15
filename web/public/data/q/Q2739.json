@@ -1,0 +1,56 @@
+{
+  "qid": "Q2739",
+  "label": "AS Roma",
+  "title": "AS_Roma",
+  "description": "association football club in Rome, Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UECL_2022-04-14_AS_Roma_x_Bod%C3%B8-Glimt_-_South_Stand.jpg?width=64",
+  "total": 131306,
+  "monthly": [
+    {
+      "period": "2023-08",
+      "views": 9742
+    },
+    {
+      "period": "2023-09",
+      "views": 13676
+    },
+    {
+      "period": "2024-01",
+      "views": 45185
+    },
+    {
+      "period": "2024-02",
+      "views": 11063
+    },
+    {
+      "period": "2024-03",
+      "views": 10753
+    },
+    {
+      "period": "2024-04",
+      "views": 11043
+    },
+    {
+      "period": "2024-05",
+      "views": 22052
+    },
+    {
+      "period": "2026-10",
+      "views": 7792
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 23418
+    },
+    {
+      "period": "2024",
+      "views": 100096
+    },
+    {
+      "period": "2026",
+      "views": 7792
+    }
+  ]
+}

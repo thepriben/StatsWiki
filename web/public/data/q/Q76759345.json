@@ -1,0 +1,52 @@
+{
+  "qid": "Q76759345",
+  "label": "Helluva Boss",
+  "title": "Helluva_Boss",
+  "description": "American web series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Helluva_Boss_LVLUP_EXPO_2024.png?width=64",
+  "total": 322295,
+  "monthly": [
+    {
+      "period": "2021-11",
+      "views": 10893
+    },
+    {
+      "period": "2022-07",
+      "views": 12437
+    },
+    {
+      "period": "2022-08",
+      "views": 19366
+    },
+    {
+      "period": "2024-01",
+      "views": 142686
+    },
+    {
+      "period": "2024-02",
+      "views": 125557
+    },
+    {
+      "period": "2026-10",
+      "views": 11356
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 10893
+    },
+    {
+      "period": "2022",
+      "views": 31803
+    },
+    {
+      "period": "2024",
+      "views": 268243
+    },
+    {
+      "period": "2026",
+      "views": 11356
+    }
+  ]
+}

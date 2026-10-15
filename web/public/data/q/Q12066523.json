@@ -2,9 +2,9 @@
   "qid": "Q12066523",
   "label": "Jen Psaki",
   "title": "Jen_Psaki",
-  "description": "White House Press Secretary from 2021 to 2022",
+  "description": "American political advisor and White House Press Secretary from 2021 to 2022 (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jen_Psaki_2022.jpg?width=64",
-  "total": 5053049,
+  "total": 5072983,
   "monthly": [
     {
       "period": "2020-11",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 7548
+    },
+    {
+      "period": "2026-10",
+      "views": 19934
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 7548
+      "views": 27482
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Morality",
   "description": "normative standard evaluating actions and character traits as right or wrong, virtuous or vicious, honorable or disgraceful; varies across individuals, societies, cultures, and traditions, informing judgments about moral and immoral behavior",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gebhard_Fugel_Moses_erh%C3%A4lt_die_Tafeln.jpg?width=64",
-  "total": 10832,
+  "total": 21680,
   "monthly": [
     {
       "period": "2026-09",
       "views": 10832
+    },
+    {
+      "period": "2026-10",
+      "views": 10848
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 10832
+      "views": 21680
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Royal_Australian_Air_Force",
   "description": "air warfare branch of Australia's armed forces",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RAAF_%28A44-222%29_FA_18F_Super_Hornet_landing.jpg?width=64",
-  "total": 259138,
+  "total": 268672,
   "monthly": [
     {
       "period": "2016-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 7668
+    },
+    {
+      "period": "2026-10",
+      "views": 9534
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 7668
+      "views": 17202
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "WandaVision",
   "description": "2021 television miniseries",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WandaVision_wordmark_logo.svg?width=64",
-  "total": 16512862,
+  "total": 16521922,
   "monthly": [
     {
       "period": "2020-01",
@@ -101,6 +101,10 @@
     {
       "period": "2024-11",
       "views": 20587
+    },
+    {
+      "period": "2026-10",
+      "views": 9060
     }
   ],
   "yearly": [
@@ -119,6 +123,10 @@
     {
       "period": "2024",
       "views": 197107
+    },
+    {
+      "period": "2026",
+      "views": 9060
     }
   ]
 }

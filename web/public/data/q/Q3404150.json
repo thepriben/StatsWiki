@@ -1,0 +1,52 @@
+{
+  "qid": "Q3404150",
+  "label": "Senghenydd Colliery Disaster",
+  "title": "Senghenydd_colliery_disaster",
+  "description": "Mining explosion in 1913",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Senghenydd_pit_disaster_1.jpg?width=64",
+  "total": 134886,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 22959
+    },
+    {
+      "period": "2019-10",
+      "views": 76332
+    },
+    {
+      "period": "2020-08",
+      "views": 10052
+    },
+    {
+      "period": "2025-10",
+      "views": 12844
+    },
+    {
+      "period": "2026-10",
+      "views": 12699
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 22959
+    },
+    {
+      "period": "2019",
+      "views": 76332
+    },
+    {
+      "period": "2020",
+      "views": 10052
+    },
+    {
+      "period": "2025",
+      "views": 12844
+    },
+    {
+      "period": "2026",
+      "views": 12699
+    }
+  ]
+}

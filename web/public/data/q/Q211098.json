@@ -4,7 +4,7 @@
   "title": "Reid_Hoffman",
   "description": "American co-founder of LinkedIn, venture capitalist, and author",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_Reid_Hoffman_%28cropped%29.jpg?width=64",
-  "total": 507873,
+  "total": 518219,
   "monthly": [
     {
       "period": "2016-06",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 10066
+    },
+    {
+      "period": "2026-10",
+      "views": 10346
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 96389
+      "views": 106735
     }
   ]
 }

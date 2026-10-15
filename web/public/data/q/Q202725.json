@@ -4,7 +4,7 @@
   "title": "Mia_Farrow",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulitzer2018-mia-farrow-20180530-wp.jpg?width=64",
-  "total": 5368236,
+  "total": 5376913,
   "monthly": [
     {
       "period": "2015-07",
@@ -265,6 +265,10 @@
     {
       "period": "2026-07",
       "views": 11504
+    },
+    {
+      "period": "2026-10",
+      "views": 8677
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 224660
+      "views": 233337
     }
   ]
 }

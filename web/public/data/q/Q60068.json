@@ -4,7 +4,7 @@
   "title": "Rajinikanth",
   "description": "Indian actor (born 1950)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajinikanth_Felicitates_Writer_Kalaignanam.jpg?width=64",
-  "total": 5103106,
+  "total": 5111191,
   "monthly": [
     {
       "period": "2015-12",
@@ -205,6 +205,10 @@
     {
       "period": "2026-06",
       "views": 9298
+    },
+    {
+      "period": "2026-10",
+      "views": 8085
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 9298
+      "views": 17383
     }
   ]
 }
