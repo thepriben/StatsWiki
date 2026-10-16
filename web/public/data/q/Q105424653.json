@@ -1,0 +1,48 @@
+{
+  "qid": "Q105424653",
+  "label": "Doctor",
+  "title": "Doctor_(2021_film)",
+  "description": "2021 film directed by Nelson Dilipkumar",
+  "image": "",
+  "total": 1341609,
+  "monthly": [
+    {
+      "period": "2021-06",
+      "views": 22590
+    },
+    {
+      "period": "2021-09",
+      "views": 10134
+    },
+    {
+      "period": "2021-10",
+      "views": 725486
+    },
+    {
+      "period": "2021-11",
+      "views": 495341
+    },
+    {
+      "period": "2023-08",
+      "views": 80410
+    },
+    {
+      "period": "2026-10",
+      "views": 7648
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 1253551
+    },
+    {
+      "period": "2023",
+      "views": 80410
+    },
+    {
+      "period": "2026",
+      "views": 7648
+    }
+  ]
+}

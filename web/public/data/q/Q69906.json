@@ -1,0 +1,76 @@
+{
+  "qid": "Q69906",
+  "label": "Air India",
+  "title": "Air_India",
+  "description": "flag-carrier airline of India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boeing_777-337ER_-_Air_India_%28VT-ALK%29.JPG?width=64",
+  "total": 1219582,
+  "monthly": [
+    {
+      "period": "2020-08",
+      "views": 21257
+    },
+    {
+      "period": "2021-10",
+      "views": 289503
+    },
+    {
+      "period": "2022-01",
+      "views": 57589
+    },
+    {
+      "period": "2023-02",
+      "views": 51210
+    },
+    {
+      "period": "2023-08",
+      "views": 29557
+    },
+    {
+      "period": "2024-10",
+      "views": 24216
+    },
+    {
+      "period": "2024-11",
+      "views": 14709
+    },
+    {
+      "period": "2025-06",
+      "views": 723717
+    },
+    {
+      "period": "2026-10",
+      "views": 7824
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 21257
+    },
+    {
+      "period": "2021",
+      "views": 289503
+    },
+    {
+      "period": "2022",
+      "views": 57589
+    },
+    {
+      "period": "2023",
+      "views": 80767
+    },
+    {
+      "period": "2024",
+      "views": 38925
+    },
+    {
+      "period": "2025",
+      "views": 723717
+    },
+    {
+      "period": "2026",
+      "views": 7824
+    }
+  ]
+}

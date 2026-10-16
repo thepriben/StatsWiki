@@ -4,7 +4,7 @@
   "title": "Howard_Hughes",
   "description": "American aviator, engineer, industrialist, and film producer (1905–1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Howard_Hughes_1938_%28cropped%29.jpg?width=64",
-  "total": 7069661,
+  "total": 7077269,
   "monthly": [
     {
       "period": "2015-07",
@@ -321,6 +321,10 @@
     {
       "period": "2026-09",
       "views": 39815
+    },
+    {
+      "period": "2026-10",
+      "views": 7608
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 108203
+      "views": 115811
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Japan_Air_Lines_Flight_123",
   "description": "1985 aviation accident in Japan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Japan_Airlines_JA8119.jpg?width=64",
-  "total": 461652,
+  "total": 471649,
   "monthly": [
     {
       "period": "2022-03",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 45787
+    },
+    {
+      "period": "2026-10",
+      "views": 9997
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 63242
+      "views": 73239
     }
   ]
 }

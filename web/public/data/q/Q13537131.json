@@ -4,7 +4,7 @@
   "title": "Giant_squid",
   "description": "species of decapod cephalopods",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Riesenkalmar.jpg?width=64",
-  "total": 321473,
+  "total": 329231,
   "monthly": [
     {
       "period": "2015-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 68231
+    },
+    {
+      "period": "2026-10",
+      "views": 7758
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 68231
+      "views": 75989
     }
   ]
 }

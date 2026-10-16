@@ -4,7 +4,7 @@
   "title": "Democratic_Unionist_Party",
   "description": "right-wing unionist party of Northern Ireland",
   "image": "",
-  "total": 1560875,
+  "total": 1569063,
   "monthly": [
     {
       "period": "2016-06",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 9031
+    },
+    {
+      "period": "2026-10",
+      "views": 8188
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 9031
+      "views": 17219
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Leftovers_(TV_series)",
   "description": "2014 American supernatural television series",
   "image": "",
-  "total": 3366291,
+  "total": 3378638,
   "monthly": [
     {
       "period": "2015-07",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 19292
+    },
+    {
+      "period": "2026-10",
+      "views": 12347
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 33313
+      "views": 45660
     }
   ]
 }

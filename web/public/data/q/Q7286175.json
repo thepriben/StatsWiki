@@ -4,7 +4,7 @@
   "title": "Rajinikanth_filmography",
   "description": "Filmography of Indian actor Rajinikanth",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajinikanth_2010_-_still_113555_crop.jpg?width=64",
-  "total": 629281,
+  "total": 645077,
   "monthly": [
     {
       "period": "2016-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 9574
+    },
+    {
+      "period": "2026-10",
+      "views": 15796
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 9574
+      "views": 25370
     }
   ]
 }

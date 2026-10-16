@@ -4,7 +4,7 @@
   "title": "Grand_Theft_Auto_V",
   "description": "2013 action-adventure video game developed by Rockstar North",
   "image": "",
-  "total": 4446665,
+  "total": 4455644,
   "monthly": [
     {
       "period": "2015-09",
@@ -197,6 +197,10 @@
     {
       "period": "2026-09",
       "views": 220368
+    },
+    {
+      "period": "2026-10",
+      "views": 8979
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 863386
+      "views": 872365
     }
   ]
 }

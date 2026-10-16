@@ -4,17 +4,21 @@
   "title": "Trial_of_Jeffrey_Donaldson",
   "description": "",
   "image": "",
-  "total": 14400,
+  "total": 21894,
   "monthly": [
     {
       "period": "2026-06",
       "views": 14400
+    },
+    {
+      "period": "2026-10",
+      "views": 7494
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 14400
+      "views": 21894
     }
   ]
 }

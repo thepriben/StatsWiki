@@ -4,7 +4,7 @@
   "title": "Denise_Richards",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Denise_Richards_%2847364897421%29.jpg?width=64",
-  "total": 3993232,
+  "total": 4002562,
   "monthly": [
     {
       "period": "2015-11",
@@ -237,6 +237,10 @@
     {
       "period": "2026-08",
       "views": 8072
+    },
+    {
+      "period": "2026-10",
+      "views": 9330
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 118683
+      "views": 128013
     }
   ]
 }

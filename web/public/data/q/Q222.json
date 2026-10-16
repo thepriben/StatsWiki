@@ -4,7 +4,7 @@
   "title": "Albania",
   "description": "country in southeastern Europe",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berat.jpg?width=64",
-  "total": 2847631,
+  "total": 2855746,
   "monthly": [
     {
       "period": "2015-08",
@@ -261,6 +261,10 @@
     {
       "period": "2026-07",
       "views": 9771
+    },
+    {
+      "period": "2026-10",
+      "views": 8115
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 162295
+      "views": 170410
     }
   ]
 }
