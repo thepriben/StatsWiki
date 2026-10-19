@@ -4,7 +4,7 @@
   "title": "Federal_Prison_Camp,_Bryan",
   "description": "Federal prison in Texas, United States",
   "image": "",
-  "total": 166969,
+  "total": 177424,
   "monthly": [
     {
       "period": "2023-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 64736
+    },
+    {
+      "period": "2026-10",
+      "views": 10455
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 94163
+      "views": 104618
     }
   ]
 }

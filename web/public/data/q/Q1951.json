@@ -1,0 +1,64 @@
+{
+  "qid": "Q1951",
+  "label": "Alberta",
+  "title": "Alberta",
+  "description": "province of Canada",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine_Lake_17092005.jpg?width=64",
+  "total": 210896,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 59592
+    },
+    {
+      "period": "2019-10",
+      "views": 10621
+    },
+    {
+      "period": "2023-01",
+      "views": 11885
+    },
+    {
+      "period": "2025-04",
+      "views": 23134
+    },
+    {
+      "period": "2025-05",
+      "views": 31256
+    },
+    {
+      "period": "2026-01",
+      "views": 27581
+    },
+    {
+      "period": "2026-05",
+      "views": 35436
+    },
+    {
+      "period": "2026-10",
+      "views": 11391
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 59592
+    },
+    {
+      "period": "2019",
+      "views": 10621
+    },
+    {
+      "period": "2023",
+      "views": 11885
+    },
+    {
+      "period": "2025",
+      "views": 54390
+    },
+    {
+      "period": "2026",
+      "views": 74408
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Liam_Payne",
   "description": "English singer and songwriter (1993–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liam_Payne_for_UNICEF_2023.png?width=64",
-  "total": 15841802,
+  "total": 15854084,
   "monthly": [
     {
       "period": "2015-12",
@@ -241,6 +241,10 @@
     {
       "period": "2026-08",
       "views": 20750
+    },
+    {
+      "period": "2026-10",
+      "views": 12282
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 230798
+      "views": 243080
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "qid": "Q672705",
+  "label": "1356 Basel earthquake",
+  "title": "1356_Basel_earthquake",
+  "description": "natural disaster",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erdbeben_Basel_Jauslin.JPG?width=64",
+  "total": 30722,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 11376
+    },
+    {
+      "period": "2025-10",
+      "views": 10191
+    },
+    {
+      "period": "2026-10",
+      "views": 9155
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11376
+    },
+    {
+      "period": "2025",
+      "views": 10191
+    },
+    {
+      "period": "2026",
+      "views": 9155
+    }
+  ]
+}

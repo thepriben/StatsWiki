@@ -4,7 +4,7 @@
   "title": "Nathan_for_You",
   "description": "American television series",
   "image": "",
-  "total": 41989,
+  "total": 52406,
   "monthly": [
     {
       "period": "2015-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 31204
+    },
+    {
+      "period": "2026-10",
+      "views": 10417
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 31204
+      "views": 41621
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Holly_Rowe",
   "description": "American sports announcer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Holly_Rowe_2018.jpg?width=64",
-  "total": 250795,
+  "total": 266305,
   "monthly": [
     {
       "period": "2016-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 26535
+    },
+    {
+      "period": "2026-10",
+      "views": 15510
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 62875
+      "views": 78385
     }
   ]
 }

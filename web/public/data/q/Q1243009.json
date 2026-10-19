@@ -1,0 +1,68 @@
+{
+  "qid": "Q1243009",
+  "label": "Friday the 13th Part 2",
+  "title": "Friday_the_13th_Part_2",
+  "description": "1981 film directed by Steve Miner",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Friday_the_13th_Part_II_logo.png?width=64",
+  "total": 110320,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 10949
+    },
+    {
+      "period": "2016-09",
+      "views": 9525
+    },
+    {
+      "period": "2017-10",
+      "views": 18678
+    },
+    {
+      "period": "2018-10",
+      "views": 14634
+    },
+    {
+      "period": "2019-09",
+      "views": 12388
+    },
+    {
+      "period": "2023-10",
+      "views": 33119
+    },
+    {
+      "period": "2026-10",
+      "views": 11027
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 10949
+    },
+    {
+      "period": "2016",
+      "views": 9525
+    },
+    {
+      "period": "2017",
+      "views": 18678
+    },
+    {
+      "period": "2018",
+      "views": 14634
+    },
+    {
+      "period": "2019",
+      "views": 12388
+    },
+    {
+      "period": "2023",
+      "views": 33119
+    },
+    {
+      "period": "2026",
+      "views": 11027
+    }
+  ]
+}

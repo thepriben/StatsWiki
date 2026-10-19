@@ -4,7 +4,7 @@
   "title": "Tatum_O'Neal",
   "description": "American actress (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tatum_O%27Neal_in_2019.jpg?width=64",
-  "total": 1129491,
+  "total": 1141097,
   "monthly": [
     {
       "period": "2015-09",
@@ -149,6 +149,10 @@
     {
       "period": "2026-06",
       "views": 18163
+    },
+    {
+      "period": "2026-10",
+      "views": 11606
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 48111
+      "views": 59717
     }
   ]
 }

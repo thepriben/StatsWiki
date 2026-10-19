@@ -4,7 +4,7 @@
   "title": "George_Mallory",
   "description": "English mountaineer (1886-1924)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Mallory.jpg?width=64",
-  "total": 207461,
+  "total": 219916,
   "monthly": [
     {
       "period": "2016-08",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 11487
+    },
+    {
+      "period": "2026-10",
+      "views": 12455
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 11487
+      "views": 23942
     }
   ]
 }

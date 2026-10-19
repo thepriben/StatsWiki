@@ -4,7 +4,7 @@
   "title": "Fabio_Wardley",
   "description": "British boxer",
   "image": "",
-  "total": 542938,
+  "total": 573470,
   "monthly": [
     {
       "period": "2021-03",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 17487
+    },
+    {
+      "period": "2026-10",
+      "views": 30532
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 192111
+      "views": 222643
     }
   ]
 }

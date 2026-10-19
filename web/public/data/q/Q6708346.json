@@ -4,7 +4,7 @@
   "title": "Lyn_May",
   "description": "Mexican actress and vedette",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NOCHE_DE_MUSEOS._VESTIR_LA_NOCHE_VESTUARIO_DE_VEDETTES._%2854303610881%29_%28cropped%29.jpg?width=64",
-  "total": 258426,
+  "total": 309885,
   "monthly": [
     {
       "period": "2021-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 16335
+    },
+    {
+      "period": "2026-10",
+      "views": 51459
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 92846
+      "views": 144305
     }
   ]
 }

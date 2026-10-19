@@ -1,0 +1,60 @@
+{
+  "qid": "Q12165555",
+  "label": "Félicette",
+  "title": "Félicette",
+  "description": "first cat sent to space, on 18 October 1963 as part of the French space program",
+  "image": "",
+  "total": 130617,
+  "monthly": [
+    {
+      "period": "2019-10",
+      "views": 21222
+    },
+    {
+      "period": "2020-08",
+      "views": 10927
+    },
+    {
+      "period": "2022-10",
+      "views": 22209
+    },
+    {
+      "period": "2023-05",
+      "views": 52668
+    },
+    {
+      "period": "2025-10",
+      "views": 13267
+    },
+    {
+      "period": "2026-10",
+      "views": 10324
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 21222
+    },
+    {
+      "period": "2020",
+      "views": 10927
+    },
+    {
+      "period": "2022",
+      "views": 22209
+    },
+    {
+      "period": "2023",
+      "views": 52668
+    },
+    {
+      "period": "2025",
+      "views": 13267
+    },
+    {
+      "period": "2026",
+      "views": 10324
+    }
+  ]
+}

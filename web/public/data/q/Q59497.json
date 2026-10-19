@@ -4,7 +4,7 @@
   "title": "Geno_Smith",
   "description": "American football player (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Geno_Smith.jpg?width=64",
-  "total": 2212036,
+  "total": 2221002,
   "monthly": [
     {
       "period": "2015-08",
@@ -129,6 +129,10 @@
     {
       "period": "2026-09",
       "views": 60782
+    },
+    {
+      "period": "2026-10",
+      "views": 8966
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 149348
+      "views": 158314
     }
   ]
 }

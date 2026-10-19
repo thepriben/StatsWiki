@@ -4,7 +4,7 @@
   "title": "The_Rehearsal_(TV_series)",
   "description": "American television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Rehearsal.png?width=64",
-  "total": 1640756,
+  "total": 1661036,
   "monthly": [
     {
       "period": "2022-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 133034
+    },
+    {
+      "period": "2026-10",
+      "views": 20280
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 133034
+      "views": 153314
     }
   ]
 }

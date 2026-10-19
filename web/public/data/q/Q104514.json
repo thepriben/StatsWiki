@@ -4,7 +4,7 @@
   "title": "Adrien_Brody",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AdrienBrody-byPhilipRomano2.jpg?width=64",
-  "total": 5191256,
+  "total": 5218301,
   "monthly": [
     {
       "period": "2015-09",
@@ -149,6 +149,10 @@
     {
       "period": "2026-09",
       "views": 7639
+    },
+    {
+      "period": "2026-10",
+      "views": 27045
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 251687
+      "views": 278732
     }
   ]
 }

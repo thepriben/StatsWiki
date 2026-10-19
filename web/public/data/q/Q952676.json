@@ -4,7 +4,7 @@
   "title": "Michael_Irvin",
   "description": "American football player, actor, and sports commentator (born 1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Irvin.jpg?width=64",
-  "total": 793360,
+  "total": 805533,
   "monthly": [
     {
       "period": "2016-02",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 9980
+    },
+    {
+      "period": "2026-10",
+      "views": 12173
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 174480
+      "views": 186653
     }
   ]
 }

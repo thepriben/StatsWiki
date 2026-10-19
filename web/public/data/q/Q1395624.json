@@ -4,7 +4,7 @@
   "title": "Cara_Delevingne",
   "description": "English model and actor (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cara_Delevingne_by_Gage_Skidmore.jpg?width=64",
-  "total": 17215660,
+  "total": 17227158,
   "monthly": [
     {
       "period": "2015-07",
@@ -357,6 +357,10 @@
     {
       "period": "2026-09",
       "views": 40158
+    },
+    {
+      "period": "2026-10",
+      "views": 11498
     }
   ],
   "yearly": [
@@ -406,7 +410,7 @@
     },
     {
       "period": "2026",
-      "views": 181215
+      "views": 192713
     }
   ]
 }

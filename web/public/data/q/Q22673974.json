@@ -4,7 +4,7 @@
   "title": "Kaia_Gerber",
   "description": "American model and actress (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaia_Gerber_at_the_2024_Toronto_International_Film_Festival_01_%28Cropped%29.jpg?width=64",
-  "total": 2991966,
+  "total": 3016078,
   "monthly": [
     {
       "period": "2019-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 649062
+    },
+    {
+      "period": "2026-10",
+      "views": 24112
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 1213226
+      "views": 1237338
     }
   ]
 }

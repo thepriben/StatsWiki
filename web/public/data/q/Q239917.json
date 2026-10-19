@@ -4,7 +4,7 @@
   "title": "Tina_Arena",
   "description": "Australian singer, songwriter and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tina_Arena_2013.jpg?width=64",
-  "total": 181983,
+  "total": 210474,
   "monthly": [
     {
       "period": "2015-11",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 10020
+    },
+    {
+      "period": "2026-10",
+      "views": 28491
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 10020
+      "views": 38511
     }
   ]
 }

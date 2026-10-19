@@ -4,7 +4,7 @@
   "title": "Lewis_Pullman",
   "description": "American actor (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lewis_Pullman_at_San_Diego_Comic_Con_2026-2.jpg?width=64",
-  "total": 3133325,
+  "total": 3143508,
   "monthly": [
     {
       "period": "2022-05",
@@ -113,6 +113,10 @@
     {
       "period": "2026-09",
       "views": 200123
+    },
+    {
+      "period": "2026-10",
+      "views": 10183
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 1231839
+      "views": 1242022
     }
   ]
 }
