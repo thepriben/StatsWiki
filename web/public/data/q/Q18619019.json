@@ -4,7 +4,7 @@
   "title": "Ezekiel_Elliott",
   "description": "American football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EzekielElliott.jpg?width=64",
-  "total": 2639973,
+  "total": 2650320,
   "monthly": [
     {
       "period": "2015-08",
@@ -213,6 +213,10 @@
     {
       "period": "2026-09",
       "views": 29829
+    },
+    {
+      "period": "2026-10",
+      "views": 10347
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 29829
+      "views": 40176
     }
   ]
 }

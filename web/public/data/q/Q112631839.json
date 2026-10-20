@@ -4,7 +4,7 @@
   "title": "Bleach:_Thousand-Year_Blood_War",
   "description": "Japanese anime television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BLEACH_TYBW_Blu-ray_Disc_Box_1.jpg?width=64",
-  "total": 848866,
+  "total": 857573,
   "monthly": [
     {
       "period": "2022-10",
@@ -57,6 +57,10 @@
     {
       "period": "2026-09",
       "views": 45537
+    },
+    {
+      "period": "2026-10",
+      "views": 8707
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 144314
+      "views": 153021
     }
   ]
 }

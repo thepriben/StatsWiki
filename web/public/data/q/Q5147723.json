@@ -4,7 +4,7 @@
   "title": "Colman_Domingo",
   "description": "American actor (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colman_Domingo_at_82nd_Venice_International_Film_Festival-1.jpg?width=64",
-  "total": 4410295,
+  "total": 4420632,
   "monthly": [
     {
       "period": "2016-05",
@@ -121,6 +121,10 @@
     {
       "period": "2026-08",
       "views": 95852
+    },
+    {
+      "period": "2026-10",
+      "views": 10337
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 2102633
+      "views": 2112970
     }
   ]
 }

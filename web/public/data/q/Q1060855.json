@@ -1,0 +1,80 @@
+{
+  "qid": "Q1060855",
+  "label": "Victoria's Secret Fashion Show",
+  "title": "Victoria's_Secret_Fashion_Show",
+  "description": "annual fashion event hosted by the fashion label Victoria's Secret",
+  "image": "",
+  "total": 348392,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 28459
+    },
+    {
+      "period": "2015-12",
+      "views": 38417
+    },
+    {
+      "period": "2016-11",
+      "views": 10517
+    },
+    {
+      "period": "2016-12",
+      "views": 85008
+    },
+    {
+      "period": "2017-11",
+      "views": 13434
+    },
+    {
+      "period": "2018-11",
+      "views": 25382
+    },
+    {
+      "period": "2018-12",
+      "views": 16780
+    },
+    {
+      "period": "2024-10",
+      "views": 73043
+    },
+    {
+      "period": "2025-10",
+      "views": 35233
+    },
+    {
+      "period": "2026-10",
+      "views": 22119
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 66876
+    },
+    {
+      "period": "2016",
+      "views": 95525
+    },
+    {
+      "period": "2017",
+      "views": 13434
+    },
+    {
+      "period": "2018",
+      "views": 42162
+    },
+    {
+      "period": "2024",
+      "views": 73043
+    },
+    {
+      "period": "2025",
+      "views": 35233
+    },
+    {
+      "period": "2026",
+      "views": 22119
+    }
+  ]
+}

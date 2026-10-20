@@ -4,7 +4,7 @@
   "title": "Ibogaine",
   "description": "chemical compound",
   "image": "",
-  "total": 192872,
+  "total": 200702,
   "monthly": [
     {
       "period": "2025-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 49862
+    },
+    {
+      "period": "2026-10",
+      "views": 7830
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 146387
+      "views": 154217
     }
   ]
 }

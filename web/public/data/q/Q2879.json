@@ -4,7 +4,7 @@
   "title": "Provinces_and_territories_of_Canada",
   "description": "top-level subdivisions of Canada",
   "image": "",
-  "total": 1583067,
+  "total": 1591999,
   "monthly": [
     {
       "period": "2017-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-09",
       "views": 64893
+    },
+    {
+      "period": "2026-10",
+      "views": 8932
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 64893
+      "views": 73825
     }
   ]
 }

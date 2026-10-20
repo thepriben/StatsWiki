@@ -4,7 +4,7 @@
   "title": "Tucker_Kraft",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tucker_Kraft_%28tight_end%29_at_Fisher_House_in_Milwaukee_during_Green_Bay_Packers_Tailgate_Tour_stop_on_April_9%2C_2025_%28544416796151%29.jpg?width=64",
-  "total": 204968,
+  "total": 217281,
   "monthly": [
     {
       "period": "2023-12",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 10488
+    },
+    {
+      "period": "2026-10",
+      "views": 12313
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 10488
+      "views": 22801
     }
   ]
 }

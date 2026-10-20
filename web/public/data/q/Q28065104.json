@@ -4,7 +4,7 @@
   "title": "Omar_Marmoush",
   "description": "Egyptian footballer (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Omar_Marmoush_Argentina_v_Egypt_7_July_2026-018.jpg?width=64",
-  "total": 1321764,
+  "total": 1330304,
   "monthly": [
     {
       "period": "2021-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 8719
+    },
+    {
+      "period": "2026-10",
+      "views": 8540
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 286746
+      "views": 295286
     }
   ]
 }

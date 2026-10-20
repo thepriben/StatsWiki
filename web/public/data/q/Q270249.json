@@ -2,9 +2,9 @@
   "qid": "Q270249",
   "label": "Elina Svitolina",
   "title": "Elina_Svitolina",
-  "description": "Ukrainian tennis player",
+  "description": "Ukrainian tennis player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukraine_at_the_2020_Summer_Olympics016.jpg?width=64",
-  "total": 2441349,
+  "total": 2463682,
   "monthly": [
     {
       "period": "2017-05",
@@ -157,6 +157,10 @@
     {
       "period": "2026-09",
       "views": 52106
+    },
+    {
+      "period": "2026-10",
+      "views": 22333
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 666016
+      "views": 688349
     }
   ]
 }

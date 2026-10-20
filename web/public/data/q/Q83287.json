@@ -4,7 +4,7 @@
   "title": "Selena_Gomez",
   "description": "American singer and actress (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg?width=64",
-  "total": 53336561,
+  "total": 53347183,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-09",
       "views": 87237
+    },
+    {
+      "period": "2026-10",
+      "views": 10622
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 536132
+      "views": 546754
     }
   ]
 }

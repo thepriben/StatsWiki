@@ -4,7 +4,7 @@
   "title": "Dune:_Part_Three",
   "description": "upcoming film directed by Denis Villeneuve",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dune_part_three_title_with_orange_awesome_background.jpg?width=64",
-  "total": 1568385,
+  "total": 1576393,
   "monthly": [
     {
       "period": "2025-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 214354
+    },
+    {
+      "period": "2026-10",
+      "views": 8008
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 1394295
+      "views": 1402303
     }
   ]
 }

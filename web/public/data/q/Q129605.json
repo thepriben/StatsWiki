@@ -4,7 +4,7 @@
   "title": "Andy_Dalton",
   "description": "American football player (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Dalton_pass%28CROP%29.jpg?width=64",
-  "total": 1315837,
+  "total": 1333695,
   "monthly": [
     {
       "period": "2015-10",
@@ -121,6 +121,10 @@
     {
       "period": "2026-09",
       "views": 72221
+    },
+    {
+      "period": "2026-10",
+      "views": 17858
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 107370
+      "views": 125228
     }
   ]
 }

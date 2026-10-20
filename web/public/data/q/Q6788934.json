@@ -4,7 +4,7 @@
   "title": "Matt_LaFleur",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt_LaFleur_July_2016.jpg?width=64",
-  "total": 2230179,
+  "total": 2242551,
   "monthly": [
     {
       "period": "2018-01",
@@ -157,6 +157,10 @@
     {
       "period": "2026-09",
       "views": 53669
+    },
+    {
+      "period": "2026-10",
+      "views": 12372
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 289950
+      "views": 302322
     }
   ]
 }

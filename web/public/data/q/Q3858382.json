@@ -4,7 +4,7 @@
   "title": "Ming_Xi",
   "description": "Chinese model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ming_Xi_Paris_Fashion_Week_Autumn_Winter_2019.jpg?width=64",
-  "total": 45251,
+  "total": 68849,
   "monthly": [
     {
       "period": "2017-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 21793
+    },
+    {
+      "period": "2026-10",
+      "views": 23598
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 21793
+      "views": 45391
     }
   ]
 }

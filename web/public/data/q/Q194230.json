@@ -4,7 +4,7 @@
   "title": "Leap_second",
   "description": "extra second inserted or removed to keep civil time in sync with the Earth's rotation",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apanhei_o_2012.jpg?width=64",
-  "total": 169554,
+  "total": 187118,
   "monthly": [
     {
       "period": "2015-07",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-10",
-      "views": 31692
+      "views": 49256
     }
   ],
   "yearly": [
@@ -46,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 31692
+      "views": 49256
     }
   ]
 }

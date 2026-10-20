@@ -4,7 +4,7 @@
   "title": "Lara_Raj",
   "description": "American singer (born 2005)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lara_Raj_240913_1.jpg?width=64",
-  "total": 248440,
+  "total": 257237,
   "monthly": [
     {
       "period": "2026-02",
@@ -25,12 +25,16 @@
     {
       "period": "2026-09",
       "views": 52008
+    },
+    {
+      "period": "2026-10",
+      "views": 8797
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 248440
+      "views": 257237
     }
   ]
 }

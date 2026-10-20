@@ -4,7 +4,7 @@
   "title": "Cappadocia",
   "description": "historical region of Asia Minor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Cappadocia_edit.jpg?width=64",
-  "total": 30296,
+  "total": 40282,
   "monthly": [
     {
       "period": "2019-04",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 20466
+    },
+    {
+      "period": "2026-10",
+      "views": 9986
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 20466
+      "views": 30452
     }
   ]
 }

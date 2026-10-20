@@ -4,7 +4,7 @@
   "title": "George_Shultz",
   "description": "American politician (1920–2021)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Pratt_Shultz.jpg?width=64",
-  "total": 476677,
+  "total": 485960,
   "monthly": [
     {
       "period": "2021-02",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 9184
+    },
+    {
+      "period": "2026-10",
+      "views": 9283
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 9184
+      "views": 18467
     }
   ]
 }
