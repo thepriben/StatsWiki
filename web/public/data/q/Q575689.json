@@ -4,7 +4,7 @@
   "title": "Kourtney_Kardashian",
   "description": "American media personality, model and businesswoman (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kourtney_Kardashian_2_2009.jpg?width=64",
-  "total": 12839234,
+  "total": 12847211,
   "monthly": [
     {
       "period": "2015-07",
@@ -361,6 +361,10 @@
     {
       "period": "2026-08",
       "views": 50209
+    },
+    {
+      "period": "2026-10",
+      "views": 7977
     }
   ],
   "yearly": [
@@ -410,7 +414,7 @@
     },
     {
       "period": "2026",
-      "views": 50209
+      "views": 58186
     }
   ]
 }

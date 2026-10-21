@@ -4,7 +4,7 @@
   "title": "Ruby_Ridge_standoff",
   "description": "1992 standoff in Boundary County, Idaho, United States, that resulted in three human fatalities",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Surveillance_photograph_of_Vicki_Weaver_21_Aug_1992.jpg?width=64",
-  "total": 693976,
+  "total": 701773,
   "monthly": [
     {
       "period": "2024-08",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 9455
+    },
+    {
+      "period": "2026-10",
+      "views": 7797
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 535900
+      "views": 543697
     }
   ]
 }

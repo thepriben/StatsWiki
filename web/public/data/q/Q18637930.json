@@ -4,7 +4,7 @@
   "title": "Fabián_Ruiz",
   "description": "Spanish footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabian_Ruiz_France_v_Spain_7.24.26-110.jpg?width=64",
-  "total": 833321,
+  "total": 849454,
   "monthly": [
     {
       "period": "2019-06",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 211251
+    },
+    {
+      "period": "2026-10",
+      "views": 16133
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 292499
+      "views": 308632
     }
   ]
 }

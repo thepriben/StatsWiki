@@ -1,0 +1,48 @@
+{
+  "qid": "Q1810119",
+  "label": "Tropicana Field",
+  "title": "Tropicana_Field",
+  "description": "stadium in St. Petersburg, Florida",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tropicana_Field_Playing_Field_Opening_Day_2010.JPG?width=64",
+  "total": 167020,
+  "monthly": [
+    {
+      "period": "2019-10",
+      "views": 11169
+    },
+    {
+      "period": "2021-10",
+      "views": 11838
+    },
+    {
+      "period": "2024-01",
+      "views": 18309
+    },
+    {
+      "period": "2024-10",
+      "views": 114814
+    },
+    {
+      "period": "2026-10",
+      "views": 10890
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 11169
+    },
+    {
+      "period": "2021",
+      "views": 11838
+    },
+    {
+      "period": "2024",
+      "views": 133123
+    },
+    {
+      "period": "2026",
+      "views": 10890
+    }
+  ]
+}

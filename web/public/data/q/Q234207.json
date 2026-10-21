@@ -4,7 +4,7 @@
   "title": "Natasha_Lyonne",
   "description": "American actress (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Natasha_Lyonne_-_Dascha_Polanco_%2814471678018%29_%28Lyonne_cropped%29.jpg?width=64",
-  "total": 9720700,
+  "total": 9732023,
   "monthly": [
     {
       "period": "2015-07",
@@ -209,6 +209,10 @@
     {
       "period": "2026-04",
       "views": 90116
+    },
+    {
+      "period": "2026-10",
+      "views": 11323
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 211376
+      "views": 222699
     }
   ]
 }

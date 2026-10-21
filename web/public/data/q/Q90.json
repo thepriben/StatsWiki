@@ -4,7 +4,7 @@
   "title": "Paris",
   "description": "capital and most populous city in France",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?width=64",
-  "total": 1725701,
+  "total": 1735263,
   "monthly": [
     {
       "period": "2015-07",
@@ -148,7 +148,7 @@
     },
     {
       "period": "2026-10",
-      "views": 8182
+      "views": 17744
     }
   ],
   "yearly": [
@@ -194,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 8182
+      "views": 17744
     }
   ]
 }

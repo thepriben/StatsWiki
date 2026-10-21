@@ -4,7 +4,7 @@
   "title": "Ravana",
   "description": "King of Lankā in the Hindu epic Ramayana",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravana.jpg?width=64",
-  "total": 776560,
+  "total": 787093,
   "monthly": [
     {
       "period": "2015-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 18145
+    },
+    {
+      "period": "2026-10",
+      "views": 10533
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 18145
+      "views": 28678
     }
   ]
 }

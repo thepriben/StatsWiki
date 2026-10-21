@@ -4,7 +4,7 @@
   "title": "It_Follows",
   "description": "2014 film directed by David Robert Mitchell",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/It_Follows_Title.png?width=64",
-  "total": 868760,
+  "total": 877581,
   "monthly": [
     {
       "period": "2015-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 8555
+    },
+    {
+      "period": "2026-10",
+      "views": 8821
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 26397
+      "views": 35218
     }
   ]
 }

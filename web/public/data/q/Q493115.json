@@ -4,7 +4,7 @@
   "title": "Andre_Drummond",
   "description": "American basketball player (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andre_Drummond_%2831577442391%29.jpg?width=64",
-  "total": 651935,
+  "total": 669890,
   "monthly": [
     {
       "period": "2015-11",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 47249
+    },
+    {
+      "period": "2026-10",
+      "views": 17955
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 71413
+      "views": 89368
     }
   ]
 }

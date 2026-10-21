@@ -4,17 +4,21 @@
   "title": "Aden_McCarthy",
   "description": "South African footballer",
   "image": "",
-  "total": 21225,
+  "total": 31104,
   "monthly": [
     {
       "period": "2026-09",
       "views": 21225
+    },
+    {
+      "period": "2026-10",
+      "views": 9879
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21225
+      "views": 31104
     }
   ]
 }

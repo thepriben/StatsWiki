@@ -1,0 +1,52 @@
+{
+  "qid": "Q123819436",
+  "label": "Super Bowl LXI",
+  "title": "Super_Bowl_LXI",
+  "description": "2027 National Football League championship game",
+  "image": "",
+  "total": 484202,
+  "monthly": [
+    {
+      "period": "2024-01",
+      "views": 13461
+    },
+    {
+      "period": "2024-02",
+      "views": 68341
+    },
+    {
+      "period": "2025-01",
+      "views": 19987
+    },
+    {
+      "period": "2025-02",
+      "views": 95169
+    },
+    {
+      "period": "2026-01",
+      "views": 34620
+    },
+    {
+      "period": "2026-02",
+      "views": 243200
+    },
+    {
+      "period": "2026-10",
+      "views": 9424
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 81802
+    },
+    {
+      "period": "2025",
+      "views": 115156
+    },
+    {
+      "period": "2026",
+      "views": 287244
+    }
+  ]
+}

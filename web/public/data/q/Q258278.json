@@ -4,7 +4,7 @@
   "title": "Percomorpha",
   "description": "superorder of spiny-finned fishes (Acanthopterygii)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siganus_corallinus.jpg?width=64",
-  "total": 215490,
+  "total": 230696,
   "monthly": [
     {
       "period": "2025-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 15043
+    },
+    {
+      "period": "2026-10",
+      "views": 15206
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 204350
+      "views": 219556
     }
   ]
 }

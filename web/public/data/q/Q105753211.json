@@ -4,7 +4,7 @@
   "title": "The_Terminal_List",
   "description": "American thriller drama television series",
   "image": "",
-  "total": 1445047,
+  "total": 1454557,
   "monthly": [
     {
       "period": "2022-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 7479
+    },
+    {
+      "period": "2026-10",
+      "views": 9510
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 7479
+      "views": 16989
     }
   ]
 }

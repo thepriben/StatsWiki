@@ -4,7 +4,7 @@
   "title": "Good_American_Family",
   "description": "Hulu limited series",
   "image": "",
-  "total": 3668909,
+  "total": 3682452,
   "monthly": [
     {
       "period": "2025-02",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 34476
+    },
+    {
+      "period": "2026-10",
+      "views": 13543
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 56492
+      "views": 70035
     }
   ]
 }

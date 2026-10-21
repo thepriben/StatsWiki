@@ -4,7 +4,7 @@
   "title": "Dominic_Fike",
   "description": "American musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2021_Shaky_Knees_Dominic_Fike_%283%29_%28cropped%29.jpg?width=64",
-  "total": 2043814,
+  "total": 2058904,
   "monthly": [
     {
       "period": "2020-07",
@@ -85,6 +85,10 @@
     {
       "period": "2026-06",
       "views": 23000
+    },
+    {
+      "period": "2026-10",
+      "views": 15090
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 157496
+      "views": 172586
     }
   ]
 }

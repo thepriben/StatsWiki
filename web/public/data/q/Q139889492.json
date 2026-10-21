@@ -4,17 +4,21 @@
   "title": "Floyd_Samba",
   "description": "English footballer (born 2009)",
   "image": "",
-  "total": 128209,
+  "total": 142567,
   "monthly": [
     {
       "period": "2026-09",
       "views": 128209
+    },
+    {
+      "period": "2026-10",
+      "views": 14358
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 128209
+      "views": 142567
     }
   ]
 }

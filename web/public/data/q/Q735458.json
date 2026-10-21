@@ -4,7 +4,7 @@
   "title": "Stanley_Ho",
   "description": "Macau gambling magnate (1921–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanleyho2006.jpg?width=64",
-  "total": 242044,
+  "total": 251513,
   "monthly": [
     {
       "period": "2020-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 10001
+    },
+    {
+      "period": "2026-10",
+      "views": 9469
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10001
+      "views": 19470
     }
   ]
 }

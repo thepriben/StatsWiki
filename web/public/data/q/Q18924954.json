@@ -4,7 +4,7 @@
   "title": "Lucas_Hernandez",
   "description": "French footballer (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hernandez_asse_psg_2425.png?width=64",
-  "total": 901164,
+  "total": 916396,
   "monthly": [
     {
       "period": "2019-03",
@@ -73,6 +73,10 @@
     {
       "period": "2026-07",
       "views": 29220
+    },
+    {
+      "period": "2026-10",
+      "views": 15232
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 91877
+      "views": 107109
     }
   ]
 }

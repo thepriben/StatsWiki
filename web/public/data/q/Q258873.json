@@ -4,7 +4,7 @@
   "title": "Waco_siege",
   "description": "1993 struggle between the U.S government and armed inhabitants of a compound in Texas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountcarmelfire04-19-93-l.jpg?width=64",
-  "total": 12119045,
+  "total": 12160691,
   "monthly": [
     {
       "period": "2016-01",
@@ -213,6 +213,10 @@
     {
       "period": "2026-04",
       "views": 52448
+    },
+    {
+      "period": "2026-10",
+      "views": 41646
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 62557
+      "views": 104203
     }
   ]
 }

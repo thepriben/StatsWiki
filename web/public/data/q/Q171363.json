@@ -4,7 +4,7 @@
   "title": "Viggo_Mortensen",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Viggo_Mortensen_B_%282020%29.jpg?width=64",
-  "total": 3902791,
+  "total": 3910703,
   "monthly": [
     {
       "period": "2015-09",
@@ -201,6 +201,10 @@
     {
       "period": "2026-09",
       "views": 27407
+    },
+    {
+      "period": "2026-10",
+      "views": 7912
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 112099
+      "views": 120011
     }
   ]
 }

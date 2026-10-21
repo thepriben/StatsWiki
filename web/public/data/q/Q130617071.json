@@ -4,7 +4,7 @@
   "title": "List_of_From_episodes",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1337765,
+  "total": 1346127,
   "monthly": [
     {
       "period": "2024-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 43609
+    },
+    {
+      "period": "2026-10",
+      "views": 8362
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1123129
+      "views": 1131491
     }
   ]
 }

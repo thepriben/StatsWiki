@@ -4,7 +4,7 @@
   "title": "Jimmy_Garoppolo",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2018_Jimmy_Garoppolo_%28cropped%29.jpg?width=64",
-  "total": 7970326,
+  "total": 7978411,
   "monthly": [
     {
       "period": "2015-08",
@@ -221,6 +221,10 @@
     {
       "period": "2026-09",
       "views": 19666
+    },
+    {
+      "period": "2026-10",
+      "views": 8085
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 54742
+      "views": 62827
     }
   ]
 }
