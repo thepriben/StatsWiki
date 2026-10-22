@@ -4,7 +4,7 @@
   "title": "Liev_Schreiber",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MJK_08465_Liev_Schreiber_%28Berlinale_2018%29.jpg?width=64",
-  "total": 4433113,
+  "total": 4446529,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-09",
       "views": 38173
+    },
+    {
+      "period": "2026-10",
+      "views": 13416
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 59920
+      "views": 73336
     }
   ]
 }

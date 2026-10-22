@@ -4,7 +4,7 @@
   "title": "Brad_Lander",
   "description": "American politician (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad_Lander_2010.jpg?width=64",
-  "total": 530901,
+  "total": 541237,
   "monthly": [
     {
       "period": "2025-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 139102
+    },
+    {
+      "period": "2026-10",
+      "views": 10336
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 139102
+      "views": 149438
     }
   ]
 }

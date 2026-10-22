@@ -4,7 +4,7 @@
   "title": "Antonio_Conte",
   "description": "Italian association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20150616_Antonio_Conte.jpg?width=64",
-  "total": 2840982,
+  "total": 2850312,
   "monthly": [
     {
       "period": "2016-02",
@@ -177,6 +177,10 @@
     {
       "period": "2026-09",
       "views": 8176
+    },
+    {
+      "period": "2026-10",
+      "views": 9330
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 16167
+      "views": 25497
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kentavious_Caldwell-Pope",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kentavious_Caldwell-Pope_2014_2.jpg?width=64",
-  "total": 461300,
+  "total": 469657,
   "monthly": [
     {
       "period": "2017-07",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 31300
+    },
+    {
+      "period": "2026-10",
+      "views": 8357
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 31300
+      "views": 39657
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Murders_of_Thomas_and_Jackie_Hawks",
   "description": "2004 double murder of a couple from Arizona, United States",
   "image": "",
-  "total": 137360,
+  "total": 150968,
   "monthly": [
     {
       "period": "2025-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 47582
+    },
+    {
+      "period": "2026-10",
+      "views": 13608
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 108459
+      "views": 122067
     }
   ]
 }

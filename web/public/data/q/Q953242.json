@@ -1,0 +1,44 @@
+{
+  "qid": "Q953242",
+  "label": "Mass Effect",
+  "title": "Mass_Effect",
+  "description": "video game franchise",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Mass_Effect.svg?width=64",
+  "total": 98097,
+  "monthly": [
+    {
+      "period": "2017-03",
+      "views": 46950
+    },
+    {
+      "period": "2020-12",
+      "views": 11012
+    },
+    {
+      "period": "2021-05",
+      "views": 26260
+    },
+    {
+      "period": "2026-10",
+      "views": 13875
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 46950
+    },
+    {
+      "period": "2020",
+      "views": 11012
+    },
+    {
+      "period": "2021",
+      "views": 26260
+    },
+    {
+      "period": "2026",
+      "views": 13875
+    }
+  ]
+}

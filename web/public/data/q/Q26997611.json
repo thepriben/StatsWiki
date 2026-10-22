@@ -4,7 +4,7 @@
   "title": "Zazie_Beetz",
   "description": "German-American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zazie_Beetz_by_Gage_Skidmore.jpg?width=64",
-  "total": 2189700,
+  "total": 2199900,
   "monthly": [
     {
       "period": "2017-01",
@@ -109,6 +109,10 @@
     {
       "period": "2026-06",
       "views": 9700
+    },
+    {
+      "period": "2026-10",
+      "views": 10200
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 71689
+      "views": 81889
     }
   ]
 }

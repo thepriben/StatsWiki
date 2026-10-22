@@ -4,7 +4,7 @@
   "title": "Kym_Herjavec",
   "description": "Australian ballroom dancer and TV performer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kymjohnson.jpg?width=64",
-  "total": 109210,
+  "total": 143509,
   "monthly": [
     {
       "period": "2017-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 7766
+    },
+    {
+      "period": "2026-10",
+      "views": 34299
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 18436
+      "views": 52735
     }
   ]
 }

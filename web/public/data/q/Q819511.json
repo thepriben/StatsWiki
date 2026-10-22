@@ -1,0 +1,44 @@
+{
+  "qid": "Q819511",
+  "label": "spoil tip",
+  "title": "Spoil_tip",
+  "description": "pile built of accumulated spoil",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Terril_Loos-en-Gohelle_2006-01-14.jpg?width=64",
+  "total": 98297,
+  "monthly": [
+    {
+      "period": "2016-10",
+      "views": 31513
+    },
+    {
+      "period": "2017-10",
+      "views": 10551
+    },
+    {
+      "period": "2019-11",
+      "views": 35096
+    },
+    {
+      "period": "2026-10",
+      "views": 21137
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 31513
+    },
+    {
+      "period": "2017",
+      "views": 10551
+    },
+    {
+      "period": "2019",
+      "views": 35096
+    },
+    {
+      "period": "2026",
+      "views": 21137
+    }
+  ]
+}

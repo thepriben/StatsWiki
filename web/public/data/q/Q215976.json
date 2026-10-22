@@ -4,7 +4,7 @@
   "title": "Patricia_Arquette",
   "description": "American actress (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patricia_Arquette_2015.jpg?width=64",
-  "total": 3068649,
+  "total": 3079779,
   "monthly": [
     {
       "period": "2015-10",
@@ -153,6 +153,10 @@
     {
       "period": "2026-07",
       "views": 18005
+    },
+    {
+      "period": "2026-10",
+      "views": 11130
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 18005
+      "views": 29135
     }
   ]
 }

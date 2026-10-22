@@ -4,7 +4,7 @@
   "title": "Naomi_Watts",
   "description": "English actress (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Watts_%2836037832511%29_%28cropped%29.jpg?width=64",
-  "total": 5637337,
+  "total": 5647406,
   "monthly": [
     {
       "period": "2015-07",
@@ -337,6 +337,10 @@
     {
       "period": "2026-09",
       "views": 136730
+    },
+    {
+      "period": "2026-10",
+      "views": 10069
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 523709
+      "views": 533778
     }
   ]
 }

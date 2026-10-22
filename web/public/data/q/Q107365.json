@@ -4,7 +4,7 @@
   "title": "Manuel_Neuer",
   "description": "German association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg?width=64",
-  "total": 2025363,
+  "total": 2036589,
   "monthly": [
     {
       "period": "2016-06",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 39045
+    },
+    {
+      "period": "2026-10",
+      "views": 11226
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 544516
+      "views": 555742
     }
   ]
 }

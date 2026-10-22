@@ -1,0 +1,36 @@
+{
+  "qid": "Q68139",
+  "label": "Biosphere 2",
+  "title": "Biosphere_2",
+  "description": "artificial closed ecological system",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biosphere_2_Habitat_%26_Lung_2009-05-10.jpg?width=64",
+  "total": 186757,
+  "monthly": [
+    {
+      "period": "2019-08",
+      "views": 155978
+    },
+    {
+      "period": "2023-05",
+      "views": 22872
+    },
+    {
+      "period": "2026-10",
+      "views": 7907
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 155978
+    },
+    {
+      "period": "2023",
+      "views": 22872
+    },
+    {
+      "period": "2026",
+      "views": 7907
+    }
+  ]
+}

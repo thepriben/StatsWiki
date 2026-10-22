@@ -4,7 +4,7 @@
   "title": "John_McCain",
   "description": "American politician (1936–2018)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_McCain_official_portrait_2009.jpg?width=64",
-  "total": 15079785,
+  "total": 15089502,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-07",
       "views": 32054
+    },
+    {
+      "period": "2026-10",
+      "views": 9717
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 82329
+      "views": 92046
     }
   ]
 }

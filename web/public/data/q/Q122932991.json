@@ -4,7 +4,7 @@
   "title": "The_Cat_in_the_Hat_(2026_film)",
   "description": "upcoming film directed by Erica Rivinoja and Alessandro Carloni",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Cat_in_the_Hat_%282026%29_-_Logo.jpg?width=64",
-  "total": 71244,
+  "total": 82353,
   "monthly": [
     {
       "period": "2025-07",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 8863
+    },
+    {
+      "period": "2026-10",
+      "views": 11109
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 8863
+      "views": 19972
     }
   ]
 }

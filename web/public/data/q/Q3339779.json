@@ -4,7 +4,7 @@
   "title": "Nick_Nurse",
   "description": "American basketball coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NICK_NURSE_%28Crop%29.jpg?width=64",
-  "total": 1134477,
+  "total": 1142404,
   "monthly": [
     {
       "period": "2018-06",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 12723
+    },
+    {
+      "period": "2026-10",
+      "views": 7927
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 33404
+      "views": 41331
     }
   ]
 }

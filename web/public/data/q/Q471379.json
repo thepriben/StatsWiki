@@ -4,7 +4,7 @@
   "title": "The_Scream",
   "description": "group of paintings by Edvard Munch",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg?width=64",
-  "total": 422149,
+  "total": 430193,
   "monthly": [
     {
       "period": "2017-02",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 11017
+    },
+    {
+      "period": "2026-10",
+      "views": 8044
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 11017
+      "views": 19061
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Joel_Embiid",
   "description": "Cameroonian and French basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joel_Embiid_2019.jpg?width=64",
-  "total": 3949105,
+  "total": 3957442,
   "monthly": [
     {
       "period": "2015-07",
@@ -221,6 +221,10 @@
     {
       "period": "2026-07",
       "views": 38898
+    },
+    {
+      "period": "2026-10",
+      "views": 8337
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 220501
+      "views": 228838
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Philadelphia_76ers",
   "description": "American professional basketball team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Philadelphia_76ers_wordmark_2015%E2%80%9316.png?width=64",
-  "total": 396647,
+  "total": 404924,
   "monthly": [
     {
       "period": "2016-05",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 161624
+    },
+    {
+      "period": "2026-10",
+      "views": 8277
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 174917
+      "views": 183194
     }
   ]
 }

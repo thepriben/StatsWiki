@@ -4,7 +4,7 @@
   "title": "Moana_(2026_film)",
   "description": "2026 film directed by Thomas Kail",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DisneysMoana2026.webp?width=64",
-  "total": 1790400,
+  "total": 1803966,
   "monthly": [
     {
       "period": "2024-11",
@@ -37,6 +37,10 @@
     {
       "period": "2026-09",
       "views": 48293
+    },
+    {
+      "period": "2026-10",
+      "views": 13566
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 1553322
+      "views": 1566888
     }
   ]
 }

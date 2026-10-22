@@ -4,7 +4,7 @@
   "title": "Khvicha_Kvaratskhelia",
   "description": "Georgian footballer (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khvicha_Kvaratskhelia_cropped.jpg?width=64",
-  "total": 2215772,
+  "total": 2234962,
   "monthly": [
     {
       "period": "2022-08",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 20774
+    },
+    {
+      "period": "2026-10",
+      "views": 19190
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 517955
+      "views": 537145
     }
   ]
 }

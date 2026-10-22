@@ -4,7 +4,7 @@
   "title": "Boeing_737_MAX",
   "description": "airliner family",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/C-FSJJ_%2843123199145%29.jpg?width=64",
-  "total": 3648379,
+  "total": 3656717,
   "monthly": [
     {
       "period": "2015-12",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 8518
+    },
+    {
+      "period": "2026-10",
+      "views": 8338
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 8518
+      "views": 16856
     }
   ]
 }

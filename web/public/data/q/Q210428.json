@@ -4,7 +4,7 @@
   "title": "Elliott_Smith",
   "description": "American musician (1969–2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elliott_Smith.jpg?width=64",
-  "total": 113020,
+  "total": 122038,
   "monthly": [
     {
       "period": "2015-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 7706
+    },
+    {
+      "period": "2026-10",
+      "views": 9018
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 7706
+      "views": 16724
     }
   ]
 }

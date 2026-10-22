@@ -4,7 +4,7 @@
   "title": "Victor_Osimhen",
   "description": "Nigerian footballer (born 1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Victor-osimhen-nigeria-2024-3-4.jpg?width=64",
-  "total": 1906479,
+  "total": 1914510,
   "monthly": [
     {
       "period": "2020-07",
@@ -129,6 +129,10 @@
     {
       "period": "2026-08",
       "views": 59142
+    },
+    {
+      "period": "2026-10",
+      "views": 8031
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 210150
+      "views": 218181
     }
   ]
 }

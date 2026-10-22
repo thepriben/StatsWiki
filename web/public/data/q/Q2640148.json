@@ -1,0 +1,52 @@
+{
+  "qid": "Q2640148",
+  "label": "Baldur's Gate",
+  "title": "Baldur's_Gate",
+  "description": "video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baldurs_Gate_stacked_logo_circa_Enhanced_Edition.png?width=64",
+  "total": 515661,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 65778
+    },
+    {
+      "period": "2019-06",
+      "views": 33568
+    },
+    {
+      "period": "2020-02",
+      "views": 9681
+    },
+    {
+      "period": "2023-08",
+      "views": 389381
+    },
+    {
+      "period": "2026-10",
+      "views": 17253
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 65778
+    },
+    {
+      "period": "2019",
+      "views": 33568
+    },
+    {
+      "period": "2020",
+      "views": 9681
+    },
+    {
+      "period": "2023",
+      "views": 389381
+    },
+    {
+      "period": "2026",
+      "views": 17253
+    }
+  ]
+}
