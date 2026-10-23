@@ -4,7 +4,7 @@
   "title": "Ariel_Castro_kidnappings",
   "description": "21st-century kidnappings",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seymour_Avenue_-_panoramio.jpg?width=64",
-  "total": 2744035,
+  "total": 2751859,
   "monthly": [
     {
       "period": "2015-07",
@@ -221,6 +221,10 @@
     {
       "period": "2026-07",
       "views": 59348
+    },
+    {
+      "period": "2026-10",
+      "views": 7824
     }
   ],
   "yearly": [
@@ -270,7 +274,7 @@
     },
     {
       "period": "2026",
-      "views": 80168
+      "views": 87992
     }
   ]
 }

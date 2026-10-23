@@ -4,7 +4,7 @@
   "title": "Javier_Milei",
   "description": "economist, politician and president of Argentina since 2023",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Javier_Milei_en_el_Sal%C3%B3n_Blanco_2_%28cropped%29.jpg?width=64",
-  "total": 3479616,
+  "total": 3488209,
   "monthly": [
     {
       "period": "2018-06",
@@ -89,6 +89,10 @@
     {
       "period": "2026-09",
       "views": 22461
+    },
+    {
+      "period": "2026-10",
+      "views": 8593
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 423752
+      "views": 432345
     }
   ]
 }

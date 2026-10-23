@@ -4,7 +4,7 @@
   "title": "Miranda_Cosgrove",
   "description": "American actress and producer (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Miranda_Cosgrove_NickRewind_2022.jpg?width=64",
-  "total": 2506064,
+  "total": 2516174,
   "monthly": [
     {
       "period": "2015-11",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 21960
+    },
+    {
+      "period": "2026-10",
+      "views": 10110
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 34554
+      "views": 44664
     }
   ]
 }

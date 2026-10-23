@@ -4,7 +4,7 @@
   "title": "Josh_Charles",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Charles_2014.jpg?width=64",
-  "total": 322936,
+  "total": 330808,
   "monthly": [
     {
       "period": "2016-05",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 15983
+    },
+    {
+      "period": "2026-10",
+      "views": 7872
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 176469
+      "views": 184341
     }
   ]
 }

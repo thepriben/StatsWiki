@@ -4,7 +4,7 @@
   "title": "Karen_Fairchild",
   "description": "musical artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karen_Fairchild%2C_Nashville%2C_2024.jpg?width=64",
-  "total": 55078,
+  "total": 63243,
   "monthly": [
     {
       "period": "2015-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 13690
+    },
+    {
+      "period": "2026-10",
+      "views": 8165
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 13690
+      "views": 21855
     }
   ]
 }

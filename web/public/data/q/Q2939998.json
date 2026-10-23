@@ -4,7 +4,7 @@
   "title": "Caroline_Flack",
   "description": "English radio and television presenter (1979–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Flack.jpg?width=64",
-  "total": 5566138,
+  "total": 5574707,
   "monthly": [
     {
       "period": "2015-08",
@@ -193,6 +193,10 @@
     {
       "period": "2026-08",
       "views": 13634
+    },
+    {
+      "period": "2026-10",
+      "views": 8569
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 144375
+      "views": 152944
     }
   ]
 }

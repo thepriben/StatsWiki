@@ -4,7 +4,7 @@
   "title": "Ja_Morant",
   "description": "American basketball player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ja_Morant_2021.jpg?width=64",
-  "total": 4674660,
+  "total": 4683588,
   "monthly": [
     {
       "period": "2019-01",
@@ -165,6 +165,10 @@
     {
       "period": "2026-07",
       "views": 10920
+    },
+    {
+      "period": "2026-10",
+      "views": 8928
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 104337
+      "views": 113265
     }
   ]
 }

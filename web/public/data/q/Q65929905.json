@@ -4,7 +4,7 @@
   "title": "Ziaire_Williams",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziaire_Williams_%2851814052094%29_%28cropped%29.jpg?width=64",
-  "total": 80432,
+  "total": 89191,
   "monthly": [
     {
       "period": "2020-03",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 23583
+    },
+    {
+      "period": "2026-10",
+      "views": 8759
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 23583
+      "views": 32342
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "qid": "Q181943",
+  "label": "I Love Lucy",
+  "title": "I_Love_Lucy",
+  "description": "American television sitcom",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/I_Love_Lucy_title.svg?width=64",
+  "total": 331653,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 11772
+    },
+    {
+      "period": "2015-12",
+      "views": 17335
+    },
+    {
+      "period": "2016-12",
+      "views": 15578
+    },
+    {
+      "period": "2017-12",
+      "views": 12790
+    },
+    {
+      "period": "2018-12",
+      "views": 11044
+    },
+    {
+      "period": "2019-03",
+      "views": 15488
+    },
+    {
+      "period": "2021-12",
+      "views": 185049
+    },
+    {
+      "period": "2022-01",
+      "views": 37629
+    },
+    {
+      "period": "2026-10",
+      "views": 24968
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 29107
+    },
+    {
+      "period": "2016",
+      "views": 15578
+    },
+    {
+      "period": "2017",
+      "views": 12790
+    },
+    {
+      "period": "2018",
+      "views": 11044
+    },
+    {
+      "period": "2019",
+      "views": 15488
+    },
+    {
+      "period": "2021",
+      "views": 185049
+    },
+    {
+      "period": "2022",
+      "views": 37629
+    },
+    {
+      "period": "2026",
+      "views": 24968
+    }
+  ]
+}

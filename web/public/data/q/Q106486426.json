@@ -2,9 +2,9 @@
   "qid": "Q106486426",
   "label": "Walker Kessler",
   "title": "Walker_Kessler",
-  "description": "American basketball player",
+  "description": "American basketball player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Walker_Kessler_%28cropped%29.jpg?width=64",
-  "total": 256400,
+  "total": 317902,
   "monthly": [
     {
       "period": "2022-06",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 177209
+    },
+    {
+      "period": "2026-10",
+      "views": 61502
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 177209
+      "views": 238711
     }
   ]
 }

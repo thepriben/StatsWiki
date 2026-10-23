@@ -4,7 +4,7 @@
   "title": "John_Konchar",
   "description": "American basketball player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Konchar.jpg?width=64",
-  "total": 19744,
+  "total": 35089,
   "monthly": [
     {
       "period": "2022-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 9155
+    },
+    {
+      "period": "2026-10",
+      "views": 15345
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 9155
+      "views": 24500
     }
   ]
 }

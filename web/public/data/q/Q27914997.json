@@ -4,7 +4,7 @@
   "title": "Harry_Brook",
   "description": "cricketer (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Brook_%2851225504151%29_%28cropped%29.jpg?width=64",
-  "total": 538004,
+  "total": 553096,
   "monthly": [
     {
       "period": "2022-12",
@@ -65,6 +65,10 @@
     {
       "period": "2026-08",
       "views": 10187
+    },
+    {
+      "period": "2026-10",
+      "views": 15092
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 26116
+      "views": 41208
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Luka_Dončić",
   "description": "Slovenian basketball player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luka_Doncic_%2851914951721%29_%28cropped1%29.jpg?width=64",
-  "total": 10873233,
+  "total": 10888332,
   "monthly": [
     {
       "period": "2017-09",
@@ -285,6 +285,10 @@
     {
       "period": "2026-08",
       "views": 9820
+    },
+    {
+      "period": "2026-10",
+      "views": 15099
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 322937
+      "views": 338036
     }
   ]
 }

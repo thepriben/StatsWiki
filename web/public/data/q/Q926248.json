@@ -4,7 +4,7 @@
   "title": "Kawhi_Leonard",
   "description": "American basketball player (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1_kawhi_leonard_2019_nba_finals_%28cropped%29.jpg?width=64",
-  "total": 9865019,
+  "total": 9875500,
   "monthly": [
     {
       "period": "2015-12",
@@ -257,6 +257,10 @@
     {
       "period": "2026-09",
       "views": 124738
+    },
+    {
+      "period": "2026-10",
+      "views": 10481
     }
   ],
   "yearly": [
@@ -306,7 +310,7 @@
     },
     {
       "period": "2026",
-      "views": 416041
+      "views": 426522
     }
   ]
 }

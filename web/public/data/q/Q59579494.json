@@ -4,7 +4,7 @@
   "title": "Lukas_Nelson",
   "description": "American musician (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brothers_%2813372180984%29_%28cropped%29.jpg?width=64",
-  "total": 65079,
+  "total": 89976,
   "monthly": [
     {
       "period": "2023-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 11077
+    },
+    {
+      "period": "2026-10",
+      "views": 24897
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 11077
+      "views": 35974
     }
   ]
 }
