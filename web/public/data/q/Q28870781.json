@@ -4,7 +4,7 @@
   "title": "Lou_Sanders",
   "description": "British writer, comedian and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lou_Sanders_at_BAFTA_2026_02.jpg?width=64",
-  "total": 262412,
+  "total": 274470,
   "monthly": [
     {
       "period": "2019-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 9480
+    },
+    {
+      "period": "2026-10",
+      "views": 12058
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 44153
+      "views": 56211
     }
   ]
 }

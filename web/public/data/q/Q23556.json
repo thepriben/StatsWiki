@@ -4,7 +4,7 @@
   "title": "Atlanta",
   "description": "capital city of the U.S. state of Georgia and seat of Fulton County, also located in DeKalb County",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A2ATL20250614-0721_%28cropped%29.jpg?width=64",
-  "total": 905433,
+  "total": 931373,
   "monthly": [
     {
       "period": "2017-02",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 12778
+    },
+    {
+      "period": "2026-10",
+      "views": 25940
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 12778
+      "views": 38718
     }
   ]
 }

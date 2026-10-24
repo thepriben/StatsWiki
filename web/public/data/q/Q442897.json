@@ -4,7 +4,7 @@
   "title": "Rebel_Wilson",
   "description": "Australian actress, writer, and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rebel_Wilson_%286707611099%29_%28cropped%29.jpg?width=64",
-  "total": 5323713,
+  "total": 5332170,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-07",
       "views": 18925
+    },
+    {
+      "period": "2026-10",
+      "views": 8457
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 37332
+      "views": 45789
     }
   ]
 }

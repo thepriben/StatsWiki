@@ -4,7 +4,7 @@
   "title": "Eli_Raridon",
   "description": "American football tight end",
   "image": "",
-  "total": 48976,
+  "total": 58612,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 35873
+    },
+    {
+      "period": "2026-10",
+      "views": 9636
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 48976
+      "views": 58612
     }
   ]
 }

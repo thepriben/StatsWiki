@@ -4,7 +4,7 @@
   "title": "I_Play_Rocky",
   "description": "upcoming film directed by Peter Farrelly",
   "image": "",
-  "total": 295672,
+  "total": 305700,
   "monthly": [
     {
       "period": "2026-07",
@@ -16,13 +16,13 @@
     },
     {
       "period": "2026-10",
-      "views": 8544
+      "views": 18572
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 295672
+      "views": 305700
     }
   ]
 }

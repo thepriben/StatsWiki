@@ -4,7 +4,7 @@
   "title": "D'Andre_Swift",
   "description": "American football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GA_VS_LSU_E101318_9.jpg?width=64",
-  "total": 538853,
+  "total": 556553,
   "monthly": [
     {
       "period": "2020-04",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 14849
+    },
+    {
+      "period": "2026-10",
+      "views": 17700
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 52937
+      "views": 70637
     }
   ]
 }

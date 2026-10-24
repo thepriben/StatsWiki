@@ -1,0 +1,48 @@
+{
+  "qid": "Q8486",
+  "label": "coffee",
+  "title": "Coffee",
+  "description": "brewed beverage made from seeds of Coffea genus",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_small_cup_of_coffee.JPG?width=64",
+  "total": 91562,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 9725
+    },
+    {
+      "period": "2018-01",
+      "views": 21373
+    },
+    {
+      "period": "2021-10",
+      "views": 21852
+    },
+    {
+      "period": "2021-11",
+      "views": 12698
+    },
+    {
+      "period": "2026-10",
+      "views": 25914
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 9725
+    },
+    {
+      "period": "2018",
+      "views": 21373
+    },
+    {
+      "period": "2021",
+      "views": 34550
+    },
+    {
+      "period": "2026",
+      "views": 25914
+    }
+  ]
+}

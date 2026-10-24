@@ -4,7 +4,7 @@
   "title": "Mary_Peltola",
   "description": "American politician (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?width=64",
-  "total": 271664,
+  "total": 280299,
   "monthly": [
     {
       "period": "2022-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 29049
+    },
+    {
+      "period": "2026-10",
+      "views": 8635
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 72900
+      "views": 81535
     }
   ]
 }

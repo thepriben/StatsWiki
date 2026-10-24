@@ -4,7 +4,7 @@
   "title": "Dillon_Danis",
   "description": "American mixed martial artist (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dillon_Danis_Weigh_In_2023_%28cropped%29.jpg?width=64",
-  "total": 1106620,
+  "total": 1119160,
   "monthly": [
     {
       "period": "2022-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 17535
+    },
+    {
+      "period": "2026-10",
+      "views": 12540
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 17535
+      "views": 30075
     }
   ]
 }

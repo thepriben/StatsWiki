@@ -4,7 +4,7 @@
   "title": "Mario_Hezonja",
   "description": "Croatian basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mario_Hezonja_Real_Madrid_Granada_22_11_2025.jpg?width=64",
-  "total": 99971,
+  "total": 114213,
   "monthly": [
     {
       "period": "2018-07",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 46388
+    },
+    {
+      "period": "2026-10",
+      "views": 14242
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 46388
+      "views": 60630
     }
   ]
 }

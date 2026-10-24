@@ -4,7 +4,7 @@
   "title": "Tibet",
   "description": "plateau region in west China",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%8B%B7%E8%B4%9D_%2870097727%29.jpeg?width=64",
-  "total": 532525,
+  "total": 540459,
   "monthly": [
     {
       "period": "2017-03",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 17972
+    },
+    {
+      "period": "2026-10",
+      "views": 7934
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 162707
+      "views": 170641
     }
   ]
 }

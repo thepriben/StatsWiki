@@ -1,0 +1,56 @@
+{
+  "qid": "Q289",
+  "label": "television",
+  "title": "Television",
+  "description": "telecommunication medium for transmitting and receiving moving images",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LG_smart_TV.jpg?width=64",
+  "total": 209429,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 17225
+    },
+    {
+      "period": "2017-07",
+      "views": 9799
+    },
+    {
+      "period": "2017-11",
+      "views": 50301
+    },
+    {
+      "period": "2018-11",
+      "views": 87510
+    },
+    {
+      "period": "2020-06",
+      "views": 20474
+    },
+    {
+      "period": "2026-10",
+      "views": 24120
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 17225
+    },
+    {
+      "period": "2017",
+      "views": 60100
+    },
+    {
+      "period": "2018",
+      "views": 87510
+    },
+    {
+      "period": "2020",
+      "views": 20474
+    },
+    {
+      "period": "2026",
+      "views": 24120
+    }
+  ]
+}

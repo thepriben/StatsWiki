@@ -4,7 +4,7 @@
   "title": "Rome_Odunze",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-0106-Rome_Odunze.jpg?width=64",
-  "total": 73325,
+  "total": 83003,
   "monthly": [
     {
       "period": "2024-01",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 11321
+    },
+    {
+      "period": "2026-10",
+      "views": 9678
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 11321
+      "views": 20999
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "qid": "Q494085",
+  "label": "MASH",
+  "title": "M*A*S*H_(film)",
+  "description": "1970 film by Robert Altman",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/M%2AA%2AS%2AH_%281970_film_poster%29.jpg?width=64",
+  "total": 184463,
+  "monthly": [
+    {
+      "period": "2020-08",
+      "views": 41039
+    },
+    {
+      "period": "2022-02",
+      "views": 20559
+    },
+    {
+      "period": "2024-06",
+      "views": 81151
+    },
+    {
+      "period": "2024-09",
+      "views": 11980
+    },
+    {
+      "period": "2026-02",
+      "views": 21414
+    },
+    {
+      "period": "2026-10",
+      "views": 8320
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 41039
+    },
+    {
+      "period": "2022",
+      "views": 20559
+    },
+    {
+      "period": "2024",
+      "views": 93131
+    },
+    {
+      "period": "2026",
+      "views": 29734
+    }
+  ]
+}

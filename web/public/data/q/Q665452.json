@@ -4,7 +4,7 @@
   "title": "Web_scraping",
   "description": "data scraping used for extracting data from websites",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scrapp.jpg?width=64",
-  "total": 52143904,
+  "total": 52169748,
   "monthly": [
     {
       "period": "2015-10",
@@ -37,6 +37,10 @@
     {
       "period": "2019-06",
       "views": 400209
+    },
+    {
+      "period": "2026-10",
+      "views": 25844
     }
   ],
   "yearly": [
@@ -51,6 +55,10 @@
     {
       "period": "2019",
       "views": 489562
+    },
+    {
+      "period": "2026",
+      "views": 25844
     }
   ]
 }

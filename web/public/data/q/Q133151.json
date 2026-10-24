@@ -4,7 +4,7 @@
   "title": "Ozzy_Osbourne",
   "description": "English musician and television personality (1948–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OzzyChangingHands02-20-2010.jpg?width=64",
-  "total": 27074228,
+  "total": 27081876,
   "monthly": [
     {
       "period": "2015-10",
@@ -421,6 +421,10 @@
     {
       "period": "2026-09",
       "views": 81516
+    },
+    {
+      "period": "2026-10",
+      "views": 7648
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 644945
+      "views": 652593
     }
   ]
 }

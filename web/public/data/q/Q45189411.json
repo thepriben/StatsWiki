@@ -4,7 +4,7 @@
   "title": "A._J._Brown",
   "description": "American football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A.J._Brown.jpg?width=64",
-  "total": 1126367,
+  "total": 1141374,
   "monthly": [
     {
       "period": "2022-09",
@@ -89,6 +89,10 @@
     {
       "period": "2026-09",
       "views": 53014
+    },
+    {
+      "period": "2026-10",
+      "views": 15007
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 295772
+      "views": 310779
     }
   ]
 }

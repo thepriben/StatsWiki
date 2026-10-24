@@ -4,7 +4,7 @@
   "title": "Busy_Philipps",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BusyPhilipps-byPhilipRomano.jpg?width=64",
-  "total": 1577726,
+  "total": 1587792,
   "monthly": [
     {
       "period": "2015-08",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 95191
+    },
+    {
+      "period": "2026-10",
+      "views": 10066
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 111463
+      "views": 121529
     }
   ]
 }

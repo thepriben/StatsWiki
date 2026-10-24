@@ -1,0 +1,44 @@
+{
+  "qid": "Q11189",
+  "label": "proxy server",
+  "title": "Proxy_server",
+  "description": "computer server that makes and receives requests on behalf of a user",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Open_proxy_h2g2bob.svg?width=64",
+  "total": 54647,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 11034
+    },
+    {
+      "period": "2020-02",
+      "views": 9615
+    },
+    {
+      "period": "2025-10",
+      "views": 9207
+    },
+    {
+      "period": "2026-10",
+      "views": 24791
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 11034
+    },
+    {
+      "period": "2020",
+      "views": 9615
+    },
+    {
+      "period": "2025",
+      "views": 9207
+    },
+    {
+      "period": "2026",
+      "views": 24791
+    }
+  ]
+}
