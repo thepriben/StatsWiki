@@ -4,7 +4,7 @@
   "title": "Sonia_Gandhi",
   "description": "Indian politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonia_Gandhi_%28cropped%29.jpg?width=64",
-  "total": 1410384,
+  "total": 1419600,
   "monthly": [
     {
       "period": "2015-12",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 19210
+    },
+    {
+      "period": "2026-10",
+      "views": 9216
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 56268
+      "views": 65484
     }
   ]
 }

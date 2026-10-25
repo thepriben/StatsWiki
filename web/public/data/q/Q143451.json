@@ -1,0 +1,48 @@
+{
+  "qid": "Q143451",
+  "label": "University of Central Florida",
+  "title": "University_of_Central_Florida",
+  "description": "public university in Orange County, Florida, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reflection_Pond_%2816156764538%29.jpg?width=64",
+  "total": 85597,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 10283
+    },
+    {
+      "period": "2018-01",
+      "views": 34560
+    },
+    {
+      "period": "2018-11",
+      "views": 12792
+    },
+    {
+      "period": "2019-03",
+      "views": 19402
+    },
+    {
+      "period": "2026-10",
+      "views": 8560
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 10283
+    },
+    {
+      "period": "2018",
+      "views": 47352
+    },
+    {
+      "period": "2019",
+      "views": 19402
+    },
+    {
+      "period": "2026",
+      "views": 8560
+    }
+  ]
+}

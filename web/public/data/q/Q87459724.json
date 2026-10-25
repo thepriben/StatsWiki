@@ -4,7 +4,7 @@
   "title": "Kylie_Cantrall",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kylie_Cantrall_03_%28cropped%29.jpg?width=64",
-  "total": 287532,
+  "total": 305597,
   "monthly": [
     {
       "period": "2024-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 32240
+    },
+    {
+      "period": "2026-10",
+      "views": 18065
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 170156
+      "views": 188221
     }
   ]
 }

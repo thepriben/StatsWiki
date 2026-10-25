@@ -4,7 +4,7 @@
   "title": "Tammy_Wynette",
   "description": "American country singer (1942–1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tammy_Wynette.JPG?width=64",
-  "total": 2506899,
+  "total": 2516483,
   "monthly": [
     {
       "period": "2018-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 18647
+    },
+    {
+      "period": "2026-10",
+      "views": 9584
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 18647
+      "views": 28231
     }
   ]
 }

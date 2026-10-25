@@ -1,0 +1,40 @@
+{
+  "qid": "Q123178445",
+  "label": "Hurricane Otis",
+  "title": "Hurricane_Otis",
+  "description": "Category 5 Pacific hurricane in 2023",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Otis_2023-10-25_0300Z.jpg?width=64",
+  "total": 187091,
+  "monthly": [
+    {
+      "period": "2023-10",
+      "views": 132410
+    },
+    {
+      "period": "2023-11",
+      "views": 11085
+    },
+    {
+      "period": "2024-10",
+      "views": 25901
+    },
+    {
+      "period": "2026-10",
+      "views": 17695
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 143495
+    },
+    {
+      "period": "2024",
+      "views": 25901
+    },
+    {
+      "period": "2026",
+      "views": 17695
+    }
+  ]
+}

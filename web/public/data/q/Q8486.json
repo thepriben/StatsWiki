@@ -4,7 +4,7 @@
   "title": "Coffee",
   "description": "brewed beverage made from seeds of Coffea genus",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_small_cup_of_coffee.JPG?width=64",
-  "total": 91562,
+  "total": 103200,
   "monthly": [
     {
       "period": "2016-08",
@@ -24,7 +24,7 @@
     },
     {
       "period": "2026-10",
-      "views": 25914
+      "views": 37552
     }
   ],
   "yearly": [
@@ -42,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 25914
+      "views": 37552
     }
   ]
 }

@@ -3,8 +3,8 @@
   "label": "Resident Evil",
   "title": "Resident_Evil_(2026_film)",
   "description": "2026 film directed by Zach Cregger",
-  "image": "",
-  "total": 4158466,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Resident_Evil_%282026%29_Logo.svg?width=64",
+  "total": 4181433,
   "monthly": [
     {
       "period": "2026-03",
@@ -32,13 +32,13 @@
     },
     {
       "period": "2026-10",
-      "views": 847804
+      "views": 870771
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 4158466
+      "views": 4181433
     }
   ]
 }

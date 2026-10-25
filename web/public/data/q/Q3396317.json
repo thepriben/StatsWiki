@@ -4,7 +4,7 @@
   "title": "Maria_Bamford",
   "description": "American actress (b. 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mariba.JPG?width=64",
-  "total": 167092,
+  "total": 181082,
   "monthly": [
     {
       "period": "2016-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 32980
+    },
+    {
+      "period": "2026-10",
+      "views": 13990
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 32980
+      "views": 46970
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Geovany_Quenda",
   "description": "Portuguese football player",
   "image": "",
-  "total": 58748,
+  "total": 70495,
   "monthly": [
     {
       "period": "2025-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 23379
+    },
+    {
+      "period": "2026-10",
+      "views": 11747
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 23379
+      "views": 35126
     }
   ]
 }

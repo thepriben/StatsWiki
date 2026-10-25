@@ -4,17 +4,21 @@
   "title": "Disappearance_of_Marvin_Clark",
   "description": "Oldest active missing person case in the US",
   "image": "",
-  "total": 35877,
+  "total": 49901,
   "monthly": [
     {
       "period": "2026-08",
       "views": 35877
+    },
+    {
+      "period": "2026-10",
+      "views": 14024
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 35877
+      "views": 49901
     }
   ]
 }

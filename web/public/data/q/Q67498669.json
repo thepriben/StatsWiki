@@ -2,9 +2,9 @@
   "qid": "Q67498669",
   "label": "Zion Suzuki",
   "title": "Zion_Suzuki",
-  "description": "American-Japanese association footballer (born 2002)",
+  "description": "American-Japanese association footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?width=64",
-  "total": 2491222,
+  "total": 2523099,
   "monthly": [
     {
       "period": "2023-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 91552
+    },
+    {
+      "period": "2026-10",
+      "views": 31877
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 2295707
+      "views": 2327584
     }
   ]
 }

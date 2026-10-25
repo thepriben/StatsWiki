@@ -4,7 +4,7 @@
   "title": "Aston_Villa_F.C.",
   "description": "association football club in Birmingham, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aston_Villa_team_vs_FH_August_2008.jpg?width=64",
-  "total": 4599979,
+  "total": 4616705,
   "monthly": [
     {
       "period": "2015-07",
@@ -317,6 +317,10 @@
     {
       "period": "2026-09",
       "views": 55095
+    },
+    {
+      "period": "2026-10",
+      "views": 16726
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 715065
+      "views": 731791
     }
   ]
 }

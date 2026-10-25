@@ -4,7 +4,7 @@
   "title": "TamilRockers",
   "description": "TamilRockers is a torrent website which facilitates the illegal distribution of copyrighted material, including television shows, movies, music and videos.",
   "image": "",
-  "total": 105071,
+  "total": 121237,
   "monthly": [
     {
       "period": "2024-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 46054
+    },
+    {
+      "period": "2026-10",
+      "views": 16166
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 95746
+      "views": 111912
     }
   ]
 }

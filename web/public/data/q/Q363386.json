@@ -4,7 +4,7 @@
   "title": "Dermot_Mulroney",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dermot_Mulroney_at_the_premiere_of_August_--_Osage_County%2C_Toronto_Film_Festival_2013_%289737560380%29.jpg?width=64",
-  "total": 679346,
+  "total": 702055,
   "monthly": [
     {
       "period": "2015-11",
@@ -85,6 +85,10 @@
     {
       "period": "2026-09",
       "views": 8060
+    },
+    {
+      "period": "2026-10",
+      "views": 22709
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 8060
+      "views": 30769
     }
   ]
 }
