@@ -4,7 +4,7 @@
   "title": "Tristan_da_Cunha",
   "description": "South Atlantic island group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TristanDaCunha.jpg?width=64",
-  "total": 651066,
+  "total": 659812,
   "monthly": [
     {
       "period": "2015-08",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 7992
+    },
+    {
+      "period": "2026-10",
+      "views": 8746
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 292758
+      "views": 301504
     }
   ]
 }

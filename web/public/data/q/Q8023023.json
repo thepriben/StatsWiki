@@ -4,7 +4,7 @@
   "title": "Willson_Contreras",
   "description": "Venezuelan professional baseball catcher",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016-10-18_Willson_Contreras_before_Game_3_of_the_2016_NLCS.jpg?width=64",
-  "total": 82571,
+  "total": 93086,
   "monthly": [
     {
       "period": "2016-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-07",
       "views": 38225
+    },
+    {
+      "period": "2026-10",
+      "views": 10515
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 53521
+      "views": 64036
     }
   ]
 }

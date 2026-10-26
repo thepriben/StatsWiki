@@ -4,7 +4,7 @@
   "title": "Dhurandhar",
   "description": "2025 Indian Hindi film by Aditya Dhar",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhurandhar.png?width=64",
-  "total": 23313399,
+  "total": 23322851,
   "monthly": [
     {
       "period": "2025-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 9811
+    },
+    {
+      "period": "2026-10",
+      "views": 9452
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 10654438
+      "views": 10663890
     }
   ]
 }

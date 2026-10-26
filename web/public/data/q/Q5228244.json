@@ -4,7 +4,7 @@
   "title": "Dave_Aranda",
   "description": "College football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dave_Aranda_in_2012.jpg?width=64",
-  "total": 181588,
+  "total": 197608,
   "monthly": [
     {
       "period": "2016-01",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 10556
+    },
+    {
+      "period": "2026-10",
+      "views": 16020
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 10556
+      "views": 26576
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "qid": "Q430695",
+  "label": "NHL Heritage Classic",
+  "title": "NHL_Heritage_Classic",
+  "description": "ice hockey game",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2011_Heritage_Classic_faceoff.png?width=64",
+  "total": 22227,
+  "monthly": [
+    {
+      "period": "2023-10",
+      "views": 12926
+    },
+    {
+      "period": "2026-10",
+      "views": 9301
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 12926
+    },
+    {
+      "period": "2026",
+      "views": 9301
+    }
+  ]
+}

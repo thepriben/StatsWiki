@@ -4,7 +4,7 @@
   "title": "Devin_Singletary",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2018-0719-CUSAMD-DevinSingletary.jpg?width=64",
-  "total": 1020789,
+  "total": 1034239,
   "monthly": [
     {
       "period": "2019-04",
@@ -77,6 +77,10 @@
     {
       "period": "2026-09",
       "views": 25472
+    },
+    {
+      "period": "2026-10",
+      "views": 13450
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 25472
+      "views": 38922
     }
   ]
 }

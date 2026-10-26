@@ -4,7 +4,7 @@
   "title": "Beetlejuice_Beetlejuice",
   "description": "2024 film directed by Tim Burton",
   "image": "",
-  "total": 6313418,
+  "total": 6323898,
   "monthly": [
     {
       "period": "2024-02",
@@ -61,6 +61,10 @@
     {
       "period": "2026-01",
       "views": 42007
+    },
+    {
+      "period": "2026-10",
+      "views": 10480
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 42007
+      "views": 52487
     }
   ]
 }

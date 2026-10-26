@@ -4,7 +4,7 @@
   "title": "Trinidad_Chambliss",
   "description": "American football player (born 2002)",
   "image": "",
-  "total": 925943,
+  "total": 942935,
   "monthly": [
     {
       "period": "2025-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 279067
+    },
+    {
+      "period": "2026-10",
+      "views": 16992
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 811127
+      "views": 828119
     }
   ]
 }

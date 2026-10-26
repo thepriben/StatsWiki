@@ -4,7 +4,7 @@
   "title": "John_G._Trump",
   "description": "American electrical engineer (1907–1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_G_Trump_portrait_c1955_cropped.png?width=64",
-  "total": 410628,
+  "total": 421192,
   "monthly": [
     {
       "period": "2016-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 12299
+    },
+    {
+      "period": "2026-10",
+      "views": 10564
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 12299
+      "views": 22863
     }
   ]
 }

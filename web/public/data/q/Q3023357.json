@@ -4,7 +4,7 @@
   "title": "12_Years_a_Slave_(film)",
   "description": "2013 film directed by Steve McQueen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12_Years_a_Slave.jpg?width=64",
-  "total": 525533,
+  "total": 537177,
   "monthly": [
     {
       "period": "2016-02",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 7509
+    },
+    {
+      "period": "2026-10",
+      "views": 11644
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 7509
+      "views": 19153
     }
   ]
 }

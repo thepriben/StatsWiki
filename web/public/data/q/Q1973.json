@@ -1,0 +1,56 @@
+{
+  "qid": "Q1973",
+  "label": "British Columbia",
+  "title": "British_Columbia",
+  "description": "province of Canada",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow_covered_mountains_in_Mount_Robson_%28Unsplash%29.jpg?width=64",
+  "total": 116563,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 64872
+    },
+    {
+      "period": "2018-12",
+      "views": 9070
+    },
+    {
+      "period": "2021-09",
+      "views": 9664
+    },
+    {
+      "period": "2022-01",
+      "views": 9482
+    },
+    {
+      "period": "2026-02",
+      "views": 13344
+    },
+    {
+      "period": "2026-10",
+      "views": 10131
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 64872
+    },
+    {
+      "period": "2018",
+      "views": 9070
+    },
+    {
+      "period": "2021",
+      "views": 9664
+    },
+    {
+      "period": "2022",
+      "views": 9482
+    },
+    {
+      "period": "2026",
+      "views": 23475
+    }
+  ]
+}

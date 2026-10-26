@@ -4,7 +4,7 @@
   "title": "Hart_family_murders",
   "description": "murder–suicide in California, United States",
   "image": "",
-  "total": 838109,
+  "total": 847488,
   "monthly": [
     {
       "period": "2021-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 22855
+    },
+    {
+      "period": "2026-10",
+      "views": 9379
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 47832
+      "views": 57211
     }
   ]
 }

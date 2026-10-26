@@ -1,0 +1,44 @@
+{
+  "qid": "Q253586",
+  "label": "Serbian Progressive Party",
+  "title": "Serbian_Progressive_Party",
+  "description": "political party in Serbia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikoli%C4%87_%26_Vu%C4%8Di%C4%87_2008.jpg?width=64",
+  "total": 55017,
+  "monthly": [
+    {
+      "period": "2020-06",
+      "views": 9398
+    },
+    {
+      "period": "2022-04",
+      "views": 11410
+    },
+    {
+      "period": "2023-12",
+      "views": 15096
+    },
+    {
+      "period": "2026-10",
+      "views": 19113
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 9398
+    },
+    {
+      "period": "2022",
+      "views": 11410
+    },
+    {
+      "period": "2023",
+      "views": 15096
+    },
+    {
+      "period": "2026",
+      "views": 19113
+    }
+  ]
+}
