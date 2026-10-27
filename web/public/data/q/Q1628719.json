@@ -4,7 +4,7 @@
   "title": "Sally_Phillips",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sally_Phillips_for_Eureka%21_museum.jpg?width=64",
-  "total": 418430,
+  "total": 430169,
   "monthly": [
     {
       "period": "2015-11",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 9326
+    },
+    {
+      "period": "2026-10",
+      "views": 11739
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 9326
+      "views": 21065
     }
   ]
 }

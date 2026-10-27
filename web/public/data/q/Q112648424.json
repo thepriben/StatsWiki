@@ -1,0 +1,72 @@
+{
+  "qid": "Q112648424",
+  "label": "2022 Ballon d'Or",
+  "title": "2022_Ballon_d'Or",
+  "description": "annual football award event in France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg?width=64",
+  "total": 742947,
+  "monthly": [
+    {
+      "period": "2022-08",
+      "views": 19623
+    },
+    {
+      "period": "2022-10",
+      "views": 445362
+    },
+    {
+      "period": "2022-12",
+      "views": 50465
+    },
+    {
+      "period": "2023-02",
+      "views": 10296
+    },
+    {
+      "period": "2023-09",
+      "views": 22163
+    },
+    {
+      "period": "2023-10",
+      "views": 93328
+    },
+    {
+      "period": "2023-11",
+      "views": 13660
+    },
+    {
+      "period": "2024-10",
+      "views": 59876
+    },
+    {
+      "period": "2025-09",
+      "views": 17881
+    },
+    {
+      "period": "2026-10",
+      "views": 10293
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 515450
+    },
+    {
+      "period": "2023",
+      "views": 139447
+    },
+    {
+      "period": "2024",
+      "views": 59876
+    },
+    {
+      "period": "2025",
+      "views": 17881
+    },
+    {
+      "period": "2026",
+      "views": 10293
+    }
+  ]
+}

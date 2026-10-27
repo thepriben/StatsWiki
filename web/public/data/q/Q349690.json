@@ -4,7 +4,7 @@
   "title": "Mel_Blanc",
   "description": "American voice actor (1908–1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mel_Blanc_%281976%29.jpg?width=64",
-  "total": 128116,
+  "total": 147674,
   "monthly": [
     {
       "period": "2016-02",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 10994
+    },
+    {
+      "period": "2026-10",
+      "views": 19558
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 10994
+      "views": 30552
     }
   ]
 }

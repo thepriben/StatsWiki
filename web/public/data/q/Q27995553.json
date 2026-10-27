@@ -4,7 +4,7 @@
   "title": "Aitana_Bonmatí",
   "description": "Spanish football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Aitana_Bonmat%C3%AD_-_240422_193345-2_%28cropped%29.jpg?width=64",
-  "total": 669959,
+  "total": 697867,
   "monthly": [
     {
       "period": "2023-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 29341
+    },
+    {
+      "period": "2026-10",
+      "views": 27908
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 29341
+      "views": 57249
     }
   ]
 }

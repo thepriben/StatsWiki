@@ -4,7 +4,7 @@
   "title": "Star_Trek",
   "description": "science fiction media franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG?width=64",
-  "total": 1930038,
+  "total": 1941653,
   "monthly": [
     {
       "period": "2015-11",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 10865
+    },
+    {
+      "period": "2026-10",
+      "views": 11615
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 10865
+      "views": 22480
     }
   ]
 }

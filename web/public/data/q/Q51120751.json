@@ -4,7 +4,7 @@
   "title": "Nick_Fuentes",
   "description": "American alt-right political commentator",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Fuentes_screencap_from_July_2022_virtual_debate.png?width=64",
-  "total": 8738964,
+  "total": 8748685,
   "monthly": [
     {
       "period": "2019-11",
@@ -133,6 +133,10 @@
     {
       "period": "2026-08",
       "views": 13813
+    },
+    {
+      "period": "2026-10",
+      "views": 9721
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 725429
+      "views": 735150
     }
   ]
 }

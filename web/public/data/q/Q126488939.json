@@ -4,7 +4,7 @@
   "title": "2024_Ballon_d'Or",
   "description": "annual association football award event in France",
   "image": "",
-  "total": 1571405,
+  "total": 1589966,
   "monthly": [
     {
       "period": "2024-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 36950
+    },
+    {
+      "period": "2026-10",
+      "views": 18561
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 36950
+      "views": 55511
     }
   ]
 }

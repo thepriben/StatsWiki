@@ -4,7 +4,7 @@
   "title": "NHL_Heritage_Classic",
   "description": "ice hockey game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2011_Heritage_Classic_faceoff.png?width=64",
-  "total": 22227,
+  "total": 31857,
   "monthly": [
     {
       "period": "2023-10",
@@ -12,7 +12,7 @@
     },
     {
       "period": "2026-10",
-      "views": 9301
+      "views": 18931
     }
   ],
   "yearly": [
@@ -22,7 +22,7 @@
     },
     {
       "period": "2026",
-      "views": 9301
+      "views": 18931
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Star_Trek:_The_Original_Series",
   "description": "American science fiction television series (1966–1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Trek_crew_members.jpg?width=64",
-  "total": 415991,
+  "total": 441510,
   "monthly": [
     {
       "period": "2016-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 12066
+    },
+    {
+      "period": "2026-10",
+      "views": 25519
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 12066
+      "views": 37585
     }
   ]
 }

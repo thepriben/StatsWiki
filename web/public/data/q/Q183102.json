@@ -1,0 +1,44 @@
+{
+  "qid": "Q183102",
+  "label": "Bugs Bunny",
+  "title": "Bugs_Bunny",
+  "description": "Warner Bros. cartoon character",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bugs_Bunny_in_MultiVersus_trailer.png?width=64",
+  "total": 294849,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 23310
+    },
+    {
+      "period": "2018-10",
+      "views": 242290
+    },
+    {
+      "period": "2021-07",
+      "views": 9922
+    },
+    {
+      "period": "2026-10",
+      "views": 19327
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 23310
+    },
+    {
+      "period": "2018",
+      "views": 242290
+    },
+    {
+      "period": "2021",
+      "views": 9922
+    },
+    {
+      "period": "2026",
+      "views": 19327
+    }
+  ]
+}

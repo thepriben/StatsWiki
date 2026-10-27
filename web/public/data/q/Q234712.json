@@ -4,7 +4,7 @@
   "title": "Lori_Loughlin",
   "description": "American actress (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lori_Loughlin_2014.jpg?width=64",
-  "total": 3932844,
+  "total": 3942679,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 40206
+    },
+    {
+      "period": "2026-10",
+      "views": 9835
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 40206
+      "views": 50041
     }
   ]
 }

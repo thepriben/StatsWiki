@@ -4,7 +4,7 @@
   "title": "Seattle_Seahawks",
   "description": "American football team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seattle_Seahawks_wordmark.svg?width=64",
-  "total": 2059212,
+  "total": 2071088,
   "monthly": [
     {
       "period": "2015-09",
@@ -173,6 +173,10 @@
     {
       "period": "2026-09",
       "views": 27092
+    },
+    {
+      "period": "2026-10",
+      "views": 11876
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 1271711
+      "views": 1283587
     }
   ]
 }

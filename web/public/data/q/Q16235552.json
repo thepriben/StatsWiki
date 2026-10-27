@@ -4,7 +4,7 @@
   "title": "Cooper_Kupp",
   "description": "American football player (born 1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cooper_Kupp.jpg?width=64",
-  "total": 2945448,
+  "total": 2957979,
   "monthly": [
     {
       "period": "2018-01",
@@ -129,6 +129,10 @@
     {
       "period": "2026-09",
       "views": 34700
+    },
+    {
+      "period": "2026-10",
+      "views": 12531
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 579261
+      "views": 591792
     }
   ]
 }

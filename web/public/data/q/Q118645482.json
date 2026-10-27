@@ -4,7 +4,7 @@
   "title": "Phantom_Blade_Zero",
   "description": "2026 video game developed by S-Game",
   "image": "",
-  "total": 64321,
+  "total": 92246,
   "monthly": [
     {
       "period": "2025-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 28169
+    },
+    {
+      "period": "2026-10",
+      "views": 27925
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 28169
+      "views": 56094
     }
   ]
 }
