@@ -4,7 +4,7 @@
   "title": "Idina_Menzel",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IdinaMenzel-TodayShow.jpg?width=64",
-  "total": 5292978,
+  "total": 5304429,
   "monthly": [
     {
       "period": "2015-11",
@@ -209,6 +209,10 @@
     {
       "period": "2026-07",
       "views": 12565
+    },
+    {
+      "period": "2026-10",
+      "views": 11451
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 12565
+      "views": 24016
     }
   ]
 }

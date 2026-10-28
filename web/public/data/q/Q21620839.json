@@ -4,7 +4,7 @@
   "title": "Saquon_Barkley",
   "description": "American football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saquon_Barkley.jpg?width=64",
-  "total": 3453846,
+  "total": 3468991,
   "monthly": [
     {
       "period": "2017-01",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 12200
+    },
+    {
+      "period": "2026-10",
+      "views": 15145
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 39920
+      "views": 55065
     }
   ]
 }

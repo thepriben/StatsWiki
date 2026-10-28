@@ -4,7 +4,7 @@
   "title": "Liz_Truss",
   "description": "Prime Minister of the United Kingdom in 2022",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liz_Truss_official_portrait_%28cropped%292.jpg?width=64",
-  "total": 10241055,
+  "total": 10248970,
   "monthly": [
     {
       "period": "2019-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 13746
+    },
+    {
+      "period": "2026-10",
+      "views": 7915
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 255043
+      "views": 262958
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Tyler_Perry",
   "description": "American actor and filmmaker (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TylerPerry-byPhilipRomano.jpg?width=64",
-  "total": 4871272,
+  "total": 4880259,
   "monthly": [
     {
       "period": "2016-01",
@@ -233,6 +233,10 @@
     {
       "period": "2026-09",
       "views": 124155
+    },
+    {
+      "period": "2026-10",
+      "views": 8987
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 211712
+      "views": 220699
     }
   ]
 }

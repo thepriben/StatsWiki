@@ -4,7 +4,7 @@
   "title": "Internet_pornography",
   "description": "pornography that is accessible over the Internet",
   "image": "",
-  "total": 386940,
+  "total": 397191,
   "monthly": [
     {
       "period": "2024-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 22859
+    },
+    {
+      "period": "2026-10",
+      "views": 10251
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 22859
+      "views": 33110
     }
   ]
 }

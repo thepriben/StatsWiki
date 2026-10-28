@@ -4,7 +4,7 @@
   "title": "Fleetwood_Town_F.C.",
   "description": "association football club in Fleetwood, England",
   "image": "",
-  "total": 110335,
+  "total": 221685,
   "monthly": [
     {
       "period": "2015-11",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 32197
+    },
+    {
+      "period": "2026-10",
+      "views": 111350
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 32197
+      "views": 143547
     }
   ]
 }

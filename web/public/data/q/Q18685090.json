@@ -4,7 +4,7 @@
   "title": "DeForest_Buckner",
   "description": "American football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DeForest_Buckner.JPG?width=64",
-  "total": 90277,
+  "total": 127475,
   "monthly": [
     {
       "period": "2016-04",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 8488
+    },
+    {
+      "period": "2026-10",
+      "views": 37198
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 8488
+      "views": 45686
     }
   ]
 }

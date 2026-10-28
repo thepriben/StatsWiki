@@ -4,7 +4,7 @@
   "title": "EFL_Cup",
   "description": "English association football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/League_Cup_at_Old_Trafford.jpg?width=64",
-  "total": 6850007,
+  "total": 6866094,
   "monthly": [
     {
       "period": "2016-08",
@@ -317,6 +317,10 @@
     {
       "period": "2026-09",
       "views": 74279
+    },
+    {
+      "period": "2026-10",
+      "views": 16087
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 406439
+      "views": 422526
     }
   ]
 }

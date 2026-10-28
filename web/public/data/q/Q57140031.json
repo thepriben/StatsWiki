@@ -1,0 +1,80 @@
+{
+  "qid": "Q57140031",
+  "label": "2018 Ballon d'Or",
+  "title": "2018_Ballon_d'Or",
+  "description": "annual association football award event in France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISL-HRV_%287%29.jpg?width=64",
+  "total": 382231,
+  "monthly": [
+    {
+      "period": "2018-12",
+      "views": 140477
+    },
+    {
+      "period": "2019-12",
+      "views": 46178
+    },
+    {
+      "period": "2021-11",
+      "views": 41473
+    },
+    {
+      "period": "2022-10",
+      "views": 24552
+    },
+    {
+      "period": "2023-10",
+      "views": 42648
+    },
+    {
+      "period": "2023-11",
+      "views": 10475
+    },
+    {
+      "period": "2024-10",
+      "views": 57096
+    },
+    {
+      "period": "2025-09",
+      "views": 11132
+    },
+    {
+      "period": "2026-10",
+      "views": 8200
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 140477
+    },
+    {
+      "period": "2019",
+      "views": 46178
+    },
+    {
+      "period": "2021",
+      "views": 41473
+    },
+    {
+      "period": "2022",
+      "views": 24552
+    },
+    {
+      "period": "2023",
+      "views": 53123
+    },
+    {
+      "period": "2024",
+      "views": 57096
+    },
+    {
+      "period": "2025",
+      "views": 11132
+    },
+    {
+      "period": "2026",
+      "views": 8200
+    }
+  ]
+}

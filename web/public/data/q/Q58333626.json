@@ -4,7 +4,7 @@
   "title": "Ashley_Moody",
   "description": "United States Senator from Florida since 2025",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Senator_Ashley_Moody_from_Florida.jpg?width=64",
-  "total": 291266,
+  "total": 304849,
   "monthly": [
     {
       "period": "2024-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 34264
+    },
+    {
+      "period": "2026-10",
+      "views": 13583
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 34264
+      "views": 47847
     }
   ]
 }

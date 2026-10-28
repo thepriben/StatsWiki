@@ -1,0 +1,80 @@
+{
+  "qid": "Q67165185",
+  "label": "2019 Ballon d'Or",
+  "title": "2019_Ballon_d'Or",
+  "description": "annual football award event in France",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_20180626.jpg?width=64",
+  "total": 714718,
+  "monthly": [
+    {
+      "period": "2019-09",
+      "views": 27258
+    },
+    {
+      "period": "2019-10",
+      "views": 13134
+    },
+    {
+      "period": "2019-11",
+      "views": 31684
+    },
+    {
+      "period": "2019-12",
+      "views": 456901
+    },
+    {
+      "period": "2021-11",
+      "views": 58257
+    },
+    {
+      "period": "2022-10",
+      "views": 30331
+    },
+    {
+      "period": "2023-10",
+      "views": 37485
+    },
+    {
+      "period": "2024-10",
+      "views": 38195
+    },
+    {
+      "period": "2025-09",
+      "views": 12399
+    },
+    {
+      "period": "2026-10",
+      "views": 9074
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 528977
+    },
+    {
+      "period": "2021",
+      "views": 58257
+    },
+    {
+      "period": "2022",
+      "views": 30331
+    },
+    {
+      "period": "2023",
+      "views": 37485
+    },
+    {
+      "period": "2024",
+      "views": 38195
+    },
+    {
+      "period": "2025",
+      "views": 12399
+    },
+    {
+      "period": "2026",
+      "views": 9074
+    }
+  ]
+}

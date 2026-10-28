@@ -4,7 +4,7 @@
   "title": "Dune_Messiah",
   "description": "1969 novel by Frank Herbert",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dune_Messiah_%281969%29_cover.jpg?width=64",
-  "total": 2552005,
+  "total": 2559981,
   "monthly": [
     {
       "period": "2020-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-07",
       "views": 41459
+    },
+    {
+      "period": "2026-10",
+      "views": 7976
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 268076
+      "views": 276052
     }
   ]
 }

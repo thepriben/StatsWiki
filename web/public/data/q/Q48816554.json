@@ -4,7 +4,7 @@
   "title": "The_Gilded_Age_(TV_series)",
   "description": "American television series",
   "image": "",
-  "total": 4986025,
+  "total": 4994058,
   "monthly": [
     {
       "period": "2022-01",
@@ -57,6 +57,10 @@
     {
       "period": "2026-09",
       "views": 8080
+    },
+    {
+      "period": "2026-10",
+      "views": 8033
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 8080
+      "views": 16113
     }
   ]
 }

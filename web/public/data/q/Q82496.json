@@ -4,7 +4,7 @@
   "title": "Colin_Kaepernick",
   "description": "American football player (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colin_Kaepernick_%2818391502680%29.jpg?width=64",
-  "total": 13289790,
+  "total": 13298818,
   "monthly": [
     {
       "period": "2015-09",
@@ -305,6 +305,10 @@
     {
       "period": "2026-09",
       "views": 218064
+    },
+    {
+      "period": "2026-10",
+      "views": 9028
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 229758
+      "views": 238786
     }
   ]
 }

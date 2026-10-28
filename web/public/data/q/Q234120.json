@@ -1,0 +1,64 @@
+{
+  "qid": "Q234120",
+  "label": "Jane Curtin",
+  "title": "Jane_Curtin",
+  "description": "American comedian and actor",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_Curtin_1989.jpg?width=64",
+  "total": 397123,
+  "monthly": [
+    {
+      "period": "2018-10",
+      "views": 10179
+    },
+    {
+      "period": "2019-01",
+      "views": 16417
+    },
+    {
+      "period": "2020-07",
+      "views": 35548
+    },
+    {
+      "period": "2022-02",
+      "views": 13238
+    },
+    {
+      "period": "2025-01",
+      "views": 23160
+    },
+    {
+      "period": "2025-02",
+      "views": 281135
+    },
+    {
+      "period": "2026-10",
+      "views": 17446
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 10179
+    },
+    {
+      "period": "2019",
+      "views": 16417
+    },
+    {
+      "period": "2020",
+      "views": 35548
+    },
+    {
+      "period": "2022",
+      "views": 13238
+    },
+    {
+      "period": "2025",
+      "views": 304295
+    },
+    {
+      "period": "2026",
+      "views": 17446
+    }
+  ]
+}

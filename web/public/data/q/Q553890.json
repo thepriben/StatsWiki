@@ -1,0 +1,76 @@
+{
+  "qid": "Q553890",
+  "label": "Rent",
+  "title": "Rent_(musical)",
+  "description": "rock musical, loosely based on La Bohème, set in New York during the AIDS Crisis",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nederlander-theatre-rent.jpg?width=64",
+  "total": 1138766,
+  "monthly": [
+    {
+      "period": "2017-10",
+      "views": 14237
+    },
+    {
+      "period": "2019-01",
+      "views": 199348
+    },
+    {
+      "period": "2019-02",
+      "views": 47198
+    },
+    {
+      "period": "2021-10",
+      "views": 39889
+    },
+    {
+      "period": "2021-11",
+      "views": 337084
+    },
+    {
+      "period": "2021-12",
+      "views": 208298
+    },
+    {
+      "period": "2022-01",
+      "views": 241452
+    },
+    {
+      "period": "2022-02",
+      "views": 10818
+    },
+    {
+      "period": "2024-12",
+      "views": 8895
+    },
+    {
+      "period": "2026-10",
+      "views": 31547
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 14237
+    },
+    {
+      "period": "2019",
+      "views": 246546
+    },
+    {
+      "period": "2021",
+      "views": 585271
+    },
+    {
+      "period": "2022",
+      "views": 252270
+    },
+    {
+      "period": "2024",
+      "views": 8895
+    },
+    {
+      "period": "2026",
+      "views": 31547
+    }
+  ]
+}

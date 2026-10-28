@@ -4,7 +4,7 @@
   "title": "Philadelphia_Eagles",
   "description": "National Football League franchise in Philadelphia, Pennsylvania",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1958_topps_phila_eagles_team.jpg?width=64",
-  "total": 4067621,
+  "total": 4075540,
   "monthly": [
     {
       "period": "2015-09",
@@ -177,6 +177,10 @@
     {
       "period": "2026-09",
       "views": 9268
+    },
+    {
+      "period": "2026-10",
+      "views": 7919
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 54658
+      "views": 62577
     }
   ]
 }

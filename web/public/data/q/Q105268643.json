@@ -4,7 +4,7 @@
   "title": "Romano_Floriani_Mussolini",
   "description": "Italian association football player",
   "image": "",
-  "total": 123669,
+  "total": 133892,
   "monthly": [
     {
       "period": "2021-04",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 24100
+    },
+    {
+      "period": "2026-10",
+      "views": 10223
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 24100
+      "views": 34323
     }
   ]
 }

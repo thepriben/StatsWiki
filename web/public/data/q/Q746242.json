@@ -4,7 +4,7 @@
   "title": "P_versus_NP_problem",
   "description": "unsolved problem in computer science about time complexity",
   "image": "",
-  "total": 99907,
+  "total": 115148,
   "monthly": [
     {
       "period": "2017-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 30052
+    },
+    {
+      "period": "2026-10",
+      "views": 15241
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 30052
+      "views": 45293
     }
   ]
 }

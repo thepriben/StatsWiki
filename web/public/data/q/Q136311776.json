@@ -4,7 +4,7 @@
   "title": "Tony_(2026_film)",
   "description": "upcoming film directed by Matt Johnson",
   "image": "",
-  "total": 777002,
+  "total": 785450,
   "monthly": [
     {
       "period": "2026-05",
@@ -21,12 +21,16 @@
     {
       "period": "2026-09",
       "views": 190814
+    },
+    {
+      "period": "2026-10",
+      "views": 8448
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 777002
+      "views": 785450
     }
   ]
 }

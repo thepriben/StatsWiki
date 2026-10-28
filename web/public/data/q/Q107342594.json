@@ -4,7 +4,7 @@
   "title": "LUMA_Energy",
   "description": "power company responsible for power distribution and power transmission in Puerto Rico",
   "image": "",
-  "total": 167548,
+  "total": 180800,
   "monthly": [
     {
       "period": "2024-08",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 40097
+    },
+    {
+      "period": "2026-10",
+      "views": 13252
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 63593
+      "views": 76845
     }
   ]
 }
