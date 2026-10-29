@@ -4,7 +4,7 @@
   "title": "Chris_Isaak",
   "description": "American rock musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Isaak_at_NAMM_1_25_2014_-15_%2812243161146%29.jpg?width=64",
-  "total": 250428,
+  "total": 266381,
   "monthly": [
     {
       "period": "2015-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 7913
+    },
+    {
+      "period": "2026-10",
+      "views": 15953
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 47048
+      "views": 63001
     }
   ]
 }

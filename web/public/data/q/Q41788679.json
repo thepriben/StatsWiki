@@ -4,17 +4,21 @@
   "title": "Jonathan_Taylor",
   "description": "American football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Taylor.jpg?width=64",
-  "total": 41274,
+  "total": 49326,
   "monthly": [
     {
       "period": "2026-09",
       "views": 41274
+    },
+    {
+      "period": "2026-10",
+      "views": 8052
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 41274
+      "views": 49326
     }
   ]
 }

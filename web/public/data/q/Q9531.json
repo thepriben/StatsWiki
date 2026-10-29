@@ -4,7 +4,7 @@
   "title": "BBC",
   "description": "British public service broadcaster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Broadcasting_House_20160816.jpg?width=64",
-  "total": 4507072,
+  "total": 4516196,
   "monthly": [
     {
       "period": "2017-05",
@@ -256,7 +256,7 @@
     },
     {
       "period": "2026-10",
-      "views": 7842
+      "views": 16966
     }
   ],
   "yearly": [
@@ -298,7 +298,7 @@
     },
     {
       "period": "2026",
-      "views": 301317
+      "views": 310441
     }
   ]
 }

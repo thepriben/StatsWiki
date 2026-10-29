@@ -4,7 +4,7 @@
   "title": "Sandro_Mamukelashvili",
   "description": "American-born Georgian basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandro_Mamukelashvili.jpg?width=64",
-  "total": 104538,
+  "total": 113392,
   "monthly": [
     {
       "period": "2025-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 60752
+    },
+    {
+      "period": "2026-10",
+      "views": 8854
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 60752
+      "views": 69606
     }
   ]
 }

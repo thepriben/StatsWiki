@@ -1,0 +1,68 @@
+{
+  "qid": "Q18643672",
+  "label": "Jio",
+  "title": "Jio",
+  "description": "telecommunications network in India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jio_LYF_building.jpg?width=64",
+  "total": 437242,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 9190
+    },
+    {
+      "period": "2016-09",
+      "views": 314444
+    },
+    {
+      "period": "2016-10",
+      "views": 12609
+    },
+    {
+      "period": "2016-12",
+      "views": 9932
+    },
+    {
+      "period": "2017-03",
+      "views": 15371
+    },
+    {
+      "period": "2017-04",
+      "views": 9865
+    },
+    {
+      "period": "2017-07",
+      "views": 9072
+    },
+    {
+      "period": "2020-04",
+      "views": 19838
+    },
+    {
+      "period": "2020-07",
+      "views": 28569
+    },
+    {
+      "period": "2026-10",
+      "views": 8352
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 346175
+    },
+    {
+      "period": "2017",
+      "views": 34308
+    },
+    {
+      "period": "2020",
+      "views": 48407
+    },
+    {
+      "period": "2026",
+      "views": 8352
+    }
+  ]
+}

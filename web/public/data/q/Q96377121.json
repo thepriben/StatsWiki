@@ -4,7 +4,7 @@
   "title": "The_Hunger_Games:_The_Ballad_of_Songbirds_&_Snakes",
   "description": "2023 film directed by Francis Lawrence",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hunger_Games_The_Ballad_of_Songbirds_%26_Snakes_Logo.png?width=64",
-  "total": 4554207,
+  "total": 4562347,
   "monthly": [
     {
       "period": "2023-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 29914
+    },
+    {
+      "period": "2026-10",
+      "views": 8140
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 121267
+      "views": 129407
     }
   ]
 }

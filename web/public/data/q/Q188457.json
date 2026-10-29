@@ -4,7 +4,7 @@
   "title": "Danny_Welbeck",
   "description": "English association football player (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danny_Welbeck_2018-06-13_1.jpg?width=64",
-  "total": 1978108,
+  "total": 1987915,
   "monthly": [
     {
       "period": "2016-02",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 62333
+    },
+    {
+      "period": "2026-10",
+      "views": 9807
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 607732
+      "views": 617539
     }
   ]
 }

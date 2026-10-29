@@ -4,7 +4,7 @@
   "title": "The_Hunger_Games_(film_series)",
   "description": "American media franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hunger_Games_%28Liongate_films%29_logo.svg?width=64",
-  "total": 3203459,
+  "total": 3255806,
   "monthly": [
     {
       "period": "2015-07",
@@ -89,6 +89,18 @@
     {
       "period": "2024-06",
       "views": 34862
+    },
+    {
+      "period": "2025-11",
+      "views": 25218
+    },
+    {
+      "period": "2026-04",
+      "views": 19313
+    },
+    {
+      "period": "2026-10",
+      "views": 7816
     }
   ],
   "yearly": [
@@ -119,6 +131,14 @@
     {
       "period": "2024",
       "views": 95634
+    },
+    {
+      "period": "2025",
+      "views": 25218
+    },
+    {
+      "period": "2026",
+      "views": 27129
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Passerine",
   "description": "order of birds",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pardalotus_with_nesting_material.jpg?width=64",
-  "total": 130930,
+  "total": 139642,
   "monthly": [
     {
       "period": "2020-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 8791
+    },
+    {
+      "period": "2026-10",
+      "views": 8712
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 116634
+      "views": 125346
     }
   ]
 }

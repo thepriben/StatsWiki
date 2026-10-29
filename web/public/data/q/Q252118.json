@@ -1,0 +1,64 @@
+{
+  "qid": "Q252118",
+  "label": "CID",
+  "title": "CID_(Indian_TV_series)",
+  "description": "Indian Hindi-language television series",
+  "image": "",
+  "total": 192068,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 25463
+    },
+    {
+      "period": "2019-05",
+      "views": 12659
+    },
+    {
+      "period": "2023-12",
+      "views": 33998
+    },
+    {
+      "period": "2024-10",
+      "views": 22092
+    },
+    {
+      "period": "2024-12",
+      "views": 54141
+    },
+    {
+      "period": "2025-04",
+      "views": 34174
+    },
+    {
+      "period": "2026-10",
+      "views": 9541
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 25463
+    },
+    {
+      "period": "2019",
+      "views": 12659
+    },
+    {
+      "period": "2023",
+      "views": 33998
+    },
+    {
+      "period": "2024",
+      "views": 76233
+    },
+    {
+      "period": "2025",
+      "views": 34174
+    },
+    {
+      "period": "2026",
+      "views": 9541
+    }
+  ]
+}

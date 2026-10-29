@@ -4,7 +4,7 @@
   "title": "Josh_Downs",
   "description": "American football player (born 2001)",
   "image": "",
-  "total": 44165,
+  "total": 61941,
   "monthly": [
     {
       "period": "2026-04",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 14055
+    },
+    {
+      "period": "2026-10",
+      "views": 17776
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 44165
+      "views": 61941
     }
   ]
 }

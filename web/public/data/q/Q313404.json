@@ -1,0 +1,28 @@
+{
+  "qid": "Q313404",
+  "label": "Eschede derailment",
+  "title": "Eschede_train_disaster",
+  "description": "high-speed train accident in Germany",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice_eschede_1.jpg?width=64",
+  "total": 18623,
+  "monthly": [
+    {
+      "period": "2016-02",
+      "views": 10096
+    },
+    {
+      "period": "2026-10",
+      "views": 8527
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10096
+    },
+    {
+      "period": "2026",
+      "views": 8527
+    }
+  ]
+}

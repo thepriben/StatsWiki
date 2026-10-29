@@ -1,0 +1,60 @@
+{
+  "qid": "Q48837",
+  "label": "EFL League Two",
+  "title": "EFL_League_Two",
+  "description": "football league which is the fourth tier in the English football pyramid",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EFL_League_Two_Wordmark.svg?width=64",
+  "total": 1304839,
+  "monthly": [
+    {
+      "period": "2023-04",
+      "views": 288695
+    },
+    {
+      "period": "2023-05",
+      "views": 58261
+    },
+    {
+      "period": "2024-04",
+      "views": 59584
+    },
+    {
+      "period": "2025-01",
+      "views": 11400
+    },
+    {
+      "period": "2025-08",
+      "views": 69418
+    },
+    {
+      "period": "2025-09",
+      "views": 274988
+    },
+    {
+      "period": "2025-10",
+      "views": 533365
+    },
+    {
+      "period": "2026-10",
+      "views": 9128
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 346956
+    },
+    {
+      "period": "2024",
+      "views": 59584
+    },
+    {
+      "period": "2025",
+      "views": 889171
+    },
+    {
+      "period": "2026",
+      "views": 9128
+    }
+  ]
+}

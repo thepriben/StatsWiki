@@ -4,7 +4,7 @@
   "title": "Bijou_Phillips",
   "description": "American actress (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bijou_Phillips.jpg?width=64",
-  "total": 4036004,
+  "total": 4046430,
   "monthly": [
     {
       "period": "2016-03",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 21270
+    },
+    {
+      "period": "2026-10",
+      "views": 10426
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 121298
+      "views": 131724
     }
   ]
 }

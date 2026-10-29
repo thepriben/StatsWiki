@@ -4,7 +4,7 @@
   "title": "Jack_Ruby",
   "description": "American nightclub operator who killed American presidential assassin Lee Harvey Oswald",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Ruby_1963_Mugshot_Extracted_%283x4_cropped%29.jpg?width=64",
-  "total": 2093194,
+  "total": 2102836,
   "monthly": [
     {
       "period": "2015-11",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 9478
+    },
+    {
+      "period": "2026-10",
+      "views": 9642
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 125351
+      "views": 134993
     }
   ]
 }

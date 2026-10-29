@@ -1,0 +1,52 @@
+{
+  "qid": "Q15279395",
+  "label": "Ella Eyre",
+  "title": "Ella_Eyre",
+  "description": "British singer and songwriter",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ella_Eyre.png?width=64",
+  "total": 81488,
+  "monthly": [
+    {
+      "period": "2018-03",
+      "views": 19124
+    },
+    {
+      "period": "2020-11",
+      "views": 13743
+    },
+    {
+      "period": "2021-01",
+      "views": 14426
+    },
+    {
+      "period": "2022-06",
+      "views": 10788
+    },
+    {
+      "period": "2026-10",
+      "views": 23407
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 19124
+    },
+    {
+      "period": "2020",
+      "views": 13743
+    },
+    {
+      "period": "2021",
+      "views": 14426
+    },
+    {
+      "period": "2022",
+      "views": 10788
+    },
+    {
+      "period": "2026",
+      "views": 23407
+    }
+  ]
+}

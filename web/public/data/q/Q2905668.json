@@ -4,7 +4,7 @@
   "title": "Jack_Savoretti",
   "description": "British singer and musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_wiki.jpg?width=64",
-  "total": 356056,
+  "total": 367446,
   "monthly": [
     {
       "period": "2015-08",
@@ -73,6 +73,10 @@
     {
       "period": "2026-09",
       "views": 13630
+    },
+    {
+      "period": "2026-10",
+      "views": 11390
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 106479
+      "views": 117869
     }
   ]
 }

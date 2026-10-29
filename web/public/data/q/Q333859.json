@@ -4,7 +4,7 @@
   "title": "Boeing_X-37",
   "description": "family of American uncrewed military air and space vehicles",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boeing_X-37B_inside_payload_fairing_before_launch.jpg?width=64",
-  "total": 628829,
+  "total": 637140,
   "monthly": [
     {
       "period": "2015-11",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 10096
+    },
+    {
+      "period": "2026-10",
+      "views": 8311
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 19231
+      "views": 27542
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Ernie_Johnson_Jr.",
   "description": "American sportscaster (born 1956)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernie_Johnson_Jr_in_2012.jpg?width=64",
-  "total": 405352,
+  "total": 429640,
   "monthly": [
     {
       "period": "2016-11",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 32986
+    },
+    {
+      "period": "2026-10",
+      "views": 24288
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 32986
+      "views": 57274
     }
   ]
 }
