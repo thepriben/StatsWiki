@@ -4,7 +4,7 @@
   "title": "Tubifex_tubifex",
   "description": "species of annelid",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TUBIFEX.gif?width=64",
-  "total": 191582,
+  "total": 202713,
   "monthly": [
     {
       "period": "2016-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 114490
+    },
+    {
+      "period": "2026-10",
+      "views": 11131
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 114490
+      "views": 125621
     }
   ]
 }

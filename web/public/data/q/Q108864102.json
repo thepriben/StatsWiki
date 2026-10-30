@@ -1,0 +1,60 @@
+{
+  "qid": "Q108864102",
+  "label": "2021 World Series",
+  "title": "2021_World_Series",
+  "description": "117th edition of Major League Baseball's championship series",
+  "image": "",
+  "total": 331530,
+  "monthly": [
+    {
+      "period": "2021-10",
+      "views": 65546
+    },
+    {
+      "period": "2021-11",
+      "views": 111845
+    },
+    {
+      "period": "2022-10",
+      "views": 33241
+    },
+    {
+      "period": "2022-11",
+      "views": 18432
+    },
+    {
+      "period": "2024-10",
+      "views": 68653
+    },
+    {
+      "period": "2025-11",
+      "views": 18646
+    },
+    {
+      "period": "2026-10",
+      "views": 15167
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 177391
+    },
+    {
+      "period": "2022",
+      "views": 51673
+    },
+    {
+      "period": "2024",
+      "views": 68653
+    },
+    {
+      "period": "2025",
+      "views": 18646
+    },
+    {
+      "period": "2026",
+      "views": 15167
+    }
+  ]
+}

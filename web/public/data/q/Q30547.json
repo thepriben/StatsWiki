@@ -4,7 +4,7 @@
   "title": "Mother_Teresa",
   "description": "Albanian-Indian Catholic nun and missionary (1910–1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MotherTeresa_090.jpg?width=64",
-  "total": 7876525,
+  "total": 7884410,
   "monthly": [
     {
       "period": "2015-07",
@@ -309,6 +309,10 @@
     {
       "period": "2026-09",
       "views": 26376
+    },
+    {
+      "period": "2026-10",
+      "views": 7885
     }
   ],
   "yearly": [
@@ -358,7 +362,7 @@
     },
     {
       "period": "2026",
-      "views": 43125
+      "views": 51010
     }
   ]
 }

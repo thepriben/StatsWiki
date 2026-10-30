@@ -1,0 +1,44 @@
+{
+  "qid": "Q838076",
+  "label": "Professor X",
+  "title": "Professor_X",
+  "description": "fictional character in Marvel Comics",
+  "image": "",
+  "total": 249267,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 64660
+    },
+    {
+      "period": "2017-03",
+      "views": 161059
+    },
+    {
+      "period": "2022-02",
+      "views": 15145
+    },
+    {
+      "period": "2026-10",
+      "views": 8403
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 64660
+    },
+    {
+      "period": "2017",
+      "views": 161059
+    },
+    {
+      "period": "2022",
+      "views": 15145
+    },
+    {
+      "period": "2026",
+      "views": 8403
+    }
+  ]
+}

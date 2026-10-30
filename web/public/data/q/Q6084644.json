@@ -4,17 +4,21 @@
   "title": "El_Mayo",
   "description": "Mexican drug lord (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mayo_Zambada_%28cropped%29.jpg?width=64",
-  "total": 21201,
+  "total": 34778,
   "monthly": [
     {
       "period": "2026-07",
       "views": 21201
+    },
+    {
+      "period": "2026-10",
+      "views": 13577
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21201
+      "views": 34778
     }
   ]
 }

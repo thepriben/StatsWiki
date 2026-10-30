@@ -4,7 +4,7 @@
   "title": "Jonestown",
   "description": "former community established by the Peoples Temple, known for a mass death event on November 18, 1978",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonestown_Houses.jpg?width=64",
-  "total": 4167183,
+  "total": 4257442,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-06",
       "views": 26291
+    },
+    {
+      "period": "2026-10",
+      "views": 90259
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 54484
+      "views": 144743
     }
   ]
 }

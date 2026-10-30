@@ -2,9 +2,9 @@
   "qid": "Q16296",
   "label": "Patrick Stewart",
   "title": "Patrick_Stewart",
-  "description": "British actor (born 1940)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Stewart_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 5261762,
+  "description": "English actor (1940–2026)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Stewart_1999.jpg?width=64",
+  "total": 7618314,
   "monthly": [
     {
       "period": "2015-07",
@@ -269,6 +269,10 @@
     {
       "period": "2026-08",
       "views": 9450
+    },
+    {
+      "period": "2026-10",
+      "views": 2356552
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 57888
+      "views": 2414440
     }
   ]
 }

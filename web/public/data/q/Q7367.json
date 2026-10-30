@@ -1,0 +1,48 @@
+{
+  "qid": "Q7367",
+  "label": "mosquito",
+  "title": "Mosquito",
+  "description": "family of nematoceran flies",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mosquito_2007-2.jpg?width=64",
+  "total": 195046,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 148597
+    },
+    {
+      "period": "2015-10",
+      "views": 8563
+    },
+    {
+      "period": "2016-11",
+      "views": 18499
+    },
+    {
+      "period": "2019-07",
+      "views": 11404
+    },
+    {
+      "period": "2026-10",
+      "views": 7983
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 157160
+    },
+    {
+      "period": "2016",
+      "views": 18499
+    },
+    {
+      "period": "2019",
+      "views": 11404
+    },
+    {
+      "period": "2026",
+      "views": 7983
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "2026_United_States_Senate_election_in_South_Carolina",
   "description": "election for class II U.S. senator from South Carolina",
   "image": "",
-  "total": 268071,
+  "total": 276715,
   "monthly": [
     {
       "period": "2026-03",
@@ -17,12 +17,16 @@
     {
       "period": "2026-08",
       "views": 58111
+    },
+    {
+      "period": "2026-10",
+      "views": 8644
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 268071
+      "views": 276715
     }
   ]
 }

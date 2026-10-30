@@ -4,7 +4,7 @@
   "title": "The_Hunger_Games",
   "description": "pentalogy of books by Suzanne Collins (2008–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hunger_Games_%28Scholastic_Inc._YA_novel_series%29_logo.webp?width=64",
-  "total": 5909052,
+  "total": 5917738,
   "monthly": [
     {
       "period": "2015-07",
@@ -149,6 +149,10 @@
     {
       "period": "2026-04",
       "views": 20385
+    },
+    {
+      "period": "2026-10",
+      "views": 8686
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 20385
+      "views": 29071
     }
   ]
 }

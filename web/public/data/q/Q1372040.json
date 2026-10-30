@@ -1,0 +1,84 @@
+{
+  "qid": "Q1372040",
+  "label": "World Series Most Valuable Player Award",
+  "title": "World_Series_Most_Valuable_Player_Award",
+  "description": "baseball award for the most important player in each World Series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Zobrist_with_2016_World_Series_MVP_trophy.jpg?width=64",
+  "total": 199854,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 16885
+    },
+    {
+      "period": "2018-10",
+      "views": 28411
+    },
+    {
+      "period": "2019-10",
+      "views": 23695
+    },
+    {
+      "period": "2020-10",
+      "views": 15751
+    },
+    {
+      "period": "2021-11",
+      "views": 9993
+    },
+    {
+      "period": "2023-11",
+      "views": 20268
+    },
+    {
+      "period": "2024-10",
+      "views": 21771
+    },
+    {
+      "period": "2025-11",
+      "views": 52499
+    },
+    {
+      "period": "2026-10",
+      "views": 10581
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 16885
+    },
+    {
+      "period": "2018",
+      "views": 28411
+    },
+    {
+      "period": "2019",
+      "views": 23695
+    },
+    {
+      "period": "2020",
+      "views": 15751
+    },
+    {
+      "period": "2021",
+      "views": 9993
+    },
+    {
+      "period": "2023",
+      "views": 20268
+    },
+    {
+      "period": "2024",
+      "views": 21771
+    },
+    {
+      "period": "2025",
+      "views": 52499
+    },
+    {
+      "period": "2026",
+      "views": 10581
+    }
+  ]
+}

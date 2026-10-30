@@ -4,7 +4,7 @@
   "title": "Christina_Aguilera",
   "description": "American singer, songwriter and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christina_Aguilera_%282006%29.jpg?width=64",
-  "total": 3194187,
+  "total": 3206785,
   "monthly": [
     {
       "period": "2015-08",
@@ -265,6 +265,10 @@
     {
       "period": "2026-07",
       "views": 13029
+    },
+    {
+      "period": "2026-10",
+      "views": 12598
     }
   ],
   "yearly": [
@@ -314,7 +318,7 @@
     },
     {
       "period": "2026",
-      "views": 25208
+      "views": 37806
     }
   ]
 }

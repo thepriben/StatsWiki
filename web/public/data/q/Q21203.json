@@ -4,7 +4,7 @@
   "title": "Aruba",
   "description": "Caribbean island constituent country of the Kingdom of the Netherlands",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dutch_Buildings%2C_Oranjestad_%284901401297%29.jpg?width=64",
-  "total": 205060,
+  "total": 215395,
   "monthly": [
     {
       "period": "2016-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 54579
+    },
+    {
+      "period": "2026-10",
+      "views": 10335
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 54579
+      "views": 64914
     }
   ]
 }

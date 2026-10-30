@@ -4,7 +4,7 @@
   "title": "X-Men_(film)",
   "description": "2000 film directed by Bryan Singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/X-Men_movie_logo.png?width=64",
-  "total": 530866,
+  "total": 538943,
   "monthly": [
     {
       "period": "2016-05",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 85984
+    },
+    {
+      "period": "2026-10",
+      "views": 8077
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 85984
+      "views": 94061
     }
   ]
 }

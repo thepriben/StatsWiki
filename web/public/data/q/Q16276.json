@@ -1,0 +1,60 @@
+{
+  "qid": "Q16276",
+  "label": "Jean-Luc Picard",
+  "title": "Jean-Luc_Picard",
+  "description": "fictional Star Trek character",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Luc_Picard_2.jpg?width=64",
+  "total": 138637,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 21517
+    },
+    {
+      "period": "2016-07",
+      "views": 15680
+    },
+    {
+      "period": "2018-08",
+      "views": 10829
+    },
+    {
+      "period": "2020-01",
+      "views": 12348
+    },
+    {
+      "period": "2025-01",
+      "views": 30500
+    },
+    {
+      "period": "2026-10",
+      "views": 47763
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 21517
+    },
+    {
+      "period": "2016",
+      "views": 15680
+    },
+    {
+      "period": "2018",
+      "views": 10829
+    },
+    {
+      "period": "2020",
+      "views": 12348
+    },
+    {
+      "period": "2025",
+      "views": 30500
+    },
+    {
+      "period": "2026",
+      "views": 47763
+    }
+  ]
+}

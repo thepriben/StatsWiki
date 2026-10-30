@@ -1,0 +1,68 @@
+{
+  "qid": "Q16290",
+  "label": "Star Trek: The Next Generation",
+  "title": "Star_Trek:_The_Next_Generation",
+  "description": "American television series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Trek_The_Next_Generation_Logo.svg?width=64",
+  "total": 149886,
+  "monthly": [
+    {
+      "period": "2016-07",
+      "views": 10165
+    },
+    {
+      "period": "2016-09",
+      "views": 11716
+    },
+    {
+      "period": "2016-11",
+      "views": 11842
+    },
+    {
+      "period": "2017-04",
+      "views": 12913
+    },
+    {
+      "period": "2017-08",
+      "views": 8578
+    },
+    {
+      "period": "2018-08",
+      "views": 10599
+    },
+    {
+      "period": "2020-01",
+      "views": 35523
+    },
+    {
+      "period": "2020-05",
+      "views": 13297
+    },
+    {
+      "period": "2026-10",
+      "views": 35253
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 33723
+    },
+    {
+      "period": "2017",
+      "views": 21491
+    },
+    {
+      "period": "2018",
+      "views": 10599
+    },
+    {
+      "period": "2020",
+      "views": 48820
+    },
+    {
+      "period": "2026",
+      "views": 35253
+    }
+  ]
+}

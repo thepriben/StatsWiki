@@ -4,7 +4,7 @@
   "title": "Peddi",
   "description": "2026 Indian film by Buchi Babu Sana",
   "image": "",
-  "total": 2424311,
+  "total": 2435251,
   "monthly": [
     {
       "period": "2025-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 22083
+    },
+    {
+      "period": "2026-10",
+      "views": 10940
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 2369125
+      "views": 2380065
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jim_Jones",
   "description": "American cult leader (1931–1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rev._Jim_Jones%2C_1977_%28cropped%292.jpg?width=64",
-  "total": 2593164,
+  "total": 2611326,
   "monthly": [
     {
       "period": "2015-07",
@@ -241,6 +241,10 @@
     {
       "period": "2026-06",
       "views": 10402
+    },
+    {
+      "period": "2026-10",
+      "views": 18162
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 20127
+      "views": 38289
     }
   ]
 }

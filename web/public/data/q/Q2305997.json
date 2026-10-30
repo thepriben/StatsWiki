@@ -1,0 +1,44 @@
+{
+  "qid": "Q2305997",
+  "label": "tricolour cat",
+  "title": "Calico_cat",
+  "description": "coat pattern in domestic cats",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_walk_in_the_Oregon_snow_%282014_photo%3B_cropped_2021%29.jpg?width=64",
+  "total": 76224,
+  "monthly": [
+    {
+      "period": "2015-07",
+      "views": 28589
+    },
+    {
+      "period": "2016-11",
+      "views": 9766
+    },
+    {
+      "period": "2023-05",
+      "views": 29711
+    },
+    {
+      "period": "2026-10",
+      "views": 8158
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 28589
+    },
+    {
+      "period": "2016",
+      "views": 9766
+    },
+    {
+      "period": "2023",
+      "views": 29711
+    },
+    {
+      "period": "2026",
+      "views": 8158
+    }
+  ]
+}

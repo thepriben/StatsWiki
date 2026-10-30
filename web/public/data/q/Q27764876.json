@@ -1,0 +1,48 @@
+{
+  "qid": "Q27764876",
+  "label": "Archive of Our Own",
+  "title": "Archive_of_Our_Own",
+  "description": "nonprofit online fanfiction repository operated by the Organization for Transformative Works",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ao3-screenshot.png?width=64",
+  "total": 108665,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 10952
+    },
+    {
+      "period": "2023-07",
+      "views": 44315
+    },
+    {
+      "period": "2025-03",
+      "views": 13445
+    },
+    {
+      "period": "2026-03",
+      "views": 12723
+    },
+    {
+      "period": "2026-10",
+      "views": 27230
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 10952
+    },
+    {
+      "period": "2023",
+      "views": 44315
+    },
+    {
+      "period": "2025",
+      "views": 13445
+    },
+    {
+      "period": "2026",
+      "views": 39953
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "qid": "Q294618",
+  "label": "Samuel Doe",
+  "title": "Samuel_Doe",
+  "description": "21st President of Liberia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Kanyon_Doe_-_Liberian.jpg?width=64",
+  "total": 43646,
+  "monthly": [
+    {
+      "period": "2018-02",
+      "views": 14616
+    },
+    {
+      "period": "2022-04",
+      "views": 12528
+    },
+    {
+      "period": "2026-10",
+      "views": 16502
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 14616
+    },
+    {
+      "period": "2022",
+      "views": 12528
+    },
+    {
+      "period": "2026",
+      "views": 16502
+    }
+  ]
+}

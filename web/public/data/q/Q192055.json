@@ -4,7 +4,7 @@
   "title": "Nanjing_Massacre",
   "description": "1937 mass murder by the Japanese army",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nanking_bodies_1937.jpg?width=64",
-  "total": 3136990,
+  "total": 3145185,
   "monthly": [
     {
       "period": "2018-12",
@@ -149,6 +149,10 @@
     {
       "period": "2026-09",
       "views": 14101
+    },
+    {
+      "period": "2026-10",
+      "views": 8195
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 54410
+      "views": 62605
     }
   ]
 }
