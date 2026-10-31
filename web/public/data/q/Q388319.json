@@ -1,0 +1,36 @@
+{
+  "qid": "Q388319",
+  "label": "Star Trek: Nemesis",
+  "title": "Star_Trek:_Nemesis",
+  "description": "2002 film directed by Stuart Baird",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Trek_Nemesis_Logo_2.webp?width=64",
+  "total": 82057,
+  "monthly": [
+    {
+      "period": "2019-07",
+      "views": 13245
+    },
+    {
+      "period": "2020-01",
+      "views": 60700
+    },
+    {
+      "period": "2026-10",
+      "views": 8112
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 13245
+    },
+    {
+      "period": "2020",
+      "views": 60700
+    },
+    {
+      "period": "2026",
+      "views": 8112
+    }
+  ]
+}

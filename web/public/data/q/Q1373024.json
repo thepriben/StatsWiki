@@ -4,7 +4,7 @@
   "title": "Jeff_Garcia",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff_Garcia_Eagles.jpg?width=64",
-  "total": 95990,
+  "total": 109146,
   "monthly": [
     {
       "period": "2017-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 15114
+    },
+    {
+      "period": "2026-10",
+      "views": 13156
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 15114
+      "views": 28270
     }
   ]
 }

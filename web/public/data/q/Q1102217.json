@@ -1,0 +1,28 @@
+{
+  "qid": "Q1102217",
+  "label": "Star Trek",
+  "title": "List_of_Star_Trek_films",
+  "description": "film series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Trek_movie_logo.svg?width=64",
+  "total": 17999,
+  "monthly": [
+    {
+      "period": "2021-08",
+      "views": 9489
+    },
+    {
+      "period": "2026-10",
+      "views": 8510
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 9489
+    },
+    {
+      "period": "2026",
+      "views": 8510
+    }
+  ]
+}

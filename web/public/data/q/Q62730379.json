@@ -4,7 +4,7 @@
   "title": "Morgan_Ortagus",
   "description": "American television commentator, financial analyst and political advisor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morgan_D._Ortagus.jpg?width=64",
-  "total": 384672,
+  "total": 396506,
   "monthly": [
     {
       "period": "2019-06",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 21586
+    },
+    {
+      "period": "2026-10",
+      "views": 11834
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 21586
+      "views": 33420
     }
   ]
 }

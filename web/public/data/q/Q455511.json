@@ -4,7 +4,7 @@
   "title": "Bob_Ross",
   "description": "American painter, art instructor, television host, and Air Force master sergeant (1942–1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Ross_Alaska_Painting.jpg?width=64",
-  "total": 14333100,
+  "total": 14349121,
   "monthly": [
     {
       "period": "2015-09",
@@ -348,7 +348,7 @@
     },
     {
       "period": "2026-10",
-      "views": 8859
+      "views": 24880
     }
   ],
   "yearly": [
@@ -398,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 8859
+      "views": 24880
     }
   ]
 }

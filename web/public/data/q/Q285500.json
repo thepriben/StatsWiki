@@ -1,0 +1,20 @@
+{
+  "qid": "Q285500",
+  "label": "guess 2/3 of the average",
+  "title": "Guess_2/3_of_the_average",
+  "description": "game-theoretic game where people guess a real number x (0≤x≤100); whoever guesses a number closest to ⅔ of the average guess wins; there is a unique pure strategy Nash equilibrium, which is guessing 0",
+  "image": "",
+  "total": 21393,
+  "monthly": [
+    {
+      "period": "2026-10",
+      "views": 21393
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2026",
+      "views": 21393
+    }
+  ]
+}

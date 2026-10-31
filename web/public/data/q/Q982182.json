@@ -4,7 +4,7 @@
   "title": "Richard_O'Brien",
   "description": "English actor, writer, musician, and television presenter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_O_Brien_by_Stuart_Mentiply.jpg?width=64",
-  "total": 366918,
+  "total": 377001,
   "monthly": [
     {
       "period": "2015-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-08",
       "views": 159092
+    },
+    {
+      "period": "2026-10",
+      "views": 10083
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 159092
+      "views": 169175
     }
   ]
 }

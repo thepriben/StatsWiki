@@ -4,7 +4,7 @@
   "title": "Ben_Kingsley",
   "description": "English actor (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Kingsley_by_Gage_Skidmore.jpg?width=64",
-  "total": 1636561,
+  "total": 1644868,
   "monthly": [
     {
       "period": "2015-07",
@@ -133,6 +133,10 @@
     {
       "period": "2026-09",
       "views": 34658
+    },
+    {
+      "period": "2026-10",
+      "views": 8307
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 265484
+      "views": 273791
     }
   ]
 }

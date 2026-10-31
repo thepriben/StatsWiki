@@ -1,0 +1,52 @@
+{
+  "qid": "Q96781201",
+  "label": "Bryce Hall",
+  "title": "Bryce_Hall",
+  "description": "American social media personality",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryce_Hall_by_Gage_Skidmore.jpg?width=64",
+  "total": 150306,
+  "monthly": [
+    {
+      "period": "2021-08",
+      "views": 39135
+    },
+    {
+      "period": "2023-08",
+      "views": 28335
+    },
+    {
+      "period": "2024-11",
+      "views": 41744
+    },
+    {
+      "period": "2025-03",
+      "views": 27411
+    },
+    {
+      "period": "2026-10",
+      "views": 13681
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 39135
+    },
+    {
+      "period": "2023",
+      "views": 28335
+    },
+    {
+      "period": "2024",
+      "views": 41744
+    },
+    {
+      "period": "2025",
+      "views": 27411
+    },
+    {
+      "period": "2026",
+      "views": 13681
+    }
+  ]
+}

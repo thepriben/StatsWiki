@@ -4,7 +4,7 @@
   "title": "Queens_of_the_Stone_Age",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/QOTSA_2007.jpg?width=64",
-  "total": 657216,
+  "total": 670168,
   "monthly": [
     {
       "period": "2015-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 7339
+    },
+    {
+      "period": "2026-10",
+      "views": 12952
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 7339
+      "views": 20291
     }
   ]
 }

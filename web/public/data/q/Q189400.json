@@ -4,7 +4,7 @@
   "title": "Brooke_Shields",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brooke_Shields_2011_%28Cropped%29.jpg?width=64",
-  "total": 6322319,
+  "total": 6330522,
   "monthly": [
     {
       "period": "2016-01",
@@ -309,6 +309,10 @@
     {
       "period": "2026-09",
       "views": 28778
+    },
+    {
+      "period": "2026-10",
+      "views": 8203
     }
   ],
   "yearly": [
@@ -354,7 +358,7 @@
     },
     {
       "period": "2026",
-      "views": 290094
+      "views": 298297
     }
   ]
 }

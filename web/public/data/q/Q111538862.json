@@ -4,7 +4,7 @@
   "title": "Civil_War_(film)",
   "description": "2024 film directed by Alex Garland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Civil_War_logo.png?width=64",
-  "total": 7788145,
+  "total": 7796287,
   "monthly": [
     {
       "period": "2024-04",
@@ -65,6 +65,10 @@
     {
       "period": "2026-01",
       "views": 39820
+    },
+    {
+      "period": "2026-10",
+      "views": 8142
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 39820
+      "views": 47962
     }
   ]
 }

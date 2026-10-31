@@ -4,7 +4,7 @@
   "title": "United_States_Senate",
   "description": "upper house of the United States Congress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Senate_Floor.jpg?width=64",
-  "total": 299155971,
+  "total": 299163739,
   "monthly": [
     {
       "period": "2016-02",
@@ -237,6 +237,10 @@
     {
       "period": "2026-07",
       "views": 75871
+    },
+    {
+      "period": "2026-10",
+      "views": 7768
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 100484
+      "views": 108252
     }
   ]
 }

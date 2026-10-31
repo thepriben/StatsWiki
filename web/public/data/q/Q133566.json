@@ -1,0 +1,84 @@
+{
+  "qid": "Q133566",
+  "label": "Giuseppe Meazza Stadium",
+  "title": "San_Siro",
+  "description": "multisports venue in Milan, Italy",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stadio_Meazza_2021_3.jpg?width=64",
+  "total": 458143,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 101745
+    },
+    {
+      "period": "2019-06",
+      "views": 33505
+    },
+    {
+      "period": "2020-05",
+      "views": 11140
+    },
+    {
+      "period": "2022-09",
+      "views": 12246
+    },
+    {
+      "period": "2023-04",
+      "views": 35135
+    },
+    {
+      "period": "2023-05",
+      "views": 137996
+    },
+    {
+      "period": "2025-05",
+      "views": 44220
+    },
+    {
+      "period": "2025-09",
+      "views": 11845
+    },
+    {
+      "period": "2025-10",
+      "views": 9104
+    },
+    {
+      "period": "2026-02",
+      "views": 52005
+    },
+    {
+      "period": "2026-10",
+      "views": 9202
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 101745
+    },
+    {
+      "period": "2019",
+      "views": 33505
+    },
+    {
+      "period": "2020",
+      "views": 11140
+    },
+    {
+      "period": "2022",
+      "views": 12246
+    },
+    {
+      "period": "2023",
+      "views": 173131
+    },
+    {
+      "period": "2025",
+      "views": 65169
+    },
+    {
+      "period": "2026",
+      "views": 61207
+    }
+  ]
+}

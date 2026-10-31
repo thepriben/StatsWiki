@@ -4,7 +4,7 @@
   "title": "Thomas_Jefferson",
   "description": "Founding Father, U.S. president from 1801 to 1809 (1743–1826)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg?width=64",
-  "total": 11070729,
+  "total": 11078955,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-09",
       "views": 51738
+    },
+    {
+      "period": "2026-10",
+      "views": 8226
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 395744
+      "views": 403970
     }
   ]
 }

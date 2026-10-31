@@ -4,7 +4,7 @@
   "title": "Joshua_Kushner",
   "description": "American businessman (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guests_at_the_2026_Met_Gala_289_%28Joshua_Kushner%29.jpg?width=64",
-  "total": 1746228,
+  "total": 1755070,
   "monthly": [
     {
       "period": "2016-07",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 890727
+    },
+    {
+      "period": "2026-10",
+      "views": 8842
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 1018213
+      "views": 1027055
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Battle_of_Vienna",
   "description": "battle near Vienna on 12 September 1683, between the Christian European states and the Ottomans, won by Christians commanded by Polish king John III Sobieski",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliusz_Kossak_Sobieski_pod_Wiedniem.jpeg?width=64",
-  "total": 195131,
+  "total": 212685,
   "monthly": [
     {
       "period": "2015-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 15090
+    },
+    {
+      "period": "2026-10",
+      "views": 17554
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 15090
+      "views": 32644
     }
   ]
 }

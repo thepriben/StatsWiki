@@ -4,7 +4,7 @@
   "title": "Pamela_Anderson",
   "description": "Canadian actress and model (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pamela_Anderson_2024_Headshot_by_Norman_Wong.jpg?width=64",
-  "total": 17868810,
+  "total": 17877161,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-09",
       "views": 53626
+    },
+    {
+      "period": "2026-10",
+      "views": 8351
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 344665
+      "views": 353016
     }
   ]
 }

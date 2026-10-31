@@ -4,7 +4,7 @@
   "title": "El_Salvador",
   "description": "sovereign state in Central America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ES_JoyadeCeren_06_2011_Estructura_9_Area_2_Tamazcal_2106_zoom_out.jpg?width=64",
-  "total": 1207121,
+  "total": 1215466,
   "monthly": [
     {
       "period": "2015-09",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 10226
+    },
+    {
+      "period": "2026-10",
+      "views": 8345
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 19213
+      "views": 27558
     }
   ]
 }
