@@ -4,7 +4,7 @@
   "title": "Rick_Moranis",
   "description": "Canadian actor, comedian and musician (born 1953)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick_Moranis_at_the_62nd_Academy_Awards_%28cropped%29.jpg?width=64",
-  "total": 1406345,
+  "total": 1417179,
   "monthly": [
     {
       "period": "2015-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 59399
+    },
+    {
+      "period": "2026-10",
+      "views": 10834
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 118519
+      "views": 129353
     }
   ]
 }

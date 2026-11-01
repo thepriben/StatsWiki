@@ -4,7 +4,7 @@
   "title": "Adam_West",
   "description": "American actor (1928-2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_West_by_Gage_Skidmore_3.jpg?width=64",
-  "total": 1913238,
+  "total": 1935548,
   "monthly": [
     {
       "period": "2015-08",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 12612
+    },
+    {
+      "period": "2026-10",
+      "views": 22310
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 12612
+      "views": 34922
     }
   ]
 }

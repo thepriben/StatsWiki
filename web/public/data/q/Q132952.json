@@ -4,7 +4,7 @@
   "title": "Adam_Sandler",
   "description": "American actor and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg?width=64",
-  "total": 28926221,
+  "total": 28934481,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-09",
       "views": 181050
+    },
+    {
+      "period": "2026-10",
+      "views": 8260
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 957396
+      "views": 965656
     }
   ]
 }

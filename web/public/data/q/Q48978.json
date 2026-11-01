@@ -4,7 +4,7 @@
   "title": "LMFAO",
   "description": "American electronic dance music duo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Redfoo_%26_Sky_Blu.jpg?width=64",
-  "total": 209907,
+  "total": 218632,
   "monthly": [
     {
       "period": "2017-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 92074
+    },
+    {
+      "period": "2026-10",
+      "views": 8725
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 92074
+      "views": 100799
     }
   ]
 }

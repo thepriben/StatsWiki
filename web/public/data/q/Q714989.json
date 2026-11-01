@@ -4,7 +4,7 @@
   "title": "Battle_of_Britain_(film)",
   "description": "1969 British film by Guy Hamilton",
   "image": "",
-  "total": 47974,
+  "total": 64718,
   "monthly": [
     {
       "period": "2019-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-06",
       "views": 10899
+    },
+    {
+      "period": "2026-10",
+      "views": 16744
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 10899
+      "views": 27643
     }
   ]
 }

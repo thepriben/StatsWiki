@@ -4,7 +4,7 @@
   "title": "Scream_(franchise)",
   "description": "American horror slasher franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scream_series_logo.svg?width=64",
-  "total": 3425985,
+  "total": 3439721,
   "monthly": [
     {
       "period": "2015-09",
@@ -85,6 +85,10 @@
     {
       "period": "2026-08",
       "views": 38829
+    },
+    {
+      "period": "2026-10",
+      "views": 13736
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 262641
+      "views": 276377
     }
   ]
 }

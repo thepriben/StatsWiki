@@ -1,0 +1,60 @@
+{
+  "qid": "Q24238536",
+  "label": "Kaabil",
+  "title": "Kaabil",
+  "description": "2017 film directed by Sanjay Gupta",
+  "image": "",
+  "total": 2322748,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 38876
+    },
+    {
+      "period": "2016-10",
+      "views": 70593
+    },
+    {
+      "period": "2016-12",
+      "views": 97793
+    },
+    {
+      "period": "2017-01",
+      "views": 1052778
+    },
+    {
+      "period": "2017-02",
+      "views": 982635
+    },
+    {
+      "period": "2017-04",
+      "views": 42451
+    },
+    {
+      "period": "2017-05",
+      "views": 10245
+    },
+    {
+      "period": "2017-07",
+      "views": 10338
+    },
+    {
+      "period": "2026-10",
+      "views": 17039
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 207262
+    },
+    {
+      "period": "2017",
+      "views": 2098447
+    },
+    {
+      "period": "2026",
+      "views": 17039
+    }
+  ]
+}

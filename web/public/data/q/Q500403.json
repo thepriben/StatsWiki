@@ -1,0 +1,28 @@
+{
+  "qid": "Q500403",
+  "label": "The Fog",
+  "title": "The_Fog",
+  "description": "1980 film directed by John Carpenter",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Fog_-_Nebel_des_Grauens_Logo.png?width=64",
+  "total": 19460,
+  "monthly": [
+    {
+      "period": "2022-10",
+      "views": 10766
+    },
+    {
+      "period": "2026-10",
+      "views": 8694
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 10766
+    },
+    {
+      "period": "2026",
+      "views": 8694
+    }
+  ]
+}

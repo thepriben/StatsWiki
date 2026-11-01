@@ -4,7 +4,7 @@
   "title": "It_–_Welcome_to_Derry",
   "description": "2025 American prequel television series to the films It and It Chapter Two",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/It_welcome_to_derry_logo.svg?width=64",
-  "total": 6244310,
+  "total": 6273413,
   "monthly": [
     {
       "period": "2025-05",
@@ -33,6 +33,10 @@
     {
       "period": "2026-01",
       "views": 503665
+    },
+    {
+      "period": "2026-10",
+      "views": 29103
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 503665
+      "views": 532768
     }
   ]
 }

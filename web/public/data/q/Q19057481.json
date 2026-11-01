@@ -4,7 +4,7 @@
   "title": "The_Witch_(2015_film)",
   "description": "2015 film directed by Robert Eggers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Witch_Logo.svg?width=64",
-  "total": 3214273,
+  "total": 3222657,
   "monthly": [
     {
       "period": "2015-08",
@@ -153,6 +153,10 @@
     {
       "period": "2026-07",
       "views": 11450
+    },
+    {
+      "period": "2026-10",
+      "views": 8384
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 34951
+      "views": 43335
     }
   ]
 }

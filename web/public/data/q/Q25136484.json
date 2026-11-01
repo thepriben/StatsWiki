@@ -4,7 +4,7 @@
   "title": "It_(2017_film)",
   "description": "2017 film directed by Andy Muschietti",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IT_%282017_film%29_logo.svg?width=64",
-  "total": 21965563,
+  "total": 21976123,
   "monthly": [
     {
       "period": "2016-07",
@@ -209,6 +209,10 @@
     {
       "period": "2026-01",
       "views": 70180
+    },
+    {
+      "period": "2026-10",
+      "views": 10560
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 70180
+      "views": 80740
     }
   ]
 }

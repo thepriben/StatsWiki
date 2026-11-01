@@ -4,7 +4,7 @@
   "title": "Tom_Jones_(singer)",
   "description": "Welsh singer (born 1940)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Tom_Jones_at_The_Queen%27s_Birthday_Party_%28cropped-2%29.jpg?width=64",
-  "total": 3506471,
+  "total": 3516179,
   "monthly": [
     {
       "period": "2015-09",
@@ -225,6 +225,10 @@
     {
       "period": "2026-09",
       "views": 52722
+    },
+    {
+      "period": "2026-10",
+      "views": 9708
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 104055
+      "views": 113763
     }
   ]
 }

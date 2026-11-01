@@ -4,7 +4,7 @@
   "title": "David_Arquette",
   "description": "American actor, director and professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Arquette_Alpha1_2019_%28cropped%29.jpg?width=64",
-  "total": 1198010,
+  "total": 1206551,
   "monthly": [
     {
       "period": "2015-09",
@@ -149,6 +149,10 @@
     {
       "period": "2026-08",
       "views": 15456
+    },
+    {
+      "period": "2026-10",
+      "views": 8541
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 56998
+      "views": 65539
     }
   ]
 }

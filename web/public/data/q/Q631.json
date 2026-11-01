@@ -4,7 +4,7 @@
   "title": "Inter_Milan",
   "description": "association football club based in Milan, Lombardy, Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Internazionale_Milano_2021.svg?width=64",
-  "total": 5090674,
+  "total": 5099282,
   "monthly": [
     {
       "period": "2015-07",
@@ -317,6 +317,10 @@
     {
       "period": "2026-09",
       "views": 27282
+    },
+    {
+      "period": "2026-10",
+      "views": 8608
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 184409
+      "views": 193017
     }
   ]
 }

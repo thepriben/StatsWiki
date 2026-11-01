@@ -4,7 +4,7 @@
   "title": "G20",
   "description": "group of finance ministers and central bank governors",
   "image": "",
-  "total": 7226375,
+  "total": 7235602,
   "monthly": [
     {
       "period": "2016-09",
@@ -161,6 +161,10 @@
     {
       "period": "2026-09",
       "views": 15577
+    },
+    {
+      "period": "2026-10",
+      "views": 9227
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 15577
+      "views": 24804
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Criminal_Minds",
   "description": "2005 American police procedural drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Criminal-Minds.svg?width=64",
-  "total": 4666746,
+  "total": 4676452,
   "monthly": [
     {
       "period": "2015-07",
@@ -221,6 +221,10 @@
     {
       "period": "2026-05",
       "views": 8311
+    },
+    {
+      "period": "2026-10",
+      "views": 9706
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 21343
+      "views": 31049
     }
   ]
 }

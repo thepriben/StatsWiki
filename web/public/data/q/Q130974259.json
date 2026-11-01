@@ -4,7 +4,7 @@
   "title": "2025–2027_World_Test_Championship",
   "description": "test Cricket Championship",
   "image": "",
-  "total": 261181,
+  "total": 276465,
   "monthly": [
     {
       "period": "2025-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 66310
+    },
+    {
+      "period": "2026-10",
+      "views": 15284
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 89534
+      "views": 104818
     }
   ]
 }

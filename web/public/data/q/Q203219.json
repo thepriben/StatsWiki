@@ -1,0 +1,52 @@
+{
+  "qid": "Q203219",
+  "label": "Boris Karloff",
+  "title": "Boris_Karloff",
+  "description": "British actor (1887–1969)",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris_Karloff.jpg?width=64",
+  "total": 66847,
+  "monthly": [
+    {
+      "period": "2016-08",
+      "views": 28628
+    },
+    {
+      "period": "2018-10",
+      "views": 10143
+    },
+    {
+      "period": "2022-06",
+      "views": 10500
+    },
+    {
+      "period": "2025-10",
+      "views": 9126
+    },
+    {
+      "period": "2026-10",
+      "views": 8450
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 28628
+    },
+    {
+      "period": "2018",
+      "views": 10143
+    },
+    {
+      "period": "2022",
+      "views": 10500
+    },
+    {
+      "period": "2025",
+      "views": 9126
+    },
+    {
+      "period": "2026",
+      "views": 8450
+    }
+  ]
+}

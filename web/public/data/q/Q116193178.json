@@ -4,7 +4,7 @@
   "title": "Talk_to_Me_(2022_film)",
   "description": "2022 film directed by Danny Philippou and Michael Philippou",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Talk_to_Me_Berlinale_2023_Verti_Music_Hall_01.jpg?width=64",
-  "total": 3939446,
+  "total": 3947805,
   "monthly": [
     {
       "period": "2023-04",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 9909
+    },
+    {
+      "period": "2026-10",
+      "views": 8359
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 9909
+      "views": 18268
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "X_(2022_film)",
   "description": "2022 film directed by Ti West",
   "image": "",
-  "total": 14104544,
+  "total": 14113303,
   "monthly": [
     {
       "period": "2022-01",
@@ -137,6 +137,10 @@
     {
       "period": "2024-11",
       "views": 42563
+    },
+    {
+      "period": "2026-10",
+      "views": 8759
     }
   ],
   "yearly": [
@@ -151,6 +155,10 @@
     {
       "period": "2024",
       "views": 3853371
+    },
+    {
+      "period": "2026",
+      "views": 8759
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "qid": "Q18702263",
+  "label": "Jazbaa",
+  "title": "Jazbaa",
+  "description": "2015 Hindi film directed by Sanjay Gupta",
+  "image": "",
+  "total": 380174,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 40795
+    },
+    {
+      "period": "2015-10",
+      "views": 300846
+    },
+    {
+      "period": "2016-06",
+      "views": 11063
+    },
+    {
+      "period": "2020-04",
+      "views": 18084
+    },
+    {
+      "period": "2026-10",
+      "views": 9386
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 341641
+    },
+    {
+      "period": "2016",
+      "views": 11063
+    },
+    {
+      "period": "2020",
+      "views": 18084
+    },
+    {
+      "period": "2026",
+      "views": 9386
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "qid": "Q12124503",
+  "label": "Ghostwatch",
+  "title": "Ghostwatch",
+  "description": "1992 film directed by Lesley Manning",
+  "image": "",
+  "total": 78730,
+  "monthly": [
+    {
+      "period": "2017-10",
+      "views": 22214
+    },
+    {
+      "period": "2020-03",
+      "views": 32071
+    },
+    {
+      "period": "2026-03",
+      "views": 11647
+    },
+    {
+      "period": "2026-10",
+      "views": 12798
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 22214
+    },
+    {
+      "period": "2020",
+      "views": 32071
+    },
+    {
+      "period": "2026",
+      "views": 24445
+    }
+  ]
+}
