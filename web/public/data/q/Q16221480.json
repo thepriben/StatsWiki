@@ -4,7 +4,7 @@
   "title": "Mike_Norvell",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Norvell_%28cropped%29.jpg?width=64",
-  "total": 892807,
+  "total": 916475,
   "monthly": [
     {
       "period": "2015-12",
@@ -85,6 +85,10 @@
     {
       "period": "2026-10",
       "views": 10248
+    },
+    {
+      "period": "2026-11",
+      "views": 23668
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 45979
+      "views": 69647
     }
   ]
 }

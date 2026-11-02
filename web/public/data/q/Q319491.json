@@ -4,7 +4,7 @@
   "title": "Shahid_Kapoor",
   "description": "Indian actor (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shahid_Kapoor_at_Bloody_Daddy_launch_%28cropped%29.jpg?width=64",
-  "total": 3280150,
+  "total": 3313126,
   "monthly": [
     {
       "period": "2015-07",
@@ -153,6 +153,10 @@
     {
       "period": "2026-10",
       "views": 20658
+    },
+    {
+      "period": "2026-11",
+      "views": 32976
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 44774
+      "views": 77750
     }
   ]
 }

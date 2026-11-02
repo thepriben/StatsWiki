@@ -4,7 +4,7 @@
   "title": "Halloween_(franchise)",
   "description": "horror film franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween_%281978%29_Logo.JPG?width=64",
-  "total": 5241015,
+  "total": 5271310,
   "monthly": [
     {
       "period": "2015-10",
@@ -129,6 +129,10 @@
     {
       "period": "2026-10",
       "views": 157184
+    },
+    {
+      "period": "2026-11",
+      "views": 30295
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 157184
+      "views": 187479
     }
   ]
 }

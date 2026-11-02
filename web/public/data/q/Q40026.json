@@ -4,7 +4,7 @@
   "title": "Sylvester_Stallone",
   "description": "American actor and filmmaker (born 1946)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvester_Stallone_Cannes_2019.jpg?width=64",
-  "total": 62810669,
+  "total": 62831220,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 648070
+    },
+    {
+      "period": "2026-11",
+      "views": 20551
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 3090999
+      "views": 3111550
     }
   ]
 }

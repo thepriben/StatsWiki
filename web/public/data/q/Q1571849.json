@@ -4,7 +4,7 @@
   "title": "Halloweentown_(film)",
   "description": "1998 film directed by Duwayne Dunham",
   "image": "",
-  "total": 431627,
+  "total": 442423,
   "monthly": [
     {
       "period": "2015-10",
@@ -57,6 +57,10 @@
     {
       "period": "2026-10",
       "views": 13029
+    },
+    {
+      "period": "2026-11",
+      "views": 10796
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 13029
+      "views": 23825
     }
   ]
 }

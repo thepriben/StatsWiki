@@ -4,7 +4,7 @@
   "title": "Sleepy_Hollow_(film)",
   "description": "1999 film by Tim Burton",
   "image": "",
-  "total": 314317,
+  "total": 324434,
   "monthly": [
     {
       "period": "2015-10",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 12244
+    },
+    {
+      "period": "2026-11",
+      "views": 10117
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 12244
+      "views": 22361
     }
   ]
 }

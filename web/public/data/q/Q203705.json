@@ -4,7 +4,7 @@
   "title": "Halloween_III:_Season_of_the_Witch",
   "description": "1982 film directed by Tommy Lee Wallace",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween_3_logo.svg?width=64",
-  "total": 828722,
+  "total": 844225,
   "monthly": [
     {
       "period": "2015-10",
@@ -93,6 +93,10 @@
     {
       "period": "2026-10",
       "views": 15260
+    },
+    {
+      "period": "2026-11",
+      "views": 15503
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 15260
+      "views": 30763
     }
   ]
 }

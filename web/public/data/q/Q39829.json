@@ -4,7 +4,7 @@
   "title": "Stephen_King",
   "description": "American novelist and writer (born 1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?width=64",
-  "total": 9518428,
+  "total": 9531300,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-10",
       "views": 303964
+    },
+    {
+      "period": "2026-11",
+      "views": 12872
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 447160
+      "views": 460032
     }
   ]
 }

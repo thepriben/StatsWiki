@@ -4,7 +4,7 @@
   "title": "Elke_Sommer",
   "description": "German-born American actress (1940–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elke_Sommer_1965.JPG?width=64",
-  "total": 199431,
+  "total": 209432,
   "monthly": [
     {
       "period": "2016-12",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 171096
+    },
+    {
+      "period": "2026-11",
+      "views": 10001
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 171096
+      "views": 181097
     }
   ]
 }

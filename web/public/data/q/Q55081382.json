@@ -4,17 +4,21 @@
   "title": "Jordin_Canada",
   "description": "American basketball player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordin_Canada-20180912.jpg?width=64",
-  "total": 11029,
+  "total": 26239,
   "monthly": [
     {
       "period": "2026-10",
       "views": 11029
+    },
+    {
+      "period": "2026-11",
+      "views": 15210
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 11029
+      "views": 26239
     }
   ]
 }

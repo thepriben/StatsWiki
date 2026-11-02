@@ -4,7 +4,7 @@
   "title": "You_Can_See_Everything",
   "description": "2026 film by Nathan Fielder and Lance Oppenheim",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/You_Can_See_Everything_logo_2026.png?width=64",
-  "total": 3717283,
+  "total": 3812175,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 2533517
+    },
+    {
+      "period": "2026-11",
+      "views": 94892
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 3717283
+      "views": 3812175
     }
   ]
 }

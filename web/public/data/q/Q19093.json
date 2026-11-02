@@ -4,7 +4,7 @@
   "title": "List_of_countries_by_GDP_(nominal)",
   "description": "market value of all final goods and services from a nation in a given year",
   "image": "",
-  "total": 55303408,
+  "total": 55314002,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 336437
+    },
+    {
+      "period": "2026-11",
+      "views": 10594
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 4545176
+      "views": 4555770
     }
   ]
 }

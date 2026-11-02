@@ -4,7 +4,7 @@
   "title": "RJ_Mitte",
   "description": "American actor (1992–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RJ_Mitte_April_2015.jpg?width=64",
-  "total": 4527489,
+  "total": 4542541,
   "monthly": [
     {
       "period": "2016-04",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 4272395
+    },
+    {
+      "period": "2026-11",
+      "views": 15052
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 4272395
+      "views": 4287447
     }
   ]
 }

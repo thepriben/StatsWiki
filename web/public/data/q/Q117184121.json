@@ -4,7 +4,7 @@
   "title": "Nobody_Wants_This",
   "description": "American TV series",
   "image": "",
-  "total": 2444241,
+  "total": 2465565,
   "monthly": [
     {
       "period": "2024-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 321908
+    },
+    {
+      "period": "2026-11",
+      "views": 21324
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 321908
+      "views": 343232
     }
   ]
 }

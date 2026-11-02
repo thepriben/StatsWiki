@@ -4,7 +4,7 @@
   "title": "Christos_Tzolis",
   "description": "Greek footballer (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweden_-_Greece22_%28cropped%29.jpg?width=64",
-  "total": 665293,
+  "total": 674200,
   "monthly": [
     {
       "period": "2021-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 36033
+    },
+    {
+      "period": "2026-11",
+      "views": 8907
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 655984
+      "views": 664891
     }
   ]
 }

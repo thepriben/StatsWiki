@@ -4,7 +4,7 @@
   "title": "Lincoln_Riley",
   "description": "American football coach (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2017-0717-Big12MD-LincolnRiley.jpg?width=64",
-  "total": 1318597,
+  "total": 1341814,
   "monthly": [
     {
       "period": "2017-06",
@@ -101,6 +101,10 @@
     {
       "period": "2026-09",
       "views": 22563
+    },
+    {
+      "period": "2026-11",
+      "views": 23217
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 22563
+      "views": 45780
     }
   ]
 }

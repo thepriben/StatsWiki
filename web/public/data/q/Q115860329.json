@@ -4,7 +4,7 @@
   "title": "The_Gentlemen_(2024_TV_series)",
   "description": "2024 American British TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Gentlemen.webp?width=64",
-  "total": 6380480,
+  "total": 6394741,
   "monthly": [
     {
       "period": "2024-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 546204
+    },
+    {
+      "period": "2026-11",
+      "views": 14261
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 2538768
+      "views": 2553029
     }
   ]
 }

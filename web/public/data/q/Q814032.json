@@ -4,7 +4,7 @@
   "title": "Beeg",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 866453,
+  "total": 879442,
   "monthly": [
     {
       "period": "2018-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 305458
+    },
+    {
+      "period": "2026-11",
+      "views": 12989
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 630287
+      "views": 643276
     }
   ]
 }

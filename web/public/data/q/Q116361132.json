@@ -4,7 +4,7 @@
   "title": "Nosferatu_(2024_film)",
   "description": "2024 film directed by Robert Eggers",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nosferatu_2024_logo.svg?width=64",
-  "total": 10474270,
+  "total": 10484861,
   "monthly": [
     {
       "period": "2024-03",
@@ -93,6 +93,10 @@
     {
       "period": "2026-10",
       "views": 18841
+    },
+    {
+      "period": "2026-11",
+      "views": 10591
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 90393
+      "views": 100984
     }
   ]
 }

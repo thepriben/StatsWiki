@@ -4,7 +4,7 @@
   "title": "Jailer_2",
   "description": "film by atlee",
   "image": "",
-  "total": 3805180,
+  "total": 3921175,
   "monthly": [
     {
       "period": "2025-08",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 3533682
+    },
+    {
+      "period": "2026-11",
+      "views": 115995
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 3732713
+      "views": 3848708
     }
   ]
 }

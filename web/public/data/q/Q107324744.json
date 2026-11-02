@@ -4,7 +4,7 @@
   "title": "Time_(2021_TV_series)",
   "description": "British TV series",
   "image": "",
-  "total": 525481,
+  "total": 534518,
   "monthly": [
     {
       "period": "2021-06",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 289953
+    },
+    {
+      "period": "2026-11",
+      "views": 9037
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 289953
+      "views": 298990
     }
   ]
 }

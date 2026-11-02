@@ -4,7 +4,7 @@
   "title": "The_Celebrity_Traitors",
   "description": "British reality television series featuring celebrity's as contestants",
   "image": "",
-  "total": 2121632,
+  "total": 2133719,
   "monthly": [
     {
       "period": "2025-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 388792
+    },
+    {
+      "period": "2026-11",
+      "views": 12087
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 403473
+      "views": 415560
     }
   ]
 }

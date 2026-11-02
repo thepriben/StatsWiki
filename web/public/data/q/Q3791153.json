@@ -4,7 +4,7 @@
   "title": "Justin_Tucker",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Justin_Tucker_%28cropped%29.jpg?width=64",
-  "total": 1268070,
+  "total": 1282246,
   "monthly": [
     {
       "period": "2015-10",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 81049
+    },
+    {
+      "period": "2026-11",
+      "views": 14176
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 159696
+      "views": 173872
     }
   ]
 }

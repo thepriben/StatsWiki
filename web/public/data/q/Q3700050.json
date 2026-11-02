@@ -4,7 +4,7 @@
   "title": "XVideos",
   "description": "pornographic video sharing and viewing website",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screen_of_Xvideos_login_page.PNG?width=64",
-  "total": 30984259,
+  "total": 30994547,
   "monthly": [
     {
       "period": "2015-10",
@@ -417,6 +417,10 @@
     {
       "period": "2026-10",
       "views": 75959
+    },
+    {
+      "period": "2026-11",
+      "views": 10288
     }
   ],
   "yearly": [
@@ -466,7 +470,7 @@
     },
     {
       "period": "2026",
-      "views": 659115
+      "views": 669403
     }
   ]
 }

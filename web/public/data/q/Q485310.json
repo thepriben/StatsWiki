@@ -4,7 +4,7 @@
   "title": "Neil_Patrick_Harris",
   "description": "American actor (born 1973)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NeilPatrickHarris-byPhilipRomano.jpg?width=64",
-  "total": 2638039,
+  "total": 2649679,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 17857
+    },
+    {
+      "period": "2026-11",
+      "views": 11640
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 17857
+      "views": 29497
     }
   ]
 }

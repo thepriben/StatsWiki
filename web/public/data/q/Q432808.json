@@ -3,8 +3,8 @@
   "label": "Karl Bushby",
   "title": "Karl_Bushby",
   "description": "British pedestrian circumnavigator of the globe",
-  "image": "",
-  "total": 1100195,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Bushby%2C_Kingston_upon_Hull_Nov26.jpg?width=64",
+  "total": 1126809,
   "monthly": [
     {
       "period": "2016-07",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 352600
+    },
+    {
+      "period": "2026-11",
+      "views": 26614
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 436395
+      "views": 463009
     }
   ]
 }

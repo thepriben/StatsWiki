@@ -4,7 +4,7 @@
   "title": "Trick_'r_Treat",
   "description": "2007 film by Michael Dougherty",
   "image": "",
-  "total": 341195,
+  "total": 352116,
   "monthly": [
     {
       "period": "2015-10",
@@ -77,6 +77,10 @@
     {
       "period": "2026-10",
       "views": 12223
+    },
+    {
+      "period": "2026-11",
+      "views": 10921
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 12223
+      "views": 23144
     }
   ]
 }

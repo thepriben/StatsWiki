@@ -4,7 +4,7 @@
   "title": "Corpse_Bride",
   "description": "2005 stop-motion-animated dark fantasy film by Tim Burton and Mike Johnson",
   "image": "",
-  "total": 574059,
+  "total": 583745,
   "monthly": [
     {
       "period": "2015-10",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 11980
+    },
+    {
+      "period": "2026-11",
+      "views": 9686
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 11980
+      "views": 21666
     }
   ]
 }

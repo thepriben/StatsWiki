@@ -4,17 +4,21 @@
   "title": "Crown_Jewel_(2026)",
   "description": "WWE pay-per-view and livestreaming event",
   "image": "",
-  "total": 314279,
+  "total": 337840,
   "monthly": [
     {
       "period": "2026-10",
       "views": 314279
+    },
+    {
+      "period": "2026-11",
+      "views": 23561
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 314279
+      "views": 337840
     }
   ]
 }

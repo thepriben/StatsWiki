@@ -2,9 +2,9 @@
   "qid": "Q309256",
   "label": "Day of the Dead",
   "title": "Day_of_the_Dead",
-  "description": "",
+  "description": "Mexican celebration",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Altar_de_D%C3%ADa_de_Muertos_en_Actopan%2C_Hidalgo%2C_M%C3%A9xico_%282017%29._24.jpg?width=64",
-  "total": 13552153,
+  "total": 13625006,
   "monthly": [
     {
       "period": "2015-09",
@@ -137,6 +137,10 @@
     {
       "period": "2026-10",
       "views": 179700
+    },
+    {
+      "period": "2026-11",
+      "views": 72853
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 187681
+      "views": 260534
     }
   ]
 }

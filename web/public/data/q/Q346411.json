@@ -4,7 +4,7 @@
   "title": "Michael_Landon",
   "description": "American actor and filmmaker (1936–1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Landon-publicity.jpg?width=64",
-  "total": 926238,
+  "total": 938965,
   "monthly": [
     {
       "period": "2016-04",
@@ -149,6 +149,10 @@
     {
       "period": "2026-10",
       "views": 9044
+    },
+    {
+      "period": "2026-11",
+      "views": 12727
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 152273
+      "views": 165000
     }
   ]
 }

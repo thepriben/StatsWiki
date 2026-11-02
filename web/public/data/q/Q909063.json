@@ -4,7 +4,7 @@
   "title": "Halloween_(2007_film)",
   "description": "2007 film directed by Rob Zombie",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloweenremakebanner.png?width=64",
-  "total": 806045,
+  "total": 816448,
   "monthly": [
     {
       "period": "2015-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 15050
+    },
+    {
+      "period": "2026-11",
+      "views": 10403
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 15050
+      "views": 25453
     }
   ]
 }

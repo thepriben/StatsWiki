@@ -4,7 +4,7 @@
   "title": "Marine_Johannès",
   "description": "French basketball player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/France_vs_Finlande_-_EuroBasket_Women_2019_qualification_2018_-_12.jpg?width=64",
-  "total": 37966,
+  "total": 84227,
   "monthly": [
     {
       "period": "2024-08",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 8462
+    },
+    {
+      "period": "2026-11",
+      "views": 46261
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 8462
+      "views": 54723
     }
   ]
 }

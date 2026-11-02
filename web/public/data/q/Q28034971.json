@@ -4,7 +4,7 @@
   "title": "Zohran_Mamdani",
   "description": "Mayor of New York City since 2026",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zohran_Mamdani_05.25.25_%28b%29.jpg?width=64",
-  "total": 27650878,
+  "total": 27665333,
   "monthly": [
     {
       "period": "2025-03",
@@ -81,6 +81,10 @@
     {
       "period": "2026-10",
       "views": 388204
+    },
+    {
+      "period": "2026-11",
+      "views": 14455
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 6432336
+      "views": 6446791
     }
   ]
 }

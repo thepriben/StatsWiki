@@ -4,7 +4,7 @@
   "title": "Avengers:_Doomsday",
   "description": "upcoming film directed by Anthony and Joe Russo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avengers_Doomsday_logo.png?width=64",
-  "total": 13119483,
+  "total": 13148933,
   "monthly": [
     {
       "period": "2024-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 773732
+    },
+    {
+      "period": "2026-11",
+      "views": 29450
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 6828202
+      "views": 6857652
     }
   ]
 }

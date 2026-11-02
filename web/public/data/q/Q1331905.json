@@ -4,7 +4,7 @@
   "title": "Lewy_body_dementia",
   "description": "type of dementia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lewy_Koerperchen.JPG?width=64",
-  "total": 771003,
+  "total": 788380,
   "monthly": [
     {
       "period": "2018-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 355574
+    },
+    {
+      "period": "2026-11",
+      "views": 17377
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 368319
+      "views": 385696
     }
   ]
 }

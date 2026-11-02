@@ -4,7 +4,7 @@
   "title": "2026_Formula_One_World_Championship",
   "description": "77th Formula One season",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Formula_One_logo.svg?width=64",
-  "total": 4570273,
+  "total": 4633084,
   "monthly": [
     {
       "period": "2024-11",
@@ -65,6 +65,10 @@
     {
       "period": "2026-10",
       "views": 646007
+    },
+    {
+      "period": "2026-11",
+      "views": 62811
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 4087188
+      "views": 4149999
     }
   ]
 }

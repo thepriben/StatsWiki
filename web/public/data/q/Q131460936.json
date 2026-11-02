@@ -4,7 +4,7 @@
   "title": "Clayface_(film)",
   "description": "2026 American film directed by James Watkins",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clayface_%282026%29_logo.svg?width=64",
-  "total": 2998240,
+  "total": 3081349,
   "monthly": [
     {
       "period": "2025-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 2126046
+    },
+    {
+      "period": "2026-11",
+      "views": 83109
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 2903689
+      "views": 2986798
     }
   ]
 }

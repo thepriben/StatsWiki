@@ -4,17 +4,21 @@
   "title": "Drew_Mestemaker",
   "description": "American football player",
   "image": "",
-  "total": 33987,
+  "total": 42835,
   "monthly": [
     {
       "period": "2026-09",
       "views": 33987
+    },
+    {
+      "period": "2026-11",
+      "views": 8848
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 33987
+      "views": 42835
     }
   ]
 }

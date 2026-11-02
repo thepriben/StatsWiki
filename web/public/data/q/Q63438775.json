@@ -4,7 +4,7 @@
   "title": "Ghosts_(2019_TV_series)",
   "description": "2019 British television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghosts_%28BBC_network_television_series%29_logo.svg?width=64",
-  "total": 168856,
+  "total": 179133,
   "monthly": [
     {
       "period": "2021-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 90640
+    },
+    {
+      "period": "2026-11",
+      "views": 10277
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 90640
+      "views": 100917
     }
   ]
 }

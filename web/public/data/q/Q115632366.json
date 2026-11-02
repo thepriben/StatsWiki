@@ -4,7 +4,7 @@
   "title": "2026_Israeli_legislative_election",
   "description": "2026 Israeli election",
   "image": "",
-  "total": 2594782,
+  "total": 2662674,
   "monthly": [
     {
       "period": "2026-04",
@@ -17,12 +17,16 @@
     {
       "period": "2026-10",
       "views": 2468671
+    },
+    {
+      "period": "2026-11",
+      "views": 67892
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 2594782
+      "views": 2662674
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Terrifier",
   "description": "2016 film directed by Damien Leone",
   "image": "",
-  "total": 3000813,
+  "total": 3011135,
   "monthly": [
     {
       "period": "2022-10",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 26330
+    },
+    {
+      "period": "2026-11",
+      "views": 10322
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 26330
+      "views": 36652
     }
   ]
 }

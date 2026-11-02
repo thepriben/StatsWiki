@@ -4,7 +4,7 @@
   "title": "All_Souls'_Day",
   "description": "feast day in some Christian denominations",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe_Bouguereau_%281825-1905%29_-_The_Day_of_the_Dead_%281859%29.jpg?width=64",
-  "total": 1182650,
+  "total": 1200638,
   "monthly": [
     {
       "period": "2015-10",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 9130
+    },
+    {
+      "period": "2026-11",
+      "views": 17988
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 9130
+      "views": 27118
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2004_Indian_Ocean_earthquake_and_tsunami",
   "description": "megathrust underwater earthquake and subsequent tsunami in the Indian Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ladies_in_a_pensive_mood_at_the_Tsunami_hit_area_of_Pulianchavadi_near_Pondicherry.jpg?width=64",
-  "total": 3786680,
+  "total": 3795494,
   "monthly": [
     {
       "period": "2015-08",
@@ -217,6 +217,10 @@
     {
       "period": "2026-09",
       "views": 43972
+    },
+    {
+      "period": "2026-11",
+      "views": 8814
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 231237
+      "views": 240051
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Backrooms",
   "description": "urban legend and creepypasta",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Backrooms_model.jpg?width=64",
-  "total": 4811142,
+  "total": 4824661,
   "monthly": [
     {
       "period": "2022-02",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 130872
+    },
+    {
+      "period": "2026-11",
+      "views": 13519
     }
   ],
   "yearly": [
@@ -122,7 +126,7 @@
     },
     {
       "period": "2026",
-      "views": 3365607
+      "views": 3379126
     }
   ]
 }

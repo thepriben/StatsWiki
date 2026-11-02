@@ -4,7 +4,7 @@
   "title": "Marina_Sirtis",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marina_Sirtis_-_Lucca_Comics_%26_Games_2016.jpg?width=64",
-  "total": 154200,
+  "total": 167990,
   "monthly": [
     {
       "period": "2019-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 57068
+    },
+    {
+      "period": "2026-11",
+      "views": 13790
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 57068
+      "views": 70858
     }
   ]
 }

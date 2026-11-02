@@ -4,7 +4,7 @@
   "title": "Will_Best",
   "description": "English television presenter (born 1985)",
   "image": "",
-  "total": 423289,
+  "total": 431855,
   "monthly": [
     {
       "period": "2023-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 146331
+    },
+    {
+      "period": "2026-11",
+      "views": 8566
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 337456
+      "views": 346022
     }
   ]
 }

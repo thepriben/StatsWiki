@@ -4,7 +4,7 @@
   "title": "The_Devils_(film)",
   "description": "1971 film by Ken Russell",
   "image": "",
-  "total": 598103,
+  "total": 623736,
   "monthly": [
     {
       "period": "2026-05",
@@ -21,12 +21,16 @@
     {
       "period": "2026-10",
       "views": 491118
+    },
+    {
+      "period": "2026-11",
+      "views": 25633
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 598103
+      "views": 623736
     }
   ]
 }

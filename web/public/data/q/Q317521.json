@@ -4,7 +4,7 @@
   "title": "Elon_Musk",
   "description": "American businessman (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?width=64",
-  "total": 176863721,
+  "total": 176883076,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 731509
+    },
+    {
+      "period": "2026-11",
+      "views": 19355
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 7007115
+      "views": 7026470
     }
   ]
 }

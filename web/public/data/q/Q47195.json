@@ -4,7 +4,7 @@
   "title": "Trick-or-treating",
   "description": "Halloween custom in which costumed children go from house to house to ask for candy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trick_or_treat_in_sweden.jpeg?width=64",
-  "total": 2022830,
+  "total": 2038484,
   "monthly": [
     {
       "period": "2015-10",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 37537
+    },
+    {
+      "period": "2026-11",
+      "views": 15654
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 37537
+      "views": 53191
     }
   ]
 }

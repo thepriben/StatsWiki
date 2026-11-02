@@ -4,7 +4,7 @@
   "title": "Diego_Moreira",
   "description": "Belgian association football player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Moreira.jpg?width=64",
-  "total": 139103,
+  "total": 164100,
   "monthly": [
     {
       "period": "2026-07",
@@ -21,12 +21,16 @@
     {
       "period": "2026-10",
       "views": 23187
+    },
+    {
+      "period": "2026-11",
+      "views": 24997
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 139103
+      "views": 164100
     }
   ]
 }

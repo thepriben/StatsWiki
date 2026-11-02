@@ -4,7 +4,7 @@
   "title": "Rise_and_Fall_(Indian_TV_series)",
   "description": "Indian reality series",
   "image": "",
-  "total": 120908,
+  "total": 132647,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 31536
+    },
+    {
+      "period": "2026-11",
+      "views": 11739
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 120908
+      "views": 132647
     }
   ]
 }

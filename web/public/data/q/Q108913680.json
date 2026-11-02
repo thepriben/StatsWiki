@@ -4,7 +4,7 @@
   "title": "Balaji_Tharaneetharan",
   "description": "Indian film director",
   "image": "",
-  "total": 120480,
+  "total": 133525,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 112357
+    },
+    {
+      "period": "2026-11",
+      "views": 13045
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 120480
+      "views": 133525
     }
   ]
 }

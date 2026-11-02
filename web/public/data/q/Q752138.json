@@ -1,0 +1,84 @@
+{
+  "qid": "Q752138",
+  "label": "New York City Marathon",
+  "title": "New_York_City_Marathon",
+  "description": "marathon running race held in New York, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2014_New_York_City_Marathon_%2815699854511%29.jpg?width=64",
+  "total": 189590,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 16840
+    },
+    {
+      "period": "2016-11",
+      "views": 18992
+    },
+    {
+      "period": "2017-11",
+      "views": 37629
+    },
+    {
+      "period": "2018-11",
+      "views": 28340
+    },
+    {
+      "period": "2019-11",
+      "views": 20928
+    },
+    {
+      "period": "2021-11",
+      "views": 10488
+    },
+    {
+      "period": "2022-11",
+      "views": 11455
+    },
+    {
+      "period": "2025-11",
+      "views": 27444
+    },
+    {
+      "period": "2026-11",
+      "views": 17474
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 16840
+    },
+    {
+      "period": "2016",
+      "views": 18992
+    },
+    {
+      "period": "2017",
+      "views": 37629
+    },
+    {
+      "period": "2018",
+      "views": 28340
+    },
+    {
+      "period": "2019",
+      "views": 20928
+    },
+    {
+      "period": "2021",
+      "views": 10488
+    },
+    {
+      "period": "2022",
+      "views": 11455
+    },
+    {
+      "period": "2025",
+      "views": 27444
+    },
+    {
+      "period": "2026",
+      "views": 17474
+    }
+  ]
+}

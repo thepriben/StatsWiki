@@ -4,7 +4,7 @@
   "title": "Binance",
   "description": "cryptocurrency exchange",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Binance_t-shirt_and_bag_-_2022-07-09.jpg?width=64",
-  "total": 402223,
+  "total": 420620,
   "monthly": [
     {
       "period": "2021-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 75957
+    },
+    {
+      "period": "2026-11",
+      "views": 18397
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 75957
+      "views": 94354
     }
   ]
 }

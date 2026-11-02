@@ -4,7 +4,7 @@
   "title": "Sense_and_Sensibility",
   "description": "1811 novel by Jane Austen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SenseAndSensibilityTitlePage.jpg?width=64",
-  "total": 199714,
+  "total": 208751,
   "monthly": [
     {
       "period": "2016-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 102144
+    },
+    {
+      "period": "2026-11",
+      "views": 9037
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 149982
+      "views": 159019
     }
   ]
 }

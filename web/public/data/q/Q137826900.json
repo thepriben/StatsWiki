@@ -4,7 +4,7 @@
   "title": "The_Mosquito_Bowl",
   "description": "upcoming film directed by Peter Berg",
   "image": "",
-  "total": 260944,
+  "total": 271812,
   "monthly": [
     {
       "period": "2026-03",
@@ -17,12 +17,16 @@
     {
       "period": "2026-10",
       "views": 190751
+    },
+    {
+      "period": "2026-11",
+      "views": 10868
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 260944
+      "views": 271812
     }
   ]
 }

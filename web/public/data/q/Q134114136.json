@@ -4,7 +4,7 @@
   "title": "The_Only_Living_Pickpocket_in_New_York",
   "description": "2026 film directed by Noah Segan",
   "image": "",
-  "total": 27470,
+  "total": 36614,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 19310
+    },
+    {
+      "period": "2026-11",
+      "views": 9144
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 27470
+      "views": 36614
     }
   ]
 }

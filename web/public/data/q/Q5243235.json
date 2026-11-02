@@ -4,7 +4,7 @@
   "title": "Daylight_saving_time_in_the_United_States",
   "description": "method of timekeeping",
   "image": "",
-  "total": 1388409,
+  "total": 1407830,
   "monthly": [
     {
       "period": "2015-10",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 34668
+    },
+    {
+      "period": "2026-11",
+      "views": 19421
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 105297
+      "views": 124718
     }
   ]
 }

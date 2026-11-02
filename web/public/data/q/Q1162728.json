@@ -4,7 +4,7 @@
   "title": "Hellraiser",
   "description": "1987 horror film directed by Clive Barker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Special_Edition_NYC_2015_-_Pinhead_%2818519207906%29.jpg?width=64",
-  "total": 925921,
+  "total": 935247,
   "monthly": [
     {
       "period": "2016-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 230121
+    },
+    {
+      "period": "2026-11",
+      "views": 9326
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 230121
+      "views": 239447
     }
   ]
 }

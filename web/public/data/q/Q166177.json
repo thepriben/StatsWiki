@@ -4,7 +4,7 @@
   "title": "2027_Ballon_d'Or",
   "description": "annual association football award",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FigoBallond%27Or2000_%28cropped%29.jpg?width=64",
-  "total": 14204144,
+  "total": 14216426,
   "monthly": [
     {
       "period": "2016-12",
@@ -297,6 +297,10 @@
     {
       "period": "2026-10",
       "views": 723528
+    },
+    {
+      "period": "2026-11",
+      "views": 12282
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 2836436
+      "views": 2848718
     }
   ]
 }

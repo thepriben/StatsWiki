@@ -4,7 +4,7 @@
   "title": "Harry_Houdini",
   "description": "Hungarian-born American illusionist, escapologist, and stunt performer (1874–1926)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Houdini_by_LaPine_Studios%2C_1915.png?width=64",
-  "total": 1388057,
+  "total": 1409850,
   "monthly": [
     {
       "period": "2015-07",
@@ -177,6 +177,10 @@
     {
       "period": "2026-10",
       "views": 137998
+    },
+    {
+      "period": "2026-11",
+      "views": 21793
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 137998
+      "views": 159791
     }
   ]
 }

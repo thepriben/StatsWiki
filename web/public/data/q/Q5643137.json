@@ -4,7 +4,7 @@
   "title": "Allhallowtide",
   "description": "triduum encompassing the Western Christian observances of All Hallows' Eve, All Saints' Day, and All Soul's Day",
   "image": "",
-  "total": 372506,
+  "total": 383194,
   "monthly": [
     {
       "period": "2015-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 11523
+    },
+    {
+      "period": "2026-11",
+      "views": 10688
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 11523
+      "views": 22211
     }
   ]
 }

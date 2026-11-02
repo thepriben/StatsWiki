@@ -4,7 +4,7 @@
   "title": "Gardner_Minshew",
   "description": "American football player (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gardner_Minshew.png?width=64",
-  "total": 2007160,
+  "total": 2071241,
   "monthly": [
     {
       "period": "2018-11",
@@ -93,6 +93,10 @@
     {
       "period": "2026-08",
       "views": 10801
+    },
+    {
+      "period": "2026-11",
+      "views": 64081
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 10801
+      "views": 74882
     }
   ]
 }

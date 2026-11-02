@@ -4,7 +4,7 @@
   "title": "MF_Doom",
   "description": "British rapper (1971–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MF_Doom_-_Hultsfred_2011_%28cropped%29.jpg?width=64",
-  "total": 2822781,
+  "total": 2832147,
   "monthly": [
     {
       "period": "2016-05",
@@ -73,6 +73,10 @@
     {
       "period": "2026-10",
       "views": 15924
+    },
+    {
+      "period": "2026-11",
+      "views": 9366
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 15924
+      "views": 25290
     }
   ]
 }

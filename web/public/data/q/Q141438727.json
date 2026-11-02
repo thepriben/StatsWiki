@@ -2,9 +2,9 @@
   "qid": "Q141438727",
   "label": "Scene",
   "title": "Scene_(2026_film)",
-  "description": "",
+  "description": "upcoming film directed by Jithu Madhavan",
   "image": "",
-  "total": 147250,
+  "total": 179580,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 137519
+    },
+    {
+      "period": "2026-11",
+      "views": 32330
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 147250
+      "views": 179580
     }
   ]
 }

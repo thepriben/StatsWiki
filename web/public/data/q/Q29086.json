@@ -4,7 +4,7 @@
   "title": "Matthew_Lillard",
   "description": "American actor (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matthew_Lillard_Photo_Op_GalaxyCon_Columbus_2025.jpg?width=64",
-  "total": 1408727,
+  "total": 1419606,
   "monthly": [
     {
       "period": "2017-05",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 257989
+    },
+    {
+      "period": "2026-11",
+      "views": 10879
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 386447
+      "views": 397326
     }
   ]
 }

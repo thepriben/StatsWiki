@@ -4,7 +4,7 @@
   "title": "Sachin_Pilot",
   "description": "Indian politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sachin_Pilot_at_the_India_Economic_Summit_2010_cropped.jpg?width=64",
-  "total": 1761325,
+  "total": 1776702,
   "monthly": [
     {
       "period": "2018-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 15329
+    },
+    {
+      "period": "2026-11",
+      "views": 15377
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 15329
+      "views": 30706
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sigourney_Weaver",
   "description": "American actress (born 1949)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg?width=64",
-  "total": 3378100,
+  "total": 3387043,
   "monthly": [
     {
       "period": "2015-10",
@@ -229,6 +229,10 @@
     {
       "period": "2026-10",
       "views": 17764
+    },
+    {
+      "period": "2026-11",
+      "views": 8943
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 259822
+      "views": 268765
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Walter_Koenig",
   "description": "American actor and screenwriter (1936–2026)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WalterKoenigHWOFSept2012.jpg?width=64",
-  "total": 779978,
+  "total": 796684,
   "monthly": [
     {
       "period": "2016-06",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 669468
+    },
+    {
+      "period": "2026-11",
+      "views": 16706
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 669468
+      "views": 686174
     }
   ]
 }

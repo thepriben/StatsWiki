@@ -4,7 +4,7 @@
   "title": "Matthew_McConaughey",
   "description": "American actor (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matthew_McConaughey_2025.jpg?width=64",
-  "total": 35890723,
+  "total": 35902718,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 487204
+    },
+    {
+      "period": "2026-11",
+      "views": 11995
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 2161258
+      "views": 2173253
     }
   ]
 }

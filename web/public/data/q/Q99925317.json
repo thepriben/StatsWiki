@@ -4,7 +4,7 @@
   "title": "Arch_Manning",
   "description": "American football player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-09-14_Arch_Manning_Texas_Longhorn.jpg?width=64",
-  "total": 4398663,
+  "total": 4408124,
   "monthly": [
     {
       "period": "2021-06",
@@ -129,6 +129,10 @@
     {
       "period": "2026-10",
       "views": 228584
+    },
+    {
+      "period": "2026-11",
+      "views": 9461
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 864266
+      "views": 873727
     }
   ]
 }

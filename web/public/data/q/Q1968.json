@@ -4,7 +4,7 @@
   "title": "Formula_One",
   "description": "motorsport championship held worldwide",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2018_Austrian_Grand_Prix_turn_1_%2843147259711%29.jpg?width=64",
-  "total": 7223300,
+  "total": 7237131,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-10",
       "views": 81753
+    },
+    {
+      "period": "2026-11",
+      "views": 13831
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 463503
+      "views": 477334
     }
   ]
 }

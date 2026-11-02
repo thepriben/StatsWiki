@@ -4,7 +4,7 @@
   "title": "List_of_Indian_films_of_2026",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 1010605,
+  "total": 1023615,
   "monthly": [
     {
       "period": "2026-03",
@@ -25,12 +25,16 @@
     {
       "period": "2026-10",
       "views": 357673
+    },
+    {
+      "period": "2026-11",
+      "views": 13010
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1010605
+      "views": 1023615
     }
   ]
 }

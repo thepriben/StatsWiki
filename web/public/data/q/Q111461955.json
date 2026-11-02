@@ -4,7 +4,7 @@
   "title": "Cooke_Maroney",
   "description": "art gallery director",
   "image": "",
-  "total": 434318,
+  "total": 443587,
   "monthly": [
     {
       "period": "2024-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 42094
+    },
+    {
+      "period": "2026-11",
+      "views": 9269
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 137144
+      "views": 146413
     }
   ]
 }

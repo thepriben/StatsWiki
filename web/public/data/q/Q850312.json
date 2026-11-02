@@ -4,7 +4,7 @@
   "title": "Halloween_II_(1981_film)",
   "description": "1981 film by Rick Rosenthal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween2bann.jpg?width=64",
-  "total": 745367,
+  "total": 758146,
   "monthly": [
     {
       "period": "2015-10",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 11088
+    },
+    {
+      "period": "2026-11",
+      "views": 12779
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 11088
+      "views": 23867
     }
   ]
 }

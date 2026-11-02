@@ -4,7 +4,7 @@
   "title": "Nocturne_(TV_series)",
   "description": "2026 American crime drama television series",
   "image": "",
-  "total": 171158,
+  "total": 230599,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 148315
+    },
+    {
+      "period": "2026-11",
+      "views": 59441
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 171158
+      "views": 230599
     }
   ]
 }

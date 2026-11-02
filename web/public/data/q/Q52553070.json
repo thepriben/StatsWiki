@@ -4,7 +4,7 @@
   "title": "Lijomol_Jose",
   "description": "Indian film actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lijomol_Jose.jpg?width=64",
-  "total": 438483,
+  "total": 451675,
   "monthly": [
     {
       "period": "2021-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 31387
+    },
+    {
+      "period": "2026-11",
+      "views": 13192
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 31387
+      "views": 44579
     }
   ]
 }

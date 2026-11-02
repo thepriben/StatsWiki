@@ -4,7 +4,7 @@
   "title": "Keri_Russell",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keri_Russell_%2831481731266%29_%28cropped%29.jpg?width=64",
-  "total": 8494061,
+  "total": 8516989,
   "monthly": [
     {
       "period": "2016-01",
@@ -241,6 +241,10 @@
     {
       "period": "2026-10",
       "views": 723449
+    },
+    {
+      "period": "2026-11",
+      "views": 22928
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 1845470
+      "views": 1868398
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Christina_Ricci",
   "description": "American actress (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christina_Ricci_at_Los_Angeles_Comic_Con_2024-2.jpg?width=64",
-  "total": 5500842,
+  "total": 5511169,
   "monthly": [
     {
       "period": "2015-09",
@@ -229,6 +229,10 @@
     {
       "period": "2026-10",
       "views": 40056
+    },
+    {
+      "period": "2026-11",
+      "views": 10327
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 40056
+      "views": 50383
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sarah_Jessica_Parker",
   "description": "American actress (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Jessica_Parker_2022.jpg?width=64",
-  "total": 7010289,
+  "total": 7022093,
   "monthly": [
     {
       "period": "2015-10",
@@ -337,6 +337,10 @@
     {
       "period": "2026-10",
       "views": 78088
+    },
+    {
+      "period": "2026-11",
+      "views": 11804
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 208798
+      "views": 220602
     }
   ]
 }

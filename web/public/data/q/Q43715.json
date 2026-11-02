@@ -4,7 +4,7 @@
   "title": "Vlad_the_Impaler",
   "description": "15th-century ruler of Wallachia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg?width=64",
-  "total": 2067391,
+  "total": 2077816,
   "monthly": [
     {
       "period": "2015-10",
@@ -165,6 +165,10 @@
     {
       "period": "2026-10",
       "views": 46047
+    },
+    {
+      "period": "2026-11",
+      "views": 10425
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 67031
+      "views": 77456
     }
   ]
 }

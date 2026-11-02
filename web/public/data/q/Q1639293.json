@@ -4,7 +4,7 @@
   "title": "Rugby_League_World_Cup",
   "description": "international rugby league football tournament",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RLWC_trophy.jpg?width=64",
-  "total": 186787,
+  "total": 198850,
   "monthly": [
     {
       "period": "2017-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 18367
+    },
+    {
+      "period": "2026-11",
+      "views": 12063
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 18367
+      "views": 30430
     }
   ]
 }

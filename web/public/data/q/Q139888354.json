@@ -4,7 +4,7 @@
   "title": "American_Horror_Story_season_13",
   "description": "thirteenth season of American Horror Story",
   "image": "",
-  "total": 1208127,
+  "total": 1227570,
   "monthly": [
     {
       "period": "2026-07",
@@ -21,12 +21,16 @@
     {
       "period": "2026-10",
       "views": 690227
+    },
+    {
+      "period": "2026-11",
+      "views": 19443
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1208127
+      "views": 1227570
     }
   ]
 }

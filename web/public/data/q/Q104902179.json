@@ -4,7 +4,7 @@
   "title": "2026_United_States_Senate_elections",
   "description": "part of the U.S. elections held November 3, 2026",
   "image": "",
-  "total": 4194754,
+  "total": 4229090,
   "monthly": [
     {
       "period": "2024-11",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 558090
+    },
+    {
+      "period": "2026-11",
+      "views": 34336
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 2637379
+      "views": 2671715
     }
   ]
 }

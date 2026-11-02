@@ -4,7 +4,7 @@
   "title": "Call_of_Duty:_Modern_Warfare_4",
   "description": "2026 video game",
   "image": "",
-  "total": 702475,
+  "total": 719473,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 693682
+    },
+    {
+      "period": "2026-11",
+      "views": 16998
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 702475
+      "views": 719473
     }
   ]
 }

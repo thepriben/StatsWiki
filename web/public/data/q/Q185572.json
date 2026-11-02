@@ -4,7 +4,7 @@
   "title": "Mikel_Arteta",
   "description": "Spanish football manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikel_Arteta_2021_%28cropped%29.png?width=64",
-  "total": 4911107,
+  "total": 4921677,
   "monthly": [
     {
       "period": "2016-05",
@@ -257,6 +257,10 @@
     {
       "period": "2026-09",
       "views": 34059
+    },
+    {
+      "period": "2026-11",
+      "views": 10570
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 828936
+      "views": 839506
     }
   ]
 }

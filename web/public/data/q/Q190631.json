@@ -4,7 +4,7 @@
   "title": "Bette_Midler",
   "description": "American singer and actress (born 1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bette_Midler_2021_Kennedy_Center_Honors_%28cropped%29.jpg?width=64",
-  "total": 1915762,
+  "total": 1929542,
   "monthly": [
     {
       "period": "2016-01",
@@ -177,6 +177,10 @@
     {
       "period": "2026-10",
       "views": 14015
+    },
+    {
+      "period": "2026-11",
+      "views": 13780
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 24201
+      "views": 37981
     }
   ]
 }

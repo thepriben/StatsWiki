@@ -4,7 +4,7 @@
   "title": "Byron_Donalds",
   "description": "United States Representative from Florida since 2021",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg?width=64",
-  "total": 1037490,
+  "total": 1046636,
   "monthly": [
     {
       "period": "2021-03",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 31637
+    },
+    {
+      "period": "2026-11",
+      "views": 9146
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 248222
+      "views": 257368
     }
   ]
 }

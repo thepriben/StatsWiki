@@ -1,0 +1,96 @@
+{
+  "qid": "Q8109",
+  "label": "Mexican Grand Prix",
+  "title": "Mexican_Grand_Prix",
+  "description": "Formula 1 Grand Prix",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2021_Mexico_City_Grand_Prix_%2851349315666%29.jpg?width=64",
+  "total": 210615,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 20157
+    },
+    {
+      "period": "2015-11",
+      "views": 21605
+    },
+    {
+      "period": "2016-10",
+      "views": 14253
+    },
+    {
+      "period": "2017-10",
+      "views": 11880
+    },
+    {
+      "period": "2018-10",
+      "views": 13486
+    },
+    {
+      "period": "2019-10",
+      "views": 13749
+    },
+    {
+      "period": "2021-11",
+      "views": 24481
+    },
+    {
+      "period": "2022-10",
+      "views": 38527
+    },
+    {
+      "period": "2024-10",
+      "views": 14771
+    },
+    {
+      "period": "2025-10",
+      "views": 28644
+    },
+    {
+      "period": "2026-11",
+      "views": 9062
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 41762
+    },
+    {
+      "period": "2016",
+      "views": 14253
+    },
+    {
+      "period": "2017",
+      "views": 11880
+    },
+    {
+      "period": "2018",
+      "views": 13486
+    },
+    {
+      "period": "2019",
+      "views": 13749
+    },
+    {
+      "period": "2021",
+      "views": 24481
+    },
+    {
+      "period": "2022",
+      "views": 38527
+    },
+    {
+      "period": "2024",
+      "views": 14771
+    },
+    {
+      "period": "2025",
+      "views": 28644
+    },
+    {
+      "period": "2026",
+      "views": 9062
+    }
+  ]
+}

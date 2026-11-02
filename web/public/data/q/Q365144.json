@@ -4,7 +4,7 @@
   "title": "Caitlyn_Jenner",
   "description": "American media personality and retired decathlete",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caitlyn_Jenner.jpeg?width=64",
-  "total": 36058822,
+  "total": 36074421,
   "monthly": [
     {
       "period": "2015-07",
@@ -493,6 +493,10 @@
     {
       "period": "2026-10",
       "views": 269632
+    },
+    {
+      "period": "2026-11",
+      "views": 15599
     }
   ],
   "yearly": [
@@ -542,7 +546,7 @@
     },
     {
       "period": "2026",
-      "views": 517642
+      "views": 533241
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Michael_Jordan",
   "description": "American basketball player and businessman (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jordan.jpg?width=64",
-  "total": 86332347,
+  "total": 86342424,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 225006
+    },
+    {
+      "period": "2026-11",
+      "views": 10077
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 3465351
+      "views": 3475428
     }
   ]
 }

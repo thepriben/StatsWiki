@@ -4,7 +4,7 @@
   "title": "Nigella_Lawson",
   "description": "English food writer and television cook (born 1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nigella2.jpg?width=64",
-  "total": 2627211,
+  "total": 2640748,
   "monthly": [
     {
       "period": "2015-10",
@@ -141,6 +141,10 @@
     {
       "period": "2026-10",
       "views": 532603
+    },
+    {
+      "period": "2026-11",
+      "views": 13537
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 1128768
+      "views": 1142305
     }
   ]
 }

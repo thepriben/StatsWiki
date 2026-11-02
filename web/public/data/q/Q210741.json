@@ -4,7 +4,7 @@
   "title": "Eric_Idle",
   "description": "British comedian, actor and writer (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric_Idle_2014.jpg?width=64",
-  "total": 230559,
+  "total": 240049,
   "monthly": [
     {
       "period": "2015-11",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 24658
+    },
+    {
+      "period": "2026-11",
+      "views": 9490
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 24658
+      "views": 34148
     }
   ]
 }

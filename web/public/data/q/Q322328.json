@@ -4,7 +4,7 @@
   "title": "The_Nightmare_Before_Christmas",
   "description": "1993 stop motion film directed by Henry Selick",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Nightmare_Before_Christmas_Logo.svg?width=64",
-  "total": 3864503,
+  "total": 3892526,
   "monthly": [
     {
       "period": "2015-10",
@@ -149,6 +149,10 @@
     {
       "period": "2026-10",
       "views": 145817
+    },
+    {
+      "period": "2026-11",
+      "views": 28023
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 185679
+      "views": 213702
     }
   ]
 }

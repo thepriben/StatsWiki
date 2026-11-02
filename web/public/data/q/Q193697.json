@@ -4,7 +4,7 @@
   "title": "Sugababes",
   "description": "British pop girl group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sugababes_Chester_Rocks_2011.jpg?width=64",
-  "total": 904684,
+  "total": 914010,
   "monthly": [
     {
       "period": "2016-05",
@@ -81,6 +81,10 @@
     {
       "period": "2026-10",
       "views": 44201
+    },
+    {
+      "period": "2026-11",
+      "views": 9326
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 61149
+      "views": 70475
     }
   ]
 }

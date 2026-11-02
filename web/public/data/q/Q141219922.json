@@ -4,7 +4,7 @@
   "title": "UFC_334",
   "description": "",
   "image": "",
-  "total": 56573,
+  "total": 65972,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 34363
+    },
+    {
+      "period": "2026-11",
+      "views": 9399
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 56573
+      "views": 65972
     }
   ]
 }

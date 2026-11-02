@@ -4,7 +4,7 @@
   "title": "Maya_Jama",
   "description": "British television and radio presenter",
   "image": "",
-  "total": 2403067,
+  "total": 2482255,
   "monthly": [
     {
       "period": "2017-11",
@@ -157,6 +157,10 @@
     {
       "period": "2026-10",
       "views": 860091
+    },
+    {
+      "period": "2026-11",
+      "views": 79188
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 957418
+      "views": 1036606
     }
   ]
 }

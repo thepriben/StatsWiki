@@ -4,7 +4,7 @@
   "title": "2026_United_States_Senate_election_in_Texas",
   "description": "class II election for U.S. senator from Texas",
   "image": "",
-  "total": 1313599,
+  "total": 1330188,
   "monthly": [
     {
       "period": "2025-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 355877
+    },
+    {
+      "period": "2026-11",
+      "views": 16589
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 1261997
+      "views": 1278586
     }
   ]
 }

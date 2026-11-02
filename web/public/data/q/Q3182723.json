@@ -4,7 +4,7 @@
   "title": "Hindenburg_disaster",
   "description": "1937 airship accident in New Jersey",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hindenburg_disaster.jpg?width=64",
-  "total": 1165100,
+  "total": 1180095,
   "monthly": [
     {
       "period": "2016-05",
@@ -117,6 +117,10 @@
     {
       "period": "2026-06",
       "views": 13886
+    },
+    {
+      "period": "2026-11",
+      "views": 14995
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 26361
+      "views": 41356
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sebastian_Croft",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sebastian_Croft_at_the_BFI_London_July_2019.jpg?width=64",
-  "total": 1336293,
+  "total": 1395992,
   "monthly": [
     {
       "period": "2022-04",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 1098925
+    },
+    {
+      "period": "2026-11",
+      "views": 59699
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1135410
+      "views": 1195109
     }
   ]
 }

@@ -3,8 +3,8 @@
   "label": "Slow Horses",
   "title": "Slow_Horses",
   "description": "British spy thriller television series",
-  "image": "",
-  "total": 12039932,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Slow_Horses_TV_Series_Logo.svg?width=64",
+  "total": 12070271,
   "monthly": [
     {
       "period": "2022-04",
@@ -121,6 +121,10 @@
     {
       "period": "2026-10",
       "views": 1147542
+    },
+    {
+      "period": "2026-11",
+      "views": 30339
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 2733255
+      "views": 2763594
     }
   ]
 }

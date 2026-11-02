@@ -4,7 +4,7 @@
   "title": "Andy_Reid",
   "description": "American football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Reid_%28Kansas_City_Chiefs_at_Washington_Football_Team%2C_October_17%2C_2021%29_%28cropped%29.jpg?width=64",
-  "total": 8682547,
+  "total": 8698318,
   "monthly": [
     {
       "period": "2015-09",
@@ -217,6 +217,10 @@
     {
       "period": "2026-10",
       "views": 35354
+    },
+    {
+      "period": "2026-11",
+      "views": 15771
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 102865
+      "views": 118636
     }
   ]
 }

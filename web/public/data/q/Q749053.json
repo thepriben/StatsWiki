@@ -4,17 +4,21 @@
   "title": "Breast_implant",
   "description": "prosthesis used to change the size, shape, and contour of a person's breast",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breast_implants_in_hand_01.jpg?width=64",
-  "total": 34391,
+  "total": 87602,
   "monthly": [
     {
       "period": "2026-10",
       "views": 34391
+    },
+    {
+      "period": "2026-11",
+      "views": 53211
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 34391
+      "views": 87602
     }
   ]
 }

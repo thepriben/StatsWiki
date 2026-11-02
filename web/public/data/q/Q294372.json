@@ -4,7 +4,7 @@
   "title": "Adam_Brody",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Brody_-_Everyone_Is_Lying_to_You_for_Money.jpg?width=64",
-  "total": 4966412,
+  "total": 4984635,
   "monthly": [
     {
       "period": "2015-09",
@@ -133,6 +133,10 @@
     {
       "period": "2026-10",
       "views": 253686
+    },
+    {
+      "period": "2026-11",
+      "views": 18223
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 304788
+      "views": 323011
     }
   ]
 }

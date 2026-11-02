@@ -4,7 +4,7 @@
   "title": "Johnny_Cash",
   "description": "American country singer (1932–2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny_Cash_%22The_Johnny_Cash_Spring_Special%22_%281979_CBS_press_photo%29.jpg?width=64",
-  "total": 22889009,
+  "total": 22899440,
   "monthly": [
     {
       "period": "2015-07",
@@ -529,6 +529,10 @@
     {
       "period": "2026-09",
       "views": 10996
+    },
+    {
+      "period": "2026-11",
+      "views": 10431
     }
   ],
   "yearly": [
@@ -578,7 +582,7 @@
     },
     {
       "period": "2026",
-      "views": 264093
+      "views": 274524
     }
   ]
 }

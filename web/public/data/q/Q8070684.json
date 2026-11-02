@@ -4,7 +4,7 @@
   "title": "Strictly_Come_Dancing",
   "description": "British television series",
   "image": "",
-  "total": 5677163,
+  "total": 5686474,
   "monthly": [
     {
       "period": "2015-09",
@@ -193,6 +193,10 @@
     {
       "period": "2026-10",
       "views": 103427
+    },
+    {
+      "period": "2026-11",
+      "views": 9311
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 171454
+      "views": 180765
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Crocus_City_Hall_attack",
   "description": "22 March 2024 terrorist attack in Russia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crocus_City_Hall_sign_after_attack_%28cropped%29.jpg?width=64",
-  "total": 783413,
+  "total": 799353,
   "monthly": [
     {
       "period": "2024-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 28996
+    },
+    {
+      "period": "2026-11",
+      "views": 15940
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 28996
+      "views": 44936
     }
   ]
 }

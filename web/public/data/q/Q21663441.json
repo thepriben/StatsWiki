@@ -4,7 +4,7 @@
   "title": "Sunny_Ozell",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunny_Ozell_-_5_-_Stierch.jpg?width=64",
-  "total": 1412097,
+  "total": 1465389,
   "monthly": [
     {
       "period": "2017-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 961955
+    },
+    {
+      "period": "2026-11",
+      "views": 53292
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 961955
+      "views": 1015247
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2026_United_States_elections",
   "description": "midterm elections in the United States in 2026",
   "image": "",
-  "total": 5555450,
+  "total": 5649904,
   "monthly": [
     {
       "period": "2024-11",
@@ -85,6 +85,10 @@
     {
       "period": "2026-10",
       "views": 1222331
+    },
+    {
+      "period": "2026-11",
+      "views": 94454
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 5066073
+      "views": 5160527
     }
   ]
 }

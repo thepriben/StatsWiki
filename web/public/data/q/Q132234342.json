@@ -2,9 +2,9 @@
   "qid": "Q132234342",
   "label": "2026 United States Senate election in Michigan",
   "title": "2026_United_States_Senate_election_in_Michigan",
-  "description": "",
+  "description": "class II election for U.S. senator from Michigan",
   "image": "",
-  "total": 704049,
+  "total": 750999,
   "monthly": [
     {
       "period": "2025-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 165864
+    },
+    {
+      "period": "2026-11",
+      "views": 46950
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 691667
+      "views": 738617
     }
   ]
 }

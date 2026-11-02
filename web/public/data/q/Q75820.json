@@ -4,7 +4,7 @@
   "title": "Nico_Rosberg",
   "description": "German–Finnish former Formula 1 racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nico_Rosberg_2016.jpg?width=64",
-  "total": 959305,
+  "total": 970394,
   "monthly": [
     {
       "period": "2015-10",
@@ -101,6 +101,10 @@
     {
       "period": "2026-06",
       "views": 11146
+    },
+    {
+      "period": "2026-11",
+      "views": 11089
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 11146
+      "views": 22235
     }
   ]
 }

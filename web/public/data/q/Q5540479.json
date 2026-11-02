@@ -4,7 +4,7 @@
   "title": "The_Conjuring",
   "description": "2013 film directed by James Wan",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Conjuring.jpg?width=64",
-  "total": 7396494,
+  "total": 7408371,
   "monthly": [
     {
       "period": "2015-09",
@@ -229,6 +229,10 @@
     {
       "period": "2026-10",
       "views": 12720
+    },
+    {
+      "period": "2026-11",
+      "views": 11877
     }
   ],
   "yearly": [
@@ -278,7 +282,7 @@
     },
     {
       "period": "2026",
-      "views": 12720
+      "views": 24597
     }
   ]
 }

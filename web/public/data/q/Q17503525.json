@@ -4,7 +4,7 @@
   "title": "Elizabeth_Holmes",
   "description": "American biotechnology entrepreneur convicted of fraud",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Holmes_2014_%28cropped_2%29.jpg?width=64",
-  "total": 26883051,
+  "total": 27019036,
   "monthly": [
     {
       "period": "2015-08",
@@ -329,6 +329,10 @@
     {
       "period": "2026-10",
       "views": 3150981
+    },
+    {
+      "period": "2026-11",
+      "views": 135985
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 6173223
+      "views": 6309208
     }
   ]
 }

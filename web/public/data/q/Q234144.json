@@ -4,7 +4,7 @@
   "title": "Rita_Wilson",
   "description": "American actress, singer and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rita_Wilson_by_Gage_Skidmore_2.jpg?width=64",
-  "total": 2100418,
+  "total": 2111325,
   "monthly": [
     {
       "period": "2016-03",
@@ -153,6 +153,10 @@
     {
       "period": "2026-10",
       "views": 8598
+    },
+    {
+      "period": "2026-11",
+      "views": 10907
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 97218
+      "views": 108125
     }
   ]
 }

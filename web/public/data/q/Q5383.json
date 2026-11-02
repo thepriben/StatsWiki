@@ -4,7 +4,7 @@
   "title": "David_Bowie",
   "description": "English musician and actor (1947–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?width=64",
-  "total": 58200187,
+  "total": 58217094,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 262000
+    },
+    {
+      "period": "2026-11",
+      "views": 16907
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 2958184
+      "views": 2975091
     }
   ]
 }

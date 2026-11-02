@@ -4,7 +4,7 @@
   "title": "Tenzing_Norgay",
   "description": "Nepalese Indian Sherpa mountaineer (1914-1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenzing_Norgay_%28cropped%29.jpg?width=64",
-  "total": 628650,
+  "total": 651966,
   "monthly": [
     {
       "period": "2016-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 484110
+    },
+    {
+      "period": "2026-11",
+      "views": 23316
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 538466
+      "views": 561782
     }
   ]
 }

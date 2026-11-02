@@ -4,7 +4,7 @@
   "title": "Katseye",
   "description": "Los Angeles-based girl group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025-12-13_Katseye_Beautiful_Chaos_Tour_02_%28cropped%29.jpg?width=64",
-  "total": 7255639,
+  "total": 7266802,
   "monthly": [
     {
       "period": "2024-08",
@@ -93,6 +93,10 @@
     {
       "period": "2026-10",
       "views": 413664
+    },
+    {
+      "period": "2026-11",
+      "views": 11163
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 3307827
+      "views": 3318990
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "2026_Hylo_Open",
   "description": "badminton competition",
   "image": "",
-  "total": 27491,
+  "total": 37423,
   "monthly": [
     {
       "period": "2026-10",
       "views": 27491
+    },
+    {
+      "period": "2026-11",
+      "views": 9932
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 27491
+      "views": 37423
     }
   ]
 }

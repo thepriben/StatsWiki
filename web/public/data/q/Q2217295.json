@@ -4,7 +4,7 @@
   "title": "Miranda_Hart",
   "description": "English comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Miranda_Hart_in_2011.jpg?width=64",
-  "total": 1250048,
+  "total": 1262060,
   "monthly": [
     {
       "period": "2015-12",
@@ -77,6 +77,10 @@
     {
       "period": "2026-10",
       "views": 476887
+    },
+    {
+      "period": "2026-11",
+      "views": 12012
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 476887
+      "views": 488899
     }
   ]
 }

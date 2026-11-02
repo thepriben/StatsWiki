@@ -4,7 +4,7 @@
   "title": "Chris_Sarandon",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Sarandon_July_2017.jpg?width=64",
-  "total": 99583,
+  "total": 110275,
   "monthly": [
     {
       "period": "2017-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 19263
+    },
+    {
+      "period": "2026-11",
+      "views": 10692
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 19263
+      "views": 29955
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Samhain",
   "description": "Gaelic festival marking the start of winter",
   "image": "",
-  "total": 2932420,
+  "total": 2975482,
   "monthly": [
     {
       "period": "2015-10",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 118029
+    },
+    {
+      "period": "2026-11",
+      "views": 43062
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 118029
+      "views": 161091
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Don't_Trouble_the_Trouble",
   "description": "2026 Indian fantasy film",
   "image": "",
-  "total": 72155,
+  "total": 86498,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 44796
+    },
+    {
+      "period": "2026-11",
+      "views": 14343
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 72155
+      "views": 86498
     }
   ]
 }

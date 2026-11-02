@@ -4,7 +4,7 @@
   "title": "John_Carpenter",
   "description": "American filmmaker, composer and actor (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_John_Carpenter.jpg?width=64",
-  "total": 1152520,
+  "total": 1166440,
   "monthly": [
     {
       "period": "2015-08",
@@ -109,6 +109,10 @@
     {
       "period": "2026-10",
       "views": 15083
+    },
+    {
+      "period": "2026-11",
+      "views": 13920
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 15083
+      "views": 29003
     }
   ]
 }

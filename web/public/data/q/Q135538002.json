@@ -4,7 +4,7 @@
   "title": "Annie_Andrews_(physician)",
   "description": "American pediatrician and political activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annie_Andrews_Greenville_%28cropped%29.jpg?width=64",
-  "total": 232931,
+  "total": 242328,
   "monthly": [
     {
       "period": "2026-06",
@@ -21,12 +21,16 @@
     {
       "period": "2026-10",
       "views": 143288
+    },
+    {
+      "period": "2026-11",
+      "views": 9397
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 232931
+      "views": 242328
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Dua_Lipa",
   "description": "British singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dua_Lipa-69798_%28cropped%29.jpg?width=64",
-  "total": 53722879,
+  "total": 53734411,
   "monthly": [
     {
       "period": "2016-08",
@@ -477,6 +477,10 @@
     {
       "period": "2026-10",
       "views": 355342
+    },
+    {
+      "period": "2026-11",
+      "views": 11532
     }
   ],
   "yearly": [
@@ -522,7 +526,7 @@
     },
     {
       "period": "2026",
-      "views": 3737051
+      "views": 3748583
     }
   ]
 }

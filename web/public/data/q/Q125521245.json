@@ -2,9 +2,9 @@
   "qid": "Q125521245",
   "label": "Golden State Valkyries",
   "title": "Golden_State_Valkyries",
-  "description": "American professional women's basketball team in San Francisco, California",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara_Lee_at_a_Golden_State_Valkyries_Commemoration.jpg?width=64",
-  "total": 77816,
+  "description": "Women's National Basketball Association team in San Francisco, California",
+  "image": "",
+  "total": 156185,
   "monthly": [
     {
       "period": "2024-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 39253
+    },
+    {
+      "period": "2026-11",
+      "views": 78369
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 39253
+      "views": 117622
     }
   ]
 }

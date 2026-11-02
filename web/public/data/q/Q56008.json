@@ -4,7 +4,7 @@
   "title": "Tim_Burton",
   "description": "American filmmaker and artist (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Burton-63605.jpg?width=64",
-  "total": 5147373,
+  "total": 5163023,
   "monthly": [
     {
       "period": "2015-10",
@@ -217,6 +217,10 @@
     {
       "period": "2026-10",
       "views": 84364
+    },
+    {
+      "period": "2026-11",
+      "views": 15650
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 129111
+      "views": 144761
     }
   ]
 }

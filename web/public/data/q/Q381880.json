@@ -4,7 +4,7 @@
   "title": "Sherrod_Brown",
   "description": "American politician and educator (born 1952)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sherrod_Brown_official_photo_2009.jpg?width=64",
-  "total": 376482,
+  "total": 390262,
   "monthly": [
     {
       "period": "2017-11",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 16047
+    },
+    {
+      "period": "2026-11",
+      "views": 13780
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 29421
+      "views": 43201
     }
   ]
 }

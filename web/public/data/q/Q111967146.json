@@ -4,7 +4,7 @@
   "title": "Tulsa_King",
   "description": "American crime drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulsa_King.png?width=64",
-  "total": 4016253,
+  "total": 4027103,
   "monthly": [
     {
       "period": "2022-11",
@@ -77,6 +77,10 @@
     {
       "period": "2026-10",
       "views": 160094
+    },
+    {
+      "period": "2026-11",
+      "views": 10850
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 160094
+      "views": 170944
     }
   ]
 }

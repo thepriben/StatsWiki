@@ -4,7 +4,7 @@
   "title": "Help:IPA_for_English",
   "description": "Wikipedia key to pronunciation of English",
   "image": "",
-  "total": 105391889,
+  "total": 105409560,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 511413
+    },
+    {
+      "period": "2026-11",
+      "views": 17671
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 5689749
+      "views": 5707420
     }
   ]
 }

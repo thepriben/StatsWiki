@@ -4,7 +4,7 @@
   "title": "Harriet_Dart",
   "description": "British tennis player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dart_WM19_%289%29_%2848521880041%29.jpg?width=64",
-  "total": 279278,
+  "total": 291548,
   "monthly": [
     {
       "period": "2018-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 20000
+    },
+    {
+      "period": "2026-11",
+      "views": 12270
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 20000
+      "views": 32270
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2028_United_States_presidential_election",
   "description": "61st quadrennial U.S. presidential election",
   "image": "",
-  "total": 2837350,
+  "total": 2848786,
   "monthly": [
     {
       "period": "2024-11",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 262618
+    },
+    {
+      "period": "2026-11",
+      "views": 11436
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 1631362
+      "views": 1642798
     }
   ]
 }

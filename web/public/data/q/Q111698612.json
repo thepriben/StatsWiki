@@ -4,7 +4,7 @@
   "title": "Angel_Reese",
   "description": "American basketball player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel_Reese_Chicago_Sky_%28cropped%29.jpg?width=64",
-  "total": 2025136,
+  "total": 2055646,
   "monthly": [
     {
       "period": "2023-03",
@@ -85,6 +85,10 @@
     {
       "period": "2026-10",
       "views": 119130
+    },
+    {
+      "period": "2026-11",
+      "views": 30510
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 202015
+      "views": 232525
     }
   ]
 }

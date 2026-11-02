@@ -4,7 +4,7 @@
   "title": "Halloween_Kills",
   "description": "2021 film directed by David Gordon Green",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween_Kills.jpg?width=64",
-  "total": 3605357,
+  "total": 3617683,
   "monthly": [
     {
       "period": "2019-10",
@@ -81,6 +81,10 @@
     {
       "period": "2026-10",
       "views": 12093
+    },
+    {
+      "period": "2026-11",
+      "views": 12326
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 12093
+      "views": 24419
     }
   ]
 }

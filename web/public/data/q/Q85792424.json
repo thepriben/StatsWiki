@@ -4,7 +4,7 @@
   "title": "Patrick_Stewart_on_stage_and_screen",
   "description": "acting works of Sir Patrick Stewart",
   "image": "",
-  "total": 370357,
+  "total": 381290,
   "monthly": [
     {
       "period": "2022-02",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 353699
+    },
+    {
+      "period": "2026-11",
+      "views": 10933
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 353699
+      "views": 364632
     }
   ]
 }

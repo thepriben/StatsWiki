@@ -4,7 +4,7 @@
   "title": "James_Acaster",
   "description": "English comedian (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Acaster_at_the_2026_Edinburgh_Fringe-_Craig_Simons_at_the_2026_Edinburgh_Fringe-020.jpg?width=64",
-  "total": 686636,
+  "total": 707907,
   "monthly": [
     {
       "period": "2017-12",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 527606
+    },
+    {
+      "period": "2026-11",
+      "views": 21271
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 527606
+      "views": 548877
     }
   ]
 }

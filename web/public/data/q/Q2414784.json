@@ -4,7 +4,7 @@
   "title": "Sean_Payton",
   "description": "American football coach and player (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean_Payton_2021.jpg?width=64",
-  "total": 3195328,
+  "total": 3204746,
   "monthly": [
     {
       "period": "2015-10",
@@ -149,6 +149,10 @@
     {
       "period": "2026-10",
       "views": 8386
+    },
+    {
+      "period": "2026-11",
+      "views": 9418
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 282270
+      "views": 291688
     }
   ]
 }

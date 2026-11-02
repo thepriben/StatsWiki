@@ -4,7 +4,7 @@
   "title": "This_City_Is_Ours",
   "description": "British television series",
   "image": "",
-  "total": 768459,
+  "total": 793600,
   "monthly": [
     {
       "period": "2025-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 183921
+    },
+    {
+      "period": "2026-11",
+      "views": 25141
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 183921
+      "views": 209062
     }
   ]
 }

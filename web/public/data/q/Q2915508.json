@@ -4,7 +4,7 @@
   "title": "Charles_Sobhraj",
   "description": "French serial killer (1944-)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Sobhraj_statue_%28cropped%29.jpg?width=64",
-  "total": 9865982,
+  "total": 9875203,
   "monthly": [
     {
       "period": "2015-09",
@@ -85,6 +85,10 @@
     {
       "period": "2026-10",
       "views": 25375
+    },
+    {
+      "period": "2026-11",
+      "views": 9221
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 25375
+      "views": 34596
     }
   ]
 }

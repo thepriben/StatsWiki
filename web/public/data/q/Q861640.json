@@ -4,7 +4,7 @@
   "title": "Jennifer's_Body",
   "description": "2009 film by Karyn Kusama",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifers_body_logo.png?width=64",
-  "total": 297728,
+  "total": 306973,
   "monthly": [
     {
       "period": "2017-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 9834
+    },
+    {
+      "period": "2026-11",
+      "views": 9245
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 62012
+      "views": 71257
     }
   ]
 }

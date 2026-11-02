@@ -4,7 +4,7 @@
   "title": "Vincent_Price",
   "description": "American actor (1911–1993)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_Price_1945.jpg?width=64",
-  "total": 515385,
+  "total": 532441,
   "monthly": [
     {
       "period": "2015-10",
@@ -93,6 +93,10 @@
     {
       "period": "2026-10",
       "views": 46210
+    },
+    {
+      "period": "2026-11",
+      "views": 17056
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 46210
+      "views": 63266
     }
   ]
 }

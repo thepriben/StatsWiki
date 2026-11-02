@@ -3,8 +3,8 @@
   "label": "Gabby Williams",
   "title": "Gabby_Williams",
   "description": "French basketball player (born 1996)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabby_Williams_5_Fenerbah%C3%A7e_WB_EuroLeague_Women_20250108_%281%29.jpg?width=64",
-  "total": 649091,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabby_Williams_15_France_20260904_%281%29_%28cropped%29.JPG?width=64",
+  "total": 829295,
   "monthly": [
     {
       "period": "2024-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 157173
+    },
+    {
+      "period": "2026-11",
+      "views": 180204
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 204902
+      "views": 385106
     }
   ]
 }

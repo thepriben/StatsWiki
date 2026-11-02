@@ -4,7 +4,7 @@
   "title": "The_Silence_of_the_Lambs_(film)",
   "description": "1991 film directed by Jonathan Demme",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Silence_of_the_Lambs.png?width=64",
-  "total": 1863692,
+  "total": 1873650,
   "monthly": [
     {
       "period": "2015-07",
@@ -177,6 +177,10 @@
     {
       "period": "2026-10",
       "views": 45864
+    },
+    {
+      "period": "2026-11",
+      "views": 9958
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 45864
+      "views": 55822
     }
   ]
 }

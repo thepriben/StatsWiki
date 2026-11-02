@@ -4,7 +4,7 @@
   "title": "Jason_Bateman",
   "description": "American actor (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason_Bateman_2018.png?width=64",
-  "total": 12266695,
+  "total": 12277141,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-09",
       "views": 10098
+    },
+    {
+      "period": "2026-11",
+      "views": 10446
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 749664
+      "views": 760110
     }
   ]
 }

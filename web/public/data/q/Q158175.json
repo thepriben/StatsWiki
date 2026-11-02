@@ -4,7 +4,7 @@
   "title": "Kid_Rock",
   "description": "American musician (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kid_Rock%2C_December_2007.jpg?width=64",
-  "total": 3831302,
+  "total": 3841413,
   "monthly": [
     {
       "period": "2015-07",
@@ -193,6 +193,10 @@
     {
       "period": "2026-10",
       "views": 41491
+    },
+    {
+      "period": "2026-11",
+      "views": 10111
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 1144857
+      "views": 1154968
     }
   ]
 }

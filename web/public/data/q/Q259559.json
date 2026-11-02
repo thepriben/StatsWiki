@@ -4,7 +4,7 @@
   "title": "Susan_Saint_James",
   "description": "American actress and activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Susan_Saint_James_1970.JPG?width=64",
-  "total": 603633,
+  "total": 616104,
   "monthly": [
     {
       "period": "2022-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 593452
+    },
+    {
+      "period": "2026-11",
+      "views": 12471
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 593452
+      "views": 605923
     }
   ]
 }

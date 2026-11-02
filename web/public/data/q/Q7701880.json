@@ -4,7 +4,7 @@
   "title": "Terence_Crawford",
   "description": "American boxer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Terence_Crawford_during_a_podcast_in_2023.png?width=64",
-  "total": 5068403,
+  "total": 5085391,
   "monthly": [
     {
       "period": "2015-10",
@@ -189,6 +189,10 @@
     {
       "period": "2026-10",
       "views": 10116
+    },
+    {
+      "period": "2026-11",
+      "views": 16988
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 101621
+      "views": 118609
     }
   ]
 }

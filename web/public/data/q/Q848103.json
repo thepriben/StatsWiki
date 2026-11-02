@@ -4,7 +4,7 @@
   "title": "Milwaukee_Brewers",
   "description": "baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milwaukee_Brewers_baseball_cap.jpg?width=64",
-  "total": 1159060,
+  "total": 1169683,
   "monthly": [
     {
       "period": "2018-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 660820
+    },
+    {
+      "period": "2026-11",
+      "views": 10623
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 660820
+      "views": 671443
     }
   ]
 }

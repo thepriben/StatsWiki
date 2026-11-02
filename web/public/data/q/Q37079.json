@@ -4,7 +4,7 @@
   "title": "Tom_Cruise",
   "description": "American actor and film producer (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?width=64",
-  "total": 83498697,
+  "total": 83511988,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 523172
+    },
+    {
+      "period": "2026-11",
+      "views": 13291
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 4467301
+      "views": 4480592
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Rainmaker_(TV_series)",
   "description": "2025 American television series",
   "image": "",
-  "total": 145667,
+  "total": 161280,
   "monthly": [
     {
       "period": "2025-08",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 17735
+    },
+    {
+      "period": "2026-11",
+      "views": 15613
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 28915
+      "views": 44528
     }
   ]
 }

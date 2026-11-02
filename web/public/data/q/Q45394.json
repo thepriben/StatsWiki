@@ -4,7 +4,7 @@
   "title": "The_Cabin_in_the_Woods",
   "description": "2011 film directed by Drew Goddard",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_cabin_in_the_woods.svg?width=64",
-  "total": 392789,
+  "total": 401631,
   "monthly": [
     {
       "period": "2015-08",
@@ -89,6 +89,10 @@
     {
       "period": "2026-09",
       "views": 15190
+    },
+    {
+      "period": "2026-11",
+      "views": 8842
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 15190
+      "views": 24032
     }
   ]
 }

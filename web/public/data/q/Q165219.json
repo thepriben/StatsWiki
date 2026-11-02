@@ -4,7 +4,7 @@
   "title": "Robert_Downey,_Jr.",
   "description": "American actor (born 1965)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg?width=64",
-  "total": 42404703,
+  "total": 42415876,
   "monthly": [
     {
       "period": "2015-07",
@@ -513,6 +513,10 @@
     {
       "period": "2026-10",
       "views": 114282
+    },
+    {
+      "period": "2026-11",
+      "views": 11173
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 1048681
+      "views": 1059854
     }
   ]
 }

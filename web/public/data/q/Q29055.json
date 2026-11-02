@@ -4,7 +4,7 @@
   "title": "Sacha_Baron_Cohen",
   "description": "British comedian and actor (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacha_Baron_Cohen_%282024%29_01.jpg?width=64",
-  "total": 13304096,
+  "total": 13331833,
   "monthly": [
     {
       "period": "2015-12",
@@ -301,6 +301,10 @@
     {
       "period": "2026-10",
       "views": 408168
+    },
+    {
+      "period": "2026-11",
+      "views": 27737
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 1369954
+      "views": 1397691
     }
   ]
 }

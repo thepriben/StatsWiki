@@ -4,7 +4,7 @@
   "title": "J._J._Abrams",
   "description": "American filmmaker (1966-)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/J._J._Abrams_%2823175170706%29_%28cropped%29.jpg?width=64",
-  "total": 3176906,
+  "total": 3196200,
   "monthly": [
     {
       "period": "2015-07",
@@ -161,6 +161,10 @@
     {
       "period": "2026-07",
       "views": 124433
+    },
+    {
+      "period": "2026-11",
+      "views": 19294
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 241303
+      "views": 260597
     }
   ]
 }

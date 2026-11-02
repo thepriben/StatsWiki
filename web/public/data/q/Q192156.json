@@ -4,7 +4,7 @@
   "title": "Call_of_Duty",
   "description": "video game franchise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Call_of_Duty_logo_2023.svg?width=64",
-  "total": 5752022,
+  "total": 5760787,
   "monthly": [
     {
       "period": "2015-11",
@@ -233,6 +233,10 @@
     {
       "period": "2026-10",
       "views": 182573
+    },
+    {
+      "period": "2026-11",
+      "views": 8765
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 237001
+      "views": 245766
     }
   ]
 }

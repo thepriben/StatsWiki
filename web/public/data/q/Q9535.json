@@ -4,7 +4,7 @@
   "title": "Shah_Rukh_Khan",
   "description": "Indian actor, producer and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg?width=64",
-  "total": 36488508,
+  "total": 36500630,
   "monthly": [
     {
       "period": "2015-07",
@@ -497,6 +497,10 @@
     {
       "period": "2026-09",
       "views": 8176
+    },
+    {
+      "period": "2026-11",
+      "views": 12122
     }
   ],
   "yearly": [
@@ -546,7 +550,7 @@
     },
     {
       "period": "2026",
-      "views": 8176
+      "views": 20298
     }
   ]
 }

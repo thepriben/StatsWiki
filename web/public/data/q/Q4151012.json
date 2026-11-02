@@ -4,7 +4,7 @@
   "title": "Julie_Graham",
   "description": "Scottish actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie_Graham_in_Love_Me_Tender_1997.jpg?width=64",
-  "total": 97766,
+  "total": 118817,
   "monthly": [
     {
       "period": "2016-01",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 47011
+    },
+    {
+      "period": "2026-11",
+      "views": 21051
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 47011
+      "views": 68062
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Grand_Theft_Auto_VI",
   "description": "2026 video game developed and published by Rockstar Games",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Theft_Auto_VI_logo.svg?width=64",
-  "total": 5545405,
+  "total": 5567191,
   "monthly": [
     {
       "period": "2023-12",
@@ -93,6 +93,10 @@
     {
       "period": "2026-10",
       "views": 446525
+    },
+    {
+      "period": "2026-11",
+      "views": 21786
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 2703615
+      "views": 2725401
     }
   ]
 }

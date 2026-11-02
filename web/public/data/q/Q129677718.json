@@ -4,7 +4,7 @@
   "title": "Digger_(2026_film)",
   "description": "2026 film directed by Alejandro G. Iñárritu",
   "image": "",
-  "total": 4209856,
+  "total": 4224998,
   "monthly": [
     {
       "period": "2025-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 2448362
+    },
+    {
+      "period": "2026-11",
+      "views": 15142
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 4048740
+      "views": 4063882
     }
   ]
 }

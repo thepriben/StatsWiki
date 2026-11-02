@@ -4,7 +4,7 @@
   "title": "Susan_Sarandon",
   "description": "American actress and activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg?width=64",
-  "total": 3217604,
+  "total": 3228741,
   "monthly": [
     {
       "period": "2015-11",
@@ -269,6 +269,10 @@
     {
       "period": "2026-10",
       "views": 49448
+    },
+    {
+      "period": "2026-11",
+      "views": 11137
     }
   ],
   "yearly": [
@@ -318,7 +322,7 @@
     },
     {
       "period": "2026",
-      "views": 422043
+      "views": 433180
     }
   ]
 }

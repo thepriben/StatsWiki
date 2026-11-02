@@ -4,7 +4,7 @@
   "title": "Saturday_Night_Live",
   "description": "American late-night live television sketch comedy show",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saturday_Night_Live_logo.jpg?width=64",
-  "total": 4391014,
+  "total": 4400769,
   "monthly": [
     {
       "period": "2015-10",
@@ -345,6 +345,10 @@
     {
       "period": "2026-10",
       "views": 28281
+    },
+    {
+      "period": "2026-11",
+      "views": 9755
     }
   ],
   "yearly": [
@@ -394,7 +398,7 @@
     },
     {
       "period": "2026",
-      "views": 153991
+      "views": 163746
     }
   ]
 }

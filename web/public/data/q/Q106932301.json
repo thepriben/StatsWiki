@@ -4,7 +4,7 @@
   "title": "Inde_Navarrette",
   "description": "American actress (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TIFF-2026-OBSESSION-INDE-NAVARRETTE-01_%28cropped%29.png?width=64",
-  "total": 7001188,
+  "total": 7143251,
   "monthly": [
     {
       "period": "2026-03",
@@ -33,12 +33,16 @@
     {
       "period": "2026-10",
       "views": 512880
+    },
+    {
+      "period": "2026-11",
+      "views": 142063
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 7001188
+      "views": 7143251
     }
   ]
 }

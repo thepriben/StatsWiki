@@ -4,7 +4,7 @@
   "title": "Kate_Siegel",
   "description": "American actress and writer (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate_Siegel_at_the_2024_Toronto_International_Film_Festival_%28better_crop%29.jpg?width=64",
-  "total": 2917913,
+  "total": 2926929,
   "monthly": [
     {
       "period": "2018-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 328124
+    },
+    {
+      "period": "2026-11",
+      "views": 9016
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 328124
+      "views": 337140
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Cynthia_Erivo",
   "description": "British actress and singer-songwriter (born 1987)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cynthia_Erivo_-_Wicked-FYC-1.jpg?width=64",
-  "total": 10951873,
+  "total": 10960810,
   "monthly": [
     {
       "period": "2016-06",
@@ -185,6 +185,10 @@
     {
       "period": "2026-10",
       "views": 151934
+    },
+    {
+      "period": "2026-11",
+      "views": 8937
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 383574
+      "views": 392511
     }
   ]
 }

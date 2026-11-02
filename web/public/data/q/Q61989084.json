@@ -4,7 +4,7 @@
   "title": "Louise_Ford",
   "description": "British comedian and actress",
   "image": "",
-  "total": 195402,
+  "total": 206299,
   "monthly": [
     {
       "period": "2021-01",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 91298
+    },
+    {
+      "period": "2026-11",
+      "views": 10897
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 114155
+      "views": 125052
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Leni_Klum",
   "description": "German-American model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leni_Klum_ghd_2023-01.png?width=64",
-  "total": 49291,
+  "total": 83160,
   "monthly": [
     {
       "period": "2025-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 9829
+    },
+    {
+      "period": "2026-11",
+      "views": 33869
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 9829
+      "views": 43698
     }
   ]
 }

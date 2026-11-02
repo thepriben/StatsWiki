@@ -4,7 +4,7 @@
   "title": "Neve_Campbell",
   "description": "Canadian actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neve_Campbell_04_%2821268333696%29.jpg?width=64",
-  "total": 3320977,
+  "total": 3331790,
   "monthly": [
     {
       "period": "2015-08",
@@ -137,6 +137,10 @@
     {
       "period": "2026-10",
       "views": 11508
+    },
+    {
+      "period": "2026-11",
+      "views": 10813
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 653804
+      "views": 664617
     }
   ]
 }

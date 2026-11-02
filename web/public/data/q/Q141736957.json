@@ -4,17 +4,21 @@
   "title": "Premada_Oorali",
   "description": "",
   "image": "",
-  "total": 186873,
+  "total": 196430,
   "monthly": [
     {
       "period": "2026-10",
       "views": 186873
+    },
+    {
+      "period": "2026-11",
+      "views": 9557
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 186873
+      "views": 196430
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jack_the_Ripper",
   "description": "unidentified 19th century serial killer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JacktheRipper1888.jpg?width=64",
-  "total": 4364630,
+  "total": 4381296,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-10",
       "views": 118097
+    },
+    {
+      "period": "2026-11",
+      "views": 16666
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 135931
+      "views": 152597
     }
   ]
 }

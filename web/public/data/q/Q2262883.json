@@ -1,0 +1,60 @@
+{
+  "qid": "Q2262883",
+  "label": "WNBA Finals",
+  "title": "WNBA_Finals",
+  "description": "championship series of the Women's National Basketball Association",
+  "image": "",
+  "total": 118383,
+  "monthly": [
+    {
+      "period": "2017-10",
+      "views": 23800
+    },
+    {
+      "period": "2020-10",
+      "views": 10976
+    },
+    {
+      "period": "2023-10",
+      "views": 11292
+    },
+    {
+      "period": "2024-10",
+      "views": 39273
+    },
+    {
+      "period": "2025-10",
+      "views": 18473
+    },
+    {
+      "period": "2026-11",
+      "views": 14569
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 23800
+    },
+    {
+      "period": "2020",
+      "views": 10976
+    },
+    {
+      "period": "2023",
+      "views": 11292
+    },
+    {
+      "period": "2024",
+      "views": 39273
+    },
+    {
+      "period": "2025",
+      "views": 18473
+    },
+    {
+      "period": "2026",
+      "views": 14569
+    }
+  ]
+}

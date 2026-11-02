@@ -4,7 +4,7 @@
   "title": "Scream_(1996_film)",
   "description": "1996 film directed by Wes Craven",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scream_logo.jpg?width=64",
-  "total": 2376621,
+  "total": 2395158,
   "monthly": [
     {
       "period": "2015-08",
@@ -109,6 +109,10 @@
     {
       "period": "2026-10",
       "views": 28740
+    },
+    {
+      "period": "2026-11",
+      "views": 18537
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 181321
+      "views": 199858
     }
   ]
 }

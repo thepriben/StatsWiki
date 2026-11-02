@@ -4,7 +4,7 @@
   "title": "Ronald_Araújo",
   "description": "Uruguayan footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg?width=64",
-  "total": 377379,
+  "total": 386409,
   "monthly": [
     {
       "period": "2019-10",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 24006
+    },
+    {
+      "period": "2026-11",
+      "views": 9030
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 299457
+      "views": 308487
     }
   ]
 }

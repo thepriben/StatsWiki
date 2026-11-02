@@ -4,7 +4,7 @@
   "title": "Over_the_Garden_Wall",
   "description": "American animated television miniseries",
   "image": "",
-  "total": 92814,
+  "total": 104969,
   "monthly": [
     {
       "period": "2022-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 11627
+    },
+    {
+      "period": "2026-11",
+      "views": 12155
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 11627
+      "views": 23782
     }
   ]
 }

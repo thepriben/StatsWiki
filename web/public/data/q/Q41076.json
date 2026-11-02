@@ -4,7 +4,7 @@
   "title": "Mariah_Carey",
   "description": "American singer (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mariah_Carey_Library_of_Congress_2023_2_%28cropped%2902.jpg?width=64",
-  "total": 23324404,
+  "total": 23338167,
   "monthly": [
     {
       "period": "2015-07",
@@ -489,6 +489,10 @@
     {
       "period": "2026-10",
       "views": 36935
+    },
+    {
+      "period": "2026-11",
+      "views": 13763
     }
   ],
   "yearly": [
@@ -538,7 +542,7 @@
     },
     {
       "period": "2026",
-      "views": 655576
+      "views": 669339
     }
   ]
 }

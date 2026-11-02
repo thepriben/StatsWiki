@@ -4,7 +4,7 @@
   "title": "Jessica_Lange",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lange_PF_2013.JPG?width=64",
-  "total": 2224867,
+  "total": 2234155,
   "monthly": [
     {
       "period": "2015-08",
@@ -133,6 +133,10 @@
     {
       "period": "2026-10",
       "views": 85418
+    },
+    {
+      "period": "2026-11",
+      "views": 9288
     }
   ],
   "yearly": [
@@ -170,7 +174,7 @@
     },
     {
       "period": "2026",
-      "views": 244518
+      "views": 253806
     }
   ]
 }

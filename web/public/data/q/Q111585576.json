@@ -4,17 +4,21 @@
   "title": "Veronica_Burton",
   "description": "American basketball player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Veronica_Burton.jpg?width=64",
-  "total": 7979,
+  "total": 44936,
   "monthly": [
     {
       "period": "2026-10",
       "views": 7979
+    },
+    {
+      "period": "2026-11",
+      "views": 36957
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 7979
+      "views": 44936
     }
   ]
 }

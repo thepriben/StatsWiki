@@ -4,7 +4,7 @@
   "title": "Dexter_(TV_series)",
   "description": "American crime drama television series (2006–2013)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dexter_Logo.svg?width=64",
-  "total": 4276413,
+  "total": 4287780,
   "monthly": [
     {
       "period": "2015-11",
@@ -133,6 +133,10 @@
     {
       "period": "2026-10",
       "views": 21441
+    },
+    {
+      "period": "2026-11",
+      "views": 11367
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 21441
+      "views": 32808
     }
   ]
 }

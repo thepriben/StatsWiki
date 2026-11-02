@@ -4,7 +4,7 @@
   "title": "Strictly_Come_Dancing_series_24",
   "description": "season of television series",
   "image": "",
-  "total": 386746,
+  "total": 409341,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 270880
+    },
+    {
+      "period": "2026-11",
+      "views": 22595
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 386746
+      "views": 409341
     }
   ]
 }

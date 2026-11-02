@@ -4,7 +4,7 @@
   "title": "Ed_and_Lorraine_Warren",
   "description": "American husband-and-wife paranormal investigators",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorraine_Warren.jpg?width=64",
-  "total": 13980337,
+  "total": 13994234,
   "monthly": [
     {
       "period": "2015-09",
@@ -285,6 +285,10 @@
     {
       "period": "2026-10",
       "views": 20466
+    },
+    {
+      "period": "2026-11",
+      "views": 13897
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 61800
+      "views": 75697
     }
   ]
 }

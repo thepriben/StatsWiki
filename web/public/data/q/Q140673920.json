@@ -4,7 +4,7 @@
   "title": "Ali_G:_Who_Iz_I?",
   "description": "2026 film directed by Sacha Baron Cohen",
   "image": "",
-  "total": 254871,
+  "total": 288126,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 232705
+    },
+    {
+      "period": "2026-11",
+      "views": 33255
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 254871
+      "views": 288126
     }
   ]
 }

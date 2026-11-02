@@ -4,7 +4,7 @@
   "title": "Grace_Reiter",
   "description": "American comedian, writer and actor (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grace_Reiter.jpg?width=64",
-  "total": 125424,
+  "total": 135556,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 57409
+    },
+    {
+      "period": "2026-11",
+      "views": 10132
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 125424
+      "views": 135556
     }
   ]
 }

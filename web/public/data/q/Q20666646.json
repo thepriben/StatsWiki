@@ -4,7 +4,7 @@
   "title": "Halloween_(2018_film)",
   "description": "2018 film by David Gordon Green",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween_2018_logo.svg?width=64",
-  "total": 5724576,
+  "total": 5739190,
   "monthly": [
     {
       "period": "2018-04",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 18503
+    },
+    {
+      "period": "2026-11",
+      "views": 14614
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 18503
+      "views": 33117
     }
   ]
 }
