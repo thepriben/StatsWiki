@@ -1,0 +1,40 @@
+{
+  "qid": "Q65954812",
+  "label": "Mercedes-Benz in Formula One",
+  "title": "Mercedes-Benz_in_Formula_One",
+  "description": "Formula One activities of Mercedes-Benz",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FIA_F1_Austria_2021_Nr._77_Bottas.jpg?width=64",
+  "total": 120795,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 12607
+    },
+    {
+      "period": "2021-12",
+      "views": 90270
+    },
+    {
+      "period": "2026-03",
+      "views": 10081
+    },
+    {
+      "period": "2026-11",
+      "views": 7837
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12607
+    },
+    {
+      "period": "2021",
+      "views": 90270
+    },
+    {
+      "period": "2026",
+      "views": 17918
+    }
+  ]
+}

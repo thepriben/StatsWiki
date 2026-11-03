@@ -4,7 +4,7 @@
   "title": "George_VI",
   "description": "King of the United Kingdom from 1936 to 1952",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?width=64",
-  "total": 74096582,
+  "total": 74105717,
   "monthly": [
     {
       "period": "2015-07",
@@ -541,6 +541,10 @@
     {
       "period": "2026-10",
       "views": 245320
+    },
+    {
+      "period": "2026-11",
+      "views": 9135
     }
   ],
   "yearly": [
@@ -590,7 +594,7 @@
     },
     {
       "period": "2026",
-      "views": 2937267
+      "views": 2946402
     }
   ]
 }

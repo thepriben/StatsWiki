@@ -4,7 +4,7 @@
   "title": "Alaska_Airlines_Flight_261",
   "description": "fatal aviation accident that occurred on January 31, 2000 over the Pacific Ocean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Airplane_animation_261_still_lg.PNG?width=64",
-  "total": 558488,
+  "total": 567195,
   "monthly": [
     {
       "period": "2016-03",
@@ -61,6 +61,10 @@
     {
       "period": "2026-08",
       "views": 50701
+    },
+    {
+      "period": "2026-11",
+      "views": 8707
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 104393
+      "views": 113100
     }
   ]
 }

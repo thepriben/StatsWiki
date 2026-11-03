@@ -1,0 +1,112 @@
+{
+  "qid": "Q1311060",
+  "label": "Melbourne Cup",
+  "title": "Melbourne_Cup",
+  "description": "Australian horse race held at Flemington, Melbourne each year",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Protectionist_before_the_2014_Melbourne_Cup.jpg?width=64",
+  "total": 571403,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 100321
+    },
+    {
+      "period": "2016-10",
+      "views": 20662
+    },
+    {
+      "period": "2016-11",
+      "views": 41450
+    },
+    {
+      "period": "2017-11",
+      "views": 69305
+    },
+    {
+      "period": "2018-11",
+      "views": 76302
+    },
+    {
+      "period": "2019-11",
+      "views": 53813
+    },
+    {
+      "period": "2020-11",
+      "views": 12460
+    },
+    {
+      "period": "2021-11",
+      "views": 47256
+    },
+    {
+      "period": "2022-10",
+      "views": 12350
+    },
+    {
+      "period": "2023-11",
+      "views": 55981
+    },
+    {
+      "period": "2024-11",
+      "views": 29980
+    },
+    {
+      "period": "2025-11",
+      "views": 43656
+    },
+    {
+      "period": "2026-11",
+      "views": 7867
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 100321
+    },
+    {
+      "period": "2016",
+      "views": 62112
+    },
+    {
+      "period": "2017",
+      "views": 69305
+    },
+    {
+      "period": "2018",
+      "views": 76302
+    },
+    {
+      "period": "2019",
+      "views": 53813
+    },
+    {
+      "period": "2020",
+      "views": 12460
+    },
+    {
+      "period": "2021",
+      "views": 47256
+    },
+    {
+      "period": "2022",
+      "views": 12350
+    },
+    {
+      "period": "2023",
+      "views": 55981
+    },
+    {
+      "period": "2024",
+      "views": 29980
+    },
+    {
+      "period": "2025",
+      "views": 43656
+    },
+    {
+      "period": "2026",
+      "views": 7867
+    }
+  ]
+}

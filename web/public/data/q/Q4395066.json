@@ -4,7 +4,7 @@
   "title": "Amy_Robach",
   "description": "American television journalist, correspondent and anchor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Robach.jpg?width=64",
-  "total": 1261180,
+  "total": 1269460,
   "monthly": [
     {
       "period": "2015-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 28502
+    },
+    {
+      "period": "2026-11",
+      "views": 8280
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 28502
+      "views": 36782
     }
   ]
 }

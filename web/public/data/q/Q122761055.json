@@ -4,7 +4,7 @@
   "title": "2026_United_States_Senate_election_in_Maine",
   "description": "class II election for U.S. senator from Maine",
   "image": "",
-  "total": 419356,
+  "total": 430537,
   "monthly": [
     {
       "period": "2025-10",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 7715
+    },
+    {
+      "period": "2026-11",
+      "views": 11181
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 376420
+      "views": 387601
     }
   ]
 }

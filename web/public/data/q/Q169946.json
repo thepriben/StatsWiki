@@ -4,7 +4,7 @@
   "title": "Kate_Hudson",
   "description": "American actress and singer (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate_Hudson_-_Song_Sung_Blue.jpg?width=64",
-  "total": 18820376,
+  "total": 18830905,
   "monthly": [
     {
       "period": "2015-07",
@@ -469,6 +469,10 @@
     {
       "period": "2026-10",
       "views": 38559
+    },
+    {
+      "period": "2026-11",
+      "views": 10529
     }
   ],
   "yearly": [
@@ -518,7 +522,7 @@
     },
     {
       "period": "2026",
-      "views": 3152550
+      "views": 3163079
     }
   ]
 }

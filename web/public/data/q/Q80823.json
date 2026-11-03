@@ -4,7 +4,7 @@
   "title": "Anne_Boleyn",
   "description": "second wife of Henry VIII of England (died 1536)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_boleyn.jpg?width=64",
-  "total": 5507616,
+  "total": 5516117,
   "monthly": [
     {
       "period": "2016-02",
@@ -341,6 +341,10 @@
     {
       "period": "2026-10",
       "views": 45172
+    },
+    {
+      "period": "2026-11",
+      "views": 8501
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 458215
+      "views": 466716
     }
   ]
 }

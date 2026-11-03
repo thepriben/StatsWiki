@@ -4,7 +4,7 @@
   "title": "Trey_McBride",
   "description": "American football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trey_McBride.jpg?width=64",
-  "total": 117675,
+  "total": 129470,
   "monthly": [
     {
       "period": "2022-04",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 15925
+    },
+    {
+      "period": "2026-11",
+      "views": 11795
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 25518
+      "views": 37313
     }
   ]
 }

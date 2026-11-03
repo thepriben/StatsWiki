@@ -4,7 +4,7 @@
   "title": "United_States_presidential_election,_2016",
   "description": "58th quadrennial U.S. presidential election",
   "image": "",
-  "total": 62790669,
+  "total": 62800581,
   "monthly": [
     {
       "period": "2015-07",
@@ -385,6 +385,10 @@
     {
       "period": "2026-10",
       "views": 8156
+    },
+    {
+      "period": "2026-11",
+      "views": 9912
     }
   ],
   "yearly": [
@@ -434,7 +438,7 @@
     },
     {
       "period": "2026",
-      "views": 8156
+      "views": 18068
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kate_&_Allie",
   "description": "American sitcom",
   "image": "",
-  "total": 54288,
+  "total": 66909,
   "monthly": [
     {
       "period": "2025-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 44180
+    },
+    {
+      "period": "2026-11",
+      "views": 12621
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 44180
+      "views": 56801
     }
   ]
 }

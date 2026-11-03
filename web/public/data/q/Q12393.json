@@ -4,7 +4,7 @@
   "title": "The_Legend_of_Zelda",
   "description": "video game series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zelda_Logo.svg?width=64",
-  "total": 930133,
+  "total": 949100,
   "monthly": [
     {
       "period": "2016-02",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 41552
+    },
+    {
+      "period": "2026-11",
+      "views": 18967
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 60637
+      "views": 79604
     }
   ]
 }

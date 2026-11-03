@@ -4,7 +4,7 @@
   "title": "2026_United_States_Senate_election_in_Iowa",
   "description": "class II election for U.S. senator from Iowa",
   "image": "",
-  "total": 28380,
+  "total": 39281,
   "monthly": [
     {
       "period": "2025-08",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 15617
+    },
+    {
+      "period": "2026-11",
+      "views": 10901
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 15617
+      "views": 26518
     }
   ]
 }

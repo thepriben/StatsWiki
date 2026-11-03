@@ -4,7 +4,7 @@
   "title": "Joe_Biden",
   "description": "46th President of the United States (2021–2025)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_presidential_portrait.jpg?width=64",
-  "total": 99237841,
+  "total": 99248195,
   "monthly": [
     {
       "period": "2015-08",
@@ -505,6 +505,10 @@
     {
       "period": "2026-10",
       "views": 190323
+    },
+    {
+      "period": "2026-11",
+      "views": 10354
     }
   ],
   "yearly": [
@@ -554,7 +558,7 @@
     },
     {
       "period": "2026",
-      "views": 3372672
+      "views": 3383026
     }
   ]
 }

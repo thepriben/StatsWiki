@@ -4,7 +4,7 @@
   "title": "2026_Ohio_gubernatorial_election",
   "description": "election for Governor of Ohio",
   "image": "",
-  "total": 320935,
+  "total": 332272,
   "monthly": [
     {
       "period": "2025-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 181989
+    },
+    {
+      "period": "2026-11",
+      "views": 11337
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 238900
+      "views": 250237
     }
   ]
 }

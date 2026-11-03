@@ -4,17 +4,37 @@
   "title": "Epidemiologist",
   "description": "study of the patterns, causes, and effects of health and disease conditions",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/3548786222_7a3d3208d3_bInfluenzaGrippe.jpg?width=64",
-  "total": 34180,
+  "total": 94469,
   "monthly": [
+    {
+      "period": "2016-07",
+      "views": 40229
+    },
+    {
+      "period": "2024-08",
+      "views": 12286
+    },
     {
       "period": "2026-08",
       "views": 34180
+    },
+    {
+      "period": "2026-11",
+      "views": 7774
     }
   ],
   "yearly": [
     {
+      "period": "2016",
+      "views": 40229
+    },
+    {
+      "period": "2024",
+      "views": 12286
+    },
+    {
       "period": "2026",
-      "views": 34180
+      "views": 41954
     }
   ]
 }

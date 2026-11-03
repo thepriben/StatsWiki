@@ -4,7 +4,7 @@
   "title": "Tanner_McKee",
   "description": "American football player (born 2000)",
   "image": "",
-  "total": 490395,
+  "total": 588627,
   "monthly": [
     {
       "period": "2023-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 242587
+    },
+    {
+      "period": "2026-11",
+      "views": 98232
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 275406
+      "views": 373638
     }
   ]
 }

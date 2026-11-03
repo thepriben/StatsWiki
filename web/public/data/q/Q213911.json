@@ -4,7 +4,7 @@
   "title": "The_Legend_of_Zelda:_Ocarina_of_Time",
   "description": "1998 video game for the Nintendo 64",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Legend_of_Zelda_Ocarina_of_Time.svg?width=64",
-  "total": 164551,
+  "total": 199429,
   "monthly": [
     {
       "period": "2016-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-09",
       "views": 75120
+    },
+    {
+      "period": "2026-11",
+      "views": 34878
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 136856
+      "views": 171734
     }
   ]
 }

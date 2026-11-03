@@ -4,7 +4,7 @@
   "title": "HTTP_cookie",
   "description": "small piece of data sent from a website and stored on the user's computer by the user's web browser",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Internetcookie.png?width=64",
-  "total": 28016740,
+  "total": 28026770,
   "monthly": [
     {
       "period": "2016-03",
@@ -461,6 +461,10 @@
     {
       "period": "2026-10",
       "views": 197453
+    },
+    {
+      "period": "2026-11",
+      "views": 10030
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 1945611
+      "views": 1955641
     }
   ]
 }

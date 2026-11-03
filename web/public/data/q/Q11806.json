@@ -4,7 +4,7 @@
   "title": "John_Adams",
   "description": "Founding Father, U.S. president from 1797 to 1801 (1735–1826)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Adams_A18236.jpg?width=64",
-  "total": 3219671,
+  "total": 3227943,
   "monthly": [
     {
       "period": "2015-07",
@@ -169,6 +169,10 @@
     {
       "period": "2026-10",
       "views": 58094
+    },
+    {
+      "period": "2026-11",
+      "views": 8272
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 254295
+      "views": 262567
     }
   ]
 }

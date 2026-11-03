@@ -4,7 +4,7 @@
   "title": "Cris_Collinsworth",
   "description": "American football player and sports broadcaster (born 1959)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cris_Collinsworth_%2837045366070%29.jpg?width=64",
-  "total": 4290605,
+  "total": 4302335,
   "monthly": [
     {
       "period": "2015-09",
@@ -241,6 +241,10 @@
     {
       "period": "2026-10",
       "views": 73053
+    },
+    {
+      "period": "2026-11",
+      "views": 11730
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 363998
+      "views": 375728
     }
   ]
 }

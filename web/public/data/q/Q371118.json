@@ -4,7 +4,7 @@
   "title": "Mike_Tomlin",
   "description": "American football coach (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Tomlin.jpg?width=64",
-  "total": 4252604,
+  "total": 4267453,
   "monthly": [
     {
       "period": "2015-08",
@@ -233,6 +233,10 @@
     {
       "period": "2026-10",
       "views": 149155
+    },
+    {
+      "period": "2026-11",
+      "views": 14849
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 1064038
+      "views": 1078887
     }
   ]
 }

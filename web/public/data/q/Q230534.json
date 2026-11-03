@@ -4,7 +4,7 @@
   "title": "Rebecca_Hall",
   "description": "English actress and filmmaker (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rebecca_Hall_%282024%29_%28cropped%29.jpg?width=64",
-  "total": 1805906,
+  "total": 1819256,
   "monthly": [
     {
       "period": "2015-08",
@@ -145,6 +145,10 @@
     {
       "period": "2026-10",
       "views": 111105
+    },
+    {
+      "period": "2026-11",
+      "views": 13350
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 693915
+      "views": 707265
     }
   ]
 }

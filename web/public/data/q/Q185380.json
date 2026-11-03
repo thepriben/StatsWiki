@@ -1,0 +1,60 @@
+{
+  "qid": "Q185380",
+  "label": "Air France Flight 447",
+  "title": "Air_France_Flight_447",
+  "description": "2009 plane crash of an Air France Airbus A330 in the Atlantic Ocean",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PKIERZKOWSKI_070328_FGZCP_CDG.jpg?width=64",
+  "total": 365479,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 46656
+    },
+    {
+      "period": "2022-10",
+      "views": 31437
+    },
+    {
+      "period": "2023-04",
+      "views": 40524
+    },
+    {
+      "period": "2023-06",
+      "views": 10172
+    },
+    {
+      "period": "2024-04",
+      "views": 133919
+    },
+    {
+      "period": "2026-05",
+      "views": 91418
+    },
+    {
+      "period": "2026-11",
+      "views": 11353
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 46656
+    },
+    {
+      "period": "2022",
+      "views": 31437
+    },
+    {
+      "period": "2023",
+      "views": 50696
+    },
+    {
+      "period": "2024",
+      "views": 133919
+    },
+    {
+      "period": "2026",
+      "views": 102771
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "AIPAC",
   "description": "American lobbying group advocating for pro-Israel policies",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mayer_Mitchell_Building.jpg?width=64",
-  "total": 187263,
+  "total": 199014,
   "monthly": [
     {
       "period": "2024-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 26855
+    },
+    {
+      "period": "2026-11",
+      "views": 11751
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 48938
+      "views": 60689
     }
   ]
 }

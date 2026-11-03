@@ -4,7 +4,7 @@
   "title": "Russell_Brand",
   "description": "English comedian, actor, and podcaster (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Russell_Brand_2025.jpg?width=64",
-  "total": 5048066,
+  "total": 5060464,
   "monthly": [
     {
       "period": "2015-09",
@@ -225,6 +225,10 @@
     {
       "period": "2026-10",
       "views": 427940
+    },
+    {
+      "period": "2026-11",
+      "views": 12398
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 694263
+      "views": 706661
     }
   ]
 }

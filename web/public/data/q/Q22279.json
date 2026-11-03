@@ -4,7 +4,7 @@
   "title": "Susan_Collins",
   "description": "United States Senator from Maine since 1997",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sen_Susan_Collins_official.jpg?width=64",
-  "total": 1606600,
+  "total": 1615331,
   "monthly": [
     {
       "period": "2016-08",
@@ -125,6 +125,10 @@
     {
       "period": "2026-10",
       "views": 45007
+    },
+    {
+      "period": "2026-11",
+      "views": 8731
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 273374
+      "views": 282105
     }
   ]
 }

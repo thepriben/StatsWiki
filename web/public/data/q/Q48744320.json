@@ -4,7 +4,7 @@
   "title": "The_Rookie",
   "description": "2018 American police procedural television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Rookie_%28American_Broadcasting_Company_television_series_logo%29.svg?width=64",
-  "total": 11452409,
+  "total": 11460151,
   "monthly": [
     {
       "period": "2018-05",
@@ -289,6 +289,10 @@
     {
       "period": "2026-10",
       "views": 260880
+    },
+    {
+      "period": "2026-11",
+      "views": 7742
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 2569850
+      "views": 2577592
     }
   ]
 }

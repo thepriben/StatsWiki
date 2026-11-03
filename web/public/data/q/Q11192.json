@@ -4,7 +4,7 @@
   "title": "Kimi_Räikkönen",
   "description": "Finnish racing driver",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg?width=64",
-  "total": 951628,
+  "total": 960812,
   "monthly": [
     {
       "period": "2016-05",
@@ -97,6 +97,10 @@
     {
       "period": "2026-09",
       "views": 9281
+    },
+    {
+      "period": "2026-11",
+      "views": 9184
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 9281
+      "views": 18465
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Christa_Miller",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christa_Miller_at_PaleyLive_Shrinking_2024.jpg?width=64",
-  "total": 249303,
+  "total": 257243,
   "monthly": [
     {
       "period": "2023-01",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 31776
+    },
+    {
+      "period": "2026-11",
+      "views": 7940
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 144683
+      "views": 152623
     }
   ]
 }

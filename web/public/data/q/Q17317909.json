@@ -4,7 +4,7 @@
   "title": "Carrie_Coon",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrie_Coon_at_2013_Toronto_Film_Festival.jpg?width=64",
-  "total": 3486357,
+  "total": 3495627,
   "monthly": [
     {
       "period": "2017-04",
@@ -109,6 +109,10 @@
     {
       "period": "2026-08",
       "views": 20097
+    },
+    {
+      "period": "2026-11",
+      "views": 9270
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 65495
+      "views": 74765
     }
   ]
 }

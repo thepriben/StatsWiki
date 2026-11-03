@@ -4,7 +4,7 @@
   "title": "UBlock_Origin",
   "description": "web browser ad blocking extension",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshot_of_the_uBlock_Origin_UI_on_Firefox.png?width=64",
-  "total": 734450,
+  "total": 744138,
   "monthly": [
     {
       "period": "2026-03",
@@ -25,12 +25,16 @@
     {
       "period": "2026-10",
       "views": 203246
+    },
+    {
+      "period": "2026-11",
+      "views": 9688
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 734450
+      "views": 744138
     }
   ]
 }

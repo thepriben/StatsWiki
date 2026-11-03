@@ -4,7 +4,7 @@
   "title": "Elisabeth_Shue",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elisabeth_Shue_at_the_2009_Tribeca_Film_Festival.jpg?width=64",
-  "total": 3617595,
+  "total": 3626068,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-10",
       "views": 42322
+    },
+    {
+      "period": "2026-11",
+      "views": 8473
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 77748
+      "views": 86221
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lanterns_(TV_series)",
   "description": "2026 HBO television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lanterns_%28TV_series%29_logo.png?width=64",
-  "total": 4917743,
+  "total": 4925858,
   "monthly": [
     {
       "period": "2025-07",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 973673
+    },
+    {
+      "period": "2026-11",
+      "views": 8115
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 4806926
+      "views": 4815041
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Michigan",
   "description": "state of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS015-E-6196_-_View_of_Michigan.jpg?width=64",
-  "total": 325513,
+  "total": 334915,
   "monthly": [
     {
       "period": "2016-03",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 22009
+    },
+    {
+      "period": "2026-11",
+      "views": 9402
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 22009
+      "views": 31411
     }
   ]
 }

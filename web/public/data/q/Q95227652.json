@@ -4,7 +4,7 @@
   "title": "Luke_McCaffrey",
   "description": "American football player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Commanders_Training_Camp_-_54752501769.jpg?width=64",
-  "total": 701348,
+  "total": 719485,
   "monthly": [
     {
       "period": "2023-12",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 151209
+    },
+    {
+      "period": "2026-11",
+      "views": 18137
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 151209
+      "views": 169346
     }
   ]
 }

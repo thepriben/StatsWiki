@@ -4,7 +4,7 @@
   "title": "Amitabh_Bachchan",
   "description": "Indian film actor (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amitabh_Bachchan.jpg?width=64",
-  "total": 7630349,
+  "total": 7640593,
   "monthly": [
     {
       "period": "2015-08",
@@ -333,6 +333,10 @@
     {
       "period": "2026-10",
       "views": 84302
+    },
+    {
+      "period": "2026-11",
+      "views": 10244
     }
   ],
   "yearly": [
@@ -382,7 +386,7 @@
     },
     {
       "period": "2026",
-      "views": 106652
+      "views": 116896
     }
   ]
 }

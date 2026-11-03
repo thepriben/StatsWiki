@@ -4,7 +4,7 @@
   "title": "Richard_Nixon",
   "description": "president of the United States from 1969 to 1974 (1913–1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Nixon_presidential_portrait.jpg?width=64",
-  "total": 30691404,
+  "total": 30699170,
   "monthly": [
     {
       "period": "2015-07",
@@ -517,6 +517,10 @@
     {
       "period": "2026-09",
       "views": 8921
+    },
+    {
+      "period": "2026-11",
+      "views": 7766
     }
   ],
   "yearly": [
@@ -566,7 +570,7 @@
     },
     {
       "period": "2026",
-      "views": 784776
+      "views": 792542
     }
   ]
 }
