@@ -4,17 +4,21 @@
   "title": "946_(professional_wrestling)",
   "description": "professional wrestling stable in WWE",
   "image": "",
-  "total": 14227,
+  "total": 30780,
   "monthly": [
     {
       "period": "2026-10",
       "views": 14227
+    },
+    {
+      "period": "2026-11",
+      "views": 16553
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 14227
+      "views": 30780
     }
   ]
 }

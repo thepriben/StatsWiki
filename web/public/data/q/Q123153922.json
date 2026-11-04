@@ -1,0 +1,40 @@
+{
+  "qid": "Q123153922",
+  "label": "Black Doves",
+  "title": "Black_Doves",
+  "description": "British Television series",
+  "image": "",
+  "total": 2426819,
+  "monthly": [
+    {
+      "period": "2024-12",
+      "views": 1763263
+    },
+    {
+      "period": "2025-01",
+      "views": 642529
+    },
+    {
+      "period": "2025-02",
+      "views": 12313
+    },
+    {
+      "period": "2026-11",
+      "views": 8714
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 1763263
+    },
+    {
+      "period": "2025",
+      "views": 654842
+    },
+    {
+      "period": "2026",
+      "views": 8714
+    }
+  ]
+}

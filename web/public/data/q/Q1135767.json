@@ -4,7 +4,7 @@
   "title": "Cory_Booker",
   "description": "American politician (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cory_Booker_2011_Shankbone.JPG?width=64",
-  "total": 5399560,
+  "total": 5407701,
   "monthly": [
     {
       "period": "2016-02",
@@ -193,6 +193,10 @@
     {
       "period": "2026-09",
       "views": 9326
+    },
+    {
+      "period": "2026-11",
+      "views": 8141
     }
   ],
   "yearly": [
@@ -238,7 +242,7 @@
     },
     {
       "period": "2026",
-      "views": 89835
+      "views": 97976
     }
   ]
 }

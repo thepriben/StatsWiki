@@ -1,0 +1,56 @@
+{
+  "qid": "Q917069",
+  "label": "rhabdomyolysis",
+  "title": "Rhabdomyolysis",
+  "description": "disease",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RhabdoUrine.JPG?width=64",
+  "total": 145701,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 21946
+    },
+    {
+      "period": "2017-01",
+      "views": 13895
+    },
+    {
+      "period": "2017-10",
+      "views": 16186
+    },
+    {
+      "period": "2023-01",
+      "views": 11941
+    },
+    {
+      "period": "2024-09",
+      "views": 42605
+    },
+    {
+      "period": "2026-11",
+      "views": 39128
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21946
+    },
+    {
+      "period": "2017",
+      "views": 30081
+    },
+    {
+      "period": "2023",
+      "views": 11941
+    },
+    {
+      "period": "2024",
+      "views": 42605
+    },
+    {
+      "period": "2026",
+      "views": 39128
+    }
+  ]
+}

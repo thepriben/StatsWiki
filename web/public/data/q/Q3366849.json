@@ -1,0 +1,32 @@
+{
+  "qid": "Q3366849",
+  "label": "Voter turnout in the United States presidential elections",
+  "title": "Voter_turnout_in_United_States_presidential_elections",
+  "description": "aspect of election history",
+  "image": "",
+  "total": 696079,
+  "monthly": [
+    {
+      "period": "2024-10",
+      "views": 34464
+    },
+    {
+      "period": "2024-11",
+      "views": 653911
+    },
+    {
+      "period": "2026-11",
+      "views": 7704
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 688375
+    },
+    {
+      "period": "2026",
+      "views": 7704
+    }
+  ]
+}

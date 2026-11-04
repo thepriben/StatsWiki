@@ -4,7 +4,7 @@
   "title": "Anderson_Cooper",
   "description": "American journalist (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anderson_Cooper_crop.jpg?width=64",
-  "total": 7778113,
+  "total": 7786259,
   "monthly": [
     {
       "period": "2015-09",
@@ -321,6 +321,10 @@
     {
       "period": "2026-07",
       "views": 22392
+    },
+    {
+      "period": "2026-11",
+      "views": 8146
     }
   ],
   "yearly": [
@@ -370,7 +374,7 @@
     },
     {
       "period": "2026",
-      "views": 256849
+      "views": 264995
     }
   ]
 }

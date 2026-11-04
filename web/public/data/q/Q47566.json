@@ -1,0 +1,124 @@
+{
+  "qid": "Q47566",
+  "label": "United States presidential election",
+  "title": "United_States_presidential_election",
+  "description": "type of election in the United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016_Presidential_Election_by_County_%28Red-Blue-Purple_View%29.svg?width=64",
+  "total": 3813650,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 11472
+    },
+    {
+      "period": "2016-02",
+      "views": 241603
+    },
+    {
+      "period": "2016-03",
+      "views": 243295
+    },
+    {
+      "period": "2016-04",
+      "views": 22577
+    },
+    {
+      "period": "2016-05",
+      "views": 27665
+    },
+    {
+      "period": "2016-07",
+      "views": 17675
+    },
+    {
+      "period": "2016-09",
+      "views": 14126
+    },
+    {
+      "period": "2016-10",
+      "views": 163834
+    },
+    {
+      "period": "2016-11",
+      "views": 913651
+    },
+    {
+      "period": "2018-11",
+      "views": 15561
+    },
+    {
+      "period": "2019-07",
+      "views": 22592
+    },
+    {
+      "period": "2020-03",
+      "views": 13020
+    },
+    {
+      "period": "2020-07",
+      "views": 10680
+    },
+    {
+      "period": "2020-09",
+      "views": 16540
+    },
+    {
+      "period": "2020-10",
+      "views": 198847
+    },
+    {
+      "period": "2020-11",
+      "views": 1173753
+    },
+    {
+      "period": "2021-01",
+      "views": 12791
+    },
+    {
+      "period": "2024-10",
+      "views": 43323
+    },
+    {
+      "period": "2024-11",
+      "views": 630764
+    },
+    {
+      "period": "2026-11",
+      "views": 19881
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 11472
+    },
+    {
+      "period": "2016",
+      "views": 1644426
+    },
+    {
+      "period": "2018",
+      "views": 15561
+    },
+    {
+      "period": "2019",
+      "views": 22592
+    },
+    {
+      "period": "2020",
+      "views": 1412840
+    },
+    {
+      "period": "2021",
+      "views": 12791
+    },
+    {
+      "period": "2024",
+      "views": 674087
+    },
+    {
+      "period": "2026",
+      "views": 19881
+    }
+  ]
+}

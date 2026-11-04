@@ -4,7 +4,7 @@
   "title": "Vietnam",
   "description": "country in Southeast Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%ADo_Saig%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_29.JPG?width=64",
-  "total": 11112416,
+  "total": 11120947,
   "monthly": [
     {
       "period": "2015-07",
@@ -453,6 +453,10 @@
     {
       "period": "2026-10",
       "views": 16262
+    },
+    {
+      "period": "2026-11",
+      "views": 8531
     }
   ],
   "yearly": [
@@ -502,7 +506,7 @@
     },
     {
       "period": "2026",
-      "views": 147779
+      "views": 156310
     }
   ]
 }

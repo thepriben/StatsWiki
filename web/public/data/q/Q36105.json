@@ -4,7 +4,7 @@
   "title": "Charles_Bronson",
   "description": "American actor (1921–2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Bronson_Cannes.jpg?width=64",
-  "total": 2054621,
+  "total": 2063993,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-10",
       "views": 8709
+    },
+    {
+      "period": "2026-11",
+      "views": 9372
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 21333
+      "views": 30705
     }
   ]
 }

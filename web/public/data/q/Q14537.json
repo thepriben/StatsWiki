@@ -4,7 +4,7 @@
   "title": "Bill_Hader",
   "description": "American comedian and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Hader_%2829419489470%29_%28cropped%29.jpg?width=64",
-  "total": 4365677,
+  "total": 4380214,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-10",
       "views": 9796
+    },
+    {
+      "period": "2026-11",
+      "views": 14537
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 39066
+      "views": 53603
     }
   ]
 }

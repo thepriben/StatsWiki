@@ -4,7 +4,7 @@
   "title": "Henry_Winkler",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Winkler_%2843968252532%29.jpg?width=64",
-  "total": 1695093,
+  "total": 1703482,
   "monthly": [
     {
       "period": "2015-10",
@@ -169,6 +169,10 @@
     {
       "period": "2026-09",
       "views": 35092
+    },
+    {
+      "period": "2026-11",
+      "views": 8389
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 72828
+      "views": 81217
     }
   ]
 }

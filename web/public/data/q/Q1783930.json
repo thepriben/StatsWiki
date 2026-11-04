@@ -4,7 +4,7 @@
   "title": "Triangle_(2009_British_film)",
   "description": "2009 film directed by Christopher Smith",
   "image": "",
-  "total": 172779,
+  "total": 180416,
   "monthly": [
     {
       "period": "2023-06",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 9517
+    },
+    {
+      "period": "2026-11",
+      "views": 7637
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 9517
+      "views": 17154
     }
   ]
 }

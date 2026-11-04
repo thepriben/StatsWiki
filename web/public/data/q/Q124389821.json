@@ -4,7 +4,7 @@
   "title": "Brian_Fleury",
   "description": "American football player and coach",
   "image": "",
-  "total": 25304,
+  "total": 33600,
   "monthly": [
     {
       "period": "2026-02",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 12691
+    },
+    {
+      "period": "2026-11",
+      "views": 8296
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 25304
+      "views": 33600
     }
   ]
 }

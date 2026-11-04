@@ -4,7 +4,7 @@
   "title": "Amber_Glenn",
   "description": "American figure skater",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Glenn_%28USA%29_2026%282%29.jpg?width=64",
-  "total": 1581210,
+  "total": 1592829,
   "monthly": [
     {
       "period": "2024-01",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 63816
+    },
+    {
+      "period": "2026-11",
+      "views": 11619
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 1499271
+      "views": 1510890
     }
   ]
 }

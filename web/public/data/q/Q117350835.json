@@ -4,7 +4,7 @@
   "title": "2026_California_gubernatorial_election",
   "description": "election for governor of California",
   "image": "",
-  "total": 1587040,
+  "total": 1601323,
   "monthly": [
     {
       "period": "2025-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 383840
+    },
+    {
+      "period": "2026-11",
+      "views": 14283
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 1390459
+      "views": 1404742
     }
   ]
 }

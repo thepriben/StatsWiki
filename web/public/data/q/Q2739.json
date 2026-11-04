@@ -4,7 +4,7 @@
   "title": "AS_Roma",
   "description": "association football club in Rome, Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UECL_2022-04-14_AS_Roma_x_Bod%C3%B8-Glimt_-_South_Stand.jpg?width=64",
-  "total": 131306,
+  "total": 143861,
   "monthly": [
     {
       "period": "2023-08",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 7792
+    },
+    {
+      "period": "2026-11",
+      "views": 12555
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 7792
+      "views": 20347
     }
   ]
 }

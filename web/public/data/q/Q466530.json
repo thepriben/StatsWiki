@@ -1,0 +1,48 @@
+{
+  "qid": "Q466530",
+  "label": "The Elder Scrolls",
+  "title": "The_Elder_Scrolls",
+  "description": "video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ElderScrolls_Logo.png?width=64",
+  "total": 289335,
+  "monthly": [
+    {
+      "period": "2018-04",
+      "views": 22069
+    },
+    {
+      "period": "2018-06",
+      "views": 77264
+    },
+    {
+      "period": "2020-09",
+      "views": 11016
+    },
+    {
+      "period": "2025-04",
+      "views": 165603
+    },
+    {
+      "period": "2026-11",
+      "views": 13383
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 99333
+    },
+    {
+      "period": "2020",
+      "views": 11016
+    },
+    {
+      "period": "2025",
+      "views": 165603
+    },
+    {
+      "period": "2026",
+      "views": 13383
+    }
+  ]
+}

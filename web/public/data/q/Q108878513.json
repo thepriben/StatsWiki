@@ -4,7 +4,7 @@
   "title": "Caleb_Williams",
   "description": "American football player (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caleb_Williams_%2854858668366%29_%28cropped%29.jpg?width=64",
-  "total": 1990551,
+  "total": 2031873,
   "monthly": [
     {
       "period": "2023-09",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 54565
+    },
+    {
+      "period": "2026-11",
+      "views": 41322
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 676280
+      "views": 717602
     }
   ]
 }

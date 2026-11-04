@@ -4,7 +4,7 @@
   "title": "Jon_Stewart",
   "description": "American comedian, writer, producer, activist, and television host",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stewart_-_USO-Metro_Merit_Awards_2.jpg?width=64",
-  "total": 3341980,
+  "total": 3356314,
   "monthly": [
     {
       "period": "2015-07",
@@ -197,6 +197,10 @@
     {
       "period": "2026-09",
       "views": 18704
+    },
+    {
+      "period": "2026-11",
+      "views": 14334
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 132237
+      "views": 146571
     }
   ]
 }

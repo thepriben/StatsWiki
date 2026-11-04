@@ -1,0 +1,44 @@
+{
+  "qid": "Q204342",
+  "label": "USS Enterprise",
+  "title": "USS_Enterprise_(CVN-65)",
+  "description": "former Enterprise-class aircraft carrier launched in 1960 and decommissioned in 2017",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?width=64",
+  "total": 549116,
+  "monthly": [
+    {
+      "period": "2015-12",
+      "views": 511505
+    },
+    {
+      "period": "2017-02",
+      "views": 12806
+    },
+    {
+      "period": "2019-01",
+      "views": 16695
+    },
+    {
+      "period": "2026-11",
+      "views": 8110
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 511505
+    },
+    {
+      "period": "2017",
+      "views": 12806
+    },
+    {
+      "period": "2019",
+      "views": 16695
+    },
+    {
+      "period": "2026",
+      "views": 8110
+    }
+  ]
+}

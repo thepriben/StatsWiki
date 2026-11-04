@@ -4,7 +4,7 @@
   "title": "Hakeem_Jeffries",
   "description": "American politician (born 1970)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hakeem_Jeffries_official_portrait.jpg?width=64",
-  "total": 2493543,
+  "total": 2503259,
   "monthly": [
     {
       "period": "2017-11",
@@ -113,6 +113,10 @@
     {
       "period": "2026-08",
       "views": 15267
+    },
+    {
+      "period": "2026-11",
+      "views": 9716
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 44292
+      "views": 54008
     }
   ]
 }

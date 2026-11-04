@@ -4,7 +4,7 @@
   "title": "Shea_Lacey",
   "description": "English footballer",
   "image": "",
-  "total": 213068,
+  "total": 223021,
   "monthly": [
     {
       "period": "2025-11",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 62232
+    },
+    {
+      "period": "2026-11",
+      "views": 9953
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 184434
+      "views": 194387
     }
   ]
 }

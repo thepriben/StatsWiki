@@ -4,7 +4,7 @@
   "title": "Hexed_(2026_film)",
   "description": "upcoming animated film directed by Fawn Veerasunthorn and Jason Hand",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Disney%27s_Hexed_film_logo.svg?width=64",
-  "total": 115086,
+  "total": 123261,
   "monthly": [
     {
       "period": "2025-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 50048
+    },
+    {
+      "period": "2026-11",
+      "views": 8175
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 102790
+      "views": 110965
     }
   ]
 }

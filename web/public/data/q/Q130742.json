@@ -4,7 +4,7 @@
   "title": "Alanis_Morissette",
   "description": "Canadian-American singer (born 1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alanis_Morissette_10_20_2013_-13_%2810395221685%29.jpg?width=64",
-  "total": 2514099,
+  "total": 2522472,
   "monthly": [
     {
       "period": "2015-11",
@@ -213,6 +213,10 @@
     {
       "period": "2026-09",
       "views": 10063
+    },
+    {
+      "period": "2026-11",
+      "views": 8373
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 63302
+      "views": 71675
     }
   ]
 }

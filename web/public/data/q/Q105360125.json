@@ -4,7 +4,7 @@
   "title": "Mike_Macdonald",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seattle_Seahawks_Super_Bowl_LX_parade_-_08_%28Mike_Macdonald_crop%29.jpg?width=64",
-  "total": 1563283,
+  "total": 1573456,
   "monthly": [
     {
       "period": "2024-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 13108
+    },
+    {
+      "period": "2026-11",
+      "views": 10173
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 1389048
+      "views": 1399221
     }
   ]
 }

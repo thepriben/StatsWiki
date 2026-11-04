@@ -4,7 +4,7 @@
   "title": "Kobe_Bryant",
   "description": "American basketball player (1978–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kobe_Bryant_2015.jpg?width=64",
-  "total": 67561300,
+  "total": 67570228,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-10",
       "views": 33962
+    },
+    {
+      "period": "2026-11",
+      "views": 8928
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1555088
+      "views": 1564016
     }
   ]
 }

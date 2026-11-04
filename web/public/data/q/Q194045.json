@@ -4,7 +4,7 @@
   "title": "Steven_Tyler",
   "description": "American singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steven_Tyler_by_Gage_Skidmore_3.jpg?width=64",
-  "total": 2087254,
+  "total": 2095361,
   "monthly": [
     {
       "period": "2015-07",
@@ -193,6 +193,10 @@
     {
       "period": "2026-10",
       "views": 35571
+    },
+    {
+      "period": "2026-11",
+      "views": 8107
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 35571
+      "views": 43678
     }
   ]
 }

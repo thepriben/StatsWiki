@@ -4,7 +4,7 @@
   "title": "Aaron_Hernandez",
   "description": "American convicted murderer and football player (1989-2017)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Hernandez.JPG?width=64",
-  "total": 21848242,
+  "total": 21857699,
   "monthly": [
     {
       "period": "2015-09",
@@ -325,6 +325,10 @@
     {
       "period": "2026-10",
       "views": 96263
+    },
+    {
+      "period": "2026-11",
+      "views": 9457
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 335106
+      "views": 344563
     }
   ]
 }

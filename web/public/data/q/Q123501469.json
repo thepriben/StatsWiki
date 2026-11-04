@@ -4,7 +4,7 @@
   "title": "Opinion_polling_for_the_2026_New_Zealand_general_election",
   "description": "opinion polls in New Zealand",
   "image": "",
-  "total": 42375,
+  "total": 52022,
   "monthly": [
     {
       "period": "2026-10",
@@ -12,13 +12,13 @@
     },
     {
       "period": "2026-11",
-      "views": 8888
+      "views": 18535
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 42375
+      "views": 52022
     }
   ]
 }

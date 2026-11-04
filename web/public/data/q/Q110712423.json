@@ -4,7 +4,7 @@
   "title": "Bruce_Blakeman",
   "description": "American politician (born 1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blakeman_Profile_Picture_%28cropped%29.jpg?width=64",
-  "total": 60540,
+  "total": 74680,
   "monthly": [
     {
       "period": "2025-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 33284
+    },
+    {
+      "period": "2026-11",
+      "views": 14140
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 33284
+      "views": 47424
     }
   ]
 }

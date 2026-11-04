@@ -4,7 +4,7 @@
   "title": "2012_United_States_presidential_election",
   "description": "57th quadrennial U.S. presidential election",
   "image": "",
-  "total": 10798374,
+  "total": 10809314,
   "monthly": [
     {
       "period": "2019-01",
@@ -101,6 +101,10 @@
     {
       "period": "2025-11",
       "views": 11282
+    },
+    {
+      "period": "2026-11",
+      "views": 10940
     }
   ],
   "yearly": [
@@ -127,6 +131,10 @@
     {
       "period": "2025",
       "views": 82173
+    },
+    {
+      "period": "2026",
+      "views": 10940
     }
   ]
 }

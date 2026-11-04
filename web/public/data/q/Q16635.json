@@ -4,7 +4,7 @@
   "title": "Guam",
   "description": "unincorporated territory of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guam_satellite_photo_map.jpg?width=64",
-  "total": 2356545,
+  "total": 2379351,
   "monthly": [
     {
       "period": "2015-08",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 9849
+    },
+    {
+      "period": "2026-11",
+      "views": 22806
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 9849
+      "views": 32655
     }
   ]
 }

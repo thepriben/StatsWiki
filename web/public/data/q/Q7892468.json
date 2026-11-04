@@ -1,0 +1,48 @@
+{
+  "qid": "Q7892468",
+  "label": "2018 United States elections",
+  "title": "2018_United_States_elections",
+  "description": "elections in the United States in 2018",
+  "image": "",
+  "total": 184414,
+  "monthly": [
+    {
+      "period": "2020-03",
+      "views": 9280
+    },
+    {
+      "period": "2020-11",
+      "views": 29587
+    },
+    {
+      "period": "2022-11",
+      "views": 45191
+    },
+    {
+      "period": "2024-11",
+      "views": 87552
+    },
+    {
+      "period": "2026-11",
+      "views": 12804
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 38867
+    },
+    {
+      "period": "2022",
+      "views": 45191
+    },
+    {
+      "period": "2024",
+      "views": 87552
+    },
+    {
+      "period": "2026",
+      "views": 12804
+    }
+  ]
+}

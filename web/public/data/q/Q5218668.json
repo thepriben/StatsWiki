@@ -4,17 +4,21 @@
   "title": "Dan_Sullivan_(U.S._senator)",
   "description": "United States Senator from Alaska",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Senator_Dan_Sullivan_official.jpg?width=64",
-  "total": 21466,
+  "total": 30946,
   "monthly": [
     {
       "period": "2026-10",
       "views": 21466
+    },
+    {
+      "period": "2026-11",
+      "views": 9480
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 21466
+      "views": 30946
     }
   ]
 }
