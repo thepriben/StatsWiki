@@ -1,0 +1,36 @@
+{
+  "qid": "Q2101438",
+  "label": "political action committee",
+  "title": "Political_action_committee",
+  "description": "organization that pools contributions from members and donates those funds to campaign for or against candidates, ballot initiatives, or legislation",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/18thSD_%286008982803%29.jpg?width=64",
+  "total": 44277,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 11148
+    },
+    {
+      "period": "2016-02",
+      "views": 22607
+    },
+    {
+      "period": "2026-11",
+      "views": 10522
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 11148
+    },
+    {
+      "period": "2016",
+      "views": 22607
+    },
+    {
+      "period": "2026",
+      "views": 10522
+    }
+  ]
+}
