@@ -4,7 +4,7 @@
   "title": "Tim_Walz",
   "description": "American politician (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Walz_official_photo.jpg?width=64",
-  "total": 11235862,
+  "total": 11263920,
   "monthly": [
     {
       "period": "2018-08",
@@ -69,6 +69,10 @@
     {
       "period": "2026-01",
       "views": 374124
+    },
+    {
+      "period": "2026-11",
+      "views": 28058
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 374124
+      "views": 402182
     }
   ]
 }

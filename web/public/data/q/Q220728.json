@@ -4,7 +4,7 @@
   "title": "Flatiron_Building",
   "description": "skyscraper in New York City",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg?width=64",
-  "total": 84065,
+  "total": 115278,
   "monthly": [
     {
       "period": "2015-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 23960
+    },
+    {
+      "period": "2026-11",
+      "views": 31213
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 23960
+      "views": 55173
     }
   ]
 }

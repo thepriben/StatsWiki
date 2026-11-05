@@ -1,0 +1,80 @@
+{
+  "qid": "Q1454",
+  "label": "North Carolina",
+  "title": "North_Carolina",
+  "description": "state of the United States of America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grandfather_Mountain_hairpins%2C_Oct_2016_2.jpg?width=64",
+  "total": 267180,
+  "monthly": [
+    {
+      "period": "2016-09",
+      "views": 11328
+    },
+    {
+      "period": "2016-11",
+      "views": 11914
+    },
+    {
+      "period": "2018-09",
+      "views": 133414
+    },
+    {
+      "period": "2019-09",
+      "views": 10191
+    },
+    {
+      "period": "2020-11",
+      "views": 39730
+    },
+    {
+      "period": "2021-01",
+      "views": 11772
+    },
+    {
+      "period": "2024-09",
+      "views": 11826
+    },
+    {
+      "period": "2024-10",
+      "views": 9392
+    },
+    {
+      "period": "2024-11",
+      "views": 16854
+    },
+    {
+      "period": "2026-11",
+      "views": 10759
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 23242
+    },
+    {
+      "period": "2018",
+      "views": 133414
+    },
+    {
+      "period": "2019",
+      "views": 10191
+    },
+    {
+      "period": "2020",
+      "views": 39730
+    },
+    {
+      "period": "2021",
+      "views": 11772
+    },
+    {
+      "period": "2024",
+      "views": 38072
+    },
+    {
+      "period": "2026",
+      "views": 10759
+    }
+  ]
+}

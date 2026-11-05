@@ -4,7 +4,7 @@
   "title": "Louise_Haigh",
   "description": "British politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Louise_Haigh_crop_2.jpg?width=64",
-  "total": 518730,
+  "total": 542212,
   "monthly": [
     {
       "period": "2024-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 10883
+    },
+    {
+      "period": "2026-11",
+      "views": 23482
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 240975
+      "views": 264457
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2026_Los_Angeles_mayoral_election",
   "description": "municipal election in California",
   "image": "",
-  "total": 615441,
+  "total": 637454,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-06",
       "views": 330996
+    },
+    {
+      "period": "2026-11",
+      "views": 22013
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 615441
+      "views": 637454
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "United_States_presidential_election",
   "description": "type of election in the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016_Presidential_Election_by_County_%28Red-Blue-Purple_View%29.svg?width=64",
-  "total": 3813650,
+  "total": 3874038,
   "monthly": [
     {
       "period": "2015-11",
@@ -84,7 +84,7 @@
     },
     {
       "period": "2026-11",
-      "views": 19881
+      "views": 80269
     }
   ],
   "yearly": [
@@ -118,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 19881
+      "views": 80269
     }
   ]
 }

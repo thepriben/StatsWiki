@@ -4,7 +4,7 @@
   "title": "2026_Michigan_gubernatorial_election",
   "description": "election for Governor of Michigan",
   "image": "",
-  "total": 26974,
+  "total": 45280,
   "monthly": [
     {
       "period": "2026-05",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 18303
+    },
+    {
+      "period": "2026-11",
+      "views": 18306
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 26974
+      "views": 45280
     }
   ]
 }

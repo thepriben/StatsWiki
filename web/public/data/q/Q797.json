@@ -4,7 +4,7 @@
   "title": "Alaska",
   "description": "state of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alaska_tmo_2013168_lrg%281%29.jpg?width=64",
-  "total": 1491009,
+  "total": 1508870,
   "monthly": [
     {
       "period": "2015-08",
@@ -129,6 +129,10 @@
     {
       "period": "2026-10",
       "views": 8911
+    },
+    {
+      "period": "2026-11",
+      "views": 17861
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 69834
+      "views": 87695
     }
   ]
 }

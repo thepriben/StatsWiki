@@ -4,7 +4,7 @@
   "title": "Governor_of_California",
   "description": "head of the state and government of California",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edmund_G_Brown_Jr.jpg?width=64",
-  "total": 21521,
+  "total": 47331,
   "monthly": [
     {
       "period": "2018-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-06",
       "views": 10839
+    },
+    {
+      "period": "2026-11",
+      "views": 25810
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10839
+      "views": 36649
     }
   ]
 }

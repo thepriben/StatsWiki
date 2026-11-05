@@ -4,7 +4,7 @@
   "title": "Nico_Paz",
   "description": "Argentine-Spanish footballer (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nico_Paz_Argentina_v_Spain_19_July_2026-057.jpg?width=64",
-  "total": 651182,
+  "total": 666195,
   "monthly": [
     {
       "period": "2023-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 203332
+    },
+    {
+      "period": "2026-11",
+      "views": 15013
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 439466
+      "views": 454479
     }
   ]
 }

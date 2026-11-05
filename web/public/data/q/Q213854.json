@@ -4,7 +4,7 @@
   "title": "Virat_Kohli",
   "description": "Indian cricket player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat_Kohli_in_PMO_New_Delhi.jpg?width=64",
-  "total": 48064701,
+  "total": 48100720,
   "monthly": [
     {
       "period": "2015-08",
@@ -513,6 +513,10 @@
     {
       "period": "2026-10",
       "views": 24071
+    },
+    {
+      "period": "2026-11",
+      "views": 36019
     }
   ],
   "yearly": [
@@ -562,7 +566,7 @@
     },
     {
       "period": "2026",
-      "views": 1243367
+      "views": 1279386
     }
   ]
 }

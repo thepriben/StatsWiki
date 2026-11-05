@@ -4,7 +4,7 @@
   "title": "Historical_rankings_of_presidents_of_the_United_States",
   "description": "Rankings of the Presidents of the United States of America",
   "image": "",
-  "total": 4007865,
+  "total": 4018208,
   "monthly": [
     {
       "period": "2017-01",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 11781
+    },
+    {
+      "period": "2026-11",
+      "views": 10343
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 41442
+      "views": 51785
     }
   ]
 }

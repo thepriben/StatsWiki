@@ -4,17 +4,21 @@
   "title": "Bo_French",
   "description": "American politician and investor",
   "image": "",
-  "total": 43879,
+  "total": 64047,
   "monthly": [
     {
       "period": "2026-09",
       "views": 43879
+    },
+    {
+      "period": "2026-11",
+      "views": 20168
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 43879
+      "views": 64047
     }
   ]
 }

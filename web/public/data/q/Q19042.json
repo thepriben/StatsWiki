@@ -4,7 +4,7 @@
   "title": "Tea_Party_movement",
   "description": "American fiscally conservative political movement",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/9.12_tea_party_in_DC.jpg?width=64",
-  "total": 139026,
+  "total": 150597,
   "monthly": [
     {
       "period": "2016-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 12603
+    },
+    {
+      "period": "2026-11",
+      "views": 11571
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 12603
+      "views": 24174
     }
   ]
 }

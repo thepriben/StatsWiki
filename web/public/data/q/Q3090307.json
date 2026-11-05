@@ -4,7 +4,7 @@
   "title": "Tom_Cotton",
   "description": "American politician and army officer (born 1977)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Cotton_official_Senate_photo.jpg?width=64",
-  "total": 933630,
+  "total": 946063,
   "monthly": [
     {
       "period": "2016-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 8975
+    },
+    {
+      "period": "2026-11",
+      "views": 12433
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 8975
+      "views": 21408
     }
   ]
 }

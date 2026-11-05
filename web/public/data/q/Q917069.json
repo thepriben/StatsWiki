@@ -4,7 +4,7 @@
   "title": "Rhabdomyolysis",
   "description": "disease",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RhabdoUrine.JPG?width=64",
-  "total": 145701,
+  "total": 183201,
   "monthly": [
     {
       "period": "2016-05",
@@ -28,7 +28,7 @@
     },
     {
       "period": "2026-11",
-      "views": 39128
+      "views": 76628
     }
   ],
   "yearly": [
@@ -50,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 39128
+      "views": 76628
     }
   ]
 }

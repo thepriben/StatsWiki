@@ -4,7 +4,7 @@
   "title": "Tim_Scott",
   "description": "United States Senator from South Carolina since 2013",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Scott%2C_official_portrait%2C_113th_Congress.jpg?width=64",
-  "total": 1755731,
+  "total": 1770211,
   "monthly": [
     {
       "period": "2016-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 58505
+    },
+    {
+      "period": "2026-11",
+      "views": 14480
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 91232
+      "views": 105712
     }
   ]
 }

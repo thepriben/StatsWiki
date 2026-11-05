@@ -4,7 +4,7 @@
   "title": "Jared_Moskowitz",
   "description": "American politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rep._Jared_Moskowitz_-_118th_Congress.jpg?width=64",
-  "total": 22067,
+  "total": 32396,
   "monthly": [
     {
       "period": "2024-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 10892
+    },
+    {
+      "period": "2026-11",
+      "views": 10329
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10892
+      "views": 21221
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2020_United_States_Senate_election_in_South_Carolina",
   "description": "election",
   "image": "",
-  "total": 31957,
+  "total": 49672,
   "monthly": [
     {
       "period": "2020-06",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 19020
+    },
+    {
+      "period": "2026-11",
+      "views": 17715
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 19020
+      "views": 36735
     }
   ]
 }

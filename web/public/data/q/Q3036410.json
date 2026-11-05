@@ -4,7 +4,7 @@
   "title": "Tammy_Duckworth",
   "description": "American politician and military officer (born 1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tammy_Duckworth%2C_official_portrait%2C_113th_Congress.jpg?width=64",
-  "total": 3454253,
+  "total": 3467026,
   "monthly": [
     {
       "period": "2015-10",
@@ -145,6 +145,10 @@
     {
       "period": "2026-09",
       "views": 8962
+    },
+    {
+      "period": "2026-11",
+      "views": 12773
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 30653
+      "views": 43426
     }
   ]
 }

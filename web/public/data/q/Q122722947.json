@@ -4,7 +4,7 @@
   "title": "2026_South_Carolina_gubernatorial_election",
   "description": "election for Governor of South Carolina",
   "image": "",
-  "total": 25589,
+  "total": 40688,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-07",
       "views": 10682
+    },
+    {
+      "period": "2026-11",
+      "views": 15099
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 25589
+      "views": 40688
     }
   ]
 }

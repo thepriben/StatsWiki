@@ -4,7 +4,7 @@
   "title": "Mitt_Romney",
   "description": "American politician and businessman (born 1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitt_Romney_by_Gage_Skidmore_7.jpg?width=64",
-  "total": 4627406,
+  "total": 4643151,
   "monthly": [
     {
       "period": "2016-02",
@@ -197,6 +197,10 @@
     {
       "period": "2026-10",
       "views": 16845
+    },
+    {
+      "period": "2026-11",
+      "views": 15745
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 26180
+      "views": 41925
     }
   ]
 }

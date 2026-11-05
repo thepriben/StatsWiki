@@ -4,7 +4,7 @@
   "title": "Chris_Pappas_(American_politician)",
   "description": "American politician in New Hampshire (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Pappas%2C_official_portrait%2C_116th_Congress.jpg?width=64",
-  "total": 45692,
+  "total": 239942,
   "monthly": [
     {
       "period": "2024-11",
@@ -13,6 +13,10 @@
     {
       "period": "2026-09",
       "views": 28952
+    },
+    {
+      "period": "2026-11",
+      "views": 194250
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 28952
+      "views": 223202
     }
   ]
 }

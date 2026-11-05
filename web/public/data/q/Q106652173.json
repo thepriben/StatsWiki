@@ -1,0 +1,44 @@
+{
+  "qid": "Q106652173",
+  "label": "2023 United States elections",
+  "title": "2023_United_States_elections",
+  "description": "elections in the United States in 2023",
+  "image": "",
+  "total": 325751,
+  "monthly": [
+    {
+      "period": "2022-11",
+      "views": 11102
+    },
+    {
+      "period": "2023-11",
+      "views": 248631
+    },
+    {
+      "period": "2024-11",
+      "views": 49891
+    },
+    {
+      "period": "2026-11",
+      "views": 16127
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 11102
+    },
+    {
+      "period": "2023",
+      "views": 248631
+    },
+    {
+      "period": "2024",
+      "views": 49891
+    },
+    {
+      "period": "2026",
+      "views": 16127
+    }
+  ]
+}

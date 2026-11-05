@@ -4,7 +4,7 @@
   "title": "South_Carolina",
   "description": "state of the United States of America",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravenel_Bridge_at_night_from_Mt_Pleasant.jpg?width=64",
-  "total": 111053,
+  "total": 123364,
   "monthly": [
     {
       "period": "2015-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 42068
+    },
+    {
+      "period": "2026-11",
+      "views": 12311
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 42068
+      "views": 54379
     }
   ]
 }

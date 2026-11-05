@@ -4,7 +4,7 @@
   "title": "Juris_Doctor",
   "description": "graduate-entry professional degree in law",
   "image": "",
-  "total": 310356,
+  "total": 322661,
   "monthly": [
     {
       "period": "2016-11",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 8482
+    },
+    {
+      "period": "2026-11",
+      "views": 12305
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 8482
+      "views": 20787
     }
   ]
 }

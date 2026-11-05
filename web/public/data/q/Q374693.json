@@ -4,7 +4,7 @@
   "title": "Charlie_Crist",
   "description": "United States Representative from 2017 to 2022",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie_Crist_official_portrait_crop.jpg?width=64",
-  "total": 376817,
+  "total": 396762,
   "monthly": [
     {
       "period": "2018-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 14090
+    },
+    {
+      "period": "2026-11",
+      "views": 19945
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 14090
+      "views": 34035
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Marla_Maples",
   "description": "American actress and TV personality (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marla_Maples_%282014%29.jpg?width=64",
-  "total": 15815132,
+  "total": 15826823,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-06",
       "views": 10344
+    },
+    {
+      "period": "2026-11",
+      "views": 11691
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 386689
+      "views": 398380
     }
   ]
 }

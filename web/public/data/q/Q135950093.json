@@ -4,7 +4,7 @@
   "title": "JJ_Gabriel",
   "description": "English footballer",
   "image": "",
-  "total": 656086,
+  "total": 708923,
   "monthly": [
     {
       "period": "2026-03",
@@ -29,12 +29,16 @@
     {
       "period": "2026-10",
       "views": 46883
+    },
+    {
+      "period": "2026-11",
+      "views": 52837
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 656086
+      "views": 708923
     }
   ]
 }

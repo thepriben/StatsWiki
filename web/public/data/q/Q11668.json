@@ -4,7 +4,7 @@
   "title": "Nikki_Haley",
   "description": "American politician and diplomat (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikki_Haley_official_photo.jpg?width=64",
-  "total": 19138528,
+  "total": 19192950,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-07",
       "views": 27777
+    },
+    {
+      "period": "2026-11",
+      "views": 54422
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 41765
+      "views": 96187
     }
   ]
 }

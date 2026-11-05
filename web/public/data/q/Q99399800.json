@@ -4,7 +4,7 @@
   "title": "Joe_Milton",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/I_IMG_5396_%2848893134681%29.jpg?width=64",
-  "total": 465233,
+  "total": 497893,
   "monthly": [
     {
       "period": "2023-09",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 31450
+    },
+    {
+      "period": "2026-11",
+      "views": 32660
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 113075
+      "views": 145735
     }
   ]
 }

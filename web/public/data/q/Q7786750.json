@@ -4,7 +4,7 @@
   "title": "Thom_Tillis",
   "description": "American politician (born 1960)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Senator_Thom_Tillis_Official_Portrait.jpg?width=64",
-  "total": 601248,
+  "total": 625561,
   "monthly": [
     {
       "period": "2015-11",
@@ -57,6 +57,10 @@
     {
       "period": "2026-10",
       "views": 68543
+    },
+    {
+      "period": "2026-11",
+      "views": 24313
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 224097
+      "views": 248410
     }
   ]
 }

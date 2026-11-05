@@ -1,0 +1,48 @@
+{
+  "qid": "Q6175202",
+  "label": "Jeff Van Drew",
+  "title": "Jeff_Van_Drew",
+  "description": "New Jersey State Senator",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jefferson_Van_Drew_116.jpg?width=64",
+  "total": 295627,
+  "monthly": [
+    {
+      "period": "2019-10",
+      "views": 23641
+    },
+    {
+      "period": "2019-12",
+      "views": 228027
+    },
+    {
+      "period": "2020-08",
+      "views": 19984
+    },
+    {
+      "period": "2021-01",
+      "views": 12627
+    },
+    {
+      "period": "2026-11",
+      "views": 11348
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 251668
+    },
+    {
+      "period": "2020",
+      "views": 19984
+    },
+    {
+      "period": "2021",
+      "views": 12627
+    },
+    {
+      "period": "2026",
+      "views": 11348
+    }
+  ]
+}

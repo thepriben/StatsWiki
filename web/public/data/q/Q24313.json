@@ -4,7 +4,7 @@
   "title": "Mike_Pence",
   "description": "Vice President of the United States from 2017 to 2021",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Pence_official_Vice_Presidential_portrait.jpg?width=64",
-  "total": 17587276,
+  "total": 17600838,
   "monthly": [
     {
       "period": "2016-07",
@@ -269,6 +269,10 @@
     {
       "period": "2025-02",
       "views": 11671
+    },
+    {
+      "period": "2026-11",
+      "views": 13562
     }
   ],
   "yearly": [
@@ -311,6 +315,10 @@
     {
       "period": "2025",
       "views": 185177
+    },
+    {
+      "period": "2026",
+      "views": 13562
     }
   ]
 }

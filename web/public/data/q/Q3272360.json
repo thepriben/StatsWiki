@@ -1,0 +1,28 @@
+{
+  "qid": "Q3272360",
+  "label": "Eunos MRT station",
+  "title": "Eunos_MRT_station",
+  "description": "MRT subway station in Singapore",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eunos_MRT.JPG?width=64",
+  "total": 32583,
+  "monthly": [
+    {
+      "period": "2025-02",
+      "views": 11321
+    },
+    {
+      "period": "2026-11",
+      "views": 21262
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 11321
+    },
+    {
+      "period": "2026",
+      "views": 21262
+    }
+  ]
+}

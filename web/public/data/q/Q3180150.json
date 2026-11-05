@@ -4,17 +4,21 @@
   "title": "Joe_O'Cearuill",
   "description": "Irish footballer (born 1987)",
   "image": "",
-  "total": 280013,
+  "total": 295827,
   "monthly": [
     {
       "period": "2026-09",
       "views": 280013
+    },
+    {
+      "period": "2026-11",
+      "views": 15814
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 280013
+      "views": 295827
     }
   ]
 }

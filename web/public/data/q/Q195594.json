@@ -1,0 +1,76 @@
+{
+  "qid": "Q195594",
+  "label": "swing state",
+  "title": "Swing_state",
+  "description": "U.S. state where neither major party or candidate has overwhelming support, making it key to control of the Presidency or Senate",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016_battleground_states.svg?width=64",
+  "total": 1413629,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 200884
+    },
+    {
+      "period": "2020-03",
+      "views": 12817
+    },
+    {
+      "period": "2020-09",
+      "views": 11503
+    },
+    {
+      "period": "2020-10",
+      "views": 109473
+    },
+    {
+      "period": "2020-11",
+      "views": 428862
+    },
+    {
+      "period": "2024-07",
+      "views": 13954
+    },
+    {
+      "period": "2024-08",
+      "views": 16084
+    },
+    {
+      "period": "2024-10",
+      "views": 62130
+    },
+    {
+      "period": "2024-11",
+      "views": 513442
+    },
+    {
+      "period": "2025-11",
+      "views": 9135
+    },
+    {
+      "period": "2026-11",
+      "views": 35345
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 200884
+    },
+    {
+      "period": "2020",
+      "views": 562655
+    },
+    {
+      "period": "2024",
+      "views": 605610
+    },
+    {
+      "period": "2025",
+      "views": 9135
+    },
+    {
+      "period": "2026",
+      "views": 35345
+    }
+  ]
+}

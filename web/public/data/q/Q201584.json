@@ -1,0 +1,48 @@
+{
+  "qid": "Q201584",
+  "label": "AEK Athens F.C.",
+  "title": "AEK_Athens_F.C.",
+  "description": "Association football team in Greece",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AEK_FC_1939_Greek_Champions.jpg?width=64",
+  "total": 66733,
+  "monthly": [
+    {
+      "period": "2018-07",
+      "views": 11029
+    },
+    {
+      "period": "2018-10",
+      "views": 9733
+    },
+    {
+      "period": "2023-09",
+      "views": 18889
+    },
+    {
+      "period": "2024-05",
+      "views": 11730
+    },
+    {
+      "period": "2026-11",
+      "views": 15352
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 20762
+    },
+    {
+      "period": "2023",
+      "views": 18889
+    },
+    {
+      "period": "2024",
+      "views": 11730
+    },
+    {
+      "period": "2026",
+      "views": 15352
+    }
+  ]
+}

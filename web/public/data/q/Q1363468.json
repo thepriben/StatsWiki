@@ -4,7 +4,7 @@
   "title": "Mike_DeWine",
   "description": "Governor of Ohio since 2019",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gov-Mike-DeWine.jpg?width=64",
-  "total": 416354,
+  "total": 450917,
   "monthly": [
     {
       "period": "2018-05",
@@ -57,6 +57,10 @@
     {
       "period": "2026-10",
       "views": 19661
+    },
+    {
+      "period": "2026-11",
+      "views": 34563
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 19661
+      "views": 54224
     }
   ]
 }

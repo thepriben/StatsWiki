@@ -4,7 +4,7 @@
   "title": "Lisa_Murkowski",
   "description": "United States Senator from Alaska since 2002",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisa_Murkowski.jpg?width=64",
-  "total": 927009,
+  "total": 947628,
   "monthly": [
     {
       "period": "2017-07",
@@ -77,6 +77,10 @@
     {
       "period": "2026-10",
       "views": 8036
+    },
+    {
+      "period": "2026-11",
+      "views": 20619
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 8036
+      "views": 28655
     }
   ]
 }

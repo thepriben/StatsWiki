@@ -1,0 +1,76 @@
+{
+  "qid": "Q152019",
+  "label": "Laura Bush",
+  "title": "Laura_Bush",
+  "description": "First Lady of the United States from 2001 to 2009",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laura_Bush_portrait.jpg?width=64",
+  "total": 743253,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 87077
+    },
+    {
+      "period": "2017-01",
+      "views": 91319
+    },
+    {
+      "period": "2018-04",
+      "views": 204501
+    },
+    {
+      "period": "2018-12",
+      "views": 208194
+    },
+    {
+      "period": "2020-04",
+      "views": 16440
+    },
+    {
+      "period": "2020-11",
+      "views": 48729
+    },
+    {
+      "period": "2021-01",
+      "views": 51059
+    },
+    {
+      "period": "2025-01",
+      "views": 24324
+    },
+    {
+      "period": "2026-11",
+      "views": 11610
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 87077
+    },
+    {
+      "period": "2017",
+      "views": 91319
+    },
+    {
+      "period": "2018",
+      "views": 412695
+    },
+    {
+      "period": "2020",
+      "views": 65169
+    },
+    {
+      "period": "2021",
+      "views": 51059
+    },
+    {
+      "period": "2025",
+      "views": 24324
+    },
+    {
+      "period": "2026",
+      "views": 11610
+    }
+  ]
+}

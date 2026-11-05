@@ -4,7 +4,7 @@
   "title": "Graham_Platner",
   "description": "American oyster farmer, harbormaster, and political candidate",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Platner_headshot.jpg?width=64",
-  "total": 2296199,
+  "total": 2323116,
   "monthly": [
     {
       "period": "2025-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 720993
+    },
+    {
+      "period": "2026-11",
+      "views": 26917
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1937436
+      "views": 1964353
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jeanne_Shaheen",
   "description": "United States Senator from New Hampshire",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen_Senate_Portrait.jpg?width=64",
-  "total": 96806,
+  "total": 115569,
   "monthly": [
     {
       "period": "2021-01",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 9991
+    },
+    {
+      "period": "2026-11",
+      "views": 18763
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 9991
+      "views": 28754
     }
   ]
 }

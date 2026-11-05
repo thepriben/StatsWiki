@@ -4,7 +4,7 @@
   "title": "Katie_Hobbs",
   "description": "Governor of Arizona since 2023",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katie_Hobbs_by_Gage_Skidmore.jpg?width=64",
-  "total": 281566,
+  "total": 299209,
   "monthly": [
     {
       "period": "2020-11",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 8563
+    },
+    {
+      "period": "2026-11",
+      "views": 17643
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 8563
+      "views": 26206
     }
   ]
 }

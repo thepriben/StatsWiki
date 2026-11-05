@@ -4,7 +4,7 @@
   "title": "Dirk_Kuyt",
   "description": "Dutch association football player (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dirk_Kuyt_Fenerbah%C3%A7e_20260805_%281%29_%28cropped%29.JPG?width=64",
-  "total": 197481,
+  "total": 236200,
   "monthly": [
     {
       "period": "2016-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 8345
+    },
+    {
+      "period": "2026-11",
+      "views": 38719
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 8345
+      "views": 47064
     }
   ]
 }

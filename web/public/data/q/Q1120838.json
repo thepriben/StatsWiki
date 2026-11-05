@@ -4,7 +4,7 @@
   "title": "Como_1907",
   "description": "association football club in Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg?width=64",
-  "total": 802294,
+  "total": 822139,
   "monthly": [
     {
       "period": "2022-08",
@@ -65,6 +65,10 @@
     {
       "period": "2026-10",
       "views": 206161
+    },
+    {
+      "period": "2026-11",
+      "views": 19845
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 438855
+      "views": 458700
     }
   ]
 }

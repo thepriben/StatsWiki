@@ -4,7 +4,7 @@
   "title": "Brandon_Gill",
   "description": "American politician and investment banker (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandon_Gill%2C_official_portrait%2C_119th_Congress.jpg?width=64",
-  "total": 348622,
+  "total": 366175,
   "monthly": [
     {
       "period": "2025-02",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 36378
+    },
+    {
+      "period": "2026-11",
+      "views": 17553
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 243294
+      "views": 260847
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Tom_Tiffany",
   "description": "American politician (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Tiffany_%28WI-07%29.jpg?width=64",
-  "total": 49602,
+  "total": 60363,
   "monthly": [
     {
       "period": "2020-05",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 38155
+    },
+    {
+      "period": "2026-11",
+      "views": 10761
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 38155
+      "views": 48916
     }
   ]
 }

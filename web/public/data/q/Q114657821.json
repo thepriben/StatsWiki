@@ -4,7 +4,7 @@
   "title": "2024_United_States_Senate_election_in_Michigan",
   "description": "",
   "image": "",
-  "total": 40726,
+  "total": 51875,
   "monthly": [
     {
       "period": "2023-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 14295
+    },
+    {
+      "period": "2026-11",
+      "views": 11149
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 14295
+      "views": 25444
     }
   ]
 }

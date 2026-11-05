@@ -1,0 +1,44 @@
+{
+  "qid": "Q1558",
+  "label": "Kansas",
+  "title": "Kansas",
+  "description": "state of the United States of America",
+  "image": "",
+  "total": 142473,
+  "monthly": [
+    {
+      "period": "2020-02",
+      "views": 74131
+    },
+    {
+      "period": "2022-08",
+      "views": 21525
+    },
+    {
+      "period": "2024-02",
+      "views": 29794
+    },
+    {
+      "period": "2026-11",
+      "views": 17023
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2020",
+      "views": 74131
+    },
+    {
+      "period": "2022",
+      "views": 21525
+    },
+    {
+      "period": "2024",
+      "views": 29794
+    },
+    {
+      "period": "2026",
+      "views": 17023
+    }
+  ]
+}
