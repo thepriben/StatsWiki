@@ -4,7 +4,7 @@
   "title": "Murder_of_Lauren_Giddings",
   "description": "murder perpetrated by Stephen McDaniel",
   "image": "",
-  "total": 276659,
+  "total": 286340,
   "monthly": [
     {
       "period": "2023-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-06",
       "views": 91852
+    },
+    {
+      "period": "2026-11",
+      "views": 9681
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 91852
+      "views": 101533
     }
   ]
 }

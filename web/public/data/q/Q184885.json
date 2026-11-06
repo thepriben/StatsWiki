@@ -4,7 +4,7 @@
   "title": "Kareena_Kapoor",
   "description": "Indian actress (born 1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kareena_Kapoor_Khan_in_2023_%281%29_%28cropped%29.jpg?width=64",
-  "total": 2703987,
+  "total": 2712530,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-10",
       "views": 21503
+    },
+    {
+      "period": "2026-11",
+      "views": 8543
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 21503
+      "views": 30046
     }
   ]
 }

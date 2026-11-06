@@ -4,7 +4,7 @@
   "title": "LIV_Golf",
   "description": "professional golf tour",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liv_golf.jpg?width=64",
-  "total": 1409135,
+  "total": 1420096,
   "monthly": [
     {
       "period": "2022-06",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 9708
+    },
+    {
+      "period": "2026-11",
+      "views": 10961
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 62359
+      "views": 73320
     }
   ]
 }

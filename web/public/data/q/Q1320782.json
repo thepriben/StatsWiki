@@ -4,7 +4,7 @@
   "title": "Rory_Kinnear",
   "description": "English actor (born 1978)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rory_Kinnear_NT_050712_aus_DSCF5985.JPG?width=64",
-  "total": 195718,
+  "total": 205054,
   "monthly": [
     {
       "period": "2020-05",
@@ -57,6 +57,10 @@
     {
       "period": "2026-10",
       "views": 16786
+    },
+    {
+      "period": "2026-11",
+      "views": 9336
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 16786
+      "views": 26122
     }
   ]
 }

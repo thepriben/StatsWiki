@@ -4,7 +4,7 @@
   "title": "Shane_MacGowan",
   "description": "Anglo-Irish singer-songwriter (1957–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shane-MacGowan.jpg?width=64",
-  "total": 3515012,
+  "total": 3523527,
   "monthly": [
     {
       "period": "2015-12",
@@ -85,6 +85,10 @@
     {
       "period": "2026-07",
       "views": 7955
+    },
+    {
+      "period": "2026-11",
+      "views": 8515
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 16891
+      "views": 25406
     }
   ]
 }

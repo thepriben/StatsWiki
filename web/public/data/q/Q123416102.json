@@ -4,7 +4,7 @@
   "title": "Dalton_Knecht",
   "description": "American basketball player (born 2001)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalton_Knecht%2C_2024.jpg?width=64",
-  "total": 566627,
+  "total": 589170,
   "monthly": [
     {
       "period": "2024-02",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 24911
+    },
+    {
+      "period": "2026-11",
+      "views": 22543
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 24911
+      "views": 47454
     }
   ]
 }

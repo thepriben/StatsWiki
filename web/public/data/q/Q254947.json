@@ -4,7 +4,7 @@
   "title": "Riley_Keough",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Riley_Keough_Sundance_2017.jpg?width=64",
-  "total": 14911257,
+  "total": 14920449,
   "monthly": [
     {
       "period": "2015-08",
@@ -313,6 +313,10 @@
     {
       "period": "2026-10",
       "views": 9377
+    },
+    {
+      "period": "2026-11",
+      "views": 9192
     }
   ],
   "yearly": [
@@ -362,7 +366,7 @@
     },
     {
       "period": "2026",
-      "views": 380407
+      "views": 389599
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "2026–27_UEFA_Europa_League",
   "description": "european club football competition",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsche_bank_park.jpg?width=64",
-  "total": 1276776,
+  "total": 1286186,
   "monthly": [
     {
       "period": "2026-05",
@@ -29,12 +29,16 @@
     {
       "period": "2026-10",
       "views": 28215
+    },
+    {
+      "period": "2026-11",
+      "views": 9410
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1276776
+      "views": 1286186
     }
   ]
 }

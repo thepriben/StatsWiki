@@ -4,7 +4,7 @@
   "title": "Aaron_Carter",
   "description": "American pop singer, actor and songwriter (1987–2022)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Carter_Performing_at_the_Gramercy_Theatre_-_Photo_by_Peter_Dzubay_%28cropped%29.jpg?width=64",
-  "total": 9841667,
+  "total": 9854506,
   "monthly": [
     {
       "period": "2015-09",
@@ -201,6 +201,10 @@
     {
       "period": "2026-08",
       "views": 23708
+    },
+    {
+      "period": "2026-11",
+      "views": 12839
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 92576
+      "views": 105415
     }
   ]
 }

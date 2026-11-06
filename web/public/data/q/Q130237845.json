@@ -4,7 +4,7 @@
   "title": "Zilla_Fatu",
   "description": "American professional wrestler",
   "image": "",
-  "total": 157136,
+  "total": 171757,
   "monthly": [
     {
       "period": "2025-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-08",
       "views": 116801
+    },
+    {
+      "period": "2026-11",
+      "views": 14621
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 116801
+      "views": 131422
     }
   ]
 }

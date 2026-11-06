@@ -1,0 +1,44 @@
+{
+  "qid": "Q1052665",
+  "label": "Patagonian toothfish",
+  "title": "Patagonian_toothfish",
+  "description": "species of fish",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toothfish.jpg?width=64",
+  "total": 179676,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 20676
+    },
+    {
+      "period": "2017-02",
+      "views": 130479
+    },
+    {
+      "period": "2024-11",
+      "views": 14263
+    },
+    {
+      "period": "2026-11",
+      "views": 14258
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 20676
+    },
+    {
+      "period": "2017",
+      "views": 130479
+    },
+    {
+      "period": "2024",
+      "views": 14263
+    },
+    {
+      "period": "2026",
+      "views": 14258
+    }
+  ]
+}

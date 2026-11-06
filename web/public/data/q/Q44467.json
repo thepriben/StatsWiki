@@ -4,7 +4,7 @@
   "title": "Orlando_Bloom",
   "description": "English actor and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Orlando_Bloom_Cannes_2013.jpg?width=64",
-  "total": 9388734,
+  "total": 9404770,
   "monthly": [
     {
       "period": "2015-08",
@@ -325,6 +325,10 @@
     {
       "period": "2026-09",
       "views": 49758
+    },
+    {
+      "period": "2026-11",
+      "views": 16036
     }
   ],
   "yearly": [
@@ -374,7 +378,7 @@
     },
     {
       "period": "2026",
-      "views": 258796
+      "views": 274832
     }
   ]
 }

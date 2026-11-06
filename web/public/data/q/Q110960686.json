@@ -4,7 +4,7 @@
   "title": "15.ai",
   "description": "freeware text to speech artificial intelligence web application",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/15chill.png?width=64",
-  "total": 35496,
+  "total": 46384,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 11251
+    },
+    {
+      "period": "2026-11",
+      "views": 10888
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 35496
+      "views": 46384
     }
   ]
 }

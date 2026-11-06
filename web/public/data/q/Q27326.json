@@ -4,7 +4,7 @@
   "title": "Caroline_Sunshine",
   "description": "American actress, dancer and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Sunshine_2012.jpg?width=64",
-  "total": 226647,
+  "total": 237138,
   "monthly": [
     {
       "period": "2018-03",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 16606
+    },
+    {
+      "period": "2026-11",
+      "views": 10491
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 90748
+      "views": 101239
     }
   ]
 }

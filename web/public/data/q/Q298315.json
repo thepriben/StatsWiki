@@ -4,7 +4,7 @@
   "title": "Umaga_(wrestler)",
   "description": "American professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Umaga_en_Chicago.jpg?width=64",
-  "total": 251273,
+  "total": 266406,
   "monthly": [
     {
       "period": "2015-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 45723
+    },
+    {
+      "period": "2026-11",
+      "views": 15133
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 45723
+      "views": 60856
     }
   ]
 }

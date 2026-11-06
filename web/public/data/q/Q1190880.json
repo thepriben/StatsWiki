@@ -1,0 +1,40 @@
+{
+  "qid": "Q1190880",
+  "label": "SAFF Championship",
+  "title": "SAFF_Championship",
+  "description": "Football held in SAFF every two years",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Topu_Barman_in_action_against_Maldives_in_the_2021_SAFF_Championship.jpg?width=64",
+  "total": 799557,
+  "monthly": [
+    {
+      "period": "2021-10",
+      "views": 108667
+    },
+    {
+      "period": "2023-06",
+      "views": 258415
+    },
+    {
+      "period": "2023-07",
+      "views": 422664
+    },
+    {
+      "period": "2026-11",
+      "views": 9811
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 108667
+    },
+    {
+      "period": "2023",
+      "views": 681079
+    },
+    {
+      "period": "2026",
+      "views": 9811
+    }
+  ]
+}

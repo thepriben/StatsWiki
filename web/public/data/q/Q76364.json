@@ -4,7 +4,7 @@
   "title": "Hans_Zimmer",
   "description": "German film composer (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans-Zimmer-profile.jpg?width=64",
-  "total": 1174601,
+  "total": 1191418,
   "monthly": [
     {
       "period": "2015-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-07",
       "views": 10803
+    },
+    {
+      "period": "2026-11",
+      "views": 16817
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 37892
+      "views": 54709
     }
   ]
 }

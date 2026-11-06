@@ -4,7 +4,7 @@
   "title": "Tracy_Letts",
   "description": "American actor and screenwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tracy_Letts_A_House_of_Dynamite-36_%28cropped%29.jpg?width=64",
-  "total": 631495,
+  "total": 641175,
   "monthly": [
     {
       "period": "2016-09",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 26398
+    },
+    {
+      "period": "2026-11",
+      "views": 9680
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 108969
+      "views": 118649
     }
   ]
 }

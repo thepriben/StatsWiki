@@ -4,7 +4,7 @@
   "title": "Kris_Jenner",
   "description": "American media personality, socialite, and businesswoman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kris_Jenner_by_Gage_Skidmore.jpg?width=64",
-  "total": 22439099,
+  "total": 22448526,
   "monthly": [
     {
       "period": "2015-07",
@@ -477,6 +477,10 @@
     {
       "period": "2026-10",
       "views": 164263
+    },
+    {
+      "period": "2026-11",
+      "views": 9427
     }
   ],
   "yearly": [
@@ -526,7 +530,7 @@
     },
     {
       "period": "2026",
-      "views": 362932
+      "views": 372359
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Sean_Combs",
   "description": "American rapper and producer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean_Combs_in_2023.png?width=64",
-  "total": 24352852,
+  "total": 24365454,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-10",
       "views": 67413
+    },
+    {
+      "period": "2026-11",
+      "views": 12602
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 925947
+      "views": 938549
     }
   ]
 }

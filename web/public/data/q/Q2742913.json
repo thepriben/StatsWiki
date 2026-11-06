@@ -4,7 +4,7 @@
   "title": "DNEG",
   "description": "British visual effects, computer animation and stereo conversion studio",
   "image": "",
-  "total": 89651,
+  "total": 110218,
   "monthly": [
     {
       "period": "2025-07",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 10206
+    },
+    {
+      "period": "2026-11",
+      "views": 20567
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 48858
+      "views": 69425
     }
   ]
 }

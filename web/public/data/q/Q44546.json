@@ -4,7 +4,7 @@
   "title": "Ric_Flair",
   "description": "American professional wrestler",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ric_Flair_Photo_Op_GalaxyCon_Austin_2023.jpg?width=64",
-  "total": 4254197,
+  "total": 4265690,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-10",
       "views": 104776
+    },
+    {
+      "period": "2026-11",
+      "views": 11493
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 123320
+      "views": 134813
     }
   ]
 }

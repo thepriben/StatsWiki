@@ -4,7 +4,7 @@
   "title": "Hanged,_drawn_and_quartered",
   "description": "execution method used to punish high treason in medieval and early modern England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BNMsFr2643FroissartFol97vExecHughDespenser.jpg?width=64",
-  "total": 541092,
+  "total": 556913,
   "monthly": [
     {
       "period": "2015-11",
@@ -81,6 +81,10 @@
     {
       "period": "2026-08",
       "views": 9888
+    },
+    {
+      "period": "2026-11",
+      "views": 15821
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 9888
+      "views": 25709
     }
   ]
 }
