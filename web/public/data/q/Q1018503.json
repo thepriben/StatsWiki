@@ -4,7 +4,7 @@
   "title": "Byford_Dolphin",
   "description": "oil platform built in 1974",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ByfordDolphinAtInvergordon2008.jpg?width=64",
-  "total": 2646815,
+  "total": 2656479,
   "monthly": [
     {
       "period": "2015-11",
@@ -173,6 +173,10 @@
     {
       "period": "2026-10",
       "views": 8415
+    },
+    {
+      "period": "2026-11",
+      "views": 9664
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 71146
+      "views": 80810
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Matt_Lucas",
   "description": "British actor, comedian and screenwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt_Lucas_V_Festival.jpg?width=64",
-  "total": 541766,
+  "total": 552941,
   "monthly": [
     {
       "period": "2017-10",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 40067
+    },
+    {
+      "period": "2026-11",
+      "views": 11175
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 72615
+      "views": 83790
     }
   ]
 }

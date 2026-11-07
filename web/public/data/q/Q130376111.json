@@ -4,17 +4,21 @@
   "title": "Bhayshul_Tuten",
   "description": "American football player",
   "image": "",
-  "total": 19603,
+  "total": 28021,
   "monthly": [
     {
       "period": "2026-10",
       "views": 19603
+    },
+    {
+      "period": "2026-11",
+      "views": 8418
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 19603
+      "views": 28021
     }
   ]
 }

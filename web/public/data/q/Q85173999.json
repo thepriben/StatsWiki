@@ -4,7 +4,7 @@
   "title": "Ryan_Grantham",
   "description": "Canadian convicted murderer and former actor",
   "image": "",
-  "total": 512082,
+  "total": 525342,
   "monthly": [
     {
       "period": "2022-09",
@@ -13,6 +13,10 @@
     {
       "period": "2026-08",
       "views": 34778
+    },
+    {
+      "period": "2026-11",
+      "views": 13260
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 34778
+      "views": 48038
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Monty_Don",
   "description": "British writer, broadcaster, gardener and farmer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monty_Don_Left.jpg?width=64",
-  "total": 62639,
+  "total": 94729,
   "monthly": [
     {
       "period": "2020-05",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 19954
+    },
+    {
+      "period": "2026-11",
+      "views": 32090
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 30855
+      "views": 62945
     }
   ]
 }

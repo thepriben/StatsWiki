@@ -4,17 +4,21 @@
   "title": "Club_Kid_(film)",
   "description": "upcoming film directed by Jordan Firstman",
   "image": "",
-  "total": 8458,
+  "total": 17460,
   "monthly": [
     {
       "period": "2026-08",
       "views": 8458
+    },
+    {
+      "period": "2026-11",
+      "views": 9002
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8458
+      "views": 17460
     }
   ]
 }

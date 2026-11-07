@@ -4,7 +4,7 @@
   "title": "San_Marino",
   "description": "sovereign state in southern Europe, enclaved within Italy",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Mount_Titano_-_San_Marino.jpg?width=64",
-  "total": 2001002,
+  "total": 2012769,
   "monthly": [
     {
       "period": "2015-09",
@@ -205,6 +205,10 @@
     {
       "period": "2026-09",
       "views": 9465
+    },
+    {
+      "period": "2026-11",
+      "views": 11767
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 30718
+      "views": 42485
     }
   ]
 }

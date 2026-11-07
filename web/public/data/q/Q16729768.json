@@ -4,7 +4,7 @@
   "title": "Derrick_Henry",
   "description": "American football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Derrick_Henry_All-American_Bowl.jpg?width=64",
-  "total": 4805785,
+  "total": 4823829,
   "monthly": [
     {
       "period": "2015-09",
@@ -177,6 +177,10 @@
     {
       "period": "2026-10",
       "views": 43760
+    },
+    {
+      "period": "2026-11",
+      "views": 18044
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 195854
+      "views": 213898
     }
   ]
 }

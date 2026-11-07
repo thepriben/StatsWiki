@@ -4,7 +4,7 @@
   "title": "Trevor_Lawrence",
   "description": "American football player (born 1999)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trevor_Lawrence_SEP2022_%28cropped%29.jpg?width=64",
-  "total": 2248244,
+  "total": 2289371,
   "monthly": [
     {
       "period": "2021-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 38437
+    },
+    {
+      "period": "2026-11",
+      "views": 41127
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 241275
+      "views": 282402
     }
   ]
 }

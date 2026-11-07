@@ -4,7 +4,7 @@
   "title": "Parker_Washington",
   "description": "American football player (born 2002)",
   "image": "",
-  "total": 83913,
+  "total": 98676,
   "monthly": [
     {
       "period": "2023-12",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 35330
+    },
+    {
+      "period": "2026-11",
+      "views": 14763
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 71918
+      "views": 86681
     }
   ]
 }

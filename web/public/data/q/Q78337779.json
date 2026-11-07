@@ -4,7 +4,7 @@
   "title": "Katie_Miller",
   "description": "American political advisor (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katiewaldman.jpg?width=64",
-  "total": 1511032,
+  "total": 1561351,
   "monthly": [
     {
       "period": "2020-05",
@@ -77,6 +77,10 @@
     {
       "period": "2026-08",
       "views": 35908
+    },
+    {
+      "period": "2026-11",
+      "views": 50319
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 422529
+      "views": 472848
     }
   ]
 }

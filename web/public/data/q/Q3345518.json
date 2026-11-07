@@ -4,7 +4,7 @@
   "title": "Suriya",
   "description": "Indian film actor, producer and television presenter and philanthropist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soorya_sivakumar.jpg?width=64",
-  "total": 1742582,
+  "total": 1755748,
   "monthly": [
     {
       "period": "2015-07",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 263218
+    },
+    {
+      "period": "2026-11",
+      "views": 13166
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 442914
+      "views": 456080
     }
   ]
 }

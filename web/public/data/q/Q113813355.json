@@ -4,7 +4,7 @@
   "title": "Rashee_Rice",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024_ATL_vs_KC_Pregame_Rashee_Rice_%28cropped%29.png?width=64",
-  "total": 658258,
+  "total": 677098,
   "monthly": [
     {
       "period": "2023-04",
@@ -77,6 +77,10 @@
     {
       "period": "2026-09",
       "views": 17267
+    },
+    {
+      "period": "2026-11",
+      "views": 18840
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 61604
+      "views": 80444
     }
   ]
 }

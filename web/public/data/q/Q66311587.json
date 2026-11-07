@@ -1,0 +1,60 @@
+{
+  "qid": "Q66311587",
+  "label": "Tesla Cybertruck",
+  "title": "Tesla_Cybertruck",
+  "description": "fullsize electric vehicle pickup truck",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024_Tesla_Cybertruck_Foundation_Series%2C_front_left_%28Greenwich%29.jpg?width=64",
+  "total": 799694,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 416570
+    },
+    {
+      "period": "2019-12",
+      "views": 121407
+    },
+    {
+      "period": "2023-11",
+      "views": 15261
+    },
+    {
+      "period": "2023-12",
+      "views": 118661
+    },
+    {
+      "period": "2024-04",
+      "views": 21460
+    },
+    {
+      "period": "2025-01",
+      "views": 92237
+    },
+    {
+      "period": "2026-11",
+      "views": 14098
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 537977
+    },
+    {
+      "period": "2023",
+      "views": 133922
+    },
+    {
+      "period": "2024",
+      "views": 21460
+    },
+    {
+      "period": "2025",
+      "views": 92237
+    },
+    {
+      "period": "2026",
+      "views": 14098
+    }
+  ]
+}

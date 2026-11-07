@@ -4,7 +4,7 @@
   "title": "Baltimore_Ravens",
   "description": "National Football League franchise in Baltimore, Maryland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baltimore_Ravens_wordmark.svg?width=64",
-  "total": 915030,
+  "total": 924413,
   "monthly": [
     {
       "period": "2015-10",
@@ -133,6 +133,10 @@
     {
       "period": "2026-10",
       "views": 10256
+    },
+    {
+      "period": "2026-11",
+      "views": 9383
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 63294
+      "views": 72677
     }
   ]
 }

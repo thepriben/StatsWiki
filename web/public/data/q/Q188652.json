@@ -4,7 +4,7 @@
   "title": "Rocky",
   "description": "1976 film directed by John Avildsen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rocky_Logo.svg?width=64",
-  "total": 989631,
+  "total": 999660,
   "monthly": [
     {
       "period": "2015-07",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 7544
+    },
+    {
+      "period": "2026-11",
+      "views": 10029
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 111965
+      "views": 121994
     }
   ]
 }

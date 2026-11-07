@@ -4,7 +4,7 @@
   "title": "Om_(2026_film)",
   "description": "Indian film by Rajkumar Periasamy",
   "image": "",
-  "total": 65403,
+  "total": 74183,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 56486
+    },
+    {
+      "period": "2026-11",
+      "views": 8780
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 65403
+      "views": 74183
     }
   ]
 }

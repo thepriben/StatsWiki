@@ -4,7 +4,7 @@
   "title": "Jacksonville_Jaguars",
   "description": "National Football League franchise in Jacksonville, Florida",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacksonville_Jaguars_wordmark.svg?width=64",
-  "total": 868811,
+  "total": 878346,
   "monthly": [
     {
       "period": "2015-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 10067
+    },
+    {
+      "period": "2026-11",
+      "views": 9535
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 49441
+      "views": 58976
     }
   ]
 }

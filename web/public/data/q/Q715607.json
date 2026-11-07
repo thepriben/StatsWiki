@@ -4,7 +4,7 @@
   "title": "Valmiki",
   "description": "Celebrated as the harbinger-poet in Sanskrit literature and the author of the epic Ramayana",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Valmiki_Ramayana.jpg?width=64",
-  "total": 312798,
+  "total": 323065,
   "monthly": [
     {
       "period": "2015-10",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 13062
+    },
+    {
+      "period": "2026-11",
+      "views": 10267
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 13062
+      "views": 23329
     }
   ]
 }

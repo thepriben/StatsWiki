@@ -4,7 +4,7 @@
   "title": "Adam_Driver",
   "description": "American actor (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Driver.jpg?width=64",
-  "total": 17056516,
+  "total": 17070586,
   "monthly": [
     {
       "period": "2015-08",
@@ -337,6 +337,10 @@
     {
       "period": "2026-08",
       "views": 12977
+    },
+    {
+      "period": "2026-11",
+      "views": 14070
     }
   ],
   "yearly": [
@@ -386,7 +390,7 @@
     },
     {
       "period": "2026",
-      "views": 98475
+      "views": 112545
     }
   ]
 }

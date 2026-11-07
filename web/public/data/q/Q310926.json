@@ -4,7 +4,7 @@
   "title": "Chevy_Chase",
   "description": "American actor, comedian and writer (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chevy_Chase_at_the_2008_Tribeca_Film_Festival.JPG?width=64",
-  "total": 6592314,
+  "total": 6606317,
   "monthly": [
     {
       "period": "2015-07",
@@ -217,6 +217,10 @@
     {
       "period": "2026-09",
       "views": 8171
+    },
+    {
+      "period": "2026-11",
+      "views": 14003
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 682832
+      "views": 696835
     }
   ]
 }

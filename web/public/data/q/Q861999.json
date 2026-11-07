@@ -4,7 +4,7 @@
   "title": "Bill_Cassidy",
   "description": "American physician and politician (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Cassidy%2C_official_portrait%2C_112th_Congress.jpg?width=64",
-  "total": 497243,
+  "total": 506989,
   "monthly": [
     {
       "period": "2017-05",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 12811
+    },
+    {
+      "period": "2026-11",
+      "views": 9746
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 157635
+      "views": 167381
     }
   ]
 }

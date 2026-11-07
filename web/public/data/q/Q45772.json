@@ -4,7 +4,7 @@
   "title": "Christian_Bale",
   "description": "American-English actor (born 1974)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Bale-7837.jpg?width=64",
-  "total": 16159737,
+  "total": 16170276,
   "monthly": [
     {
       "period": "2015-07",
@@ -457,6 +457,10 @@
     {
       "period": "2026-09",
       "views": 359974
+    },
+    {
+      "period": "2026-11",
+      "views": 10539
     }
   ],
   "yearly": [
@@ -506,7 +510,7 @@
     },
     {
       "period": "2026",
-      "views": 889726
+      "views": 900265
     }
   ]
 }

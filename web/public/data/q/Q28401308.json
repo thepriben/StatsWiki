@@ -4,7 +4,7 @@
   "title": "Suriya_filmography",
   "description": "Filmography of Indian film actor Suriya Sivakumar",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suriya_at_Inam_screening.jpg?width=64",
-  "total": 223550,
+  "total": 234723,
   "monthly": [
     {
       "period": "2020-07",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 9391
+    },
+    {
+      "period": "2026-11",
+      "views": 11173
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 60982
+      "views": 72155
     }
   ]
 }

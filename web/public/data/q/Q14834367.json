@@ -4,7 +4,7 @@
   "title": "Kristaps_Porziņģis",
   "description": "Latvian basketball player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristaps_Porzi%C5%86%C4%A3is_2022.jpg?width=64",
-  "total": 2188150,
+  "total": 2205255,
   "monthly": [
     {
       "period": "2015-10",
@@ -157,6 +157,10 @@
     {
       "period": "2026-06",
       "views": 9126
+    },
+    {
+      "period": "2026-11",
+      "views": 17105
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 120737
+      "views": 137842
     }
   ]
 }

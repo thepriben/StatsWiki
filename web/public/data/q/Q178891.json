@@ -4,17 +4,21 @@
   "title": "Lena_Martell",
   "description": "Scottish singer (1940-2026)",
   "image": "",
-  "total": 36430,
+  "total": 46769,
   "monthly": [
     {
       "period": "2026-10",
       "views": 36430
+    },
+    {
+      "period": "2026-11",
+      "views": 10339
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 36430
+      "views": 46769
     }
   ]
 }
