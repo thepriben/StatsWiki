@@ -4,7 +4,7 @@
   "title": "King_Richard_II",
   "description": "King of England from 1377 to 1399",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_II_of_England_large_02.jpg?width=64",
-  "total": 381471,
+  "total": 394137,
   "monthly": [
     {
       "period": "2016-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 78238
+    },
+    {
+      "period": "2026-11",
+      "views": 12666
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 175135
+      "views": 187801
     }
   ]
 }

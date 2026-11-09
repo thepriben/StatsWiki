@@ -4,7 +4,7 @@
   "title": "Miss_Universe_2026",
   "description": "75th edition of the Miss Universe competition",
   "image": "",
-  "total": 24412,
+  "total": 34700,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 15858
+    },
+    {
+      "period": "2026-11",
+      "views": 10288
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 24412
+      "views": 34700
     }
   ]
 }

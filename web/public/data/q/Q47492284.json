@@ -4,7 +4,7 @@
   "title": "Bob_Chesney",
   "description": "American football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026-0729_Big_Ten_MD_Bob_Chesney.jpeg?width=64",
-  "total": 243899,
+  "total": 256534,
   "monthly": [
     {
       "period": "2023-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 104794
+    },
+    {
+      "period": "2026-11",
+      "views": 12635
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 117990
+      "views": 130625
     }
   ]
 }

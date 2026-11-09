@@ -1,0 +1,44 @@
+{
+  "qid": "Q3125700",
+  "label": "wild haggis",
+  "title": "Wild_haggis",
+  "description": "fictional animal said to be the source of haggis",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haggis_scoticus.jpg?width=64",
+  "total": 46951,
+  "monthly": [
+    {
+      "period": "2015-08",
+      "views": 10407
+    },
+    {
+      "period": "2017-11",
+      "views": 10730
+    },
+    {
+      "period": "2023-09",
+      "views": 14497
+    },
+    {
+      "period": "2026-11",
+      "views": 11317
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 10407
+    },
+    {
+      "period": "2017",
+      "views": 10730
+    },
+    {
+      "period": "2023",
+      "views": 14497
+    },
+    {
+      "period": "2026",
+      "views": 11317
+    }
+  ]
+}

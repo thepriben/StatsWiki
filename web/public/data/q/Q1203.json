@@ -4,7 +4,7 @@
   "title": "John_Lennon",
   "description": "British musician (1940–1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Lennon_portrait.jpg?width=64",
-  "total": 38522449,
+  "total": 38532390,
   "monthly": [
     {
       "period": "2015-07",
@@ -549,6 +549,10 @@
     {
       "period": "2026-10",
       "views": 240643
+    },
+    {
+      "period": "2026-11",
+      "views": 9941
     }
   ],
   "yearly": [
@@ -598,7 +602,7 @@
     },
     {
       "period": "2026",
-      "views": 1989353
+      "views": 1999294
     }
   ]
 }

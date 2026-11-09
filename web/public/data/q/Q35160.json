@@ -4,7 +4,7 @@
   "title": "Odyssey",
   "description": "epic poem attributed to Homer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fragment_Odyssee_2245_2.jpg?width=64",
-  "total": 8203653,
+  "total": 8214585,
   "monthly": [
     {
       "period": "2024-12",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 368079
+    },
+    {
+      "period": "2026-11",
+      "views": 10932
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 6955324
+      "views": 6966256
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "qid": "Q201940",
+  "label": "Led Zeppelin IV",
+  "title": "Led_Zeppelin_IV",
+  "description": "1971 studio album by Led Zeppelin",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeppelin_IV.jpg?width=64",
+  "total": 82036,
+  "monthly": [
+    {
+      "period": "2018-11",
+      "views": 19552
+    },
+    {
+      "period": "2021-11",
+      "views": 38181
+    },
+    {
+      "period": "2023-11",
+      "views": 12035
+    },
+    {
+      "period": "2026-11",
+      "views": 12268
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 19552
+    },
+    {
+      "period": "2021",
+      "views": 38181
+    },
+    {
+      "period": "2023",
+      "views": 12035
+    },
+    {
+      "period": "2026",
+      "views": 12268
+    }
+  ]
+}

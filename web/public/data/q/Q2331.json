@@ -4,7 +4,7 @@
   "title": "Led_Zeppelin",
   "description": "English rock band (1968–1980)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Led_zeppelin_revista_pelo_1971.jpg?width=64",
-  "total": 2182458,
+  "total": 2191692,
   "monthly": [
     {
       "period": "2015-07",
@@ -225,6 +225,10 @@
     {
       "period": "2026-10",
       "views": 16185
+    },
+    {
+      "period": "2026-11",
+      "views": 9234
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 101073
+      "views": 110307
     }
   ]
 }

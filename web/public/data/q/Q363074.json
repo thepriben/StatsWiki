@@ -4,7 +4,7 @@
   "title": "Leo_Sayer",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo_Sayer_Union_Chapel.jpg?width=64",
-  "total": 50528,
+  "total": 61313,
   "monthly": [
     {
       "period": "2022-10",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 18649
+    },
+    {
+      "period": "2026-11",
+      "views": 10785
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 18649
+      "views": 29434
     }
   ]
 }

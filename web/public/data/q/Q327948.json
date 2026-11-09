@@ -4,7 +4,7 @@
   "title": "President_of_Israel",
   "description": "head of state of Israel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac_Herzog.jpg?width=64",
-  "total": 75048,
+  "total": 86026,
   "monthly": [
     {
       "period": "2016-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 10071
+    },
+    {
+      "period": "2026-11",
+      "views": 10978
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 10071
+      "views": 21049
     }
   ]
 }

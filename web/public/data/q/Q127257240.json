@@ -4,17 +4,21 @@
   "title": "Alysson_(footballer,_born_2006)",
   "description": "Brazilian footballer (born 2006)",
   "image": "",
-  "total": 8665,
+  "total": 25576,
   "monthly": [
     {
       "period": "2026-10",
       "views": 8665
+    },
+    {
+      "period": "2026-11",
+      "views": 16911
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8665
+      "views": 25576
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Strokes",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TheStrokes.jpg?width=64",
-  "total": 501630,
+  "total": 545533,
   "monthly": [
     {
       "period": "2020-02",
@@ -33,6 +33,10 @@
     {
       "period": "2026-07",
       "views": 45685
+    },
+    {
+      "period": "2026-11",
+      "views": 43903
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 253372
+      "views": 297275
     }
   ]
 }

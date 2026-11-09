@@ -4,7 +4,7 @@
   "title": "Nick_Folk",
   "description": "American football player (born 1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_folk_2016.jpg?width=64",
-  "total": 365387,
+  "total": 375432,
   "monthly": [
     {
       "period": "2017-08",
@@ -65,6 +65,10 @@
     {
       "period": "2026-10",
       "views": 25909
+    },
+    {
+      "period": "2026-11",
+      "views": 10045
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 55736
+      "views": 65781
     }
   ]
 }

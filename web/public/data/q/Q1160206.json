@@ -1,0 +1,28 @@
+{
+  "qid": "Q1160206",
+  "label": "Television",
+  "title": "Television_(band)",
+  "description": "American band",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Television.jpg?width=64",
+  "total": 123600,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 107652
+    },
+    {
+      "period": "2026-11",
+      "views": 15948
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 107652
+    },
+    {
+      "period": "2026",
+      "views": 15948
+    }
+  ]
+}

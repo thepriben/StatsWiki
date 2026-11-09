@@ -4,7 +4,7 @@
   "title": "Lisa_Nandy",
   "description": "British politician (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Lisa_Nandy_MP_crop_2.jpg?width=64",
-  "total": 610384,
+  "total": 624235,
   "monthly": [
     {
       "period": "2016-06",
@@ -49,6 +49,10 @@
     {
       "period": "2026-07",
       "views": 20717
+    },
+    {
+      "period": "2026-11",
+      "views": 13851
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 49750
+      "views": 63601
     }
   ]
 }

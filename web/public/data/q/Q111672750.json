@@ -4,7 +4,7 @@
   "title": "Giuliano_Simeone",
   "description": "Argentine footballer (born 2002)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuliano_Simeone_Argentina_v_Egypt_7_July_2026-043.jpg?width=64",
-  "total": 921665,
+  "total": 931033,
   "monthly": [
     {
       "period": "2024-07",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 399291
+    },
+    {
+      "period": "2026-11",
+      "views": 9368
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 554974
+      "views": 564342
     }
   ]
 }

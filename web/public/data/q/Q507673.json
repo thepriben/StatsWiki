@@ -4,7 +4,7 @@
   "title": "RDFa",
   "description": "format for expressing RDF statements in HTML documents",
   "image": "",
-  "total": 7373016,
+  "total": 7382676,
   "monthly": [
     {
       "period": "2020-12",
@@ -117,6 +117,10 @@
     {
       "period": "2026-10",
       "views": 659864
+    },
+    {
+      "period": "2026-11",
+      "views": 9660
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 4143110
+      "views": 4152770
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Mel_Brooks",
   "description": "American comedian, filmmaker, and actor (born 1926)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MelBrooksApr10.jpg?width=64",
-  "total": 4490103,
+  "total": 4498862,
   "monthly": [
     {
       "period": "2015-09",
@@ -237,6 +237,10 @@
     {
       "period": "2026-10",
       "views": 41956
+    },
+    {
+      "period": "2026-11",
+      "views": 8759
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 1085801
+      "views": 1094560
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jon_Gruden",
   "description": "American football coach (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_gruden.jpg?width=64",
-  "total": 3290858,
+  "total": 3301174,
   "monthly": [
     {
       "period": "2015-08",
@@ -177,6 +177,10 @@
     {
       "period": "2026-10",
       "views": 24077
+    },
+    {
+      "period": "2026-11",
+      "views": 10316
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 33365
+      "views": 43681
     }
   ]
 }

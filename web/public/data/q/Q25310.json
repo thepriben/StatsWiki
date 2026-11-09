@@ -4,7 +4,7 @@
   "title": "Robert_F._Kennedy",
   "description": "American politician and lawyer (1925–1968)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_F._Kennedy.jpg?width=64",
-  "total": 14671970,
+  "total": 14681007,
   "monthly": [
     {
       "period": "2015-11",
@@ -381,6 +381,10 @@
     {
       "period": "2026-10",
       "views": 58156
+    },
+    {
+      "period": "2026-11",
+      "views": 9037
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 1409130
+      "views": 1418167
     }
   ]
 }

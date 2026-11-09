@@ -4,7 +4,7 @@
   "title": "Notre_Dame_Fighting_Irish_football",
   "description": "American football program of the University of Notre Dame",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Notredamestadiumgamedayband.jpg?width=64",
-  "total": 1032097,
+  "total": 1045254,
   "monthly": [
     {
       "period": "2016-09",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 10464
+    },
+    {
+      "period": "2026-11",
+      "views": 13157
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 24598
+      "views": 37755
     }
   ]
 }

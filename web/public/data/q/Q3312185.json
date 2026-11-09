@@ -4,7 +4,7 @@
   "title": "Microdata_(HTML)",
   "description": "WHATWG HTML specification used to nest metadata within existing content on web. Similar to RDFa.",
   "image": "",
-  "total": 7431821,
+  "total": 7441566,
   "monthly": [
     {
       "period": "2020-12",
@@ -117,6 +117,10 @@
     {
       "period": "2026-10",
       "views": 666064
+    },
+    {
+      "period": "2026-11",
+      "views": 9745
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 4218360
+      "views": 4228105
     }
   ]
 }

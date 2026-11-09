@@ -4,7 +4,7 @@
   "title": "Lane_Kiffin",
   "description": "American football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lane-Kiffin-2010-0918-USCMN.jpg?width=64",
-  "total": 5279587,
+  "total": 5289839,
   "monthly": [
     {
       "period": "2015-09",
@@ -177,6 +177,10 @@
     {
       "period": "2026-10",
       "views": 16794
+    },
+    {
+      "period": "2026-11",
+      "views": 10252
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 933206
+      "views": 943458
     }
   ]
 }

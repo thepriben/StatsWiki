@@ -4,7 +4,7 @@
   "title": "Sutton_Foster",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SuttonFoster-byPhilipRomano.jpg?width=64",
-  "total": 3323543,
+  "total": 3333839,
   "monthly": [
     {
       "period": "2015-12",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 31218
+    },
+    {
+      "period": "2026-11",
+      "views": 10296
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 593600
+      "views": 603896
     }
   ]
 }

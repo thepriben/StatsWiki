@@ -4,7 +4,7 @@
   "title": "Thomas_Haden_Church",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Haden_Church_at_the_2009_Tribeca_Film_Festival.jpg?width=64",
-  "total": 563177,
+  "total": 571931,
   "monthly": [
     {
       "period": "2018-02",
@@ -33,6 +33,10 @@
     {
       "period": "2026-08",
       "views": 90035
+    },
+    {
+      "period": "2026-11",
+      "views": 8754
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 90035
+      "views": 98789
     }
   ]
 }

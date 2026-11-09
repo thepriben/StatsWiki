@@ -4,7 +4,7 @@
   "title": "Robin_van_Persie",
   "description": "Dutch association football player and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loco-Fener_%2810%29.jpg?width=64",
-  "total": 1086934,
+  "total": 1095776,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 13224
+    },
+    {
+      "period": "2026-11",
+      "views": 8842
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 69810
+      "views": 78652
     }
   ]
 }

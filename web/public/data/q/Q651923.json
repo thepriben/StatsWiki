@@ -4,7 +4,7 @@
   "title": "Young_Frankenstein",
   "description": "1974 film directed by Mel Brooks",
   "image": "",
-  "total": 427399,
+  "total": 436473,
   "monthly": [
     {
       "period": "2016-02",
@@ -53,6 +53,10 @@
     {
       "period": "2026-06",
       "views": 9865
+    },
+    {
+      "period": "2026-11",
+      "views": 9074
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 9865
+      "views": 18939
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Unit_731",
   "description": "chemical and biological warfare research and development unit of the Imperial Japanese Army (1935-1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unit_731_-_Complex.jpg?width=64",
-  "total": 6562816,
+  "total": 6575093,
   "monthly": [
     {
       "period": "2015-08",
@@ -393,6 +393,10 @@
     {
       "period": "2026-10",
       "views": 41496
+    },
+    {
+      "period": "2026-11",
+      "views": 12277
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 208412
+      "views": 220689
     }
   ]
 }

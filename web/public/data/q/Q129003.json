@@ -4,7 +4,7 @@
   "title": "French_Southern_and_Antarctic_Lands",
   "description": "overseas territory of France",
   "image": "",
-  "total": 216575,
+  "total": 229795,
   "monthly": [
     {
       "period": "2022-03",
@@ -37,6 +37,10 @@
     {
       "period": "2026-06",
       "views": 14009
+    },
+    {
+      "period": "2026-11",
+      "views": 13220
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 29138
+      "views": 42358
     }
   ]
 }

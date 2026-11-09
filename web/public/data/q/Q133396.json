@@ -4,7 +4,7 @@
   "title": "Knesset",
   "description": "unicameral national legislature of Israel",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_National_Library_of_Israel_Complex_4_%28cropped2%29.jpg?width=64",
-  "total": 540582,
+  "total": 550485,
   "monthly": [
     {
       "period": "2017-12",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 123745
+    },
+    {
+      "period": "2026-11",
+      "views": 9903
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 123745
+      "views": 133648
     }
   ]
 }

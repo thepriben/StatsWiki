@@ -4,17 +4,21 @@
   "title": "Dharman",
   "description": "Indian film by Ashwath Marimuthu",
   "image": "",
-  "total": 70195,
+  "total": 79110,
   "monthly": [
     {
       "period": "2026-10",
       "views": 70195
+    },
+    {
+      "period": "2026-11",
+      "views": 8915
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 70195
+      "views": 79110
     }
   ]
 }

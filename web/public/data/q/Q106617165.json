@@ -4,7 +4,7 @@
   "title": "Reece_Walsh",
   "description": "Australian rugby league player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reece_Walsh.png?width=64",
-  "total": 254851,
+  "total": 266527,
   "monthly": [
     {
       "period": "2021-05",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 11892
+    },
+    {
+      "period": "2026-11",
+      "views": 11676
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 11892
+      "views": 23568
     }
   ]
 }

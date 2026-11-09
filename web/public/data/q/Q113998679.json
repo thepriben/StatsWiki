@@ -4,7 +4,7 @@
   "title": "Marcello_Hernández",
   "description": "American comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcello_Hernandez_in_October_2024.jpg?width=64",
-  "total": 1329671,
+  "total": 1338954,
   "monthly": [
     {
       "period": "2026-01",
@@ -37,12 +37,16 @@
     {
       "period": "2026-10",
       "views": 75084
+    },
+    {
+      "period": "2026-11",
+      "views": 9283
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1329671
+      "views": 1338954
     }
   ]
 }

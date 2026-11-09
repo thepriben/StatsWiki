@@ -4,7 +4,7 @@
   "title": "Jonathan_Majors",
   "description": "American actor (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Majors_on_ColliderVideo%2C_September_2018.png?width=64",
-  "total": 7388322,
+  "total": 7397137,
   "monthly": [
     {
       "period": "2020-06",
@@ -165,6 +165,10 @@
     {
       "period": "2026-09",
       "views": 124321
+    },
+    {
+      "period": "2026-11",
+      "views": 8815
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 508666
+      "views": 517481
     }
   ]
 }

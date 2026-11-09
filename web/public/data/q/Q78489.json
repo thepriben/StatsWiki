@@ -4,7 +4,7 @@
   "title": "Niki_Lauda",
   "description": "Austrian former Formula 1 driver (1949–2019)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lauda_at_1982_Dutch_Grand_Prix.jpg?width=64",
-  "total": 3206654,
+  "total": 3218659,
   "monthly": [
     {
       "period": "2015-07",
@@ -217,6 +217,10 @@
     {
       "period": "2026-08",
       "views": 21163
+    },
+    {
+      "period": "2026-11",
+      "views": 12005
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 98036
+      "views": 110041
     }
   ]
 }
