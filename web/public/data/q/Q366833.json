@@ -4,7 +4,7 @@
   "title": "Sam_Claflin",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Claflin.jpg?width=64",
-  "total": 3774835,
+  "total": 3783621,
   "monthly": [
     {
       "period": "2015-11",
@@ -161,6 +161,10 @@
     {
       "period": "2026-07",
       "views": 23513
+    },
+    {
+      "period": "2026-11",
+      "views": 8786
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 53405
+      "views": 62191
     }
   ]
 }

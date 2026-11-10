@@ -4,7 +4,7 @@
   "title": "The_World's_Billionaires",
   "description": "annual ranking by net worth by Forbes magazine",
   "image": "",
-  "total": 21426575,
+  "total": 21445632,
   "monthly": [
     {
       "period": "2015-12",
@@ -393,6 +393,10 @@
     {
       "period": "2026-06",
       "views": 181071
+    },
+    {
+      "period": "2026-11",
+      "views": 19057
     }
   ],
   "yearly": [
@@ -442,7 +446,7 @@
     },
     {
       "period": "2026",
-      "views": 692318
+      "views": 711375
     }
   ]
 }

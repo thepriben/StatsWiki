@@ -4,7 +4,7 @@
   "title": "2027_French_presidential_election",
   "description": "elections scheduled to be held in France in April 2027",
   "image": "",
-  "total": 266903,
+  "total": 277261,
   "monthly": [
     {
       "period": "2024-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 151991
+    },
+    {
+      "period": "2026-11",
+      "views": 10358
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 197398
+      "views": 207756
     }
   ]
 }

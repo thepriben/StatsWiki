@@ -4,7 +4,7 @@
   "title": "Rivals_(TV_series)",
   "description": "British television series",
   "image": "",
-  "total": 1838050,
+  "total": 1846397,
   "monthly": [
     {
       "period": "2024-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 356125
+    },
+    {
+      "period": "2026-11",
+      "views": 8347
     }
   ],
   "yearly": [
@@ -42,7 +46,7 @@
     },
     {
       "period": "2026",
-      "views": 867587
+      "views": 875934
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Todd_Bowles",
   "description": "American football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tampa_Bay_Buccaneers_HC_Todd_Bowles_with_Meredith_Marakovits_%2871Zy1MYJ2tk%29.png?width=64",
-  "total": 998941,
+  "total": 1028861,
   "monthly": [
     {
       "period": "2015-09",
@@ -125,6 +125,10 @@
     {
       "period": "2026-10",
       "views": 18800
+    },
+    {
+      "period": "2026-11",
+      "views": 29920
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 18800
+      "views": 48720
     }
   ]
 }

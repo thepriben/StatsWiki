@@ -4,7 +4,7 @@
   "title": "Rolf_Harris",
   "description": "Australian entertainer (1930–2023)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolf_Harris.jpg?width=64",
-  "total": 946941,
+  "total": 957399,
   "monthly": [
     {
       "period": "2016-02",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 48205
+    },
+    {
+      "period": "2026-11",
+      "views": 10458
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 178511
+      "views": 188969
     }
   ]
 }

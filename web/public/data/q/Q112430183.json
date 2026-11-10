@@ -4,7 +4,7 @@
   "title": "Kalki_2898_AD",
   "description": "2024 film by Nag Ashwin",
   "image": "",
-  "total": 13336631,
+  "total": 13345672,
   "monthly": [
     {
       "period": "2023-07",
@@ -69,6 +69,10 @@
     {
       "period": "2025-09",
       "views": 44525
+    },
+    {
+      "period": "2026-11",
+      "views": 9041
     }
   ],
   "yearly": [
@@ -83,6 +87,10 @@
     {
       "period": "2025",
       "views": 92941
+    },
+    {
+      "period": "2026",
+      "views": 9041
     }
   ]
 }

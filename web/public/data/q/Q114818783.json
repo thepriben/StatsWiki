@@ -4,7 +4,7 @@
   "title": "Bucky_Irving",
   "description": "American football player",
   "image": "",
-  "total": 104447,
+  "total": 156610,
   "monthly": [
     {
       "period": "2024-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 36843
+    },
+    {
+      "period": "2026-11",
+      "views": 52163
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 36843
+      "views": 89006
     }
   ]
 }

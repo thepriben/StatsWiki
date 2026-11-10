@@ -4,7 +4,7 @@
   "title": "Opinion_polling_for_the_2027_French_presidential_election",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 143926,
+  "total": 153854,
   "monthly": [
     {
       "period": "2025-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 100177
+    },
+    {
+      "period": "2026-11",
+      "views": 9928
     }
   ],
   "yearly": [
@@ -26,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 124716
+      "views": 134644
     }
   ]
 }

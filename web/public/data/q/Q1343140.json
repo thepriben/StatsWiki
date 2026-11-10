@@ -4,7 +4,7 @@
   "title": "Paul_Whitehouse",
   "description": "Welsh comedian, presenter, actor (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Whitehouse_in_2017.jpg?width=64",
-  "total": 397690,
+  "total": 410305,
   "monthly": [
     {
       "period": "2018-06",
@@ -73,6 +73,10 @@
     {
       "period": "2026-10",
       "views": 23988
+    },
+    {
+      "period": "2026-11",
+      "views": 12615
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 47746
+      "views": 60361
     }
   ]
 }

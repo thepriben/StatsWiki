@@ -4,17 +4,21 @@
   "title": "Miss_Violence",
   "description": "2013 film by Alexandros Avranas",
   "image": "",
-  "total": 9011,
+  "total": 47422,
   "monthly": [
     {
       "period": "2026-10",
       "views": 9011
+    },
+    {
+      "period": "2026-11",
+      "views": 38411
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9011
+      "views": 47422
     }
   ]
 }

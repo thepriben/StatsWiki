@@ -1,0 +1,48 @@
+{
+  "qid": "Q163283",
+  "label": "tuatara",
+  "title": "Tuatara",
+  "description": "genus of reptiles",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuatara_adult.jpg?width=64",
+  "total": 77862,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 10537
+    },
+    {
+      "period": "2016-08",
+      "views": 9554
+    },
+    {
+      "period": "2021-07",
+      "views": 16997
+    },
+    {
+      "period": "2025-02",
+      "views": 19034
+    },
+    {
+      "period": "2026-11",
+      "views": 21740
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 20091
+    },
+    {
+      "period": "2021",
+      "views": 16997
+    },
+    {
+      "period": "2025",
+      "views": 19034
+    },
+    {
+      "period": "2026",
+      "views": 21740
+    }
+  ]
+}

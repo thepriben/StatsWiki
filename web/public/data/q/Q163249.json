@@ -4,7 +4,7 @@
   "title": "Jessica_Biel",
   "description": "American actress (born 1982)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica_Biel_2012.jpg?width=64",
-  "total": 6836204,
+  "total": 6850188,
   "monthly": [
     {
       "period": "2015-09",
@@ -301,6 +301,10 @@
     {
       "period": "2026-10",
       "views": 230690
+    },
+    {
+      "period": "2026-11",
+      "views": 13984
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 289137
+      "views": 303121
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Myles_Garrett",
   "description": "American football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Myles_Garrett_%282021%29.jpg?width=64",
-  "total": 2029935,
+  "total": 2041691,
   "monthly": [
     {
       "period": "2017-02",
@@ -125,6 +125,10 @@
     {
       "period": "2026-10",
       "views": 7915
+    },
+    {
+      "period": "2026-11",
+      "views": 11756
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 913425
+      "views": 925181
     }
   ]
 }

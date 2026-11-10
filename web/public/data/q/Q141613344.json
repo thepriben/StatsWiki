@@ -4,17 +4,21 @@
   "title": "Skydance_Corporation",
   "description": "American multinational mass media and entertainment conglomerate",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skydance_Media_2020.svg?width=64",
-  "total": 397990,
+  "total": 407636,
   "monthly": [
     {
       "period": "2026-10",
       "views": 397990
+    },
+    {
+      "period": "2026-11",
+      "views": 9646
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 397990
+      "views": 407636
     }
   ]
 }

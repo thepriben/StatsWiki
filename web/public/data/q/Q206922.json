@@ -4,7 +4,7 @@
   "title": "Andy_Serkis",
   "description": "British actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Serkis_Comic-Con_2011.jpg?width=64",
-  "total": 3464163,
+  "total": 3477784,
   "monthly": [
     {
       "period": "2015-10",
@@ -133,6 +133,10 @@
     {
       "period": "2026-07",
       "views": 46437
+    },
+    {
+      "period": "2026-11",
+      "views": 13621
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 108541
+      "views": 122162
     }
   ]
 }

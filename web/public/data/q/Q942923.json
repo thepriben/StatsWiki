@@ -4,7 +4,7 @@
   "title": "Roy_Cohn",
   "description": "American lawyer (1927–1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roy_Cohn.jpg?width=64",
-  "total": 3384401,
+  "total": 3394737,
   "monthly": [
     {
       "period": "2016-06",
@@ -141,6 +141,10 @@
     {
       "period": "2026-09",
       "views": 92437
+    },
+    {
+      "period": "2026-11",
+      "views": 10336
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 183842
+      "views": 194178
     }
   ]
 }

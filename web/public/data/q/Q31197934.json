@@ -1,0 +1,32 @@
+{
+  "qid": "Q31197934",
+  "label": "DC Studios",
+  "title": "DC_Studios",
+  "description": "American entertainment company",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DC_Studios_logo.svg?width=64",
+  "total": 47457,
+  "monthly": [
+    {
+      "period": "2023-01",
+      "views": 13337
+    },
+    {
+      "period": "2023-02",
+      "views": 13457
+    },
+    {
+      "period": "2026-11",
+      "views": 20663
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 26794
+    },
+    {
+      "period": "2026",
+      "views": 20663
+    }
+  ]
+}

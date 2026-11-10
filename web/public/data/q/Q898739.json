@@ -1,0 +1,36 @@
+{
+  "qid": "Q898739",
+  "label": "laudanum",
+  "title": "Laudanum",
+  "description": "tincture of opium",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laudanum_poison_100ml_flasche.jpg?width=64",
+  "total": 30341,
+  "monthly": [
+    {
+      "period": "2018-05",
+      "views": 11387
+    },
+    {
+      "period": "2021-09",
+      "views": 9760
+    },
+    {
+      "period": "2026-11",
+      "views": 9194
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 11387
+    },
+    {
+      "period": "2021",
+      "views": 9760
+    },
+    {
+      "period": "2026",
+      "views": 9194
+    }
+  ]
+}

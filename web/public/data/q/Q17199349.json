@@ -4,7 +4,7 @@
   "title": "Casualties_of_the_Russo-Ukrainian_War",
   "description": "casualties of ongoing conflict since 2014",
   "image": "",
-  "total": 9306271,
+  "total": 9517631,
   "monthly": [
     {
       "period": "2022-02",
@@ -173,6 +173,30 @@
     {
       "period": "2025-10",
       "views": 17823
+    },
+    {
+      "period": "2025-11",
+      "views": 59192
+    },
+    {
+      "period": "2025-12",
+      "views": 48715
+    },
+    {
+      "period": "2026-01",
+      "views": 50444
+    },
+    {
+      "period": "2026-02",
+      "views": 32651
+    },
+    {
+      "period": "2026-05",
+      "views": 9896
+    },
+    {
+      "period": "2026-11",
+      "views": 10462
     }
   ],
   "yearly": [
@@ -190,7 +214,11 @@
     },
     {
       "period": "2025",
-      "views": 1564551
+      "views": 1672458
+    },
+    {
+      "period": "2026",
+      "views": 103453
     }
   ]
 }

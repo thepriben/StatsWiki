@@ -4,7 +4,7 @@
   "title": "Simon_Kinberg",
   "description": "British-American screenwriter, film producer and director",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon_Kinberg.jpg?width=64",
-  "total": 119495,
+  "total": 128528,
   "monthly": [
     {
       "period": "2018-09",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 17761
+    },
+    {
+      "period": "2026-11",
+      "views": 9033
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 17761
+      "views": 26794
     }
   ]
 }
