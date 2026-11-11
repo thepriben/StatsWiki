@@ -4,7 +4,7 @@
   "title": "Lisa_Salters",
   "description": "American sportscaster and basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisa_Salters_2009.jpg?width=64",
-  "total": 102510,
+  "total": 112326,
   "monthly": [
     {
       "period": "2017-10",
@@ -25,6 +25,10 @@
     {
       "period": "2026-08",
       "views": 18328
+    },
+    {
+      "period": "2026-11",
+      "views": 9816
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 18328
+      "views": 28144
     }
   ]
 }

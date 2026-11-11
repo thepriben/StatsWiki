@@ -4,7 +4,7 @@
   "title": "Chris_O'Donnell",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_ODonnell_Max_Payne_2008.jpg?width=64",
-  "total": 325941,
+  "total": 337150,
   "monthly": [
     {
       "period": "2016-12",
@@ -53,6 +53,10 @@
     {
       "period": "2026-08",
       "views": 16283
+    },
+    {
+      "period": "2026-11",
+      "views": 11209
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 38860
+      "views": 50069
     }
   ]
 }

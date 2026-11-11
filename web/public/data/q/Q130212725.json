@@ -4,7 +4,7 @@
   "title": "Ashley_St._Clair",
   "description": "conservative political commentator",
   "image": "",
-  "total": 595888,
+  "total": 604056,
   "monthly": [
     {
       "period": "2026-01",
@@ -29,12 +29,16 @@
     {
       "period": "2026-10",
       "views": 110749
+    },
+    {
+      "period": "2026-11",
+      "views": 8168
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 595888
+      "views": 604056
     }
   ]
 }

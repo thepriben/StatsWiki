@@ -4,7 +4,7 @@
   "title": "MacKenzie_Scott",
   "description": "American philanthropist and novelist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MacKenzie_Scott.jpg?width=64",
-  "total": 3702240,
+  "total": 3710204,
   "monthly": [
     {
       "period": "2020-07",
@@ -161,6 +161,10 @@
     {
       "period": "2026-06",
       "views": 18974
+    },
+    {
+      "period": "2026-11",
+      "views": 7964
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 84755
+      "views": 92719
     }
   ]
 }

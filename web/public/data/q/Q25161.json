@@ -4,7 +4,7 @@
   "title": "Roald_Dahl",
   "description": "British writer and poet (1916–1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald_Dahl.jpg?width=64",
-  "total": 3878971,
+  "total": 3887475,
   "monthly": [
     {
       "period": "2015-09",
@@ -233,6 +233,10 @@
     {
       "period": "2026-08",
       "views": 8559
+    },
+    {
+      "period": "2026-11",
+      "views": 8504
     }
   ],
   "yearly": [
@@ -282,7 +286,7 @@
     },
     {
       "period": "2026",
-      "views": 238292
+      "views": 246796
     }
   ]
 }

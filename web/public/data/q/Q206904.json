@@ -4,7 +4,7 @@
   "title": "R_(programming_language)",
   "description": "programming language for statistical analysis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R_Terminal.png?width=64",
-  "total": 84061,
+  "total": 93314,
   "monthly": [
     {
       "period": "2016-03",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 24590
+    },
+    {
+      "period": "2026-11",
+      "views": 9253
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 24590
+      "views": 33843
     }
   ]
 }

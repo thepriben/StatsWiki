@@ -4,7 +4,7 @@
   "title": "Emilia_Clarke",
   "description": "British actress (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emilia_Clarke_Dior_Roses_des_Vents.png?width=64",
-  "total": 32658623,
+  "total": 32666305,
   "monthly": [
     {
       "period": "2015-07",
@@ -501,6 +501,10 @@
     {
       "period": "2026-10",
       "views": 77970
+    },
+    {
+      "period": "2026-11",
+      "views": 7682
     }
   ],
   "yearly": [
@@ -550,7 +554,7 @@
     },
     {
       "period": "2026",
-      "views": 1098359
+      "views": 1106041
     }
   ]
 }

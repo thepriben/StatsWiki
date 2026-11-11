@@ -4,7 +4,7 @@
   "title": "Mustafa_Kemal_Atatürk",
   "description": "founding father of the Republic of Turkey (c. 1881–1938)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atat%C3%BCrk_Kemal.jpg?width=64",
-  "total": 725227,
+  "total": 738234,
   "monthly": [
     {
       "period": "2015-11",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 11423
+    },
+    {
+      "period": "2026-11",
+      "views": 13007
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 11423
+      "views": 24430
     }
   ]
 }

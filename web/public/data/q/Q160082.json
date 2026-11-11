@@ -1,0 +1,48 @@
+{
+  "qid": "Q160082",
+  "label": "Booker Prize",
+  "title": "Booker_Prize",
+  "description": "British literary award",
+  "image": "",
+  "total": 53333,
+  "monthly": [
+    {
+      "period": "2018-10",
+      "views": 10006
+    },
+    {
+      "period": "2019-10",
+      "views": 12230
+    },
+    {
+      "period": "2025-05",
+      "views": 9785
+    },
+    {
+      "period": "2025-11",
+      "views": 10061
+    },
+    {
+      "period": "2026-11",
+      "views": 11251
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 10006
+    },
+    {
+      "period": "2019",
+      "views": 12230
+    },
+    {
+      "period": "2025",
+      "views": 19846
+    },
+    {
+      "period": "2026",
+      "views": 11251
+    }
+  ]
+}

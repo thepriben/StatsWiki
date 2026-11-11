@@ -4,7 +4,7 @@
   "title": "Anders_Behring_Breivik",
   "description": "Norwegian neo-Nazi terrorist and mass murderer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sketch_of_Breivik.png?width=64",
-  "total": 2582090,
+  "total": 2592475,
   "monthly": [
     {
       "period": "2015-07",
@@ -157,6 +157,10 @@
     {
       "period": "2026-08",
       "views": 10081
+    },
+    {
+      "period": "2026-11",
+      "views": 10385
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 155526
+      "views": 165911
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Cooper_Flagg",
   "description": "American basketball player (born 2006)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duke_at_UNC%2C_Mar_2025%2C_Flagg.jpg?width=64",
-  "total": 2550594,
+  "total": 2561484,
   "monthly": [
     {
       "period": "2023-07",
@@ -93,6 +93,10 @@
     {
       "period": "2026-07",
       "views": 15302
+    },
+    {
+      "period": "2026-11",
+      "views": 10890
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 227256
+      "views": 238146
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Robyn",
   "description": "Swedish singer (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robyn_face.jpg?width=64",
-  "total": 360312,
+  "total": 371422,
   "monthly": [
     {
       "period": "2015-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 8573
+    },
+    {
+      "period": "2026-11",
+      "views": 11110
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 155262
+      "views": 166372
     }
   ]
 }

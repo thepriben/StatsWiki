@@ -4,7 +4,7 @@
   "title": "Tippi_Hedren",
   "description": "American actress, model and activist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tippi_Hedren_in_1964.jpg?width=64",
-  "total": 897799,
+  "total": 905863,
   "monthly": [
     {
       "period": "2015-07",
@@ -153,6 +153,10 @@
     {
       "period": "2026-10",
       "views": 30485
+    },
+    {
+      "period": "2026-11",
+      "views": 8064
     }
   ],
   "yearly": [
@@ -198,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 40219
+      "views": 48283
     }
   ]
 }

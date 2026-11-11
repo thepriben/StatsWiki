@@ -4,7 +4,7 @@
   "title": "Harrison_Smith",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison_Smith_%28American_football%29.JPG?width=64",
-  "total": 90539,
+  "total": 98811,
   "monthly": [
     {
       "period": "2023-10",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 24800
+    },
+    {
+      "period": "2026-11",
+      "views": 8272
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 69686
+      "views": 77958
     }
   ]
 }

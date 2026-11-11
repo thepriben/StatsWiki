@@ -4,7 +4,7 @@
   "title": "Indira_Gandhi",
   "description": "Prime Minister of India (1966-1977; 1980-1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indira_Gandhi_official_portrait.png?width=64",
-  "total": 5808447,
+  "total": 5817257,
   "monthly": [
     {
       "period": "2015-07",
@@ -357,6 +357,10 @@
     {
       "period": "2026-10",
       "views": 21945
+    },
+    {
+      "period": "2026-11",
+      "views": 8810
     }
   ],
   "yearly": [
@@ -406,7 +410,7 @@
     },
     {
       "period": "2026",
-      "views": 56267
+      "views": 65077
     }
   ]
 }

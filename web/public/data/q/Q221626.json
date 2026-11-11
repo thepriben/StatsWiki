@@ -4,7 +4,7 @@
   "title": "Buffalo_Bills",
   "description": "National Football League franchise in Orchard Park, New York",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Carpenter_field_goal_vs._Dolphins_2014.jpg?width=64",
-  "total": 2102204,
+  "total": 2112213,
   "monthly": [
     {
       "period": "2015-09",
@@ -193,6 +193,10 @@
     {
       "period": "2026-10",
       "views": 12640
+    },
+    {
+      "period": "2026-11",
+      "views": 10009
     }
   ],
   "yearly": [
@@ -242,7 +246,7 @@
     },
     {
       "period": "2026",
-      "views": 184891
+      "views": 194900
     }
   ]
 }

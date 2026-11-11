@@ -4,7 +4,7 @@
   "title": "Bill_Cosby",
   "description": "American actor and comedian",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?width=64",
-  "total": 7053634,
+  "total": 7061589,
   "monthly": [
     {
       "period": "2015-07",
@@ -257,6 +257,10 @@
     {
       "period": "2026-10",
       "views": 11577
+    },
+    {
+      "period": "2026-11",
+      "views": 7955
     }
   ],
   "yearly": [
@@ -306,7 +310,7 @@
     },
     {
       "period": "2026",
-      "views": 159136
+      "views": 167091
     }
   ]
 }

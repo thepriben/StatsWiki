@@ -4,7 +4,7 @@
   "title": "Wes_Streeting",
   "description": "British Labour politician (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Wes_Streeting_crop_2.jpg?width=64",
-  "total": 1443901,
+  "total": 1458684,
   "monthly": [
     {
       "period": "2021-05",
@@ -77,6 +77,10 @@
     {
       "period": "2026-07",
       "views": 94612
+    },
+    {
+      "period": "2026-11",
+      "views": 14783
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 942027
+      "views": 956810
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Nick_Foles",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Foles_Philadelphia_Eagles_Super_Bowl_LII_Victory_Parade_%2840140602902%29_%28cropped1%29.jpg?width=64",
-  "total": 5414619,
+  "total": 5426497,
   "monthly": [
     {
       "period": "2015-09",
@@ -165,6 +165,10 @@
     {
       "period": "2026-09",
       "views": 9207
+    },
+    {
+      "period": "2026-11",
+      "views": 11878
     }
   ],
   "yearly": [
@@ -214,7 +218,7 @@
     },
     {
       "period": "2026",
-      "views": 55560
+      "views": 67438
     }
   ]
 }

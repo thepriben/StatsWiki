@@ -4,7 +4,7 @@
   "title": "Michael_Bloomberg",
   "description": "American businessman and politician; 108th Mayor of New York City",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Bloomberg_Headshot.jpg?width=64",
-  "total": 9542077,
+  "total": 9558881,
   "monthly": [
     {
       "period": "2016-01",
@@ -161,6 +161,10 @@
     {
       "period": "2026-09",
       "views": 26351
+    },
+    {
+      "period": "2026-11",
+      "views": 16804
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 54264
+      "views": 71068
     }
   ]
 }

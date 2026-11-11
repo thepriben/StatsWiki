@@ -4,7 +4,7 @@
   "title": "Joe_Swash",
   "description": "British actor, television personality",
   "image": "",
-  "total": 290326,
+  "total": 299699,
   "monthly": [
     {
       "period": "2016-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 20371
+    },
+    {
+      "period": "2026-11",
+      "views": 9373
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 20371
+      "views": 29744
     }
   ]
 }

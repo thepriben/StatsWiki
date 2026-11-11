@@ -4,7 +4,7 @@
   "title": "HMP_Wandsworth",
   "description": "prison in Wandsworth, London",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HM_Wandsworth.jpg?width=64",
-  "total": 102636,
+  "total": 125591,
   "monthly": [
     {
       "period": "2023-09",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-11",
-      "views": 38960
+      "views": 61915
     }
   ],
   "yearly": [
@@ -30,7 +30,7 @@
     },
     {
       "period": "2026",
-      "views": 38960
+      "views": 61915
     }
   ]
 }

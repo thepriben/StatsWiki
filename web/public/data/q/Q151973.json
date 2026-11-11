@@ -4,7 +4,7 @@
   "title": "Richard_Burton",
   "description": "Welsh actor (1925–1984)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Burton_1956.jpg?width=64",
-  "total": 1274911,
+  "total": 1283151,
   "monthly": [
     {
       "period": "2015-09",
@@ -113,6 +113,10 @@
     {
       "period": "2026-09",
       "views": 8979
+    },
+    {
+      "period": "2026-11",
+      "views": 8240
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 55897
+      "views": 64137
     }
   ]
 }

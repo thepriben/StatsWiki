@@ -4,7 +4,7 @@
   "title": "Cindy_Blackman_Santana",
   "description": "American musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cindy_Blackman_brighter.jpg?width=64",
-  "total": 137596,
+  "total": 148435,
   "monthly": [
     {
       "period": "2018-06",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 18893
+    },
+    {
+      "period": "2026-11",
+      "views": 10839
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 51532
+      "views": 62371
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "LeVar_Burton",
   "description": "American actor, director, and television host (born 1957)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LeVar_Burton_Photo_Op_GalaxyCon_Raleigh_2023.jpg?width=64",
-  "total": 873483,
+  "total": 893708,
   "monthly": [
     {
       "period": "2016-05",
@@ -81,6 +81,10 @@
     {
       "period": "2026-10",
       "views": 10273
+    },
+    {
+      "period": "2026-11",
+      "views": 20225
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 37947
+      "views": 58172
     }
   ]
 }
