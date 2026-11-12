@@ -4,17 +4,21 @@
   "title": "Shadow_blister_effect",
   "description": "distortion of shadows caused by moving objects",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Shadow_Blister_Effect_-_Sunlight.jpg?width=64",
-  "total": 18423,
+  "total": 28479,
   "monthly": [
     {
       "period": "2026-06",
       "views": 18423
+    },
+    {
+      "period": "2026-11",
+      "views": 10056
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 18423
+      "views": 28479
     }
   ]
 }

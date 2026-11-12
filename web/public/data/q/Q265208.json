@@ -4,7 +4,7 @@
   "title": "Katherine_Parkinson",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katherine_Parkinson_2016_%284hEKoqA3aK0%29.jpg?width=64",
-  "total": 282610,
+  "total": 291770,
   "monthly": [
     {
       "period": "2015-08",
@@ -65,6 +65,10 @@
     {
       "period": "2026-08",
       "views": 11148
+    },
+    {
+      "period": "2026-11",
+      "views": 9160
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 34637
+      "views": 43797
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "Misty_Green",
   "description": "upcoming film directed by Chris Rock",
   "image": "",
-  "total": 19694,
+  "total": 27907,
   "monthly": [
     {
       "period": "2026-07",
       "views": 19694
+    },
+    {
+      "period": "2026-11",
+      "views": 8213
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 19694
+      "views": 27907
     }
   ]
 }

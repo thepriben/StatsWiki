@@ -4,7 +4,7 @@
   "title": "Wayne_Rooney",
   "description": "English footballer and manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wayne-Rooney-2015-10-21.jpg?width=64",
-  "total": 11085607,
+  "total": 11095509,
   "monthly": [
     {
       "period": "2015-07",
@@ -433,6 +433,10 @@
     {
       "period": "2026-10",
       "views": 8471
+    },
+    {
+      "period": "2026-11",
+      "views": 9902
     }
   ],
   "yearly": [
@@ -482,7 +486,7 @@
     },
     {
       "period": "2026",
-      "views": 780559
+      "views": 790461
     }
   ]
 }

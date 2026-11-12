@@ -4,7 +4,7 @@
   "title": "Mark_Ballas",
   "description": "American actor and dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_Ballas_2013.jpg?width=64",
-  "total": 753747,
+  "total": 762567,
   "monthly": [
     {
       "period": "2015-09",
@@ -77,6 +77,10 @@
     {
       "period": "2026-10",
       "views": 100957
+    },
+    {
+      "period": "2026-11",
+      "views": 8820
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 179776
+      "views": 188596
     }
   ]
 }

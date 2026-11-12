@@ -3,8 +3,8 @@
   "label": "Elizabeth Olsen",
   "title": "Elizabeth_Olsen",
   "description": "American actress (born 1989)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ElizabethOlsen-TIFF2025-02_%28cropped%29.png?width=64",
-  "total": 24796103,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Olsen_-_Los_Angeles_Comic_Con_2025.jpg?width=64",
+  "total": 24820732,
   "monthly": [
     {
       "period": "2015-07",
@@ -421,6 +421,10 @@
     {
       "period": "2026-08",
       "views": 207028
+    },
+    {
+      "period": "2026-11",
+      "views": 24629
     }
   ],
   "yearly": [
@@ -470,7 +474,7 @@
     },
     {
       "period": "2026",
-      "views": 455351
+      "views": 479980
     }
   ]
 }

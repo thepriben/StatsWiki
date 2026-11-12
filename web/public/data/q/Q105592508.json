@@ -1,0 +1,32 @@
+{
+  "qid": "Q105592508",
+  "label": "2021 Texas power crisis",
+  "title": "2021_Texas_power_crisis",
+  "description": "Major power outage in Texas, caused by a combination of an Arctic cold air outbreak and multiple major winter storms",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B5%D1%85%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81_2021_%D0%B3%D0%BE%D0%B4%D0%B0.jpg?width=64",
+  "total": 83236,
+  "monthly": [
+    {
+      "period": "2021-02",
+      "views": 47005
+    },
+    {
+      "period": "2026-01",
+      "views": 20290
+    },
+    {
+      "period": "2026-11",
+      "views": 15941
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 47005
+    },
+    {
+      "period": "2026",
+      "views": 36231
+    }
+  ]
+}

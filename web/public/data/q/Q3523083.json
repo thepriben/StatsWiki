@@ -4,7 +4,7 @@
   "title": "Dayanidhi_Maran",
   "description": "Indian politician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dayanidhi_Maran.jpg?width=64",
-  "total": 116926,
+  "total": 127067,
   "monthly": [
     {
       "period": "2018-08",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 24592
+    },
+    {
+      "period": "2026-11",
+      "views": 10141
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 24592
+      "views": 34733
     }
   ]
 }

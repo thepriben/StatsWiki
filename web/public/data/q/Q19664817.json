@@ -4,7 +4,7 @@
   "title": "Jaylen_Brown",
   "description": "American basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaylen_Brown_2017.jpg?width=64",
-  "total": 2511613,
+  "total": 2527748,
   "monthly": [
     {
       "period": "2016-06",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 23755
+    },
+    {
+      "period": "2026-11",
+      "views": 16135
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 424812
+      "views": 440947
     }
   ]
 }

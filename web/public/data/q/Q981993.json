@@ -4,7 +4,7 @@
   "title": "Ian_Charleson",
   "description": "Scottish actor (1949-1990)",
   "image": "",
-  "total": 349779,
+  "total": 361124,
   "monthly": [
     {
       "period": "2020-06",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 150563
+    },
+    {
+      "period": "2026-11",
+      "views": 11345
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 268655
+      "views": 280000
     }
   ]
 }

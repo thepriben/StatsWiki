@@ -4,17 +4,21 @@
   "title": "Mike_Hammer_(character)",
   "description": "fictional private detective created by Mickey Spillane",
   "image": "",
-  "total": 35916,
+  "total": 47000,
   "monthly": [
     {
       "period": "2026-09",
       "views": 35916
+    },
+    {
+      "period": "2026-11",
+      "views": 11084
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 35916
+      "views": 47000
     }
   ]
 }

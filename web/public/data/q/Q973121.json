@@ -2,9 +2,9 @@
   "qid": "Q973121",
   "label": "Paul George",
   "title": "Paul_George",
-  "description": "American basketball player",
+  "description": "American basketball player (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pacers_Paul_George_%28cropped%29.jpg?width=64",
-  "total": 2269980,
+  "total": 2302989,
   "monthly": [
     {
       "period": "2016-02",
@@ -165,6 +165,10 @@
     {
       "period": "2026-10",
       "views": 21150
+    },
+    {
+      "period": "2026-11",
+      "views": 33009
     }
   ],
   "yearly": [
@@ -206,7 +210,7 @@
     },
     {
       "period": "2026",
-      "views": 197896
+      "views": 230905
     }
   ]
 }

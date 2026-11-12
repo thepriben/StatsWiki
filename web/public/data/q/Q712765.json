@@ -4,7 +4,7 @@
   "title": "Peter_Andre",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Andre_2.jpg?width=64",
-  "total": 298263,
+  "total": 315394,
   "monthly": [
     {
       "period": "2015-09",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 10312
+    },
+    {
+      "period": "2026-11",
+      "views": 17131
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 10312
+      "views": 27443
     }
   ]
 }

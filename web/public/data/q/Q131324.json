@@ -4,7 +4,7 @@
   "title": "Janet_Jackson",
   "description": "American singer, songwriter, dancer and actress (born 1966)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JanetJacksonUnbreakableTourSanFran2015_%28cropped%29.jpg?width=64",
-  "total": 6253450,
+  "total": 6265638,
   "monthly": [
     {
       "period": "2015-07",
@@ -261,6 +261,10 @@
     {
       "period": "2026-08",
       "views": 46229
+    },
+    {
+      "period": "2026-11",
+      "views": 12188
     }
   ],
   "yearly": [
@@ -310,7 +314,7 @@
     },
     {
       "period": "2026",
-      "views": 1676531
+      "views": 1688719
     }
   ]
 }

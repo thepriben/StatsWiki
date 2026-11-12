@@ -4,7 +4,7 @@
   "title": "Brandy_Norwood",
   "description": "American singer, songwriter and actress (born 1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandy_Norwood_2019.png?width=64",
-  "total": 1263263,
+  "total": 1272786,
   "monthly": [
     {
       "period": "2015-07",
@@ -129,6 +129,10 @@
     {
       "period": "2026-07",
       "views": 12025
+    },
+    {
+      "period": "2026-11",
+      "views": 9523
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 59740
+      "views": 69263
     }
   ]
 }
