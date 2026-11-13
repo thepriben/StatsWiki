@@ -4,8 +4,16 @@
   "title": "Daniel_Correa",
   "description": "Brazilian footballer",
   "image": "",
-  "total": 29052,
+  "total": 115559,
   "monthly": [
+    {
+      "period": "2018-10",
+      "views": 42462
+    },
+    {
+      "period": "2018-11",
+      "views": 29264
+    },
     {
       "period": "2026-06",
       "views": 16602
@@ -13,12 +21,20 @@
     {
       "period": "2026-10",
       "views": 12450
+    },
+    {
+      "period": "2026-11",
+      "views": 14781
     }
   ],
   "yearly": [
     {
+      "period": "2018",
+      "views": 71726
+    },
+    {
       "period": "2026",
-      "views": 29052
+      "views": 43833
     }
   ]
 }

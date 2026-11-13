@@ -4,7 +4,7 @@
   "title": "Neil_Young",
   "description": "Canadian singer, songwriter and filmmaker (born 1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neil_Young_Stavernfestivalen_2016_%28220929%29.jpg?width=64",
-  "total": 2578075,
+  "total": 2586603,
   "monthly": [
     {
       "period": "2015-08",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 46025
+    },
+    {
+      "period": "2026-11",
+      "views": 8528
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 439466
+      "views": 447994
     }
   ]
 }

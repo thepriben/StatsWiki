@@ -4,7 +4,7 @@
   "title": "Gabe_Newell",
   "description": "American computer programmer and businessman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabe_Newell_GDC_2010_%28cropped_2%29.jpg?width=64",
-  "total": 351078,
+  "total": 359281,
   "monthly": [
     {
       "period": "2016-04",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 57730
+    },
+    {
+      "period": "2026-11",
+      "views": 8203
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 68804
+      "views": 77007
     }
   ]
 }

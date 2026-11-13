@@ -4,7 +4,7 @@
   "title": "404.php",
   "description": "HTTP error response code",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/404_not_found.svg?width=64",
-  "total": 192027352,
+  "total": 192036496,
   "monthly": [
     {
       "period": "2015-07",
@@ -533,6 +533,10 @@
     {
       "period": "2026-10",
       "views": 73745
+    },
+    {
+      "period": "2026-11",
+      "views": 9144
     }
   ],
   "yearly": [
@@ -582,7 +586,7 @@
     },
     {
       "period": "2026",
-      "views": 320733
+      "views": 329877
     }
   ]
 }

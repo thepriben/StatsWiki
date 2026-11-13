@@ -1,10 +1,10 @@
 {
   "qid": "Q310275",
-  "label": "Frankie Muniz",
+  "label": "Frankie Muñiz",
   "title": "Frankie_Muniz",
   "description": "American actor (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankie_Muniz_2011.jpg?width=64",
-  "total": 2831458,
+  "total": 2859127,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-09",
       "views": 43096
+    },
+    {
+      "period": "2026-11",
+      "views": 27669
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 456085
+      "views": 483754
     }
   ]
 }

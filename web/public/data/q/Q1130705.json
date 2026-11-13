@@ -1,0 +1,96 @@
+{
+  "qid": "Q1130705",
+  "label": "A Bronx Tale",
+  "title": "A_Bronx_Tale",
+  "description": "1993 film directed by Robert De Niro",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Bronx_Tale_Logo.png?width=64",
+  "total": 362599,
+  "monthly": [
+    {
+      "period": "2017-03",
+      "views": 14699
+    },
+    {
+      "period": "2018-01",
+      "views": 19256
+    },
+    {
+      "period": "2018-02",
+      "views": 12282
+    },
+    {
+      "period": "2018-03",
+      "views": 12702
+    },
+    {
+      "period": "2018-04",
+      "views": 33628
+    },
+    {
+      "period": "2018-06",
+      "views": 24387
+    },
+    {
+      "period": "2018-07",
+      "views": 28659
+    },
+    {
+      "period": "2019-01",
+      "views": 16763
+    },
+    {
+      "period": "2019-05",
+      "views": 11134
+    },
+    {
+      "period": "2019-06",
+      "views": 16308
+    },
+    {
+      "period": "2020-08",
+      "views": 12144
+    },
+    {
+      "period": "2023-06",
+      "views": 125965
+    },
+    {
+      "period": "2025-06",
+      "views": 26775
+    },
+    {
+      "period": "2026-11",
+      "views": 7897
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 14699
+    },
+    {
+      "period": "2018",
+      "views": 130914
+    },
+    {
+      "period": "2019",
+      "views": 44205
+    },
+    {
+      "period": "2020",
+      "views": 12144
+    },
+    {
+      "period": "2023",
+      "views": 125965
+    },
+    {
+      "period": "2025",
+      "views": 26775
+    },
+    {
+      "period": "2026",
+      "views": 7897
+    }
+  ]
+}

@@ -1,20 +1,36 @@
 {
   "qid": "Q719200",
   "label": "Hiram Rhodes Revels",
-  "title": "Hiram_R._Revels",
+  "title": "Hiram_Rhodes_Revels",
   "description": "American politician (1827-1901)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hiram_Rhodes_Revels_Brady-Handy2.jpg?width=64",
-  "total": 11751,
+  "total": 83198,
   "monthly": [
     {
+      "period": "2016-02",
+      "views": 16309
+    },
+    {
+      "period": "2020-02",
+      "views": 13900
+    },
+    {
       "period": "2026-11",
-      "views": 11751
+      "views": 52989
     }
   ],
   "yearly": [
     {
+      "period": "2016",
+      "views": 16309
+    },
+    {
+      "period": "2020",
+      "views": 13900
+    },
+    {
       "period": "2026",
-      "views": 11751
+      "views": 52989
     }
   ]
 }

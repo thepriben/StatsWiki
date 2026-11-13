@@ -4,7 +4,7 @@
   "title": "Duran_Duran",
   "description": "British band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duran_Duran_1983.jpg?width=64",
-  "total": 1016924,
+  "total": 1030019,
   "monthly": [
     {
       "period": "2015-09",
@@ -121,6 +121,10 @@
     {
       "period": "2026-07",
       "views": 8993
+    },
+    {
+      "period": "2026-11",
+      "views": 13095
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 29193
+      "views": 42288
     }
   ]
 }

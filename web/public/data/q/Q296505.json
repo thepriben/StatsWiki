@@ -4,7 +4,7 @@
   "title": "Rob_Lowe",
   "description": "American actor (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rob_Lowe_2012_Shankbone_2.JPG?width=64",
-  "total": 7273017,
+  "total": 7282034,
   "monthly": [
     {
       "period": "2015-07",
@@ -341,6 +341,10 @@
     {
       "period": "2026-10",
       "views": 115709
+    },
+    {
+      "period": "2026-11",
+      "views": 9017
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 202609
+      "views": 211626
     }
   ]
 }

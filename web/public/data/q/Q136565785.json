@@ -2,9 +2,9 @@
   "qid": "Q136565785",
   "label": "Resident Evil",
   "title": "Resident_Evil_(2026_film)",
-  "description": "2026 film directed by Zach Cregger",
+  "description": "The 2026 live-action Resident Evil horror film directed by Zach Cregger",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Resident_Evil_2026_Logo.svg?width=64",
-  "total": 4724379,
+  "total": 4746400,
   "monthly": [
     {
       "period": "2026-03",
@@ -36,13 +36,13 @@
     },
     {
       "period": "2026-11",
-      "views": 407554
+      "views": 429575
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 4724379
+      "views": 4746400
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Malik_Beasley",
   "description": "Basketball player at Milwaukee Bucks",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malik_Beasley_FSU.jpg?width=64",
-  "total": 369784,
+  "total": 379360,
   "monthly": [
     {
       "period": "2016-06",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 14251
+    },
+    {
+      "period": "2026-11",
+      "views": 9576
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 80223
+      "views": 89799
     }
   ]
 }

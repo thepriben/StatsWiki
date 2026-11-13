@@ -4,7 +4,7 @@
   "title": "Nymphomaniac_(film)",
   "description": "2013 film by Lars von Trier",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nymph%28%29maniac.jpg?width=64",
-  "total": 491980,
+  "total": 505013,
   "monthly": [
     {
       "period": "2015-07",
@@ -69,6 +69,10 @@
     {
       "period": "2026-10",
       "views": 10961
+    },
+    {
+      "period": "2026-11",
+      "views": 13033
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 43576
+      "views": 56609
     }
   ]
 }

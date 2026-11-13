@@ -1,0 +1,28 @@
+{
+  "qid": "Q170135",
+  "label": "Novaya Gazeta",
+  "title": "Novaya_Gazeta",
+  "description": "Russian independent newspaper",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C_Potapovsky_3_budka_01.JPG?width=64",
+  "total": 31481,
+  "monthly": [
+    {
+      "period": "2021-10",
+      "views": 9657
+    },
+    {
+      "period": "2026-11",
+      "views": 21824
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 9657
+    },
+    {
+      "period": "2026",
+      "views": 21824
+    }
+  ]
+}

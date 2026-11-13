@@ -1,0 +1,56 @@
+{
+  "qid": "Q1247701",
+  "label": "Last of the Summer Wine",
+  "title": "Last_of_the_Summer_Wine",
+  "description": "British sitcom",
+  "image": "",
+  "total": 126949,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 20807
+    },
+    {
+      "period": "2017-06",
+      "views": 49988
+    },
+    {
+      "period": "2019-11",
+      "views": 13091
+    },
+    {
+      "period": "2021-09",
+      "views": 10508
+    },
+    {
+      "period": "2023-01",
+      "views": 18976
+    },
+    {
+      "period": "2026-11",
+      "views": 13579
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 70795
+    },
+    {
+      "period": "2019",
+      "views": 13091
+    },
+    {
+      "period": "2021",
+      "views": 10508
+    },
+    {
+      "period": "2023",
+      "views": 18976
+    },
+    {
+      "period": "2026",
+      "views": 13579
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Empress_Elisabeth_of_Austria",
   "description": "Empress of Austria and Queen of Hungary from 1854 to 1898 (1837–1898)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabel_da_%C3%81ustria_1867.jpg?width=64",
-  "total": 4977311,
+  "total": 4998158,
   "monthly": [
     {
       "period": "2017-10",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 7954
+    },
+    {
+      "period": "2026-11",
+      "views": 20847
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 7954
+      "views": 28801
     }
   ]
 }

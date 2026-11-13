@@ -4,7 +4,7 @@
   "title": "Mike_O'Malley",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_O%27Malley_and_Bronson_Arroyo.jpg?width=64",
-  "total": 23828,
+  "total": 52898,
   "monthly": [
     {
       "period": "2020-07",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 12201
+    },
+    {
+      "period": "2026-11",
+      "views": 29070
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 12201
+      "views": 41271
     }
   ]
 }

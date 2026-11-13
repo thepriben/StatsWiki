@@ -4,7 +4,7 @@
   "title": "Lynndie_England",
   "description": "American soldier convicted of war crimes",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PFCEngland.jpg?width=64",
-  "total": 229938,
+  "total": 245181,
   "monthly": [
     {
       "period": "2023-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 12831
+    },
+    {
+      "period": "2026-11",
+      "views": 15243
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 27508
+      "views": 42751
     }
   ]
 }

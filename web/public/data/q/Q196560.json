@@ -4,7 +4,7 @@
   "title": "Kelsey_Grammer",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelsey_Grammer_2016.jpg?width=64",
-  "total": 3309012,
+  "total": 3318032,
   "monthly": [
     {
       "period": "2016-01",
@@ -245,6 +245,10 @@
     {
       "period": "2026-10",
       "views": 25724
+    },
+    {
+      "period": "2026-11",
+      "views": 9020
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 132847
+      "views": 141867
     }
   ]
 }

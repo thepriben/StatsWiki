@@ -3,8 +3,8 @@
   "label": "Tim Cook",
   "title": "Tim_Cook",
   "description": "American business executive, former Apple executive chairman",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Cook_March_2026_%28cropped%29.jpg?width=64",
-  "total": 1857027,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Cook_in_New_York_City_-_2026_%28cropped%29.jpg?width=64",
+  "total": 1895338,
   "monthly": [
     {
       "period": "2015-09",
@@ -169,6 +169,10 @@
     {
       "period": "2026-09",
       "views": 219074
+    },
+    {
+      "period": "2026-11",
+      "views": 38311
     }
   ],
   "yearly": [
@@ -218,7 +222,7 @@
     },
     {
       "period": "2026",
-      "views": 609921
+      "views": 648232
     }
   ]
 }

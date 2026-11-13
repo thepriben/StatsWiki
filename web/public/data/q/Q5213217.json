@@ -4,7 +4,7 @@
   "title": "Dan_Burn",
   "description": "English association football player (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Burn_England_v_Ghana_23_June_2026-055.jpg?width=64",
-  "total": 1140664,
+  "total": 1150283,
   "monthly": [
     {
       "period": "2022-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-07",
       "views": 425588
+    },
+    {
+      "period": "2026-11",
+      "views": 9619
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 439386
+      "views": 449005
     }
   ]
 }

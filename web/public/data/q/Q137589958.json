@@ -4,7 +4,7 @@
   "title": "Daayra",
   "description": "2026 Indian film",
   "image": "",
-  "total": 179593,
+  "total": 188321,
   "monthly": [
     {
       "period": "2026-08",
@@ -13,12 +13,16 @@
     {
       "period": "2026-09",
       "views": 167723
+    },
+    {
+      "period": "2026-11",
+      "views": 8728
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 179593
+      "views": 188321
     }
   ]
 }

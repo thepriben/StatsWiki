@@ -4,7 +4,7 @@
   "title": "Greta_Thunberg",
   "description": "Swedish climate protection activist (born 2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greta_Thunberg_4.jpg?width=64",
-  "total": 14431427,
+  "total": 14447726,
   "monthly": [
     {
       "period": "2019-01",
@@ -229,6 +229,10 @@
     {
       "period": "2026-10",
       "views": 48894
+    },
+    {
+      "period": "2026-11",
+      "views": 16299
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 58463
+      "views": 74762
     }
   ]
 }

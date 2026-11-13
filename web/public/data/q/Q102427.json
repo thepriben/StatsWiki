@@ -4,7 +4,7 @@
   "title": "Academy_Award_for_Best_Picture",
   "description": "annual award from the Academy of Motion Picture Arts and Sciences",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oscar-free-version.svg?width=64",
-  "total": 9717547,
+  "total": 9730362,
   "monthly": [
     {
       "period": "2016-01",
@@ -245,6 +245,10 @@
     {
       "period": "2026-10",
       "views": 7716
+    },
+    {
+      "period": "2026-11",
+      "views": 12815
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 670879
+      "views": 683694
     }
   ]
 }
