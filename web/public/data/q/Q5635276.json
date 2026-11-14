@@ -1,0 +1,44 @@
+{
+  "qid": "Q5635276",
+  "label": "HM Prison Wakefield",
+  "title": "HM_Prison_Wakefield",
+  "description": "UK incarceration facility",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wakefield_Training_Prison_and_Camp-_Everyday_Life_in_a_British_Prison%2C_Wakefield%2C_Yorkshire%2C_England%2C_1944_D19220.jpg?width=64",
+  "total": 165946,
+  "monthly": [
+    {
+      "period": "2022-03",
+      "views": 13117
+    },
+    {
+      "period": "2023-08",
+      "views": 28388
+    },
+    {
+      "period": "2025-10",
+      "views": 111287
+    },
+    {
+      "period": "2026-11",
+      "views": 13154
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 13117
+    },
+    {
+      "period": "2023",
+      "views": 28388
+    },
+    {
+      "period": "2025",
+      "views": 111287
+    },
+    {
+      "period": "2026",
+      "views": 13154
+    }
+  ]
+}

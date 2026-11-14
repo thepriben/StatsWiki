@@ -4,7 +4,7 @@
   "title": "Outlook.com",
   "description": "Microsoft free web-based email service",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg?width=64",
-  "total": 11371548,
+  "total": 11381799,
   "monthly": [
     {
       "period": "2015-07",
@@ -229,6 +229,10 @@
     {
       "period": "2026-06",
       "views": 50614
+    },
+    {
+      "period": "2026-11",
+      "views": 10251
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 71316
+      "views": 81567
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "qid": "Q279343",
+  "label": "Namma Metro",
+  "title": "Namma_Metro",
+  "description": "Rapid transit system in Bengaluru, Karnataka, India",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro_Trains_of_Namma_Metro.jpg?width=64",
+  "total": 188908,
+  "monthly": [
+    {
+      "period": "2017-06",
+      "views": 38300
+    },
+    {
+      "period": "2025-08",
+      "views": 138508
+    },
+    {
+      "period": "2026-11",
+      "views": 12100
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 38300
+    },
+    {
+      "period": "2025",
+      "views": 138508
+    },
+    {
+      "period": "2026",
+      "views": 12100
+    }
+  ]
+}

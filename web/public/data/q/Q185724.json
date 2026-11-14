@@ -4,7 +4,7 @@
   "title": "Mike_Myers",
   "description": "Canadian actor, comedian and filmmaker",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Myers_2017_%2837220071326%29_%28cropped%29.jpg?width=64",
-  "total": 1691884,
+  "total": 1701857,
   "monthly": [
     {
       "period": "2015-10",
@@ -141,6 +141,10 @@
     {
       "period": "2026-06",
       "views": 82386
+    },
+    {
+      "period": "2026-11",
+      "views": 9973
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 223489
+      "views": 233462
     }
   ]
 }

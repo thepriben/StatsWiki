@@ -4,7 +4,7 @@
   "title": "Martin_Scorsese",
   "description": "American filmmaker (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Scorsese_MFF_2023.jpg?width=64",
-  "total": 7920198,
+  "total": 7928800,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-09",
       "views": 89811
+    },
+    {
+      "period": "2026-11",
+      "views": 8602
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 578832
+      "views": 587434
     }
   ]
 }

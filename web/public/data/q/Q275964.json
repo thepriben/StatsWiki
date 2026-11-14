@@ -4,7 +4,7 @@
   "title": "Mariska_Hargitay",
   "description": "American actress (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mariska_Hargitay_Woodstock_Film_Festival.jpg?width=64",
-  "total": 9298441,
+  "total": 9308601,
   "monthly": [
     {
       "period": "2015-08",
@@ -429,6 +429,10 @@
     {
       "period": "2026-10",
       "views": 89830
+    },
+    {
+      "period": "2026-11",
+      "views": 10160
     }
   ],
   "yearly": [
@@ -478,7 +482,7 @@
     },
     {
       "period": "2026",
-      "views": 1530440
+      "views": 1540600
     }
   ]
 }

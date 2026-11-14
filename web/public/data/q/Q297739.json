@@ -4,7 +4,7 @@
   "title": "Arnold_Vosloo",
   "description": "South African actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnold_Vosloo_2009.jpg?width=64",
-  "total": 30055,
+  "total": 40461,
   "monthly": [
     {
       "period": "2024-01",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 16969
+    },
+    {
+      "period": "2026-11",
+      "views": 10406
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 16969
+      "views": 27375
     }
   ]
 }

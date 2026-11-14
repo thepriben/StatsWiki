@@ -4,7 +4,7 @@
   "title": "Leo_Woodall",
   "description": "British actor (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo_Woodall_2024_Emmys_05_%28cropped%29.png?width=64",
-  "total": 3446001,
+  "total": 3455127,
   "monthly": [
     {
       "period": "2022-12",
@@ -73,6 +73,10 @@
     {
       "period": "2026-08",
       "views": 26624
+    },
+    {
+      "period": "2026-11",
+      "views": 9126
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 411345
+      "views": 420471
     }
   ]
 }

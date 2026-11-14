@@ -4,7 +4,7 @@
   "title": "The_Prodigy",
   "description": "English electronic dance music group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prodigy-rock-am-ring-2009.jpg?width=64",
-  "total": 858062,
+  "total": 867465,
   "monthly": [
     {
       "period": "2015-07",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 7715
+    },
+    {
+      "period": "2026-11",
+      "views": 9403
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 7715
+      "views": 17118
     }
   ]
 }

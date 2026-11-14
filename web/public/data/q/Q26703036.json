@@ -4,7 +4,7 @@
   "title": "Monica_Barbaro",
   "description": "American actress (born 1990)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monica_Barbaro_%28cropped%29.jpg?width=64",
-  "total": 3555126,
+  "total": 3564086,
   "monthly": [
     {
       "period": "2018-09",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 80506
+    },
+    {
+      "period": "2026-11",
+      "views": 8960
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 1205194
+      "views": 1214154
     }
   ]
 }

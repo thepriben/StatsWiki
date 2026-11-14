@@ -4,7 +4,7 @@
   "title": "Taylor_Sheridan",
   "description": "American screenwriter and director",
   "image": "",
-  "total": 9858628,
+  "total": 9866520,
   "monthly": [
     {
       "period": "2021-04",
@@ -169,6 +169,10 @@
     {
       "period": "2026-10",
       "views": 130115
+    },
+    {
+      "period": "2026-11",
+      "views": 7892
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 2874779
+      "views": 2882671
     }
   ]
 }

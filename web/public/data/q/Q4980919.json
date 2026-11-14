@@ -4,7 +4,7 @@
   "title": "Bryn_Williams",
   "description": "Welsh chef",
   "image": "",
-  "total": 141626,
+  "total": 151750,
   "monthly": [
     {
       "period": "2017-04",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 10426
+    },
+    {
+      "period": "2026-11",
+      "views": 10124
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 10426
+      "views": 20550
     }
   ]
 }

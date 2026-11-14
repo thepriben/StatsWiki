@@ -1,24 +1,88 @@
 {
   "qid": "Q51056",
   "label": "Franz Joseph I of Austria",
-  "title": "Franz_Joseph_I",
+  "title": "Franz_Joseph_I_of_Austria",
   "description": "Emperor of Austria and King of Hungary (1830–1916)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg?width=64",
-  "total": 22327,
+  "total": 2752661,
   "monthly": [
+    {
+      "period": "2016-12",
+      "views": 20574
+    },
+    {
+      "period": "2017-10",
+      "views": 13774
+    },
+    {
+      "period": "2018-04",
+      "views": 11683
+    },
+    {
+      "period": "2022-09",
+      "views": 122201
+    },
+    {
+      "period": "2022-10",
+      "views": 1157258
+    },
+    {
+      "period": "2022-11",
+      "views": 82242
+    },
+    {
+      "period": "2024-11",
+      "views": 536741
+    },
+    {
+      "period": "2024-12",
+      "views": 582481
+    },
+    {
+      "period": "2025-01",
+      "views": 158257
+    },
+    {
+      "period": "2025-10",
+      "views": 9702
+    },
     {
       "period": "2026-03",
       "views": 11063
     },
     {
       "period": "2026-11",
-      "views": 11264
+      "views": 46685
     }
   ],
   "yearly": [
     {
+      "period": "2016",
+      "views": 20574
+    },
+    {
+      "period": "2017",
+      "views": 13774
+    },
+    {
+      "period": "2018",
+      "views": 11683
+    },
+    {
+      "period": "2022",
+      "views": 1361701
+    },
+    {
+      "period": "2024",
+      "views": 1119222
+    },
+    {
+      "period": "2025",
+      "views": 167959
+    },
+    {
       "period": "2026",
-      "views": 22327
+      "views": 57748
     }
   ]
 }

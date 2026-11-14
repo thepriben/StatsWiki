@@ -4,7 +4,7 @@
   "title": "November_2015_Paris_attacks",
   "description": "series of terrorist attacks in Paris, France, Europe, on November 13, 2015",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris_Shootings_-_The_day_after_%2822593744177%29.jpg?width=64",
-  "total": 5370269,
+  "total": 5386248,
   "monthly": [
     {
       "period": "2015-11",
@@ -117,6 +117,10 @@
     {
       "period": "2026-05",
       "views": 8635
+    },
+    {
+      "period": "2026-11",
+      "views": 15979
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 8635
+      "views": 24614
     }
   ]
 }

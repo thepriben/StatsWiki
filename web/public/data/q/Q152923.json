@@ -4,7 +4,7 @@
   "title": "Rudolf,_Crown_Prince_of_Austria",
   "description": "Austrian archduke (1858-1889)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_Crown_Prince_of_Austria_LOC.jpg?width=64",
-  "total": 395091,
+  "total": 403970,
   "monthly": [
     {
       "period": "2022-09",
@@ -25,6 +25,10 @@
     {
       "period": "2026-07",
       "views": 9686
+    },
+    {
+      "period": "2026-11",
+      "views": 8879
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 9686
+      "views": 18565
     }
   ]
 }

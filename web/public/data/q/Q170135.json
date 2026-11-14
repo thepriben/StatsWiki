@@ -4,7 +4,7 @@
   "title": "Novaya_Gazeta",
   "description": "Russian independent newspaper",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C_Potapovsky_3_budka_01.JPG?width=64",
-  "total": 31481,
+  "total": 44975,
   "monthly": [
     {
       "period": "2021-10",
@@ -12,7 +12,7 @@
     },
     {
       "period": "2026-11",
-      "views": 21824
+      "views": 35318
     }
   ],
   "yearly": [
@@ -22,7 +22,7 @@
     },
     {
       "period": "2026",
-      "views": 21824
+      "views": 35318
     }
   ]
 }

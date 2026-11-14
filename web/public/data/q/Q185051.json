@@ -4,7 +4,7 @@
   "title": "Christopher_Walken",
   "description": "American actor (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher_Walken_2018.jpg?width=64",
-  "total": 2318565,
+  "total": 2328196,
   "monthly": [
     {
       "period": "2015-09",
@@ -241,6 +241,10 @@
     {
       "period": "2026-09",
       "views": 9268
+    },
+    {
+      "period": "2026-11",
+      "views": 9631
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 43097
+      "views": 52728
     }
   ]
 }

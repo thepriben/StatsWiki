@@ -4,7 +4,7 @@
   "title": "Mackenzie_Phillips",
   "description": "American actress and singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mackenzie_Phillips_1975.JPG?width=64",
-  "total": 1109983,
+  "total": 1118428,
   "monthly": [
     {
       "period": "2016-01",
@@ -101,6 +101,10 @@
     {
       "period": "2026-09",
       "views": 19301
+    },
+    {
+      "period": "2026-11",
+      "views": 8445
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 19301
+      "views": 27746
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "The_Edge",
   "description": "Irish rock musician, guitar player of U2",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr381361_The_Edge_%28Cannes_2025%29.jpg?width=64",
-  "total": 86992,
+  "total": 95714,
   "monthly": [
     {
       "period": "2017-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 19245
+    },
+    {
+      "period": "2026-11",
+      "views": 8722
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 19245
+      "views": 27967
     }
   ]
 }

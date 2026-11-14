@@ -4,7 +4,7 @@
   "title": "Texas_(band)",
   "description": "Scottish musical group; alternative rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Texas_Rockefeller_Music_Hall_2018_%28213851%29.jpg?width=64",
-  "total": 201104,
+  "total": 215698,
   "monthly": [
     {
       "period": "2022-05",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 11604
+    },
+    {
+      "period": "2026-11",
+      "views": 14594
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 11604
+      "views": 26198
     }
   ]
 }

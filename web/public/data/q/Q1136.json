@@ -4,7 +4,7 @@
   "title": "Reddit",
   "description": "American social news aggregation website and discussion portal",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reddit_logo.svg?width=64",
-  "total": 3218724,
+  "total": 3227760,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 25296
+    },
+    {
+      "period": "2026-11",
+      "views": 9036
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 35140
+      "views": 44176
     }
   ]
 }

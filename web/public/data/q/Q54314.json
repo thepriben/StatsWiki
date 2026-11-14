@@ -4,7 +4,7 @@
   "title": "Chris_Hemsworth",
   "description": "Australian actor (born 1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Hemsworth_-_Crime_101.jpg?width=64",
-  "total": 43663146,
+  "total": 43673380,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-10",
       "views": 8692
+    },
+    {
+      "period": "2026-11",
+      "views": 10234
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1345561
+      "views": 1355795
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "qid": "Q80911",
+  "label": "Microsoft Outlook",
+  "title": "Microsoft_Outlook",
+  "description": "email service developed as part of Microsoft 365",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg?width=64",
+  "total": 56729,
+  "monthly": [
+    {
+      "period": "2023-09",
+      "views": 23113
+    },
+    {
+      "period": "2023-11",
+      "views": 23573
+    },
+    {
+      "period": "2026-11",
+      "views": 10043
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 46686
+    },
+    {
+      "period": "2026",
+      "views": 10043
+    }
+  ]
+}

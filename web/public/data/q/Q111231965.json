@@ -1,0 +1,44 @@
+{
+  "qid": "Q111231965",
+  "label": "The Streamer Awards",
+  "title": "The_Streamer_Awards",
+  "description": "awards show dedicated to live streamers",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Streamer_Awards_wordmark.svg?width=64",
+  "total": 112773,
+  "monthly": [
+    {
+      "period": "2023-03",
+      "views": 60159
+    },
+    {
+      "period": "2024-12",
+      "views": 20195
+    },
+    {
+      "period": "2025-12",
+      "views": 14688
+    },
+    {
+      "period": "2026-11",
+      "views": 17731
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 60159
+    },
+    {
+      "period": "2024",
+      "views": 20195
+    },
+    {
+      "period": "2025",
+      "views": 14688
+    },
+    {
+      "period": "2026",
+      "views": 17731
+    }
+  ]
+}

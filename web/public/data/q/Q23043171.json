@@ -4,7 +4,7 @@
   "title": "Lockheed_Martin_X-59_Quesst",
   "description": "American experimental supersonic airplane",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Low-Boom_Flight_Demonstrator.jpg?width=64",
-  "total": 133193,
+  "total": 145470,
   "monthly": [
     {
       "period": "2024-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 22673
+    },
+    {
+      "period": "2026-11",
+      "views": 12277
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 22673
+      "views": 34950
     }
   ]
 }

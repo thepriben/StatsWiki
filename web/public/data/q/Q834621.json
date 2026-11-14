@@ -4,7 +4,7 @@
   "title": "Bono",
   "description": "Irish singer-songwriter and rock musician, member of U2",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bono_U2_360_Tour_2011.jpg?width=64",
-  "total": 1428334,
+  "total": 1444117,
   "monthly": [
     {
       "period": "2015-10",
@@ -137,6 +137,10 @@
     {
       "period": "2026-09",
       "views": 34275
+    },
+    {
+      "period": "2026-11",
+      "views": 15783
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 43024
+      "views": 58807
     }
   ]
 }

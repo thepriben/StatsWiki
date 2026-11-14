@@ -4,7 +4,7 @@
   "title": "Emma_Grede",
   "description": "British businesswoman and company founder",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma_Grede_-_2026_LAT_Festival_of_Books.png?width=64",
-  "total": 519788,
+  "total": 530425,
   "monthly": [
     {
       "period": "2022-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-08",
       "views": 32843
+    },
+    {
+      "period": "2026-11",
+      "views": 10637
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 113366
+      "views": 124003
     }
   ]
 }

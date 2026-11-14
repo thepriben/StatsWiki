@@ -4,7 +4,7 @@
   "title": "Ana_de_Armas",
   "description": "Cuban actress (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ana_de_Armas_%2854462619561%29_%28cropped_3%29.jpg?width=64",
-  "total": 28134717,
+  "total": 28143502,
   "monthly": [
     {
       "period": "2015-10",
@@ -389,6 +389,10 @@
     {
       "period": "2026-10",
       "views": 16939
+    },
+    {
+      "period": "2026-11",
+      "views": 8785
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 683341
+      "views": 692126
     }
   ]
 }

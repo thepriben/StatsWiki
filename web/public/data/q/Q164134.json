@@ -4,7 +4,7 @@
   "title": "United_States_men's_national_soccer_team",
   "description": "men's national association football (soccer) team representing the USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Soccer_Federation_logo.svg?width=64",
-  "total": 6028124,
+  "total": 6038064,
   "monthly": [
     {
       "period": "2015-07",
@@ -253,6 +253,10 @@
     {
       "period": "2026-10",
       "views": 9532
+    },
+    {
+      "period": "2026-11",
+      "views": 9940
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 1715832
+      "views": 1725772
     }
   ]
 }
