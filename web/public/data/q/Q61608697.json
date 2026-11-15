@@ -4,7 +4,7 @@
   "title": "Maya_Le_Tissier",
   "description": "English footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maya-Le-Tissier.jpg?width=64",
-  "total": 612448,
+  "total": 627038,
   "monthly": [
     {
       "period": "2022-03",
@@ -65,6 +65,10 @@
     {
       "period": "2026-10",
       "views": 22487
+    },
+    {
+      "period": "2026-11",
+      "views": 14590
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 37550
+      "views": 52140
     }
   ]
 }

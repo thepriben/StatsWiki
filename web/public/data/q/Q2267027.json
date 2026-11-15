@@ -1,10 +1,10 @@
 {
   "qid": "Q2267027",
   "label": "Rachel Campos-Duffy",
-  "title": "Rachel_Campos-Duffy",
+  "title": "Rachel_Campos",
   "description": "American television personality (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel_Campos-Duffy_in_2025.jpg?width=64",
-  "total": 918118,
+  "total": 1013107,
   "monthly": [
     {
       "period": "2016-07",
@@ -105,6 +105,10 @@
     {
       "period": "2026-08",
       "views": 26999
+    },
+    {
+      "period": "2026-11",
+      "views": 94989
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 78616
+      "views": 173605
     }
   ]
 }

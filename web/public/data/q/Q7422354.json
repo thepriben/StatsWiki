@@ -4,7 +4,7 @@
   "title": "Sarah_Greene",
   "description": "English television presenter",
   "image": "",
-  "total": 593513,
+  "total": 601960,
   "monthly": [
     {
       "period": "2016-12",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 29547
+    },
+    {
+      "period": "2026-11",
+      "views": 8447
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 52659
+      "views": 61106
     }
   ]
 }

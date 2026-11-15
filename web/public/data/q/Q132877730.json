@@ -4,7 +4,7 @@
   "title": "Eurovision_Song_Contest_2027",
   "description": "71st edition of the Eurovision Song Contest",
   "image": "",
-  "total": 1189836,
+  "total": 1199250,
   "monthly": [
     {
       "period": "2026-05",
@@ -29,12 +29,16 @@
     {
       "period": "2026-10",
       "views": 199265
+    },
+    {
+      "period": "2026-11",
+      "views": 9414
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 1189836
+      "views": 1199250
     }
   ]
 }

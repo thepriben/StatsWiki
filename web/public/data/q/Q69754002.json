@@ -4,7 +4,7 @@
   "title": "Beau_Greaves",
   "description": "English darts player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beau_Greaves.png?width=64",
-  "total": 218044,
+  "total": 227674,
   "monthly": [
     {
       "period": "2022-12",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 10758
+    },
+    {
+      "period": "2026-11",
+      "views": 9630
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 20921
+      "views": 30551
     }
   ]
 }

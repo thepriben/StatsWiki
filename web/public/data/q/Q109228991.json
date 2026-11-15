@@ -4,7 +4,7 @@
   "title": "Dune:_Part_Two",
   "description": "2024 film directed by Denis Villeneuve",
   "image": "",
-  "total": 12526292,
+  "total": 12534790,
   "monthly": [
     {
       "period": "2022-09",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 27756
+    },
+    {
+      "period": "2026-11",
+      "views": 8498
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 345487
+      "views": 353985
     }
   ]
 }

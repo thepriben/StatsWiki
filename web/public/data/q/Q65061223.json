@@ -4,7 +4,7 @@
   "title": "K/DA",
   "description": "Virtual K-pop girl group",
   "image": "",
-  "total": 218088,
+  "total": 228735,
   "monthly": [
     {
       "period": "2020-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 24794
+    },
+    {
+      "period": "2026-11",
+      "views": 10647
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 24794
+      "views": 35441
     }
   ]
 }

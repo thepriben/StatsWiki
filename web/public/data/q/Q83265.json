@@ -4,7 +4,7 @@
   "title": "Grand_Theft_Auto:_San_Andreas",
   "description": "2004 video game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Theft_Auto_San_Andreas_logo.svg?width=64",
-  "total": 386383,
+  "total": 394590,
   "monthly": [
     {
       "period": "2015-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 9525
+    },
+    {
+      "period": "2026-11",
+      "views": 8207
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 9525
+      "views": 17732
     }
   ]
 }

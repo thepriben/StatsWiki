@@ -4,7 +4,7 @@
   "title": "Bryan_Ferry",
   "description": "British singer (born 1945)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryan_ferry_VieillesCharrues2007.JPG?width=64",
-  "total": 233956,
+  "total": 245773,
   "monthly": [
     {
       "period": "2018-12",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 10119
+    },
+    {
+      "period": "2026-11",
+      "views": 11817
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 10119
+      "views": 21936
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lacey_Turner",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lacey_Turner_2010.jpg?width=64",
-  "total": 188704,
+  "total": 197330,
   "monthly": [
     {
       "period": "2016-05",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 40762
+    },
+    {
+      "period": "2026-11",
+      "views": 8626
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 133699
+      "views": 142325
     }
   ]
 }

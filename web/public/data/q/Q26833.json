@@ -1,0 +1,56 @@
+{
+  "qid": "Q26833",
+  "label": "Othello",
+  "title": "Othello",
+  "description": "theatrical play by William Shakespeare",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Keene_in_Othello_1884_Poster.JPG?width=64",
+  "total": 86229,
+  "monthly": [
+    {
+      "period": "2016-04",
+      "views": 12811
+    },
+    {
+      "period": "2017-08",
+      "views": 10025
+    },
+    {
+      "period": "2024-10",
+      "views": 18267
+    },
+    {
+      "period": "2025-03",
+      "views": 23305
+    },
+    {
+      "period": "2026-05",
+      "views": 10952
+    },
+    {
+      "period": "2026-11",
+      "views": 10869
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12811
+    },
+    {
+      "period": "2017",
+      "views": 10025
+    },
+    {
+      "period": "2024",
+      "views": 18267
+    },
+    {
+      "period": "2025",
+      "views": 23305
+    },
+    {
+      "period": "2026",
+      "views": 21821
+    }
+  ]
+}

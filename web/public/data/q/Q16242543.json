@@ -4,7 +4,7 @@
   "title": "The_Age_of_Adaline",
   "description": "2015 film directed by Lee Toland Krieger",
   "image": "",
-  "total": 1733826,
+  "total": 1742704,
   "monthly": [
     {
       "period": "2015-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-09",
       "views": 7995
+    },
+    {
+      "period": "2026-11",
+      "views": 8878
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 31779
+      "views": 40657
     }
   ]
 }

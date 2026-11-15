@@ -4,7 +4,7 @@
   "title": "A_Christmas_Carol",
   "description": "novella by the English author Charles Dickens, first published in 1843",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Dickens-A_Christmas_Carol-Title_page-First_edition_1843.jpg?width=64",
-  "total": 4153957,
+  "total": 4162144,
   "monthly": [
     {
       "period": "2015-12",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 9920
+    },
+    {
+      "period": "2026-11",
+      "views": 8187
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 9920
+      "views": 18107
     }
   ]
 }

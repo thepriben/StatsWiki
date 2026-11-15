@@ -4,7 +4,7 @@
   "title": "World_Rugby_Rankings",
   "description": "ranking system for national teams in rugby union",
   "image": "",
-  "total": 1168381,
+  "total": 1176659,
   "monthly": [
     {
       "period": "2015-09",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 20978
+    },
+    {
+      "period": "2026-11",
+      "views": 8278
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 20978
+      "views": 29256
     }
   ]
 }

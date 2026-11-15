@@ -4,7 +4,7 @@
   "title": "Moby-Dick",
   "description": "novel by Herman Melville",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moby-Dick_FE_title_page.jpg?width=64",
-  "total": 1238380,
+  "total": 1250596,
   "monthly": [
     {
       "period": "2015-09",
@@ -61,6 +61,10 @@
     {
       "period": "2025-01",
       "views": 38822
+    },
+    {
+      "period": "2026-11",
+      "views": 12216
     }
   ],
   "yearly": [
@@ -87,6 +91,10 @@
     {
       "period": "2025",
       "views": 38822
+    },
+    {
+      "period": "2026",
+      "views": 12216
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Charlotte_Flair",
   "description": "American professional wrestler and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte_Flair_Photo_Op_GalaxyCon_Raleigh_2019.jpg?width=64",
-  "total": 2798049,
+  "total": 2808214,
   "monthly": [
     {
       "period": "2015-10",
@@ -245,6 +245,10 @@
     {
       "period": "2026-10",
       "views": 10570
+    },
+    {
+      "period": "2026-11",
+      "views": 10165
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 10570
+      "views": 20735
     }
   ]
 }

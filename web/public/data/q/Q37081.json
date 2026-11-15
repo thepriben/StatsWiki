@@ -4,7 +4,7 @@
   "title": "Children's_Day",
   "description": "one of many public observances in honor of children",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia_Children%27s_Day.png?width=64",
-  "total": 1883719,
+  "total": 1894101,
   "monthly": [
     {
       "period": "2015-11",
@@ -125,6 +125,10 @@
     {
       "period": "2026-06",
       "views": 21937
+    },
+    {
+      "period": "2026-11",
+      "views": 10382
     }
   ],
   "yearly": [
@@ -174,7 +178,7 @@
     },
     {
       "period": "2026",
-      "views": 21937
+      "views": 32319
     }
   ]
 }

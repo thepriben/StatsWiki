@@ -4,7 +4,7 @@
   "title": "Jamie_Lynn_Spears",
   "description": "American actress and singer (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Lynn_Spears.jpg?width=64",
-  "total": 4380288,
+  "total": 4389146,
   "monthly": [
     {
       "period": "2015-08",
@@ -181,6 +181,10 @@
     {
       "period": "2026-06",
       "views": 64236
+    },
+    {
+      "period": "2026-11",
+      "views": 8858
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 64236
+      "views": 73094
     }
   ]
 }
