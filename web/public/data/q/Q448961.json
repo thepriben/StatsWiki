@@ -4,7 +4,7 @@
   "title": "Julian_Edelman",
   "description": "American football player (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_Edelman.JPG?width=64",
-  "total": 4466765,
+  "total": 4476478,
   "monthly": [
     {
       "period": "2015-09",
@@ -181,6 +181,10 @@
     {
       "period": "2026-08",
       "views": 7595
+    },
+    {
+      "period": "2026-11",
+      "views": 9713
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 7595
+      "views": 17308
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Carson_Beck",
   "description": "American football quarterback",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2026-0117_Carson_Beck.jpeg?width=64",
-  "total": 1847973,
+  "total": 1861336,
   "monthly": [
     {
       "period": "2023-09",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 63237
+    },
+    {
+      "period": "2026-11",
+      "views": 13363
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 1191553
+      "views": 1204916
     }
   ]
 }

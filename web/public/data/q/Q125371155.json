@@ -1,0 +1,44 @@
+{
+  "qid": "Q125371155",
+  "label": "Another Simple Favor",
+  "title": "Another_Simple_Favor",
+  "description": "2025 film directed by Paul Feig",
+  "image": "",
+  "total": 1399008,
+  "monthly": [
+    {
+      "period": "2025-02",
+      "views": 38833
+    },
+    {
+      "period": "2025-03",
+      "views": 91990
+    },
+    {
+      "period": "2025-04",
+      "views": 120861
+    },
+    {
+      "period": "2025-05",
+      "views": 1127777
+    },
+    {
+      "period": "2025-06",
+      "views": 10189
+    },
+    {
+      "period": "2026-11",
+      "views": 9358
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2025",
+      "views": 1389650
+    },
+    {
+      "period": "2026",
+      "views": 9358
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Aidan_Hutchinson",
   "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aidan_Hutchinson.jpg?width=64",
-  "total": 868893,
+  "total": 887593,
   "monthly": [
     {
       "period": "2021-11",
@@ -57,6 +57,10 @@
     {
       "period": "2026-09",
       "views": 12727
+    },
+    {
+      "period": "2026-11",
+      "views": 18700
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 12727
+      "views": 31427
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Ralph_Fiennes",
   "description": "English actor, director and producer (born 1962)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ralph_Fiennes_from_%22The_White_Crow%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2018_%2831747095048%29.jpg?width=64",
-  "total": 10750521,
+  "total": 10759929,
   "monthly": [
     {
       "period": "2015-07",
@@ -381,6 +381,10 @@
     {
       "period": "2026-10",
       "views": 24859
+    },
+    {
+      "period": "2026-11",
+      "views": 9408
     }
   ],
   "yearly": [
@@ -430,7 +434,7 @@
     },
     {
       "period": "2026",
-      "views": 1653312
+      "views": 1662720
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "London_City_Lionesses",
   "description": "women association football club based in London, England",
   "image": "",
-  "total": 203902,
+  "total": 214709,
   "monthly": [
     {
       "period": "2025-05",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 59087
+    },
+    {
+      "period": "2026-11",
+      "views": 10807
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 127340
+      "views": 138147
     }
   ]
 }

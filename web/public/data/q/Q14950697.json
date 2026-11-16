@@ -4,7 +4,7 @@
   "title": "Jared_Goff",
   "description": "American football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jared_Goff_2022.jpg?width=64",
-  "total": 4871286,
+  "total": 4880148,
   "monthly": [
     {
       "period": "2015-10",
@@ -217,6 +217,10 @@
     {
       "period": "2026-10",
       "views": 42852
+    },
+    {
+      "period": "2026-11",
+      "views": 8862
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 78407
+      "views": 87269
     }
   ]
 }

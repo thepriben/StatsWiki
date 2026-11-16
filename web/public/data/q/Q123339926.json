@@ -4,7 +4,7 @@
   "title": "Noah_Fifita",
   "description": "American football quarterback",
   "image": "",
-  "total": 30436,
+  "total": 45385,
   "monthly": [
     {
       "period": "2023-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-10",
       "views": 11891
+    },
+    {
+      "period": "2026-11",
+      "views": 14949
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 11891
+      "views": 26840
     }
   ]
 }

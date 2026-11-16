@@ -4,7 +4,7 @@
   "title": "Cruel_Intentions",
   "description": "1999 film directed by Roger Kumble",
   "image": "",
-  "total": 388568,
+  "total": 397731,
   "monthly": [
     {
       "period": "2016-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 20615
+    },
+    {
+      "period": "2026-11",
+      "views": 9163
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 20615
+      "views": 29778
     }
   ]
 }

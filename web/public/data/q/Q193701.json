@@ -4,7 +4,7 @@
   "title": "SpaceX",
   "description": "American spaceflight and AI company",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance_to_SpaceX_headquarters.jpg?width=64",
-  "total": 3778640,
+  "total": 3787820,
   "monthly": [
     {
       "period": "2015-11",
@@ -205,6 +205,10 @@
     {
       "period": "2026-06",
       "views": 306464
+    },
+    {
+      "period": "2026-11",
+      "views": 9180
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 355466
+      "views": 364646
     }
   ]
 }

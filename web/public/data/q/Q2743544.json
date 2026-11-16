@@ -4,7 +4,7 @@
   "title": "Erin_Andrews",
   "description": "American sportscaster and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erin_Andrews_2012_Shankbone.JPG?width=64",
-  "total": 2849836,
+  "total": 2859246,
   "monthly": [
     {
       "period": "2015-10",
@@ -209,6 +209,10 @@
     {
       "period": "2026-10",
       "views": 51880
+    },
+    {
+      "period": "2026-11",
+      "views": 9410
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 215947
+      "views": 225357
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Lewis_Hall_(footballer)",
   "description": "English association football player (born 2004)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lewis_Hall_24052026_%282%29.jpg?width=64",
-  "total": 197797,
+  "total": 218263,
   "monthly": [
     {
       "period": "2022-01",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 9394
+    },
+    {
+      "period": "2026-11",
+      "views": 20466
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 27597
+      "views": 48063
     }
   ]
 }

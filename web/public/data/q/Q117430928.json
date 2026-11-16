@@ -4,17 +4,21 @@
   "title": "Jack_Bostock",
   "description": "Australian rugby league footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Bostock_Dolphins.jpg?width=64",
-  "total": 16810,
+  "total": 27494,
   "monthly": [
     {
       "period": "2026-10",
       "views": 16810
+    },
+    {
+      "period": "2026-11",
+      "views": 10684
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 16810
+      "views": 27494
     }
   ]
 }

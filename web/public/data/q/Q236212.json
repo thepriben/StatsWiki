@@ -4,7 +4,7 @@
   "title": "Petula_Clark",
   "description": "British singer and actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Petula_Clark_2012.jpg?width=64",
-  "total": 513190,
+  "total": 529742,
   "monthly": [
     {
       "period": "2016-09",
@@ -81,6 +81,10 @@
     {
       "period": "2026-07",
       "views": 16924
+    },
+    {
+      "period": "2026-11",
+      "views": 16552
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 16924
+      "views": 33476
     }
   ]
 }

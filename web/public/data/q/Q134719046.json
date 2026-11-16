@@ -4,7 +4,7 @@
   "title": "Jeffrey_Epstein_client_list",
   "description": "files on Jeffrey Epstein and his affiliates",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Epstein_Files_Phase_1%2C_Part_C_%E2%80%93_Contact_Book_Redacted.pdf?width=64",
-  "total": 16800421,
+  "total": 16829361,
   "monthly": [
     {
       "period": "2025-07",
@@ -49,6 +49,10 @@
     {
       "period": "2026-05",
       "views": 122189
+    },
+    {
+      "period": "2026-11",
+      "views": 28940
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 12102623
+      "views": 12131563
     }
   ]
 }

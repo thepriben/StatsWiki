@@ -1,0 +1,100 @@
+{
+  "qid": "Q486014",
+  "label": "Melon Music Awards",
+  "title": "Melon_Music_Awards",
+  "description": "South Korean music industry achievement awards",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MMA_new_logo.jpg?width=64",
+  "total": 300857,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 43732
+    },
+    {
+      "period": "2017-12",
+      "views": 95560
+    },
+    {
+      "period": "2018-12",
+      "views": 14261
+    },
+    {
+      "period": "2019-11",
+      "views": 29082
+    },
+    {
+      "period": "2020-12",
+      "views": 31425
+    },
+    {
+      "period": "2021-12",
+      "views": 15752
+    },
+    {
+      "period": "2022-11",
+      "views": 16059
+    },
+    {
+      "period": "2023-12",
+      "views": 13688
+    },
+    {
+      "period": "2024-11",
+      "views": 11740
+    },
+    {
+      "period": "2025-12",
+      "views": 18864
+    },
+    {
+      "period": "2026-11",
+      "views": 10694
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 43732
+    },
+    {
+      "period": "2017",
+      "views": 95560
+    },
+    {
+      "period": "2018",
+      "views": 14261
+    },
+    {
+      "period": "2019",
+      "views": 29082
+    },
+    {
+      "period": "2020",
+      "views": 31425
+    },
+    {
+      "period": "2021",
+      "views": 15752
+    },
+    {
+      "period": "2022",
+      "views": 16059
+    },
+    {
+      "period": "2023",
+      "views": 13688
+    },
+    {
+      "period": "2024",
+      "views": 11740
+    },
+    {
+      "period": "2025",
+      "views": 18864
+    },
+    {
+      "period": "2026",
+      "views": 10694
+    }
+  ]
+}

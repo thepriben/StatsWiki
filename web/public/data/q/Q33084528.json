@@ -4,7 +4,7 @@
   "title": "Tom_Banton",
   "description": "cricketer (born 1998)",
   "image": "",
-  "total": 71705,
+  "total": 80500,
   "monthly": [
     {
       "period": "2019-12",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 14616
+    },
+    {
+      "period": "2026-11",
+      "views": 8795
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 14616
+      "views": 23411
     }
   ]
 }

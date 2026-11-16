@@ -4,7 +4,7 @@
   "title": "Unai_Simón",
   "description": "Spanish footballer (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unai_Sim%C3%B3n_Mendibil.jpg?width=64",
-  "total": 1183762,
+  "total": 1203512,
   "monthly": [
     {
       "period": "2021-06",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 39463
+    },
+    {
+      "period": "2026-11",
+      "views": 19750
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 628989
+      "views": 648739
     }
   ]
 }

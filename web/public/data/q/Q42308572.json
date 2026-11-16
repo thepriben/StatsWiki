@@ -4,7 +4,7 @@
   "title": "Equanimeous_St._Brown",
   "description": "American football player from the United States",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Equanimeous_St._Brown_Packers_%2851632140970%29_%28cropped%29.jpg?width=64",
-  "total": 296360,
+  "total": 325862,
   "monthly": [
     {
       "period": "2018-04",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 8267
+    },
+    {
+      "period": "2026-11",
+      "views": 29502
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 8267
+      "views": 37769
     }
   ]
 }

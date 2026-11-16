@@ -4,7 +4,7 @@
   "title": "Basque_Country_national_football_team",
   "description": "regional football team representing the Basque Country",
   "image": "",
-  "total": 24569,
+  "total": 40072,
   "monthly": [
     {
       "period": "2024-03",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 10723
+    },
+    {
+      "period": "2026-11",
+      "views": 15503
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 10723
+      "views": 26226
     }
   ]
 }

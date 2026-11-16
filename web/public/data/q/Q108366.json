@@ -4,7 +4,7 @@
   "title": "Gregory_Peck",
   "description": "American actor (1916–2003)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gregory_Peck_1948.jpg?width=64",
-  "total": 923235,
+  "total": 932016,
   "monthly": [
     {
       "period": "2015-07",
@@ -181,6 +181,10 @@
     {
       "period": "2026-10",
       "views": 10808
+    },
+    {
+      "period": "2026-11",
+      "views": 8781
     }
   ],
   "yearly": [
@@ -230,7 +234,7 @@
     },
     {
       "period": "2026",
-      "views": 78747
+      "views": 87528
     }
   ]
 }

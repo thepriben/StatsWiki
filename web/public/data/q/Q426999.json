@@ -4,7 +4,7 @@
   "title": "Frances_Bean_Cobain",
   "description": "American artist and model",
   "image": "",
-  "total": 849973,
+  "total": 858794,
   "monthly": [
     {
       "period": "2016-03",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 20075
+    },
+    {
+      "period": "2026-11",
+      "views": 8821
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 31192
+      "views": 40013
     }
   ]
 }

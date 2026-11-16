@@ -1,0 +1,64 @@
+{
+  "qid": "Q127429",
+  "label": "Allianz Arena",
+  "title": "Allianz_Arena",
+  "description": "stadium in Munich, Germany",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnchen_-_Allianz-Arena_%28Luftbild%29.jpg?width=64",
+  "total": 122497,
+  "monthly": [
+    {
+      "period": "2021-06",
+      "views": 26920
+    },
+    {
+      "period": "2021-07",
+      "views": 10620
+    },
+    {
+      "period": "2022-11",
+      "views": 16342
+    },
+    {
+      "period": "2024-04",
+      "views": 10481
+    },
+    {
+      "period": "2024-06",
+      "views": 19947
+    },
+    {
+      "period": "2025-05",
+      "views": 17084
+    },
+    {
+      "period": "2026-05",
+      "views": 8836
+    },
+    {
+      "period": "2026-11",
+      "views": 12267
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 37540
+    },
+    {
+      "period": "2022",
+      "views": 16342
+    },
+    {
+      "period": "2024",
+      "views": 30428
+    },
+    {
+      "period": "2025",
+      "views": 17084
+    },
+    {
+      "period": "2026",
+      "views": 21103
+    }
+  ]
+}

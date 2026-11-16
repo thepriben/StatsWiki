@@ -3,8 +3,8 @@
   "label": "Nico Williams",
   "title": "Nico_Williams",
   "description": "Spanish footballer",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nico_Williams_France_v_Spain_7.24.26-030.jpg?width=64",
-  "total": 3829683,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg?width=64",
+  "total": 3851718,
   "monthly": [
     {
       "period": "2022-01",
@@ -69,6 +69,10 @@
     {
       "period": "2026-07",
       "views": 934188
+    },
+    {
+      "period": "2026-11",
+      "views": 22035
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 1020156
+      "views": 1042191
     }
   ]
 }

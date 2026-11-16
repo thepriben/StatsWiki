@@ -1,0 +1,36 @@
+{
+  "qid": "Q1217369",
+  "label": "Jane Eyre",
+  "title": "Jane_Eyre_(1943_film)",
+  "description": "1943 film by Robert Stevenson",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane-Eyre-1943-1.jpg?width=64",
+  "total": 42635,
+  "monthly": [
+    {
+      "period": "2019-11",
+      "views": 13687
+    },
+    {
+      "period": "2020-03",
+      "views": 16833
+    },
+    {
+      "period": "2026-11",
+      "views": 12115
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 13687
+    },
+    {
+      "period": "2020",
+      "views": 16833
+    },
+    {
+      "period": "2026",
+      "views": 12115
+    }
+  ]
+}

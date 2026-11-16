@@ -4,7 +4,7 @@
   "title": "Cris_Cyborg",
   "description": "Brazilian mixed martial artist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cris_Cyborg_-_SDCC_2023.jpg?width=64",
-  "total": 1356870,
+  "total": 1366182,
   "monthly": [
     {
       "period": "2017-12",
@@ -97,6 +97,10 @@
     {
       "period": "2026-08",
       "views": 17220
+    },
+    {
+      "period": "2026-11",
+      "views": 9312
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 103355
+      "views": 112667
     }
   ]
 }

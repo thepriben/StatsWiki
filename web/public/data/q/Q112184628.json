@@ -4,7 +4,7 @@
   "title": "Dean_Huijsen",
   "description": "Dutch association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dean_Huijsen_2024.jpg?width=64",
-  "total": 1343871,
+  "total": 1356431,
   "monthly": [
     {
       "period": "2023-10",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 9532
+    },
+    {
+      "period": "2026-11",
+      "views": 12560
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 80355
+      "views": 92915
     }
   ]
 }

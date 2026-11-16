@@ -4,7 +4,7 @@
   "title": "Andrea_Riseborough",
   "description": "British actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Riseborough_2012.jpg?width=64",
-  "total": 616622,
+  "total": 626018,
   "monthly": [
     {
       "period": "2015-08",
@@ -57,6 +57,10 @@
     {
       "period": "2026-07",
       "views": 29151
+    },
+    {
+      "period": "2026-11",
+      "views": 9396
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 29151
+      "views": 38547
     }
   ]
 }
