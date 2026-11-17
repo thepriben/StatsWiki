@@ -4,7 +4,7 @@
   "title": "Patrick_Wilson",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PatrickWilson-byPhilipRomano.jpg?width=64",
-  "total": 403482,
+  "total": 416715,
   "monthly": [
     {
       "period": "2023-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 52904
+    },
+    {
+      "period": "2026-11",
+      "views": 13233
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 52904
+      "views": 66137
     }
   ]
 }

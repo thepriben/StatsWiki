@@ -4,7 +4,7 @@
   "title": "Thanksgiving",
   "description": "holiday in various countries",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_First_Thanksgiving_cph.3g04961FXD.jpg?width=64",
-  "total": 15424789,
+  "total": 15433859,
   "monthly": [
     {
       "period": "2015-10",
@@ -129,6 +129,10 @@
     {
       "period": "2026-10",
       "views": 9129
+    },
+    {
+      "period": "2026-11",
+      "views": 9070
     }
   ],
   "yearly": [
@@ -178,7 +182,7 @@
     },
     {
       "period": "2026",
-      "views": 9129
+      "views": 18199
     }
   ]
 }

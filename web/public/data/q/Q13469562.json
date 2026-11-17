@@ -4,7 +4,7 @@
   "title": "Thomas_Frank_(football_manager)",
   "description": "Danish association football manager",
   "image": "",
-  "total": 849590,
+  "total": 868248,
   "monthly": [
     {
       "period": "2020-07",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 13960
+    },
+    {
+      "period": "2026-11",
+      "views": 18658
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 80045
+      "views": 98703
     }
   ]
 }

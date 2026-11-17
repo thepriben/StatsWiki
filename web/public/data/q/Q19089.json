@@ -4,7 +4,7 @@
   "title": "GoldenEye",
   "description": "1995 film by Martin Campbell",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_goldeneye_eu.svg?width=64",
-  "total": 203776,
+  "total": 214991,
   "monthly": [
     {
       "period": "2015-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 12709
+    },
+    {
+      "period": "2026-11",
+      "views": 11215
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 12709
+      "views": 23924
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Tim_McGraw",
   "description": "American country singer and actor (born 1967)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim_McGraw_October_24_2015.jpg?width=64",
-  "total": 1181122,
+  "total": 1194171,
   "monthly": [
     {
       "period": "2016-04",
@@ -145,6 +145,10 @@
     {
       "period": "2026-07",
       "views": 39777
+    },
+    {
+      "period": "2026-11",
+      "views": 13049
     }
   ],
   "yearly": [
@@ -186,7 +190,7 @@
     },
     {
       "period": "2026",
-      "views": 85966
+      "views": 99015
     }
   ]
 }

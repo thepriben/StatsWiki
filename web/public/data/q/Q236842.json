@@ -4,7 +4,7 @@
   "title": "Kelly_Preston",
   "description": "American actress (1962–2020)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelly_Preston_Cannes_2018.jpg?width=64",
-  "total": 9600415,
+  "total": 9618349,
   "monthly": [
     {
       "period": "2015-11",
@@ -253,6 +253,10 @@
     {
       "period": "2026-10",
       "views": 25260
+    },
+    {
+      "period": "2026-11",
+      "views": 17934
     }
   ],
   "yearly": [
@@ -302,7 +306,7 @@
     },
     {
       "period": "2026",
-      "views": 191995
+      "views": 209929
     }
   ]
 }

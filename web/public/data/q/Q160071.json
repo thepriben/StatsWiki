@@ -1,0 +1,52 @@
+{
+  "qid": "Q160071",
+  "label": "Twilight",
+  "title": "Twilight_(2008_film)",
+  "description": "2008 American film directed by Catherine Hardwicke",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Twilight_logo.svg?width=64",
+  "total": 178533,
+  "monthly": [
+    {
+      "period": "2017-01",
+      "views": 13928
+    },
+    {
+      "period": "2020-05",
+      "views": 24362
+    },
+    {
+      "period": "2021-07",
+      "views": 117434
+    },
+    {
+      "period": "2022-01",
+      "views": 13964
+    },
+    {
+      "period": "2026-11",
+      "views": 8845
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 13928
+    },
+    {
+      "period": "2020",
+      "views": 24362
+    },
+    {
+      "period": "2021",
+      "views": 117434
+    },
+    {
+      "period": "2022",
+      "views": 13964
+    },
+    {
+      "period": "2026",
+      "views": 8845
+    }
+  ]
+}

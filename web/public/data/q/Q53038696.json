@@ -4,7 +4,7 @@
   "title": "DK_Metcalf",
   "description": "American football player (born 1997)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/D.K._Metcalf_2020.jpg?width=64",
-  "total": 1682286,
+  "total": 1694127,
   "monthly": [
     {
       "period": "2019-10",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 19082
+    },
+    {
+      "period": "2026-11",
+      "views": 11841
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 52798
+      "views": 64639
     }
   ]
 }

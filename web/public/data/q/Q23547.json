@@ -4,7 +4,7 @@
   "title": "Bryan_Cranston",
   "description": "American actor (born 1956)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryan_Cranston_2022_%283x4_cropped%29.jpg?width=64",
-  "total": 5102736,
+  "total": 5110977,
   "monthly": [
     {
       "period": "2015-07",
@@ -277,6 +277,10 @@
     {
       "period": "2026-10",
       "views": 106256
+    },
+    {
+      "period": "2026-11",
+      "views": 8241
     }
   ],
   "yearly": [
@@ -326,7 +330,7 @@
     },
     {
       "period": "2026",
-      "views": 1228245
+      "views": 1236486
     }
   ]
 }

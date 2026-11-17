@@ -4,7 +4,7 @@
   "title": "David_Niven",
   "description": "British actor and novelist (1910–1983)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Niven_Allan_Warren.jpg?width=64",
-  "total": 665485,
+  "total": 680901,
   "monthly": [
     {
       "period": "2015-10",
@@ -73,6 +73,10 @@
     {
       "period": "2026-06",
       "views": 52294
+    },
+    {
+      "period": "2026-11",
+      "views": 15416
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 60807
+      "views": 76223
     }
   ]
 }

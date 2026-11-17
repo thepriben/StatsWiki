@@ -1,0 +1,80 @@
+{
+  "qid": "Q102225",
+  "label": "Harry Potter and the Goblet of Fire (film)",
+  "title": "Harry_Potter_and_the_Goblet_of_Fire_(film)",
+  "description": "2005 film directed by Mike Newell",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dragon_Challenge_19.jpg?width=64",
+  "total": 145893,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 21263
+    },
+    {
+      "period": "2017-07",
+      "views": 11856
+    },
+    {
+      "period": "2017-12",
+      "views": 13843
+    },
+    {
+      "period": "2018-09",
+      "views": 8918
+    },
+    {
+      "period": "2019-10",
+      "views": 9914
+    },
+    {
+      "period": "2021-08",
+      "views": 13454
+    },
+    {
+      "period": "2022-01",
+      "views": 45310
+    },
+    {
+      "period": "2025-06",
+      "views": 8609
+    },
+    {
+      "period": "2026-11",
+      "views": 12726
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 21263
+    },
+    {
+      "period": "2017",
+      "views": 25699
+    },
+    {
+      "period": "2018",
+      "views": 8918
+    },
+    {
+      "period": "2019",
+      "views": 9914
+    },
+    {
+      "period": "2021",
+      "views": 13454
+    },
+    {
+      "period": "2022",
+      "views": 45310
+    },
+    {
+      "period": "2025",
+      "views": 8609
+    },
+    {
+      "period": "2026",
+      "views": 12726
+    }
+  ]
+}

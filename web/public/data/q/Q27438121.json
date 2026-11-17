@@ -4,7 +4,7 @@
   "title": "Red_Dead_Redemption_2",
   "description": "2018 western-themed action-adventure video game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_Dead_Redemption_2_Logo.png?width=64",
-  "total": 5058387,
+  "total": 5066639,
   "monthly": [
     {
       "period": "2016-10",
@@ -73,6 +73,10 @@
     {
       "period": "2026-08",
       "views": 20688
+    },
+    {
+      "period": "2026-11",
+      "views": 8252
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 20688
+      "views": 28940
     }
   ]
 }

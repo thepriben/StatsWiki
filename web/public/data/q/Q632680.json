@@ -4,7 +4,7 @@
   "title": "Remember_Me_(2010_film)",
   "description": "2010 film directed by Allen Coulter",
   "image": "",
-  "total": 1028074,
+  "total": 1042197,
   "monthly": [
     {
       "period": "2017-11",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 120899
+    },
+    {
+      "period": "2026-11",
+      "views": 14123
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 241488
+      "views": 255611
     }
   ]
 }

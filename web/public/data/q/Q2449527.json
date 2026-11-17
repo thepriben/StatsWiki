@@ -4,7 +4,7 @@
   "title": "Susan_Smith",
   "description": "American murderer",
   "image": "",
-  "total": 680987,
+  "total": 690280,
   "monthly": [
     {
       "period": "2015-07",
@@ -97,6 +97,10 @@
     {
       "period": "2026-09",
       "views": 20691
+    },
+    {
+      "period": "2026-11",
+      "views": 9293
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 78542
+      "views": 87835
     }
   ]
 }

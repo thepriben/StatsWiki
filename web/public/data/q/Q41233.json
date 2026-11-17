@@ -4,7 +4,7 @@
   "title": "Timothy_Dalton",
   "description": "British actor of stage, film and television",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Timothy_Dalton_1987.jpg?width=64",
-  "total": 852236,
+  "total": 886014,
   "monthly": [
     {
       "period": "2015-11",
@@ -93,6 +93,10 @@
     {
       "period": "2026-09",
       "views": 21225
+    },
+    {
+      "period": "2026-11",
+      "views": 33778
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 21225
+      "views": 55003
     }
   ]
 }

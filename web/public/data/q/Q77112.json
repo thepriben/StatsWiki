@@ -4,7 +4,7 @@
   "title": "David_Foster",
   "description": "Canadian musician, record producer, songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DavidFosterHWOFMay2013.jpg?width=64",
-  "total": 4172458,
+  "total": 4190035,
   "monthly": [
     {
       "period": "2015-10",
@@ -241,6 +241,10 @@
     {
       "period": "2026-10",
       "views": 32732
+    },
+    {
+      "period": "2026-11",
+      "views": 17577
     }
   ],
   "yearly": [
@@ -290,7 +294,7 @@
     },
     {
       "period": "2026",
-      "views": 66998
+      "views": 84575
     }
   ]
 }

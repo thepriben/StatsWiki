@@ -4,7 +4,7 @@
   "title": "Charlotte_Church",
   "description": "Welsh singer, songwriter, actress and presenter (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte_Church_by_Law_Keven.jpg?width=64",
-  "total": 998030,
+  "total": 1006557,
   "monthly": [
     {
       "period": "2015-10",
@@ -93,6 +93,10 @@
     {
       "period": "2026-10",
       "views": 10638
+    },
+    {
+      "period": "2026-11",
+      "views": 8527
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 10638
+      "views": 19165
     }
   ]
 }

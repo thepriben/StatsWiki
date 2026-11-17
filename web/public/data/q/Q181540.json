@@ -4,7 +4,7 @@
   "title": "Quantum_of_Solace",
   "description": "2008 film by Marc Forster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quantum_of_Solace_Logo.svg?width=64",
-  "total": 1290377,
+  "total": 1303466,
   "monthly": [
     {
       "period": "2015-08",
@@ -73,6 +73,10 @@
     {
       "period": "2026-08",
       "views": 12538
+    },
+    {
+      "period": "2026-11",
+      "views": 13089
     }
   ],
   "yearly": [
@@ -114,7 +118,7 @@
     },
     {
       "period": "2026",
-      "views": 12538
+      "views": 25627
     }
   ]
 }

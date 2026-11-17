@@ -4,7 +4,7 @@
   "title": "Raye",
   "description": "British singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raye8888.jpg?width=64",
-  "total": 3623209,
+  "total": 3650613,
   "monthly": [
     {
       "period": "2023-06",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 80996
+    },
+    {
+      "period": "2026-11",
+      "views": 27404
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 1109284
+      "views": 1136688
     }
   ]
 }

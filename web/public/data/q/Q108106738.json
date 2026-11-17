@@ -4,7 +4,7 @@
   "title": "Olivia_Dean",
   "description": "British singer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivia_Dean_-_Sabrina_Carpenter_at_BST_Hyde_Park_-_20250706_-_110_%28cropped%29.jpg?width=64",
-  "total": 5091672,
+  "total": 5103130,
   "monthly": [
     {
       "period": "2024-01",
@@ -81,6 +81,10 @@
     {
       "period": "2026-10",
       "views": 89430
+    },
+    {
+      "period": "2026-11",
+      "views": 11458
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 3222241
+      "views": 3233699
     }
   ]
 }
