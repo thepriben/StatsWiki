@@ -4,7 +4,7 @@
   "title": "Billie_Jean_King",
   "description": "American tennis player (born 1943)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Billie_Jean_King_at_the_2026_Sundance_Film_Festival_02_%28cropped%29.jpg?width=64",
-  "total": 4634297,
+  "total": 4649920,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-10",
       "views": 12972
+    },
+    {
+      "period": "2026-11",
+      "views": 15623
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 141272
+      "views": 156895
     }
   ]
 }

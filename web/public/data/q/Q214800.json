@@ -4,7 +4,7 @@
   "title": "Calvin_Klein",
   "description": "American fashion designer (born 1942)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Calvin_Klein_2011_Shankbone.JPG?width=64",
-  "total": 1711584,
+  "total": 1721437,
   "monthly": [
     {
       "period": "2022-06",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 8453
+    },
+    {
+      "period": "2026-11",
+      "views": 9853
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 1412629
+      "views": 1422482
     }
   ]
 }

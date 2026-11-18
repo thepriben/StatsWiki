@@ -4,7 +4,7 @@
   "title": "Incendies",
   "description": "2010 film directed by Denis Villeneuve",
   "image": "",
-  "total": 1057645,
+  "total": 1066389,
   "monthly": [
     {
       "period": "2024-05",
@@ -73,6 +73,10 @@
     {
       "period": "2026-09",
       "views": 32421
+    },
+    {
+      "period": "2026-11",
+      "views": 8744
     }
   ],
   "yearly": [
@@ -86,7 +90,7 @@
     },
     {
       "period": "2026",
-      "views": 112292
+      "views": 121036
     }
   ]
 }

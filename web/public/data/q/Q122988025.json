@@ -4,7 +4,7 @@
   "title": "Hung_Cao",
   "description": "American politician and Navy veteran (born 1971)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hung_Cao.jpg?width=64",
-  "total": 543056,
+  "total": 562708,
   "monthly": [
     {
       "period": "2024-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 71857
+    },
+    {
+      "period": "2026-11",
+      "views": 19652
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 406403
+      "views": 426055
     }
   ]
 }

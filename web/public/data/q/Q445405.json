@@ -4,7 +4,7 @@
   "title": "Darius_Rucker",
   "description": "American singer-songwriter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darius_Rucker.jpg?width=64",
-  "total": 877259,
+  "total": 886783,
   "monthly": [
     {
       "period": "2015-08",
@@ -157,6 +157,10 @@
     {
       "period": "2026-10",
       "views": 10645
+    },
+    {
+      "period": "2026-11",
+      "views": 9524
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 26640
+      "views": 36164
     }
   ]
 }

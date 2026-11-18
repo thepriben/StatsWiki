@@ -4,7 +4,7 @@
   "title": "Only_Murders_in_the_Building",
   "description": "2020s American mystery comedy-drama TV series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Only_Murders_in_the_Building_%2820th_Television%29_logo.svg?width=64",
-  "total": 10999815,
+  "total": 11009670,
   "monthly": [
     {
       "period": "2021-08",
@@ -137,6 +137,10 @@
     {
       "period": "2026-08",
       "views": 8381
+    },
+    {
+      "period": "2026-11",
+      "views": 9855
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 8381
+      "views": 18236
     }
   ]
 }

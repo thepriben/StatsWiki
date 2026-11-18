@@ -4,7 +4,7 @@
   "title": "Octopussy",
   "description": "1983 film by John Glen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Octopussy_circus.jpg?width=64",
-  "total": 208785,
+  "total": 217568,
   "monthly": [
     {
       "period": "2015-08",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 28118
+    },
+    {
+      "period": "2026-11",
+      "views": 8783
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 38821
+      "views": 47604
     }
   ]
 }

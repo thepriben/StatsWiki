@@ -1,0 +1,108 @@
+{
+  "qid": "Q79793",
+  "label": "measles",
+  "title": "Measles",
+  "description": "viral disease affecting humans",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RougeoleDP.jpg?width=64",
+  "total": 1508642,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 82441
+    },
+    {
+      "period": "2017-03",
+      "views": 9729
+    },
+    {
+      "period": "2017-06",
+      "views": 20986
+    },
+    {
+      "period": "2018-04",
+      "views": 19367
+    },
+    {
+      "period": "2018-08",
+      "views": 22218
+    },
+    {
+      "period": "2019-01",
+      "views": 96574
+    },
+    {
+      "period": "2019-02",
+      "views": 301049
+    },
+    {
+      "period": "2019-03",
+      "views": 140916
+    },
+    {
+      "period": "2019-04",
+      "views": 353852
+    },
+    {
+      "period": "2019-05",
+      "views": 179103
+    },
+    {
+      "period": "2020-03",
+      "views": 72093
+    },
+    {
+      "period": "2021-10",
+      "views": 28039
+    },
+    {
+      "period": "2025-02",
+      "views": 76523
+    },
+    {
+      "period": "2025-03",
+      "views": 85241
+    },
+    {
+      "period": "2025-04",
+      "views": 11376
+    },
+    {
+      "period": "2026-11",
+      "views": 9135
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 82441
+    },
+    {
+      "period": "2017",
+      "views": 30715
+    },
+    {
+      "period": "2018",
+      "views": 41585
+    },
+    {
+      "period": "2019",
+      "views": 1071494
+    },
+    {
+      "period": "2020",
+      "views": 72093
+    },
+    {
+      "period": "2021",
+      "views": 28039
+    },
+    {
+      "period": "2025",
+      "views": 173140
+    },
+    {
+      "period": "2026",
+      "views": 9135
+    }
+  ]
+}

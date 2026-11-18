@@ -1,10 +1,10 @@
 {
   "qid": "Q470774",
-  "label": "Mahendra Singh Dhoni",
+  "label": "MS Dhoni",
   "title": "MS_Dhoni",
-  "description": "Indian cricket player",
+  "description": "Indian cricket player (born 1981)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahendra_Singh_Dhoni_receiving_Padma_Bhushan.jpg?width=64",
-  "total": 15432482,
+  "total": 15462244,
   "monthly": [
     {
       "period": "2017-02",
@@ -325,6 +325,10 @@
     {
       "period": "2026-07",
       "views": 14436
+    },
+    {
+      "period": "2026-11",
+      "views": 29762
     }
   ],
   "yearly": [
@@ -366,7 +370,7 @@
     },
     {
       "period": "2026",
-      "views": 91282
+      "views": 121044
     }
   ]
 }

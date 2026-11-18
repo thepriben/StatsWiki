@@ -4,7 +4,7 @@
   "title": "Licence_to_Kill",
   "description": "1989 film by John Glen",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Licensetokill-logo.svg?width=64",
-  "total": 151547,
+  "total": 161052,
   "monthly": [
     {
       "period": "2015-07",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 10687
+    },
+    {
+      "period": "2026-11",
+      "views": 9505
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 10687
+      "views": 20192
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Al_Capone",
   "description": "American gangster (1899–1947)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Capone_in_1930.jpg?width=64",
-  "total": 9957474,
+  "total": 9971589,
   "monthly": [
     {
       "period": "2015-07",
@@ -409,6 +409,10 @@
     {
       "period": "2026-09",
       "views": 8597
+    },
+    {
+      "period": "2026-11",
+      "views": 14115
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 29286
+      "views": 43401
     }
   ]
 }

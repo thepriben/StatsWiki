@@ -4,7 +4,7 @@
   "title": "The_Hunger_Games:_Mockingjay_–_Part_2",
   "description": "2015 film directed by Francis Lawrence",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The-hunger-games-mockingjay---part-2-.svg?width=64",
-  "total": 3222974,
+  "total": 3233281,
   "monthly": [
     {
       "period": "2015-07",
@@ -57,6 +57,10 @@
     {
       "period": "2023-12",
       "views": 10940
+    },
+    {
+      "period": "2026-11",
+      "views": 10307
     }
   ],
   "yearly": [
@@ -75,6 +79,10 @@
     {
       "period": "2023",
       "views": 227501
+    },
+    {
+      "period": "2026",
+      "views": 10307
     }
   ]
 }

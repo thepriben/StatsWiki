@@ -4,7 +4,7 @@
   "title": "Jena_Malone",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jena_Malone_Berlin_2015.jpg?width=64",
-  "total": 474218,
+  "total": 484347,
   "monthly": [
     {
       "period": "2015-11",
@@ -49,6 +49,10 @@
     {
       "period": "2026-06",
       "views": 29881
+    },
+    {
+      "period": "2026-11",
+      "views": 10129
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 181113
+      "views": 191242
     }
   ]
 }

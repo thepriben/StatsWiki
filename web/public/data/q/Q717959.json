@@ -4,7 +4,7 @@
   "title": "Tony_Mowbray",
   "description": "footballer and football manager (born 1963)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mowbray_Dinamo_Moscow_Celts.jpg?width=64",
-  "total": 178370,
+  "total": 196908,
   "monthly": [
     {
       "period": "2017-02",
@@ -41,6 +41,10 @@
     {
       "period": "2026-08",
       "views": 10567
+    },
+    {
+      "period": "2026-11",
+      "views": 18538
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 19011
+      "views": 37549
     }
   ]
 }

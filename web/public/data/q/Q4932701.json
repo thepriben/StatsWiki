@@ -4,7 +4,7 @@
   "title": "Bob_Harris_(radio_presenter)",
   "description": "British broadcaster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Harris_2012_at_Concert%40theKings.jpg?width=64",
-  "total": 53236,
+  "total": 85181,
   "monthly": [
     {
       "period": "2024-01",
@@ -17,6 +17,10 @@
     {
       "period": "2026-06",
       "views": 27054
+    },
+    {
+      "period": "2026-11",
+      "views": 31945
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 27054
+      "views": 58999
     }
   ]
 }

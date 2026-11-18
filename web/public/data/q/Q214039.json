@@ -2,9 +2,9 @@
   "qid": "Q214039",
   "label": "Beastie Boys",
   "title": "Beastie_Boys",
-  "description": "American hip hop group",
+  "description": "American hip-hop group (1981–2012)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beastie_Boys_2009_%286184423405%29.jpg?width=64",
-  "total": 1157662,
+  "total": 1192321,
   "monthly": [
     {
       "period": "2016-01",
@@ -93,6 +93,10 @@
     {
       "period": "2026-06",
       "views": 9220
+    },
+    {
+      "period": "2026-11",
+      "views": 34659
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 9220
+      "views": 43879
     }
   ]
 }

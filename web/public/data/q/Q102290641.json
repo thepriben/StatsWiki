@@ -4,7 +4,7 @@
   "title": "007_First_Light",
   "description": "2026 video game developed by IO Interactive",
   "image": "",
-  "total": 1254759,
+  "total": 1264835,
   "monthly": [
     {
       "period": "2025-06",
@@ -29,6 +29,10 @@
     {
       "period": "2026-06",
       "views": 418794
+    },
+    {
+      "period": "2026-11",
+      "views": 10076
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 1042267
+      "views": 1052343
     }
   ]
 }

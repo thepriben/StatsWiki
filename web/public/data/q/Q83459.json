@@ -4,7 +4,7 @@
   "title": "Brazil_national_football_team",
   "description": "men's national association football team representing Brazil",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazil_vs_Germany%2C_in_Belo_Horizonte_13.jpg?width=64",
-  "total": 11686666,
+  "total": 11695196,
   "monthly": [
     {
       "period": "2015-07",
@@ -301,6 +301,10 @@
     {
       "period": "2026-10",
       "views": 9924
+    },
+    {
+      "period": "2026-11",
+      "views": 8530
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 1816983
+      "views": 1825513
     }
   ]
 }

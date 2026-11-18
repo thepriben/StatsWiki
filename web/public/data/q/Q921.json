@@ -4,7 +4,7 @@
   "title": "Brunei",
   "description": "sovereign country and sultanate on the island of Borneo in south-east Asia, member of the Commonwealth of Nations",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BN-bsb-jame-asr-hassanil-m-2.jpg?width=64",
-  "total": 1408820,
+  "total": 1418910,
   "monthly": [
     {
       "period": "2015-12",
@@ -97,6 +97,10 @@
     {
       "period": "2026-07",
       "views": 9453
+    },
+    {
+      "period": "2026-11",
+      "views": 10090
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 20686
+      "views": 30776
     }
   ]
 }

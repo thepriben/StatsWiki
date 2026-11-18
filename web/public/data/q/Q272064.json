@@ -1,0 +1,56 @@
+{
+  "qid": "Q272064",
+  "label": "The Living Daylights",
+  "title": "The_Living_Daylights",
+  "description": "1987 film by John Glen",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_tld_de.svg?width=64",
+  "total": 90780,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 25942
+    },
+    {
+      "period": "2020-06",
+      "views": 14240
+    },
+    {
+      "period": "2020-08",
+      "views": 12336
+    },
+    {
+      "period": "2022-07",
+      "views": 16832
+    },
+    {
+      "period": "2024-09",
+      "views": 13041
+    },
+    {
+      "period": "2026-11",
+      "views": 8389
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 25942
+    },
+    {
+      "period": "2020",
+      "views": 26576
+    },
+    {
+      "period": "2022",
+      "views": 16832
+    },
+    {
+      "period": "2024",
+      "views": 13041
+    },
+    {
+      "period": "2026",
+      "views": 8389
+    }
+  ]
+}
