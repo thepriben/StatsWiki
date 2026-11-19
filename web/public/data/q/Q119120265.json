@@ -3,8 +3,8 @@
   "label": "Julian Hall",
   "title": "Julian_Hall_(soccer)",
   "description": "American soccer player",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_Hall_Red_Bulls_Revolution-35_%28cropped%29.jpg?width=64",
-  "total": 60158,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_Hall_Red_Bulls_v_San_Diego_10_October_2026-193_%28cropped%29.jpg?width=64",
+  "total": 80633,
   "monthly": [
     {
       "period": "2026-09",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 36461
+    },
+    {
+      "period": "2026-11",
+      "views": 20475
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 60158
+      "views": 80633
     }
   ]
 }

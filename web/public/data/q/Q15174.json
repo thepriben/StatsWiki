@@ -1,0 +1,52 @@
+{
+  "qid": "Q15174",
+  "label": "Shenzhen",
+  "title": "Shenzhen",
+  "description": "city in China",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_west_panorama_of_Shenzhen2021.jpg?width=64",
+  "total": 61633,
+  "monthly": [
+    {
+      "period": "2017-08",
+      "views": 10181
+    },
+    {
+      "period": "2018-04",
+      "views": 12957
+    },
+    {
+      "period": "2019-01",
+      "views": 10529
+    },
+    {
+      "period": "2022-08",
+      "views": 10963
+    },
+    {
+      "period": "2026-11",
+      "views": 17003
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 10181
+    },
+    {
+      "period": "2018",
+      "views": 12957
+    },
+    {
+      "period": "2019",
+      "views": 10529
+    },
+    {
+      "period": "2022",
+      "views": 10963
+    },
+    {
+      "period": "2026",
+      "views": 17003
+    }
+  ]
+}

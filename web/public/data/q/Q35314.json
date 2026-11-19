@@ -4,7 +4,7 @@
   "title": "Nikita_Khrushchev",
   "description": "leader of the Soviet Union from 1953 to 1964",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikita_Khrushchev_official_portrait.jpg?width=64",
-  "total": 976852,
+  "total": 989891,
   "monthly": [
     {
       "period": "2016-02",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 13225
+    },
+    {
+      "period": "2026-11",
+      "views": 13039
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 13225
+      "views": 26264
     }
   ]
 }

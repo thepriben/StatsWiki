@@ -2,9 +2,9 @@
   "qid": "Q55138272",
   "label": "Quentin Grimes",
   "title": "Quentin_Grimes",
-  "description": "American basketball player",
+  "description": "American basketball player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quentin_Grimes_%28cropped%29.jpg?width=64",
-  "total": 179839,
+  "total": 247619,
   "monthly": [
     {
       "period": "2021-07",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 41404
+    },
+    {
+      "period": "2026-11",
+      "views": 67780
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 41404
+      "views": 109184
     }
   ]
 }

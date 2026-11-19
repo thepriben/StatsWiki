@@ -4,7 +4,7 @@
   "title": "Timor-Leste",
   "description": "sovereign state situated on several islands in Southeast Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lospalos_klein.jpg?width=64",
-  "total": 254667,
+  "total": 262782,
   "monthly": [
     {
       "period": "2025-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 9827
+    },
+    {
+      "period": "2026-11",
+      "views": 8115
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 9827
+      "views": 17942
     }
   ]
 }

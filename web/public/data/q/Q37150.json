@@ -4,7 +4,7 @@
   "title": "Lana_Del_Rey",
   "description": "American singer-songwriter (born 1985)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lana_Del_Rey_Seattle.jpg?width=64",
-  "total": 13454501,
+  "total": 13465301,
   "monthly": [
     {
       "period": "2015-07",
@@ -409,6 +409,10 @@
     {
       "period": "2026-10",
       "views": 81005
+    },
+    {
+      "period": "2026-11",
+      "views": 10800
     }
   ],
   "yearly": [
@@ -458,7 +462,7 @@
     },
     {
       "period": "2026",
-      "views": 297830
+      "views": 308630
     }
   ]
 }

@@ -3,8 +3,8 @@
   "label": "JJ Gabriel",
   "title": "JJ_Gabriel",
   "description": "English footballer",
-  "image": "",
-  "total": 789555,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JJ_Gabriel.jpg?width=64",
+  "total": 848712,
   "monthly": [
     {
       "period": "2026-03",
@@ -32,13 +32,13 @@
     },
     {
       "period": "2026-11",
-      "views": 133469
+      "views": 192626
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 789555
+      "views": 848712
     }
   ]
 }

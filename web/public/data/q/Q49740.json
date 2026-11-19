@@ -4,7 +4,7 @@
   "title": "Minecraft",
   "description": "2011 video game",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minecraft_Alex_and_fauna.png?width=64",
-  "total": 20585629,
+  "total": 20599473,
   "monthly": [
     {
       "period": "2015-07",
@@ -389,6 +389,10 @@
     {
       "period": "2026-10",
       "views": 8550
+    },
+    {
+      "period": "2026-11",
+      "views": 13844
     }
   ],
   "yearly": [
@@ -438,7 +442,7 @@
     },
     {
       "period": "2026",
-      "views": 393265
+      "views": 407109
     }
   ]
 }

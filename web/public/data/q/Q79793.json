@@ -4,7 +4,7 @@
   "title": "Measles",
   "description": "viral disease affecting humans",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RougeoleDP.jpg?width=64",
-  "total": 1508642,
+  "total": 1518655,
   "monthly": [
     {
       "period": "2015-11",
@@ -68,7 +68,7 @@
     },
     {
       "period": "2026-11",
-      "views": 9135
+      "views": 19148
     }
   ],
   "yearly": [
@@ -102,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 9135
+      "views": 19148
     }
   ]
 }

@@ -4,17 +4,21 @@
   "title": "2026–27_CONCACAF_Nations_League_A",
   "description": "Men's football competition in North America, Central America and the Caribbean",
   "image": "",
-  "total": 11260,
+  "total": 22963,
   "monthly": [
     {
       "period": "2026-10",
       "views": 11260
+    },
+    {
+      "period": "2026-11",
+      "views": 11703
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 11260
+      "views": 22963
     }
   ]
 }

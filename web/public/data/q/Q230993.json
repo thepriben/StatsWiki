@@ -4,7 +4,7 @@
   "title": "Jenny_McCarthy",
   "description": "American actress, model, activist, television personality and author",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jenny_McCarthy_at_E3_2006.jpg?width=64",
-  "total": 5266613,
+  "total": 5277113,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-10",
       "views": 19953
+    },
+    {
+      "period": "2026-11",
+      "views": 10500
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 166027
+      "views": 176527
     }
   ]
 }

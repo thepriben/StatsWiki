@@ -4,7 +4,7 @@
   "title": "Kim_Zolciak",
   "description": "American television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kim_Zolciak_and_Allison_DeMarcus.jpg?width=64",
-  "total": 1040591,
+  "total": 1053007,
   "monthly": [
     {
       "period": "2015-08",
@@ -61,6 +61,10 @@
     {
       "period": "2026-09",
       "views": 105695
+    },
+    {
+      "period": "2026-11",
+      "views": 12416
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 130409
+      "views": 142825
     }
   ]
 }

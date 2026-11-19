@@ -4,7 +4,7 @@
   "title": "CONCACAF_Nations_League",
   "description": "international football tournament in North America, Central America and the Caribbean",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Concacaf_Nations_League_logo.svg?width=64",
-  "total": 660825,
+  "total": 678802,
   "monthly": [
     {
       "period": "2019-10",
@@ -64,7 +64,7 @@
     },
     {
       "period": "2026-11",
-      "views": 10582
+      "views": 28559
     }
   ],
   "yearly": [
@@ -94,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 38693
+      "views": 56670
     }
   ]
 }

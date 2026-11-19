@@ -4,7 +4,7 @@
   "title": "Lacey_Chabert",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lacey_Chabert.jpg?width=64",
-  "total": 2749586,
+  "total": 2757657,
   "monthly": [
     {
       "period": "2015-07",
@@ -205,6 +205,10 @@
     {
       "period": "2026-07",
       "views": 8213
+    },
+    {
+      "period": "2026-11",
+      "views": 8071
     }
   ],
   "yearly": [
@@ -254,7 +258,7 @@
     },
     {
       "period": "2026",
-      "views": 20848
+      "views": 28919
     }
   ]
 }

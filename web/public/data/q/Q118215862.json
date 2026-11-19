@@ -4,7 +4,7 @@
   "title": "Blade_Runner_2099",
   "description": "television series",
   "image": "",
-  "total": 126967,
+  "total": 135818,
   "monthly": [
     {
       "period": "2026-07",
@@ -13,12 +13,16 @@
     {
       "period": "2026-10",
       "views": 31057
+    },
+    {
+      "period": "2026-11",
+      "views": 8851
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 126967
+      "views": 135818
     }
   ]
 }

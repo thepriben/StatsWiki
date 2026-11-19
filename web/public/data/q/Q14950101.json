@@ -4,7 +4,7 @@
   "title": "Mike_Pettine",
   "description": "American college and professional football coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Pettine_2014_Browns_training_camp.jpg?width=64",
-  "total": 116009,
+  "total": 130400,
   "monthly": [
     {
       "period": "2015-12",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 28510
+    },
+    {
+      "period": "2026-11",
+      "views": 14391
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 28510
+      "views": 42901
     }
   ]
 }

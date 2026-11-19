@@ -4,7 +4,7 @@
   "title": "Palmer_Luckey",
   "description": "American founder of Oculus VR and inventor of the Oculus Rift",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palmer_Luckey_at_SVVR_2014.jpg?width=64",
-  "total": 908649,
+  "total": 918296,
   "monthly": [
     {
       "period": "2016-09",
@@ -69,6 +69,10 @@
     {
       "period": "2026-10",
       "views": 105336
+    },
+    {
+      "period": "2026-11",
+      "views": 9647
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 115564
+      "views": 125211
     }
   ]
 }

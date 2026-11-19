@@ -4,7 +4,7 @@
   "title": "Voyager_1",
   "description": "space probe launched by NASA to study the outer Solar System, furthest spacecraft from Earth",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyager_spacecraft.jpg?width=64",
-  "total": 1187400,
+  "total": 1231831,
   "monthly": [
     {
       "period": "2015-07",
@@ -124,7 +124,7 @@
     },
     {
       "period": "2026-11",
-      "views": 22834
+      "views": 67265
     }
   ],
   "yearly": [
@@ -170,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 81691
+      "views": 126122
     }
   ]
 }

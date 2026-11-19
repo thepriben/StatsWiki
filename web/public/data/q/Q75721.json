@@ -4,7 +4,7 @@
   "title": "ADX_Florence",
   "description": "federal prison in located in Fremont County, Colorado, USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Florence_ADMAX.jpg?width=64",
-  "total": 3846838,
+  "total": 3854474,
   "monthly": [
     {
       "period": "2015-07",
@@ -245,6 +245,10 @@
     {
       "period": "2026-09",
       "views": 22700
+    },
+    {
+      "period": "2026-11",
+      "views": 7636
     }
   ],
   "yearly": [
@@ -294,7 +298,7 @@
     },
     {
       "period": "2026",
-      "views": 202801
+      "views": 210437
     }
   ]
 }

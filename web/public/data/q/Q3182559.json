@@ -4,7 +4,7 @@
   "title": "Cyberpunk_2077",
   "description": "2020 role-playing video game developed by CD Projekt RED",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyberpunk_2077_logo.svg?width=64",
-  "total": 7178776,
+  "total": 7187420,
   "monthly": [
     {
       "period": "2018-06",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 32425
+    },
+    {
+      "period": "2026-11",
+      "views": 8644
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 32425
+      "views": 41069
     }
   ]
 }

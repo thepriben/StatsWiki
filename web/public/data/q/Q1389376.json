@@ -4,7 +4,7 @@
   "title": "Al_Davis",
   "description": "former owner of the Oakland/Los Angeles Raiders (1929–2011)",
   "image": "",
-  "total": 198697,
+  "total": 216855,
   "monthly": [
     {
       "period": "2016-11",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 8005
+    },
+    {
+      "period": "2026-11",
+      "views": 18158
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 8005
+      "views": 26163
     }
   ]
 }
