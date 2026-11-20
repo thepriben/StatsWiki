@@ -4,7 +4,7 @@
   "title": "Blake_Shelton",
   "description": "American country music singer and television personality",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blake_Shelton_July_2017_%28cropped%29.jpg?width=64",
-  "total": 6794203,
+  "total": 6803825,
   "monthly": [
     {
       "period": "2015-07",
@@ -329,6 +329,10 @@
     {
       "period": "2026-07",
       "views": 13868
+    },
+    {
+      "period": "2026-11",
+      "views": 9622
     }
   ],
   "yearly": [
@@ -378,7 +382,7 @@
     },
     {
       "period": "2026",
-      "views": 13868
+      "views": 23490
     }
   ]
 }

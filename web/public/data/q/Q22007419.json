@@ -4,7 +4,7 @@
   "title": "Glenn_Phillips_(cricketer)",
   "description": "New Zealand cricketer",
   "image": "",
-  "total": 108652,
+  "total": 115972,
   "monthly": [
     {
       "period": "2021-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-10",
       "views": 8855
+    },
+    {
+      "period": "2026-11",
+      "views": 7320
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 20703
+      "views": 28023
     }
   ]
 }

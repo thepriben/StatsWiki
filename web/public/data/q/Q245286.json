@@ -1,0 +1,72 @@
+{
+  "qid": "Q245286",
+  "label": "FIFA Under-17 World Cup",
+  "title": "FIFA_U-17_World_Cup",
+  "description": "association football tournament for under-17 national teams",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trophy_U17.png?width=64",
+  "total": 942115,
+  "monthly": [
+    {
+      "period": "2015-10",
+      "views": 21246
+    },
+    {
+      "period": "2015-11",
+      "views": 42136
+    },
+    {
+      "period": "2017-10",
+      "views": 182564
+    },
+    {
+      "period": "2019-11",
+      "views": 14093
+    },
+    {
+      "period": "2023-11",
+      "views": 378565
+    },
+    {
+      "period": "2023-12",
+      "views": 64133
+    },
+    {
+      "period": "2025-04",
+      "views": 9998
+    },
+    {
+      "period": "2025-11",
+      "views": 220679
+    },
+    {
+      "period": "2026-11",
+      "views": 8701
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 63382
+    },
+    {
+      "period": "2017",
+      "views": 182564
+    },
+    {
+      "period": "2019",
+      "views": 14093
+    },
+    {
+      "period": "2023",
+      "views": 442698
+    },
+    {
+      "period": "2025",
+      "views": 230677
+    },
+    {
+      "period": "2026",
+      "views": 8701
+    }
+  ]
+}

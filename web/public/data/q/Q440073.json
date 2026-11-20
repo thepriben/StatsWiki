@@ -4,7 +4,7 @@
   "title": "Harvey_Pekar",
   "description": "American underground comic book writer, music critic, and media personality (1939-2010)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pekar_small.jpg?width=64",
-  "total": 37923,
+  "total": 48296,
   "monthly": [
     {
       "period": "2024-02",
@@ -17,6 +17,10 @@
     {
       "period": "2026-07",
       "views": 11313
+    },
+    {
+      "period": "2026-11",
+      "views": 10373
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 11313
+      "views": 21686
     }
   ]
 }

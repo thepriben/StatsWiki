@@ -4,7 +4,7 @@
   "title": "Brad_Paisley",
   "description": "American country musician (born 1972)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad_Paisley_performing_at_Caesars_Windsor%2C_2022-05-29_05_%28cropped%29.jpg?width=64",
-  "total": 325896,
+  "total": 334953,
   "monthly": [
     {
       "period": "2015-11",
@@ -73,6 +73,10 @@
     {
       "period": "2026-10",
       "views": 9104
+    },
+    {
+      "period": "2026-11",
+      "views": 9057
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 19625
+      "views": 28682
     }
   ]
 }

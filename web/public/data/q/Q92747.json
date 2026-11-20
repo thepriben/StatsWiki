@@ -4,7 +4,7 @@
   "title": "Eric_Schmidt",
   "description": "software engineer, businessman, former Google CEO",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg?width=64",
-  "total": 97489,
+  "total": 107184,
   "monthly": [
     {
       "period": "2015-08",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 11213
+    },
+    {
+      "period": "2026-11",
+      "views": 9695
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 54553
+      "views": 64248
     }
   ]
 }

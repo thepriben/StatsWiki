@@ -4,17 +4,21 @@
   "title": "Choosin'_Texas",
   "description": "2025 single by Ella Langley",
   "image": "",
-  "total": 33911,
+  "total": 54731,
   "monthly": [
     {
       "period": "2026-09",
       "views": 33911
+    },
+    {
+      "period": "2026-11",
+      "views": 20820
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 33911
+      "views": 54731
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "qid": "Q503638",
+  "label": "Easy Rider",
+  "title": "Easy_Rider",
+  "description": "1969 film by Dennis Hopper",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ZweiRadMuseumNSU_EasyRider.JPG?width=64",
+  "total": 181104,
+  "monthly": [
+    {
+      "period": "2017-02",
+      "views": 13593
+    },
+    {
+      "period": "2019-08",
+      "views": 128433
+    },
+    {
+      "period": "2019-09",
+      "views": 12565
+    },
+    {
+      "period": "2022-01",
+      "views": 15920
+    },
+    {
+      "period": "2026-11",
+      "views": 10593
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 13593
+    },
+    {
+      "period": "2019",
+      "views": 140998
+    },
+    {
+      "period": "2022",
+      "views": 15920
+    },
+    {
+      "period": "2026",
+      "views": 10593
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "XXX:_Return_of_Xander_Cage",
   "description": "2017 film directed by D. J. Caruso",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XXx_REACTIVADO_Conferencia_de_Prensa.jpg?width=64",
-  "total": 77737484,
+  "total": 77777828,
   "monthly": [
     {
       "period": "2016-07",
@@ -365,6 +365,10 @@
     {
       "period": "2026-10",
       "views": 503255
+    },
+    {
+      "period": "2026-11",
+      "views": 40344
     }
   ],
   "yearly": [
@@ -406,7 +410,7 @@
     },
     {
       "period": "2026",
-      "views": 3547084
+      "views": 3587428
     }
   ]
 }

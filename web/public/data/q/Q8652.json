@@ -1,0 +1,56 @@
+{
+  "qid": "Q8652",
+  "label": "Miami",
+  "title": "Miami",
+  "description": "city in Miami-Dade County, Florida, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Miami_aerial_2008.jpg?width=64",
+  "total": 166942,
+  "monthly": [
+    {
+      "period": "2017-09",
+      "views": 87274
+    },
+    {
+      "period": "2021-06",
+      "views": 11842
+    },
+    {
+      "period": "2023-06",
+      "views": 12220
+    },
+    {
+      "period": "2023-12",
+      "views": 30281
+    },
+    {
+      "period": "2025-12",
+      "views": 17091
+    },
+    {
+      "period": "2026-11",
+      "views": 8234
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 87274
+    },
+    {
+      "period": "2021",
+      "views": 11842
+    },
+    {
+      "period": "2023",
+      "views": 42501
+    },
+    {
+      "period": "2025",
+      "views": 17091
+    },
+    {
+      "period": "2026",
+      "views": 8234
+    }
+  ]
+}

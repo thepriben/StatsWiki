@@ -1,0 +1,40 @@
+{
+  "qid": "Q1883234",
+  "label": "Madden NFL",
+  "title": "Madden_NFL",
+  "description": "American football video game series",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madden_NFL_tournament_%283786421444%29.jpg?width=64",
+  "total": 64190,
+  "monthly": [
+    {
+      "period": "2017-04",
+      "views": 16726
+    },
+    {
+      "period": "2017-05",
+      "views": 21648
+    },
+    {
+      "period": "2021-12",
+      "views": 17215
+    },
+    {
+      "period": "2026-11",
+      "views": 8601
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 38374
+    },
+    {
+      "period": "2021",
+      "views": 17215
+    },
+    {
+      "period": "2026",
+      "views": 8601
+    }
+  ]
+}

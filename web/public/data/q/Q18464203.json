@@ -4,7 +4,7 @@
   "title": "13_Reasons_Why",
   "description": "2017 American teen drama television series",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/13_Reasons_Why.png?width=64",
-  "total": 25143016,
+  "total": 25154674,
   "monthly": [
     {
       "period": "2017-01",
@@ -141,6 +141,10 @@
     {
       "period": "2025-04",
       "views": 10588
+    },
+    {
+      "period": "2026-11",
+      "views": 11658
     }
   ],
   "yearly": [
@@ -171,6 +175,10 @@
     {
       "period": "2025",
       "views": 10588
+    },
+    {
+      "period": "2026",
+      "views": 11658
     }
   ]
 }

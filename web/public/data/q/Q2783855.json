@@ -4,7 +4,7 @@
   "title": "Kacey_Musgraves",
   "description": "American singer (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kacey_Musgraves_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 2585324,
+  "total": 2612972,
   "monthly": [
     {
       "period": "2015-11",
@@ -149,6 +149,10 @@
     {
       "period": "2026-10",
       "views": 95759
+    },
+    {
+      "period": "2026-11",
+      "views": 27648
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 387727
+      "views": 415375
     }
   ]
 }

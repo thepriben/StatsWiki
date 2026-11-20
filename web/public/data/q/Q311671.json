@@ -1,0 +1,72 @@
+{
+  "qid": "Q311671",
+  "label": "James Patterson",
+  "title": "James_Patterson",
+  "description": "American author",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Patterson.jpg?width=64",
+  "total": 125214,
+  "monthly": [
+    {
+      "period": "2016-06",
+      "views": 10233
+    },
+    {
+      "period": "2016-07",
+      "views": 20282
+    },
+    {
+      "period": "2018-06",
+      "views": 9367
+    },
+    {
+      "period": "2020-05",
+      "views": 21415
+    },
+    {
+      "period": "2022-06",
+      "views": 28077
+    },
+    {
+      "period": "2025-03",
+      "views": 9511
+    },
+    {
+      "period": "2025-06",
+      "views": 8402
+    },
+    {
+      "period": "2026-01",
+      "views": 8868
+    },
+    {
+      "period": "2026-11",
+      "views": 9059
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 30515
+    },
+    {
+      "period": "2018",
+      "views": 9367
+    },
+    {
+      "period": "2020",
+      "views": 21415
+    },
+    {
+      "period": "2022",
+      "views": 28077
+    },
+    {
+      "period": "2025",
+      "views": 17913
+    },
+    {
+      "period": "2026",
+      "views": 17927
+    }
+  ]
+}

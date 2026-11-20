@@ -4,7 +4,7 @@
   "title": "Myanmar",
   "description": "country in Southeast Asia",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%40HaNgryBam.jpg?width=64",
-  "total": 10215495,
+  "total": 10237789,
   "monthly": [
     {
       "period": "2015-10",
@@ -425,6 +425,10 @@
     {
       "period": "2026-10",
       "views": 10057
+    },
+    {
+      "period": "2026-11",
+      "views": 22294
     }
   ],
   "yearly": [
@@ -474,7 +478,7 @@
     },
     {
       "period": "2026",
-      "views": 89363
+      "views": 111657
     }
   ]
 }

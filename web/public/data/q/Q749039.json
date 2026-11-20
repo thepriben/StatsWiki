@@ -4,7 +4,7 @@
   "title": "Al_Green_(politician)",
   "description": "U.S. Representative from Texas",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Green%2C_official_photo_portrait%2C_color.jpg?width=64",
-  "total": 1940464,
+  "total": 1956474,
   "monthly": [
     {
       "period": "2017-05",
@@ -57,6 +57,10 @@
     {
       "period": "2026-06",
       "views": 9020
+    },
+    {
+      "period": "2026-11",
+      "views": 16010
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 286468
+      "views": 302478
     }
   ]
 }

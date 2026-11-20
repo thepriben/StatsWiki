@@ -4,7 +4,7 @@
   "title": "Vince_Gill",
   "description": "American country musician",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vince_Gill.png?width=64",
-  "total": 540220,
+  "total": 562191,
   "monthly": [
     {
       "period": "2016-01",
@@ -85,6 +85,10 @@
     {
       "period": "2026-10",
       "views": 9545
+    },
+    {
+      "period": "2026-11",
+      "views": 21971
     }
   ],
   "yearly": [
@@ -130,7 +134,7 @@
     },
     {
       "period": "2026",
-      "views": 18644
+      "views": 40615
     }
   ]
 }
