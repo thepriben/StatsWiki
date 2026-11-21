@@ -4,7 +4,7 @@
   "title": "John_Derek",
   "description": "American actor, director and photographer (1926-1998)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Derek_-_still.jpg?width=64",
-  "total": 346643,
+  "total": 355449,
   "monthly": [
     {
       "period": "2016-03",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 13120
+    },
+    {
+      "period": "2026-11",
+      "views": 8806
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 54216
+      "views": 63022
     }
   ]
 }

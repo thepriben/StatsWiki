@@ -4,7 +4,7 @@
   "title": "Indianapolis_Colts",
   "description": "National Football League franchise in Indianapolis, Indiana",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indianapolis_Colts_Super_Bowl_XLI_celebration%2C_Indianapolis%2C_Indiana_%28February_5%2C_2007%29_11.jpg?width=64",
-  "total": 186302,
+  "total": 194590,
   "monthly": [
     {
       "period": "2016-02",
@@ -45,6 +45,10 @@
     {
       "period": "2026-09",
       "views": 16371
+    },
+    {
+      "period": "2026-11",
+      "views": 8288
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 16371
+      "views": 24659
     }
   ]
 }

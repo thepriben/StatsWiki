@@ -4,7 +4,7 @@
   "title": "Bo_Derek",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bo_Derek_by_Gage_Skidmore_4.jpg?width=64",
-  "total": 1143310,
+  "total": 1168355,
   "monthly": [
     {
       "period": "2015-07",
@@ -137,6 +137,10 @@
     {
       "period": "2026-07",
       "views": 36519
+    },
+    {
+      "period": "2026-11",
+      "views": 25045
     }
   ],
   "yearly": [
@@ -182,7 +186,7 @@
     },
     {
       "period": "2026",
-      "views": 109708
+      "views": 134753
     }
   ]
 }

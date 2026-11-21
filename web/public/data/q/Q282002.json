@@ -4,7 +4,7 @@
   "title": "Michael_McDonald_(musician)",
   "description": "American singer and keyboardist",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_McDonald_%28singer%29.jpg?width=64",
-  "total": 401759,
+  "total": 409543,
   "monthly": [
     {
       "period": "2017-12",
@@ -37,6 +37,10 @@
     {
       "period": "2026-10",
       "views": 240586
+    },
+    {
+      "period": "2026-11",
+      "views": 7784
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 268458
+      "views": 276242
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Home_Alone",
   "description": "1990 film directed by Chris Columbus",
   "image": "",
-  "total": 10713557,
+  "total": 10722327,
   "monthly": [
     {
       "period": "2015-11",
@@ -161,6 +161,10 @@
     {
       "period": "2026-08",
       "views": 9789
+    },
+    {
+      "period": "2026-11",
+      "views": 8770
     }
   ],
   "yearly": [
@@ -210,7 +214,7 @@
     },
     {
       "period": "2026",
-      "views": 210517
+      "views": 219287
     }
   ]
 }

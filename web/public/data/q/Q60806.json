@@ -4,7 +4,7 @@
   "title": "Siegfried_&_Roy",
   "description": "German-American entertainer duo",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg?width=64",
-  "total": 2881598,
+  "total": 2890226,
   "monthly": [
     {
       "period": "2015-09",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 28943
+    },
+    {
+      "period": "2026-11",
+      "views": 8628
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 37151
+      "views": 45779
     }
   ]
 }

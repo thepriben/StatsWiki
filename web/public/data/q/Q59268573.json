@@ -4,7 +4,7 @@
   "title": "Devdutt_Padikkal",
   "description": "Indian cricketer",
   "image": "",
-  "total": 1027906,
+  "total": 1035211,
   "monthly": [
     {
       "period": "2020-09",
@@ -57,6 +57,10 @@
     {
       "period": "2026-08",
       "views": 60975
+    },
+    {
+      "period": "2026-11",
+      "views": 7305
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 150009
+      "views": 157314
     }
   ]
 }

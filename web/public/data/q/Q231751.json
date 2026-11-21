@@ -4,7 +4,7 @@
   "title": "Kat_Dennings",
   "description": "American actress (born 1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kat_Dennings_-_The_40-Year-Old-Virgin.jpg?width=64",
-  "total": 2785261,
+  "total": 2792396,
   "monthly": [
     {
       "period": "2015-09",
@@ -157,6 +157,10 @@
     {
       "period": "2026-09",
       "views": 34620
+    },
+    {
+      "period": "2026-11",
+      "views": 7135
     }
   ],
   "yearly": [
@@ -202,7 +206,7 @@
     },
     {
       "period": "2026",
-      "views": 170926
+      "views": 178061
     }
   ]
 }

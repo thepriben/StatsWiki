@@ -4,7 +4,7 @@
   "title": "Jim_Irsay",
   "description": "American football team owner",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jim_Irsay_2022_%28cropped%29.jpg?width=64",
-  "total": 1011719,
+  "total": 1022624,
   "monthly": [
     {
       "period": "2019-01",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 30179
+    },
+    {
+      "period": "2026-11",
+      "views": 10905
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 71291
+      "views": 82196
     }
   ]
 }

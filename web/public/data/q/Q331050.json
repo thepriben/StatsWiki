@@ -4,7 +4,7 @@
   "title": "Dhanush",
   "description": "Indian actor, singer, born 28 July 1983",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhanush_at_the_%E2%80%98Asuran%E2%80%99_Success_Meet.jpg?width=64",
-  "total": 3328784,
+  "total": 3340636,
   "monthly": [
     {
       "period": "2015-07",
@@ -173,6 +173,10 @@
     {
       "period": "2026-07",
       "views": 22584
+    },
+    {
+      "period": "2026-11",
+      "views": 11852
     }
   ],
   "yearly": [
@@ -222,7 +226,7 @@
     },
     {
       "period": "2026",
-      "views": 207072
+      "views": 218924
     }
   ]
 }

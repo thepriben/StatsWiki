@@ -4,7 +4,7 @@
   "title": "Ursula_von_der_Leyen",
   "description": "President of the European Commission since 2019",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ursula_von_der_Leyen_2024.jpg?width=64",
-  "total": 1871748,
+  "total": 1881367,
   "monthly": [
     {
       "period": "2019-07",
@@ -129,6 +129,10 @@
     {
       "period": "2026-10",
       "views": 8611
+    },
+    {
+      "period": "2026-11",
+      "views": 9619
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 265419
+      "views": 275038
     }
   ]
 }

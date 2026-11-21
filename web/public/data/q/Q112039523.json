@@ -1,0 +1,48 @@
+{
+  "qid": "Q112039523",
+  "label": "Wagatha Christie",
+  "title": "Wagatha_Christie",
+  "description": "British court case",
+  "image": "",
+  "total": 228795,
+  "monthly": [
+    {
+      "period": "2022-07",
+      "views": 32044
+    },
+    {
+      "period": "2022-12",
+      "views": 9756
+    },
+    {
+      "period": "2023-10",
+      "views": 11865
+    },
+    {
+      "period": "2024-11",
+      "views": 158755
+    },
+    {
+      "period": "2026-11",
+      "views": 16375
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2022",
+      "views": 41800
+    },
+    {
+      "period": "2023",
+      "views": 11865
+    },
+    {
+      "period": "2024",
+      "views": 158755
+    },
+    {
+      "period": "2026",
+      "views": 16375
+    }
+  ]
+}

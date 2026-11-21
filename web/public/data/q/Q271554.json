@@ -4,7 +4,7 @@
   "title": "Jennifer_Westfeldt",
   "description": "American actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JenniferWestfeldt2009_01.jpg?width=64",
-  "total": 385472,
+  "total": 396371,
   "monthly": [
     {
       "period": "2015-09",
@@ -37,6 +37,10 @@
     {
       "period": "2026-08",
       "views": 87189
+    },
+    {
+      "period": "2026-11",
+      "views": 10899
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 97381
+      "views": 108280
     }
   ]
 }

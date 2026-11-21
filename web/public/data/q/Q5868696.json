@@ -4,7 +4,7 @@
   "title": "Jack_Whitehall",
   "description": "British comedian, television presenter and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Whitehall%2C_charity_football_match.jpg?width=64",
-  "total": 3511414,
+  "total": 3518769,
   "monthly": [
     {
       "period": "2015-12",
@@ -185,6 +185,10 @@
     {
       "period": "2026-09",
       "views": 8466
+    },
+    {
+      "period": "2026-11",
+      "views": 7355
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 96452
+      "views": 103807
     }
   ]
 }

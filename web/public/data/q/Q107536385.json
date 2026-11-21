@@ -3,8 +3,8 @@
   "label": "Carlie Irsay-Gordon",
   "title": "Carlie_Irsay-Gordon",
   "description": "Co-owner of the Indianapolis Colts",
-  "image": "",
-  "total": 481410,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlie_Irsay-Gordon.jpg?width=64",
+  "total": 509144,
   "monthly": [
     {
       "period": "2025-05",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 79408
+    },
+    {
+      "period": "2026-11",
+      "views": 27734
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 149897
+      "views": 177631
     }
   ]
 }

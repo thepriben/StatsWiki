@@ -4,7 +4,7 @@
   "title": "Take_That",
   "description": "British five-piece vocal pop group",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Take_That_performing_in_Glasgow%2C_2017.jpg?width=64",
-  "total": 1195293,
+  "total": 1204540,
   "monthly": [
     {
       "period": "2015-11",
@@ -105,6 +105,10 @@
     {
       "period": "2026-06",
       "views": 9094
+    },
+    {
+      "period": "2026-11",
+      "views": 9247
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 151781
+      "views": 161028
     }
   ]
 }

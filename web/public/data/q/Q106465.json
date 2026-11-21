@@ -4,7 +4,7 @@
   "title": "John_Grisham",
   "description": "American writer (born 1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Grisham_2009.jpg?width=64",
-  "total": 193788,
+  "total": 202183,
   "monthly": [
     {
       "period": "2016-10",
@@ -53,6 +53,10 @@
     {
       "period": "2026-09",
       "views": 7645
+    },
+    {
+      "period": "2026-11",
+      "views": 8395
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 38972
+      "views": 47367
     }
   ]
 }
