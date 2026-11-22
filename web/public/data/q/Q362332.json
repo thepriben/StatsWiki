@@ -4,7 +4,7 @@
   "title": "David_Cross",
   "description": "American stand-up comedian and actor (born 1964)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Cross_%2832840211217%29_%28cropped%29.jpg?width=64",
-  "total": 402070,
+  "total": 410213,
   "monthly": [
     {
       "period": "2016-10",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 9827
+    },
+    {
+      "period": "2026-11",
+      "views": 8143
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 44701
+      "views": 52844
     }
   ]
 }

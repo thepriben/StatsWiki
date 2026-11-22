@@ -4,7 +4,7 @@
   "title": "Murders_of_Channon_Christian_and_Christopher_Newsom",
   "description": "2007 crime in Tennessee",
   "image": "",
-  "total": 949164,
+  "total": 960001,
   "monthly": [
     {
       "period": "2016-08",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 27484
+    },
+    {
+      "period": "2026-11",
+      "views": 10837
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 189567
+      "views": 200404
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "ALS",
   "description": "rare neurodegenerative disease with amyotrophy and progressive paralysis",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ALS_Coronal.jpg?width=64",
-  "total": 3398979,
+  "total": 3408682,
   "monthly": [
     {
       "period": "2015-08",
@@ -185,6 +185,10 @@
     {
       "period": "2026-10",
       "views": 39550
+    },
+    {
+      "period": "2026-11",
+      "views": 9703
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 865717
+      "views": 875420
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Rishabh_Pant",
   "description": "Indian cricketer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rishabh_Pant.jpg?width=64",
-  "total": 1543577,
+  "total": 1556297,
   "monthly": [
     {
       "period": "2016-05",
@@ -153,6 +153,10 @@
     {
       "period": "2026-08",
       "views": 7563
+    },
+    {
+      "period": "2026-11",
+      "views": 12720
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 7563
+      "views": 20283
     }
   ]
 }

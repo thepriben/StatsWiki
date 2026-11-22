@@ -1,0 +1,60 @@
+{
+  "qid": "Q364",
+  "label": "GitHub",
+  "title": "GitHub",
+  "description": "hosting service for software projects using Git",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Github_Docs_repository_screenshot.png?width=64",
+  "total": 898029,
+  "monthly": [
+    {
+      "period": "2018-06",
+      "views": 151339
+    },
+    {
+      "period": "2021-07",
+      "views": 29848
+    },
+    {
+      "period": "2024-01",
+      "views": 544161
+    },
+    {
+      "period": "2024-02",
+      "views": 63837
+    },
+    {
+      "period": "2024-03",
+      "views": 10389
+    },
+    {
+      "period": "2024-04",
+      "views": 74058
+    },
+    {
+      "period": "2024-05",
+      "views": 9746
+    },
+    {
+      "period": "2026-11",
+      "views": 14651
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 151339
+    },
+    {
+      "period": "2021",
+      "views": 29848
+    },
+    {
+      "period": "2024",
+      "views": 702191
+    },
+    {
+      "period": "2026",
+      "views": 14651
+    }
+  ]
+}

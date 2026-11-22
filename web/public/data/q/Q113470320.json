@@ -4,7 +4,7 @@
   "title": "Fall_(2022_film)",
   "description": "2022 film directed by Scott Mann",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CA_KXTV_KOVR_Tower_USA.jpg?width=64",
-  "total": 3425895,
+  "total": 3440279,
   "monthly": [
     {
       "period": "2022-08",
@@ -117,6 +117,10 @@
     {
       "period": "2026-10",
       "views": 48253
+    },
+    {
+      "period": "2026-11",
+      "views": 14384
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 380496
+      "views": 394880
     }
   ]
 }

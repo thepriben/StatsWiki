@@ -1,0 +1,72 @@
+{
+  "qid": "Q1386729",
+  "label": "FBI Ten Most Wanted Fugitives",
+  "title": "FBI_Ten_Most_Wanted_Fugitives",
+  "description": "American most wanted list",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FBITenheader.gif?width=64",
+  "total": 308786,
+  "monthly": [
+    {
+      "period": "2018-10",
+      "views": 27756
+    },
+    {
+      "period": "2019-02",
+      "views": 12480
+    },
+    {
+      "period": "2020-08",
+      "views": 9989
+    },
+    {
+      "period": "2025-03",
+      "views": 21982
+    },
+    {
+      "period": "2025-05",
+      "views": 18611
+    },
+    {
+      "period": "2025-10",
+      "views": 75216
+    },
+    {
+      "period": "2025-11",
+      "views": 55182
+    },
+    {
+      "period": "2025-12",
+      "views": 12446
+    },
+    {
+      "period": "2026-01",
+      "views": 67222
+    },
+    {
+      "period": "2026-11",
+      "views": 7902
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 27756
+    },
+    {
+      "period": "2019",
+      "views": 12480
+    },
+    {
+      "period": "2020",
+      "views": 9989
+    },
+    {
+      "period": "2025",
+      "views": 183437
+    },
+    {
+      "period": "2026",
+      "views": 75124
+    }
+  ]
+}

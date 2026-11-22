@@ -4,7 +4,7 @@
   "title": "Trevor_Nelson",
   "description": "British DJ and radio presenter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trevor_Nelson.jpg?width=64",
-  "total": 19295,
+  "total": 29745,
   "monthly": [
     {
       "period": "2026-06",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 8483
+    },
+    {
+      "period": "2026-11",
+      "views": 10450
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 19295
+      "views": 29745
     }
   ]
 }

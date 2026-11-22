@@ -4,7 +4,7 @@
   "title": "Matt_Rhule",
   "description": "American football player and coach (born 1975)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2017-0718-Big12MD-MattRhule.jpg?width=64",
-  "total": 1346056,
+  "total": 1357926,
   "monthly": [
     {
       "period": "2015-11",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 20102
+    },
+    {
+      "period": "2026-11",
+      "views": 11870
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 20102
+      "views": 31972
     }
   ]
 }

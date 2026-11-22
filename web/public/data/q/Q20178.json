@@ -4,7 +4,7 @@
   "title": "Joe_Pesci",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JoePesci-2009.jpg?width=64",
-  "total": 5010487,
+  "total": 5020890,
   "monthly": [
     {
       "period": "2015-09",
@@ -201,6 +201,10 @@
     {
       "period": "2026-10",
       "views": 12551
+    },
+    {
+      "period": "2026-11",
+      "views": 10403
     }
   ],
   "yearly": [
@@ -250,7 +254,7 @@
     },
     {
       "period": "2026",
-      "views": 62242
+      "views": 72645
     }
   ]
 }

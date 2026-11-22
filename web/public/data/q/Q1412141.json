@@ -1,10 +1,10 @@
 {
   "qid": "Q1412141",
   "label": "list of The Hunger Games characters",
-  "title": "List_of_The_Hunger_Games_characters",
+  "title": "Haymitch_Abernathy",
   "description": "Wikimedia list article",
   "image": "",
-  "total": 491070,
+  "total": 549515,
   "monthly": [
     {
       "period": "2015-11",
@@ -27,8 +27,12 @@
       "views": 197061
     },
     {
+      "period": "2025-11",
+      "views": 20402
+    },
+    {
       "period": "2026-11",
-      "views": 65185
+      "views": 103228
     }
   ],
   "yearly": [
@@ -45,8 +49,12 @@
       "views": 234328
     },
     {
+      "period": "2025",
+      "views": 20402
+    },
+    {
       "period": "2026",
-      "views": 65185
+      "views": 103228
     }
   ]
 }
