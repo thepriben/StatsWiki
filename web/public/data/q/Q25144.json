@@ -4,7 +4,7 @@
   "title": "Kevin_Spacey",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_Spacey-9243_%28cropped%29.jpg?width=64",
-  "total": 14372671,
+  "total": 14381860,
   "monthly": [
     {
       "period": "2015-07",
@@ -353,6 +353,10 @@
     {
       "period": "2026-07",
       "views": 18188
+    },
+    {
+      "period": "2026-11",
+      "views": 9189
     }
   ],
   "yearly": [
@@ -402,7 +406,7 @@
     },
     {
       "period": "2026",
-      "views": 98319
+      "views": 107508
     }
   ]
 }

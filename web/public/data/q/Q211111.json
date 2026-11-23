@@ -4,7 +4,7 @@
   "title": "Ursula_Andress",
   "description": "Swiss actress",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ursula_Andress_at_Somerset_House_in_2004.JPG?width=64",
-  "total": 353771,
+  "total": 362343,
   "monthly": [
     {
       "period": "2016-01",
@@ -69,6 +69,10 @@
     {
       "period": "2026-06",
       "views": 9152
+    },
+    {
+      "period": "2026-11",
+      "views": 8572
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 28690
+      "views": 37262
     }
   ]
 }

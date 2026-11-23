@@ -1,0 +1,32 @@
+{
+  "qid": "Q500759",
+  "label": "S Club 7",
+  "title": "S_Club",
+  "description": "British pop group formed in 1998",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/S_Club_7_-_Bournemouth_2015.jpg?width=64",
+  "total": 130943,
+  "monthly": [
+    {
+      "period": "2024-04",
+      "views": 15348
+    },
+    {
+      "period": "2026-05",
+      "views": 10638
+    },
+    {
+      "period": "2026-11",
+      "views": 104957
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2024",
+      "views": 15348
+    },
+    {
+      "period": "2026",
+      "views": 115595
+    }
+  ]
+}

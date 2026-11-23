@@ -4,7 +4,7 @@
   "title": "Isabel_May",
   "description": "American actress (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabel_May_during_an_interview%2C_December_2021.png?width=64",
-  "total": 1722349,
+  "total": 1734489,
   "monthly": [
     {
       "period": "2021-11",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 60534
+    },
+    {
+      "period": "2026-11",
+      "views": 12140
     }
   ],
   "yearly": [
@@ -106,7 +110,7 @@
     },
     {
       "period": "2026",
-      "views": 176505
+      "views": 188645
     }
   ]
 }

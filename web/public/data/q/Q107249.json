@@ -4,7 +4,7 @@
   "title": "Tony_Shalhoub",
   "description": "American actor (born 1953)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony_Shalhoub_2017_%28cropped%29.jpg?width=64",
-  "total": 707625,
+  "total": 726306,
   "monthly": [
     {
       "period": "2018-06",
@@ -89,6 +89,10 @@
     {
       "period": "2026-10",
       "views": 8182
+    },
+    {
+      "period": "2026-11",
+      "views": 18681
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 8182
+      "views": 26863
     }
   ]
 }

@@ -2,9 +2,9 @@
   "qid": "Q86307967",
   "label": "Tarik Skubal",
   "title": "Tarik_Skubal",
-  "description": "American professional baseball pitcher for the Los Angeles Dodgers (born 1996)",
+  "description": "American professional baseball pitcher (born 1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DET_at_LAA_2025_-_Skubal_%2811%29_%28cropped%29.jpg?width=64",
-  "total": 990376,
+  "total": 1015315,
   "monthly": [
     {
       "period": "2024-07",
@@ -65,6 +65,10 @@
     {
       "period": "2026-10",
       "views": 69855
+    },
+    {
+      "period": "2026-11",
+      "views": 24939
     }
   ],
   "yearly": [
@@ -78,7 +82,7 @@
     },
     {
       "period": "2026",
-      "views": 412633
+      "views": 437572
     }
   ]
 }

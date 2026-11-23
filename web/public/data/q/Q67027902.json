@@ -4,7 +4,7 @@
   "title": "Azeez_Al-Shaair",
   "description": "American football player (born 1997)",
   "image": "",
-  "total": 271168,
+  "total": 283138,
   "monthly": [
     {
       "period": "2023-11",
@@ -29,6 +29,10 @@
     {
       "period": "2026-09",
       "views": 7790
+    },
+    {
+      "period": "2026-11",
+      "views": 11970
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 53754
+      "views": 65724
     }
   ]
 }

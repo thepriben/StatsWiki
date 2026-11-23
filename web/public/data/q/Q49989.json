@@ -4,7 +4,7 @@
   "title": "Creutzfeldt–Jakob_disease",
   "description": "degenerative neurological disorder",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spongiform_degeneration_in_Creutzfeldt-Jakob_disease.jpg?width=64",
-  "total": 338653,
+  "total": 350385,
   "monthly": [
     {
       "period": "2016-03",
@@ -53,6 +53,10 @@
     {
       "period": "2026-10",
       "views": 42421
+    },
+    {
+      "period": "2026-11",
+      "views": 11732
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 122855
+      "views": 134587
     }
   ]
 }

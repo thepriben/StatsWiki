@@ -4,7 +4,7 @@
   "title": "Chris_Berman",
   "description": "American sportscaster",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris_Berman_cropped.jpg?width=64",
-  "total": 208884,
+  "total": 240535,
   "monthly": [
     {
       "period": "2017-01",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 7577
+    },
+    {
+      "period": "2026-11",
+      "views": 31651
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 7577
+      "views": 39228
     }
   ]
 }

@@ -3,8 +3,8 @@
   "label": "Elizabeth Hurley",
   "title": "Elizabeth_Hurley",
   "description": "English actress and model (born 1965)",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Hurley_in_2017.jpg?width=64",
-  "total": 2199612,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Hurley_ESB.jpg?width=64",
+  "total": 2221779,
   "monthly": [
     {
       "period": "2015-10",
@@ -209,6 +209,10 @@
     {
       "period": "2026-10",
       "views": 9699
+    },
+    {
+      "period": "2026-11",
+      "views": 22167
     }
   ],
   "yearly": [
@@ -258,7 +262,7 @@
     },
     {
       "period": "2026",
-      "views": 177795
+      "views": 199962
     }
   ]
 }

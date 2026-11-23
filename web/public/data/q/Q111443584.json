@@ -1,0 +1,44 @@
+{
+  "qid": "Q111443584",
+  "label": "Las Vegas Grand Prix",
+  "title": "Las_Vegas_Grand_Prix",
+  "description": "Formula 1 Grand Prix",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023_Las_Vegas_street_circuit.svg?width=64",
+  "total": 404374,
+  "monthly": [
+    {
+      "period": "2023-11",
+      "views": 305806
+    },
+    {
+      "period": "2024-11",
+      "views": 32570
+    },
+    {
+      "period": "2025-11",
+      "views": 52710
+    },
+    {
+      "period": "2026-11",
+      "views": 13288
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2023",
+      "views": 305806
+    },
+    {
+      "period": "2024",
+      "views": 32570
+    },
+    {
+      "period": "2025",
+      "views": 52710
+    },
+    {
+      "period": "2026",
+      "views": 13288
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Hull_City_A.F.C.",
   "description": "association football club in Hull, England",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hull_City_v_Everton_2014_%281%29.jpg?width=64",
-  "total": 613231,
+  "total": 622681,
   "monthly": [
     {
       "period": "2016-02",
@@ -49,6 +49,10 @@
     {
       "period": "2026-09",
       "views": 77879
+    },
+    {
+      "period": "2026-11",
+      "views": 9450
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 434961
+      "views": 444411
     }
   ]
 }

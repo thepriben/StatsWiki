@@ -4,7 +4,7 @@
   "title": "Billy_Ray_Cyrus",
   "description": "American country singer and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Billy_Ray_Cyrus_2019.jpg?width=64",
-  "total": 2891599,
+  "total": 2919681,
   "monthly": [
     {
       "period": "2015-08",
@@ -213,6 +213,10 @@
     {
       "period": "2026-09",
       "views": 24608
+    },
+    {
+      "period": "2026-11",
+      "views": 28082
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 369633
+      "views": 397715
     }
   ]
 }

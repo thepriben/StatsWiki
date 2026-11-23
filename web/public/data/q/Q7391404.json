@@ -4,7 +4,7 @@
   "title": "SMU_Mustangs_football",
   "description": "SMU college football team",
   "image": "",
-  "total": 186236,
+  "total": 197281,
   "monthly": [
     {
       "period": "2015-09",
@@ -33,6 +33,10 @@
     {
       "period": "2026-09",
       "views": 21345
+    },
+    {
+      "period": "2026-11",
+      "views": 11045
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 34040
+      "views": 45085
     }
   ]
 }

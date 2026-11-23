@@ -4,7 +4,7 @@
   "title": "Leandro_Paredes",
   "description": "Argentine footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leandro_Paredes_Argentina_v_Egypt_7_July_2026-048.jpg?width=64",
-  "total": 1529163,
+  "total": 1541418,
   "monthly": [
     {
       "period": "2019-01",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 22551
+    },
+    {
+      "period": "2026-11",
+      "views": 12255
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 1129609
+      "views": 1141864
     }
   ]
 }
