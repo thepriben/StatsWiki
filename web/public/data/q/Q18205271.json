@@ -4,7 +4,7 @@
   "title": "Joey_Bosa",
   "description": "American football player (born 1995)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joey_Bosa.jpg?width=64",
-  "total": 1253749,
+  "total": 1261627,
   "monthly": [
     {
       "period": "2015-11",
@@ -145,6 +145,10 @@
     {
       "period": "2026-09",
       "views": 10930
+    },
+    {
+      "period": "2026-11",
+      "views": 7878
     }
   ],
   "yearly": [
@@ -194,7 +198,7 @@
     },
     {
       "period": "2026",
-      "views": 41906
+      "views": 49784
     }
   ]
 }

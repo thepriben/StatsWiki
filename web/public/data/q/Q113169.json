@@ -1,0 +1,32 @@
+{
+  "qid": "Q113169",
+  "label": "BepiColombo",
+  "title": "BepiColombo",
+  "description": "ESA uncrewed space mission to Mercury",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BepiColombo_spacecraft_model.png?width=64",
+  "total": 41648,
+  "monthly": [
+    {
+      "period": "2018-10",
+      "views": 16508
+    },
+    {
+      "period": "2026-04",
+      "views": 8570
+    },
+    {
+      "period": "2026-11",
+      "views": 16570
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 16508
+    },
+    {
+      "period": "2026",
+      "views": 25140
+    }
+  ]
+}

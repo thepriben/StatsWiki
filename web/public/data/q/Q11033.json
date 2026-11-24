@@ -1,0 +1,28 @@
+{
+  "qid": "Q11033",
+  "label": "mass media",
+  "title": "Mass_media",
+  "description": "means of public communication intended to convey information and other content to large audiences",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diarioeluniverso.JPG?width=64",
+  "total": 45164,
+  "monthly": [
+    {
+      "period": "2016-03",
+      "views": 37317
+    },
+    {
+      "period": "2026-11",
+      "views": 7847
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 37317
+    },
+    {
+      "period": "2026",
+      "views": 7847
+    }
+  ]
+}

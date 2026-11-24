@@ -4,7 +4,7 @@
   "title": "June_Sarpong",
   "description": "British television presenter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/June_Sarpong_at_2025_SXSW_London.jpg?width=64",
-  "total": 98744,
+  "total": 107647,
   "monthly": [
     {
       "period": "2015-10",
@@ -29,6 +29,10 @@
     {
       "period": "2026-07",
       "views": 13377
+    },
+    {
+      "period": "2026-11",
+      "views": 8903
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 13377
+      "views": 22280
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Mike_Evans_(wide_receiver)",
   "description": "American football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Evans_face_shot_vs_Washington_Redskins_November_16_2014.jpg?width=64",
-  "total": 1014173,
+  "total": 1038213,
   "monthly": [
     {
       "period": "2016-11",
@@ -97,6 +97,10 @@
     {
       "period": "2026-10",
       "views": 177016
+    },
+    {
+      "period": "2026-11",
+      "views": 24040
     }
   ],
   "yearly": [
@@ -134,7 +138,7 @@
     },
     {
       "period": "2026",
-      "views": 325869
+      "views": 349909
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Christopher_Guest",
   "description": "British-American screenwriter, comedian, musician, director, and actor (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guest4.jpg?width=64",
-  "total": 2437821,
+  "total": 2445607,
   "monthly": [
     {
       "period": "2016-10",
@@ -105,6 +105,10 @@
     {
       "period": "2026-09",
       "views": 7658
+    },
+    {
+      "period": "2026-11",
+      "views": 7786
     }
   ],
   "yearly": [
@@ -146,7 +150,7 @@
     },
     {
       "period": "2026",
-      "views": 188256
+      "views": 196042
     }
   ]
 }

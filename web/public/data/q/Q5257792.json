@@ -4,7 +4,7 @@
   "title": "Denise_van_Outen",
   "description": "English actress and television presenter",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Denise_van_Outen_Waterloo_bridge.jpg?width=64",
-  "total": 311094,
+  "total": 321767,
   "monthly": [
     {
       "period": "2016-12",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 9657
+    },
+    {
+      "period": "2026-11",
+      "views": 10673
     }
   ],
   "yearly": [
@@ -82,7 +86,7 @@
     },
     {
       "period": "2026",
-      "views": 9657
+      "views": 20330
     }
   ]
 }

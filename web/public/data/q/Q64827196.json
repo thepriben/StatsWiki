@@ -4,7 +4,7 @@
   "title": "Soham_murders",
   "description": "The Soham murders occurred in Soham, Cambridgeshire, England, on 4 August 2002",
   "image": "",
-  "total": 3470207,
+  "total": 3485606,
   "monthly": [
     {
       "period": "2016-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-03",
       "views": 1619956
+    },
+    {
+      "period": "2026-11",
+      "views": 15399
     }
   ],
   "yearly": [
@@ -158,7 +162,7 @@
     },
     {
       "period": "2026",
-      "views": 2087765
+      "views": 2103164
     }
   ]
 }

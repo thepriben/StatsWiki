@@ -4,7 +4,7 @@
   "title": "Death_of_John_O'Keefe",
   "description": "2022 murder in Canton, Massachusetts, US",
   "image": "",
-  "total": 582516,
+  "total": 604811,
   "monthly": [
     {
       "period": "2025-05",
@@ -25,6 +25,10 @@
     {
       "period": "2026-09",
       "views": 16981
+    },
+    {
+      "period": "2026-11",
+      "views": 22295
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 30295
+      "views": 52590
     }
   ]
 }

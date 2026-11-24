@@ -4,7 +4,7 @@
   "title": "Patty_Hearst",
   "description": "American kidnapping victim",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patti_Hearst1.jpg?width=64",
-  "total": 2535832,
+  "total": 2543846,
   "monthly": [
     {
       "period": "2015-07",
@@ -113,6 +113,10 @@
     {
       "period": "2026-10",
       "views": 22674
+    },
+    {
+      "period": "2026-11",
+      "views": 8014
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 60847
+      "views": 68861
     }
   ]
 }

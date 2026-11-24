@@ -4,7 +4,7 @@
   "title": "Zosia_Mamet",
   "description": "American actress, musician (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zosia_Mamet_2016.jpg?width=64",
-  "total": 121266,
+  "total": 133811,
   "monthly": [
     {
       "period": "2022-04",
@@ -21,6 +21,10 @@
     {
       "period": "2026-10",
       "views": 9688
+    },
+    {
+      "period": "2026-11",
+      "views": 12545
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 9688
+      "views": 22233
     }
   ]
 }

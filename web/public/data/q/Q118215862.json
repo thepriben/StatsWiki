@@ -3,8 +3,8 @@
   "label": "Blade Runner 2099",
   "title": "Blade_Runner_2099",
   "description": "television series",
-  "image": "",
-  "total": 184607,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BladeRunner_2099.webp?width=64",
+  "total": 204154,
   "monthly": [
     {
       "period": "2026-07",
@@ -16,13 +16,13 @@
     },
     {
       "period": "2026-11",
-      "views": 57640
+      "views": 77187
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 184607
+      "views": 204154
     }
   ]
 }

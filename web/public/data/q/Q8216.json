@@ -4,7 +4,7 @@
   "title": "Greek_alphabet",
   "description": "alphabet used to write the ancient or modern Greek language",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Richtungsschild_auf_der_Insel_Ikaria%2C_2005.jpg?width=64",
-  "total": 25022375,
+  "total": 25032494,
   "monthly": [
     {
       "period": "2015-07",
@@ -453,6 +453,10 @@
     {
       "period": "2026-09",
       "views": 9683
+    },
+    {
+      "period": "2026-11",
+      "views": 10119
     }
   ],
   "yearly": [
@@ -502,7 +506,7 @@
     },
     {
       "period": "2026",
-      "views": 48189
+      "views": 58308
     }
   ]
 }
