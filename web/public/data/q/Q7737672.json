@@ -4,7 +4,7 @@
   "title": "The_Great_British_Bake_Off",
   "description": "British television program",
   "image": "",
-  "total": 5117299,
+  "total": 5125486,
   "monthly": [
     {
       "period": "2015-08",
@@ -185,6 +185,10 @@
     {
       "period": "2026-10",
       "views": 33007
+    },
+    {
+      "period": "2026-11",
+      "views": 8187
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 71584
+      "views": 79771
     }
   ]
 }

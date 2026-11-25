@@ -4,7 +4,7 @@
   "title": "Angela_Bassett",
   "description": "American actress (born 1958)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angela_Bassett_by_Gage_Skidmoe.jpg?width=64",
-  "total": 4342829,
+  "total": 4350846,
   "monthly": [
     {
       "period": "2015-10",
@@ -197,6 +197,10 @@
     {
       "period": "2026-09",
       "views": 11916
+    },
+    {
+      "period": "2026-11",
+      "views": 8017
     }
   ],
   "yearly": [
@@ -246,7 +250,7 @@
     },
     {
       "period": "2026",
-      "views": 11916
+      "views": 19933
     }
   ]
 }

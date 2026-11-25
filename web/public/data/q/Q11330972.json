@@ -4,7 +4,7 @@
   "title": "Cole_Sprouse",
   "description": "American actor (born 1992)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cole_Sprouse_Tribeca_2026_4.jpg?width=64",
-  "total": 6535388,
+  "total": 6548798,
   "monthly": [
     {
       "period": "2017-01",
@@ -225,6 +225,10 @@
     {
       "period": "2026-10",
       "views": 173340
+    },
+    {
+      "period": "2026-11",
+      "views": 13410
     }
   ],
   "yearly": [
@@ -266,7 +270,7 @@
     },
     {
       "period": "2026",
-      "views": 271529
+      "views": 284939
     }
   ]
 }

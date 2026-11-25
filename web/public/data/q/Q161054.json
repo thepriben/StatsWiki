@@ -4,7 +4,7 @@
   "title": "Ivan_Perišić",
   "description": "Croatian footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Peri%C5%A1i%C4%87_%28cropped%29.jpg?width=64",
-  "total": 1896821,
+  "total": 1908053,
   "monthly": [
     {
       "period": "2015-08",
@@ -105,6 +105,10 @@
     {
       "period": "2026-07",
       "views": 67416
+    },
+    {
+      "period": "2026-11",
+      "views": 11232
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 163684
+      "views": 174916
     }
   ]
 }

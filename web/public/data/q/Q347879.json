@@ -4,7 +4,7 @@
   "title": "Vanessa_Redgrave",
   "description": "British actress and activist (born 1937)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanessa_Redgrave_2017.jpg?width=64",
-  "total": 534921,
+  "total": 543910,
   "monthly": [
     {
       "period": "2017-01",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 33224
+    },
+    {
+      "period": "2026-11",
+      "views": 8989
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 71095
+      "views": 80084
     }
   ]
 }

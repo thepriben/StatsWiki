@@ -1,0 +1,44 @@
+{
+  "qid": "Q160175",
+  "label": "Theresienstadt concentration camp",
+  "title": "Theresienstadt_Ghetto",
+  "description": "Nazi concentration camp in Terezín, Czechoslovakia",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Theresienstadt_arbeit_macht_frei.jpg?width=64",
+  "total": 58003,
+  "monthly": [
+    {
+      "period": "2019-01",
+      "views": 17194
+    },
+    {
+      "period": "2022-11",
+      "views": 13610
+    },
+    {
+      "period": "2023-11",
+      "views": 11667
+    },
+    {
+      "period": "2026-11",
+      "views": 15532
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 17194
+    },
+    {
+      "period": "2022",
+      "views": 13610
+    },
+    {
+      "period": "2023",
+      "views": 11667
+    },
+    {
+      "period": "2026",
+      "views": 15532
+    }
+  ]
+}

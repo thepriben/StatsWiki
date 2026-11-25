@@ -1,0 +1,96 @@
+{
+  "qid": "Q190042",
+  "label": "World Chess Championship",
+  "title": "World_Chess_Championship",
+  "description": "chess competition played to determine the world champion in chess",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_Chess_Championship_2021%2C_game_11%2C_Ian_Nepomniachtchi_and_Magnus_Carlsen.jpg?width=64",
+  "total": 1154885,
+  "monthly": [
+    {
+      "period": "2016-12",
+      "views": 12799
+    },
+    {
+      "period": "2018-11",
+      "views": 33752
+    },
+    {
+      "period": "2021-11",
+      "views": 53602
+    },
+    {
+      "period": "2021-12",
+      "views": 191455
+    },
+    {
+      "period": "2022-07",
+      "views": 11214
+    },
+    {
+      "period": "2023-04",
+      "views": 201874
+    },
+    {
+      "period": "2023-05",
+      "views": 30686
+    },
+    {
+      "period": "2023-08",
+      "views": 106144
+    },
+    {
+      "period": "2024-04",
+      "views": 40496
+    },
+    {
+      "period": "2024-11",
+      "views": 48996
+    },
+    {
+      "period": "2024-12",
+      "views": 335043
+    },
+    {
+      "period": "2025-06",
+      "views": 78278
+    },
+    {
+      "period": "2026-11",
+      "views": 10546
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 12799
+    },
+    {
+      "period": "2018",
+      "views": 33752
+    },
+    {
+      "period": "2021",
+      "views": 245057
+    },
+    {
+      "period": "2022",
+      "views": 11214
+    },
+    {
+      "period": "2023",
+      "views": 338704
+    },
+    {
+      "period": "2024",
+      "views": 424535
+    },
+    {
+      "period": "2025",
+      "views": 78278
+    },
+    {
+      "period": "2026",
+      "views": 10546
+    }
+  ]
+}

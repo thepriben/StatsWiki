@@ -4,7 +4,7 @@
   "title": "David_Sedaris",
   "description": "American author (born 1956)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Sedaris-4724.jpg?width=64",
-  "total": 225952,
+  "total": 233745,
   "monthly": [
     {
       "period": "2017-05",
@@ -45,6 +45,10 @@
     {
       "period": "2026-06",
       "views": 34067
+    },
+    {
+      "period": "2026-11",
+      "views": 7793
     }
   ],
   "yearly": [
@@ -70,7 +74,7 @@
     },
     {
       "period": "2026",
-      "views": 34067
+      "views": 41860
     }
   ]
 }

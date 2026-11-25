@@ -4,17 +4,21 @@
   "title": "Cyclops_(Marvel_Comics)",
   "description": "fictional character in Marvel Comics",
   "image": "",
-  "total": 9494,
+  "total": 18404,
   "monthly": [
     {
       "period": "2026-08",
       "views": 9494
+    },
+    {
+      "period": "2026-11",
+      "views": 8910
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 9494
+      "views": 18404
     }
   ]
 }

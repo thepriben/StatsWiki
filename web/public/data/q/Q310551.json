@@ -4,7 +4,7 @@
   "title": "Harold_Perrineau",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold_Perrineau%2C_Constantine%2C_2014_Comic_Con_%28cropped%29.jpg?width=64",
-  "total": 46733,
+  "total": 54187,
   "monthly": [
     {
       "period": "2017-11",
@@ -17,6 +17,10 @@
     {
       "period": "2026-10",
       "views": 17171
+    },
+    {
+      "period": "2026-11",
+      "views": 7454
     }
   ],
   "yearly": [
@@ -30,7 +34,7 @@
     },
     {
       "period": "2026",
-      "views": 17171
+      "views": 24625
     }
   ]
 }

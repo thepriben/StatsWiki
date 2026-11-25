@@ -4,7 +4,7 @@
   "title": "Prince_Jackson",
   "description": "Wikimedia disambiguation page",
   "image": "",
-  "total": 922226,
+  "total": 930271,
   "monthly": [
     {
       "period": "2026-04",
@@ -21,12 +21,16 @@
     {
       "period": "2026-08",
       "views": 26312
+    },
+    {
+      "period": "2026-11",
+      "views": 8045
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 922226
+      "views": 930271
     }
   ]
 }

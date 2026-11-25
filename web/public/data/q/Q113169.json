@@ -2,9 +2,9 @@
   "qid": "Q113169",
   "label": "BepiColombo",
   "title": "BepiColombo",
-  "description": "ESA uncrewed space mission to Mercury",
+  "description": "joint ESA–JAXA mission to Mercury launched in 2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BepiColombo_spacecraft_model.png?width=64",
-  "total": 41648,
+  "total": 61981,
   "monthly": [
     {
       "period": "2018-10",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-11",
-      "views": 16570
+      "views": 36903
     }
   ],
   "yearly": [
@@ -26,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 25140
+      "views": 45473
     }
   ]
 }

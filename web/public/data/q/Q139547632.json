@@ -4,7 +4,7 @@
   "title": "Breeder_(film)",
   "description": "2026 film",
   "image": "",
-  "total": 106293,
+  "total": 113987,
   "monthly": [
     {
       "period": "2026-08",
@@ -17,12 +17,16 @@
     {
       "period": "2026-10",
       "views": 38502
+    },
+    {
+      "period": "2026-11",
+      "views": 7694
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 106293
+      "views": 113987
     }
   ]
 }

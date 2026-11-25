@@ -4,7 +4,7 @@
   "title": "Nomad_(Marvel_Comics)",
   "description": "fictional character from Marvel Comics",
   "image": "",
-  "total": 144654,
+  "total": 152026,
   "monthly": [
     {
       "period": "2024-12",
@@ -13,6 +13,10 @@
     {
       "period": "2026-07",
       "views": 121819
+    },
+    {
+      "period": "2026-11",
+      "views": 7372
     }
   ],
   "yearly": [
@@ -22,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 121819
+      "views": 129191
     }
   ]
 }

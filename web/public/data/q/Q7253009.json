@@ -4,7 +4,7 @@
   "title": "Prue_Leith",
   "description": "South African-British chef, writer, television personality, businesswoman",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prue_Leith_20181206.jpg?width=64",
-  "total": 569602,
+  "total": 579445,
   "monthly": [
     {
       "period": "2017-08",
@@ -69,6 +69,10 @@
     {
       "period": "2026-08",
       "views": 30118
+    },
+    {
+      "period": "2026-11",
+      "views": 9843
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 114562
+      "views": 124405
     }
   ]
 }
