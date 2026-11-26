@@ -4,7 +4,7 @@
   "title": "BepiColombo",
   "description": "joint ESA–JAXA mission to Mercury launched in 2018",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BepiColombo_spacecraft_model.png?width=64",
-  "total": 61981,
+  "total": 73632,
   "monthly": [
     {
       "period": "2018-10",
@@ -16,7 +16,7 @@
     },
     {
       "period": "2026-11",
-      "views": 36903
+      "views": 48554
     }
   ],
   "yearly": [
@@ -26,7 +26,7 @@
     },
     {
       "period": "2026",
-      "views": 45473
+      "views": 57124
     }
   ]
 }

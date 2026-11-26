@@ -4,7 +4,7 @@
   "title": "Raheem_Sterling",
   "description": "English association football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raheem_Sterling_2018.jpg?width=64",
-  "total": 6578343,
+  "total": 6648567,
   "monthly": [
     {
       "period": "2015-07",
@@ -297,6 +297,10 @@
     {
       "period": "2026-09",
       "views": 204942
+    },
+    {
+      "period": "2026-11",
+      "views": 70224
     }
   ],
   "yearly": [
@@ -346,7 +350,7 @@
     },
     {
       "period": "2026",
-      "views": 527026
+      "views": 597250
     }
   ]
 }

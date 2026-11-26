@@ -1,0 +1,52 @@
+{
+  "qid": "Q1546",
+  "label": "Iowa",
+  "title": "Iowa",
+  "description": "state of the United States of America",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maytag.jpg?width=64",
+  "total": 355791,
+  "monthly": [
+    {
+      "period": "2016-01",
+      "views": 40833
+    },
+    {
+      "period": "2016-02",
+      "views": 124528
+    },
+    {
+      "period": "2020-02",
+      "views": 107878
+    },
+    {
+      "period": "2024-01",
+      "views": 62607
+    },
+    {
+      "period": "2024-11",
+      "views": 12154
+    },
+    {
+      "period": "2026-11",
+      "views": 7791
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 165361
+    },
+    {
+      "period": "2020",
+      "views": 107878
+    },
+    {
+      "period": "2024",
+      "views": 74761
+    },
+    {
+      "period": "2026",
+      "views": 7791
+    }
+  ]
+}

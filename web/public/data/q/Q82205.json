@@ -4,7 +4,7 @@
   "title": "Flag_of_Ireland",
   "description": "national flag of the Republic of Ireland",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland_%28Pantone%29.svg?width=64",
-  "total": 1463974,
+  "total": 1471585,
   "monthly": [
     {
       "period": "2016-03",
@@ -109,6 +109,10 @@
     {
       "period": "2026-09",
       "views": 8132
+    },
+    {
+      "period": "2026-11",
+      "views": 7611
     }
   ],
   "yearly": [
@@ -150,7 +154,7 @@
     },
     {
       "period": "2026",
-      "views": 31548
+      "views": 39159
     }
   ]
 }

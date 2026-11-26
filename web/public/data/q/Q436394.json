@@ -4,7 +4,7 @@
   "title": "Paula_Yates",
   "description": "British television presenter and writer (1959–2000)",
   "image": "",
-  "total": 1153983,
+  "total": 1179502,
   "monthly": [
     {
       "period": "2017-10",
@@ -89,6 +89,10 @@
     {
       "period": "2026-06",
       "views": 8986
+    },
+    {
+      "period": "2026-11",
+      "views": 25519
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 150758
+      "views": 176277
     }
   ]
 }

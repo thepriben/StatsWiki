@@ -4,7 +4,7 @@
   "title": "Len_Goodman",
   "description": "British professional ballroom dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Len_Goodman_1.JPG?width=64",
-  "total": 803317,
+  "total": 812305,
   "monthly": [
     {
       "period": "2016-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 20173
+    },
+    {
+      "period": "2026-11",
+      "views": 8988
     }
   ],
   "yearly": [
@@ -118,7 +122,7 @@
     },
     {
       "period": "2026",
-      "views": 31374
+      "views": 40362
     }
   ]
 }

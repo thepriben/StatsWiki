@@ -4,7 +4,7 @@
   "title": "Bruno_Tonioli",
   "description": "Italian choreographer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Tonioli_in_2015.jpg?width=64",
-  "total": 656822,
+  "total": 675999,
   "monthly": [
     {
       "period": "2015-12",
@@ -117,6 +117,10 @@
     {
       "period": "2026-10",
       "views": 30390
+    },
+    {
+      "period": "2026-11",
+      "views": 19177
     }
   ],
   "yearly": [
@@ -162,7 +166,7 @@
     },
     {
       "period": "2026",
-      "views": 64414
+      "views": 83591
     }
   ]
 }

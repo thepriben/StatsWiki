@@ -4,7 +4,7 @@
   "title": "John_Owen_Lowe",
   "description": "American actor",
   "image": "",
-  "total": 507912,
+  "total": 523191,
   "monthly": [
     {
       "period": "2023-03",
@@ -21,6 +21,10 @@
     {
       "period": "2026-09",
       "views": 13029
+    },
+    {
+      "period": "2026-11",
+      "views": 15279
     }
   ],
   "yearly": [
@@ -34,7 +38,7 @@
     },
     {
       "period": "2026",
-      "views": 13029
+      "views": 28308
     }
   ]
 }

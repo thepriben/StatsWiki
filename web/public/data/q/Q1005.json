@@ -4,7 +4,7 @@
   "title": "The_Gambia",
   "description": "sovereign state in West Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_drawing_of_the_Republic_of_The_Gambia.jpg?width=64",
-  "total": 688091,
+  "total": 695312,
   "monthly": [
     {
       "period": "2015-12",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 10245
+    },
+    {
+      "period": "2026-11",
+      "views": 7221
     }
   ],
   "yearly": [
@@ -98,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 18743
+      "views": 25964
     }
   ]
 }

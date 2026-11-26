@@ -1,0 +1,60 @@
+{
+  "qid": "Q4923219",
+  "label": "Blackout Wednesday",
+  "title": "Blackout_Wednesday",
+  "description": "Thanksgiving Eve",
+  "image": "",
+  "total": 133472,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 10181
+    },
+    {
+      "period": "2017-11",
+      "views": 19336
+    },
+    {
+      "period": "2019-11",
+      "views": 22135
+    },
+    {
+      "period": "2023-11",
+      "views": 42101
+    },
+    {
+      "period": "2024-11",
+      "views": 30970
+    },
+    {
+      "period": "2026-11",
+      "views": 8749
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 10181
+    },
+    {
+      "period": "2017",
+      "views": 19336
+    },
+    {
+      "period": "2019",
+      "views": 22135
+    },
+    {
+      "period": "2023",
+      "views": 42101
+    },
+    {
+      "period": "2024",
+      "views": 30970
+    },
+    {
+      "period": "2026",
+      "views": 8749
+    }
+  ]
+}

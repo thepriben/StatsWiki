@@ -4,7 +4,7 @@
   "title": "Rashida_Jones",
   "description": "American actress, writer, and producer (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashida_Jones_at_2017_MIFF_%28cropped%29.jpg?width=64",
-  "total": 12009964,
+  "total": 12019507,
   "monthly": [
     {
       "period": "2015-07",
@@ -377,6 +377,10 @@
     {
       "period": "2026-09",
       "views": 22674
+    },
+    {
+      "period": "2026-11",
+      "views": 9543
     }
   ],
   "yearly": [
@@ -426,7 +430,7 @@
     },
     {
       "period": "2026",
-      "views": 153074
+      "views": 162617
     }
   ]
 }

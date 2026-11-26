@@ -4,7 +4,7 @@
   "title": "Alan_Rickman",
   "description": "British actor and director (1946–2016)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Rickman_at_BAM_-17.jpg?width=64",
-  "total": 20522735,
+  "total": 20529857,
   "monthly": [
     {
       "period": "2015-12",
@@ -401,6 +401,10 @@
     {
       "period": "2026-09",
       "views": 8032
+    },
+    {
+      "period": "2026-11",
+      "views": 7122
     }
   ],
   "yearly": [
@@ -450,7 +454,7 @@
     },
     {
       "period": "2026",
-      "views": 219495
+      "views": 226617
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Shirley_Ballas",
   "description": "British ballroom dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirly-Balas-2020.png?width=64",
-  "total": 1291901,
+  "total": 1300725,
   "monthly": [
     {
       "period": "2015-09",
@@ -145,6 +145,10 @@
     {
       "period": "2026-10",
       "views": 153182
+    },
+    {
+      "period": "2026-11",
+      "views": 8824
     }
   ],
   "yearly": [
@@ -190,7 +194,7 @@
     },
     {
       "period": "2026",
-      "views": 171124
+      "views": 179948
     }
   ]
 }

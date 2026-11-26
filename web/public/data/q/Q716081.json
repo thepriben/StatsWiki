@@ -4,7 +4,7 @@
   "title": "Iman_Shumpert",
   "description": "American professional basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iman_Shumpert_Knicks.jpg?width=64",
-  "total": 1200338,
+  "total": 1208597,
   "monthly": [
     {
       "period": "2015-12",
@@ -121,6 +121,10 @@
     {
       "period": "2026-06",
       "views": 38613
+    },
+    {
+      "period": "2026-11",
+      "views": 8259
     }
   ],
   "yearly": [
@@ -166,7 +170,7 @@
     },
     {
       "period": "2026",
-      "views": 323354
+      "views": 331613
     }
   ]
 }

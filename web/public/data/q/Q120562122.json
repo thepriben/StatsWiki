@@ -4,7 +4,7 @@
   "title": "AJ_Dybantsa",
   "description": "American basketball player (born 2007)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AJ_Dybantsa_2024.jpg?width=64",
-  "total": 520750,
+  "total": 527900,
   "monthly": [
     {
       "period": "2024-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-07",
       "views": 12734
+    },
+    {
+      "period": "2026-11",
+      "views": 7150
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 435193
+      "views": 442343
     }
   ]
 }

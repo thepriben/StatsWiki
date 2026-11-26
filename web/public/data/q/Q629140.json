@@ -1,0 +1,48 @@
+{
+  "qid": "Q629140",
+  "label": "Devils Hole",
+  "title": "Devils_Hole",
+  "description": "spring in Nye County, Nevada, United States",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Devils_Hole_6.jpg?width=64",
+  "total": 154438,
+  "monthly": [
+    {
+      "period": "2016-05",
+      "views": 10693
+    },
+    {
+      "period": "2016-08",
+      "views": 41891
+    },
+    {
+      "period": "2018-07",
+      "views": 60784
+    },
+    {
+      "period": "2023-04",
+      "views": 11779
+    },
+    {
+      "period": "2026-11",
+      "views": 29291
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 52584
+    },
+    {
+      "period": "2018",
+      "views": 60784
+    },
+    {
+      "period": "2023",
+      "views": 11779
+    },
+    {
+      "period": "2026",
+      "views": 29291
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Pittsburgh_Steelers",
   "description": "professional American football team based in Pittsburgh, Pennsylvania",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pittsburgh_Steelers_logo.svg?width=64",
-  "total": 1517870,
+  "total": 1528862,
   "monthly": [
     {
       "period": "2015-08",
@@ -225,6 +225,10 @@
     {
       "period": "2026-10",
       "views": 11598
+    },
+    {
+      "period": "2026-11",
+      "views": 10992
     }
   ],
   "yearly": [
@@ -274,7 +278,7 @@
     },
     {
       "period": "2026",
-      "views": 142054
+      "views": 153046
     }
   ]
 }

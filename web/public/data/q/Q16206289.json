@@ -4,7 +4,7 @@
   "title": "Witney_Carson",
   "description": "American actress and dancer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Witney_Carson_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 1016976,
+  "total": 1026000,
   "monthly": [
     {
       "period": "2015-09",
@@ -101,6 +101,10 @@
     {
       "period": "2026-10",
       "views": 47604
+    },
+    {
+      "period": "2026-11",
+      "views": 9024
     }
   ],
   "yearly": [
@@ -138,7 +142,7 @@
     },
     {
       "period": "2026",
-      "views": 99840
+      "views": 108864
     }
   ]
 }

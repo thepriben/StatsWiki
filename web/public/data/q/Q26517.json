@@ -4,7 +4,7 @@
   "title": "Luis_Suárez",
   "description": "Uruguayan association football player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis_Su%C3%A1rez_NE_Revolution_Inter_Miami_7.9.25-053_%28cropped%29.jpg?width=64",
-  "total": 7132960,
+  "total": 7146719,
   "monthly": [
     {
       "period": "2015-10",
@@ -341,6 +341,10 @@
     {
       "period": "2026-08",
       "views": 10420
+    },
+    {
+      "period": "2026-11",
+      "views": 13759
     }
   ],
   "yearly": [
@@ -390,7 +394,7 @@
     },
     {
       "period": "2026",
-      "views": 765655
+      "views": 779414
     }
   ]
 }

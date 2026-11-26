@@ -4,7 +4,7 @@
   "title": "Jean_Seberg",
   "description": "American actress (1938–1979)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Seberg_1961.jpg?width=64",
-  "total": 724929,
+  "total": 734665,
   "monthly": [
     {
       "period": "2016-03",
@@ -81,6 +81,10 @@
     {
       "period": "2026-06",
       "views": 8314
+    },
+    {
+      "period": "2026-11",
+      "views": 9736
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 8314
+      "views": 18050
     }
   ]
 }
