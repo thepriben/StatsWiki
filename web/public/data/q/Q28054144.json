@@ -4,7 +4,7 @@
   "title": "OG_Anunoby",
   "description": "British basketball player",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OG_Anunoby_%2841708749222%29_%28cropped%29.jpg?width=64",
-  "total": 2118020,
+  "total": 2125433,
   "monthly": [
     {
       "period": "2017-06",
@@ -65,6 +65,10 @@
     {
       "period": "2026-06",
       "views": 1408333
+    },
+    {
+      "period": "2026-11",
+      "views": 7413
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 1585673
+      "views": 1593086
     }
   ]
 }

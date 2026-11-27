@@ -1,0 +1,108 @@
+{
+  "qid": "Q3642692",
+  "label": "Thanksgiving dinner",
+  "title": "Thanksgiving_dinner",
+  "description": "traditional dinner of Thanksgiving",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Our_%28Almost_Traditional%29_Thanksgiving_Dinner.jpg?width=64",
+  "total": 463758,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 76500
+    },
+    {
+      "period": "2016-11",
+      "views": 57102
+    },
+    {
+      "period": "2017-11",
+      "views": 73082
+    },
+    {
+      "period": "2018-11",
+      "views": 64565
+    },
+    {
+      "period": "2019-11",
+      "views": 51721
+    },
+    {
+      "period": "2020-11",
+      "views": 47162
+    },
+    {
+      "period": "2021-11",
+      "views": 13060
+    },
+    {
+      "period": "2022-11",
+      "views": 15581
+    },
+    {
+      "period": "2023-11",
+      "views": 14703
+    },
+    {
+      "period": "2024-11",
+      "views": 31279
+    },
+    {
+      "period": "2025-11",
+      "views": 10506
+    },
+    {
+      "period": "2026-11",
+      "views": 8497
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 76500
+    },
+    {
+      "period": "2016",
+      "views": 57102
+    },
+    {
+      "period": "2017",
+      "views": 73082
+    },
+    {
+      "period": "2018",
+      "views": 64565
+    },
+    {
+      "period": "2019",
+      "views": 51721
+    },
+    {
+      "period": "2020",
+      "views": 47162
+    },
+    {
+      "period": "2021",
+      "views": 13060
+    },
+    {
+      "period": "2022",
+      "views": 15581
+    },
+    {
+      "period": "2023",
+      "views": 14703
+    },
+    {
+      "period": "2024",
+      "views": 31279
+    },
+    {
+      "period": "2025",
+      "views": 10506
+    },
+    {
+      "period": "2026",
+      "views": 8497
+    }
+  ]
+}

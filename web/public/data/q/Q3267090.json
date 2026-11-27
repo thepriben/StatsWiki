@@ -4,7 +4,7 @@
   "title": "Luke_Kuechly",
   "description": "American football player (born 1991)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saints_vs_Panthers_12.6.15_189.jpg?width=64",
-  "total": 1228762,
+  "total": 1259084,
   "monthly": [
     {
       "period": "2015-10",
@@ -85,6 +85,10 @@
     {
       "period": "2026-09",
       "views": 34110
+    },
+    {
+      "period": "2026-11",
+      "views": 30322
     }
   ],
   "yearly": [
@@ -126,7 +130,7 @@
     },
     {
       "period": "2026",
-      "views": 310426
+      "views": 340748
     }
   ]
 }

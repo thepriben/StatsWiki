@@ -4,7 +4,7 @@
   "title": "Emilio_Estevez",
   "description": "American actor, director, and writer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emilio_Estevez_and_Martin_Sheen_%28cropped_to_Emilio%29.jpg?width=64",
-  "total": 3181753,
+  "total": 3189340,
   "monthly": [
     {
       "period": "2015-07",
@@ -213,6 +213,10 @@
     {
       "period": "2026-08",
       "views": 9850
+    },
+    {
+      "period": "2026-11",
+      "views": 7587
     }
   ],
   "yearly": [
@@ -262,7 +266,7 @@
     },
     {
       "period": "2026",
-      "views": 9850
+      "views": 17437
     }
   ]
 }

@@ -2,9 +2,9 @@
   "qid": "Q100795875",
   "label": "Blake Corum",
   "title": "Blake_Corum",
-  "description": "American football running back",
+  "description": "American football player (born 2000)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UM_UNI_09.18.21_0024_%2851496797800%29_%282%29.jpg?width=64",
-  "total": 414176,
+  "total": 463087,
   "monthly": [
     {
       "period": "2022-09",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 11362
+    },
+    {
+      "period": "2026-11",
+      "views": 48911
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 48308
+      "views": 97219
     }
   ]
 }

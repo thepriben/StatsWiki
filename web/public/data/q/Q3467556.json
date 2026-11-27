@@ -4,7 +4,7 @@
   "title": "Tom_Cruise_filmography",
   "description": "List article of movies with actor Tom Cruise",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Cruise_avp_2014_4.jpg?width=64",
-  "total": 1650889,
+  "total": 1686298,
   "monthly": [
     {
       "period": "2017-06",
@@ -69,6 +69,10 @@
     {
       "period": "2026-10",
       "views": 35585
+    },
+    {
+      "period": "2026-11",
+      "views": 35409
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 44879
+      "views": 80288
     }
   ]
 }

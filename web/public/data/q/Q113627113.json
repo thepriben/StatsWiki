@@ -4,7 +4,7 @@
   "title": "Davide_Ancelotti",
   "description": "Italian football manager",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Davide_Ancelotti_2022.jpg?width=64",
-  "total": 151406,
+  "total": 160590,
   "monthly": [
     {
       "period": "2024-06",
@@ -25,6 +25,10 @@
     {
       "period": "2026-10",
       "views": 18036
+    },
+    {
+      "period": "2026-11",
+      "views": 9184
     }
   ],
   "yearly": [
@@ -38,7 +42,7 @@
     },
     {
       "period": "2026",
-      "views": 44226
+      "views": 53410
     }
   ]
 }

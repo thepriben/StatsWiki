@@ -1,0 +1,100 @@
+{
+  "qid": "Q1056843",
+  "label": "Alice's Restaurant",
+  "title": "Alice's_Restaurant",
+  "description": "song written by Arlo Guthrie",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ArloGuthrieMinnesotaZooAmphitheatre2005.jpg?width=64",
+  "total": 298503,
+  "monthly": [
+    {
+      "period": "2015-11",
+      "views": 57243
+    },
+    {
+      "period": "2016-11",
+      "views": 31088
+    },
+    {
+      "period": "2017-11",
+      "views": 32017
+    },
+    {
+      "period": "2019-11",
+      "views": 15961
+    },
+    {
+      "period": "2020-11",
+      "views": 38415
+    },
+    {
+      "period": "2021-11",
+      "views": 15527
+    },
+    {
+      "period": "2022-11",
+      "views": 15489
+    },
+    {
+      "period": "2023-11",
+      "views": 18545
+    },
+    {
+      "period": "2024-11",
+      "views": 30467
+    },
+    {
+      "period": "2025-11",
+      "views": 30467
+    },
+    {
+      "period": "2026-11",
+      "views": 13284
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2015",
+      "views": 57243
+    },
+    {
+      "period": "2016",
+      "views": 31088
+    },
+    {
+      "period": "2017",
+      "views": 32017
+    },
+    {
+      "period": "2019",
+      "views": 15961
+    },
+    {
+      "period": "2020",
+      "views": 38415
+    },
+    {
+      "period": "2021",
+      "views": 15527
+    },
+    {
+      "period": "2022",
+      "views": 15489
+    },
+    {
+      "period": "2023",
+      "views": 18545
+    },
+    {
+      "period": "2024",
+      "views": 30467
+    },
+    {
+      "period": "2025",
+      "views": 30467
+    },
+    {
+      "period": "2026",
+      "views": 13284
+    }
+  ]
+}

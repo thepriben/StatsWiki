@@ -4,7 +4,7 @@
   "title": "S.C.U._Torreense",
   "description": "association football club in Portugal",
   "image": "",
-  "total": 105469,
+  "total": 121800,
   "monthly": [
     {
       "period": "2026-05",
@@ -21,12 +21,16 @@
     {
       "period": "2026-10",
       "views": 24080
+    },
+    {
+      "period": "2026-11",
+      "views": 16331
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 105469
+      "views": 121800
     }
   ]
 }

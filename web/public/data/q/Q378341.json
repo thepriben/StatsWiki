@@ -1,0 +1,36 @@
+{
+  "qid": "Q378341",
+  "label": "macaroni and cheese",
+  "title": "Macaroni_and_cheese",
+  "description": "pasta dish",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Macaroni_and_cheese_%281%29.jpg?width=64",
+  "total": 110444,
+  "monthly": [
+    {
+      "period": "2019-03",
+      "views": 16550
+    },
+    {
+      "period": "2023-03",
+      "views": 85191
+    },
+    {
+      "period": "2026-11",
+      "views": 8703
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2019",
+      "views": 16550
+    },
+    {
+      "period": "2023",
+      "views": 85191
+    },
+    {
+      "period": "2026",
+      "views": 8703
+    }
+  ]
+}

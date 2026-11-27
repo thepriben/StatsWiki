@@ -4,7 +4,7 @@
   "title": "NBA_Cup",
   "description": "regular season tournament of the National Basketball Association",
   "image": "",
-  "total": 605362,
+  "total": 613021,
   "monthly": [
     {
       "period": "2024-11",
@@ -33,6 +33,10 @@
     {
       "period": "2026-10",
       "views": 12858
+    },
+    {
+      "period": "2026-11",
+      "views": 7659
     }
   ],
   "yearly": [
@@ -46,7 +50,7 @@
     },
     {
       "period": "2026",
-      "views": 111051
+      "views": 118710
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "qid": "Q847599",
+  "label": "The Last Waltz",
+  "title": "The_Last_Waltz",
+  "description": "1978 concert film by the Band directed by Martin Scorsese",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_Waltz.jpg?width=64",
+  "total": 111654,
+  "monthly": [
+    {
+      "period": "2016-11",
+      "views": 53427
+    },
+    {
+      "period": "2018-09",
+      "views": 15329
+    },
+    {
+      "period": "2023-08",
+      "views": 18924
+    },
+    {
+      "period": "2024-11",
+      "views": 11864
+    },
+    {
+      "period": "2026-11",
+      "views": 12110
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2016",
+      "views": 53427
+    },
+    {
+      "period": "2018",
+      "views": 15329
+    },
+    {
+      "period": "2023",
+      "views": 18924
+    },
+    {
+      "period": "2024",
+      "views": 11864
+    },
+    {
+      "period": "2026",
+      "views": 12110
+    }
+  ]
+}

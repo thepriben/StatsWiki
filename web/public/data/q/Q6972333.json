@@ -1,0 +1,68 @@
+{
+  "qid": "Q6972333",
+  "label": "National Dog Show",
+  "title": "National_Dog_Show",
+  "description": "US television program",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Dog_Show_logo.png?width=64",
+  "total": 88308,
+  "monthly": [
+    {
+      "period": "2017-11",
+      "views": 13232
+    },
+    {
+      "period": "2018-11",
+      "views": 10616
+    },
+    {
+      "period": "2019-11",
+      "views": 15846
+    },
+    {
+      "period": "2021-11",
+      "views": 9185
+    },
+    {
+      "period": "2024-11",
+      "views": 14597
+    },
+    {
+      "period": "2025-11",
+      "views": 15560
+    },
+    {
+      "period": "2026-11",
+      "views": 9272
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2017",
+      "views": 13232
+    },
+    {
+      "period": "2018",
+      "views": 10616
+    },
+    {
+      "period": "2019",
+      "views": 15846
+    },
+    {
+      "period": "2021",
+      "views": 9185
+    },
+    {
+      "period": "2024",
+      "views": 14597
+    },
+    {
+      "period": "2025",
+      "views": 15560
+    },
+    {
+      "period": "2026",
+      "views": 9272
+    }
+  ]
+}

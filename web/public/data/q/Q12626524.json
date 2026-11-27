@@ -2,19 +2,23 @@
   "qid": "Q12626524",
   "label": "Tabancale",
   "title": "Tabancale_language",
-  "description": "Extinct language of Peru and Ecuador",
+  "description": "extinct language of South America",
   "image": "",
-  "total": 8296,
+  "total": 37870,
   "monthly": [
     {
       "period": "2026-08",
       "views": 8296
+    },
+    {
+      "period": "2026-11",
+      "views": 29574
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 8296
+      "views": 37870
     }
   ]
 }

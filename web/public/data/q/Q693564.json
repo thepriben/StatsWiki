@@ -1,0 +1,68 @@
+{
+  "qid": "Q693564",
+  "label": "Kessler syndrome",
+  "title": "Kessler_syndrome",
+  "description": "planetary low-orbit debris hazard",
+  "image": "",
+  "total": 337225,
+  "monthly": [
+    {
+      "period": "2018-11",
+      "views": 12349
+    },
+    {
+      "period": "2019-04",
+      "views": 12736
+    },
+    {
+      "period": "2020-02",
+      "views": 23499
+    },
+    {
+      "period": "2020-08",
+      "views": 11457
+    },
+    {
+      "period": "2020-10",
+      "views": 65237
+    },
+    {
+      "period": "2021-11",
+      "views": 52662
+    },
+    {
+      "period": "2024-12",
+      "views": 151990
+    },
+    {
+      "period": "2026-11",
+      "views": 7295
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2018",
+      "views": 12349
+    },
+    {
+      "period": "2019",
+      "views": 12736
+    },
+    {
+      "period": "2020",
+      "views": 100193
+    },
+    {
+      "period": "2021",
+      "views": 52662
+    },
+    {
+      "period": "2024",
+      "views": 151990
+    },
+    {
+      "period": "2026",
+      "views": 7295
+    }
+  ]
+}

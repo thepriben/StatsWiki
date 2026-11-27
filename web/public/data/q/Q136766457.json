@@ -4,7 +4,7 @@
   "title": "Jumanji:_Open_World",
   "description": "upcoming American film directed by Jake Kasdan",
   "image": "",
-  "total": 157455,
+  "total": 165676,
   "monthly": [
     {
       "period": "2026-04",
@@ -21,12 +21,16 @@
     {
       "period": "2026-10",
       "views": 20745
+    },
+    {
+      "period": "2026-11",
+      "views": 8221
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 157455
+      "views": 165676
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Kyle_Long",
   "description": "American football player (born 1988)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle_long.jpg?width=64",
-  "total": 501539,
+  "total": 514017,
   "monthly": [
     {
       "period": "2015-11",
@@ -61,6 +61,10 @@
     {
       "period": "2026-10",
       "views": 9523
+    },
+    {
+      "period": "2026-11",
+      "views": 12478
     }
   ],
   "yearly": [
@@ -94,7 +98,7 @@
     },
     {
       "period": "2026",
-      "views": 68752
+      "views": 81230
     }
   ]
 }

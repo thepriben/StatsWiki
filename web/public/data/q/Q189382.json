@@ -4,7 +4,7 @@
   "title": "King_Crimson",
   "description": "English progressive rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Crimson_-_Dour_Festival_2003_%2801%29.jpg?width=64",
-  "total": 148832,
+  "total": 159065,
   "monthly": [
     {
       "period": "2016-12",
@@ -33,6 +33,10 @@
     {
       "period": "2026-06",
       "views": 19417
+    },
+    {
+      "period": "2026-11",
+      "views": 10233
     }
   ],
   "yearly": [
@@ -58,7 +62,7 @@
     },
     {
       "period": "2026",
-      "views": 19417
+      "views": 29650
     }
   ]
 }

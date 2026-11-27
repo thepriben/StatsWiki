@@ -4,7 +4,7 @@
   "title": "Ethan_Mbappé",
   "description": "French association football player",
   "image": "",
-  "total": 789881,
+  "total": 798245,
   "monthly": [
     {
       "period": "2022-11",
@@ -69,6 +69,10 @@
     {
       "period": "2026-09",
       "views": 43809
+    },
+    {
+      "period": "2026-11",
+      "views": 8364
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 229751
+      "views": 238115
     }
   ]
 }

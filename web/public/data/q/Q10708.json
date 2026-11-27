@@ -4,7 +4,7 @@
   "title": "Red_Hot_Chili_Peppers",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RHCP_Live_in_London_26_June_2022.jpg?width=64",
-  "total": 5559776,
+  "total": 5570731,
   "monthly": [
     {
       "period": "2015-12",
@@ -189,6 +189,10 @@
     {
       "period": "2026-07",
       "views": 9009
+    },
+    {
+      "period": "2026-11",
+      "views": 10955
     }
   ],
   "yearly": [
@@ -234,7 +238,7 @@
     },
     {
       "period": "2026",
-      "views": 612211
+      "views": 623166
     }
   ]
 }

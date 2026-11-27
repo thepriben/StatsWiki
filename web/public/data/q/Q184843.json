@@ -2,9 +2,9 @@
   "qid": "Q184843",
   "label": "Blade Runner",
   "title": "Blade_Runner",
-  "description": "1982 film by Ridley Scott",
+  "description": "1982 film directed by Ridley Scott",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blade_Runner_box.svg?width=64",
-  "total": 6667763,
+  "total": 6688927,
   "monthly": [
     {
       "period": "2016-01",
@@ -156,7 +156,7 @@
     },
     {
       "period": "2026-11",
-      "views": 24970
+      "views": 46134
     }
   ],
   "yearly": [
@@ -202,7 +202,7 @@
     },
     {
       "period": "2026",
-      "views": 46977
+      "views": 68141
     }
   ]
 }

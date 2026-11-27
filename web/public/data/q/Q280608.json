@@ -1,0 +1,44 @@
+{
+  "qid": "Q280608",
+  "label": "Tom Bombadil",
+  "title": "Tom_Bombadil",
+  "description": "Middle-earth character",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Bombadil_frees_the_Hobbits_from_Old_Man_Willow.jpg?width=64",
+  "total": 524907,
+  "monthly": [
+    {
+      "period": "2021-11",
+      "views": 15644
+    },
+    {
+      "period": "2024-05",
+      "views": 23655
+    },
+    {
+      "period": "2024-09",
+      "views": 419209
+    },
+    {
+      "period": "2024-10",
+      "views": 57734
+    },
+    {
+      "period": "2026-11",
+      "views": 8665
+    }
+  ],
+  "yearly": [
+    {
+      "period": "2021",
+      "views": 15644
+    },
+    {
+      "period": "2024",
+      "views": 500598
+    },
+    {
+      "period": "2026",
+      "views": 8665
+    }
+  ]
+}

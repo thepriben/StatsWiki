@@ -4,7 +4,7 @@
   "title": "Brett_Favre",
   "description": "American football player (born 1969)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brett_Favre_at_Florham_Park_11-7-08_081107-N-2022D-033_crop.jpg?width=64",
-  "total": 4449417,
+  "total": 4457326,
   "monthly": [
     {
       "period": "2015-07",
@@ -285,6 +285,10 @@
     {
       "period": "2026-09",
       "views": 10354
+    },
+    {
+      "period": "2026-11",
+      "views": 7909
     }
   ],
   "yearly": [
@@ -334,7 +338,7 @@
     },
     {
       "period": "2026",
-      "views": 23576
+      "views": 31485
     }
   ]
 }
