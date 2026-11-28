@@ -4,7 +4,7 @@
   "title": "Goo_Goo_Dolls",
   "description": "American rock band",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Goo_goo_dolls_slide.JPG?width=64",
-  "total": 234200,
+  "total": 283646,
   "monthly": [
     {
       "period": "2017-11",
@@ -37,6 +37,10 @@
     {
       "period": "2026-07",
       "views": 9779
+    },
+    {
+      "period": "2026-11",
+      "views": 49446
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 47091
+      "views": 96537
     }
   ]
 }

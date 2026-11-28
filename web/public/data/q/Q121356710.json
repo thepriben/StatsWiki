@@ -4,7 +4,7 @@
   "title": "2027_FIBA_Basketball_World_Cup_qualification_(Asia)",
   "description": "",
   "image": "",
-  "total": 57631,
+  "total": 69310,
   "monthly": [
     {
       "period": "2026-07",
@@ -13,12 +13,16 @@
     {
       "period": "2026-08",
       "views": 34288
+    },
+    {
+      "period": "2026-11",
+      "views": 11679
     }
   ],
   "yearly": [
     {
       "period": "2026",
-      "views": 57631
+      "views": 69310
     }
   ]
 }

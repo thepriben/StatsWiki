@@ -4,7 +4,7 @@
   "title": "Sofía_Vergara",
   "description": "Colombian-American actress and model",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sof%C3%ADa_Vergara_2019_by_Glenn_Francis.jpg?width=64",
-  "total": 12274366,
+  "total": 12283472,
   "monthly": [
     {
       "period": "2015-07",
@@ -405,6 +405,10 @@
     {
       "period": "2026-10",
       "views": 72009
+    },
+    {
+      "period": "2026-11",
+      "views": 9106
     }
   ],
   "yearly": [
@@ -454,7 +458,7 @@
     },
     {
       "period": "2026",
-      "views": 246512
+      "views": 255618
     }
   ]
 }

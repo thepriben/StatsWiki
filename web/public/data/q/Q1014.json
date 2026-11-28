@@ -4,7 +4,7 @@
   "title": "Liberia",
   "description": "sovereign state in West Africa",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberian_Capitol_Building.jpg?width=64",
-  "total": 891221,
+  "total": 899488,
   "monthly": [
     {
       "period": "2016-08",
@@ -101,6 +101,10 @@
     {
       "period": "2026-07",
       "views": 8764
+    },
+    {
+      "period": "2026-11",
+      "views": 8267
     }
   ],
   "yearly": [
@@ -142,7 +146,7 @@
     },
     {
       "period": "2026",
-      "views": 8764
+      "views": 17031
     }
   ]
 }

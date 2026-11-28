@@ -4,7 +4,7 @@
   "title": "Donnie_Wahlberg",
   "description": "American musician, singer, producer and actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donnie_Wahlberg_2010.jpg?width=64",
-  "total": 2730232,
+  "total": 2738695,
   "monthly": [
     {
       "period": "2015-07",
@@ -293,6 +293,10 @@
     {
       "period": "2026-10",
       "views": 29295
+    },
+    {
+      "period": "2026-11",
+      "views": 8463
     }
   ],
   "yearly": [
@@ -342,7 +346,7 @@
     },
     {
       "period": "2026",
-      "views": 132063
+      "views": 140526
     }
   ]
 }

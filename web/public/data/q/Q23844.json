@@ -4,7 +4,7 @@
   "title": "George_Clooney",
   "description": "American-French actor and filmmaker (born 1961)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Clooney.jpg?width=64",
-  "total": 18099271,
+  "total": 18106910,
   "monthly": [
     {
       "period": "2015-07",
@@ -481,6 +481,10 @@
     {
       "period": "2026-10",
       "views": 20942
+    },
+    {
+      "period": "2026-11",
+      "views": 7639
     }
   ],
   "yearly": [
@@ -530,7 +534,7 @@
     },
     {
       "period": "2026",
-      "views": 644020
+      "views": 651659
     }
   ]
 }

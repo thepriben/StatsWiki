@@ -4,7 +4,7 @@
   "title": "Peter_Gabriel",
   "description": "British singer and musician (born 1950)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Gabriel%2C_Denver_2023.jpg?width=64",
-  "total": 357489,
+  "total": 366086,
   "monthly": [
     {
       "period": "2017-09",
@@ -29,6 +29,10 @@
     {
       "period": "2026-08",
       "views": 22535
+    },
+    {
+      "period": "2026-11",
+      "views": 8597
     }
   ],
   "yearly": [
@@ -50,7 +54,7 @@
     },
     {
       "period": "2026",
-      "views": 35353
+      "views": 43950
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Jalen_Ramsey",
   "description": "American football player (born 1994)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jalen_Ramsey_2014.jpg?width=64",
-  "total": 1104425,
+  "total": 1111862,
   "monthly": [
     {
       "period": "2016-04",
@@ -109,6 +109,10 @@
     {
       "period": "2026-10",
       "views": 9610
+    },
+    {
+      "period": "2026-11",
+      "views": 7437
     }
   ],
   "yearly": [
@@ -154,7 +158,7 @@
     },
     {
       "period": "2026",
-      "views": 9610
+      "views": 17047
     }
   ]
 }

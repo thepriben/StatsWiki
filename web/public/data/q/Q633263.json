@@ -4,7 +4,7 @@
   "title": "Terry_Bradshaw",
   "description": "American football player and sports analyst (born 1948)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Terry_Bradshaw.jpg?width=64",
-  "total": 5678047,
+  "total": 5685712,
   "monthly": [
     {
       "period": "2015-09",
@@ -301,6 +301,10 @@
     {
       "period": "2026-10",
       "views": 45592
+    },
+    {
+      "period": "2026-11",
+      "views": 7665
     }
   ],
   "yearly": [
@@ -350,7 +354,7 @@
     },
     {
       "period": "2026",
-      "views": 158977
+      "views": 166642
     }
   ]
 }

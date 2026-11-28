@@ -4,7 +4,7 @@
   "title": "Thom_Evans",
   "description": "Scottish rugby union footballer",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomevans.jpg?width=64",
-  "total": 315438,
+  "total": 325564,
   "monthly": [
     {
       "period": "2016-06",
@@ -61,6 +61,10 @@
     {
       "period": "2026-07",
       "views": 11619
+    },
+    {
+      "period": "2026-11",
+      "views": 10126
     }
   ],
   "yearly": [
@@ -90,7 +94,7 @@
     },
     {
       "period": "2026",
-      "views": 32874
+      "views": 43000
     }
   ]
 }

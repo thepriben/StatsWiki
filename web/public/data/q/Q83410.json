@@ -4,7 +4,7 @@
   "title": "Cary_Grant",
   "description": "British-American actor (1904–1986)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg?width=64",
-  "total": 5850660,
+  "total": 5858746,
   "monthly": [
     {
       "period": "2015-07",
@@ -349,6 +349,10 @@
     {
       "period": "2026-10",
       "views": 12018
+    },
+    {
+      "period": "2026-11",
+      "views": 8086
     }
   ],
   "yearly": [
@@ -398,7 +402,7 @@
     },
     {
       "period": "2026",
-      "views": 107825
+      "views": 115911
     }
   ]
 }

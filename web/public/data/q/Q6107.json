@@ -4,7 +4,7 @@
   "title": "Tupac_Shakur",
   "description": "American rapper and actor (1971–1996)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2pac_edit_cropped_further.jpg?width=64",
-  "total": 57683311,
+  "total": 57695657,
   "monthly": [
     {
       "period": "2015-07",
@@ -537,6 +537,10 @@
     {
       "period": "2026-10",
       "views": 62348
+    },
+    {
+      "period": "2026-11",
+      "views": 12346
     }
   ],
   "yearly": [
@@ -586,7 +590,7 @@
     },
     {
       "period": "2026",
-      "views": 1472102
+      "views": 1484448
     }
   ]
 }

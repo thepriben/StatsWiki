@@ -4,7 +4,7 @@
   "title": "Drishyam_2_(2022_film)",
   "description": "film directed by Abhishek Pathak",
   "image": "",
-  "total": 3607628,
+  "total": 3622909,
   "monthly": [
     {
       "period": "2022-09",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 272670
+    },
+    {
+      "period": "2026-11",
+      "views": 15281
     }
   ],
   "yearly": [
@@ -54,7 +58,7 @@
     },
     {
       "period": "2026",
-      "views": 293772
+      "views": 309053
     }
   ]
 }

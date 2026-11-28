@@ -4,7 +4,7 @@
   "title": "Brian_Schottenheimer",
   "description": "American football coach",
   "image": "",
-  "total": 1203232,
+  "total": 1227984,
   "monthly": [
     {
       "period": "2018-01",
@@ -49,6 +49,10 @@
     {
       "period": "2026-10",
       "views": 42175
+    },
+    {
+      "period": "2026-11",
+      "views": 24752
     }
   ],
   "yearly": [
@@ -74,7 +78,7 @@
     },
     {
       "period": "2026",
-      "views": 71305
+      "views": 96057
     }
   ]
 }

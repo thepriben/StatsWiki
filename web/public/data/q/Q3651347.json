@@ -4,7 +4,7 @@
   "title": "Cameron_Heyward",
   "description": "American football player (born 1989)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameron_Heyward.JPG?width=64",
-  "total": 250598,
+  "total": 261648,
   "monthly": [
     {
       "period": "2021-11",
@@ -45,6 +45,10 @@
     {
       "period": "2026-10",
       "views": 8558
+    },
+    {
+      "period": "2026-11",
+      "views": 11050
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 93204
+      "views": 104254
     }
   ]
 }

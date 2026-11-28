@@ -4,7 +4,7 @@
   "title": "NFL_on_Thanksgiving_Day",
   "description": "National Football League Thanksgiving Day games in the USA",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thanksgiving_2005_-_Falcons_vs._Lions.jpg?width=64",
-  "total": 1172798,
+  "total": 1186352,
   "monthly": [
     {
       "period": "2015-11",
@@ -52,7 +52,7 @@
     },
     {
       "period": "2026-11",
-      "views": 23726
+      "views": 37280
     }
   ],
   "yearly": [
@@ -102,7 +102,7 @@
     },
     {
       "period": "2026",
-      "views": 23726
+      "views": 37280
     }
   ]
 }

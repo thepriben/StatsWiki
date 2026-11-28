@@ -4,7 +4,7 @@
   "title": "Glynis_Johns",
   "description": "British actress (1923–2024)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glynis_Johns_-_still_%28cropped%29.jpg?width=64",
-  "total": 911174,
+  "total": 919064,
   "monthly": [
     {
       "period": "2015-12",
@@ -61,6 +61,10 @@
     {
       "period": "2026-06",
       "views": 11821
+    },
+    {
+      "period": "2026-11",
+      "views": 7890
     }
   ],
   "yearly": [
@@ -102,7 +106,7 @@
     },
     {
       "period": "2026",
-      "views": 11821
+      "views": 19711
     }
   ]
 }

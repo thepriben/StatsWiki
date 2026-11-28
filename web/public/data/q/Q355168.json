@@ -4,7 +4,7 @@
   "title": "Lee_Pace",
   "description": "American actor",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee_Pace_Paris_Fashion_Week_Spring_Summer_2020.jpg?width=64",
-  "total": 941800,
+  "total": 950485,
   "monthly": [
     {
       "period": "2017-04",
@@ -81,6 +81,10 @@
     {
       "period": "2026-09",
       "views": 209060
+    },
+    {
+      "period": "2026-11",
+      "views": 8685
     }
   ],
   "yearly": [
@@ -110,7 +114,7 @@
     },
     {
       "period": "2026",
-      "views": 371182
+      "views": 379867
     }
   ]
 }

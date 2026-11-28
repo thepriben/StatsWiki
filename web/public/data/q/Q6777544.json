@@ -4,7 +4,7 @@
   "title": "Marty_Schottenheimer",
   "description": "American football player and coach",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MartySchottenheimer8-15-2013.jpg?width=64",
-  "total": 713571,
+  "total": 722205,
   "monthly": [
     {
       "period": "2017-10",
@@ -41,6 +41,10 @@
     {
       "period": "2026-09",
       "views": 11567
+    },
+    {
+      "period": "2026-11",
+      "views": 8634
     }
   ],
   "yearly": [
@@ -66,7 +70,7 @@
     },
     {
       "period": "2026",
-      "views": 11567
+      "views": 20201
     }
   ]
 }

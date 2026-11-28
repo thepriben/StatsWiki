@@ -4,7 +4,7 @@
   "title": "Kansas_City_Chiefs",
   "description": "National Football League franchise in Kansas City, Missouri",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kansas_City_Chiefs_wordmark.svg?width=64",
-  "total": 6435862,
+  "total": 6443465,
   "monthly": [
     {
       "period": "2015-09",
@@ -177,6 +177,10 @@
     {
       "period": "2026-09",
       "views": 29598
+    },
+    {
+      "period": "2026-11",
+      "views": 7603
     }
   ],
   "yearly": [
@@ -226,7 +230,7 @@
     },
     {
       "period": "2026",
-      "views": 43377
+      "views": 50980
     }
   ]
 }

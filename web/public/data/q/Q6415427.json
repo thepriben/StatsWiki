@@ -4,7 +4,7 @@
   "title": "Kirk_Ferentz",
   "description": "American football coach (born 1955)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirk_pressconference_orangebowl2010.JPG?width=64",
-  "total": 202119,
+  "total": 211287,
   "monthly": [
     {
       "period": "2019-12",
@@ -41,6 +41,10 @@
     {
       "period": "2026-10",
       "views": 24043
+    },
+    {
+      "period": "2026-11",
+      "views": 9168
     }
   ],
   "yearly": [
@@ -62,7 +66,7 @@
     },
     {
       "period": "2026",
-      "views": 61804
+      "views": 70972
     }
   ]
 }

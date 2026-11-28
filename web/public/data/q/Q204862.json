@@ -4,7 +4,7 @@
   "title": "Dallas_Cowboys",
   "description": "American football team",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Cowboys.svg?width=64",
-  "total": 2351554,
+  "total": 2365111,
   "monthly": [
     {
       "period": "2015-09",
@@ -237,6 +237,10 @@
     {
       "period": "2026-10",
       "views": 20434
+    },
+    {
+      "period": "2026-11",
+      "views": 13557
     }
   ],
   "yearly": [
@@ -286,7 +290,7 @@
     },
     {
       "period": "2026",
-      "views": 45196
+      "views": 58753
     }
   ]
 }

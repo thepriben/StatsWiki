@@ -4,7 +4,7 @@
   "title": "Ronaldo_(Brazilian_footballer)",
   "description": "Brazilian association football player (born 1976)",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/051119SMcC0014.jpg?width=64",
-  "total": 9445326,
+  "total": 9459133,
   "monthly": [
     {
       "period": "2017-03",
@@ -257,6 +257,10 @@
     {
       "period": "2026-10",
       "views": 43653
+    },
+    {
+      "period": "2026-11",
+      "views": 13807
     }
   ],
   "yearly": [
@@ -298,7 +302,7 @@
     },
     {
       "period": "2026",
-      "views": 2037559
+      "views": 2051366
     }
   ]
 }
